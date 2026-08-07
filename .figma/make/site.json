@@ -1,0 +1,10 @@
+{
+  "description": "Transform raw financial data into actionable market intelligence with a sophisticated analytics platform designed for analysts, investors, and professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
