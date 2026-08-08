@@ -448,97 +448,915 @@ function OperationsSection() {
 function BriefingsSection() {
   const ref = useReveal()
 
+  type BriefingPayload = {
+    type: 'takeoff' | 'landing'
+    title: string
+    tagline: string
+    published_at: string
+    briefing: string
+    airspace?: string
+    market_weather?: string
+    closing_weather?: string
+    flight_assessment?: string
+  }
+
+  const [takeoff, setTakeoff] = useState<BriefingPayload | null>(null)
+  const [landing, setLanding] = useState<BriefingPayload | null>(null)
+
+  const [takeoffError, setTakeoffError] = useState(false)
+  const [landingError, setLandingError] = useState(false)
+
+  const [takeoffOpen, setTakeoffOpen] = useState(false)
+  const [landingOpen, setLandingOpen] = useState(false)
+
+  useEffect(() => {
+    let active = true
+
+    const loadBriefings = async () => {
+      try {
+        const response = await fetch(
+          `/briefings/takeoff_latest.json?t=${Date.now()}`,
+          {
+            cache: 'no-store',
+          }
+        )
+
+        if (!response.ok) {
+          throw new Error(
+            `Takeoff briefing request failed: ${response.status}`
+          )
+        }
+
+        const data = await response.json()
+
+        if (active) {
+          setTakeoff(data)
+          setTakeoffError(false)
+        }
+      } catch (error) {
+        console.error(
+          'Unable to load Takeoff Briefing:',
+          error
+        )
+
+        if (active) {
+          setTakeoffError(true)
+        }
+      }
+
+      try {
+        const response = await fetch(
+          `/briefings/landing_latest.json?t=${Date.now()}`,
+          {
+            cache: 'no-store',
+          }
+        )
+
+        if (!response.ok) {
+          throw new Error(
+            `Landing briefing request failed: ${response.status}`
+          )
+        }
+
+        const data = await response.json()
+
+        if (active) {
+          setLanding(data)
+          setLandingError(false)
+        }
+      } catch (error) {
+        console.error(
+          'Unable to load Landing Briefing:',
+          error
+        )
+
+        if (active) {
+          setLandingError(true)
+        }
+      }
+    }
+
+    loadBriefings()
+
+    return () => {
+      active = false
+    }
+  }, [])
+
+  const formatPublished = (
+    value?: string
+  ) => {
+    if (!value) {
+      return 'AWAITING LIVE DATA'
+    }
+
+    const date = new Date(value)
+
+    if (Number.isNaN(date.getTime())) {
+      return value
+    }
+
+    return date.toLocaleString(
+      'en-US',
+      {
+        timeZone: 'America/New_York',
+        month: 'short',
+        day: 'numeric',
+        year: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        timeZoneName: 'short',
+      }
+    )
+  }
+
+  const liveStatus = (
+    payload: BriefingPayload | null,
+    error: boolean
+  ) => {
+    if (error) {
+      return {
+        label: 'FEED UNAVAILABLE',
+        color: '#ffc107',
+      }
+    }
+
+    if (!payload) {
+      return {
+        label: 'LOADING',
+        color: '#ffc107',
+      }
+    }
+
+    return {
+      label: 'LIVE',
+      color: '#00e87a',
+    }
+  }
+
+  const takeoffStatus = liveStatus(
+    takeoff,
+    takeoffError
+  )
+
+  const landingStatus = liveStatus(
+    landing,
+    landingError
+  )
+
   return (
-    <section id="briefings" style={{ padding: '100px 0', background: '#020814', position: 'relative' }}>
-      <div className="hud-grid" style={{ position: 'absolute', inset: 0, opacity: 0.4 }} />
-      <div ref={ref} className="reveal" style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1 }}>
-        <div style={{ textAlign: 'center', marginBottom: 64 }}>
-          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 16 }}>SECTION 03</div>
-          <h2 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 900, fontSize: 'clamp(36px,5vw,64px)', color: 'white' }}>
-            MISSION <span className="text-gradient-cyan">BRIEFINGS</span>
+    <section
+      id="briefings"
+      style={{
+        padding: '100px 0',
+        background: '#020814',
+        position: 'relative',
+      }}
+    >
+      <div
+        className="hud-grid"
+        style={{
+          position: 'absolute',
+          inset: 0,
+          opacity: 0.4,
+        }}
+      />
+
+      <div
+        ref={ref}
+        className="reveal"
+        style={{
+          maxWidth: 1280,
+          margin: '0 auto',
+          padding: '0 24px',
+          position: 'relative',
+          zIndex: 1,
+        }}
+      >
+        <div
+          style={{
+            textAlign: 'center',
+            marginBottom: 64,
+          }}
+        >
+          <div
+            className="section-label"
+            style={{
+              justifyContent: 'center',
+              marginBottom: 16,
+            }}
+          >
+            SECTION 03
+          </div>
+
+          <h2
+            style={{
+              fontFamily: 'Barlow Condensed, sans-serif',
+              fontWeight: 900,
+              fontSize: 'clamp(36px,5vw,64px)',
+              color: 'white',
+            }}
+          >
+            MISSION{' '}
+            <span className="text-gradient-cyan">
+              BRIEFINGS
+            </span>
           </h2>
+
+          <p
+            style={{
+              marginTop: 16,
+              color: 'rgba(226,232,240,0.55)',
+              fontSize: 14,
+              lineHeight: 1.7,
+            }}
+          >
+            Live executive market intelligence from the
+            FlightDeck Operations Center.
+          </p>
         </div>
 
-        {/* Timeline connector */}
-        <div className="briefing-timeline" style={{ display: 'flex', alignItems: 'center', gap: 0, marginBottom: 40, justifyContent: 'center' }}>
-          {['TAKEOFF', 'MARKET SESSION', 'LANDING'].map((label, i) => (
-            <div key={label} style={{ display: 'flex', alignItems: 'center' }}>
-              <div style={{
-                fontFamily: 'JetBrains Mono, monospace', fontSize: 10, fontWeight: 600,
-                color: i === 1 ? 'rgba(226,232,240,0.4)' : (i === 0 ? '#f0177a' : '#00d4e8'),
-                letterSpacing: '0.15em', padding: '6px 16px',
-                border: `1px solid ${i === 1 ? 'rgba(255,255,255,0.1)' : (i === 0 ? 'rgba(240,23,122,0.3)' : 'rgba(0,212,232,0.3)')}`,
-                background: i === 1 ? 'rgba(255,255,255,0.03)' : (i === 0 ? 'rgba(240,23,122,0.08)' : 'rgba(0,212,232,0.08)'),
-              }}>
+        <div
+          className="briefing-timeline"
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 0,
+            marginBottom: 40,
+            justifyContent: 'center',
+          }}
+        >
+          {[
+            'TAKEOFF',
+            'MARKET SESSION',
+            'LANDING',
+          ].map((label, i) => (
+            <div
+              key={label}
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+              }}
+            >
+              <div
+                style={{
+                  fontFamily: 'JetBrains Mono, monospace',
+                  fontSize: 10,
+                  fontWeight: 600,
+                  color:
+                    i === 1
+                      ? 'rgba(226,232,240,0.4)'
+                      : i === 0
+                        ? '#f0177a'
+                        : '#00d4e8',
+                  letterSpacing: '0.15em',
+                  padding: '6px 16px',
+                  border:
+                    `1px solid ${
+                      i === 1
+                        ? 'rgba(255,255,255,0.1)'
+                        : i === 0
+                          ? 'rgba(240,23,122,0.3)'
+                          : 'rgba(0,212,232,0.3)'
+                    }`,
+                  background:
+                    i === 1
+                      ? 'rgba(255,255,255,0.03)'
+                      : i === 0
+                        ? 'rgba(240,23,122,0.08)'
+                        : 'rgba(0,212,232,0.08)',
+                }}
+              >
                 {label}
               </div>
+
               {i < 2 && (
-                <div className="briefing-arrow" style={{ display: 'flex', alignItems: 'center', padding: '0 8px' }}>
-                  <div style={{ height: 1, width: 40, background: 'rgba(255,255,255,0.15)' }} />
-                  <div style={{ borderLeft: '5px solid rgba(255,255,255,0.2)', borderTop: '4px solid transparent', borderBottom: '4px solid transparent' }} />
+                <div
+                  className="briefing-arrow"
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    padding: '0 8px',
+                  }}
+                >
+                  <div
+                    style={{
+                      height: 1,
+                      width: 40,
+                      background:
+                        'rgba(255,255,255,0.15)',
+                    }}
+                  />
+
+                  <div
+                    style={{
+                      borderLeft:
+                        '5px solid rgba(255,255,255,0.2)',
+                      borderTop:
+                        '4px solid transparent',
+                      borderBottom:
+                        '4px solid transparent',
+                    }}
+                  />
                 </div>
               )}
             </div>
           ))}
         </div>
 
-        <div className="briefings-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 24 }}>
-          {/* Takeoff Briefing */}
-          <div className="panel-card" style={{ padding: 0, borderColor: 'rgba(240,23,122,0.25)' }}>
-            <div style={{ borderBottom: '1px solid rgba(240,23,122,0.15)', padding: '20px 28px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <div style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 10, color: '#f0177a', letterSpacing: '0.2em' }}>PRE-MARKET // DAILY</div>
-                <span className="status-dot status-dot-pink" />
+        <div
+          className="briefings-grid"
+          style={{
+            display: 'grid',
+            gridTemplateColumns: '1fr 1fr',
+            gap: 24,
+          }}
+        >
+          {/* TAKEOFF */}
+
+          <div
+            className="panel-card"
+            style={{
+              padding: 0,
+              borderColor:
+                'rgba(240,23,122,0.25)',
+              overflow: 'hidden',
+            }}
+          >
+            <div
+              style={{
+                borderBottom:
+                  '1px solid rgba(240,23,122,0.15)',
+                padding: '20px 28px',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  gap: 16,
+                }}
+              >
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 10,
+                    color: '#f0177a',
+                    letterSpacing: '0.2em',
+                  }}
+                >
+                  PRE-MARKET // DAILY
+                </div>
+
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: 7,
+                  }}
+                >
+                  <span
+                    style={{
+                      width: 7,
+                      height: 7,
+                      borderRadius: '50%',
+                      background: takeoffStatus.color,
+                      boxShadow:
+                        `0 0 10px ${takeoffStatus.color}`,
+                      display: 'inline-block',
+                    }}
+                  />
+
+                  <span
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color: takeoffStatus.color,
+                      letterSpacing: '0.12em',
+                    }}
+                  >
+                    {takeoffStatus.label}
+                  </span>
+                </div>
               </div>
             </div>
+
             <div style={{ padding: 28 }}>
-              <h3 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 800, fontSize: 32, color: 'white', letterSpacing: '0.05em', marginBottom: 4 }}>
+              <h3
+                style={{
+                  fontFamily:
+                    'Barlow Condensed, sans-serif',
+                  fontWeight: 800,
+                  fontSize: 32,
+                  color: 'white',
+                  letterSpacing: '0.05em',
+                  marginBottom: 4,
+                }}
+              >
                 TAKEOFF BRIEFING
               </h3>
-              <div style={{ width: 40, height: 2, background: '#f0177a', marginBottom: 20 }} />
-              <p style={{ fontSize: 14, color: 'rgba(226,232,240,0.7)', lineHeight: 1.7, marginBottom: 24 }}>
-                The pre-market executive intelligence briefing. Delivered before the session opens, it summarizes current market conditions, active signals, opportunities, risk environment, and overall market posture — so you enter the session with a structured view.
+
+              <div
+                style={{
+                  width: 40,
+                  height: 2,
+                  background: '#f0177a',
+                  marginBottom: 20,
+                }}
+              />
+
+              <p
+                style={{
+                  fontSize: 14,
+                  color: 'rgba(226,232,240,0.7)',
+                  lineHeight: 1.7,
+                  marginBottom: 24,
+                }}
+              >
+                The pre-market executive intelligence briefing.
+                FlightDeck evaluates market conditions,
+                qualifying signals, risk, and overall trade
+                posture before the trading session begins.
               </p>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-                {['Market Conditions Overview', 'Active Signal Inventory', 'Opportunity Sectors', 'Risk Environment Assessment', 'Overall Trade Posture'].map(item => (
-                  <div key={item} style={{ display: 'flex', alignItems: 'center', gap: 10, fontFamily: 'JetBrains Mono, monospace', fontSize: 11, color: 'rgba(226,232,240,0.6)' }}>
-                    <div style={{ width: 4, height: 4, background: '#f0177a', flexShrink: 0 }} />
-                    {item}
+
+              <div
+                style={{
+                  border:
+                    '1px solid rgba(240,23,122,0.18)',
+                  background:
+                    'rgba(240,23,122,0.04)',
+                  padding: 18,
+                  marginBottom: 20,
+                }}
+              >
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 9,
+                    color:
+                      'rgba(226,232,240,0.35)',
+                    letterSpacing: '0.15em',
+                    marginBottom: 12,
+                  }}
+                >
+                  LATEST FLIGHT CONDITIONS
+                </div>
+
+                <div style={{ marginBottom: 12 }}>
+                  <div
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color:
+                        'rgba(226,232,240,0.4)',
+                      letterSpacing: '0.12em',
+                      marginBottom: 4,
+                    }}
+                  >
+                    AIRSPACE
                   </div>
-                ))}
+
+                  <div
+                    style={{
+                      fontFamily:
+                        'Barlow Condensed, sans-serif',
+                      fontWeight: 700,
+                      fontSize: 18,
+                      color: '#f0177a',
+                    }}
+                  >
+                    {takeoff?.airspace ??
+                      'Awaiting live intelligence'}
+                  </div>
+                </div>
+
+                <div>
+                  <div
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color:
+                        'rgba(226,232,240,0.4)',
+                      letterSpacing: '0.12em',
+                      marginBottom: 4,
+                    }}
+                  >
+                    MARKET WEATHER
+                  </div>
+
+                  <div
+                    style={{
+                      fontFamily:
+                        'Barlow Condensed, sans-serif',
+                      fontWeight: 700,
+                      fontSize: 18,
+                      color: '#00d4e8',
+                    }}
+                  >
+                    {takeoff?.market_weather ??
+                      'Awaiting live intelligence'}
+                  </div>
+                </div>
               </div>
+
+              <div
+                style={{
+                  fontFamily:
+                    'JetBrains Mono, monospace',
+                  fontSize: 9,
+                  color:
+                    'rgba(226,232,240,0.35)',
+                  letterSpacing: '0.08em',
+                  marginBottom: 18,
+                }}
+              >
+                PUBLISHED:{' '}
+                {formatPublished(
+                  takeoff?.published_at
+                )}
+              </div>
+
+              {takeoffError && (
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 10,
+                    color: '#ffc107',
+                    lineHeight: 1.6,
+                    marginBottom: 18,
+                  }}
+                >
+                  Live Takeoff feed is temporarily unavailable.
+                </div>
+              )}
+
+              <button
+                type="button"
+                onClick={() =>
+                  setTakeoffOpen(!takeoffOpen)
+                }
+                disabled={!takeoff}
+                className="btn-secondary"
+                style={{
+                  width: '100%',
+                  cursor:
+                    takeoff
+                      ? 'pointer'
+                      : 'not-allowed',
+                  fontSize: 11,
+                  opacity:
+                    takeoff
+                      ? 1
+                      : 0.45,
+                }}
+              >
+                {takeoffOpen
+                  ? 'CLOSE BRIEFING'
+                  : 'READ LATEST TAKEOFF'}
+              </button>
+
+              {takeoffOpen &&
+                takeoff?.briefing && (
+                  <div
+                    style={{
+                      marginTop: 20,
+                      borderTop:
+                        '1px solid rgba(240,23,122,0.15)',
+                      paddingTop: 20,
+                    }}
+                  >
+                    <pre
+                      style={{
+                        margin: 0,
+                        whiteSpace: 'pre-wrap',
+                        wordBreak: 'break-word',
+                        fontFamily:
+                          'JetBrains Mono, monospace',
+                        fontSize: 11,
+                        lineHeight: 1.7,
+                        color:
+                          'rgba(226,232,240,0.72)',
+                      }}
+                    >
+                      {takeoff.briefing}
+                    </pre>
+                  </div>
+                )}
             </div>
           </div>
 
-          {/* Landing Briefing */}
-          <div className="panel-card" style={{ padding: 0, borderColor: 'rgba(0,212,232,0.25)' }}>
-            <div style={{ borderBottom: '1px solid rgba(0,212,232,0.15)', padding: '20px 28px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <div style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 10, color: '#00d4e8', letterSpacing: '0.2em' }}>POST-MARKET // DAILY</div>
-                <span className="status-dot status-dot-cyan" />
+          {/* LANDING */}
+
+          <div
+            className="panel-card"
+            style={{
+              padding: 0,
+              borderColor:
+                'rgba(0,212,232,0.25)',
+              overflow: 'hidden',
+            }}
+          >
+            <div
+              style={{
+                borderBottom:
+                  '1px solid rgba(0,212,232,0.15)',
+                padding: '20px 28px',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  gap: 16,
+                }}
+              >
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 10,
+                    color: '#00d4e8',
+                    letterSpacing: '0.2em',
+                  }}
+                >
+                  POST-MARKET // DAILY
+                </div>
+
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: 7,
+                  }}
+                >
+                  <span
+                    style={{
+                      width: 7,
+                      height: 7,
+                      borderRadius: '50%',
+                      background: landingStatus.color,
+                      boxShadow:
+                        `0 0 10px ${landingStatus.color}`,
+                      display: 'inline-block',
+                    }}
+                  />
+
+                  <span
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color: landingStatus.color,
+                      letterSpacing: '0.12em',
+                    }}
+                  >
+                    {landingStatus.label}
+                  </span>
+                </div>
               </div>
             </div>
+
             <div style={{ padding: 28 }}>
-              <h3 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 800, fontSize: 32, color: 'white', letterSpacing: '0.05em', marginBottom: 4 }}>
+              <h3
+                style={{
+                  fontFamily:
+                    'Barlow Condensed, sans-serif',
+                  fontWeight: 800,
+                  fontSize: 32,
+                  color: 'white',
+                  letterSpacing: '0.05em',
+                  marginBottom: 4,
+                }}
+              >
                 LANDING BRIEFING
               </h3>
-              <div style={{ width: 40, height: 2, background: '#00d4e8', marginBottom: 20 }} />
-              <p style={{ fontSize: 14, color: 'rgba(226,232,240,0.7)', lineHeight: 1.7, marginBottom: 24 }}>
-                The post-market intelligence debrief. Issued after the session closes, it documents what happened during the day — major market movements, signal outcomes, key developments, Autopilot results, and what to monitor before the next session.
+
+              <div
+                style={{
+                  width: 40,
+                  height: 2,
+                  background: '#00d4e8',
+                  marginBottom: 20,
+                }}
+              />
+
+              <p
+                style={{
+                  fontSize: 14,
+                  color: 'rgba(226,232,240,0.7)',
+                  lineHeight: 1.7,
+                  marginBottom: 24,
+                }}
+              >
+                The post-market executive debrief. FlightDeck
+                evaluates the closing environment, compares
+                Takeoff with Landing conditions, reviews
+                department intelligence, and prepares
+                tomorrow's radar.
               </p>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-                {['Session Movement Summary', 'Signal Outcome Review', 'Autopilot Performance', 'Notable Market Developments', 'Pre-Market Watch List'].map(item => (
-                  <div key={item} style={{ display: 'flex', alignItems: 'center', gap: 10, fontFamily: 'JetBrains Mono, monospace', fontSize: 11, color: 'rgba(226,232,240,0.6)' }}>
-                    <div style={{ width: 4, height: 4, background: '#00d4e8', flexShrink: 0 }} />
-                    {item}
+
+              <div
+                style={{
+                  border:
+                    '1px solid rgba(0,212,232,0.18)',
+                  background:
+                    'rgba(0,212,232,0.04)',
+                  padding: 18,
+                  marginBottom: 20,
+                }}
+              >
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 9,
+                    color:
+                      'rgba(226,232,240,0.35)',
+                    letterSpacing: '0.15em',
+                    marginBottom: 12,
+                  }}
+                >
+                  LATEST LANDING CONDITIONS
+                </div>
+
+                <div style={{ marginBottom: 12 }}>
+                  <div
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color:
+                        'rgba(226,232,240,0.4)',
+                      letterSpacing: '0.12em',
+                      marginBottom: 4,
+                    }}
+                  >
+                    CLOSING WEATHER
                   </div>
-                ))}
+
+                  <div
+                    style={{
+                      fontFamily:
+                        'Barlow Condensed, sans-serif',
+                      fontWeight: 700,
+                      fontSize: 18,
+                      color: '#00d4e8',
+                    }}
+                  >
+                    {landing?.closing_weather ??
+                      'Awaiting live intelligence'}
+                  </div>
+                </div>
+
+                <div>
+                  <div
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color:
+                        'rgba(226,232,240,0.4)',
+                      letterSpacing: '0.12em',
+                      marginBottom: 4,
+                    }}
+                  >
+                    FLIGHT ASSESSMENT
+                  </div>
+
+                  <div
+                    style={{
+                      fontFamily:
+                        'Barlow Condensed, sans-serif',
+                      fontWeight: 700,
+                      fontSize: 18,
+                      color: '#f0177a',
+                    }}
+                  >
+                    {landing?.flight_assessment ??
+                      'Awaiting live intelligence'}
+                  </div>
+                </div>
               </div>
+
+              <div
+                style={{
+                  fontFamily:
+                    'JetBrains Mono, monospace',
+                  fontSize: 9,
+                  color:
+                    'rgba(226,232,240,0.35)',
+                  letterSpacing: '0.08em',
+                  marginBottom: 18,
+                }}
+              >
+                PUBLISHED:{' '}
+                {formatPublished(
+                  landing?.published_at
+                )}
+              </div>
+
+              {landingError && (
+                <div
+                  style={{
+                    fontFamily:
+                      'JetBrains Mono, monospace',
+                    fontSize: 10,
+                    color: '#ffc107',
+                    lineHeight: 1.6,
+                    marginBottom: 18,
+                  }}
+                >
+                  Live Landing feed is temporarily unavailable.
+                </div>
+              )}
+
+              <button
+                type="button"
+                onClick={() =>
+                  setLandingOpen(!landingOpen)
+                }
+                disabled={!landing}
+                className="btn-secondary"
+                style={{
+                  width: '100%',
+                  cursor:
+                    landing
+                      ? 'pointer'
+                      : 'not-allowed',
+                  fontSize: 11,
+                  opacity:
+                    landing
+                      ? 1
+                      : 0.45,
+                }}
+              >
+                {landingOpen
+                  ? 'CLOSE BRIEFING'
+                  : 'READ LATEST LANDING'}
+              </button>
+
+              {landingOpen &&
+                landing?.briefing && (
+                  <div
+                    style={{
+                      marginTop: 20,
+                      borderTop:
+                        '1px solid rgba(0,212,232,0.15)',
+                      paddingTop: 20,
+                    }}
+                  >
+                    <pre
+                      style={{
+                        margin: 0,
+                        whiteSpace: 'pre-wrap',
+                        wordBreak: 'break-word',
+                        fontFamily:
+                          'JetBrains Mono, monospace',
+                        fontSize: 11,
+                        lineHeight: 1.7,
+                        color:
+                          'rgba(226,232,240,0.72)',
+                      }}
+                    >
+                      {landing.briefing}
+                    </pre>
+                  </div>
+                )}
             </div>
           </div>
         </div>
-      </div>
 
+        <div
+          style={{
+            marginTop: 24,
+            padding: '12px 16px',
+            border:
+              '1px solid rgba(0,212,232,0.1)',
+            background:
+              'rgba(0,212,232,0.025)',
+            fontFamily:
+              'JetBrains Mono, monospace',
+            fontSize: 9,
+            lineHeight: 1.6,
+            color:
+              'rgba(226,232,240,0.35)',
+            letterSpacing: '0.06em',
+            textAlign: 'center',
+          }}
+        >
+          LIVE BRIEFING DATA // GENERATED BY FLIGHTDECK
+          OPERATIONS CENTER // INFORMATIONAL AND EDUCATIONAL
+          USE ONLY
+        </div>
+      </div>
     </section>
   )
 }
