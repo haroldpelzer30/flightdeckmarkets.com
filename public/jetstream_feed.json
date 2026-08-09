@@ -15,7 +15,6 @@
       "intelligence_score": 52,
       "published_at": "2026-08-09T15:40:16",
       "first_seen_at": "2026-08-09T16:08:30.741668",
-      "last_updated_at": "2026-08-09T16:12:01.625313",
       "assets": [
         {
           "symbol": "EURK",
@@ -71,7 +70,6 @@
       "intelligence_score": 48,
       "published_at": "2026-08-09T14:47:09",
       "first_seen_at": "2026-08-09T16:08:30.975009",
-      "last_updated_at": "2026-08-09T16:12:01.853449",
       "assets": [
         {
           "symbol": "AVGO",
@@ -155,7 +153,6 @@
       "intelligence_score": 50,
       "published_at": "2026-08-09T14:10:49",
       "first_seen_at": "2026-08-09T16:08:31.234579",
-      "last_updated_at": "2026-08-09T16:12:02.139177",
       "assets": [
         {
           "symbol": "CROX",
@@ -203,7 +200,6 @@
       "intelligence_score": 50,
       "published_at": "2026-08-09T13:07:50",
       "first_seen_at": "2026-08-09T14:54:12.750797",
-      "last_updated_at": "2026-08-09T16:12:02.346997",
       "assets": [
         {
           "symbol": "CABO",
@@ -247,7 +243,6 @@
       "intelligence_score": 59,
       "published_at": "2026-08-09T12:10:37",
       "first_seen_at": "2026-08-09T14:54:12.941750",
-      "last_updated_at": "2026-08-09T15:00:37.491944",
       "assets": [
         {
           "symbol": "CENT",
@@ -299,7 +294,6 @@
       "intelligence_score": 81,
       "published_at": "2026-08-09T11:36:29",
       "first_seen_at": "2026-08-09T14:50:12.971784",
-      "last_updated_at": "2026-08-09T15:00:37.710872",
       "assets": [
         {
           "symbol": "D",
