@@ -2,8 +2,196 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 3,
+  "event_count": 6,
   "events": [
+    {
+      "event_id": 11,
+      "title": "Eureka Acquisition Corp Releases Q2 2024 10-Q Report",
+      "summary": "Eureka Acquisition Corp (EURK), a blank check company, has released its Q2 2024 10-Q report, detailing a net loss of $29,349 for the quarter and $113,248 for the nine months ended June 30, 2024. The company completed its IPO in July 2024, raising $50 million, and has until July 3, 2025 (with potential extensions) to complete a business combination, with management actively seeking acquisition targets in Asia. The report highlights a working capital deficiency and going concern considerations if a business combination is not completed within the specified timeframe.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-09T15:40:16",
+      "first_seen_at": "2026-08-09T16:08:30.741668",
+      "last_updated_at": "2026-08-09T16:08:30.741668",
+      "assets": [
+        {
+          "symbol": "EURK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.045914,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948368
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.849263
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": 0.800154
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725137
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.64637
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 11,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "Eureka Acquisition Corp Releases Q2 2024 10-Q Report",
+          "url": "https://www.tradingview.com/news/tradingview:8ab7f1d704296:0-eureka-acquisition-corp-releases-q2-2024-10-q-report/",
+          "published_at": "2026-08-09T15:40:16"
+        }
+      ]
+    },
+    {
+      "event_id": 12,
+      "title": "US-China AI War: Inside the Battle for Global Tech Dominance",
+      "summary": "The U.S. and China are engaged in a fierce competition for global AI dominance, encompassing military superiority, tech stack leadership, cybersecurity, and semiconductor advancements. Recent accusations of Chinese firm Moonshot AI stealing U.S. technology for its Kimi K3 model highlight the tension, while debates over open-source AI and domestic public resistance to data center construction add layers of complexity to America's strategy. Despite public skepticism, significant capital expenditure continues to fuel the U.S. effort to out-build China's AI infrastructure.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-09T14:47:09",
+      "first_seen_at": "2026-08-09T16:08:30.975009",
+      "last_updated_at": "2026-08-09T16:08:30.975009",
+      "assets": [
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.317136,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.944925,
+          "sentiment_score": -0.317408,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.732706,
+          "sentiment_score": -0.34599,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.712355,
+          "sentiment_score": -0.328967,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.616625,
+          "sentiment_score": 0.216328,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 0.92581
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.830418
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.747824
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.643669
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 12,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "US-China AI War: Inside the Battle for Global Tech Dominance",
+          "url": "https://www.benzinga.com/markets/tech/26/08/61063847/us-china-ai-war-inside-the-battle-for-global-tech-dominance",
+          "published_at": "2026-08-09T14:47:09"
+        }
+      ]
+    },
+    {
+      "event_id": 13,
+      "title": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
+      "summary": "Crocs recently reported strong Q2 2026 results with sales of US$1,179.47 million and net income of US$204.89 million, leading to a 6.7% stock increase. The company also upgraded its full-year guidance and expanded its share repurchase program to US$5.21 billion. This shift to profitability and significant buyback authorization are central to re-evaluating Crocs' investment narrative, especially considering risks like fickle fashion trends.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-09T14:10:49",
+      "first_seen_at": "2026-08-09T16:08:31.234579",
+      "last_updated_at": "2026-08-09T16:08:31.234579",
+      "assets": [
+        {
+          "symbol": "CROX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405216,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948859
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.821818
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.724195
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 13,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-crox-6-7-earnings-141103105.html",
+          "published_at": "2026-08-09T14:10:49"
+        }
+      ]
+    },
     {
       "event_id": 2,
       "title": "Cable One, Inc. Reported A Surprise Loss, And Analysts Have Updated Their Forecasts",
@@ -15,13 +203,13 @@
       "intelligence_score": 50,
       "published_at": "2026-08-09T13:07:50",
       "first_seen_at": "2026-08-09T14:54:12.750797",
-      "last_updated_at": "2026-08-09T15:00:37.304190",
+      "last_updated_at": "2026-08-09T16:08:31.436357",
       "assets": [
         {
           "symbol": "CABO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.430315,
+          "sentiment_score": -0.425918,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -29,7 +217,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.906793
+          "relevance_score": 0.907133
         },
         {
           "topic": "financial_markets",
