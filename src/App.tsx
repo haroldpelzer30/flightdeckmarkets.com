@@ -32,6 +32,7 @@ function Nav() {
     { label: 'Home', href: '#hero' },
     { label: 'Operations', href: '#operations' },
     { label: 'Briefings', href: '#briefings' },
+    { label: 'JET STREAM', href: '#jet-stream' },
     { label: 'Autopilot', href: '#autopilot' },
     { label: 'Flight Logs', href: '#flight-logs' },
     { label: 'About', href: '#about' },
@@ -1361,6 +1362,608 @@ function BriefingsSection() {
   )
 }
 
+
+// ── Section: JET STREAM ────────────────────────────────────────────────────────
+function JetStreamSection() {
+  const ref = useReveal()
+
+  type JetStreamAsset = {
+    symbol: string
+    asset_class?: string | null
+    relevance_score?: number | null
+    sentiment_score?: number | null
+    sentiment_label?: string | null
+  }
+
+  type JetStreamArticle = {
+    article_id: number
+    provider: string
+    source?: string | null
+    source_domain?: string | null
+    headline: string
+    url: string
+    published_at?: string | null
+  }
+
+  type JetStreamEvent = {
+    event_id: number
+    title: string
+    summary?: string | null
+    event_type?: string | null
+    market_scope?: string | null
+    market_impact?: string | null
+    importance?: string | null
+    intelligence_score?: number | null
+    published_at?: string | null
+    assets: JetStreamAsset[]
+    articles: JetStreamArticle[]
+  }
+
+  type JetStreamPayload = {
+    product: string
+    descriptor: string
+    tagline: string
+    event_count: number
+    events: JetStreamEvent[]
+  }
+
+  const [feed, setFeed] = useState<JetStreamPayload | null>(null)
+  const [error, setError] = useState(false)
+
+  useEffect(() => {
+    let active = true
+
+    const loadJetStream = async () => {
+      try {
+        const response = await fetch(
+          `/jetstream_feed.json?t=${Date.now()}`,
+          {
+            cache: 'no-store',
+          }
+        )
+
+        if (!response.ok) {
+          throw new Error(
+            `JET STREAM request failed: ${response.status}`
+          )
+        }
+
+        const data = await response.json()
+
+        if (active) {
+          setFeed(data)
+          setError(false)
+        }
+      } catch (err) {
+        console.error(
+          'Unable to load JET STREAM:',
+          err
+        )
+
+        if (active) {
+          setError(true)
+        }
+      }
+    }
+
+    loadJetStream()
+
+    return () => {
+      active = false
+    }
+  }, [])
+
+  const formatPublished = (value?: string | null) => {
+    if (!value) return 'AWAITING LIVE DATA'
+
+    const date = new Date(value)
+
+    if (Number.isNaN(date.getTime())) {
+      return value
+    }
+
+    return date.toLocaleString(
+      'en-US',
+      {
+        timeZone: 'America/New_York',
+        month: 'short',
+        day: 'numeric',
+        year: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        timeZoneName: 'short',
+      }
+    )
+  }
+
+  const impactColor = (impact?: string | null) => {
+    switch (impact) {
+      case 'BULLISH':
+        return '#00e87a'
+      case 'BEARISH':
+        return '#f0177a'
+      case 'MIXED':
+        return '#ffc107'
+      default:
+        return '#00d4e8'
+    }
+  }
+
+  const importanceColor = (
+    importance?: string | null
+  ) => {
+    switch (importance) {
+      case 'CRITICAL':
+        return '#f0177a'
+      case 'HIGH':
+        return '#ffc107'
+      case 'MEDIUM':
+        return '#00d4e8'
+      default:
+        return 'rgba(226,232,240,0.5)'
+    }
+  }
+
+  const events = feed?.events ?? []
+
+  return (
+    <section
+      id="jet-stream"
+      style={{
+        padding: '100px 0',
+        background:
+          'linear-gradient(180deg, #020814 0%, #050d1f 50%, #020814 100%)',
+        position: 'relative',
+      }}
+    >
+      <div
+        className="hud-grid-fine"
+        style={{
+          position: 'absolute',
+          inset: 0,
+          opacity: 0.45,
+        }}
+      />
+
+      <div
+        ref={ref}
+        className="reveal"
+        style={{
+          maxWidth: 1280,
+          margin: '0 auto',
+          padding: '0 24px',
+          position: 'relative',
+          zIndex: 1,
+        }}
+      >
+        <div
+          style={{
+            textAlign: 'center',
+            marginBottom: 56,
+          }}
+        >
+          <div
+            className="section-label"
+            style={{
+              justifyContent: 'center',
+              marginBottom: 16,
+            }}
+          >
+            SECTION 04
+          </div>
+
+          <h2
+            style={{
+              fontFamily:
+                'Barlow Condensed, sans-serif',
+              fontWeight: 900,
+              fontSize:
+                'clamp(42px,6vw,72px)',
+              color: 'white',
+              lineHeight: 1,
+            }}
+          >
+            JET{' '}
+            <span className="text-gradient-pink">
+              STREAM
+            </span>
+          </h2>
+
+          <p
+            style={{
+              marginTop: 14,
+              fontFamily:
+                'JetBrains Mono, monospace',
+              fontSize: 12,
+              letterSpacing: '0.14em',
+              color: '#00d4e8',
+            }}
+          >
+            REAL-TIME MARKET INTELLIGENCE
+          </p>
+
+          <p
+            style={{
+              margin:
+                '18px auto 0',
+              maxWidth: 680,
+              color:
+                'rgba(226,232,240,0.6)',
+              fontSize: 14,
+              lineHeight: 1.7,
+            }}
+          >
+            Live market events filtered,
+            classified, scored, and converted
+            into structured FlightDeck
+            intelligence.
+          </p>
+        </div>
+
+        <div
+          className="panel-card"
+          style={{
+            padding: '16px 20px',
+            marginBottom: 24,
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            gap: 16,
+            flexWrap: 'wrap',
+          }}
+        >
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: 10,
+            }}
+          >
+            <span
+              style={{
+                width: 8,
+                height: 8,
+                borderRadius: '50%',
+                display: 'inline-block',
+                background: error
+                  ? '#ffc107'
+                  : feed
+                    ? '#00e87a'
+                    : '#ffc107',
+                boxShadow: error
+                  ? '0 0 10px #ffc107'
+                  : feed
+                    ? '0 0 10px #00e87a'
+                    : '0 0 10px #ffc107',
+              }}
+            />
+
+            <span
+              style={{
+                fontFamily:
+                  'JetBrains Mono, monospace',
+                fontSize: 10,
+                letterSpacing: '0.14em',
+                color: error
+                  ? '#ffc107'
+                  : feed
+                    ? '#00e87a'
+                    : '#ffc107',
+              }}
+            >
+              {error
+                ? 'FEED UNAVAILABLE'
+                : feed
+                  ? 'JET STREAM LIVE'
+                  : 'LOADING INTELLIGENCE'}
+            </span>
+          </div>
+
+          <div
+            style={{
+              fontFamily:
+                'JetBrains Mono, monospace',
+              fontSize: 10,
+              letterSpacing: '0.1em',
+              color:
+                'rgba(226,232,240,0.4)',
+            }}
+          >
+            PUBLISHED EVENTS // {feed?.event_count ?? 0}
+          </div>
+        </div>
+
+        {error && (
+          <div
+            className="panel-card"
+            style={{
+              padding: 24,
+              color: '#ffc107',
+              fontFamily:
+                'JetBrains Mono, monospace',
+              fontSize: 11,
+              marginBottom: 24,
+            }}
+          >
+            JET STREAM intelligence feed is
+            temporarily unavailable.
+          </div>
+        )}
+
+        {!error && !feed && (
+          <div
+            className="panel-card"
+            style={{
+              padding: 40,
+              textAlign: 'center',
+              color:
+                'rgba(226,232,240,0.45)',
+              fontFamily:
+                'JetBrains Mono, monospace',
+              fontSize: 11,
+            }}
+          >
+            ACQUIRING MARKET INTELLIGENCE...
+          </div>
+        )}
+
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateColumns:
+              'repeat(auto-fit, minmax(300px, 1fr))',
+            gap: 20,
+          }}
+        >
+          {events.map(event => {
+            const impact =
+              impactColor(
+                event.market_impact
+              )
+
+            const importance =
+              importanceColor(
+                event.importance
+              )
+
+            return (
+              <article
+                key={event.event_id}
+                className="panel-card"
+                style={{
+                  padding: 0,
+                  overflow: 'hidden',
+                  borderColor:
+                    `${impact}35`,
+                }}
+              >
+                <div
+                  style={{
+                    padding:
+                      '14px 18px',
+                    borderBottom:
+                      `1px solid ${impact}25`,
+                    display: 'flex',
+                    justifyContent:
+                      'space-between',
+                    alignItems: 'center',
+                    gap: 12,
+                    flexWrap: 'wrap',
+                  }}
+                >
+                  <div
+                    style={{
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color: impact,
+                      letterSpacing:
+                        '0.14em',
+                    }}
+                  >
+                    {event.event_type ??
+                      'MARKET NEWS'}
+                    {' // '}
+                    {event.market_impact ??
+                      'NEUTRAL'}
+                  </div>
+
+                  <div
+                    style={{
+                      display: 'flex',
+                      gap: 8,
+                      alignItems:
+                        'center',
+                    }}
+                  >
+                    <span
+                      style={{
+                        fontFamily:
+                          'JetBrains Mono, monospace',
+                        fontSize: 9,
+                        color: importance,
+                        letterSpacing:
+                          '0.1em',
+                      }}
+                    >
+                      {event.importance ??
+                        'LOW'}
+                    </span>
+
+                    <span
+                      style={{
+                        fontFamily:
+                          'JetBrains Mono, monospace',
+                        fontSize: 9,
+                        color:
+                          'rgba(226,232,240,0.4)',
+                      }}
+                    >
+                      SCORE{' '}
+                      {event.intelligence_score ??
+                        '—'}
+                    </span>
+                  </div>
+                </div>
+
+                <div
+                  style={{
+                    padding: 22,
+                  }}
+                >
+                  <h3
+                    style={{
+                      fontFamily:
+                        'Barlow Condensed, sans-serif',
+                      fontWeight: 800,
+                      fontSize: 24,
+                      lineHeight: 1.15,
+                      color: 'white',
+                      marginBottom: 14,
+                    }}
+                  >
+                    {event.title}
+                  </h3>
+
+                  {event.summary && (
+                    <p
+                      style={{
+                        fontSize: 13,
+                        lineHeight: 1.7,
+                        color:
+                          'rgba(226,232,240,0.65)',
+                        marginBottom: 18,
+                      }}
+                    >
+                      {event.summary}
+                    </p>
+                  )}
+
+                  {event.assets?.length > 0 && (
+                    <div
+                      style={{
+                        display: 'flex',
+                        gap: 7,
+                        flexWrap: 'wrap',
+                        marginBottom: 18,
+                      }}
+                    >
+                      {event.assets.map(
+                        asset => (
+                          <span
+                            key={
+                              asset.symbol
+                            }
+                            style={{
+                              fontFamily:
+                                'JetBrains Mono, monospace',
+                              fontSize: 10,
+                              color: impact,
+                              border:
+                                `1px solid ${impact}35`,
+                              background:
+                                `${impact}10`,
+                              padding:
+                                '4px 8px',
+                            }}
+                          >
+                            {asset.symbol}
+                          </span>
+                        )
+                      )}
+                    </div>
+                  )}
+
+                  <div
+                    style={{
+                      display: 'flex',
+                      justifyContent:
+                        'space-between',
+                      gap: 12,
+                      flexWrap: 'wrap',
+                      fontFamily:
+                        'JetBrains Mono, monospace',
+                      fontSize: 9,
+                      color:
+                        'rgba(226,232,240,0.35)',
+                      lineHeight: 1.6,
+                    }}
+                  >
+                    <span>
+                      {formatPublished(
+                        event.published_at
+                      )}
+                    </span>
+
+                    <span>
+                      {event.market_scope ??
+                        'GENERAL_MARKET'}
+                    </span>
+                  </div>
+
+                  {event.articles?.[0]?.url && (
+                    <a
+                      href={
+                        event.articles[0]
+                          .url
+                      }
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        display:
+                          'inline-block',
+                        marginTop: 16,
+                        fontFamily:
+                          'JetBrains Mono, monospace',
+                        fontSize: 10,
+                        color: '#00d4e8',
+                        textDecoration:
+                          'none',
+                        letterSpacing:
+                          '0.08em',
+                      }}
+                    >
+                      SOURCE //{' '}
+                      {event.articles[0]
+                        .source ??
+                        'MARKET FEED'}
+                      {' ↗'}
+                    </a>
+                  )}
+                </div>
+              </article>
+            )
+          })}
+        </div>
+
+        <div
+          style={{
+            marginTop: 24,
+            padding: '12px 16px',
+            border:
+              '1px solid rgba(0,212,232,0.1)',
+            background:
+              'rgba(0,212,232,0.025)',
+            fontFamily:
+              'JetBrains Mono, monospace',
+            fontSize: 9,
+            lineHeight: 1.6,
+            color:
+              'rgba(226,232,240,0.35)',
+            letterSpacing: '0.06em',
+            textAlign: 'center',
+          }}
+        >
+          JET STREAM // AUTOMATED MARKET
+          INTELLIGENCE // INFORMATIONAL AND
+          EDUCATIONAL USE ONLY
+        </div>
+      </div>
+    </section>
+  )
+}
+
+
 // ── Section: Autopilot ────────────────────────────────────────────────────────
 function AutopilotSection() {
   const ref = useReveal()
@@ -1385,7 +1988,7 @@ function AutopilotSection() {
       <div ref={ref} className="reveal" style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1 }}>
         <div className="autopilot-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, alignItems: 'start' }}>
           <div>
-            <div className="section-label" style={{ marginBottom: 20 }}>SECTION 04</div>
+            <div className="section-label" style={{ marginBottom: 20 }}>SECTION 05</div>
             <h2 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 900, fontSize: 'clamp(36px,5vw,64px)', color: 'white', lineHeight: 1, marginBottom: 16 }}>
               FLIGHTDECK<br /><span className="text-gradient-pink">AUTOPILOT</span>
             </h2>
@@ -1495,7 +2098,7 @@ function FlightLogsSection() {
       <div className="hud-grid" style={{ position: 'absolute', inset: 0, opacity: 0.3 }} />
       <div ref={ref} className="reveal" style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1 }}>
         <div style={{ textAlign: 'center', marginBottom: 48 }}>
-          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 16 }}>SECTION 05</div>
+          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 16 }}>SECTION 06</div>
           <h2 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 900, fontSize: 'clamp(36px,5vw,64px)', color: 'white' }}>
             FLIGHT <span className="text-gradient-cyan">LOGS</span>
           </h2>
@@ -1607,7 +2210,7 @@ function HowItWorksSection() {
     <section id="how" style={{ padding: '100px 0', background: 'linear-gradient(180deg, #050d1f, #020814)', position: 'relative' }}>
       <div ref={ref} className="reveal" style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ textAlign: 'center', marginBottom: 64 }}>
-          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 16 }}>SECTION 06</div>
+          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 16 }}>SECTION 07</div>
           <h2 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 900, fontSize: 'clamp(36px,5vw,64px)', color: 'white' }}>
             FROM RAW DATA TO<br /><span className="text-gradient-pink">MARKET INTELLIGENCE</span>
           </h2>
@@ -1679,7 +2282,7 @@ function HireSection() {
 
           {/* Content */}
           <div>
-            <div className="section-label" style={{ marginBottom: 20 }}>SECTION 07</div>
+            <div className="section-label" style={{ marginBottom: 20 }}>SECTION 08</div>
 
             {/* Visually hidden h2 for SEO heading hierarchy */}
             <h2 style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>
@@ -1736,7 +2339,7 @@ function AboutSection() {
       <div className="hud-grid" style={{ position: 'absolute', inset: 0, opacity: 0.3 }} />
       <div ref={ref} className="reveal" style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1 }}>
         <div style={{ maxWidth: 800, margin: '0 auto', textAlign: 'center' }}>
-          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 20 }}>SECTION 08</div>
+          <div className="section-label" style={{ justifyContent: 'center', marginBottom: 20 }}>SECTION 09</div>
           <h2 style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 900, fontSize: 'clamp(36px,5vw,64px)', color: 'white', marginBottom: 32 }}>
             THE <span className="text-gradient-cyan">MISSION</span>
           </h2>
@@ -1830,6 +2433,7 @@ function Footer() {
             {[
               { label: 'Operations', href: '#operations' },
               { label: 'Briefings', href: '#briefings' },
+              { label: 'JET STREAM', href: '#jet-stream' },
               { label: 'Autopilot', href: '#autopilot' },
               { label: 'Flight Logs', href: '#flight-logs' },
               { label: 'About', href: '#about' },
@@ -1903,6 +2507,7 @@ export default function App() {
       <PlatformSection />
       <OperationsSection />
       <BriefingsSection />
+      <JetStreamSection />
       <AutopilotSection />
       <FlightLogsSection />
       <HowItWorksSection />
