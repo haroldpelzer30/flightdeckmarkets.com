@@ -2,8 +2,59 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 9,
+  "event_count": 10,
   "events": [
+    {
+      "event_id": 30,
+      "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate",
+      "summary": "Archer Aviation Inc. will acquire Boeing's Wisk Aero, SkyGrid, and Insitu subsidiaries, creating an end-to-end physical AI platform for aerospace and defense. This deal integrates Wisk's eVTOL expertise, SkyGrid's air traffic management, and Insitu's UAS technologies with Archer's AI platform, ZEE. Boeing will invest in Archer, retaining access to Wisk's autonomous flight technology, and collaborate on future innovations while focusing on its core businesses.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-10T12:05:19",
+      "first_seen_at": "2026-08-10T13:00:02.768384",
+      "assets": [
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.393688,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.9202
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.702288
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.620861
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 30,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Boeing",
+          "source_domain": "Boeing",
+          "headline": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero-Insitu-and-SkyGrid-Subsidiaries-Boeing-to-Invest-in-Archer-and-Collaborate/default.aspx",
+          "published_at": "2026-08-10T12:05:19"
+        }
+      ]
+    },
     {
       "event_id": 27,
       "title": "American Electric Power Co Inc's Dividend Analysis",
