@@ -2,8 +2,71 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 13,
+  "event_count": 14,
   "events": [
+    {
+      "event_id": 34,
+      "title": "Clorox expects $200M inflation hit, supply chain costs a factor",
+      "summary": "Clorox anticipates a significant inflation impact of over $200 million this year, primarily driven by rising energy, commodity, and supplier costs, alongside increased trucking, ocean freight, and logistics expenses. The company plans to implement price increases on some products, including Glad trash bags, to offset these pressures, which are proving more persistent than initially expected. Clorox's gross margin for the current fiscal year is projected to be around 42%, a slight decrease from the previous year, reflecting these inflationary challenges.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 75,
+      "published_at": "2026-08-10T14:34:51",
+      "first_seen_at": "2026-08-10T16:00:02.670813",
+      "assets": [
+        {
+          "symbol": "CLX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.448565,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MKC",
+          "asset_class": null,
+          "relevance_score": 0.615718,
+          "sentiment_score": -0.308835,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94967
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.819024
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.729784
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.721384
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.644258
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 34,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Supply Chain Dive",
+          "source_domain": "Supply Chain Dive",
+          "headline": "Clorox expects $200M inflation hit, supply chain costs a factor",
+          "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
+          "published_at": "2026-08-10T14:34:51"
+        }
+      ]
+    },
     {
       "event_id": 32,
       "title": "Martin Marietta Materials receives regulatory approvals for Lhoist North America acquisition",
