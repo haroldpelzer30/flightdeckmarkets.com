@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 55,
+      "title": "As another week of heat settles in, Duke Energy rate hike heads back before regulators",
+      "summary": "Duke Energy is returning before state regulators to defend its proposed rate hike amidst a week of high temperatures driving up cooling costs. The North Carolina Utilities Commission will begin evidentiary hearings for Duke Energy Progress's rate case, which includes a proposed settlement reducing the original rate increase request by more than half, potentially leading to an average annual increase of 3.4% over two years. The hearings will also address who should bear the costs of electric grid upgrades for large new customers like data centers and how the company's recent strong profits factor into the rate increase justification.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 64,
+      "published_at": "2026-08-10T22:04:44",
+      "first_seen_at": "2026-08-10T23:00:02.265115",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.201412,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.93647
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914582
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.820494
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.738851
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.649115
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 56,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WRAL",
+          "source_domain": "WRAL",
+          "headline": "As another week of heat settles in, Duke Energy rate hike heads back before regulators",
+          "url": "https://www.wral.com/news/local/duke-energy-rate-hike-back-beofre-regulators-another-hot-week-august-2026/",
+          "published_at": "2026-08-10T22:04:44"
+        }
+      ]
+    },
+    {
       "event_id": 54,
       "title": "Sempra — Owner of SDG&E — Made $800 Million in Profits 2nd Quarter — While 1 in 5 of Their Customers Are Behind Average of $500 in Bills",
       "summary": "Sempra, the parent company of SDG&E, reported nearly $800 million in profits for the second quarter of 2026, a significant increase from the previous year. This financial success comes as many San Diego utility customers struggle, with nearly one in five SDG&E customers behind an average of $500 on their bills. Environmental and community groups rallied against these high utility costs, calling on local and state leaders to intervene and address the affordability crisis.",
@@ -1163,57 +1218,6 @@
           "headline": "Chevron Corp Stock (CVX) Moved Up by 3.25% on Aug 10: A Full Analysis",
           "url": "https://www.tradingkey.com/news/market-movers/262093056-market-movers-cvx-20260810",
           "published_at": "2026-08-10T15:14:53"
-        }
-      ]
-    },
-    {
-      "event_id": 37,
-      "title": "Why Union Pacific (NYSE:UNP) Cross-Border Rail Pact Matters for Freight Flows?",
-      "summary": "Union Pacific is strengthening its position with expanded customer protections and a new cross-border agreement with Canadian rail partners. This pact is expected to significantly influence North American freight flows, particularly as reshoring trends drive industrial growth. The article highlights the importance of reliable rail service for manufacturers and provides insights into Union Pacific's ongoing merger review and its impact on the industrial sector.",
-      "event_type": "M&A",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 73,
-      "published_at": "2026-08-10T15:09:33",
-      "first_seen_at": "2026-08-10T17:00:02.761762",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.335272,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.922382
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.909052
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.806622
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.724257
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 37,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Union Pacific (NYSE:UNP) Cross-Border Rail Pact Matters for Freight Flows?",
-          "url": "https://kalkinemedia.com/us/stocks/industrial/why-union-pacific-nyseunp-cross-border-rail-pact-matters-for-freight-flows",
-          "published_at": "2026-08-10T15:09:33"
         }
       ]
     }
