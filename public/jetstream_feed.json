@@ -2,8 +2,161 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 6,
+  "event_count": 9,
   "events": [
+    {
+      "event_id": 27,
+      "title": "American Electric Power Co Inc's Dividend Analysis",
+      "summary": "American Electric Power Co Inc (AEP) announced a dividend of $0.95 per share, payable on September 10, 2026, with an ex-dividend date of August 10, 2026. The company has a strong history of consistent dividend payments since 1986 and has increased its dividend annually since 2004, earning it a \"dividend achiever\" status. AEP's dividend sustainability is supported by a healthy payout ratio of 0.64, strong profitability, and robust growth metrics in revenue and earnings per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-10T11:02:07",
+      "first_seen_at": "2026-08-10T12:00:02.873700",
+      "assets": [
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.453964,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921882
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.902821
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.849765
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.800831
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612672
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 27,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "American Electric Power Co Inc's Dividend Analysis",
+          "url": "https://ca.finance.yahoo.com/news/american-electric-power-co-incs-110145019.html",
+          "published_at": "2026-08-10T11:02:07"
+        }
+      ]
+    },
+    {
+      "event_id": 28,
+      "title": "Sapient Capital LLC Buys 4,254 Shares of Valero Energy Corporation $VLO",
+      "summary": "Sapient Capital LLC increased its stake in Valero Energy Corporation (NYSE:VLO) by 12.4% in the second quarter, acquiring an additional 4,254 shares to hold a total of 38,615 shares valued at approximately $10.1 million. Institutional investors collectively own 78.69% of VLO, and analysts maintain a \"Moderate Buy\" rating with an average price target of $288. Valero reported strong Q2 earnings of $12.54 per share and revenue of $44.48 billion, also declaring a quarterly dividend of $1.20 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-10T10:43:49",
+      "first_seen_at": "2026-08-10T12:00:03.156068",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.256839,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937213
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913533
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.833187
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 28,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Sapient Capital LLC Buys 4,254 Shares of Valero Energy Corporation $VLO",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-sapient-capital-llc-buys-4254-shares-of-valero-energy-corporation-vlo-2026-08-10/",
+          "published_at": "2026-08-10T10:43:49"
+        }
+      ]
+    },
+    {
+      "event_id": 29,
+      "title": "Matrix Trust Co Makes New $1.25 Million Investment in ONEOK, Inc. $OKE",
+      "summary": "Matrix Trust Co. has made a new $1.25 million investment in ONEOK, Inc. (NYSE:OKE), acquiring 14,321 shares during the second quarter. Institutional investors now hold 69.13% of the company, which maintains a \"Moderate Buy\" consensus rating and an average price target of $91.81 from analysts. ONEOK exceeded its quarterly earnings expectations and declared a quarterly dividend of $1.07, representing a 5.0% annualized yield.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-10T10:43:22",
+      "first_seen_at": "2026-08-10T12:00:03.396176",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.421706,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941346
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.729711
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.639698
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 29,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Matrix Trust Co Makes New $1.25 Million Investment in ONEOK, Inc. $OKE",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-trust-co-makes-new-125-million-investment-in-oneok-inc-oke-2026-08-10/",
+          "published_at": "2026-08-10T10:43:22"
+        }
+      ]
+    },
     {
       "event_id": 11,
       "title": "Eureka Acquisition Corp Releases Q2 2024 10-Q Report",
