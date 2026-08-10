@@ -2,8 +2,181 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 14,
+  "event_count": 17,
   "events": [
+    {
+      "event_id": 35,
+      "title": "Huntington Bank: Manufacturing Data on ‘3 Things We Learned’",
+      "summary": "Huntington Bank's Director of Equity Research, Randy Hare, discussed \"The Three Things We Learned This Week,\" focusing on strong manufacturing data, record copper prices driven by demand, and new all-time highs for stocks. This information is part of a regular blog series by Huntington Bank officials.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-10T15:18:46",
+      "first_seen_at": "2026-08-10T17:00:02.201450",
+      "assets": [
+        {
+          "symbol": "HBAN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.453887,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942582
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.915434
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.843754
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.839479
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 35,
+          "provider": "ALPHA_VANTAGE",
+          "source": "RVBusiness",
+          "source_domain": "RVBusiness",
+          "headline": "Huntington Bank: Manufacturing Data on ‘3 Things We Learned’",
+          "url": "https://rvbusiness.com/huntington-bank-manufacturing-data-on-3-things-we-learned/?utm_source=rss&utm_medium=rss&utm_campaign=huntington-bank-manufacturing-data-on-3-things-we-learned",
+          "published_at": "2026-08-10T15:18:46"
+        }
+      ]
+    },
+    {
+      "event_id": 36,
+      "title": "Chevron Corp Stock (CVX) Moved Up by 3.25% on Aug 10: A Full Analysis",
+      "summary": "Chevron Corp (CVX) saw its stock rise by 3.25% on August 10, outperforming the Energy - Fossil Fuels sector. This increase is attributed to a strong global energy demand outlook, restricted supply, and increased production in the Permian Basin. Institutional investors are also drawn to Chevron's strong balance sheet, capital discipline, share buyback program, and dividend history, contributing to its upward momentum despite some company-specific risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-10T15:14:53",
+      "first_seen_at": "2026-08-10T17:00:02.464141",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.427432,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.732099,
+          "sentiment_score": 0.306032,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.707881,
+          "sentiment_score": 0.342161,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933499
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.802988
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.705214
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.626559
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.615842
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 36,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Chevron Corp Stock (CVX) Moved Up by 3.25% on Aug 10: A Full Analysis",
+          "url": "https://www.tradingkey.com/news/market-movers/262093056-market-movers-cvx-20260810",
+          "published_at": "2026-08-10T15:14:53"
+        }
+      ]
+    },
+    {
+      "event_id": 37,
+      "title": "Why Union Pacific (NYSE:UNP) Cross-Border Rail Pact Matters for Freight Flows?",
+      "summary": "Union Pacific is strengthening its position with expanded customer protections and a new cross-border agreement with Canadian rail partners. This pact is expected to significantly influence North American freight flows, particularly as reshoring trends drive industrial growth. The article highlights the importance of reliable rail service for manufacturers and provides insights into Union Pacific's ongoing merger review and its impact on the industrial sector.",
+      "event_type": "M&A",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 73,
+      "published_at": "2026-08-10T15:09:33",
+      "first_seen_at": "2026-08-10T17:00:02.761762",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.335272,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.922382
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.909052
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.806622
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.724257
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 37,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Union Pacific (NYSE:UNP) Cross-Border Rail Pact Matters for Freight Flows?",
+          "url": "https://kalkinemedia.com/us/stocks/industrial/why-union-pacific-nyseunp-cross-border-rail-pact-matters-for-freight-flows",
+          "published_at": "2026-08-10T15:09:33"
+        }
+      ]
+    },
     {
       "event_id": 34,
       "title": "Clorox expects $200M inflation hit, supply chain costs a factor",
