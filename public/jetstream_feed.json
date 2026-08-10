@@ -2,8 +2,55 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 10,
+  "event_count": 11,
   "events": [
+    {
+      "event_id": 31,
+      "title": "ICE Mortgage Monitor: Mortgage Holder Equity Climbs to Record $18 Trillion as Annual Home Price Growth Reaches 14-Month High",
+      "summary": "The latest ICE Mortgage Monitor Report indicates that mortgage holder equity has reached a record $18 trillion, with annual home price growth hitting a 14-month high in July. This growth is attributed to lower interest rates earlier in 2026, boosting demand and home appreciation. Despite overall strong equity, approximately 813,000 borrowers, particularly those with FHA/VA loans or recent purchases in Texas and Florida, are still underwater.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-10T13:00:13",
+      "first_seen_at": "2026-08-10T14:00:02.243714",
+      "assets": [
+        {
+          "symbol": "ICE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.347275,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.938065
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.740725
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 31,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "ICE Mortgage Monitor: Mortgage Holder Equity Climbs to Record $18 Trillion as Annual Home Price Growth Reaches 14-Month High",
+          "url": "https://sg.finance.yahoo.com/news/ice-mortgage-monitor-mortgage-holder-130000638.html",
+          "published_at": "2026-08-10T13:00:13"
+        }
+      ]
+    },
     {
       "event_id": 30,
       "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate",
