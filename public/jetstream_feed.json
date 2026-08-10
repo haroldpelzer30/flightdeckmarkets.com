@@ -2,8 +2,87 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 17,
+  "event_count": 18,
   "events": [
+    {
+      "event_id": 38,
+      "title": "Uber Technologies Inc Stock (UBER) Moved Up by 3.20% on Aug 10: Key Drivers Unveiled",
+      "summary": "Uber Technologies Inc (UBER) stock rose by 3.20% on August 10th, driven by strong mobility demand, strategic progress in autonomous vehicle integration, and the expansion of its high-margin delivery advertising business. Analysts maintain \"Buy\" ratings with an average price target of $102.61, indicating confidence in Uber's asset-light approach to autonomous technology and its transition to a consistent free cash flow generator despite regulatory and competitive risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-10T16:15:44",
+      "first_seen_at": "2026-08-10T18:00:02.165650",
+      "assets": [
+        {
+          "symbol": "UBER",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.58845,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.612182,
+          "sentiment_score": 0.244721,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.611399,
+          "sentiment_score": 0.138062,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.605368,
+          "sentiment_score": 0.222463,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940916
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92203
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.825399
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.744827
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.725657
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 38,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Uber Technologies Inc Stock (UBER) Moved Up by 3.20% on Aug 10: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262093150-market-movers-uber-20260810",
+          "published_at": "2026-08-10T16:15:44"
+        }
+      ]
+    },
     {
       "event_id": 35,
       "title": "Huntington Bank: Manufacturing Data on ‘3 Things We Learned’",
