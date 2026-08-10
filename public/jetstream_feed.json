@@ -5,6 +5,452 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 47,
+      "title": "Teledyne Technologies Acquires Varex Imaging in $1.1 Billion Deal",
+      "summary": "Teledyne Technologies is set to acquire Varex Imaging Corporation in an all-cash deal valued at approximately $1.1 billion. This acquisition aims to strengthen Teledyne’s position in advanced X-ray imaging technology, particularly in medical and industrial markets, by integrating Varex's complementary product lines without significant overlap. The transaction, unanimously approved by both boards, is expected to close in early 2027, subject to regulatory and shareholder approvals.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-10T19:24:00",
+      "first_seen_at": "2026-08-10T21:00:02.149470",
+      "assets": [
+        {
+          "symbol": "TDY",
+          "asset_class": null,
+          "relevance_score": 0.975567,
+          "sentiment_score": 0.427973,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.923793
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.807531
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.709963
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 47,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Eurasia Business News",
+          "source_domain": "Eurasia Business News",
+          "headline": "Teledyne Technologies Acquires Varex Imaging in $1.1 Billion Deal",
+          "url": "https://eurasiabusinessnews.com/2026/08/10/teledyne-technologies-acquires-varex-imaging-in-1-1-billion-deal/",
+          "published_at": "2026-08-10T19:24:00"
+        }
+      ]
+    },
+    {
+      "event_id": 48,
+      "title": "Phillips 66 Stock (PSX) Moved Up by 5.00% on Aug 10: What Signal Does It Send?",
+      "summary": "Phillips 66 (PSX) stock rose 5.00% on August 10, driven by its strategic transformation plan, divestiture of non-core midstream assets, and strong refining margins in key regions. Analysts have revised price targets upward due to successful cost-savings and improved future earnings visibility. Despite some technical sell signals, the overall market sentiment for PSX remains positive, with institutional investors showing increased interest in the company's operational leverage and shareholder-friendly capital allocation.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-10T19:15:45",
+      "first_seen_at": "2026-08-10T21:00:02.459193",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.499887,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.607971,
+          "sentiment_score": 0.374398,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.605961,
+          "sentiment_score": 0.33054,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.60532,
+          "sentiment_score": 0.302103,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947889
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.930454
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80358
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604245
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 48,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Phillips 66 Stock (PSX) Moved Up by 5.00% on Aug 10: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262093386-market-movers-psx-20260810",
+          "published_at": "2026-08-10T19:15:45"
+        }
+      ]
+    },
+    {
+      "event_id": 49,
+      "title": "Newmont Corporation Stock (NEM) Moved Up by 3.05% on Aug 10: Key Drivers Unveiled",
+      "summary": "Newmont Corporation (NEM) stock rose by 3.05% on August 10th, primarily driven by a broad rally in the precious metals sector, shifting macroeconomic expectations, and a weakening U.S. dollar. The company's portfolio optimization strategy, including divestiture of non-core assets, and a disciplined approach to shareholder returns are also contributing to positive investor sentiment. Analysts maintain a \"Buy\" consensus with an average price target of $131.73, despite some company-specific risks like elevated All-In Sustaining Costs and operational underperformance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-10T19:15:32",
+      "first_seen_at": "2026-08-10T21:00:02.757692",
+      "assets": [
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.532633,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901378
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.809534
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.74281
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.630839
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 49,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Newmont Corporation Stock (NEM) Moved Up by 3.05% on Aug 10: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262093387-market-movers-nem-20260810",
+          "published_at": "2026-08-10T19:15:32"
+        }
+      ]
+    },
+    {
+      "event_id": 51,
+      "title": "Marathon Petroleum Corp Stock (MPC) Moved Up by 6.15% on Aug 10: A Full Analysis",
+      "summary": "Marathon Petroleum Corp (MPC) saw its stock price increase by 6.15% on August 10th, driven by strong quarterly results that surpassed expectations, robust refining margins, and an expanded share repurchase program. The company also benefited from favorable broader industry conditions, including widening crack spreads, and positive adjustments to analyst price targets. Technical indicators are mixed, with MACD and RSI suggesting neutrality, while Williams %R indicates a sell condition.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-10T19:15:27",
+      "first_seen_at": "2026-08-10T21:00:03.295485",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.643047,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.624822,
+          "sentiment_score": 0.279398,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.612845,
+          "sentiment_score": 0.272054,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.610048,
+          "sentiment_score": 0.27486,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.916154
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902472
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.819735
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 51,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Marathon Petroleum Corp Stock (MPC) Moved Up by 6.15% on Aug 10: A Full Analysis",
+          "url": "https://www.tradingkey.com/news/market-movers/262093385-market-movers-mpc-20260810",
+          "published_at": "2026-08-10T19:15:27"
+        }
+      ]
+    },
+    {
+      "event_id": 50,
+      "title": "Altria Group Inc Stock (MO) Moved Down by 3.99% on Aug 10: What Signal Does It Send?",
+      "summary": "Altria Group Inc (MO) stock fell by 3.99% due to heightened regulatory uncertainty from potential FDA nicotine caps, increased competitive pressure in smoke-free segments, and macroeconomic factors like rising Treasury yields and persistent inflation. These issues are challenging Altria's core revenue, its transition to a smoke-free portfolio, and its ability to maintain dividend attractiveness and pricing strategy amidst consumer spending concerns. Technical indicators show a sell signal and oversold conditions, while fundamental analysis highlights industry ranking and analyst ratings.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-10T19:15:27",
+      "first_seen_at": "2026-08-10T21:00:03.006270",
+      "assets": [
+        {
+          "symbol": "MO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.604032,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KO",
+          "asset_class": null,
+          "relevance_score": 0.647347,
+          "sentiment_score": -0.13372,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PEP",
+          "asset_class": null,
+          "relevance_score": 0.636926,
+          "sentiment_score": -0.104785,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915612
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.805317
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.71573
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.610888
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.602718
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 50,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Altria Group Inc Stock (MO) Moved Down by 3.99% on Aug 10: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262093388-market-movers-mo-20260810",
+          "published_at": "2026-08-10T19:15:27"
+        }
+      ]
+    },
+    {
+      "event_id": 52,
+      "title": "HTZ Stock Slides As Lawsuits, Dilution And Delisting Collide",
+      "summary": "Hertz Global Holdings Inc. (HTZ) stock has fallen over 4.6% due to mounting restructuring challenges, including a securities class action lawsuit alleging misrepresentation of liquidity and used-car market weakness. The company announced a $300M secured notes deal and share lending, while warning of soft used-car prices, which triggered a significant share-price drop and led to analyst downgrades. HTZ will also be removed from the S&P SmallCap 600, increasing selling pressure and creating a volatile trading environment.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-10T19:11:07",
+      "first_seen_at": "2026-08-10T21:00:03.547294",
+      "assets": [
+        {
+          "symbol": "HTZ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.617319,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.946496
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.805688
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.739523
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.628358
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.615476
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 52,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "HTZ Stock Slides As Lawsuits, Dilution And Delisting Collide",
+          "url": "https://stockstotrade.com/news/hertz-global-holdings-inc-htz-news-2026_08_10/",
+          "published_at": "2026-08-10T19:11:07"
+        }
+      ]
+    },
+    {
+      "event_id": 53,
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for BorgWarner (NYSE:BWA) Stock Price",
+      "summary": "JPMorgan Chase & Co. has raised its price target for BorgWarner (NYSE:BWA) to $85 from $75, maintaining an \"overweight\" rating and suggesting a 21.66% upside. This positive forecast follows BorgWarner's strong quarterly earnings, where it beat estimates for both EPS and revenue. The company also announced a $1 billion share repurchase program, indicating management's belief that the stock is undervalued, despite recent insider share sales.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-10T19:08:13",
+      "first_seen_at": "2026-08-10T21:00:03.803809",
+      "assets": [
+        {
+          "symbol": "HWM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.530172,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.849768,
+          "sentiment_score": 0.265427,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938359
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.720416
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.637818
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.625045
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 54,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "JPMorgan Chase & Co. Issues Positive Forecast for Howmet Aerospace (NYSE:HWM) Stock Price",
+          "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-howmet-aerospace-nysehwm-stock-price-2026-08-10/",
+          "published_at": "2026-08-10T19:06:17"
+        },
+        {
+          "article_id": 53,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "JPMorgan Chase & Co. Issues Positive Forecast for BorgWarner (NYSE:BWA) Stock Price",
+          "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-borgwarner-nysebwa-stock-price-2026-08-10/",
+          "published_at": "2026-08-10T19:08:13"
+        }
+      ]
+    },
+    {
       "event_id": 43,
       "title": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
       "summary": "Yum China Holdings has completed its $1.2 billion acquisition of the Pizza Hut brand ownership in Mainland China from Yum! Brands. This acquisition, announced on June 16, 2026, is expected to provide greater strategic flexibility, eliminate a 3% license fee, and significantly boost Pizza Hut's restaurant and operating profit margins, aiming for a payback period of two to three years for new stores. The company plans to accelerate new Pizza Hut openings to over 800 annually in 2027 and 2028, up from 600, and expects the deal to be accretive to diluted EPS.",
@@ -776,379 +1222,6 @@
           "headline": "Clorox expects $200M inflation hit, supply chain costs a factor",
           "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
           "published_at": "2026-08-10T14:34:51"
-        }
-      ]
-    },
-    {
-      "event_id": 32,
-      "title": "Martin Marietta Materials receives regulatory approvals for Lhoist North America acquisition",
-      "summary": "Martin Marietta Materials Inc. announced it has received all necessary regulatory approvals for its acquisition of Lhoist North America, Inc. The $33 billion company expects to close the transaction in the third quarter of 2026, despite its stock trading near its 52-week low. The company's recent SEC filing detailed the regulatory clearance and included financial statements for Lhoist North America, while Martin Marietta itself recently exceeded Q2 profit and revenue expectations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-10T13:33:05",
-      "first_seen_at": "2026-08-10T15:00:02.530731",
-      "assets": [
-        {
-          "symbol": "MLM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.344242,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.914922
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.831631
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.739398
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.614411
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.606905
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 32,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Martin Marietta Materials receives regulatory approvals for Lhoist North America acquisition",
-          "url": "https://www.investing.com/news/sec-filings/martin-marietta-materials-receives-regulatory-approvals-for-lhoist-north-america-acquisition-93CH-4849441",
-          "published_at": "2026-08-10T13:33:05"
-        }
-      ]
-    },
-    {
-      "event_id": 33,
-      "title": "ConocoPhillips CEO Ryan Lance retiring, Andy O'Brien to take over",
-      "summary": "ConocoPhillips CEO Ryan Lance is retiring after 14 years, with CFO Andy O'Brien set to take over on September 1. This leadership change comes as the company aims to achieve a $7 billion free cash flow target by 2029, largely dependent on the Willow oil project in Alaska. The announcement coincided with ConocoPhillips reporting its strongest quarterly profit since 2022.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-10T13:18:41",
-      "first_seen_at": "2026-08-10T15:00:02.801654",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426797,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.64355,
-          "sentiment_score": 0.128216,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 0.639908,
-          "sentiment_score": 0.148467,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.940206
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932336
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.846965
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733148
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 33,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quartz",
-          "source_domain": "Quartz",
-          "headline": "ConocoPhillips CEO Ryan Lance retiring, Andy O'Brien to take over",
-          "url": "https://qz.com/conocophillips-ceo-ryan-lance-retiring-andy-obrien-081026",
-          "published_at": "2026-08-10T13:18:41"
-        }
-      ]
-    },
-    {
-      "event_id": 31,
-      "title": "ICE Mortgage Monitor: Mortgage Holder Equity Climbs to Record $18 Trillion as Annual Home Price Growth Reaches 14-Month High",
-      "summary": "The latest ICE Mortgage Monitor Report indicates that mortgage holder equity has reached a record $18 trillion, with annual home price growth hitting a 14-month high in July. This growth is attributed to lower interest rates earlier in 2026, boosting demand and home appreciation. Despite overall strong equity, approximately 813,000 borrowers, particularly those with FHA/VA loans or recent purchases in Texas and Florida, are still underwater.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-10T13:00:13",
-      "first_seen_at": "2026-08-10T14:00:02.243714",
-      "assets": [
-        {
-          "symbol": "ICE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.347275,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.938065
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.740725
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 31,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "ICE Mortgage Monitor: Mortgage Holder Equity Climbs to Record $18 Trillion as Annual Home Price Growth Reaches 14-Month High",
-          "url": "https://sg.finance.yahoo.com/news/ice-mortgage-monitor-mortgage-holder-130000638.html",
-          "published_at": "2026-08-10T13:00:13"
-        }
-      ]
-    },
-    {
-      "event_id": 30,
-      "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate",
-      "summary": "Archer Aviation Inc. will acquire Boeing's Wisk Aero, SkyGrid, and Insitu subsidiaries, creating an end-to-end physical AI platform for aerospace and defense. This deal integrates Wisk's eVTOL expertise, SkyGrid's air traffic management, and Insitu's UAS technologies with Archer's AI platform, ZEE. Boeing will invest in Archer, retaining access to Wisk's autonomous flight technology, and collaborate on future innovations while focusing on its core businesses.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-10T12:05:19",
-      "first_seen_at": "2026-08-10T13:00:02.768384",
-      "assets": [
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.393688,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.9202
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.702288
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.620861
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 30,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Boeing",
-          "source_domain": "Boeing",
-          "headline": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate",
-          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero-Insitu-and-SkyGrid-Subsidiaries-Boeing-to-Invest-in-Archer-and-Collaborate/default.aspx",
-          "published_at": "2026-08-10T12:05:19"
-        }
-      ]
-    },
-    {
-      "event_id": 27,
-      "title": "American Electric Power Co Inc's Dividend Analysis",
-      "summary": "American Electric Power Co Inc (AEP) announced a dividend of $0.95 per share, payable on September 10, 2026, with an ex-dividend date of August 10, 2026. The company has a strong history of consistent dividend payments since 1986 and has increased its dividend annually since 2004, earning it a \"dividend achiever\" status. AEP's dividend sustainability is supported by a healthy payout ratio of 0.64, strong profitability, and robust growth metrics in revenue and earnings per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-10T11:02:07",
-      "first_seen_at": "2026-08-10T12:00:02.873700",
-      "assets": [
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.453964,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.921882
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.902821
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.849765
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.800831
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.612672
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 27,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "American Electric Power Co Inc's Dividend Analysis",
-          "url": "https://ca.finance.yahoo.com/news/american-electric-power-co-incs-110145019.html",
-          "published_at": "2026-08-10T11:02:07"
-        }
-      ]
-    },
-    {
-      "event_id": 28,
-      "title": "Sapient Capital LLC Buys 4,254 Shares of Valero Energy Corporation $VLO",
-      "summary": "Sapient Capital LLC increased its stake in Valero Energy Corporation (NYSE:VLO) by 12.4% in the second quarter, acquiring an additional 4,254 shares to hold a total of 38,615 shares valued at approximately $10.1 million. Institutional investors collectively own 78.69% of VLO, and analysts maintain a \"Moderate Buy\" rating with an average price target of $288. Valero reported strong Q2 earnings of $12.54 per share and revenue of $44.48 billion, also declaring a quarterly dividend of $1.20 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-10T10:43:49",
-      "first_seen_at": "2026-08-10T12:00:03.156068",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.256839,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937213
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913533
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.833187
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 28,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Sapient Capital LLC Buys 4,254 Shares of Valero Energy Corporation $VLO",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-sapient-capital-llc-buys-4254-shares-of-valero-energy-corporation-vlo-2026-08-10/",
-          "published_at": "2026-08-10T10:43:49"
-        }
-      ]
-    },
-    {
-      "event_id": 29,
-      "title": "Matrix Trust Co Makes New $1.25 Million Investment in ONEOK, Inc. $OKE",
-      "summary": "Matrix Trust Co. has made a new $1.25 million investment in ONEOK, Inc. (NYSE:OKE), acquiring 14,321 shares during the second quarter. Institutional investors now hold 69.13% of the company, which maintains a \"Moderate Buy\" consensus rating and an average price target of $91.81 from analysts. ONEOK exceeded its quarterly earnings expectations and declared a quarterly dividend of $1.07, representing a 5.0% annualized yield.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-10T10:43:22",
-      "first_seen_at": "2026-08-10T12:00:03.396176",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421706,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941346
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.729711
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.639698
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 29,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Matrix Trust Co Makes New $1.25 Million Investment in ONEOK, Inc. $OKE",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-trust-co-makes-new-125-million-investment-in-oneok-inc-oke-2026-08-10/",
-          "published_at": "2026-08-10T10:43:22"
         }
       ]
     }
