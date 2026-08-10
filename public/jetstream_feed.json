@@ -5,6 +5,242 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 43,
+      "title": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
+      "summary": "Yum China Holdings has completed its $1.2 billion acquisition of the Pizza Hut brand ownership in Mainland China from Yum! Brands. This acquisition, announced on June 16, 2026, is expected to provide greater strategic flexibility, eliminate a 3% license fee, and significantly boost Pizza Hut's restaurant and operating profit margins, aiming for a payback period of two to three years for new stores. The company plans to accelerate new Pizza Hut openings to over 800 annually in 2027 and 2028, up from 600, and expects the deal to be accretive to diluted EPS.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-10T18:31:43",
+      "first_seen_at": "2026-08-10T20:00:02.324720",
+      "assets": [
+        {
+          "symbol": "YUM",
+          "asset_class": null,
+          "relevance_score": 0.899672,
+          "sentiment_score": -0.118283,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929142
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.840022
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 43,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pulse 2.0",
+          "source_domain": "Pulse 2.0",
+          "headline": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
+          "url": "https://pulse2.com/yum-china-completes-1-2-billion-acquisition-of-pizza-hut-brand-in-mainland-china/",
+          "published_at": "2026-08-10T18:31:43"
+        }
+      ]
+    },
+    {
+      "event_id": 44,
+      "title": "Valero Energy Corp Stock (VLO) Moved Up by 5.32% on Aug 10: Facts Behind the Movement",
+      "summary": "Valero Energy Corp (VLO) saw its stock price increase by 5.32% on August 10th, driven by widening refining margins and tight global product inventories. The company's strong free cash flow, shareholder return programs, and optimistic analyst revisions are supporting this bullish market sentiment, despite inherent risks from geopolitical instability and crude oil price fluctuations. Technical indicators are mixed, with MACD and RSI suggesting neutrality, while Williams %R indicates a sell condition.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-10T18:15:36",
+      "first_seen_at": "2026-08-10T20:00:02.559417",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.420575,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.638068,
+          "sentiment_score": 0.303866,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.606591,
+          "sentiment_score": 0.334116,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.915056
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912536
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.824586
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.725868
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 44,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Valero Energy Corp Stock (VLO) Moved Up by 5.32% on Aug 10: Facts Behind the Movement",
+          "url": "https://www.tradingkey.com/news/market-movers/262093303-market-movers-vlo-20260810",
+          "published_at": "2026-08-10T18:15:36"
+        }
+      ]
+    },
+    {
+      "event_id": 45,
+      "title": "P&G analysts react to $3.8 billion Thorne acquisition, company’s outlook",
+      "summary": "Analysts have responded to Procter & Gamble Co.'s announcement of a $3.8 billion acquisition of supplements maker Thorne and its guidance for fiscal 2027. The article promises to detail these reactions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-10T18:12:59",
+      "first_seen_at": "2026-08-10T20:00:02.894083",
+      "assets": [
+        {
+          "symbol": "PG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.331795,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.918984
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.810415
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 45,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "P&G analysts react to $3.8 billion Thorne acquisition, company’s outlook",
+          "url": "https://www.bizjournals.com/cincinnati/news/2026/08/10/p-g-analysts-react-to-acquisition-company-outlook.html",
+          "published_at": "2026-08-10T18:12:59"
+        }
+      ]
+    },
+    {
+      "event_id": 46,
+      "title": "CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started",
+      "summary": "Oil prices have seen significant volatility in 2026, boosting major U.S. oil companies like Chevron (CVX), Exxon Mobil (XOM), and Occidental Petroleum (OXY). These companies have consistently beaten earnings expectations, fueled by factors such as commodity tailwinds, increasing AI-driven energy demand, LNG expansion, and strong shareholder returns through buybacks and deleveraging. Analysts are setting bull-case targets of $225 for CVX, $180 for XOM, and $75 for OXY, suggesting substantial upside potential for these stocks.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-10T18:00:49",
+      "first_seen_at": "2026-08-10T20:00:03.138665",
+      "assets": [
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.980948,
+          "sentiment_score": 0.510481,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.862335,
+          "sentiment_score": 0.501782,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.815227,
+          "sentiment_score": 0.481162,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.642595,
+          "sentiment_score": 0.114712,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.572409,
+          "sentiment_score": 0.144398,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922104
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.917511
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.838183
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 46,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started",
+          "url": "https://247wallst.com/investing/2026/08/10/cvx-oxy-xom-the-next-big-move-in-oil-could-be-just-getting-started/",
+          "published_at": "2026-08-10T18:00:49"
+        }
+      ]
+    },
+    {
       "event_id": 39,
       "title": "Amid Yen Intervention, This Japan ETF Thrived",
       "summary": "The WisdomTree Japan Hedged Equity Fund (DXJ) performed well last week, rising by approximately 3%, due to coordination between the Bank of Japan and the Federal Reserve to prop up the sagging yen. DXJ benefits from a strong dollar against the Japanese currency, and its performance was impressive given its hedged nature. The article suggests that while currency fluctuations are a consideration, Japan's robust economic picture provides a strong case for long-term engagement with the ETF.",
@@ -913,234 +1149,6 @@
           "headline": "Matrix Trust Co Makes New $1.25 Million Investment in ONEOK, Inc. $OKE",
           "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-trust-co-makes-new-125-million-investment-in-oneok-inc-oke-2026-08-10/",
           "published_at": "2026-08-10T10:43:22"
-        }
-      ]
-    },
-    {
-      "event_id": 11,
-      "title": "Eureka Acquisition Corp Releases Q2 2024 10-Q Report",
-      "summary": "Eureka Acquisition Corp (EURK), a blank check company, has released its Q2 2024 10-Q report, detailing a net loss of $29,349 for the quarter and $113,248 for the nine months ended June 30, 2024. The company completed its IPO in July 2024, raising $50 million, and has until July 3, 2025 (with potential extensions) to complete a business combination, with management actively seeking acquisition targets in Asia. The report highlights a working capital deficiency and going concern considerations if a business combination is not completed within the specified timeframe.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-09T15:40:16",
-      "first_seen_at": "2026-08-09T16:08:30.741668",
-      "assets": [
-        {
-          "symbol": "EURK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.045914,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948368
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.849263
-        },
-        {
-          "topic": "ipo",
-          "relevance_score": 0.800154
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.725137
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.64637
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 11,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "Eureka Acquisition Corp Releases Q2 2024 10-Q Report",
-          "url": "https://www.tradingview.com/news/tradingview:8ab7f1d704296:0-eureka-acquisition-corp-releases-q2-2024-10-q-report/",
-          "published_at": "2026-08-09T15:40:16"
-        }
-      ]
-    },
-    {
-      "event_id": 12,
-      "title": "US-China AI War: Inside the Battle for Global Tech Dominance",
-      "summary": "The U.S. and China are engaged in a fierce competition for global AI dominance, encompassing military superiority, tech stack leadership, cybersecurity, and semiconductor advancements. Recent accusations of Chinese firm Moonshot AI stealing U.S. technology for its Kimi K3 model highlight the tension, while debates over open-source AI and domestic public resistance to data center construction add layers of complexity to America's strategy. Despite public skepticism, significant capital expenditure continues to fuel the U.S. effort to out-build China's AI infrastructure.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-09T14:47:09",
-      "first_seen_at": "2026-08-09T16:08:30.975009",
-      "assets": [
-        {
-          "symbol": "AVGO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.317136,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.944925,
-          "sentiment_score": -0.317408,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 0.732706,
-          "sentiment_score": -0.34599,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.712355,
-          "sentiment_score": -0.328967,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.616625,
-          "sentiment_score": 0.216328,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 0.92581
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.830418
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.747824
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.643669
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 12,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "US-China AI War: Inside the Battle for Global Tech Dominance",
-          "url": "https://www.benzinga.com/markets/tech/26/08/61063847/us-china-ai-war-inside-the-battle-for-global-tech-dominance",
-          "published_at": "2026-08-09T14:47:09"
-        }
-      ]
-    },
-    {
-      "event_id": 13,
-      "title": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
-      "summary": "Crocs recently reported strong Q2 2026 results with sales of US$1,179.47 million and net income of US$204.89 million, leading to a 6.7% stock increase. The company also upgraded its full-year guidance and expanded its share repurchase program to US$5.21 billion. This shift to profitability and significant buyback authorization are central to re-evaluating Crocs' investment narrative, especially considering risks like fickle fashion trends.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-09T14:10:49",
-      "first_seen_at": "2026-08-09T16:08:31.234579",
-      "assets": [
-        {
-          "symbol": "CROX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.405216,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948859
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.821818
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.724195
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 13,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-crox-6-7-earnings-141103105.html",
-          "published_at": "2026-08-09T14:10:49"
-        }
-      ]
-    },
-    {
-      "event_id": 2,
-      "title": "Cable One, Inc. Reported A Surprise Loss, And Analysts Have Updated Their Forecasts",
-      "summary": "Cable One, Inc. (NYSE:CABO) reported a surprise statutory loss of US$204 per share in its second quarter, despite analysts expecting a profit. Following these results, analysts reconfirmed revenue estimates at US$1.40 billion for 2026 but now forecast a loss instead of a profit, leading to a 22% dip in the average price target to US$54.25. The company's revenues have declined over the past five years and are projected to continue declining faster than the industry average.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-09T13:07:50",
-      "first_seen_at": "2026-08-09T14:54:12.750797",
-      "assets": [
-        {
-          "symbol": "CABO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.425918,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907133
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.645207
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 2,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Cable One, Inc. Reported A Surprise Loss, And Analysts Have Updated Their Forecasts",
-          "url": "https://simplywall.st/stocks/us/media/nyse-cabo/cable-one/news/cable-one-inc-reported-a-surprise-loss-and-analysts-have-upd",
-          "published_at": "2026-08-09T13:07:50"
         }
       ]
     }
