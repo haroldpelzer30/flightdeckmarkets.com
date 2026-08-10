@@ -2,8 +2,130 @@
   "product": "FlightDeck JET STREAM",
   "descriptor": "Real-Time Market Intelligence",
   "tagline": "Turning Market Data Into Market Intelligence.",
-  "event_count": 11,
+  "event_count": 13,
   "events": [
+    {
+      "event_id": 32,
+      "title": "Martin Marietta Materials receives regulatory approvals for Lhoist North America acquisition",
+      "summary": "Martin Marietta Materials Inc. announced it has received all necessary regulatory approvals for its acquisition of Lhoist North America, Inc. The $33 billion company expects to close the transaction in the third quarter of 2026, despite its stock trading near its 52-week low. The company's recent SEC filing detailed the regulatory clearance and included financial statements for Lhoist North America, while Martin Marietta itself recently exceeded Q2 profit and revenue expectations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-10T13:33:05",
+      "first_seen_at": "2026-08-10T15:00:02.530731",
+      "assets": [
+        {
+          "symbol": "MLM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.344242,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.914922
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.831631
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.739398
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.614411
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.606905
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 32,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Martin Marietta Materials receives regulatory approvals for Lhoist North America acquisition",
+          "url": "https://www.investing.com/news/sec-filings/martin-marietta-materials-receives-regulatory-approvals-for-lhoist-north-america-acquisition-93CH-4849441",
+          "published_at": "2026-08-10T13:33:05"
+        }
+      ]
+    },
+    {
+      "event_id": 33,
+      "title": "ConocoPhillips CEO Ryan Lance retiring, Andy O'Brien to take over",
+      "summary": "ConocoPhillips CEO Ryan Lance is retiring after 14 years, with CFO Andy O'Brien set to take over on September 1. This leadership change comes as the company aims to achieve a $7 billion free cash flow target by 2029, largely dependent on the Willow oil project in Alaska. The announcement coincided with ConocoPhillips reporting its strongest quarterly profit since 2022.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-10T13:18:41",
+      "first_seen_at": "2026-08-10T15:00:02.801654",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.426797,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.64355,
+          "sentiment_score": 0.128216,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.639908,
+          "sentiment_score": 0.148467,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.940206
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932336
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.846965
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.733148
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 33,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "ConocoPhillips CEO Ryan Lance retiring, Andy O'Brien to take over",
+          "url": "https://qz.com/conocophillips-ceo-ryan-lance-retiring-andy-obrien-081026",
+          "published_at": "2026-08-10T13:18:41"
+        }
+      ]
+    },
     {
       "event_id": 31,
       "title": "ICE Mortgage Monitor: Mortgage Holder Equity Climbs to Record $18 Trillion as Annual Home Price Growth Reaches 14-Month High",
