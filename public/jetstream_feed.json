@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 54,
+      "title": "Sempra — Owner of SDG&E — Made $800 Million in Profits 2nd Quarter — While 1 in 5 of Their Customers Are Behind Average of $500 in Bills",
+      "summary": "Sempra, the parent company of SDG&E, reported nearly $800 million in profits for the second quarter of 2026, a significant increase from the previous year. This financial success comes as many San Diego utility customers struggle, with nearly one in five SDG&E customers behind an average of $500 on their bills. Environmental and community groups rallied against these high utility costs, calling on local and state leaders to intervene and address the affordability crisis.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-10T20:51:00",
+      "first_seen_at": "2026-08-10T22:00:01.800221",
+      "assets": [
+        {
+          "symbol": "SRE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.415836,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914547
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.829837
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.814258
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.724515
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.623835
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 55,
+          "provider": "ALPHA_VANTAGE",
+          "source": "OB Rag",
+          "source_domain": "OB Rag",
+          "headline": "Sempra — Owner of SDG&E — Made $800 Million in Profits 2nd Quarter — While 1 in 5 of Their Customers Are Behind Average of $500 in Bills",
+          "url": "https://obrag.org/2026/08/sempra-owner-of-sdge-made-800-million-in-profits-2nd-quarter-while-1-in-5-of-their-customers-are-behind-average-of-500-in-bills/",
+          "published_at": "2026-08-10T20:51:00"
+        }
+      ]
+    },
+    {
       "event_id": 47,
       "title": "Teledyne Technologies Acquires Varex Imaging in $1.1 Billion Deal",
       "summary": "Teledyne Technologies is set to acquire Varex Imaging Corporation in an all-cash deal valued at approximately $1.1 billion. This acquisition aims to strengthen Teledyne’s position in advanced X-ray imaging technology, particularly in medical and industrial markets, by integrating Varex's complementary product lines without significant overlap. The transaction, unanimously approved by both boards, is expected to close in early 2027, subject to regulatory and shareholder approvals.",
@@ -1159,69 +1214,6 @@
           "headline": "Why Union Pacific (NYSE:UNP) Cross-Border Rail Pact Matters for Freight Flows?",
           "url": "https://kalkinemedia.com/us/stocks/industrial/why-union-pacific-nyseunp-cross-border-rail-pact-matters-for-freight-flows",
           "published_at": "2026-08-10T15:09:33"
-        }
-      ]
-    },
-    {
-      "event_id": 34,
-      "title": "Clorox expects $200M inflation hit, supply chain costs a factor",
-      "summary": "Clorox anticipates a significant inflation impact of over $200 million this year, primarily driven by rising energy, commodity, and supplier costs, alongside increased trucking, ocean freight, and logistics expenses. The company plans to implement price increases on some products, including Glad trash bags, to offset these pressures, which are proving more persistent than initially expected. Clorox's gross margin for the current fiscal year is projected to be around 42%, a slight decrease from the previous year, reflecting these inflationary challenges.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 75,
-      "published_at": "2026-08-10T14:34:51",
-      "first_seen_at": "2026-08-10T16:00:02.670813",
-      "assets": [
-        {
-          "symbol": "CLX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.448565,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MKC",
-          "asset_class": null,
-          "relevance_score": 0.615718,
-          "sentiment_score": -0.308835,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94967
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.819024
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.729784
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.721384
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644258
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 34,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Supply Chain Dive",
-          "source_domain": "Supply Chain Dive",
-          "headline": "Clorox expects $200M inflation hit, supply chain costs a factor",
-          "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
-          "published_at": "2026-08-10T14:34:51"
         }
       ]
     }
