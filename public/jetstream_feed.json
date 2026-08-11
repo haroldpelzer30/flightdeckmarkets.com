@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 65,
+      "title": "Marathon Petroleum Corp stock hits all-time high at 326.96 USD",
+      "summary": "Marathon Petroleum Corp (MPC) stock reached an all-time high of $326.96, trading within 1% of its 52-week high, following a 105.32% surge over the past year. InvestingPro analysis suggests the $91.6 billion company is undervalued, with a P/E ratio of 11.01. This performance is supported by strong Q2 2026 financial results, exceeding Wall Street expectations with earnings of $17.73 per share and revenue of $52.34 billion, leading to an upgrade from Freedom Broker to \"Hold.\"",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-11T14:04:42",
+      "first_seen_at": "2026-08-11T15:00:01.865715",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.702826,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945974
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92507
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.807043
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 67,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Marathon Petroleum Corp stock hits all-time high at 326.96 USD",
+          "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-corp-stock-hits-alltime-high-at-32696-usd-93CH-4792383",
+          "published_at": "2026-08-11T14:04:42"
+        }
+      ]
+    },
+    {
+      "event_id": 66,
+      "title": "Seadrill (NYSE:SDRL) Posts Quarterly Earnings Results, Beats Expectations By $0.18 EPS",
+      "summary": "Seadrill (NYSE:SDRL) reported strong quarterly earnings, beating analysts' expectations with $0.47 EPS against a consensus of $0.29, and revenue of $430 million. The company raised its full-year 2026 guidance for revenue and EBITDA, driven by increased utilization, operating days, and day rates. While deepwater market prospects are favorable, management noted uneven near-term visibility for some rigs and anticipated higher maintenance spending.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-11T13:31:16",
+      "first_seen_at": "2026-08-11T15:00:02.126980",
+      "assets": [
+        {
+          "symbol": "SDRL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.413155,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.937887
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.820938
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648802
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 68,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Seadrill (NYSE:SDRL) Posts Quarterly Earnings Results, Beats Expectations By $0.18 EPS",
+          "url": "https://www.marketbeat.com/instant-alerts/seadrill-nysesdrl-posts-quarterly-earnings-results-beats-expectations-by-018-eps-2026-08-11/",
+          "published_at": "2026-08-11T13:31:16"
+        }
+      ]
+    },
+    {
       "event_id": 61,
       "title": "Patrick Industries files HSR notifications for proposed LCI mergers",
       "summary": "Patrick Industries (PATK) has filed Hart-Scott-Rodino notifications regarding its planned two-step merger to acquire LCI Industries. This action follows a merger agreement where LCI will become a wholly owned subsidiary of Patrick Industries. The completion of the mergers is contingent upon the expiration or termination of the HSR waiting period and other closing conditions.",
@@ -20,7 +118,7 @@
           "symbol": "PATK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.338714,
+          "sentiment_score": 0.316897,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,11 +126,11 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.930625
+          "relevance_score": 0.948893
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.621616
+          "relevance_score": 0.647863
         }
       ],
       "articles": [
@@ -1089,116 +1187,6 @@
           "headline": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
           "url": "https://pulse2.com/yum-china-completes-1-2-billion-acquisition-of-pizza-hut-brand-in-mainland-china/",
           "published_at": "2026-08-10T18:31:43"
-        }
-      ]
-    },
-    {
-      "event_id": 44,
-      "title": "Valero Energy Corp Stock (VLO) Moved Up by 5.32% on Aug 10: Facts Behind the Movement",
-      "summary": "Valero Energy Corp (VLO) saw its stock price increase by 5.32% on August 10th, driven by widening refining margins and tight global product inventories. The company's strong free cash flow, shareholder return programs, and optimistic analyst revisions are supporting this bullish market sentiment, despite inherent risks from geopolitical instability and crude oil price fluctuations. Technical indicators are mixed, with MACD and RSI suggesting neutrality, while Williams %R indicates a sell condition.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-10T18:15:36",
-      "first_seen_at": "2026-08-10T20:00:02.559417",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.420575,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.638068,
-          "sentiment_score": 0.303866,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.606591,
-          "sentiment_score": 0.334116,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.915056
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912536
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.824586
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.725868
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 44,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Valero Energy Corp Stock (VLO) Moved Up by 5.32% on Aug 10: Facts Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262093303-market-movers-vlo-20260810",
-          "published_at": "2026-08-10T18:15:36"
-        }
-      ]
-    },
-    {
-      "event_id": 45,
-      "title": "P&G analysts react to $3.8 billion Thorne acquisition, company’s outlook",
-      "summary": "Analysts have responded to Procter & Gamble Co.'s announcement of a $3.8 billion acquisition of supplements maker Thorne and its guidance for fiscal 2027. The article promises to detail these reactions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-10T18:12:59",
-      "first_seen_at": "2026-08-10T20:00:02.894083",
-      "assets": [
-        {
-          "symbol": "PG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.331795,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.918984
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.810415
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 45,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "P&G analysts react to $3.8 billion Thorne acquisition, company’s outlook",
-          "url": "https://www.bizjournals.com/cincinnati/news/2026/08/10/p-g-analysts-react-to-acquisition-company-outlook.html",
-          "published_at": "2026-08-10T18:12:59"
         }
       ]
     }
