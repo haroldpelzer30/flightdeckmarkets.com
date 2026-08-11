@@ -5,6 +5,140 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 82,
+      "title": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
+      "summary": "The Fidelity Dividend ETF for Rising Rates (FDRR), designed for a rising rate environment, is facing questions about its suitability for income investors following recent Federal Reserve rate cuts. Despite annual distribution growth, its current yield of 2.12% is lower than traditional high-dividend peers, and its portfolio is heavily concentrated in tech giants, making it more of a total-return vehicle than a source of steady income. While competent for dividend-tilted exposure to large-cap growth, it may not meet the needs of investors seeking predictable quarterly income.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 71,
+      "published_at": "2026-08-11T21:27:47",
+      "first_seen_at": "2026-08-11T23:00:02.089789",
+      "assets": [
+        {
+          "symbol": "FDRR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.229716,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.706032,
+          "sentiment_score": 0.129505,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.623143,
+          "sentiment_score": 0.122038,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.614001,
+          "sentiment_score": 0.118474,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.603177,
+          "sentiment_score": 0.138786,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.908158
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.844186
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.732818
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.633222
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 84,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Foreign Policy Journal",
+          "source_domain": "Foreign Policy Journal",
+          "headline": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/11/fidelitys-rate-sensitive-dividend-etf-nysearca-fdrr-delivers-growth-but-fails-income-investors-after-fed-cuts/",
+          "published_at": "2026-08-11T21:27:47"
+        }
+      ]
+    },
+    {
+      "event_id": 83,
+      "title": "Duke Energy cuts proposed rate hike nearly in half as NC regulators weigh settlement",
+      "summary": "Duke Energy has significantly reduced its proposed rate increase for residential customers in North Carolina, cutting it from 18% to 9.3% over two years as part of a settlement under review by the North Carolina Utilities Commission. Despite the reduction, advocates and lawmakers argue that any increase is too much for families already struggling with their budgets. The company asserts that the higher rates are necessary to fund critical investments in grid reliability and that the settlement balances affordability with system needs, also including a $10 million contribution for low-income assistance programs.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 54,
+      "published_at": "2026-08-11T21:23:38",
+      "first_seen_at": "2026-08-11T23:00:02.405657",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.150841,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.906095
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.818631
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.736462
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.608587
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 85,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CBS 17",
+          "source_domain": "CBS 17",
+          "headline": "Duke Energy cuts proposed rate hike nearly in half as NC regulators weigh settlement",
+          "url": "https://www.cbs17.com/news/north-carolina-news/duke-energy-cuts-proposed-rate-hike-nearly-in-half-as-nc-regulators-weigh-settlement/",
+          "published_at": "2026-08-11T21:23:38"
+        }
+      ]
+    },
+    {
       "event_id": 81,
       "title": "Phillips 66 and Kinder Morgan's $5 billion Western Gateway Pipeline reaches final investment decision",
       "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have given their final investment decision for the $5 billion Western Gateway Pipeline, which will run from Texas to Arizona. The companies are currently finalizing the financial contributions and ownership splits for the project.",
@@ -980,161 +1114,6 @@
           "headline": "Preformed Line Products (PLPC) Is Up 29.2% After Earnings Beat And 11.3% Share Buyback Completion",
           "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-plpc/preformed-line-products/news/preformed-line-products-plpc-is-up-292-after-earnings-beat-a",
           "published_at": "2026-08-11T12:41:04"
-        }
-      ]
-    },
-    {
-      "event_id": 64,
-      "title": "With Bank of America at Record Highs, Wall Street Is Bullish but Retail Is Wary",
-      "summary": "Bank of America (NYSE: BAC) is trading at record highs, with Wall Street analysts showing strong bullish sentiment, evidenced by 83% Buy ratings. The company recently reported an 8% Q2 EPS beat and 34% year-over-year earnings growth, returning $8 billion to shareholders. Despite this, retail investors remain largely wary or have missed the stock's significant one-year run, highlighting a divergence between institutional and retail perspectives, though analysts suggest the institutional view is more defensible given BAC's performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-11T12:31:22",
-      "first_seen_at": "2026-08-11T14:00:02.870414",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.996475,
-          "sentiment_score": 0.492694,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.627683,
-          "sentiment_score": 0.109453,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SBUX",
-          "asset_class": null,
-          "relevance_score": 0.582319,
-          "sentiment_score": 0.307294,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PFE",
-          "asset_class": null,
-          "relevance_score": 0.562339,
-          "sentiment_score": -0.129962,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92443
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913424
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.837447
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.742952
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.645675
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 66,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "With Bank of America at Record Highs, Wall Street Is Bullish but Retail Is Wary",
-          "url": "https://247wallst.com/investing/2026/08/11/with-bank-of-america-at-record-highs-wall-street-is-bullish-but-retail-is-wary/",
-          "published_at": "2026-08-11T12:31:22"
-        }
-      ]
-    },
-    {
-      "event_id": 58,
-      "title": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project",
-      "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have finalized a joint venture agreement for the $5 billion Western Gateway Pipeline system. The project, expected to be completed in 2029, aims to address fuel supply vulnerabilities and price spikes on the U.S. West Coast by creating a new major fuel pipeline. Phillips 66 will hold 49.9%, Kinder Morgan 35.1%, and HF Sinclair 15% ownership in the venture.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-11T12:00:24",
-      "first_seen_at": "2026-08-11T13:00:02.951488",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.437264,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMI",
-          "asset_class": null,
-          "relevance_score": 0.966071,
-          "sentiment_score": 0.420706,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.745155,
-          "sentiment_score": 0.343618,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.612284,
-          "sentiment_score": 0.28715,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.94508
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.649582
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 60,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project By Reuters",
-          "url": "https://www.investing.com/news/stock-market-news/phillips-66-kinder-morgan-hf-sinclair-approve-western-gateway-pipeline-project-4851333",
-          "published_at": "2026-08-11T11:35:04"
-        },
-        {
-          "article_id": 59,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Mighty 790 KFGO",
-          "source_domain": "The Mighty 790 KFGO",
-          "headline": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project",
-          "url": "https://kfgo.com/2026/08/11/phillips-66-kinder-morgan-hf-sinclair-approve-western-gateway-pipeline-project/",
-          "published_at": "2026-08-11T12:00:24"
         }
       ]
     }
