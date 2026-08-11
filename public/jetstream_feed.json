@@ -5,6 +5,202 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 74,
+      "title": "Valero Energy (NYSE:VLO) Hits New 52-Week High - Time to Buy?",
+      "summary": "Valero Energy (NYSE:VLO) recently reached a new 52-week high of $322.28, trading above its 50-day and 200-day moving averages. The company reported strong Q2 earnings, with EPS of $12.54 and revenue of $44.48 billion, significantly beating analyst expectations. While analysts have a \"Moderate Buy\" consensus, the average price target of $288.00 is below the current share price, and Valero also declared a quarterly dividend of $1.20 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-08-11T18:02:15",
+      "first_seen_at": "2026-08-11T19:00:02.676704",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.532994,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932715
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.926042
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920021
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 76,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Valero Energy (NYSE:VLO) Hits New 52-Week High - Time to Buy?",
+          "url": "https://www.marketbeat.com/instant-alerts/valero-energy-nysevlo-hits-new-52-week-high-time-to-buy-2026-08-11/",
+          "published_at": "2026-08-11T18:02:15"
+        }
+      ]
+    },
+    {
+      "event_id": 75,
+      "title": "Phillips 66, Kinder Morgan, HF Sinclair greenlight Western Gateway pipeline",
+      "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have finalized a joint venture to construct the $5 billion Western Gateway Pipeline. This 1,300-mile refined products system will connect the Midwest and Gulf Coast to Arizona and California, providing a new fuel supply route to the West Coast. The project aims to alleviate California's fuel market vulnerabilities and is expected to be completed in 2029.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-11T17:59:52",
+      "first_seen_at": "2026-08-11T19:00:02.926452",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443436,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMI",
+          "asset_class": null,
+          "relevance_score": 0.924592,
+          "sentiment_score": 0.449453,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.606807,
+          "sentiment_score": 0.333024,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.946497
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.801177
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 77,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The San Joaquin Valley Sun",
+          "source_domain": "The San Joaquin Valley Sun",
+          "headline": "Phillips 66, Kinder Morgan, HF Sinclair greenlight Western Gateway pipeline",
+          "url": "https://sjvsun.com/u-s/phillips-66-kinder-morgan-hf-sinclair-greenlight-western-gateway-pipeline/",
+          "published_at": "2026-08-11T17:59:52"
+        }
+      ]
+    },
+    {
+      "event_id": 76,
+      "title": "Air Canada Hits Five-Year High as Analysts Talk Up Blackstone Deal",
+      "summary": "Air Canada shares reached a five-year high after Bloomberg News reported that Blackstone Inc. is close to acquiring a minority stake in its Aeroplan loyalty program for approximately $2 billion. Analysts believe this potential deal suggests a higher valuation for Aeroplan than previously recognized by the market, leading to an upgrade in Air Canada's stock rating.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-11T17:44:18",
+      "first_seen_at": "2026-08-11T19:00:03.177125",
+      "assets": [
+        {
+          "symbol": "BX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40866,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.918069
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.905093
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.707136
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 78,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg.com",
+          "source_domain": "Bloomberg.com",
+          "headline": "Air Canada Hits Five-Year High as Analysts Talk Up Blackstone Deal",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-11/air-canada-hits-five-year-high-as-analysts-talk-up-blackstone-deal",
+          "published_at": "2026-08-11T17:44:18"
+        }
+      ]
+    },
+    {
+      "event_id": 77,
+      "title": "S&P Global survey: Risk appetite is highest since January",
+      "summary": "An S&P Global survey indicates that risk appetite among investors has reached its highest level since January. The full article is available through a TradingView subscription, offering access to content from Reuters and other news sources.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-08-11T17:34:59",
+      "first_seen_at": "2026-08-11T19:00:03.388796",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.342705,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.937366
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 79,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "S&P Global survey: Risk appetite is highest since January",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4480RY:0-s-p-global-survey-risk-appetite-is-highest-since-january/",
+          "published_at": "2026-08-11T17:34:59"
+        }
+      ]
+    },
+    {
       "event_id": 72,
       "title": "Boeing sells Wisk flying taxi, drone units to Archer",
       "summary": "Boeing is selling its Wisk, SkyGrid, and Insitu units, which focus on flying taxis and drones, to Archer Aviation Inc. This move allows Boeing to concentrate on its core commercial and defense businesses while acquiring an almost 20% stake in Archer and forming a technology-sharing partnership. The acquisition is expected to accelerate Archer's autonomous aircraft ambitions and reshape its shareholder base, though FAA certification for Archer's Midnight aircraft is still at least a year away.",
@@ -943,238 +1139,6 @@
           "headline": "As another week of heat settles in, Duke Energy rate hike heads back before regulators",
           "url": "https://www.wral.com/news/local/duke-energy-rate-hike-back-beofre-regulators-another-hot-week-august-2026/",
           "published_at": "2026-08-10T22:04:44"
-        }
-      ]
-    },
-    {
-      "event_id": 54,
-      "title": "Sempra — Owner of SDG&E — Made $800 Million in Profits 2nd Quarter — While 1 in 5 of Their Customers Are Behind Average of $500 in Bills",
-      "summary": "Sempra, the parent company of SDG&E, reported nearly $800 million in profits for the second quarter of 2026, a significant increase from the previous year. This financial success comes as many San Diego utility customers struggle, with nearly one in five SDG&E customers behind an average of $500 on their bills. Environmental and community groups rallied against these high utility costs, calling on local and state leaders to intervene and address the affordability crisis.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-10T20:51:00",
-      "first_seen_at": "2026-08-10T22:00:01.800221",
-      "assets": [
-        {
-          "symbol": "SRE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.415836,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914547
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.829837
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.814258
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.724515
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.623835
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 55,
-          "provider": "ALPHA_VANTAGE",
-          "source": "OB Rag",
-          "source_domain": "OB Rag",
-          "headline": "Sempra — Owner of SDG&E — Made $800 Million in Profits 2nd Quarter — While 1 in 5 of Their Customers Are Behind Average of $500 in Bills",
-          "url": "https://obrag.org/2026/08/sempra-owner-of-sdge-made-800-million-in-profits-2nd-quarter-while-1-in-5-of-their-customers-are-behind-average-of-500-in-bills/",
-          "published_at": "2026-08-10T20:51:00"
-        }
-      ]
-    },
-    {
-      "event_id": 47,
-      "title": "Teledyne Technologies Acquires Varex Imaging in $1.1 Billion Deal",
-      "summary": "Teledyne Technologies is set to acquire Varex Imaging Corporation in an all-cash deal valued at approximately $1.1 billion. This acquisition aims to strengthen Teledyne’s position in advanced X-ray imaging technology, particularly in medical and industrial markets, by integrating Varex's complementary product lines without significant overlap. The transaction, unanimously approved by both boards, is expected to close in early 2027, subject to regulatory and shareholder approvals.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-10T19:24:00",
-      "first_seen_at": "2026-08-10T21:00:02.149470",
-      "assets": [
-        {
-          "symbol": "TDY",
-          "asset_class": null,
-          "relevance_score": 0.975567,
-          "sentiment_score": 0.427973,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.923793
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.807531
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.709963
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 47,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Eurasia Business News",
-          "source_domain": "Eurasia Business News",
-          "headline": "Teledyne Technologies Acquires Varex Imaging in $1.1 Billion Deal",
-          "url": "https://eurasiabusinessnews.com/2026/08/10/teledyne-technologies-acquires-varex-imaging-in-1-1-billion-deal/",
-          "published_at": "2026-08-10T19:24:00"
-        }
-      ]
-    },
-    {
-      "event_id": 48,
-      "title": "Phillips 66 Stock (PSX) Moved Up by 5.00% on Aug 10: What Signal Does It Send?",
-      "summary": "Phillips 66 (PSX) stock rose 5.00% on August 10, driven by its strategic transformation plan, divestiture of non-core midstream assets, and strong refining margins in key regions. Analysts have revised price targets upward due to successful cost-savings and improved future earnings visibility. Despite some technical sell signals, the overall market sentiment for PSX remains positive, with institutional investors showing increased interest in the company's operational leverage and shareholder-friendly capital allocation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-10T19:15:45",
-      "first_seen_at": "2026-08-10T21:00:02.459193",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.499887,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.607971,
-          "sentiment_score": 0.374398,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.605961,
-          "sentiment_score": 0.33054,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.60532,
-          "sentiment_score": 0.302103,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947889
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930454
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80358
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604245
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 48,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Phillips 66 Stock (PSX) Moved Up by 5.00% on Aug 10: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262093386-market-movers-psx-20260810",
-          "published_at": "2026-08-10T19:15:45"
-        }
-      ]
-    },
-    {
-      "event_id": 49,
-      "title": "Newmont Corporation Stock (NEM) Moved Up by 3.05% on Aug 10: Key Drivers Unveiled",
-      "summary": "Newmont Corporation (NEM) stock rose by 3.05% on August 10th, primarily driven by a broad rally in the precious metals sector, shifting macroeconomic expectations, and a weakening U.S. dollar. The company's portfolio optimization strategy, including divestiture of non-core assets, and a disciplined approach to shareholder returns are also contributing to positive investor sentiment. Analysts maintain a \"Buy\" consensus with an average price target of $131.73, despite some company-specific risks like elevated All-In Sustaining Costs and operational underperformance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-10T19:15:32",
-      "first_seen_at": "2026-08-10T21:00:02.757692",
-      "assets": [
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.532633,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.901378
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.809534
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.74281
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.630839
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 49,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Newmont Corporation Stock (NEM) Moved Up by 3.05% on Aug 10: Key Drivers Unveiled",
-          "url": "https://www.tradingkey.com/news/market-movers/262093387-market-movers-nem-20260810",
-          "published_at": "2026-08-10T19:15:32"
         }
       ]
     }
