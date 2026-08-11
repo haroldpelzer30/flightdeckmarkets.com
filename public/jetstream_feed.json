@@ -5,9 +5,123 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 68,
+      "title": "KLA Corp Stock (KLAC) Moved Up by 3.07% on Aug 11: A Full Analysis",
+      "summary": "KLA Corp (KLAC) saw its stock price increase by 3.07% on August 11, driven by strong fourth-quarter fiscal 2026 earnings and optimistic guidance, despite recent sector pullbacks. The company benefits from robust demand in semiconductor capital equipment, especially for AI infrastructure and advanced packaging technologies, where it holds a near-monopoly in critical inspection tools. Positive analyst commentary and strategic shareholder return initiatives further bolstered investor confidence.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-11T14:15:31",
+      "first_seen_at": "2026-08-11T16:00:02.577680",
+      "assets": [
+        {
+          "symbol": "KLAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.601687,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928649
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901378
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.829164
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.629171
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.619737
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 70,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "KLA Corp Stock (KLAC) Moved Up by 3.07% on Aug 11: A Full Analysis",
+          "url": "https://www.tradingkey.com/news/market-movers/262096218-market-movers-klac-20260811",
+          "published_at": "2026-08-11T14:15:31"
+        }
+      ]
+    },
+    {
+      "event_id": 69,
+      "title": "Analysts Offer Insights on Utilities Companies: PPL (PPL) and Constellation Energy Corporation (CEG)",
+      "summary": "Bank of America Securities analysts Nicolas Woods and Rinny Singh have issued bullish ratings for PPL (PPL) and Constellation Energy Corporation (CEG), respectively, within the Utilities sector. PPL received a \"Strong Buy\" consensus with an 18.1% upside, while Constellation Energy also garnered a \"Strong Buy\" consensus with a 29.8% upside from current levels. Both companies show promising outlooks according to recent analyst reports.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-11T14:13:28",
+      "first_seen_at": "2026-08-11T16:00:02.919494",
+      "assets": [
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.527817,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.479521,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931032
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.819783
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.710354
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.603243
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 71,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "Analysts Offer Insights on Utilities Companies: PPL (PPL) and Constellation Energy Corporation (CEG)",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CEG-Q/pressreleases/3781088/analysts-offer-insights-on-utilities-companies-ppl-ppl-and-constellation-energy-corporation-ceg/",
+          "published_at": "2026-08-11T14:13:28"
+        }
+      ]
+    },
+    {
       "event_id": 65,
       "title": "Marathon Petroleum Corp stock hits all-time high at 326.96 USD",
-      "summary": "Marathon Petroleum Corp (MPC) stock reached an all-time high of $326.96, trading within 1% of its 52-week high, following a 105.32% surge over the past year. InvestingPro analysis suggests the $91.6 billion company is undervalued, with a P/E ratio of 11.01. This performance is supported by strong Q2 2026 financial results, exceeding Wall Street expectations with earnings of $17.73 per share and revenue of $52.34 billion, leading to an upgrade from Freedom Broker to \"Hold.\"",
+      "summary": "Marathon Petroleum Corp (MPC) stock has reached an all-time high of $326.96, trading within 1% of its 52-week high, marking a significant 105.32% surge over the past 12 months. The company, valued at $91.6 billion with an attractive P/E ratio of 11.01, appears undervalued according to InvestingPro analysis, suggesting further upside potential. This milestone follows strong Q2 2026 financial results, which exceeded Wall Street expectations, showcasing robust operations and favorable market conditions.",
       "event_type": "EARNINGS",
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
@@ -20,7 +134,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.702826,
+          "sentiment_score": 0.820862,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,7 +150,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.807043
+          "relevance_score": 0.819291
         }
       ],
       "articles": [
@@ -48,6 +162,15 @@
           "headline": "Marathon Petroleum Corp stock hits all-time high at 326.96 USD",
           "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-corp-stock-hits-alltime-high-at-32696-usd-93CH-4792383",
           "published_at": "2026-08-11T14:04:42"
+        },
+        {
+          "article_id": 72,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Marathon Petroleum Corp stock hits all-time high at 326.96 USD",
+          "url": "https://uk.investing.com/news/stock-market-news/marathon-petroleum-corp-stock-hits-alltime-high-at-32696-usd-93CH-4824737",
+          "published_at": "2026-08-11T14:08:46"
         }
       ]
     },
@@ -1068,125 +1191,6 @@
           "headline": "HTZ Stock Slides As Lawsuits, Dilution And Delisting Collide",
           "url": "https://stockstotrade.com/news/hertz-global-holdings-inc-htz-news-2026_08_10/",
           "published_at": "2026-08-10T19:11:07"
-        }
-      ]
-    },
-    {
-      "event_id": 53,
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for BorgWarner (NYSE:BWA) Stock Price",
-      "summary": "JPMorgan Chase & Co. has raised its price target for BorgWarner (NYSE:BWA) to $85 from $75, maintaining an \"overweight\" rating and suggesting a 21.66% upside. This positive forecast follows BorgWarner's strong quarterly earnings, where it beat estimates for both EPS and revenue. The company also announced a $1 billion share repurchase program, indicating management's belief that the stock is undervalued, despite recent insider share sales.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-10T19:08:13",
-      "first_seen_at": "2026-08-10T21:00:03.803809",
-      "assets": [
-        {
-          "symbol": "HWM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.530172,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.849768,
-          "sentiment_score": 0.265427,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938359
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.720416
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.637818
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.625045
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 54,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "JPMorgan Chase & Co. Issues Positive Forecast for Howmet Aerospace (NYSE:HWM) Stock Price",
-          "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-howmet-aerospace-nysehwm-stock-price-2026-08-10/",
-          "published_at": "2026-08-10T19:06:17"
-        },
-        {
-          "article_id": 53,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "JPMorgan Chase & Co. Issues Positive Forecast for BorgWarner (NYSE:BWA) Stock Price",
-          "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-borgwarner-nysebwa-stock-price-2026-08-10/",
-          "published_at": "2026-08-10T19:08:13"
-        }
-      ]
-    },
-    {
-      "event_id": 43,
-      "title": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
-      "summary": "Yum China Holdings has completed its $1.2 billion acquisition of the Pizza Hut brand ownership in Mainland China from Yum! Brands. This acquisition, announced on June 16, 2026, is expected to provide greater strategic flexibility, eliminate a 3% license fee, and significantly boost Pizza Hut's restaurant and operating profit margins, aiming for a payback period of two to three years for new stores. The company plans to accelerate new Pizza Hut openings to over 800 annually in 2027 and 2028, up from 600, and expects the deal to be accretive to diluted EPS.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-10T18:31:43",
-      "first_seen_at": "2026-08-10T20:00:02.324720",
-      "assets": [
-        {
-          "symbol": "YUM",
-          "asset_class": null,
-          "relevance_score": 0.899672,
-          "sentiment_score": -0.118283,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929142
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.840022
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 43,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pulse 2.0",
-          "source_domain": "Pulse 2.0",
-          "headline": "Yum China Completes $1.2 Billion Acquisition Of Pizza Hut Brand In Mainland China",
-          "url": "https://pulse2.com/yum-china-completes-1-2-billion-acquisition-of-pizza-hut-brand-in-mainland-china/",
-          "published_at": "2026-08-10T18:31:43"
         }
       ]
     }
