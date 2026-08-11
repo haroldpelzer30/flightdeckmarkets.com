@@ -20,7 +20,7 @@
           "symbol": "DUK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.201412,
+          "sentiment_score": -0.242563,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -32,7 +32,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.914582
+          "relevance_score": 0.919795
         },
         {
           "topic": "economy_fiscal",
