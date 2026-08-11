@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 71,
+      "title": "GE Vernova and Oracle among market cap stock movers on Tuesday By Investing.com",
+      "summary": "This article highlights significant stock movements on Tuesday, categorizing them by market capitalization. Companies like GE Vernova, Sea Limited, NIQ Global Intelligence, Quantum Corp, and Babcock & Wilcox Enterprises saw gains, while Oracle, On Holding, First Advantage, and Cardinal Infrastructure Group Ltd experienced declines. The movements are attributed to various factors including strong revenue growth, earnings beats, and lowered guidance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-11T15:08:10",
+      "first_seen_at": "2026-08-11T17:00:02.064590",
+      "assets": [
+        {
+          "symbol": "GEV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.42072,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 0.901377,
+          "sentiment_score": 0.321678,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LRCX",
+          "asset_class": null,
+          "relevance_score": 0.641228,
+          "sentiment_score": 0.416989,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ANET",
+          "asset_class": null,
+          "relevance_score": 0.60345,
+          "sentiment_score": 0.436289,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913108
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.707035
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 73,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "GE Vernova and Oracle among market cap stock movers on Tuesday By Investing.com",
+          "url": "https://m.in.investing.com/news/stock-market-news/ge-vernova-and-oracle-among-market-cap-stock-movers-on-tuesday-93CH-5549670?ampMode=1",
+          "published_at": "2026-08-11T15:08:10"
+        }
+      ]
+    },
+    {
       "event_id": 68,
       "title": "KLA Corp Stock (KLAC) Moved Up by 3.07% on Aug 11: A Full Analysis",
       "summary": "KLA Corp (KLAC) saw its stock price increase by 3.07% on August 11, driven by strong fourth-quarter fiscal 2026 earnings and optimistic guidance, despite recent sector pullbacks. The company benefits from robust demand in semiconductor capital equipment, especially for AI infrastructure and advanced packaging technologies, where it holds a near-monopoly in critical inspection tools. Positive analyst commentary and strategic shareholder return initiatives further bolstered investor confidence.",
@@ -1136,61 +1207,6 @@
           "headline": "Altria Group Inc Stock (MO) Moved Down by 3.99% on Aug 10: What Signal Does It Send?",
           "url": "https://www.tradingkey.com/news/market-movers/262093388-market-movers-mo-20260810",
           "published_at": "2026-08-10T19:15:27"
-        }
-      ]
-    },
-    {
-      "event_id": 52,
-      "title": "HTZ Stock Slides As Lawsuits, Dilution And Delisting Collide",
-      "summary": "Hertz Global Holdings Inc. (HTZ) stock has fallen over 4.6% due to mounting restructuring challenges, including a securities class action lawsuit alleging misrepresentation of liquidity and used-car market weakness. The company announced a $300M secured notes deal and share lending, while warning of soft used-car prices, which triggered a significant share-price drop and led to analyst downgrades. HTZ will also be removed from the S&P SmallCap 600, increasing selling pressure and creating a volatile trading environment.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-10T19:11:07",
-      "first_seen_at": "2026-08-10T21:00:03.547294",
-      "assets": [
-        {
-          "symbol": "HTZ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.617319,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.946496
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.805688
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.739523
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.628358
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.615476
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 52,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "HTZ Stock Slides As Lawsuits, Dilution And Delisting Collide",
-          "url": "https://stockstotrade.com/news/hertz-global-holdings-inc-htz-news-2026_08_10/",
-          "published_at": "2026-08-10T19:11:07"
         }
       ]
     }
