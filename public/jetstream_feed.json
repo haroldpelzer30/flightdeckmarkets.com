@@ -5,6 +5,187 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 78,
+      "title": "American Airlines Stock Slides As Fuel Costs Crush 2026 Outlook",
+      "summary": "American Airlines (AAL) stock slid significantly after management cut its 2026 earnings outlook due to soaring fuel costs and a recent IT outage. The company now forecasts a potential loss for Q3 and a near-breakeven scenario for FY26, leading to price target cuts from Goldman Sachs and Jefferies. Traders are watching AAL for high volatility as thin margins, heavy debt, and cost pressures create a challenging environment despite strong revenue growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-11T19:09:28",
+      "first_seen_at": "2026-08-11T20:00:01.922561",
+      "assets": [
+        {
+          "symbol": "AAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.404618,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 0.644463,
+          "sentiment_score": -0.347338,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 0.638027,
+          "sentiment_score": -0.339255,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 0.601629,
+          "sentiment_score": -0.337365,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937045
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.925706
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.836289
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.73598
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717872
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 80,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "American Airlines Stock Slides As Fuel Costs Crush 2026 Outlook",
+          "url": "https://stockstotrade.com/news/american-airlines-group-inc-aal-news-2026_08_10-2/",
+          "published_at": "2026-08-11T19:09:28"
+        }
+      ]
+    },
+    {
+      "event_id": 79,
+      "title": "NVR Director George Oliver Acquires 63 Shares of NVR Common Stock at $6,431.51 Each",
+      "summary": "NVR Inc. Director George Oliver recently purchased 63 shares of NVR common stock at a price of $6,431.51 per share. This transaction was reported in a statement of changes in beneficial ownership filed on August 11, 2026, indicating the purchase occurred on August 7, 2026. The article highlights this insider acquisition without providing further analysis.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-11T18:26:49",
+      "first_seen_at": "2026-08-11T20:00:02.279980",
+      "assets": [
+        {
+          "symbol": "NVR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.220343,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917119
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.730662
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.611845
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 81,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "NVR Director George Oliver Acquires 63 Shares of NVR Common Stock at $6,431.51 Each",
+          "url": "https://kalkinemedia.com/us/news/announcements/nvr-director-george-oliver-acquires-63-shares-of-nvr-common-stock-at-643151-each",
+          "published_at": "2026-08-11T18:26:49"
+        }
+      ]
+    },
+    {
+      "event_id": 80,
+      "title": "YPF Looks 69.3% Overvalued on GF Value™ at $49.31",
+      "summary": "YPF SA (NYSE: YPF) is deemed 69.3% overvalued according to GuruFocus's GF Value™ at a current price of $49.31, despite strong Q2 results and increased investment forecasts. The company has a GF Score™ of 80/100, indicating good financial health and momentum, though its valuation and financial strength are weaker points. Positive insider and guru buying activity suggests confidence from informed investors, but a distressed Altman Z-Score signals potential bankruptcy risk.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-11T18:11:22",
+      "first_seen_at": "2026-08-11T20:00:02.517825",
+      "assets": [
+        {
+          "symbol": "YPF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.231922,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949555
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.937591
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845441
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.711646
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.644948
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 82,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "YPF Looks 69.3% Overvalued on GF Value™ at $49.31",
+          "url": "https://www.gurufocus.com/news/9025493/ypf-looks-693-overvalued-on-gf-value-at-4931",
+          "published_at": "2026-08-11T18:11:22"
+        }
+      ]
+    },
+    {
       "event_id": 74,
       "title": "Valero Energy (NYSE:VLO) Hits New 52-Week High - Time to Buy?",
       "summary": "Valero Energy (NYSE:VLO) recently reached a new 52-week high of $322.28, trading above its 50-day and 200-day moving averages. The company reported strong Q2 earnings, with EPS of $12.54 and revenue of $44.48 billion, significantly beating analyst expectations. While analysts have a \"Moderate Buy\" consensus, the average price target of $288.00 is below the current share price, and Valero also declared a quarterly dividend of $1.20 per share.",
@@ -954,191 +1135,6 @@
           "headline": "Nio Says ‘It Has No Plans to Retreat from Europe’ After Closing First Stores",
           "url": "https://eletric-vehicles.com/nio/nio-says-it-has-no-plans-to-retreat-from-europe-after-closing-first-stores/",
           "published_at": "2026-08-11T11:42:45"
-        }
-      ]
-    },
-    {
-      "event_id": 60,
-      "title": "The Bull Case For EQT (EQT) Could Change Following A Data-Center-Driven Earnings Beat - Learn Why",
-      "summary": "EQT Corp reported strong fourth-quarter adjusted earnings of US$0.90 per share, surpassing analyst expectations, driven by higher natural gas prices and increased sales volumes. This performance, particularly fueled by demand from data centers and LNG exports, reinforces EQT's investment thesis in the near term. While the dividend remains steady, the long-term risks of renewables and climate policy still need consideration, but the earnings beat may further bolster optimistic analyst views on the company's future.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-11T11:36:38",
-      "first_seen_at": "2026-08-11T13:00:03.620613",
-      "assets": [
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.422332,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.642114,
-          "sentiment_score": 0.331023,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EOG",
-          "asset_class": null,
-          "relevance_score": 0.638586,
-          "sentiment_score": 0.333095,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921137
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.823559
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.702645
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 62,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "The Bull Case For EQT (EQT) Could Change Following A Data-Center-Driven Earnings Beat - Learn Why",
-          "url": "https://simplywall.st/stocks/us/energy/nyse-eqt/eqt/news/the-bull-case-for-eqt-eqt-could-change-following-a-data-cent",
-          "published_at": "2026-08-11T11:36:38"
-        }
-      ]
-    },
-    {
-      "event_id": 57,
-      "title": "Handelsbanken Fonder AB Acquires 41,693 Shares of Cadence Design Systems, Inc. $CDNS",
-      "summary": "Handelsbanken Fonder AB has increased its stake in Cadence Design Systems (NASDAQ:CDNS) by 30.9% in the second quarter, acquiring an additional 41,693 shares, bringing its total holdings to 176,771 shares valued at approximately $66.3 million. This increase in institutional ownership comes as Cadence reported strong quarterly earnings, beating analyst estimates with $2.11 EPS and revenue of $1.58 billion, a 24.2% year-over-year increase. Despite positive analyst ratings and an average price target of $405.69, corporate insiders have sold a significant number of shares, totaling $54.6 million over the past 90 days.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-11T10:34:31",
-      "first_seen_at": "2026-08-11T12:00:02.941937",
-      "assets": [
-        {
-          "symbol": "CDNS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.422931,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.637701,
-          "sentiment_score": 0.105322,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SNPS",
-          "asset_class": null,
-          "relevance_score": 0.622689,
-          "sentiment_score": 0.125707,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.925015
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.739883
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.71144
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 58,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Handelsbanken Fonder AB Acquires 41,693 Shares of Cadence Design Systems, Inc. $CDNS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-handelsbanken-fonder-ab-acquires-41693-shares-of-cadence-design-systems-inc-cdns-2026-08-11/",
-          "published_at": "2026-08-11T10:34:31"
-        }
-      ]
-    },
-    {
-      "event_id": 55,
-      "title": "As another week of heat settles in, Duke Energy rate hike heads back before regulators",
-      "summary": "Duke Energy is returning before state regulators to defend its proposed rate hike amidst a week of high temperatures driving up cooling costs. The North Carolina Utilities Commission will begin evidentiary hearings for Duke Energy Progress's rate case, which includes a proposed settlement reducing the original rate increase request by more than half, potentially leading to an average annual increase of 3.4% over two years. The hearings will also address who should bear the costs of electric grid upgrades for large new customers like data centers and how the company's recent strong profits factor into the rate increase justification.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 64,
-      "published_at": "2026-08-10T22:04:44",
-      "first_seen_at": "2026-08-10T23:00:02.265115",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.242563,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.93647
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.919795
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.820494
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.738851
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.649115
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 56,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WRAL",
-          "source_domain": "WRAL",
-          "headline": "As another week of heat settles in, Duke Energy rate hike heads back before regulators",
-          "url": "https://www.wral.com/news/local/duke-energy-rate-hike-back-beofre-regulators-another-hot-week-august-2026/",
-          "published_at": "2026-08-10T22:04:44"
         }
       ]
     }
