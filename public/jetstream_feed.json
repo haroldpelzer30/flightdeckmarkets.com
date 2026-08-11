@@ -5,6 +5,196 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 58,
+      "title": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project",
+      "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have finalized a joint venture agreement for the $5 billion Western Gateway Pipeline system. The project, expected to be completed in 2029, aims to address fuel supply vulnerabilities and price spikes on the U.S. West Coast by creating a new major fuel pipeline. Phillips 66 will hold 49.9%, Kinder Morgan 35.1%, and HF Sinclair 15% ownership in the venture.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-11T12:00:24",
+      "first_seen_at": "2026-08-11T13:00:02.951488",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.437264,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMI",
+          "asset_class": null,
+          "relevance_score": 0.966071,
+          "sentiment_score": 0.420706,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.745155,
+          "sentiment_score": 0.343618,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.612284,
+          "sentiment_score": 0.28715,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.94508
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.649582
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 60,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project By Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/phillips-66-kinder-morgan-hf-sinclair-approve-western-gateway-pipeline-project-4851333",
+          "published_at": "2026-08-11T11:35:04"
+        },
+        {
+          "article_id": 59,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Mighty 790 KFGO",
+          "source_domain": "The Mighty 790 KFGO",
+          "headline": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project",
+          "url": "https://kfgo.com/2026/08/11/phillips-66-kinder-morgan-hf-sinclair-approve-western-gateway-pipeline-project/",
+          "published_at": "2026-08-11T12:00:24"
+        }
+      ]
+    },
+    {
+      "event_id": 59,
+      "title": "Nio Says ‘It Has No Plans to Retreat from Europe’ After Closing First Stores",
+      "summary": "Nio has stated it has no plans to retreat from Europe despite closing four locations within nine months, including two German sites, and experiencing a significant decline in registrations in Germany. The company attributes the closures to streamlining business activities and wider market conditions, while shifting its European strategy towards distributors and prioritizing growth in new markets like Portugal and Greece, partly through its entry-level Firefly brand. However, Nio faces challenges including slow infrastructure build-out, delayed model updates, high import tariffs, and a lack of local leadership and production.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-11T11:42:45",
+      "first_seen_at": "2026-08-11T13:00:03.404001",
+      "assets": [
+        {
+          "symbol": "NIO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.419114,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.901361
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.844997
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.714801
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.642948
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 61,
+          "provider": "ALPHA_VANTAGE",
+          "source": "eletric-vehicles.com",
+          "source_domain": "eletric-vehicles.com",
+          "headline": "Nio Says ‘It Has No Plans to Retreat from Europe’ After Closing First Stores",
+          "url": "https://eletric-vehicles.com/nio/nio-says-it-has-no-plans-to-retreat-from-europe-after-closing-first-stores/",
+          "published_at": "2026-08-11T11:42:45"
+        }
+      ]
+    },
+    {
+      "event_id": 60,
+      "title": "The Bull Case For EQT (EQT) Could Change Following A Data-Center-Driven Earnings Beat - Learn Why",
+      "summary": "EQT Corp reported strong fourth-quarter adjusted earnings of US$0.90 per share, surpassing analyst expectations, driven by higher natural gas prices and increased sales volumes. This performance, particularly fueled by demand from data centers and LNG exports, reinforces EQT's investment thesis in the near term. While the dividend remains steady, the long-term risks of renewables and climate policy still need consideration, but the earnings beat may further bolster optimistic analyst views on the company's future.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-11T11:36:38",
+      "first_seen_at": "2026-08-11T13:00:03.620613",
+      "assets": [
+        {
+          "symbol": "EQT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.422332,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.642114,
+          "sentiment_score": 0.331023,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EOG",
+          "asset_class": null,
+          "relevance_score": 0.638586,
+          "sentiment_score": 0.333095,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921137
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.823559
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.702645
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 62,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "The Bull Case For EQT (EQT) Could Change Following A Data-Center-Driven Earnings Beat - Learn Why",
+          "url": "https://simplywall.st/stocks/us/energy/nyse-eqt/eqt/news/the-bull-case-for-eqt-eqt-could-change-following-a-data-cent",
+          "published_at": "2026-08-11T11:36:38"
+        }
+      ]
+    },
+    {
       "event_id": 57,
       "title": "Handelsbanken Fonder AB Acquires 41,693 Shares of Cadence Design Systems, Inc. $CDNS",
       "summary": "Handelsbanken Fonder AB has increased its stake in Cadence Design Systems (NASDAQ:CDNS) by 30.9% in the second quarter, acquiring an additional 41,693 shares, bringing its total holdings to 176,771 shares valued at approximately $66.3 million. This increase in institutional ownership comes as Cadence reported strong quarterly earnings, beating analyst estimates with $2.11 EPS and revenue of $1.58 billion, a 24.2% year-over-year increase. Despite positive analyst ratings and an average price target of $405.69, corporate insiders have sold a significant number of shares, totaling $54.6 million over the past 90 days.",
@@ -1029,191 +1219,6 @@
           "headline": "Halliburton, TechnipFMC, Antero Resources, APA Corporation, and Transocean Stocks Trade Up, What You Need To Know",
           "url": "https://stockstory.org/us/stocks/nyse/hal/news/why-up-down/halliburton-technipfmc-antero-resources-apa-corporation-and-transocean-stocks-trade-up-what-you-need-to-know",
           "published_at": "2026-08-10T17:18:06"
-        }
-      ]
-    },
-    {
-      "event_id": 42,
-      "title": "Las proteínas animales tuvieron variaciones mixtas de precios en julio, según Bancolombia",
-      "summary": "During July, animal protein prices showed mixed variations, with poultry and beef prices increasing by 1.48% and 0.54% respectively, while prepared meats and pork saw reductions. This data from Bancolombia's economic research unit highlights short-term trends impacting Colombia's Consumer Price Index (IPC) for food. The report also notes varied price changes in fruits and vegetables, and forecasts continued acceleration in processed and perishable food prices, with overall food inflation estimated at 0.59% for July.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-10T17:16:11",
-      "first_seen_at": "2026-08-10T19:00:03.284045",
-      "assets": [
-        {
-          "symbol": "GIS",
-          "asset_class": null,
-          "relevance_score": 0.723822,
-          "sentiment_score": 0.108808,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CIB",
-          "asset_class": null,
-          "relevance_score": 0.333437,
-          "sentiment_score": 0.024226,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.936006
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.827487
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.715155
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 42,
-          "provider": "ALPHA_VANTAGE",
-          "source": "LaRepublica.co",
-          "source_domain": "LaRepublica.co",
-          "headline": "Las proteínas animales tuvieron variaciones mixtas de precios en julio, según Bancolombia",
-          "url": "https://www.larepublica.co/mercados/las-proteinas-animales-tuvieron-variaciones-mixtas-de-precios-en-julio-segun-bancolombia-4454641",
-          "published_at": "2026-08-10T17:16:11"
-        }
-      ]
-    },
-    {
-      "event_id": 38,
-      "title": "Uber Technologies Inc Stock (UBER) Moved Up by 3.20% on Aug 10: Key Drivers Unveiled",
-      "summary": "Uber Technologies Inc (UBER) stock rose by 3.20% on August 10th, driven by strong mobility demand, strategic progress in autonomous vehicle integration, and the expansion of its high-margin delivery advertising business. Analysts maintain \"Buy\" ratings with an average price target of $102.61, indicating confidence in Uber's asset-light approach to autonomous technology and its transition to a consistent free cash flow generator despite regulatory and competitive risks.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-10T16:15:44",
-      "first_seen_at": "2026-08-10T18:00:02.165650",
-      "assets": [
-        {
-          "symbol": "UBER",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.58845,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PLTR",
-          "asset_class": null,
-          "relevance_score": 0.612182,
-          "sentiment_score": 0.244721,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.611399,
-          "sentiment_score": 0.138062,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.605368,
-          "sentiment_score": 0.222463,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940916
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92203
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.825399
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.744827
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.725657
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 38,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Uber Technologies Inc Stock (UBER) Moved Up by 3.20% on Aug 10: Key Drivers Unveiled",
-          "url": "https://www.tradingkey.com/news/market-movers/262093150-market-movers-uber-20260810",
-          "published_at": "2026-08-10T16:15:44"
-        }
-      ]
-    },
-    {
-      "event_id": 35,
-      "title": "Huntington Bank: Manufacturing Data on ‘3 Things We Learned’",
-      "summary": "Huntington Bank's Director of Equity Research, Randy Hare, discussed \"The Three Things We Learned This Week,\" focusing on strong manufacturing data, record copper prices driven by demand, and new all-time highs for stocks. This information is part of a regular blog series by Huntington Bank officials.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-10T15:18:46",
-      "first_seen_at": "2026-08-10T17:00:02.201450",
-      "assets": [
-        {
-          "symbol": "HBAN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.453887,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942582
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.915434
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.843754
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.839479
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 35,
-          "provider": "ALPHA_VANTAGE",
-          "source": "RVBusiness",
-          "source_domain": "RVBusiness",
-          "headline": "Huntington Bank: Manufacturing Data on ‘3 Things We Learned’",
-          "url": "https://rvbusiness.com/huntington-bank-manufacturing-data-on-3-things-we-learned/?utm_source=rss&utm_medium=rss&utm_campaign=huntington-bank-manufacturing-data-on-3-things-we-learned",
-          "published_at": "2026-08-10T15:18:46"
         }
       ]
     }
