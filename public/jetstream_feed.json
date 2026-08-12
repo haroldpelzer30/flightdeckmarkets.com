@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 103,
+      "title": "Vistra Q2 Earnings Beat Estimates on Pricing and Lotus, Revenues Miss",
+      "summary": "Vistra (VST) reported Q2 2026 earnings of $1.80 per share, surpassing the Zacks Consensus Estimate, which led to a 3.08% stock gain. Despite beating earnings estimates due to strong pricing and contributions from Lotus, the company's total revenues of $4.02 billion missed expectations, primarily due to increased unrealized mark-to-market losses on commodity derivatives. Vistra reaffirmed its 2026 financial guidance and continues to advance growth initiatives, including a significant investment in Helix Digital Infrastructure and the pending acquisition of Cogentrix Energy.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-12T15:09:19",
+      "first_seen_at": "2026-08-12T17:00:02.008299",
+      "assets": [
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 0.983691,
+          "sentiment_score": 0.254648,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.631319,
+          "sentiment_score": 0.204683,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CNP",
+          "asset_class": null,
+          "relevance_score": 0.631058,
+          "sentiment_score": 0.208002,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 0.601792,
+          "sentiment_score": -0.12414,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907321
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.845817
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.604669
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 105,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "Vistra Q2 Earnings Beat Estimates on Pricing and Lotus, Revenues Miss",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/VST/pressreleases/3806636/vistra-q2-earnings-beat-estimates-on-pricing-and-lotus-revenues-miss/",
+          "published_at": "2026-08-12T15:09:19"
+        }
+      ]
+    },
+    {
       "event_id": 96,
       "title": "NiSource stock (NI): 59% of NIPSCO customers out, highlighting storm recovery costs",
       "summary": "Severe storms in the Midwest caused power outages for approximately 273,900 NIPSCO customers, representing 59% of its electric customer base, and 92% of Indiana's total outages. This event is prompting investors to focus on NiSource's (NYSE:NI) immediate grid performance and potential storm recovery costs, which have not yet been estimated, despite the company's previous strong EPS guidance and data center growth plans. NiSource shares were trading about 15% below their June peak, and the duration and cost of restoration efforts will significantly influence the financial impact and investor sentiment.",
@@ -1010,89 +1081,6 @@
           "headline": "Aptiv CEO Kevin Clark Acquires 51,190 Shares in Open Market Transaction",
           "url": "https://kalkinemedia.com/us/news/announcements/aptiv-ceo-kevin-clark-acquires-51190-shares-in-open-market-transaction",
           "published_at": "2026-08-11T22:26:10"
-        }
-      ]
-    },
-    {
-      "event_id": 82,
-      "title": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
-      "summary": "The Fidelity Dividend ETF for Rising Rates (FDRR), designed for a rising rate environment, is facing questions about its suitability for income investors following recent Federal Reserve rate cuts. Despite annual distribution growth, its current yield of 2.12% is lower than traditional high-dividend peers, and its portfolio is heavily concentrated in tech giants, making it more of a total-return vehicle than a source of steady income. While competent for dividend-tilted exposure to large-cap growth, it may not meet the needs of investors seeking predictable quarterly income.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 71,
-      "published_at": "2026-08-11T21:27:47",
-      "first_seen_at": "2026-08-11T23:00:02.089789",
-      "assets": [
-        {
-          "symbol": "FDRR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.229716,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.706032,
-          "sentiment_score": 0.129505,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.623143,
-          "sentiment_score": 0.122038,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 0.614001,
-          "sentiment_score": 0.118474,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.603177,
-          "sentiment_score": 0.138786,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.908158
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.844186
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.732818
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.633222
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 84,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Foreign Policy Journal",
-          "source_domain": "Foreign Policy Journal",
-          "headline": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
-          "url": "https://www.foreignpolicyjournal.com/2026/08/11/fidelitys-rate-sensitive-dividend-etf-nysearca-fdrr-delivers-growth-but-fails-income-investors-after-fed-cuts/",
-          "published_at": "2026-08-11T21:27:47"
         }
       ]
     }
