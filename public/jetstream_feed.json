@@ -5,6 +5,391 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 96,
+      "title": "NiSource stock (NI): 59% of NIPSCO customers out, highlighting storm recovery costs",
+      "summary": "Severe storms in the Midwest caused power outages for approximately 273,900 NIPSCO customers, representing 59% of its electric customer base, and 92% of Indiana's total outages. This event is prompting investors to focus on NiSource's (NYSE:NI) immediate grid performance and potential storm recovery costs, which have not yet been estimated, despite the company's previous strong EPS guidance and data center growth plans. NiSource shares were trading about 15% below their June peak, and the duration and cost of restoration efforts will significantly influence the financial impact and investor sentiment.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-12T14:38:47",
+      "first_seen_at": "2026-08-12T16:00:02.979590",
+      "assets": [
+        {
+          "symbol": "NI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.332523,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EXC",
+          "asset_class": null,
+          "relevance_score": 0.624776,
+          "sentiment_score": -0.136068,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.617665,
+          "sentiment_score": -0.142118,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 0.6018,
+          "sentiment_score": -0.110899,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.554848,
+          "sentiment_score": 0.104528,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91213
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.82903
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.718235
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620235
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 98,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechStock²",
+          "source_domain": "TechStock²",
+          "headline": "NiSource stock (NI): 59% of NIPSCO customers out, highlighting storm recovery costs",
+          "url": "https://ts2.tech/en/nisource-stock-ni-59-nipsco-outage-puts-storm-recovery-costs-in-focus/",
+          "published_at": "2026-08-12T14:38:47"
+        }
+      ]
+    },
+    {
+      "event_id": 97,
+      "title": "How Raymond James’ Q3 Earnings Beat and AI Push Will Impact Raymond James Financial (RJF) Investors",
+      "summary": "Raymond James Financial (RJF) reported Q3 FY26 earnings per share of $3.14, surpassing analyst estimates due to strong performance in its investment banking, asset management, and banking sectors. This beat reinforces confidence in its diversified business model, especially as the firm heavily invests in AI, advisor recruitment, and banking growth. While these efforts aim to enhance efficiency and market position, investors should consider potential risks like market volatility and the time it might take for technology investments to yield substantial returns.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-12T14:33:48",
+      "first_seen_at": "2026-08-12T16:00:03.324281",
+      "assets": [
+        {
+          "symbol": "RJF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.44452,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932378
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.816479
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.623744
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 99,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "How Raymond James’ Q3 Earnings Beat and AI Push Will Impact Raymond James Financial (RJF) Investors",
+          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-rjf/raymond-james-financial/news/how-raymond-james-q3-earnings-beat-and-ai-push-will-impact-r",
+          "published_at": "2026-08-12T14:33:48"
+        }
+      ]
+    },
+    {
+      "event_id": 98,
+      "title": "EQR: Shareholders approved all proposals enabling the merger with AvalonBay Communities, Inc",
+      "summary": "Shareholders of Equity Residential (EQR) have approved all proposals, including the issuance of shares and a charter amendment, to facilitate its merger with AvalonBay Communities, Inc. All proposals received unanimous board support and passed. The final results will be disclosed in a Form 8-K.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-12T14:33:16",
+      "first_seen_at": "2026-08-12T16:00:03.539931",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 0.993344,
+          "sentiment_score": 0.605251,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 0.910261,
+          "sentiment_score": 0.60164,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.838859
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 100,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "EQR: Shareholders approved all proposals enabling the merger with AvalonBay Communities, Inc",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011127:0-eqr-shareholders-approved-all-proposals-enabling-the-merger-with-avalonbay-communities-inc/",
+          "published_at": "2026-08-12T14:33:16"
+        }
+      ]
+    },
+    {
+      "event_id": 99,
+      "title": "Sysco (NYSE: SYY) details Jetro acquisition, higher leverage and $100M AI cost cuts",
+      "summary": "Sysco (NYSE: SYY) has provided further details on its pending acquisition of Jetro Restaurant Depot, outlining the financial profile of the combined entity and strategies for growth and cost reduction. The company anticipates achieving $100 million in cost savings in fiscal 2027 through technology and AI initiatives, alongside targeting 6-7% sales growth and 9-11% adjusted EPS growth for the same period. Sysco also addressed the expected increase in leverage post-acquisition, projecting net debt to adjusted EBITDA to peak near 4.5x, with a plan to reduce it to a long-term target of 2.75x within 24 months.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-12T14:32:15",
+      "first_seen_at": "2026-08-12T16:00:03.748557",
+      "assets": [
+        {
+          "symbol": "SYY",
+          "asset_class": null,
+          "relevance_score": 0.965426,
+          "sentiment_score": 0.286339,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945944
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.809254
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.631415
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 101,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Sysco (NYSE: SYY) details Jetro acquisition, higher leverage and $100M AI cost cuts",
+          "url": "https://www.stocktitan.net/sec-filings/SYY/425-sysco-corp-business-combination-communication-c8e29f2b33d1.html",
+          "published_at": "2026-08-12T14:32:15"
+        }
+      ]
+    },
+    {
+      "event_id": 100,
+      "title": "Citi's Hollenhorst Weighs Oil Against Domestic Economy",
+      "summary": "Andrew Hollenhorst, chief US economist at Citi, discussed inflation and its potential impact on market expectations with Bloomberg's Vonnie Quinn. The conversation focused on recent trends in price and labor data.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-12T14:29:19",
+      "first_seen_at": "2026-08-12T16:00:03.971553",
+      "assets": [
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.022007,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.835176
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.803261
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741735
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.711751
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.620103
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 102,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.marketscreener.com",
+          "source_domain": "www.marketscreener.com",
+          "headline": "Citi's Hollenhorst Weighs Oil Against Domestic Economy",
+          "url": "https://www.marketscreener.com/news/citi-s-hollenhorst-weighs-oil-against-domestic-economy-ce7859d8dc8ef727",
+          "published_at": "2026-08-12T14:29:19"
+        }
+      ]
+    },
+    {
+      "event_id": 101,
+      "title": "Astorg Completes Acquisition of Thermo Fisher Microbiology Business",
+      "summary": "Astorg has finalized its acquisition of Thermo Fisher Scientific's global microbiology business, which will now operate as an independent entity under the leadership of newly appointed CEO Dirk Bontridder. The new company, serving over 15,000 customers in 100+ countries, aims to accelerate innovation and strengthen its global position in microbiological diagnostics for clinical, food safety, and pharmaceutical applications. Astorg plans to support the company's growth with strategic guidance and capital, with a new corporate brand launching later in 2026.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-12T14:29:07",
+      "first_seen_at": "2026-08-12T16:00:04.206151",
+      "assets": [
+        {
+          "symbol": "TMO",
+          "asset_class": null,
+          "relevance_score": 0.994277,
+          "sentiment_score": -0.118002,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.920952
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.714757
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 103,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Clinical Lab Products",
+          "source_domain": "Clinical Lab Products",
+          "headline": "Astorg Completes Acquisition of Thermo Fisher Microbiology Business",
+          "url": "https://clpmag.com/lab-management/company-news/astorg-acquires-thermo-fisher-microbiology-business-3/",
+          "published_at": "2026-08-12T14:29:07"
+        }
+      ]
+    },
+    {
+      "event_id": 102,
+      "title": "LIQT: Record pool and marine growth offset by energy project delays; guidance cut to $20–$23M",
+      "summary": "LiqTech International (LIQT) reported record commercial pool revenue and marine growth in Q2 2026, but overall revenue decreased by 12% year-over-year due to delays in water for energy projects. As a result, the company revised its full-year guidance to $20–$23 million, while noting a strengthened balance sheet and a strategic focus on markets with repeatable demand. This information is based on the Q2 2026 audio transcript.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-12T14:23:30",
+      "first_seen_at": "2026-08-12T16:00:04.414409",
+      "assets": [
+        {
+          "symbol": "LIQT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.279469,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.846736
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.725438
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 104,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "LIQT: Record pool and marine growth offset by energy project delays; guidance cut to $20–$23M",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011063:0-liqt-record-pool-and-marine-growth-offset-by-energy-project-delays-guidance-cut-to-20-23m/",
+          "published_at": "2026-08-12T14:23:30"
+        }
+      ]
+    },
+    {
       "event_id": 94,
       "title": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
       "summary": "Astorg has successfully acquired the global microbiology business from Thermo Fisher Scientific, establishing it as an independent global diagnostics company. The new entity, which will operate under CEO Dirk Bontridder, serves over 15,000 customers in more than 100 countries with its diagnostic consumables and equipment for clinical, food safety, and pharmaceutical applications. Astorg aims to leverage its healthcare expertise to accelerate innovation and strengthen the company's global position.",
@@ -708,395 +1093,6 @@
           "headline": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
           "url": "https://www.foreignpolicyjournal.com/2026/08/11/fidelitys-rate-sensitive-dividend-etf-nysearca-fdrr-delivers-growth-but-fails-income-investors-after-fed-cuts/",
           "published_at": "2026-08-11T21:27:47"
-        }
-      ]
-    },
-    {
-      "event_id": 83,
-      "title": "Duke Energy cuts proposed rate hike nearly in half as NC regulators weigh settlement",
-      "summary": "Duke Energy has significantly reduced its proposed rate increase for residential customers in North Carolina, cutting it from 18% to 9.3% over two years as part of a settlement under review by the North Carolina Utilities Commission. Despite the reduction, advocates and lawmakers argue that any increase is too much for families already struggling with their budgets. The company asserts that the higher rates are necessary to fund critical investments in grid reliability and that the settlement balances affordability with system needs, also including a $10 million contribution for low-income assistance programs.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 54,
-      "published_at": "2026-08-11T21:23:38",
-      "first_seen_at": "2026-08-11T23:00:02.405657",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.150841,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.906095
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.818631
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.736462
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.608587
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 85,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CBS 17",
-          "source_domain": "CBS 17",
-          "headline": "Duke Energy cuts proposed rate hike nearly in half as NC regulators weigh settlement",
-          "url": "https://www.cbs17.com/news/north-carolina-news/duke-energy-cuts-proposed-rate-hike-nearly-in-half-as-nc-regulators-weigh-settlement/",
-          "published_at": "2026-08-11T21:23:38"
-        }
-      ]
-    },
-    {
-      "event_id": 81,
-      "title": "Phillips 66 and Kinder Morgan's $5 billion Western Gateway Pipeline reaches final investment decision",
-      "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have given their final investment decision for the $5 billion Western Gateway Pipeline, which will run from Texas to Arizona. The companies are currently finalizing the financial contributions and ownership splits for the project.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-11T19:29:44",
-      "first_seen_at": "2026-08-11T21:00:02.621820",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.427528,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMI",
-          "asset_class": null,
-          "relevance_score": 0.960559,
-          "sentiment_score": 0.420317,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930991
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.744708
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 83,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Phillips 66 and Kinder Morgan's $5 billion Western Gateway Pipeline reaches final investment decision",
-          "url": "https://www.bizjournals.com/houston/news/2026/08/11/phillips-66-kinder-morgan-western-gateway-fid.html",
-          "published_at": "2026-08-11T19:29:44"
-        }
-      ]
-    },
-    {
-      "event_id": 78,
-      "title": "American Airlines Stock Slides As Fuel Costs Crush 2026 Outlook",
-      "summary": "American Airlines (AAL) stock slid significantly after management cut its 2026 earnings outlook due to soaring fuel costs and a recent IT outage. The company now forecasts a potential loss for Q3 and a near-breakeven scenario for FY26, leading to price target cuts from Goldman Sachs and Jefferies. Traders are watching AAL for high volatility as thin margins, heavy debt, and cost pressures create a challenging environment despite strong revenue growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-11T19:09:28",
-      "first_seen_at": "2026-08-11T20:00:01.922561",
-      "assets": [
-        {
-          "symbol": "AAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.404618,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 0.644463,
-          "sentiment_score": -0.347338,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 0.638027,
-          "sentiment_score": -0.339255,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 0.601629,
-          "sentiment_score": -0.337365,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937045
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.925706
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836289
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.73598
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.717872
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 80,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "American Airlines Stock Slides As Fuel Costs Crush 2026 Outlook",
-          "url": "https://stockstotrade.com/news/american-airlines-group-inc-aal-news-2026_08_10-2/",
-          "published_at": "2026-08-11T19:09:28"
-        }
-      ]
-    },
-    {
-      "event_id": 79,
-      "title": "NVR Director George Oliver Acquires 63 Shares of NVR Common Stock at $6,431.51 Each",
-      "summary": "NVR Inc. Director George Oliver recently purchased 63 shares of NVR common stock at a price of $6,431.51 per share. This transaction was reported in a statement of changes in beneficial ownership filed on August 11, 2026, indicating the purchase occurred on August 7, 2026. The article highlights this insider acquisition without providing further analysis.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-11T18:26:49",
-      "first_seen_at": "2026-08-11T20:00:02.279980",
-      "assets": [
-        {
-          "symbol": "NVR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.220343,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917119
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.730662
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.611845
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 81,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "NVR Director George Oliver Acquires 63 Shares of NVR Common Stock at $6,431.51 Each",
-          "url": "https://kalkinemedia.com/us/news/announcements/nvr-director-george-oliver-acquires-63-shares-of-nvr-common-stock-at-643151-each",
-          "published_at": "2026-08-11T18:26:49"
-        }
-      ]
-    },
-    {
-      "event_id": 80,
-      "title": "YPF Looks 69.3% Overvalued on GF Value™ at $49.31",
-      "summary": "YPF SA (NYSE: YPF) is deemed 69.3% overvalued according to GuruFocus's GF Value™ at a current price of $49.31, despite strong Q2 results and increased investment forecasts. The company has a GF Score™ of 80/100, indicating good financial health and momentum, though its valuation and financial strength are weaker points. Positive insider and guru buying activity suggests confidence from informed investors, but a distressed Altman Z-Score signals potential bankruptcy risk.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-11T18:11:22",
-      "first_seen_at": "2026-08-11T20:00:02.517825",
-      "assets": [
-        {
-          "symbol": "YPF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.231922,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949555
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.937591
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845441
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.711646
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644948
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 82,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GuruFocus",
-          "source_domain": "GuruFocus",
-          "headline": "YPF Looks 69.3% Overvalued on GF Value™ at $49.31",
-          "url": "https://www.gurufocus.com/news/9025493/ypf-looks-693-overvalued-on-gf-value-at-4931",
-          "published_at": "2026-08-11T18:11:22"
-        }
-      ]
-    },
-    {
-      "event_id": 74,
-      "title": "Valero Energy (NYSE:VLO) Hits New 52-Week High - Time to Buy?",
-      "summary": "Valero Energy (NYSE:VLO) recently reached a new 52-week high of $322.28, trading above its 50-day and 200-day moving averages. The company reported strong Q2 earnings, with EPS of $12.54 and revenue of $44.48 billion, significantly beating analyst expectations. While analysts have a \"Moderate Buy\" consensus, the average price target of $288.00 is below the current share price, and Valero also declared a quarterly dividend of $1.20 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-08-11T18:02:15",
-      "first_seen_at": "2026-08-11T19:00:02.676704",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.532994,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932715
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.926042
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920021
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 76,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Valero Energy (NYSE:VLO) Hits New 52-Week High - Time to Buy?",
-          "url": "https://www.marketbeat.com/instant-alerts/valero-energy-nysevlo-hits-new-52-week-high-time-to-buy-2026-08-11/",
-          "published_at": "2026-08-11T18:02:15"
-        }
-      ]
-    },
-    {
-      "event_id": 75,
-      "title": "Phillips 66, Kinder Morgan, HF Sinclair greenlight Western Gateway pipeline",
-      "summary": "Phillips 66, Kinder Morgan, and HF Sinclair have finalized a joint venture to construct the $5 billion Western Gateway Pipeline. This 1,300-mile refined products system will connect the Midwest and Gulf Coast to Arizona and California, providing a new fuel supply route to the West Coast. The project aims to alleviate California's fuel market vulnerabilities and is expected to be completed in 2029.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-11T17:59:52",
-      "first_seen_at": "2026-08-11T19:00:02.926452",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.443436,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMI",
-          "asset_class": null,
-          "relevance_score": 0.924592,
-          "sentiment_score": 0.449453,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.606807,
-          "sentiment_score": 0.333024,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946497
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.801177
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 77,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The San Joaquin Valley Sun",
-          "source_domain": "The San Joaquin Valley Sun",
-          "headline": "Phillips 66, Kinder Morgan, HF Sinclair greenlight Western Gateway pipeline",
-          "url": "https://sjvsun.com/u-s/phillips-66-kinder-morgan-hf-sinclair-greenlight-western-gateway-pipeline/",
-          "published_at": "2026-08-11T17:59:52"
         }
       ]
     }
