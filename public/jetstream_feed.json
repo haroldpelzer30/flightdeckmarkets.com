@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 89,
+      "title": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
+      "summary": "Wedge Capital Management L L P NC increased its stake in Fidelity National Financial (FNF) by 23.2%, acquiring an additional 134,228 shares, bringing its total holdings to 711,994 shares valued at $33.6 million. Institutional investors now own 81.17% of FNF. The company also announced a quarterly dividend of $0.52 per share, reflecting a 4.4% yield, and reported Q2 earnings of $1.39 per share on $4.05 billion in revenue, exceeding analyst expectations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-12T11:38:32",
+      "first_seen_at": "2026-08-12T13:00:02.516454",
+      "assets": [
+        {
+          "symbol": "FNF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.256969,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937427
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.935039
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.818239
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.737579
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.633134
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 91,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-wedge-capital-management-l-l-p-nc-acquires-134228-shares-of-fidelity-national-financial-inc-fnf-2026-08-12/",
+          "published_at": "2026-08-12T11:38:32"
+        }
+      ]
+    },
+    {
+      "event_id": 90,
+      "title": "Libya Rocked by Zawiya Strikes and Intelligence Chief's Killing",
+      "summary": "Libya is currently facing a series of security and political challenges, including drone strikes on vital infrastructure in Zawiya, the assassination of a high-ranking military intelligence officer in Benghazi, and the resignation request from the Central Bank governor. The United Nations Support Mission in Libya (UNSMIL) has condemned the violence, calling for an immediate halt to fighting and an investigation into the incidents. These events highlight the increasing tensions and instability across the country.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-12T11:36:11",
+      "first_seen_at": "2026-08-12T13:00:02.860744",
+      "assets": [
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 0.743664,
+          "sentiment_score": -0.40557,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.626902,
+          "sentiment_score": -0.339819,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.942408
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.707162
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.628814
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 92,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Egypt Today",
+          "source_domain": "Egypt Today",
+          "headline": "Libya Rocked by Zawiya Strikes and Intelligence Chief's Killing",
+          "url": "https://www.egypttoday.com/Article/1/148856/Libya-Rocked-by-Zawiya-Strikes-and-Intelligence-Chief-s-Killing",
+          "published_at": "2026-08-12T11:36:11"
+        }
+      ]
+    },
+    {
+      "event_id": 91,
+      "title": "Are Wall Street Analysts Bullish on Valero Energy Stock?",
+      "summary": "Valero Energy Corporation (VLO) has significantly outperformed the broader market and its industry peers, driven by strong refining margins, efficient operations, and its renewable diesel platform. Analysts maintain a \"Moderate Buy\" consensus for VLO, with J.P. Morgan Chase & Co. reaffirming a \"Buy\" rating and suggesting further upside potential. The company's recent Q2 earnings also surpassed Wall Street expectations, with analysts projecting substantial EPS growth for the current fiscal year.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-12T11:29:53",
+      "first_seen_at": "2026-08-12T13:00:03.131244",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.451777,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 0.644049,
+          "sentiment_score": 0.318254,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948995
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.94158
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83926
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 93,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Barchart.com",
+          "source_domain": "Barchart.com",
+          "headline": "Are Wall Street Analysts Bullish on Valero Energy Stock?",
+          "url": "https://www.barchart.com/story/news/3800628/are-wall-street-analysts-bullish-on-valero-energy-stock",
+          "published_at": "2026-08-12T11:29:53"
+        }
+      ]
+    },
+    {
       "event_id": 86,
       "title": "Regeneron, Tenet leads top healthcare companies with highest earnings beats (XLV:NYSEARCA)",
       "summary": "Regeneron Pharmaceuticals and Tenet Healthcare lead the healthcare sector with the highest positive earnings per share surprises, according to an analysis of corporate earnings. Other companies with significant beats include Eli Lilly, Biogen, and UnitedHealth. While positive EPS surprises indicate operational resilience and exceeding analyst expectations, they do not guarantee strong corporate fundamentals or future stock outperformance.",
@@ -928,191 +1093,6 @@
           "headline": "Grain Management, LLC completed the acquisition of 800 MHz Spectrum Portfolio from T-Mobile US, Inc..",
           "url": "https://www.marketscreener.com/news/grain-management-llc-completed-the-acquisition-of-800-mhz-spectrum-portfolio-from-t-mobile-us-inc-ce7859dbdd89f627",
           "published_at": "2026-08-11T16:12:04"
-        }
-      ]
-    },
-    {
-      "event_id": 71,
-      "title": "GE Vernova and Oracle among market cap stock movers on Tuesday By Investing.com",
-      "summary": "This article highlights significant stock movements on Tuesday, categorizing them by market capitalization. Companies like GE Vernova, Sea Limited, NIQ Global Intelligence, Quantum Corp, and Babcock & Wilcox Enterprises saw gains, while Oracle, On Holding, First Advantage, and Cardinal Infrastructure Group Ltd experienced declines. The movements are attributed to various factors including strong revenue growth, earnings beats, and lowered guidance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-11T15:08:10",
-      "first_seen_at": "2026-08-11T17:00:02.064590",
-      "assets": [
-        {
-          "symbol": "GEV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.42072,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.901377,
-          "sentiment_score": 0.321678,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LRCX",
-          "asset_class": null,
-          "relevance_score": 0.641228,
-          "sentiment_score": 0.416989,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ANET",
-          "asset_class": null,
-          "relevance_score": 0.60345,
-          "sentiment_score": 0.436289,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913108
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.707035
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 73,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "GE Vernova and Oracle among market cap stock movers on Tuesday By Investing.com",
-          "url": "https://m.in.investing.com/news/stock-market-news/ge-vernova-and-oracle-among-market-cap-stock-movers-on-tuesday-93CH-5549670?ampMode=1",
-          "published_at": "2026-08-11T15:08:10"
-        }
-      ]
-    },
-    {
-      "event_id": 68,
-      "title": "KLA Corp Stock (KLAC) Moved Up by 3.07% on Aug 11: A Full Analysis",
-      "summary": "KLA Corp (KLAC) saw its stock price increase by 3.07% on August 11, driven by strong fourth-quarter fiscal 2026 earnings and optimistic guidance, despite recent sector pullbacks. The company benefits from robust demand in semiconductor capital equipment, especially for AI infrastructure and advanced packaging technologies, where it holds a near-monopoly in critical inspection tools. Positive analyst commentary and strategic shareholder return initiatives further bolstered investor confidence.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-11T14:15:31",
-      "first_seen_at": "2026-08-11T16:00:02.577680",
-      "assets": [
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.601687,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928649
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.901378
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.829164
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.629171
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.619737
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 70,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "KLA Corp Stock (KLAC) Moved Up by 3.07% on Aug 11: A Full Analysis",
-          "url": "https://www.tradingkey.com/news/market-movers/262096218-market-movers-klac-20260811",
-          "published_at": "2026-08-11T14:15:31"
-        }
-      ]
-    },
-    {
-      "event_id": 69,
-      "title": "Analysts Offer Insights on Utilities Companies: PPL (PPL) and Constellation Energy Corporation (CEG)",
-      "summary": "Bank of America Securities analysts Nicolas Woods and Rinny Singh have issued bullish ratings for PPL (PPL) and Constellation Energy Corporation (CEG), respectively, within the Utilities sector. PPL received a \"Strong Buy\" consensus with an 18.1% upside, while Constellation Energy also garnered a \"Strong Buy\" consensus with a 29.8% upside from current levels. Both companies show promising outlooks according to recent analyst reports.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-11T14:13:28",
-      "first_seen_at": "2026-08-11T16:00:02.919494",
-      "assets": [
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.527817,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.479521,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931032
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.819783
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.710354
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.603243
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 71,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "Analysts Offer Insights on Utilities Companies: PPL (PPL) and Constellation Energy Corporation (CEG)",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CEG-Q/pressreleases/3781088/analysts-offer-insights-on-utilities-companies-ppl-ppl-and-constellation-energy-corporation-ceg/",
-          "published_at": "2026-08-11T14:13:28"
         }
       ]
     }
