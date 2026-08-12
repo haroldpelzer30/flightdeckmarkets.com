@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 108,
+      "title": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
+      "summary": "Nucor (NYSE:NUE) is drawing attention as a prominent steel producer ahead of upcoming inflation data, with equity benchmarks near record highs. Despite thin summer trading volumes and rising Treasury yields, metals have held firm, keeping steel companies like Nucor in focus. The company, known for its diversified, scrap-based electric arc furnace steelmaking, serves various industrial sectors and its performance is closely watched as an indicator for the broader North American steel industry.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 67,
+      "published_at": "2026-08-12T18:50:38",
+      "first_seen_at": "2026-08-12T20:00:02.163081",
+      "assets": [
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.144452,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.932887
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843997
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.839821
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.728034
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 110,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/nucor-nysenue-in-focus-as-steel-names-draw-attention-before-inflation-data",
+          "published_at": "2026-08-12T18:50:38"
+        }
+      ]
+    },
+    {
+      "event_id": 109,
+      "title": "AQR group discloses 5.96% holding in Maywood Acquisition Corp. 2 (MYX)",
+      "summary": "AQR Capital Management, LLC, along with AQR Capital Management Holdings, LLC and AQR Arbitrage, LLC, has reported a beneficial ownership of 5.96% in Maywood Acquisition Corp. 2 (MYX). This equates to 625,099 Class A ordinary shares, over which the group exercises shared voting and dispositive power. The filing indicates a neutral sentiment and moderate impact for MYX.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-12T18:18:24",
+      "first_seen_at": "2026-08-12T20:00:02.400406",
+      "assets": [
+        {
+          "symbol": "MYX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.000251,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.905374
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.804607
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717174
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 111,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "AQR group discloses 5.96% holding in Maywood Acquisition Corp. 2 (MYX)",
+          "url": "https://www.stocktitan.net/sec-filings/MYX/schedule-13g-maywood-acquisition-corp-2-passive-investment-disclosure-76a15a9c7052.html",
+          "published_at": "2026-08-12T18:18:24"
+        }
+      ]
+    },
+    {
       "event_id": 106,
       "title": "Perspective: Morning Commentary for August 12",
       "summary": "This morning commentary by Arlan Suderman focuses on July's CPI data, which largely met analyst expectations, and geopolitical events impacting markets. Key issues include a significant Ukrainian attack on Russia's Novorossiysk naval base, raising concerns about commodity exports, and China's aggressive military drills near Taiwan. The article also anticipates the highly awaited WASDE crop report, which is expected to provide updated corn and soybean yields and demand estimates.",
@@ -1027,96 +1125,6 @@
           "headline": "Regeneron, Tenet leads top healthcare companies with highest earnings beats (XLV:NYSEARCA)",
           "url": "https://seekingalpha.com/news/4631362-regeneron-tenet-leads-top-healthcare-companies-with-highest-earnings-beats",
           "published_at": "2026-08-12T10:54:01"
-        }
-      ]
-    },
-    {
-      "event_id": 87,
-      "title": "ConocoPhillips (NYSE:COP) Stock Rating Upgraded by Freedom Capital",
-      "summary": "Freedom Capital has upgraded ConocoPhillips (NYSE:COP) stock from \"hold\" to \"strong buy,\" contributing to a generally positive analyst outlook. The company recently reported strong quarterly results, with EPS of $3.24 and revenue of $19.52 billion, surpassing estimates, and institutional investors own 82.36% of the stock. Despite mixed insider trading and upcoming CEO transition, the company increased shareholder distributions and reaffirmed its guidance, maintaining a consensus \"Moderate Buy\" rating and an average price target of $137.28.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-12T10:42:00",
-      "first_seen_at": "2026-08-12T12:00:03.182436",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.490924,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912788
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.90478
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829454
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 89,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "ConocoPhillips (NYSE:COP) Stock Rating Upgraded by Freedom Capital",
-          "url": "https://www.marketbeat.com/instant-alerts/conocophillips-nysecop-stock-rating-upgraded-by-freedom-capital-2026-08-12/",
-          "published_at": "2026-08-12T10:42:00"
-        }
-      ]
-    },
-    {
-      "event_id": 88,
-      "title": "Amcor PLC earnings beat by $0.04, revenue topped estimates",
-      "summary": "Amcor PLC (NYSE: AMCR) reported strong second-quarter results, exceeding analyst expectations for both earnings per share (EPS) and revenue. The company posted an EPS of $1.23, beating the estimate by $0.04, and revenue of $6.4 billion, surpassing the consensus of $6.05 billion. Despite a recent 29.19% rise in stock price over the last three months, it remains down 4.63% over the past year.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-12T10:41:09",
-      "first_seen_at": "2026-08-12T12:00:03.401660",
-      "assets": [
-        {
-          "symbol": "AMCR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.488901,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.911962
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.712272
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 90,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Amcor PLC earnings beat by $0.04, revenue topped estimates",
-          "url": "https://www.investing.com/news/earnings/amcor-plc-earnings-beat-by-004-revenue-topped-estimates-4854281",
-          "published_at": "2026-08-12T10:41:09"
         }
       ]
     }
