@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 114,
+      "title": "Dominion Energy (D) touts $1.78B in bill credits and job protections in NextEra merger",
+      "summary": "Dominion Energy is publicly advocating for its proposed merger with NextEra Energy, highlighting significant benefits for Virginia customers and employees. These include $1.78 billion in bill credits funded by NextEra shareholders, job protection for all Virginia employees, preserved compensation and benefits, maintenance of its Richmond headquarters, and continued investment in clean energy infrastructure. The communication addresses concerns raised by Virginia Gov. Abigail Spanberger and emphasizes the long-term advantages for the state's economy and energy future, while also listing various regulatory and integration risks.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-08-12T21:33:38",
+      "first_seen_at": "2026-08-12T23:00:02.348351",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.269574,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.966616,
+          "sentiment_score": 0.248181,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.848869
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.704448
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 117,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Dominion Energy (D) touts $1.78B in bill credits and job protections in NextEra merger",
+          "url": "https://www.stocktitan.net/sec-filings/D/425-dominion-energy-inc-business-combination-communication-917cc253f363.html",
+          "published_at": "2026-08-12T21:33:38"
+        }
+      ]
+    },
+    {
       "event_id": 112,
       "title": "AvalonBay, Equity Residential shareholders approve merger",
       "summary": "Shareholders of AvalonBay Communities Inc. (NYSE:AVB) and Equity Residential (NYSE:EQR) have approved all proposals for their merger of equals. The merger is expected to close on Monday, August 17, 2026, after which the combined company will be renamed Vivmark Residential and trade under the ticker symbol VMRK on the NYSE. This strategic move unites two major equity REITs, expanding their presence in key metropolitan areas across the U.S.",
@@ -1087,61 +1142,6 @@
           "headline": "KLA, Snowflake, Airbnb And A Health Care Stock On CNBC’s ‘Final Trades’",
           "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61140134/kla-snowflake-airbnb-and-a-health-care-stock-on-cnbcs-final-trades",
           "published_at": "2026-08-12T12:44:29"
-        }
-      ]
-    },
-    {
-      "event_id": 89,
-      "title": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
-      "summary": "Wedge Capital Management L L P NC increased its stake in Fidelity National Financial (FNF) by 23.2%, acquiring an additional 134,228 shares, bringing its total holdings to 711,994 shares valued at $33.6 million. Institutional investors now own 81.17% of FNF. The company also announced a quarterly dividend of $0.52 per share, reflecting a 4.4% yield, and reported Q2 earnings of $1.39 per share on $4.05 billion in revenue, exceeding analyst expectations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-12T11:38:32",
-      "first_seen_at": "2026-08-12T13:00:02.516454",
-      "assets": [
-        {
-          "symbol": "FNF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.256969,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937427
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935039
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.818239
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.737579
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.633134
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 91,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-wedge-capital-management-l-l-p-nc-acquires-134228-shares-of-fidelity-national-financial-inc-fnf-2026-08-12/",
-          "published_at": "2026-08-12T11:38:32"
         }
       ]
     }
