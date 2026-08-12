@@ -5,6 +5,89 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 110,
+      "title": "Southern Company (NYSE:SO) Moves With Grid And Rate-Sensitive Sector Themes",
+      "summary": "Southern Company (NYSE:SO) is trading in line with the broader utility sector, influenced by rising Treasury yields and the anticipation of tomorrow's inflation data. The company is experiencing significant demand growth driven by data centers in the Southeast, particularly Georgia, necessitating substantial investment in grid modernization and nuclear generation capacity. Its diversified energy portfolio and strong regional presence position it to address these evolving market and demand dynamics.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-12T19:15:50",
+      "first_seen_at": "2026-08-12T21:00:02.182500",
+      "assets": [
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.307053,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.648956,
+          "sentiment_score": 0.133364,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LLY",
+          "asset_class": null,
+          "relevance_score": 0.642286,
+          "sentiment_score": 0.139343,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ISRG",
+          "asset_class": null,
+          "relevance_score": 0.624177,
+          "sentiment_score": 0.139528,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMGN",
+          "asset_class": null,
+          "relevance_score": 0.613849,
+          "sentiment_score": 0.139517,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.945955
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.821917
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.746836
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.635606
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 112,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Southern Company (NYSE:SO) Moves With Grid And Rate-Sensitive Sector Themes",
+          "url": "https://kalkinemedia.com/us/stocks/utility/southern-company-nyseso-moves-with-grid-and-rate-sensitive-sector-themes",
+          "published_at": "2026-08-12T19:15:50"
+        }
+      ]
+    },
+    {
       "event_id": 108,
       "title": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
       "summary": "Nucor (NYSE:NUE) is drawing attention as a prominent steel producer ahead of upcoming inflation data, with equity benchmarks near record highs. Despite thin summer trading volumes and rising Treasury yields, metals have held firm, keeping steel companies like Nucor in focus. The company, known for its diversified, scrap-based electric arc furnace steelmaking, serves various industrial sectors and its performance is closely watched as an indicator for the broader North American steel industry.",
@@ -20,7 +103,7 @@
           "symbol": "NUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.144452,
+          "sentiment_score": 0.125406,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1054,77 +1137,6 @@
           "headline": "Are Wall Street Analysts Bullish on Valero Energy Stock?",
           "url": "https://www.barchart.com/story/news/3800628/are-wall-street-analysts-bullish-on-valero-energy-stock",
           "published_at": "2026-08-12T11:29:53"
-        }
-      ]
-    },
-    {
-      "event_id": 86,
-      "title": "Regeneron, Tenet leads top healthcare companies with highest earnings beats (XLV:NYSEARCA)",
-      "summary": "Regeneron Pharmaceuticals and Tenet Healthcare lead the healthcare sector with the highest positive earnings per share surprises, according to an analysis of corporate earnings. Other companies with significant beats include Eli Lilly, Biogen, and UnitedHealth. While positive EPS surprises indicate operational resilience and exceeding analyst expectations, they do not guarantee strong corporate fundamentals or future stock outperformance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-12T10:54:01",
-      "first_seen_at": "2026-08-12T12:00:02.896113",
-      "assets": [
-        {
-          "symbol": "REGN",
-          "asset_class": null,
-          "relevance_score": 0.970429,
-          "sentiment_score": 0.460747,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BIIB",
-          "asset_class": null,
-          "relevance_score": 0.748562,
-          "sentiment_score": 0.319945,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LLY",
-          "asset_class": null,
-          "relevance_score": 0.65105,
-          "sentiment_score": 0.318178,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UNH",
-          "asset_class": null,
-          "relevance_score": 0.64306,
-          "sentiment_score": 0.32672,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.915048
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.838214
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.643016
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 88,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Regeneron, Tenet leads top healthcare companies with highest earnings beats (XLV:NYSEARCA)",
-          "url": "https://seekingalpha.com/news/4631362-regeneron-tenet-leads-top-healthcare-companies-with-highest-earnings-beats",
-          "published_at": "2026-08-12T10:54:01"
         }
       ]
     }
