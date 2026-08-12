@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 84,
+      "title": "Is MISTRAS Group Inc (MG) Overvalued After Q2 Earnings Miss? GF Score: 66/100",
+      "summary": "MISTRAS Group Inc (MG) reported Q2 2026 revenues of $193.1 million, a 4.2% increase year-over-year, and EPS of $0.23, slightly missing analyst estimates. Despite revenue growth driven by Infrastructure, Power Generation, and Aerospace & Defense sectors, the company faces challenges in the volatile Oil & Gas market. GuruFocus analysis suggests MG is overvalued by approximately 77.2% with a current stock price of $15.79 against an estimated fair value of $8.91, despite solid financial performance and an optimistic outlook for the remainder of 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-11T22:42:20",
+      "first_seen_at": "2026-08-12T00:00:03.437496",
+      "assets": [
+        {
+          "symbol": "MG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.065834,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901179
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.711604
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640613
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.62626
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 86,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "Is MISTRAS Group Inc (MG) Overvalued After Q2 Earnings Miss? GF Score: 66/100",
+          "url": "https://www.gurufocus.com/news/9022467/is-mistras-group-inc-mg-overvalued-after-q2-earnings-miss-gf-score-66100",
+          "published_at": "2026-08-11T22:42:20"
+        }
+      ]
+    },
+    {
+      "event_id": 85,
+      "title": "Aptiv CEO Kevin Clark Acquires 51,190 Shares in Open Market Transaction",
+      "summary": "Aptiv PLC CEO Kevin P. Clark acquired 51,190 ordinary shares of the company on August 10, 2026, through an open market transaction. The shares were purchased at a weighted average price of $48.8901 each. This transaction was disclosed in a Form 4 filed with the SEC on August 11, 2026.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-11T22:26:10",
+      "first_seen_at": "2026-08-12T00:00:03.725354",
+      "assets": [
+        {
+          "symbol": "APTV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.365822,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922775
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.700679
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 87,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Aptiv CEO Kevin Clark Acquires 51,190 Shares in Open Market Transaction",
+          "url": "https://kalkinemedia.com/us/news/announcements/aptiv-ceo-kevin-clark-acquires-51190-shares-in-open-market-transaction",
+          "published_at": "2026-08-11T22:26:10"
+        }
+      ]
+    },
+    {
       "event_id": 82,
       "title": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
       "summary": "The Fidelity Dividend ETF for Rising Rates (FDRR), designed for a rising rate environment, is facing questions about its suitability for income investors following recent Federal Reserve rate cuts. Despite annual distribution growth, its current yield of 2.12% is lower than traditional high-dividend peers, and its portfolio is heavily concentrated in tech giants, making it more of a total-return vehicle than a source of steady income. While competent for dividend-tilted exposure to large-cap growth, it may not meet the needs of investors seeking predictable quarterly income.",
@@ -1008,112 +1102,6 @@
           "headline": "Patrick Industries files HSR notifications for proposed LCI mergers",
           "url": "https://www.tradingview.com/news/tradingview:db4bb18fc133d:0",
           "published_at": "2026-08-11T13:13:02"
-        }
-      ]
-    },
-    {
-      "event_id": 62,
-      "title": "Plug Power Stock Jumps as Earnings Beat Points to Profitability, Say Analysts",
-      "summary": "Plug Power's stock saw a significant increase after the hydrogen technology company announced strong second-quarter results and raised its full-year revenue guidance. This positive earnings report has led analysts to suggest the company is moving towards profitability.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-11T12:41:05",
-      "first_seen_at": "2026-08-11T14:00:02.324588",
-      "assets": [
-        {
-          "symbol": "PLUG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.504797,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 0.637614,
-          "sentiment_score": 0.112952,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.615397,
-          "sentiment_score": 0.100039,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920474
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.708451
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.647558
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 64,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barron's",
-          "source_domain": "Barron's",
-          "headline": "Plug Power Stock Jumps as Earnings Beat Points to Profitability, Say Analysts",
-          "url": "https://www.barrons.com/articles/plug-power-earnings-stock-price-f578c238",
-          "published_at": "2026-08-11T12:41:05"
-        }
-      ]
-    },
-    {
-      "event_id": 63,
-      "title": "Preformed Line Products (PLPC) Is Up 29.2% After Earnings Beat And 11.3% Share Buyback Completion",
-      "summary": "Preformed Line Products (PLPC) saw its stock rise 29.2% after reporting strong Q2 2026 earnings, with sales of US$212.68 million and net income of US$21.51 million. The company also completed a significant share buyback, repurchasing 11.3% of its shares for US$64.95 million. Despite the positive results and buyback, the article highlights the importance of believing in the long-term need for grid hardening and acknowledges valuation risks due to the sharp share price run and rich earnings multiple.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-11T12:41:04",
-      "first_seen_at": "2026-08-11T14:00:02.637408",
-      "assets": [
-        {
-          "symbol": "PLPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.430528,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916225
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.838738
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 65,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Preformed Line Products (PLPC) Is Up 29.2% After Earnings Beat And 11.3% Share Buyback Completion",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-plpc/preformed-line-products/news/preformed-line-products-plpc-is-up-292-after-earnings-beat-a",
-          "published_at": "2026-08-11T12:41:04"
         }
       ]
     }
