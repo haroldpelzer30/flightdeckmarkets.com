@@ -5,6 +5,121 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 112,
+      "title": "AvalonBay, Equity Residential shareholders approve merger",
+      "summary": "Shareholders of AvalonBay Communities Inc. (NYSE:AVB) and Equity Residential (NYSE:EQR) have approved all proposals for their merger of equals. The merger is expected to close on Monday, August 17, 2026, after which the combined company will be renamed Vivmark Residential and trade under the ticker symbol VMRK on the NYSE. This strategic move unites two major equity REITs, expanding their presence in key metropolitan areas across the U.S.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-12T20:59:45",
+      "first_seen_at": "2026-08-12T22:00:02.393653",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40948,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.432658,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.933269
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 115,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "Equity Residential, AvalonBay shareholders approve merger (EQR:NYSE)",
+          "url": "https://seekingalpha.com/news/4631896-equity-residential-avalonbay-shareholders-approve-merger",
+          "published_at": "2026-08-12T20:37:11"
+        },
+        {
+          "article_id": 114,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "AvalonBay, Equity Residential shareholders approve merger",
+          "url": "https://www.investing.com/news/company-news/avalonbay-equity-residential-shareholders-approve-merger-93CH-4856034",
+          "published_at": "2026-08-12T20:59:45"
+        }
+      ]
+    },
+    {
+      "event_id": 113,
+      "title": "AvalonBay Communities (NYSE: AVB) holders approve merger and 2.793‑for‑1 share exchange",
+      "summary": "AvalonBay Communities stockholders overwhelmingly approved the proposed merger of equals with Equity Residential, along with merger-related compensation and an adjournment proposal, at a special meeting on August 12, 2026. The merger is expected to close on August 17, 2026, with each AvalonBay share converting into 2.793 Equity Residential common shares. The combined entity will be named Vivmark Residential and will trade on the NYSE under the ticker \"VMRK.\"",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-12T20:40:11",
+      "first_seen_at": "2026-08-12T22:00:02.728781",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.463774,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 0.892026,
+          "sentiment_score": 0.41438,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.827067
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725374
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 116,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "AvalonBay Communities (NYSE: AVB) holders approve merger and 2.793‑for‑1 share exchange",
+          "url": "https://www.stocktitan.net/sec-filings/AVB/8-k-avalonbay-communities-inc-reports-material-event-a29ef2c91b48.html",
+          "published_at": "2026-08-12T20:40:11"
+        }
+      ]
+    },
+    {
       "event_id": 110,
       "title": "Southern Company (NYSE:SO) Moves With Grid And Rate-Sensitive Sector Themes",
       "summary": "Southern Company (NYSE:SO) is trading in line with the broader utility sector, influenced by rising Treasury yields and the anticipation of tomorrow's inflation data. The company is experiencing significant demand growth driven by data centers in the Southeast, particularly Georgia, necessitating substantial investment in grid modernization and nuclear generation capacity. Its diversified energy portfolio and strong regional presence position it to address these evolving market and demand dynamics.",
@@ -1027,116 +1142,6 @@
           "headline": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
           "url": "https://www.marketbeat.com/instant-alerts/filing-wedge-capital-management-l-l-p-nc-acquires-134228-shares-of-fidelity-national-financial-inc-fnf-2026-08-12/",
           "published_at": "2026-08-12T11:38:32"
-        }
-      ]
-    },
-    {
-      "event_id": 90,
-      "title": "Libya Rocked by Zawiya Strikes and Intelligence Chief's Killing",
-      "summary": "Libya is currently facing a series of security and political challenges, including drone strikes on vital infrastructure in Zawiya, the assassination of a high-ranking military intelligence officer in Benghazi, and the resignation request from the Central Bank governor. The United Nations Support Mission in Libya (UNSMIL) has condemned the violence, calling for an immediate halt to fighting and an investigation into the incidents. These events highlight the increasing tensions and instability across the country.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-12T11:36:11",
-      "first_seen_at": "2026-08-12T13:00:02.860744",
-      "assets": [
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.743664,
-          "sentiment_score": -0.40557,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.626902,
-          "sentiment_score": -0.339819,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.942408
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.707162
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.628814
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 92,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Egypt Today",
-          "source_domain": "Egypt Today",
-          "headline": "Libya Rocked by Zawiya Strikes and Intelligence Chief's Killing",
-          "url": "https://www.egypttoday.com/Article/1/148856/Libya-Rocked-by-Zawiya-Strikes-and-Intelligence-Chief-s-Killing",
-          "published_at": "2026-08-12T11:36:11"
-        }
-      ]
-    },
-    {
-      "event_id": 91,
-      "title": "Are Wall Street Analysts Bullish on Valero Energy Stock?",
-      "summary": "Valero Energy Corporation (VLO) has significantly outperformed the broader market and its industry peers, driven by strong refining margins, efficient operations, and its renewable diesel platform. Analysts maintain a \"Moderate Buy\" consensus for VLO, with J.P. Morgan Chase & Co. reaffirming a \"Buy\" rating and suggesting further upside potential. The company's recent Q2 earnings also surpassed Wall Street expectations, with analysts projecting substantial EPS growth for the current fiscal year.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-12T11:29:53",
-      "first_seen_at": "2026-08-12T13:00:03.131244",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.451777,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.644049,
-          "sentiment_score": 0.318254,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948995
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.94158
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83926
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 93,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barchart.com",
-          "source_domain": "Barchart.com",
-          "headline": "Are Wall Street Analysts Bullish on Valero Energy Stock?",
-          "url": "https://www.barchart.com/story/news/3800628/are-wall-street-analysts-bullish-on-valero-energy-stock",
-          "published_at": "2026-08-12T11:29:53"
         }
       ]
     }
