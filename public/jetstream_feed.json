@@ -5,6 +5,89 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 106,
+      "title": "Perspective: Morning Commentary for August 12",
+      "summary": "This morning commentary by Arlan Suderman focuses on July's CPI data, which largely met analyst expectations, and geopolitical events impacting markets. Key issues include a significant Ukrainian attack on Russia's Novorossiysk naval base, raising concerns about commodity exports, and China's aggressive military drills near Taiwan. The article also anticipates the highly awaited WASDE crop report, which is expected to provide updated corn and soybean yields and demand estimates.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-12T17:13:08",
+      "first_seen_at": "2026-08-12T19:00:02.395432",
+      "assets": [
+        {
+          "symbol": "SNEX",
+          "asset_class": null,
+          "relevance_score": 0.921378,
+          "sentiment_score": 0.14697,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.646821,
+          "sentiment_score": -0.111693,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.640105,
+          "sentiment_score": -0.130045,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.618347,
+          "sentiment_score": -0.125397,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.603308,
+          "sentiment_score": -0.124422,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.934318
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.848642
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.707773
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.704364
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 108,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StoneX",
+          "source_domain": "StoneX",
+          "headline": "Perspective: Morning Commentary for August 12",
+          "url": "https://www.stonex.com/en-us/insights/perspective-morning-commentary-for-august-12-2026-08-12/",
+          "published_at": "2026-08-12T17:13:08"
+        }
+      ]
+    },
+    {
       "event_id": 105,
       "title": "REAX: Acquisition of RE/MAX creates a global, tech-driven real estate leader with major synergy potential",
       "summary": "The article highlights that REAX's agent count and revenue have grown due to its tech-enabled platform and strong agent economics. The acquisition of RE/MAX is expected to form a global real estate leader, diversifying revenue streams, creating significant cost synergies, and opening up major AI-driven consumer engagement opportunities. This summary is based on The Real Brokerage, Inc.'s Oppenheimer Conference Audio Transcript from August 12, 2026.",
@@ -1034,57 +1117,6 @@
           "headline": "Amcor PLC earnings beat by $0.04, revenue topped estimates",
           "url": "https://www.investing.com/news/earnings/amcor-plc-earnings-beat-by-004-revenue-topped-estimates-4854281",
           "published_at": "2026-08-12T10:41:09"
-        }
-      ]
-    },
-    {
-      "event_id": 84,
-      "title": "Is MISTRAS Group Inc (MG) Overvalued After Q2 Earnings Miss? GF Score: 66/100",
-      "summary": "MISTRAS Group Inc (MG) reported Q2 2026 revenues of $193.1 million, a 4.2% increase year-over-year, and EPS of $0.23, slightly missing analyst estimates. Despite revenue growth driven by Infrastructure, Power Generation, and Aerospace & Defense sectors, the company faces challenges in the volatile Oil & Gas market. GuruFocus analysis suggests MG is overvalued by approximately 77.2% with a current stock price of $15.79 against an estimated fair value of $8.91, despite solid financial performance and an optimistic outlook for the remainder of 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-11T22:42:20",
-      "first_seen_at": "2026-08-12T00:00:03.437496",
-      "assets": [
-        {
-          "symbol": "MG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.065834,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901179
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.711604
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.640613
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.62626
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 86,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GuruFocus",
-          "source_domain": "GuruFocus",
-          "headline": "Is MISTRAS Group Inc (MG) Overvalued After Q2 Earnings Miss? GF Score: 66/100",
-          "url": "https://www.gurufocus.com/news/9022467/is-mistras-group-inc-mg-overvalued-after-q2-earnings-miss-gf-score-66100",
-          "published_at": "2026-08-11T22:42:20"
         }
       ]
     }
