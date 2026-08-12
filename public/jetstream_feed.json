@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 94,
+      "title": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
+      "summary": "Astorg has successfully acquired the global microbiology business from Thermo Fisher Scientific, establishing it as an independent global diagnostics company. The new entity, which will operate under CEO Dirk Bontridder, serves over 15,000 customers in more than 100 countries with its diagnostic consumables and equipment for clinical, food safety, and pharmaceutical applications. Astorg aims to leverage its healthcare expertise to accelerate innovation and strengthen the company's global position.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-12T13:38:27",
+      "first_seen_at": "2026-08-12T15:00:01.994730",
+      "assets": [
+        {
+          "symbol": "TMO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.103416,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.930875
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.803546
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.648179
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 96,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BioSpace",
+          "source_domain": "BioSpace",
+          "headline": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
+          "url": "https://www.biospace.com/press-releases/astorg-completes-acquisition-of-microbiology-business-from-thermo-fisher-scientific-establishing-an-independent-global-diagnostics-specialist",
+          "published_at": "2026-08-12T13:38:27"
+        }
+      ]
+    },
+    {
+      "event_id": 95,
+      "title": "Understanding implications for vertical mergers from the FTCs recent review of IonQ and SkyWater",
+      "summary": "The FTC closed its investigation into IonQ's $1.8 billion acquisition of SkyWater, allowing the vertical merger to proceed despite differing views from the two Commissioners. Their statements highlight the importance of case-specific evidence, willingness to consider efficiencies and behavioral remedies, and potential consideration of broader administration policy in evaluating vertical mergers. This outcome suggests that the FTC may expedite some significant vertical merger reviews and be open to arguments about procompetitive benefits.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-12T13:23:29",
+      "first_seen_at": "2026-08-12T15:00:02.270024",
+      "assets": [
+        {
+          "symbol": "IONQ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.242393,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725624
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.644614
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 97,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WilmerHale",
+          "source_domain": "WilmerHale",
+          "headline": "Understanding implications for vertical mergers from the FTCs recent review of IonQ and SkyWater",
+          "url": "https://www.wilmerhale.com/en/insights/client-alerts/20260811-understanding-implications-for-vertical-mergers-from-the-ftcs-recent-review-of-ionq-and-skywater",
+          "published_at": "2026-08-12T13:23:29"
+        }
+      ]
+    },
+    {
       "event_id": 92,
       "title": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts",
       "summary": "A new Principal Financial Well-Being Index℠ survey reveals that 69% of employers report employees are delaying retirement due to financial uncertainty, primarily rising cost of living and inflation. While employer sentiment about the economy is improving, only a small fraction (1.4%) of businesses attribute staffing decreases to AI or automation, with most expecting AI to increase staffing and wages or keep staffing stable.",
@@ -1003,96 +1097,6 @@
           "headline": "Phillips 66, Kinder Morgan, HF Sinclair greenlight Western Gateway pipeline",
           "url": "https://sjvsun.com/u-s/phillips-66-kinder-morgan-hf-sinclair-greenlight-western-gateway-pipeline/",
           "published_at": "2026-08-11T17:59:52"
-        }
-      ]
-    },
-    {
-      "event_id": 76,
-      "title": "Air Canada Hits Five-Year High as Analysts Talk Up Blackstone Deal",
-      "summary": "Air Canada shares reached a five-year high after Bloomberg News reported that Blackstone Inc. is close to acquiring a minority stake in its Aeroplan loyalty program for approximately $2 billion. Analysts believe this potential deal suggests a higher valuation for Aeroplan than previously recognized by the market, leading to an upgrade in Air Canada's stock rating.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-11T17:44:18",
-      "first_seen_at": "2026-08-11T19:00:03.177125",
-      "assets": [
-        {
-          "symbol": "BX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40866,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918069
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.905093
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.707136
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 78,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg.com",
-          "source_domain": "Bloomberg.com",
-          "headline": "Air Canada Hits Five-Year High as Analysts Talk Up Blackstone Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-11/air-canada-hits-five-year-high-as-analysts-talk-up-blackstone-deal",
-          "published_at": "2026-08-11T17:44:18"
-        }
-      ]
-    },
-    {
-      "event_id": 77,
-      "title": "S&P Global survey: Risk appetite is highest since January",
-      "summary": "An S&P Global survey indicates that risk appetite among investors has reached its highest level since January. The full article is available through a TradingView subscription, offering access to content from Reuters and other news sources.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-08-11T17:34:59",
-      "first_seen_at": "2026-08-11T19:00:03.388796",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.342705,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.937366
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 79,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "S&P Global survey: Risk appetite is highest since January",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4480RY:0-s-p-global-survey-risk-appetite-is-highest-since-january/",
-          "published_at": "2026-08-11T17:34:59"
         }
       ]
     }
