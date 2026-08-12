@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 92,
+      "title": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts",
+      "summary": "A new Principal Financial Well-Being Index℠ survey reveals that 69% of employers report employees are delaying retirement due to financial uncertainty, primarily rising cost of living and inflation. While employer sentiment about the economy is improving, only a small fraction (1.4%) of businesses attribute staffing decreases to AI or automation, with most expecting AI to increase staffing and wages or keep staffing stable.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-12T13:00:23",
+      "first_seen_at": "2026-08-12T14:00:02.418693",
+      "assets": [
+        {
+          "symbol": "PFG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.296985,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.939272
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.805854
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 94,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts",
+          "url": "https://www.stocktitan.net/news/PFG/financial-uncertainty-pushes-workers-to-delay-retirement-principal-wa85q3rs01as.html",
+          "published_at": "2026-08-12T13:00:23"
+        }
+      ]
+    },
+    {
+      "event_id": 93,
+      "title": "KLA, Snowflake, Airbnb And A Health Care Stock On CNBC’s ‘Final Trades’",
+      "summary": "On CNBC's \"Halftime Report Final Trades,\" experts shared their top stock picks. Joshua Brown recommended Snowflake, Rob Sechan chose KLA Corporation, Brian Belski suggested Gilead Sciences, and Joseph M. Terranova picked Airbnb. Each recommendation was supported by recent financial performance or analyst ratings.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-12T12:44:29",
+      "first_seen_at": "2026-08-12T14:00:02.649054",
+      "assets": [
+        {
+          "symbol": "KLAC",
+          "asset_class": null,
+          "relevance_score": 0.954066,
+          "sentiment_score": 0.34953,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ABNB",
+          "asset_class": null,
+          "relevance_score": 0.864498,
+          "sentiment_score": 0.322362,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GILD",
+          "asset_class": null,
+          "relevance_score": 0.831553,
+          "sentiment_score": 0.336229,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.926962
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907677
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.738422
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.731953
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 95,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "KLA, Snowflake, Airbnb And A Health Care Stock On CNBC’s ‘Final Trades’",
+          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61140134/kla-snowflake-airbnb-and-a-health-care-stock-on-cnbcs-final-trades",
+          "published_at": "2026-08-12T12:44:29"
+        }
+      ]
+    },
+    {
       "event_id": 89,
       "title": "Wedge Capital Management L L P NC Acquires 134,228 Shares of Fidelity National Financial, Inc. $FNF",
       "summary": "Wedge Capital Management L L P NC increased its stake in Fidelity National Financial (FNF) by 23.2%, acquiring an additional 134,228 shares, bringing its total holdings to 711,994 shares valued at $33.6 million. Institutional investors now own 81.17% of FNF. The company also announced a quarterly dividend of $0.52 per share, reflecting a 4.4% yield, and reported Q2 earnings of $1.39 per share on $4.05 billion in revenue, exceeding analyst expectations.",
@@ -983,116 +1093,6 @@
           "headline": "S&P Global survey: Risk appetite is highest since January",
           "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4480RY:0-s-p-global-survey-risk-appetite-is-highest-since-january/",
           "published_at": "2026-08-11T17:34:59"
-        }
-      ]
-    },
-    {
-      "event_id": 72,
-      "title": "Boeing sells Wisk flying taxi, drone units to Archer",
-      "summary": "Boeing is selling its Wisk, SkyGrid, and Insitu units, which focus on flying taxis and drones, to Archer Aviation Inc. This move allows Boeing to concentrate on its core commercial and defense businesses while acquiring an almost 20% stake in Archer and forming a technology-sharing partnership. The acquisition is expected to accelerate Archer's autonomous aircraft ambitions and reshape its shareholder base, though FAA certification for Archer's Midnight aircraft is still at least a year away.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-11T16:37:10",
-      "first_seen_at": "2026-08-11T18:00:01.851684",
-      "assets": [
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.974755,
-          "sentiment_score": 0.10784,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LHX",
-          "asset_class": null,
-          "relevance_score": 0.63884,
-          "sentiment_score": 0.131155,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.595902,
-          "sentiment_score": 0.098833,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.915104
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.829524
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.620657
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 74,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Transport Topics",
-          "source_domain": "Transport Topics",
-          "headline": "Boeing sells Wisk flying taxi, drone units to Archer",
-          "url": "https://www.ttnews.com/articles/boeing-wisk-drone-archer",
-          "published_at": "2026-08-11T16:37:10"
-        }
-      ]
-    },
-    {
-      "event_id": 73,
-      "title": "Grain Management, LLC completed the acquisition of 800 MHz Spectrum Portfolio from T-Mobile US, Inc..",
-      "summary": "Grain Management, LLC has completed its acquisition of T-Mobile US, Inc.'s 800 MHz Spectrum Portfolio. The transaction, initially agreed upon in March 2025, involved a combination of $2.9 billion in cash and Grain's 600 MHz spectrum licenses, along with a share of future monetization proceeds. Regulatory approvals, including the FCC's, were secured, and the deal officially closed on August 11, 2026.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-11T16:12:04",
-      "first_seen_at": "2026-08-11T18:00:02.135757",
-      "assets": [
-        {
-          "symbol": "TMUS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.331052,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.831978
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 75,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Grain Management, LLC completed the acquisition of 800 MHz Spectrum Portfolio from T-Mobile US, Inc..",
-          "url": "https://www.marketscreener.com/news/grain-management-llc-completed-the-acquisition-of-800-mhz-spectrum-portfolio-from-t-mobile-us-inc-ce7859dbdd89f627",
-          "published_at": "2026-08-11T16:12:04"
         }
       ]
     }
