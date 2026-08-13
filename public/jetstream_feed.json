@@ -5,6 +5,270 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 133,
+      "title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
+      "summary": "Michigan's utility regulator, the Michigan Public Service Commission (MPSC), is urging state lawmakers to end annual rate increases and revise how utilities like DTE and Consumers Energy profit. The MPSC believes this change, allowing for multi-year rate plans tied to performance, would be more effective in lowering household energy bills and improving reliability than current commission powers. This comes after four rate hikes in eight months, highlighting concerns that the current system incentivizes expensive capital projects over cheaper alternatives like maintenance and existing infrastructure optimization.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 53,
+      "published_at": "2026-08-13T19:57:49",
+      "first_seen_at": "2026-08-13T21:00:01.878334",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.339527,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 0.812643,
+          "sentiment_score": -0.311729,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WEC",
+          "asset_class": null,
+          "relevance_score": 0.626036,
+          "sentiment_score": -0.230154,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.941275
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.805388
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.71603
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60828
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 136,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Planet Detroit",
+          "source_domain": "Planet Detroit",
+          "headline": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
+          "url": "https://planetdetroit.org/2026/08/mpsc-dte-consumers-recommendations/",
+          "published_at": "2026-08-13T19:57:49"
+        }
+      ]
+    },
+    {
+      "event_id": 134,
+      "title": "This is a ‘resilient’ market, says Morgan Stanley’s Lisa Shalett",
+      "summary": "Lisa Shalett, CIO at Morgan Stanley Wealth Management, describes the current market as \"resilient.\" She discusses market activity throughout the year and provides insights into why she uses that term. The article features a video of her discussing these points on 'Power Lunch'.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-13T19:08:55",
+      "first_seen_at": "2026-08-13T21:00:02.150069",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.340479,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TPR",
+          "asset_class": null,
+          "relevance_score": 0.625621,
+          "sentiment_score": 0.310867,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941197
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.831594
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.716102
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.637985
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 137,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "This is a ‘resilient’ market, says Morgan Stanley’s Lisa Shalett",
+          "url": "https://www.cnbc.com/video/2026/08/13/this-is-a-resilient-market-says-morgan-stanleys-lisa-shalett.html",
+          "published_at": "2026-08-13T19:08:55"
+        }
+      ]
+    },
+    {
+      "event_id": 135,
+      "title": "Kimberly-Clark secures $45M tariff refund, half of what it paid in 2026",
+      "summary": "Kimberly-Clark received a $45 million tariff refund in Q2 2026, which is approximately half of what it paid in North American tariffs last year. The company plans to use these funds to offset $150 million in gross input costs from rising oil prices in the second half of the year, aiming to maintain price stability. Other companies like McCormick & Co., E.l.f. Beauty, Nintendo, and Amazon have also received significant tariff refunds following the Supreme Court's nullification of certain tariffs.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-13T19:07:38",
+      "first_seen_at": "2026-08-13T21:00:02.425053",
+      "assets": [
+        {
+          "symbol": "KMB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.469666,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.712969,
+          "sentiment_score": 0.31402,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 0.60404,
+          "sentiment_score": 0.335151,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MKC",
+          "asset_class": null,
+          "relevance_score": 0.603114,
+          "sentiment_score": 0.307804,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.934079
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.814312
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.720501
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.62532
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.619505
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 138,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Supply Chain Dive",
+          "source_domain": "Supply Chain Dive",
+          "headline": "Kimberly-Clark secures $45M tariff refund, half of what it paid in 2026",
+          "url": "https://www.supplychaindive.com/news/kimberly-clark-secures-45m-tariff-refund-half-of-what-it-paid-in-2026/827707/",
+          "published_at": "2026-08-13T19:07:38"
+        }
+      ]
+    },
+    {
+      "event_id": 136,
+      "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
+      "summary": "PTC Therapeutics has won a bankruptcy auction for Sangamo Therapeutics' gene therapy candidate, isaralgagene civaparvovec (ST-920), for Fabry disease, with a bid of $111 million upfront and up to $100 million in milestone payments. This acquisition expands PTC's rare disease pipeline, bringing a therapy already in the regulatory review process with an anticipated FDA approval by 2027. The deal comes after Sangamo Therapeutics filed for Chapter 11 bankruptcy following failed attempts to find strategic alternatives for its programs.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-13T19:05:26",
+      "first_seen_at": "2026-08-13T21:00:02.788745",
+      "assets": [
+        {
+          "symbol": "PTCT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.486841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PFE",
+          "asset_class": null,
+          "relevance_score": 0.636652,
+          "sentiment_score": -0.324168,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BIIB",
+          "asset_class": null,
+          "relevance_score": 0.619602,
+          "sentiment_score": -0.313012,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.912322
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.836123
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 139,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MedCity News",
+          "source_domain": "MedCity News",
+          "headline": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
+          "url": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
+          "published_at": "2026-08-13T19:05:26"
+        }
+      ]
+    },
+    {
       "event_id": 132,
       "title": "Parker-Hannifin Corporation (NYSE:PH) completed the acquisition of Filtration Group Corporation from Madison Capital Partners Corporation.",
       "summary": "Parker-Hannifin Corporation (NYSE:PH) has completed its acquisition of Filtration Group Corporation from Madison Capital Partners Corporation for $9.3 billion. The transaction, which was initially announced on November 10, 2025, excludes Filtration Group's Facet business. This acquisition is expected to boost Parker-Hannifin's organic growth, EBITDA margin, adjusted EPS, and cash flow, with a high single-digit cash ROIC projected by year five.",
@@ -897,215 +1161,6 @@
           "headline": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
           "url": "https://www.marketbeat.com/instant-alerts/filing-goelzer-investment-management-inc-acquires-new-stake-in-devon-energy-corporation-dvn-2026-08-13/",
           "published_at": "2026-08-13T10:39:53"
-        }
-      ]
-    },
-    {
-      "event_id": 115,
-      "title": "AMETEK Director Nick L. Stanage Acquires 4,000 Shares of Common Stock",
-      "summary": "AMETEK Director Nick L. Stanage purchased 4,000 shares of the company's common stock on August 11, 2026, at a price of $255.85 per share. This open-market transaction increased his direct ownership to 4,760 shares. The Form 4 filing with the SEC, dated August 12, 2026, details this acquisition.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-12T22:45:08",
-      "first_seen_at": "2026-08-13T00:00:02.694471",
-      "assets": [
-        {
-          "symbol": "AME",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.337284,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.926108
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.814624
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.640762
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 118,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "AMETEK Director Nick L. Stanage Acquires 4,000 Shares of Common Stock",
-          "url": "https://kalkinemedia.com/us/news/announcements/ametek-director-nick-l-stanage-acquires-4000-shares-of-common-stock",
-          "published_at": "2026-08-12T22:45:08"
-        }
-      ]
-    },
-    {
-      "event_id": 116,
-      "title": "BBSI Q2 2026 Earnings Call Transcript",
-      "summary": "BBSI reported Q2 2026 revenue of $319.3 million, a 4% increase, and net income of $12.9 million, or $0.52 per diluted share. Despite macroeconomic headwinds leading to existing client workforce reductions, the company saw 17% growth in new client acquisitions and expanded its service offerings. BBSI expects 2026 to be a \"low watermark\" for gross margin due to rising California workers' compensation costs but anticipates improvement in 2027 as rate increases are gradually applied to client renewals.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-12T22:15:16",
-      "first_seen_at": "2026-08-13T00:00:02.954144",
-      "assets": [
-        {
-          "symbol": "BBSI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.222048,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.913879
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.70167
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 119,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "BBSI Q2 2026 Earnings Call Transcript",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3815483/bbsi-q2-2026-earnings-call-transcript/",
-          "published_at": "2026-08-12T22:15:16"
-        }
-      ]
-    },
-    {
-      "event_id": 114,
-      "title": "Dominion Energy (D) touts $1.78B in bill credits and job protections in NextEra merger",
-      "summary": "Dominion Energy is publicly advocating for its proposed merger with NextEra Energy, highlighting significant benefits for Virginia customers and employees. These include $1.78 billion in bill credits funded by NextEra shareholders, job protection for all Virginia employees, preserved compensation and benefits, maintenance of its Richmond headquarters, and continued investment in clean energy infrastructure. The communication addresses concerns raised by Virginia Gov. Abigail Spanberger and emphasizes the long-term advantages for the state's economy and energy future, while also listing various regulatory and integration risks.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-08-12T21:33:38",
-      "first_seen_at": "2026-08-12T23:00:02.348351",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.269574,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.966616,
-          "sentiment_score": 0.248181,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.848869
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.704448
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 117,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Dominion Energy (D) touts $1.78B in bill credits and job protections in NextEra merger",
-          "url": "https://www.stocktitan.net/sec-filings/D/425-dominion-energy-inc-business-combination-communication-917cc253f363.html",
-          "published_at": "2026-08-12T21:33:38"
-        }
-      ]
-    },
-    {
-      "event_id": 112,
-      "title": "AvalonBay, Equity Residential shareholders approve merger",
-      "summary": "Shareholders of AvalonBay Communities Inc. (NYSE:AVB) and Equity Residential (NYSE:EQR) have approved all proposals for their merger of equals. The merger is expected to close on Monday, August 17, 2026, after which the combined company will be renamed Vivmark Residential and trade under the ticker symbol VMRK on the NYSE. This strategic move unites two major equity REITs, expanding their presence in key metropolitan areas across the U.S.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-12T20:59:45",
-      "first_seen_at": "2026-08-12T22:00:02.393653",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40948,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.432658,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.933269
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 115,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Equity Residential, AvalonBay shareholders approve merger (EQR:NYSE)",
-          "url": "https://seekingalpha.com/news/4631896-equity-residential-avalonbay-shareholders-approve-merger",
-          "published_at": "2026-08-12T20:37:11"
-        },
-        {
-          "article_id": 114,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "AvalonBay, Equity Residential shareholders approve merger",
-          "url": "https://www.investing.com/news/company-news/avalonbay-equity-residential-shareholders-approve-merger-93CH-4856034",
-          "published_at": "2026-08-12T20:59:45"
         }
       ]
     }
