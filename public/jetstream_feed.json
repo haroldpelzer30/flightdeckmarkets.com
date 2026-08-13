@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 118,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abbott Labs, AbbVie, Akamai Technologies, Five Below, Keurig Dr. Pepper, Salesforce, Stryker, StubHub, and More",
+      "summary": "This article details Wall Street analyst upgrades, downgrades, and initiations for various companies on Thursday, August 13, 2026, following the release of inline CPI data. Key movements include Five Below being upgraded to Buy at Jefferies and StubHub being cut to Underperform at Bank of America. The article also provides a general market overview, including performance of indices, treasury bonds, commodities, and cryptocurrency.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-08-13T11:54:00",
+      "first_seen_at": "2026-08-13T13:00:02.051740",
+      "assets": [
+        {
+          "symbol": "AKAM",
+          "asset_class": null,
+          "relevance_score": 0.94197,
+          "sentiment_score": 0.108788,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ABBV",
+          "asset_class": null,
+          "relevance_score": 0.932032,
+          "sentiment_score": 0.409193,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ABT",
+          "asset_class": null,
+          "relevance_score": 0.916531,
+          "sentiment_score": 0.419471,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KDP",
+          "asset_class": null,
+          "relevance_score": 0.837233,
+          "sentiment_score": 0.28322,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902614
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.816966
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.739916
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.630301
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.612541
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 121,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abbott Labs, AbbVie, Akamai Technologies, Five Below, Keurig Dr. Pepper, Salesforce, Stryker, StubHub, and More",
+          "url": "https://247wallst.com/investing/2026/08/13/here-are-thursdays-top-wall-street-analyst-research-calls-abbott-labs-abbvie-akamai-technologies-five-below-keurig-dr-pepper-salesforce-stryker-stubhub-and-more/",
+          "published_at": "2026-08-13T11:54:00"
+        }
+      ]
+    },
+    {
       "event_id": 117,
       "title": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
       "summary": "Goelzer Investment Management Inc. has acquired a new stake in Devon Energy Corporation (NYSE:DVN), purchasing 30,063 shares valued at approximately $1.24 million during the second quarter. Other institutional investors also adjusted their positions, and analysts maintain a \"Moderate Buy\" rating with an average price target of $59.60. Devon Energy recently reported strong quarterly earnings, beating estimates, and declared a quarterly dividend of $0.32 per share.",
@@ -1103,53 +1182,6 @@
           "headline": "LIQT: Record pool and marine growth offset by energy project delays; guidance cut to $20–$23M",
           "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011063:0-liqt-record-pool-and-marine-growth-offset-by-energy-project-delays-guidance-cut-to-20-23m/",
           "published_at": "2026-08-12T14:23:30"
-        }
-      ]
-    },
-    {
-      "event_id": 94,
-      "title": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
-      "summary": "Astorg has successfully acquired the global microbiology business from Thermo Fisher Scientific, establishing it as an independent global diagnostics company. The new entity, which will operate under CEO Dirk Bontridder, serves over 15,000 customers in more than 100 countries with its diagnostic consumables and equipment for clinical, food safety, and pharmaceutical applications. Astorg aims to leverage its healthcare expertise to accelerate innovation and strengthen the company's global position.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-12T13:38:27",
-      "first_seen_at": "2026-08-12T15:00:01.994730",
-      "assets": [
-        {
-          "symbol": "TMO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.103416,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.930875
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.803546
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.648179
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 96,
-          "provider": "ALPHA_VANTAGE",
-          "source": "BioSpace",
-          "source_domain": "BioSpace",
-          "headline": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
-          "url": "https://www.biospace.com/press-releases/astorg-completes-acquisition-of-microbiology-business-from-thermo-fisher-scientific-establishing-an-independent-global-diagnostics-specialist",
-          "published_at": "2026-08-12T13:38:27"
         }
       ]
     }
