@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 130,
+      "title": "Kenvue options activity surges on bullish call bets ahead of merger news",
+      "summary": "Kenvue Inc. (KVUE) is experiencing a surge in bullish call options activity, with over 12,000 contracts traded, indicating traders anticipate a significant upward price movement. The high concentration of calls at the $19.50 strike price, expiring soon, alongside a spike in volatility, suggests market participants are positioning for news related to the pending $40–48.7 billion acquisition by Kimberly-Clark, expected to close in Q4 2026. This aggressive options trading follows recent Q2 earnings that slightly missed estimates, implying a focus on potential merger catalysts rather than past financial performance.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-13T16:40:51",
+      "first_seen_at": "2026-08-13T18:00:01.872708",
+      "assets": [
+        {
+          "symbol": "KVUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456189,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMB",
+          "asset_class": null,
+          "relevance_score": 0.704719,
+          "sentiment_score": 0.341206,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.91049
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.824911
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.619599
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 133,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Kenvue options activity surges on bullish call bets ahead of merger news",
+          "url": "https://www.investing.com/news/stock-market-news/kenvue-options-activity-surges-on-bullish-call-bets-ahead-of-merger-news-93CH-4858811",
+          "published_at": "2026-08-13T16:40:51"
+        }
+      ]
+    },
+    {
+      "event_id": 131,
+      "title": "Centene stock holds near 52-week high as Q2 earnings beat and guidance support valuation",
+      "summary": "Centene stock is trading near its 52-week high after reporting strong second-quarter 2026 results, which included a significant earnings beat and raised full-year guidance. The company's adjusted diluted EPS of $2.51 far exceeded estimates, and revenue grew by nearly 10% year-over-year. Centene's solid operational performance, improved balance sheet, and strategic focus on Medicaid managed care continue to underpin its valuation and future growth prospects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-13T16:03:38",
+      "first_seen_at": "2026-08-13T18:00:02.210778",
+      "assets": [
+        {
+          "symbol": "CNC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.51829,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.910482
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.822753
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.741419
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 134,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Centene stock holds near 52-week high as Q2 earnings beat and guidance support valuation",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-holds-near-52-week-high-as-q2-earnings-beat-and-guidance/69946729",
+          "published_at": "2026-08-13T16:03:38"
+        }
+      ]
+    },
+    {
       "event_id": 127,
       "title": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
       "summary": "Tariffs are influencing company sourcing, production, and earnings, creating opportunities for investors in domestic-oriented value stocks. This article highlights Reliance (RS), Vulcan Materials (VMC), and Nucor (NUE) as three such companies that screen well on value, balance sheet strength, and dividends, as they are closely tied to tariff-related policy shifts and domestic market advantages.",
@@ -1016,140 +1118,6 @@
           "headline": "AvalonBay Communities (NYSE: AVB) holders approve merger and 2.793‑for‑1 share exchange",
           "url": "https://www.stocktitan.net/sec-filings/AVB/8-k-avalonbay-communities-inc-reports-material-event-a29ef2c91b48.html",
           "published_at": "2026-08-12T20:40:11"
-        }
-      ]
-    },
-    {
-      "event_id": 110,
-      "title": "Southern Company (NYSE:SO) Moves With Grid And Rate-Sensitive Sector Themes",
-      "summary": "Southern Company (NYSE:SO) is trading in line with the broader utility sector, influenced by rising Treasury yields and the anticipation of tomorrow's inflation data. The company is experiencing significant demand growth driven by data centers in the Southeast, particularly Georgia, necessitating substantial investment in grid modernization and nuclear generation capacity. Its diversified energy portfolio and strong regional presence position it to address these evolving market and demand dynamics.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-12T19:15:50",
-      "first_seen_at": "2026-08-12T21:00:02.182500",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.307053,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.648956,
-          "sentiment_score": 0.133364,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LLY",
-          "asset_class": null,
-          "relevance_score": 0.642286,
-          "sentiment_score": 0.139343,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ISRG",
-          "asset_class": null,
-          "relevance_score": 0.624177,
-          "sentiment_score": 0.139528,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMGN",
-          "asset_class": null,
-          "relevance_score": 0.613849,
-          "sentiment_score": 0.139517,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.945955
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.821917
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.746836
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.635606
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 112,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Southern Company (NYSE:SO) Moves With Grid And Rate-Sensitive Sector Themes",
-          "url": "https://kalkinemedia.com/us/stocks/utility/southern-company-nyseso-moves-with-grid-and-rate-sensitive-sector-themes",
-          "published_at": "2026-08-12T19:15:50"
-        }
-      ]
-    },
-    {
-      "event_id": 108,
-      "title": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
-      "summary": "Nucor (NYSE:NUE) is drawing attention as a prominent steel producer ahead of upcoming inflation data, with equity benchmarks near record highs. Despite thin summer trading volumes and rising Treasury yields, metals have held firm, keeping steel companies like Nucor in focus. The company, known for its diversified, scrap-based electric arc furnace steelmaking, serves various industrial sectors and its performance is closely watched as an indicator for the broader North American steel industry.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 67,
-      "published_at": "2026-08-12T18:50:38",
-      "first_seen_at": "2026-08-12T20:00:02.163081",
-      "assets": [
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.125406,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.932887
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843997
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.839821
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.728034
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 110,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
-          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/nucor-nysenue-in-focus-as-steel-names-draw-attention-before-inflation-data",
-          "published_at": "2026-08-12T18:50:38"
         }
       ]
     }
