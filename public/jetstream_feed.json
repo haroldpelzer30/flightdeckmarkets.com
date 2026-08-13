@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 115,
+      "title": "AMETEK Director Nick L. Stanage Acquires 4,000 Shares of Common Stock",
+      "summary": "AMETEK Director Nick L. Stanage purchased 4,000 shares of the company's common stock on August 11, 2026, at a price of $255.85 per share. This open-market transaction increased his direct ownership to 4,760 shares. The Form 4 filing with the SEC, dated August 12, 2026, details this acquisition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-12T22:45:08",
+      "first_seen_at": "2026-08-13T00:00:02.694471",
+      "assets": [
+        {
+          "symbol": "AME",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.337284,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926108
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.814624
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.640762
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 118,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "AMETEK Director Nick L. Stanage Acquires 4,000 Shares of Common Stock",
+          "url": "https://kalkinemedia.com/us/news/announcements/ametek-director-nick-l-stanage-acquires-4000-shares-of-common-stock",
+          "published_at": "2026-08-12T22:45:08"
+        }
+      ]
+    },
+    {
+      "event_id": 116,
+      "title": "BBSI Q2 2026 Earnings Call Transcript",
+      "summary": "BBSI reported Q2 2026 revenue of $319.3 million, a 4% increase, and net income of $12.9 million, or $0.52 per diluted share. Despite macroeconomic headwinds leading to existing client workforce reductions, the company saw 17% growth in new client acquisitions and expanded its service offerings. BBSI expects 2026 to be a \"low watermark\" for gross margin due to rising California workers' compensation costs but anticipates improvement in 2027 as rate increases are gradually applied to client renewals.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-12T22:15:16",
+      "first_seen_at": "2026-08-13T00:00:02.954144",
+      "assets": [
+        {
+          "symbol": "BBSI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.222048,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.913879
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.70167
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 119,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "BBSI Q2 2026 Earnings Call Transcript",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3815483/bbsi-q2-2026-earnings-call-transcript/",
+          "published_at": "2026-08-12T22:15:16"
+        }
+      ]
+    },
+    {
       "event_id": 114,
       "title": "Dominion Energy (D) touts $1.78B in bill credits and job protections in NextEra merger",
       "summary": "Dominion Energy is publicly advocating for its proposed merger with NextEra Energy, highlighting significant benefits for Virginia customers and employees. These include $1.78 billion in bill credits funded by NextEra shareholders, job protection for all Virginia employees, preserved compensation and benefits, maintenance of its Richmond headquarters, and continued investment in clean energy infrastructure. The communication addresses concerns raised by Virginia Gov. Abigail Spanberger and emphasizes the long-term advantages for the state's economy and energy future, while also listing various regulatory and integration risks.",
@@ -1032,116 +1126,6 @@
           "headline": "Understanding implications for vertical mergers from the FTCs recent review of IonQ and SkyWater",
           "url": "https://www.wilmerhale.com/en/insights/client-alerts/20260811-understanding-implications-for-vertical-mergers-from-the-ftcs-recent-review-of-ionq-and-skywater",
           "published_at": "2026-08-12T13:23:29"
-        }
-      ]
-    },
-    {
-      "event_id": 92,
-      "title": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts",
-      "summary": "A new Principal Financial Well-Being Index℠ survey reveals that 69% of employers report employees are delaying retirement due to financial uncertainty, primarily rising cost of living and inflation. While employer sentiment about the economy is improving, only a small fraction (1.4%) of businesses attribute staffing decreases to AI or automation, with most expecting AI to increase staffing and wages or keep staffing stable.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-12T13:00:23",
-      "first_seen_at": "2026-08-12T14:00:02.418693",
-      "assets": [
-        {
-          "symbol": "PFG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.296985,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.939272
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.805854
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 94,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts",
-          "url": "https://www.stocktitan.net/news/PFG/financial-uncertainty-pushes-workers-to-delay-retirement-principal-wa85q3rs01as.html",
-          "published_at": "2026-08-12T13:00:23"
-        }
-      ]
-    },
-    {
-      "event_id": 93,
-      "title": "KLA, Snowflake, Airbnb And A Health Care Stock On CNBC’s ‘Final Trades’",
-      "summary": "On CNBC's \"Halftime Report Final Trades,\" experts shared their top stock picks. Joshua Brown recommended Snowflake, Rob Sechan chose KLA Corporation, Brian Belski suggested Gilead Sciences, and Joseph M. Terranova picked Airbnb. Each recommendation was supported by recent financial performance or analyst ratings.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-12T12:44:29",
-      "first_seen_at": "2026-08-12T14:00:02.649054",
-      "assets": [
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 0.954066,
-          "sentiment_score": 0.34953,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ABNB",
-          "asset_class": null,
-          "relevance_score": 0.864498,
-          "sentiment_score": 0.322362,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GILD",
-          "asset_class": null,
-          "relevance_score": 0.831553,
-          "sentiment_score": 0.336229,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.926962
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.907677
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.738422
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.731953
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 95,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "KLA, Snowflake, Airbnb And A Health Care Stock On CNBC’s ‘Final Trades’",
-          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61140134/kla-snowflake-airbnb-and-a-health-care-stock-on-cnbcs-final-trades",
-          "published_at": "2026-08-12T12:44:29"
         }
       ]
     }
