@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 117,
+      "title": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
+      "summary": "Goelzer Investment Management Inc. has acquired a new stake in Devon Energy Corporation (NYSE:DVN), purchasing 30,063 shares valued at approximately $1.24 million during the second quarter. Other institutional investors also adjusted their positions, and analysts maintain a \"Moderate Buy\" rating with an average price target of $59.60. Devon Energy recently reported strong quarterly earnings, beating estimates, and declared a quarterly dividend of $0.32 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-08-13T10:39:53",
+      "first_seen_at": "2026-08-13T12:00:02.942258",
+      "assets": [
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.535428,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CTRA",
+          "asset_class": null,
+          "relevance_score": 0.564285,
+          "sentiment_score": 0.008637,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.520835,
+          "sentiment_score": 0.012845,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949587
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832536
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.819308
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.740903
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.625706
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 120,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-goelzer-investment-management-inc-acquires-new-stake-in-devon-energy-corporation-dvn-2026-08-13/",
+          "published_at": "2026-08-13T10:39:53"
+        }
+      ]
+    },
+    {
       "event_id": 115,
       "title": "AMETEK Director Nick L. Stanage Acquires 4,000 Shares of Common Stock",
       "summary": "AMETEK Director Nick L. Stanage purchased 4,000 shares of the company's common stock on August 11, 2026, at a price of $255.85 per share. This open-market transaction increased his direct ownership to 4,760 shares. The Form 4 filing with the SEC, dated August 12, 2026, details this acquisition.",
@@ -1079,53 +1150,6 @@
           "headline": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist",
           "url": "https://www.biospace.com/press-releases/astorg-completes-acquisition-of-microbiology-business-from-thermo-fisher-scientific-establishing-an-independent-global-diagnostics-specialist",
           "published_at": "2026-08-12T13:38:27"
-        }
-      ]
-    },
-    {
-      "event_id": 95,
-      "title": "Understanding implications for vertical mergers from the FTCs recent review of IonQ and SkyWater",
-      "summary": "The FTC closed its investigation into IonQ's $1.8 billion acquisition of SkyWater, allowing the vertical merger to proceed despite differing views from the two Commissioners. Their statements highlight the importance of case-specific evidence, willingness to consider efficiencies and behavioral remedies, and potential consideration of broader administration policy in evaluating vertical mergers. This outcome suggests that the FTC may expedite some significant vertical merger reviews and be open to arguments about procompetitive benefits.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-12T13:23:29",
-      "first_seen_at": "2026-08-12T15:00:02.270024",
-      "assets": [
-        {
-          "symbol": "IONQ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.242393,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.725624
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.644614
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 97,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WilmerHale",
-          "source_domain": "WilmerHale",
-          "headline": "Understanding implications for vertical mergers from the FTCs recent review of IonQ and SkyWater",
-          "url": "https://www.wilmerhale.com/en/insights/client-alerts/20260811-understanding-implications-for-vertical-mergers-from-the-ftcs-recent-review-of-ionq-and-skywater",
-          "published_at": "2026-08-12T13:23:29"
         }
       ]
     }
