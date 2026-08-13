@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 127,
+      "title": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
+      "summary": "Tariffs are influencing company sourcing, production, and earnings, creating opportunities for investors in domestic-oriented value stocks. This article highlights Reliance (RS), Vulcan Materials (VMC), and Nucor (NUE) as three such companies that screen well on value, balance sheet strength, and dividends, as they are closely tied to tariff-related policy shifts and domestic market advantages.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-13T15:44:07",
+      "first_seen_at": "2026-08-13T17:00:02.964145",
+      "assets": [
+        {
+          "symbol": "VMC",
+          "asset_class": null,
+          "relevance_score": 0.995708,
+          "sentiment_score": 0.192553,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 0.966725,
+          "sentiment_score": 0.258593,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 0.5926,
+          "sentiment_score": 0.067231,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907446
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.835655
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.723779
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.623752
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 130,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-rs/reliance/news/tariffs-are-reshaping-value-screens-for-reliance-vulcan-mate",
+          "published_at": "2026-08-13T15:44:07"
+        }
+      ]
+    },
+    {
+      "event_id": 128,
+      "title": "Franco-Nevada Corporation",
+      "summary": "This Reuters page for Franco-Nevada Corporation shows a single search result from 19 hours ago. The result is an article stating that the TSX extended its record-setting run, primarily driven by gold and financial stocks. This surge was attributed to positive U.S. inflation data, an optimistic travel outlook from Air Canada, and signs of a strengthening domestic economy in Canada.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-13T15:40:22",
+      "first_seen_at": "2026-08-13T17:00:03.214316",
+      "assets": [
+        {
+          "symbol": "FNV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.412449,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.948844
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.82613
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.727244
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 131,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Reuters",
+          "source_domain": "Reuters",
+          "headline": "Franco-Nevada Corporation",
+          "url": "https://www.reuters.com/company/franco-nevada-corporation/",
+          "published_at": "2026-08-13T15:40:22"
+        }
+      ]
+    },
+    {
+      "event_id": 129,
+      "title": "Proposed Texas Grid Projects Could Create 41,000 Jobs During Construction",
+      "summary": "A new economic impact study commissioned by CenterPoint Energy (NYSE:CNP) suggests that its planned 765kV transmission resiliency projects in Southeast Texas could generate over $18 billion annually in economic value, create approximately 41,000 construction jobs, and add $120 million in local property taxes each year. When combined with other Texas utility projects, the statewide economic impact could reach $30 billion annually, with 100,000 construction jobs. CenterPoint Energy is currently in the early planning stages, conducting community outreach and preparing to launch \"10 Commitments for Texans\" to guide landowner engagement for these crucial infrastructure improvements.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-13T15:09:27",
+      "first_seen_at": "2026-08-13T17:00:03.437969",
+      "assets": [
+        {
+          "symbol": "CNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487563,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.946441
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.83859
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.620778
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.607633
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 132,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Proposed Texas Grid Projects Could Create 41,000 Jobs During Construction",
+          "url": "https://www.stocktitan.net/news/CNP/new-economic-study-southeast-texas-transmission-resiliency-projects-2vax5kb47xqi.html",
+          "published_at": "2026-08-13T15:09:27"
+        }
+      ]
+    },
+    {
       "event_id": 123,
       "title": "Union Pacific stock holds gains as safety concerns and freight demand shape the outlook",
       "summary": "Union Pacific (UNP) stock is trading near $294, reflecting investor confidence in strong freight demand despite recent local safety concerns regarding hazardous cargo transport. The company's Q2 2026 earnings showed robust revenue and net income growth, with freight revenue outpacing broad US GDP. While safety issues are noted, current market sentiment views them as manageable, with analysts expressing a stronger positive stance on the stock.",
@@ -985,183 +1150,6 @@
           "headline": "Nucor (NYSE:NUE) in Focus as Steel Names Draw Attention Before Inflation Data",
           "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/nucor-nysenue-in-focus-as-steel-names-draw-attention-before-inflation-data",
           "published_at": "2026-08-12T18:50:38"
-        }
-      ]
-    },
-    {
-      "event_id": 109,
-      "title": "AQR group discloses 5.96% holding in Maywood Acquisition Corp. 2 (MYX)",
-      "summary": "AQR Capital Management, LLC, along with AQR Capital Management Holdings, LLC and AQR Arbitrage, LLC, has reported a beneficial ownership of 5.96% in Maywood Acquisition Corp. 2 (MYX). This equates to 625,099 Class A ordinary shares, over which the group exercises shared voting and dispositive power. The filing indicates a neutral sentiment and moderate impact for MYX.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-12T18:18:24",
-      "first_seen_at": "2026-08-12T20:00:02.400406",
-      "assets": [
-        {
-          "symbol": "MYX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.000251,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.905374
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.804607
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.717174
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 111,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "AQR group discloses 5.96% holding in Maywood Acquisition Corp. 2 (MYX)",
-          "url": "https://www.stocktitan.net/sec-filings/MYX/schedule-13g-maywood-acquisition-corp-2-passive-investment-disclosure-76a15a9c7052.html",
-          "published_at": "2026-08-12T18:18:24"
-        }
-      ]
-    },
-    {
-      "event_id": 106,
-      "title": "Perspective: Morning Commentary for August 12",
-      "summary": "This morning commentary by Arlan Suderman focuses on July's CPI data, which largely met analyst expectations, and geopolitical events impacting markets. Key issues include a significant Ukrainian attack on Russia's Novorossiysk naval base, raising concerns about commodity exports, and China's aggressive military drills near Taiwan. The article also anticipates the highly awaited WASDE crop report, which is expected to provide updated corn and soybean yields and demand estimates.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-12T17:13:08",
-      "first_seen_at": "2026-08-12T19:00:02.395432",
-      "assets": [
-        {
-          "symbol": "SNEX",
-          "asset_class": null,
-          "relevance_score": 0.921378,
-          "sentiment_score": 0.14697,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.646821,
-          "sentiment_score": -0.111693,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.640105,
-          "sentiment_score": -0.130045,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.618347,
-          "sentiment_score": -0.125397,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.603308,
-          "sentiment_score": -0.124422,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.934318
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.848642
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.707773
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.704364
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 108,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StoneX",
-          "source_domain": "StoneX",
-          "headline": "Perspective: Morning Commentary for August 12",
-          "url": "https://www.stonex.com/en-us/insights/perspective-morning-commentary-for-august-12-2026-08-12/",
-          "published_at": "2026-08-12T17:13:08"
-        }
-      ]
-    },
-    {
-      "event_id": 105,
-      "title": "REAX: Acquisition of RE/MAX creates a global, tech-driven real estate leader with major synergy potential",
-      "summary": "The article highlights that REAX's agent count and revenue have grown due to its tech-enabled platform and strong agent economics. The acquisition of RE/MAX is expected to form a global real estate leader, diversifying revenue streams, creating significant cost synergies, and opening up major AI-driven consumer engagement opportunities. This summary is based on The Real Brokerage, Inc.'s Oppenheimer Conference Audio Transcript from August 12, 2026.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-12T16:35:09",
-      "first_seen_at": "2026-08-12T18:00:02.750519",
-      "assets": [
-        {
-          "symbol": "REAX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425844,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.921181
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.739453
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 107,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "REAX: Acquisition of RE/MAX creates a global, tech-driven real estate leader with major synergy potential",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011746:0-reax-acquisition-of-re-max-creates-a-global-tech-driven-real-estate-leader-with-major-synergy-potential/",
-          "published_at": "2026-08-12T16:35:09"
         }
       ]
     }
