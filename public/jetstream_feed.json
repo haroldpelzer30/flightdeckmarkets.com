@@ -5,6 +5,70 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 139,
+      "title": "Duke Energy restores 85% of Cincinnati storm outages",
+      "summary": "Duke Energy has restored power to 85% of customers affected by severe storms in Greater Cincinnati, bringing services back to approximately 223,000 customers. As of Thursday afternoon, about 32,485 customers in Ohio and 6,376 in Kentucky were still without power, with the company expecting to restore nearly all remaining outages by Thursday. Duke Energy deployed over 2,000 workers and committed $100,000 in grants for recovery efforts, serving 8.7 million customers across six states from its Charlotte, North Carolina headquarters.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-13T21:25:40",
+      "first_seen_at": "2026-08-13T23:00:02.139964",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40508,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.9336
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.847169
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.846674
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.718036
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604823
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 143,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Duke Energy restores 85% of Cincinnati storm outages",
+          "url": "https://www.investing.com/news/company-news/duke-energy-restores-85-of-cincinnati-storm-outages-93CH-4859295",
+          "published_at": "2026-08-13T21:25:40"
+        },
+        {
+          "article_id": 142,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Intellectia AI",
+          "source_domain": "Intellectia AI",
+          "headline": "Duke Energy Restores Major Outages in Cincinnati",
+          "url": "https://intellectia.ai/news/stock/duke-energy-restores-major-outages-in-cincinnati",
+          "published_at": "2026-08-13T22:00:40"
+        }
+      ]
+    },
+    {
       "event_id": 137,
       "title": "Expedia acquires AI trip-planning startup",
       "summary": "Expedia has acquired Layla, an AI trip-planning startup, marking at least its third acquisition in the past year. This move follows previous acquisitions of online booking platform Tiqets and car rental tech company CarTrawler, signaling Expedia's continued expansion and investment in travel technology. The acquisition was reported by the Puget Sound Business Journal.",
@@ -1066,53 +1130,6 @@
           "headline": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
           "url": "https://www.tradingview.com/news/stocktwits:e4b549d42094b:0-dell-stock-on-track-to-top-500-for-first-time-as-ai-server-boom-gets-fresh-fuel-from-lenovo-smci/",
           "published_at": "2026-08-13T12:57:12"
-        }
-      ]
-    },
-    {
-      "event_id": 122,
-      "title": "Resilient MetLife stock holds firm after strong Q2 2026 earnings beat",
-      "summary": "MetLife Inc. (US59156R1086) stock remains steady around $96.66 after reporting strong Q2 2026 earnings, with adjusted EPS of $2.43 beating consensus estimates of $2.30 and revenue reaching $19.15 billion. The company has delivered two consecutive quarters of EPS beats, and analysts expect continued earnings growth, with a Q3 2026 EPS consensus of $2.55 and full-year EPS of $9.30. The stock currently trades with a market capitalization of $62.21 billion and offers a dividend yield of 2.37%, with institutional investors holding a significant 94.99% stake.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-13T12:19:06",
-      "first_seen_at": "2026-08-13T14:00:02.344202",
-      "assets": [
-        {
-          "symbol": "MET",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.684429,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922202
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.721354
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.630586
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 125,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Resilient MetLife stock holds firm after strong Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-metlife-stock-holds-firm-after-strong-q2-2026-earnings-beat/69945235",
-          "published_at": "2026-08-13T12:19:06"
         }
       ]
     }
