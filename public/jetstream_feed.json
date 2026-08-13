@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 137,
+      "title": "Expedia acquires AI trip-planning startup",
+      "summary": "Expedia has acquired Layla, an AI trip-planning startup, marking at least its third acquisition in the past year. This move follows previous acquisitions of online booking platform Tiqets and car rental tech company CarTrawler, signaling Expedia's continued expansion and investment in travel technology. The acquisition was reported by the Puget Sound Business Journal.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-13T20:57:49",
+      "first_seen_at": "2026-08-13T22:00:02.401966",
+      "assets": [
+        {
+          "symbol": "EXPE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.545525,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.936739
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.811128
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 140,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "Expedia acquires AI trip-planning startup",
+          "url": "https://www.bizjournals.com/seattle/news/2026/08/13/expedia-layla-acquisition-tiqets-cartrawler.html",
+          "published_at": "2026-08-13T20:57:49"
+        }
+      ]
+    },
+    {
+      "event_id": 138,
+      "title": "AvalonBay, Equity Residential shareholders approve merger By Investing.com",
+      "summary": "Shareholders of AvalonBay Communities, Inc. (NYSE: AVB) and Equity Residential (NYSE: EQR) have overwhelmingly approved all proposals required to complete their merger of equals. The merger is anticipated to finalize on Monday, August 17, 2026, and the combined entity will be renamed Vivmark Residential, trading under the ticker symbol VMRK on the NYSE starting August 18, 2026. Each AvalonBay share will convert into 2.793 Equity Residential common shares.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-08-13T20:37:55",
+      "first_seen_at": "2026-08-13T22:00:02.658504",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.444304,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.425565,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.912088
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.84396
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.717368
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.626726
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 141,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Nigeria",
+          "source_domain": "Investing.com Nigeria",
+          "headline": "AvalonBay, Equity Residential shareholders approve merger By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/avalonbay-equity-residential-shareholders-approve-merger-93CH-2656475",
+          "published_at": "2026-08-13T20:37:55"
+        }
+      ]
+    },
+    {
       "event_id": 133,
       "title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
       "summary": "Michigan's utility regulator, the Michigan Public Service Commission (MPSC), is urging state lawmakers to end annual rate increases and revise how utilities like DTE and Consumers Energy profit. The MPSC believes this change, allowing for multi-year rate plans tied to performance, would be more effective in lowering household energy bills and improving reliability than current commission powers. This comes after four rate hikes in eight months, highlighting concerns that the current system incentivizes expensive capital projects over cheaper alternatives like maintenance and existing infrastructure optimization.",
@@ -1011,156 +1113,6 @@
           "headline": "Resilient MetLife stock holds firm after strong Q2 2026 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-metlife-stock-holds-firm-after-strong-q2-2026-earnings-beat/69945235",
           "published_at": "2026-08-13T12:19:06"
-        }
-      ]
-    },
-    {
-      "event_id": 118,
-      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abbott Labs, AbbVie, Akamai Technologies, Five Below, Keurig Dr. Pepper, Salesforce, Stryker, StubHub, and More",
-      "summary": "This article details Wall Street analyst upgrades, downgrades, and initiations for various companies on Thursday, August 13, 2026, following the release of inline CPI data. Key movements include Five Below being upgraded to Buy at Jefferies and StubHub being cut to Underperform at Bank of America. The article also provides a general market overview, including performance of indices, treasury bonds, commodities, and cryptocurrency.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-08-13T11:54:00",
-      "first_seen_at": "2026-08-13T13:00:02.051740",
-      "assets": [
-        {
-          "symbol": "AKAM",
-          "asset_class": null,
-          "relevance_score": 0.94197,
-          "sentiment_score": 0.108788,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ABBV",
-          "asset_class": null,
-          "relevance_score": 0.932032,
-          "sentiment_score": 0.409193,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ABT",
-          "asset_class": null,
-          "relevance_score": 0.916531,
-          "sentiment_score": 0.419471,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KDP",
-          "asset_class": null,
-          "relevance_score": 0.837233,
-          "sentiment_score": 0.28322,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.902614
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.816966
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.739916
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.630301
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.612541
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 121,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abbott Labs, AbbVie, Akamai Technologies, Five Below, Keurig Dr. Pepper, Salesforce, Stryker, StubHub, and More",
-          "url": "https://247wallst.com/investing/2026/08/13/here-are-thursdays-top-wall-street-analyst-research-calls-abbott-labs-abbvie-akamai-technologies-five-below-keurig-dr-pepper-salesforce-stryker-stubhub-and-more/",
-          "published_at": "2026-08-13T11:54:00"
-        }
-      ]
-    },
-    {
-      "event_id": 117,
-      "title": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
-      "summary": "Goelzer Investment Management Inc. has acquired a new stake in Devon Energy Corporation (NYSE:DVN), purchasing 30,063 shares valued at approximately $1.24 million during the second quarter. Other institutional investors also adjusted their positions, and analysts maintain a \"Moderate Buy\" rating with an average price target of $59.60. Devon Energy recently reported strong quarterly earnings, beating estimates, and declared a quarterly dividend of $0.32 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-08-13T10:39:53",
-      "first_seen_at": "2026-08-13T12:00:02.942258",
-      "assets": [
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.535428,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CTRA",
-          "asset_class": null,
-          "relevance_score": 0.564285,
-          "sentiment_score": 0.008637,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.520835,
-          "sentiment_score": 0.012845,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949587
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832536
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.819308
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.740903
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.625706
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 120,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Goelzer Investment Management Inc. Acquires New Stake in Devon Energy Corporation $DVN",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-goelzer-investment-management-inc-acquires-new-stake-in-devon-energy-corporation-dvn-2026-08-13/",
-          "published_at": "2026-08-13T10:39:53"
         }
       ]
     }
