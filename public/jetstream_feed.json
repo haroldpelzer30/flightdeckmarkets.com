@@ -5,6 +5,226 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 123,
+      "title": "Union Pacific stock holds gains as safety concerns and freight demand shape the outlook",
+      "summary": "Union Pacific (UNP) stock is trading near $294, reflecting investor confidence in strong freight demand despite recent local safety concerns regarding hazardous cargo transport. The company's Q2 2026 earnings showed robust revenue and net income growth, with freight revenue outpacing broad US GDP. While safety issues are noted, current market sentiment views them as manageable, with analysts expressing a stronger positive stance on the stock.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-13T13:52:00",
+      "first_seen_at": "2026-08-13T15:00:02.183544",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.141144,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.93046
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923598
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.814807
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.749844
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.636165
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 126,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Union Pacific stock holds gains as safety concerns and freight demand shape the outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-holds-gains-as-safety-concerns-and-freight-demand/69945536",
+          "published_at": "2026-08-13T13:52:00"
+        }
+      ]
+    },
+    {
+      "event_id": 124,
+      "title": "Parker Hannifin completes acquisition of Filtration Group",
+      "summary": "Parker Hannifin Corporation has finalized its acquisition of Filtration Group Corporation. This acquisition is projected to add approximately $1.8 billion to Parker's fiscal 2027 sales and is expected to be accretive to adjusted earnings per share for the full fiscal year 2027. Parker anticipates achieving roughly $220 million in pre-tax cost synergies by the end of the third year.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-13T13:46:08",
+      "first_seen_at": "2026-08-13T15:00:02.458964",
+      "assets": [
+        {
+          "symbol": "PH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.444875,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.802228
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.738723
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.708004
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 127,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Parker Hannifin completes acquisition of Filtration Group",
+          "url": "https://www.investing.com/news/company-news/parker-hannifin-completes-acquisition-of-filtration-group-93CH-4858020",
+          "published_at": "2026-08-13T13:46:08"
+        }
+      ]
+    },
+    {
+      "event_id": 125,
+      "title": "Builders FirstSource stock slips after Q2 earnings miss and guidance cut",
+      "summary": "Builders FirstSource (BLDR) stock fell after missing Q2 2026 earnings expectations and cutting its full-year revenue guidance, primarily due to a weak housing market. The company reported an 8.8% year-over-year revenue decline and significantly compressed EPS, leading to a cautious outlook from management and analysts. Despite the financial headwinds, the company's balance sheet appears manageable, and analysts still see potential upside toward a target price of $90.35 if housing demand stabilizes.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-13T13:42:21",
+      "first_seen_at": "2026-08-13T15:00:02.949273",
+      "assets": [
+        {
+          "symbol": "BLDR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.439889,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.911503
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.800813
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.736976
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.621122
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.608531
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 128,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Builders FirstSource stock slips after Q2 earnings miss and guidance cut",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/builders-firstsource-stock-slips-after-q2-earnings-miss-and-guidance-cut/69945896",
+          "published_at": "2026-08-13T13:42:21"
+        }
+      ]
+    },
+    {
+      "event_id": 126,
+      "title": "AvalonBay, Equity Residential merger approved by shareholders",
+      "summary": "Shareholders of AvalonBay Communities and Equity Residential have overwhelmingly approved all proposals for their \"merger of equals.\" The companies expect to close the deal on August 17, forming Vivmark Residential, which will have a pro forma equity market capitalization of about $53 billion and an enterprise value of roughly $71 billion. The",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-13T13:41:19",
+      "first_seen_at": "2026-08-13T15:00:03.200483",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.407905,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 0.904566,
+          "sentiment_score": 0.418901,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ESS",
+          "asset_class": null,
+          "relevance_score": 0.575869,
+          "sentiment_score": 0.229227,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.904224
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 129,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Multifamily Dive",
+          "source_domain": "Multifamily Dive",
+          "headline": "AvalonBay, Equity Residential merger approved by shareholders",
+          "url": "https://www.multifamilydive.com/news/reit-merger-vivmark-equity-residential-avalonbay/827775/",
+          "published_at": "2026-08-13T13:41:19"
+        }
+      ]
+    },
+    {
       "event_id": 119,
       "title": "Why the World Is Still Investing in America",
       "summary": "The article highlights a disconnect between American perceptions of their financial system and global views. While Americans often focus on volatility and decline, international governments, companies, and investors continue to seek greater access to the U.S. market, indicating strong confidence from abroad. The author, having traveled extensively, notes this contrast in perspectives.",
@@ -942,262 +1162,6 @@
           "headline": "REAX: Acquisition of RE/MAX creates a global, tech-driven real estate leader with major synergy potential",
           "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011746:0-reax-acquisition-of-re-max-creates-a-global-tech-driven-real-estate-leader-with-major-synergy-potential/",
           "published_at": "2026-08-12T16:35:09"
-        }
-      ]
-    },
-    {
-      "event_id": 103,
-      "title": "Vistra Q2 Earnings Beat Estimates on Pricing and Lotus, Revenues Miss",
-      "summary": "Vistra (VST) reported Q2 2026 earnings of $1.80 per share, surpassing the Zacks Consensus Estimate, which led to a 3.08% stock gain. Despite beating earnings estimates due to strong pricing and contributions from Lotus, the company's total revenues of $4.02 billion missed expectations, primarily due to increased unrealized mark-to-market losses on commodity derivatives. Vistra reaffirmed its 2026 financial guidance and continues to advance growth initiatives, including a significant investment in Helix Digital Infrastructure and the pending acquisition of Cogentrix Energy.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-12T15:09:19",
-      "first_seen_at": "2026-08-12T17:00:02.008299",
-      "assets": [
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.983691,
-          "sentiment_score": 0.254648,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.631319,
-          "sentiment_score": 0.204683,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CNP",
-          "asset_class": null,
-          "relevance_score": 0.631058,
-          "sentiment_score": 0.208002,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 0.601792,
-          "sentiment_score": -0.12414,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907321
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.845817
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.604669
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 105,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "Vistra Q2 Earnings Beat Estimates on Pricing and Lotus, Revenues Miss",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/VST/pressreleases/3806636/vistra-q2-earnings-beat-estimates-on-pricing-and-lotus-revenues-miss/",
-          "published_at": "2026-08-12T15:09:19"
-        }
-      ]
-    },
-    {
-      "event_id": 96,
-      "title": "NiSource stock (NI): 59% of NIPSCO customers out, highlighting storm recovery costs",
-      "summary": "Severe storms in the Midwest caused power outages for approximately 273,900 NIPSCO customers, representing 59% of its electric customer base, and 92% of Indiana's total outages. This event is prompting investors to focus on NiSource's (NYSE:NI) immediate grid performance and potential storm recovery costs, which have not yet been estimated, despite the company's previous strong EPS guidance and data center growth plans. NiSource shares were trading about 15% below their June peak, and the duration and cost of restoration efforts will significantly influence the financial impact and investor sentiment.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-12T14:38:47",
-      "first_seen_at": "2026-08-12T16:00:02.979590",
-      "assets": [
-        {
-          "symbol": "NI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.332523,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EXC",
-          "asset_class": null,
-          "relevance_score": 0.624776,
-          "sentiment_score": -0.136068,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.617665,
-          "sentiment_score": -0.142118,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 0.6018,
-          "sentiment_score": -0.110899,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.554848,
-          "sentiment_score": 0.104528,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.91213
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.82903
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.718235
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620235
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 98,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechStock²",
-          "source_domain": "TechStock²",
-          "headline": "NiSource stock (NI): 59% of NIPSCO customers out, highlighting storm recovery costs",
-          "url": "https://ts2.tech/en/nisource-stock-ni-59-nipsco-outage-puts-storm-recovery-costs-in-focus/",
-          "published_at": "2026-08-12T14:38:47"
-        }
-      ]
-    },
-    {
-      "event_id": 97,
-      "title": "How Raymond James’ Q3 Earnings Beat and AI Push Will Impact Raymond James Financial (RJF) Investors",
-      "summary": "Raymond James Financial (RJF) reported Q3 FY26 earnings per share of $3.14, surpassing analyst estimates due to strong performance in its investment banking, asset management, and banking sectors. This beat reinforces confidence in its diversified business model, especially as the firm heavily invests in AI, advisor recruitment, and banking growth. While these efforts aim to enhance efficiency and market position, investors should consider potential risks like market volatility and the time it might take for technology investments to yield substantial returns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-12T14:33:48",
-      "first_seen_at": "2026-08-12T16:00:03.324281",
-      "assets": [
-        {
-          "symbol": "RJF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.44452,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932378
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.816479
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.623744
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 99,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "How Raymond James’ Q3 Earnings Beat and AI Push Will Impact Raymond James Financial (RJF) Investors",
-          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-rjf/raymond-james-financial/news/how-raymond-james-q3-earnings-beat-and-ai-push-will-impact-r",
-          "published_at": "2026-08-12T14:33:48"
-        }
-      ]
-    },
-    {
-      "event_id": 98,
-      "title": "EQR: Shareholders approved all proposals enabling the merger with AvalonBay Communities, Inc",
-      "summary": "Shareholders of Equity Residential (EQR) have approved all proposals, including the issuance of shares and a charter amendment, to facilitate its merger with AvalonBay Communities, Inc. All proposals received unanimous board support and passed. The final results will be disclosed in a Form 8-K.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-12T14:33:16",
-      "first_seen_at": "2026-08-12T16:00:03.539931",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 0.993344,
-          "sentiment_score": 0.605251,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 0.910261,
-          "sentiment_score": 0.60164,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.838859
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 100,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "EQR: Shareholders approved all proposals enabling the merger with AvalonBay Communities, Inc",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011127:0-eqr-shareholders-approved-all-proposals-enabling-the-merger-with-avalonbay-communities-inc/",
-          "published_at": "2026-08-12T14:33:16"
         }
       ]
     }
