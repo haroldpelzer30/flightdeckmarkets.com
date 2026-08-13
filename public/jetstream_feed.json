@@ -5,6 +5,222 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 119,
+      "title": "Why the World Is Still Investing in America",
+      "summary": "The article highlights a disconnect between American perceptions of their financial system and global views. While Americans often focus on volatility and decline, international governments, companies, and investors continue to seek greater access to the U.S. market, indicating strong confidence from abroad. The author, having traveled extensively, notes this contrast in perspectives.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-13T13:02:23",
+      "first_seen_at": "2026-08-13T14:00:01.616462",
+      "assets": [
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.941546,
+          "sentiment_score": 0.31274,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.910041
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.805523
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741538
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 122,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Citigroup",
+          "source_domain": "Citigroup",
+          "headline": "Why the World Is Still Investing in America",
+          "url": "https://www.citigroup.com/global/news/perspectives/2026/why-world-still-investing-in-america-jane-fraser",
+          "published_at": "2026-08-13T13:02:23"
+        }
+      ]
+    },
+    {
+      "event_id": 120,
+      "title": "Parker Completes Acquisition of Filtration Group Corporation",
+      "summary": "Parker Hannifin Corporation has completed its acquisition of Filtration Group Corporation, aiming to create one of the largest global industrial filtration businesses. This strategic move is expected to strengthen Parker's global customer service capabilities, add approximately $1.8 billion to its fiscal 2027 sales, and be accretive to adjusted EPS for the full fiscal year. The integration leverages complementary filtration technologies and expands Parker's presence in key growth markets.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-13T13:01:26",
+      "first_seen_at": "2026-08-13T14:00:01.826065",
+      "assets": [
+        {
+          "symbol": "PH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.491268,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.722698
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.717802
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 123,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GlobeNewswire",
+          "source_domain": "GlobeNewswire",
+          "headline": "Parker Completes Acquisition of Filtration Group Corporation",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344575/0/en/parker-completes-acquisition-of-filtration-group-corporation.html",
+          "published_at": "2026-08-13T13:01:26"
+        }
+      ]
+    },
+    {
+      "event_id": 121,
+      "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+      "summary": "Dell Technologies (DELL) shares are poised to exceed $500 for the first time, fueled by strong earnings from Lenovo and optimistic guidance from Super Micro Computer (SMCI), boosting confidence in the AI server market. Analysts foresee significant growth for Dell due to increasing AI demand, with Morningstar highlighting its attractive valuation and reduced business cyclicality. Both Dell and HPE are seeing \"extremely bullish\" retail sentiment on Stocktwits, reflecting strong year-to-date stock performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-13T12:57:12",
+      "first_seen_at": "2026-08-13T14:00:02.051980",
+      "assets": [
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.702375,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 0.868456,
+          "sentiment_score": 0.731715,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HPE",
+          "asset_class": null,
+          "relevance_score": 0.761317,
+          "sentiment_score": 0.626924,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 0.608954,
+          "sentiment_score": 0.502961,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 0.949759
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901116
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832377
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.64991
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 124,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+          "url": "https://www.tradingview.com/news/stocktwits:e4b549d42094b:0-dell-stock-on-track-to-top-500-for-first-time-as-ai-server-boom-gets-fresh-fuel-from-lenovo-smci/",
+          "published_at": "2026-08-13T12:57:12"
+        }
+      ]
+    },
+    {
+      "event_id": 122,
+      "title": "Resilient MetLife stock holds firm after strong Q2 2026 earnings beat",
+      "summary": "MetLife Inc. (US59156R1086) stock remains steady around $96.66 after reporting strong Q2 2026 earnings, with adjusted EPS of $2.43 beating consensus estimates of $2.30 and revenue reaching $19.15 billion. The company has delivered two consecutive quarters of EPS beats, and analysts expect continued earnings growth, with a Q3 2026 EPS consensus of $2.55 and full-year EPS of $9.30. The stock currently trades with a market capitalization of $62.21 billion and offers a dividend yield of 2.37%, with institutional investors holding a significant 94.99% stake.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-13T12:19:06",
+      "first_seen_at": "2026-08-13T14:00:02.344202",
+      "assets": [
+        {
+          "symbol": "MET",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.684429,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922202
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.721354
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.630586
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 125,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Resilient MetLife stock holds firm after strong Q2 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-metlife-stock-holds-firm-after-strong-q2-2026-earnings-beat/69945235",
+          "published_at": "2026-08-13T12:19:06"
+        }
+      ]
+    },
+    {
       "event_id": 118,
       "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abbott Labs, AbbVie, Akamai Technologies, Five Below, Keurig Dr. Pepper, Salesforce, Stryker, StubHub, and More",
       "summary": "This article details Wall Street analyst upgrades, downgrades, and initiations for various companies on Thursday, August 13, 2026, following the release of inline CPI data. Key movements include Five Below being upgraded to Buy at Jefferies and StubHub being cut to Underperform at Bank of America. The article also provides a general market overview, including performance of indices, treasury bonds, commodities, and cryptocurrency.",
@@ -982,206 +1198,6 @@
           "headline": "EQR: Shareholders approved all proposals enabling the merger with AvalonBay Communities, Inc",
           "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011127:0-eqr-shareholders-approved-all-proposals-enabling-the-merger-with-avalonbay-communities-inc/",
           "published_at": "2026-08-12T14:33:16"
-        }
-      ]
-    },
-    {
-      "event_id": 99,
-      "title": "Sysco (NYSE: SYY) details Jetro acquisition, higher leverage and $100M AI cost cuts",
-      "summary": "Sysco (NYSE: SYY) has provided further details on its pending acquisition of Jetro Restaurant Depot, outlining the financial profile of the combined entity and strategies for growth and cost reduction. The company anticipates achieving $100 million in cost savings in fiscal 2027 through technology and AI initiatives, alongside targeting 6-7% sales growth and 9-11% adjusted EPS growth for the same period. Sysco also addressed the expected increase in leverage post-acquisition, projecting net debt to adjusted EBITDA to peak near 4.5x, with a plan to reduce it to a long-term target of 2.75x within 24 months.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-12T14:32:15",
-      "first_seen_at": "2026-08-12T16:00:03.748557",
-      "assets": [
-        {
-          "symbol": "SYY",
-          "asset_class": null,
-          "relevance_score": 0.965426,
-          "sentiment_score": 0.286339,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945944
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.809254
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.631415
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 101,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Sysco (NYSE: SYY) details Jetro acquisition, higher leverage and $100M AI cost cuts",
-          "url": "https://www.stocktitan.net/sec-filings/SYY/425-sysco-corp-business-combination-communication-c8e29f2b33d1.html",
-          "published_at": "2026-08-12T14:32:15"
-        }
-      ]
-    },
-    {
-      "event_id": 100,
-      "title": "Citi's Hollenhorst Weighs Oil Against Domestic Economy",
-      "summary": "Andrew Hollenhorst, chief US economist at Citi, discussed inflation and its potential impact on market expectations with Bloomberg's Vonnie Quinn. The conversation focused on recent trends in price and labor data.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-12T14:29:19",
-      "first_seen_at": "2026-08-12T16:00:03.971553",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.022007,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.835176
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.803261
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741735
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.711751
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.620103
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 102,
-          "provider": "ALPHA_VANTAGE",
-          "source": "www.marketscreener.com",
-          "source_domain": "www.marketscreener.com",
-          "headline": "Citi's Hollenhorst Weighs Oil Against Domestic Economy",
-          "url": "https://www.marketscreener.com/news/citi-s-hollenhorst-weighs-oil-against-domestic-economy-ce7859d8dc8ef727",
-          "published_at": "2026-08-12T14:29:19"
-        }
-      ]
-    },
-    {
-      "event_id": 101,
-      "title": "Astorg Completes Acquisition of Thermo Fisher Microbiology Business",
-      "summary": "Astorg has finalized its acquisition of Thermo Fisher Scientific's global microbiology business, which will now operate as an independent entity under the leadership of newly appointed CEO Dirk Bontridder. The new company, serving over 15,000 customers in 100+ countries, aims to accelerate innovation and strengthen its global position in microbiological diagnostics for clinical, food safety, and pharmaceutical applications. Astorg plans to support the company's growth with strategic guidance and capital, with a new corporate brand launching later in 2026.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-12T14:29:07",
-      "first_seen_at": "2026-08-12T16:00:04.206151",
-      "assets": [
-        {
-          "symbol": "TMO",
-          "asset_class": null,
-          "relevance_score": 0.994277,
-          "sentiment_score": -0.118002,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.920952
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.714757
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 103,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Clinical Lab Products",
-          "source_domain": "Clinical Lab Products",
-          "headline": "Astorg Completes Acquisition of Thermo Fisher Microbiology Business",
-          "url": "https://clpmag.com/lab-management/company-news/astorg-acquires-thermo-fisher-microbiology-business-3/",
-          "published_at": "2026-08-12T14:29:07"
-        }
-      ]
-    },
-    {
-      "event_id": 102,
-      "title": "LIQT: Record pool and marine growth offset by energy project delays; guidance cut to $20–$23M",
-      "summary": "LiqTech International (LIQT) reported record commercial pool revenue and marine growth in Q2 2026, but overall revenue decreased by 12% year-over-year due to delays in water for energy projects. As a result, the company revised its full-year guidance to $20–$23 million, while noting a strengthened balance sheet and a strategic focus on markets with repeatable demand. This information is based on the Q2 2026 audio transcript.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-12T14:23:30",
-      "first_seen_at": "2026-08-12T16:00:04.414409",
-      "assets": [
-        {
-          "symbol": "LIQT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.279469,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.846736
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.725438
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 104,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "LIQT: Record pool and marine growth offset by energy project delays; guidance cut to $20–$23M",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4011063:0-liqt-record-pool-and-marine-growth-offset-by-energy-project-delays-guidance-cut-to-20-23m/",
-          "published_at": "2026-08-12T14:23:30"
         }
       ]
     }
