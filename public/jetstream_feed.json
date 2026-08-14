@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 148,
+      "title": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
+      "summary": "The proposed merger between Crinetics Pharmaceuticals (NASDAQ:CRNX) and Vertex Pharmaceuticals (NASDAQ:VRTX) has progressed after securing regulatory clearances, including the expiration of the Hart-Scott-Rodino Antitrust Improvements Act waiting period and approvals in Austria, Germany, and Australia. The acquisition, valued at approximately $10 billion, is expected to close in early September 2026, pending Crinetics shareholder approval. Crinetics shares have surged 184% over the past year, reflecting strong investor interest, although InvestingPro analysis suggests the stock is currently overvalued.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-14T13:05:59",
+      "first_seen_at": "2026-08-14T14:00:01.850900",
+      "assets": [
+        {
+          "symbol": "VRTX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.324936,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.903811
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801389
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.707027
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 153,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
+          "url": "https://www.investing.com/news/sec-filings/crinetics-pharmaceuticals-merger-with-vertex-pharmaceuticals-advances-after-regulatory-clearances-93CH-4860772",
+          "published_at": "2026-08-14T13:05:59"
+        }
+      ]
+    },
+    {
       "event_id": 145,
       "title": "Expand Energy agrees to acquire Twin Eagle in a $1.25 billion deal to strengthen its U.S. natural gas platform",
       "summary": "Expand Energy is set to acquire Twin Eagle Holdings, N.A., LLC for $1.25 billion to enhance its U.S. natural gas platform. This acquisition will integrate Expand Energy's supply and financial strength with Twin Eagle's marketing platform, creating a fully integrated natural gas company. The deal is expected to close in the third quarter of 2026, positioning Expand Energy as a leading integrated natural gas company and marketer in North America.",
@@ -1052,53 +1103,6 @@
           "headline": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
           "url": "https://simplywall.st/stocks/us/materials/nyse-rs/reliance/news/tariffs-are-reshaping-value-screens-for-reliance-vulcan-mate",
           "published_at": "2026-08-13T15:44:07"
-        }
-      ]
-    },
-    {
-      "event_id": 128,
-      "title": "Franco-Nevada Corporation",
-      "summary": "This Reuters page for Franco-Nevada Corporation shows a single search result from 19 hours ago. The result is an article stating that the TSX extended its record-setting run, primarily driven by gold and financial stocks. This surge was attributed to positive U.S. inflation data, an optimistic travel outlook from Air Canada, and signs of a strengthening domestic economy in Canada.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-13T15:40:22",
-      "first_seen_at": "2026-08-13T17:00:03.214316",
-      "assets": [
-        {
-          "symbol": "FNV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.412449,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948844
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.82613
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.727244
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 131,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Reuters",
-          "source_domain": "Reuters",
-          "headline": "Franco-Nevada Corporation",
-          "url": "https://www.reuters.com/company/franco-nevada-corporation/",
-          "published_at": "2026-08-13T15:40:22"
         }
       ]
     }
