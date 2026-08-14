@@ -1,7 +1,8 @@
 {
+  "title": "FlightDeck Market Intelligence | Harold Pelzer",
   "description": "Transform raw financial data into actionable market intelligence with a sophisticated analytics platform designed for analysts, investors, and professionals.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
