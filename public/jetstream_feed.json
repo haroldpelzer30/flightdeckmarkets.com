@@ -5,6 +5,96 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 160,
+      "title": "Inflection Point Acquisition V (IPEX) hit by heavy redemptions and going concern risk",
+      "summary": "Inflection Point Acquisition Corp. V (IPEX), a SPAC, faces substantial doubt about its ability to continue as a going concern following significant redemptions. As of June 30, 2026, the company reported a working capital deficit of $2.76 million and minimal cash outside its trust account. Following shareholder approval for an extension on August 12, 2026, over 7.4 million public shares were redeemed for approximately $79.1 million, leaving only $12.2 million in the Trust Account and potentially jeopardizing its proposed business combination with GOWell Technology Limited.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-14T20:36:40",
+      "first_seen_at": "2026-08-14T22:00:02.123393",
+      "assets": [
+        {
+          "symbol": "IPEX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.630373,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941323
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.845245
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 167,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Inflection Point Acquisition V (IPEX) hit by heavy redemptions and going concern risk",
+          "url": "https://www.stocktitan.net/sec-filings/IPEX/10-q-inflection-point-acquisition-corp-v-quarterly-earnings-report-4abfdf0e8711.html",
+          "published_at": "2026-08-14T20:36:40"
+        }
+      ]
+    },
+    {
+      "event_id": 161,
+      "title": "Jumia Technologies AG (JMIA) director acquires 905,797 ADS in $5.52 private deal",
+      "summary": "Jumia Technologies AG director Hassanein Shahreza Hiridjee, through Yas Holding Ltd, purchased 905,797 American Depositary Shares (ADS) in a private placement from the company on August 12, 2026, at $5.52 per ADS. This transaction increased indirect holdings via Yas Holding Ltd to 13,119,635 ADS, with each ADS representing two ordinary shares. The acquisition was executed under a Share Purchase Agreement, and the Form 4 filing details the insider trade.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-14T20:33:36",
+      "first_seen_at": "2026-08-14T22:00:02.367838",
+      "assets": [
+        {
+          "symbol": "JMIA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.169574,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921293
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.631841
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 168,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Jumia Technologies AG (JMIA) director acquires 905,797 ADS in $5.52 private deal",
+          "url": "https://www.stocktitan.net/sec-filings/JMIA/form-4-jumia-technologies-ag-insider-trading-activity-0038473a4c12.html",
+          "published_at": "2026-08-14T20:33:36"
+        }
+      ]
+    },
+    {
       "event_id": 158,
       "title": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes",
       "summary": "Seagate Technology Holdings PLC (NASDAQ: STX) saw its stock surge by 5.65% after reporting strong FY26 earnings, including a 34% revenue increase to $12.2 billion and record free cash flow of $3.1 billion. The company's performance, driven by cloud data center demand and its Mozaic/HAMR platform tied to AI data growth, led major banks to raise price targets and reaffirm bullish ratings. Analysts highlighted accelerating HAMR adoption, robust Nearline exabyte growth, and improved HDD pricing as key factors for higher margins and EPS growth.",
@@ -990,113 +1080,6 @@
           "headline": "Databricks' Electric acquisition adds embeddable PostgreSQL",
           "url": "https://www.techtarget.com/data-technologies/news/366649200/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
           "published_at": "2026-08-13T22:11:20"
-        }
-      ]
-    },
-    {
-      "event_id": 139,
-      "title": "Duke Energy restores 85% of Cincinnati storm outages",
-      "summary": "Duke Energy has restored power to 85% of customers affected by severe storms in Greater Cincinnati, bringing services back to approximately 223,000 customers. As of Thursday afternoon, about 32,485 customers in Ohio and 6,376 in Kentucky were still without power, with the company expecting to restore nearly all remaining outages by Thursday. Duke Energy deployed over 2,000 workers and committed $100,000 in grants for recovery efforts, serving 8.7 million customers across six states from its Charlotte, North Carolina headquarters.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-13T21:25:40",
-      "first_seen_at": "2026-08-13T23:00:02.139964",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40508,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.9336
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.847169
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.846674
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.718036
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604823
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 143,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Duke Energy restores 85% of Cincinnati storm outages",
-          "url": "https://www.investing.com/news/company-news/duke-energy-restores-85-of-cincinnati-storm-outages-93CH-4859295",
-          "published_at": "2026-08-13T21:25:40"
-        },
-        {
-          "article_id": 142,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Intellectia AI",
-          "source_domain": "Intellectia AI",
-          "headline": "Duke Energy Restores Major Outages in Cincinnati",
-          "url": "https://intellectia.ai/news/stock/duke-energy-restores-major-outages-in-cincinnati",
-          "published_at": "2026-08-13T22:00:40"
-        }
-      ]
-    },
-    {
-      "event_id": 137,
-      "title": "Expedia acquires AI trip-planning startup",
-      "summary": "Expedia has acquired Layla, an AI trip-planning startup, marking at least its third acquisition in the past year. This move follows previous acquisitions of online booking platform Tiqets and car rental tech company CarTrawler, signaling Expedia's continued expansion and investment in travel technology. The acquisition was reported by the Puget Sound Business Journal.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-13T20:57:49",
-      "first_seen_at": "2026-08-13T22:00:02.401966",
-      "assets": [
-        {
-          "symbol": "EXPE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.545525,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.936739
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.811128
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 140,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Expedia acquires AI trip-planning startup",
-          "url": "https://www.bizjournals.com/seattle/news/2026/08/13/expedia-layla-acquisition-tiqets-cartrawler.html",
-          "published_at": "2026-08-13T20:57:49"
         }
       ]
     }
