@@ -5,6 +5,185 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 162,
+      "title": "Tyler Technologies Acquires CODY Systems",
+      "summary": "Tyler Technologies has acquired CODY Systems, a public safety software provider, to strengthen its offerings in cloud-first solutions for law enforcement and other public sector entities. This acquisition aims to enhance Tyler's competitive position in the small to midsize public safety market by providing expanded resources, faster implementations, and improved interoperability. CODY Systems' Pathfinder RMS and COBRAnet solutions will integrate with Tyler's existing platforms to support better data management and cross-agency information sharing.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-14T21:35:51",
+      "first_seen_at": "2026-08-14T23:00:02.618749",
+      "assets": [
+        {
+          "symbol": "TYL",
+          "asset_class": null,
+          "relevance_score": 0.970205,
+          "sentiment_score": 0.469872,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.901561
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 169,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Police1",
+          "source_domain": "Police1",
+          "headline": "Tyler Technologies Acquires CODY Systems",
+          "url": "https://www.police1.com/police-products/police-technology/software/rms/tyler-technologies-acquires-cody-systems",
+          "published_at": "2026-08-14T21:35:51"
+        }
+      ]
+    },
+    {
+      "event_id": 163,
+      "title": "Republic Services (NYSE:RSG) Major Shareholder Acquires $40,671,552.60 in Stock",
+      "summary": "Cascade Investment, a major shareholder in Republic Services (NYSE:RSG), recently acquired 188,460 shares for approximately $40.7 million, increasing its direct ownership to 111.7 million shares. This purchase is part of a series of acquisitions by the firm. Republic Services also reported strong quarterly earnings, beating revenue expectations, and raised its quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-14T21:18:10",
+      "first_seen_at": "2026-08-14T23:00:02.985702",
+      "assets": [
+        {
+          "symbol": "RSG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.450134,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949101
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.90681
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.747531
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 171,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Republic Services (NYSE:RSG) Major Shareholder Acquires $40,671,552.60 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/republic-services-nysersg-major-shareholder-acquires-4067155260-in-stock-2026-08-14/",
+          "published_at": "2026-08-14T21:18:10"
+        },
+        {
+          "article_id": 170,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Insider Buying: Republic Services (NYSE:RSG) Major Shareholder Buys $37,657,100.00 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-buying-republic-services-nysersg-major-shareholder-buys-3765710000-in-stock-2026-08-14/",
+          "published_at": "2026-08-14T21:26:10"
+        }
+      ]
+    },
+    {
+      "event_id": 164,
+      "title": "The Bank of N.T. Butterfield (NTB) files CIBC Caribbean 2025 financials for planned acquisition",
+      "summary": "The Bank of N.T. Butterfield & Son Limited (NTB) has filed detailed historical financial information for CIBC Caribbean Bank Limited as part of its planned acquisition. The filing, a Form 6-K, includes audited consolidated and carve-out financial statements for 2024 and 2025, and unaudited interim financials for the six months ended April 30, 2026. Key figures from the 2025 financials indicate a decline in CIBC Caribbean's net income to $213,024 thousand from $275,715 thousand in 2024, alongside a sharp increase in credit loss expense.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-14T21:14:03",
+      "first_seen_at": "2026-08-14T23:00:03.371723",
+      "assets": [
+        {
+          "symbol": "NTB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.334271,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.675639,
+          "sentiment_score": 0.19858,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.577264,
+          "sentiment_score": -0.12743,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.559378,
+          "sentiment_score": 0.15323,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.941516
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.803427
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.725028
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 172,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "The Bank of N.T. Butterfield (NTB) files CIBC Caribbean 2025 financials for planned acquisition",
+          "url": "https://www.stocktitan.net/sec-filings/NTB/6-k-bank-of-n-t-butterfield-son-ltd-current-report-foreign-issuer-8b9704df29eb.html",
+          "published_at": "2026-08-14T21:14:03"
+        },
+        {
+          "article_id": 173,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Bank of N.T. Butterfield (NYSE: NTB) pursues $1.79B CIBC Caribbean acquisition and share issuance",
+          "url": "https://www.stocktitan.net/sec-filings/NTB/6-k-bank-of-n-t-butterfield-son-ltd-current-report-foreign-issuer-d40cee0e758b.html",
+          "published_at": "2026-08-14T21:14:03"
+        }
+      ]
+    },
+    {
       "event_id": 160,
       "title": "Inflection Point Acquisition V (IPEX) hit by heavy redemptions and going concern risk",
       "summary": "Inflection Point Acquisition Corp. V (IPEX), a SPAC, faces substantial doubt about its ability to continue as a going concern following significant redemptions. As of June 30, 2026, the company reported a working capital deficit of $2.76 million and minimal cash outside its trust account. Following shareholder approval for an extension on August 12, 2026, over 7.4 million public shares were redeemed for approximately $79.1 million, leaving only $12.2 million in the Trust Account and potentially jeopardizing its proposed business combination with GOWell Technology Limited.",
@@ -930,156 +1109,6 @@
           "headline": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
           "url": "https://www.theglobeandmail.com/investing/markets/stocks/STX/pressreleases/3848071/the-zacks-analyst-blog-highlights-seagate-technology-and-nvidia/",
           "published_at": "2026-08-14T10:27:17"
-        }
-      ]
-    },
-    {
-      "event_id": 144,
-      "title": "Nations Financial Group Inc. IA ADV Acquires Shares of 5,223 Take-Two Interactive Software, Inc. $TTWO",
-      "summary": "Nations Financial Group Inc. IA ADV has acquired 5,223 shares of Take-Two Interactive Software, Inc. (NASDAQ:TTWO) valued at approximately $1.3 million during the second quarter. Despite missing EPS estimates, Take-Two reported strong revenue, and analysts maintain a \"Buy\" rating with an average price target of $296.95. However, CEO Strauss Zelnick and President Karl Slatoff recently sold significant shares under pre-arranged trading plans.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-14T10:19:29",
-      "first_seen_at": "2026-08-14T12:00:03.076702",
-      "assets": [
-        {
-          "symbol": "TTWO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.126296,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939418
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840875
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 149,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nations Financial Group Inc. IA ADV Acquires Shares of 5,223 Take-Two Interactive Software, Inc. $TTWO",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nations-financial-group-inc-ia-adv-acquires-shares-of-5223-take-two-interactive-software-inc-ttwo-2026-08-14/",
-          "published_at": "2026-08-14T10:19:29"
-        }
-      ]
-    },
-    {
-      "event_id": 140,
-      "title": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
-      "summary": "Jeff B. Gustavson, President, New Energies at Chevron Corp., sold 14,044 shares of common stock for $2.7 million on August 11, 2026, while also acquiring the same number of shares through stock option exercises valued at $1.66 million. Following these transactions, Gustavson directly holds 3,786 Chevron shares, in addition to indirect holdings and dividend reinvestments. Chevron also reported strong Q2 2026 earnings, leading Mizuho to reiterate an Outperform rating, and maintained dividend payments for 56 consecutive years.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-13T22:18:29",
-      "first_seen_at": "2026-08-14T00:00:02.213718",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.269825,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.631466,
-          "sentiment_score": 0.092188,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931161
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.909849
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84489
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 145,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
-          "url": "https://uk.investing.com/news/stock-market-news/chevron-president-new-energies-jeff-gustavson-sells-27m-in-stock-93CH-4831764",
-          "published_at": "2026-08-13T22:15:36"
-        },
-        {
-          "article_id": 144,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
-          "url": "https://in.investing.com/news/stock-market-news/chevron-president-new-energies-jeff-gustavson-sells-27m-in-stock-93CH-5556500",
-          "published_at": "2026-08-13T22:18:29"
-        }
-      ]
-    },
-    {
-      "event_id": 141,
-      "title": "Databricks' Electric acquisition adds embeddable PostgreSQL",
-      "summary": "Databricks has acquired ElectricSQL to enhance its PostgreSQL database capabilities, extending them to edge devices for AI applications and mobile use. This acquisition builds on Databricks' previous purchase of Neon and aims to enable AI agents to self-correct more efficiently by having embeddable PostgreSQL data locally available. Analysts view this as a strategic move to address critical infrastructure gaps in agentic AI development and differentiate Databricks in a competitive market.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-13T22:11:20",
-      "first_seen_at": "2026-08-14T00:00:02.593792",
-      "assets": [
-        {
-          "symbol": "TTGT",
-          "asset_class": null,
-          "relevance_score": 0.836292,
-          "sentiment_score": 0.139422,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.944557
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 146,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechTarget",
-          "source_domain": "TechTarget",
-          "headline": "Databricks' Electric acquisition adds embeddable PostgreSQL",
-          "url": "https://www.techtarget.com/data-technologies/news/366649200/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
-          "published_at": "2026-08-13T22:11:20"
         }
       ]
     }
