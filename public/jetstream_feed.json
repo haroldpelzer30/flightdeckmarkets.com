@@ -5,6 +5,132 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 158,
+      "title": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes",
+      "summary": "Seagate Technology Holdings PLC (NASDAQ: STX) saw its stock surge by 5.65% after reporting strong FY26 earnings, including a 34% revenue increase to $12.2 billion and record free cash flow of $3.1 billion. The company's performance, driven by cloud data center demand and its Mozaic/HAMR platform tied to AI data growth, led major banks to raise price targets and reaffirm bullish ratings. Analysts highlighted accelerating HAMR adoption, robust Nearline exabyte growth, and improved HDD pricing as key factors for higher margins and EPS growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-14T20:08:01",
+      "first_seen_at": "2026-08-14T21:00:02.590336",
+      "assets": [
+        {
+          "symbol": "STX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.942729,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.615606,
+          "sentiment_score": 0.535459,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WDC",
+          "asset_class": null,
+          "relevance_score": 0.582581,
+          "sentiment_score": 0.428419,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94338
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825512
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.707037
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 165,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.timothysykes.com",
+          "source_domain": "www.timothysykes.com",
+          "headline": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes",
+          "url": "https://www.timothysykes.com/news/seagatetechnologyholdingsplc-stx-news-2026_08_14/",
+          "published_at": "2026-08-14T20:08:01"
+        }
+      ]
+    },
+    {
+      "event_id": 159,
+      "title": "ConocoPhillips reaches $5 billion divestiture target early after completing $1.7 billion noncore asset sale",
+      "summary": "ConocoPhillips has exceeded its $5 billion divestiture target ahead of schedule, driven by a recent $1.7 billion sale of noncore Lower 48 assets. This strategic move aligns with a broader industry trend among U.S. shale producers to streamline portfolios, focus on higher-return assets, and prioritize value over volume. The company also announced better-than-expected second-quarter profits and a leadership change, with Andy O’Brien named Chief Financial Officer.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-14T19:42:25",
+      "first_seen_at": "2026-08-14T21:00:02.906845",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.476183,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.580986,
+          "sentiment_score": 0.287496,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.577053,
+          "sentiment_score": 0.297569,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924455
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.901278
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.823257
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 166,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Energies Media",
+          "source_domain": "Energies Media",
+          "headline": "ConocoPhillips reaches $5 billion divestiture target early after completing $1.7 billion noncore asset sale",
+          "url": "https://energiesmedia.com/conocophillips-divestiture-target-early-asset/",
+          "published_at": "2026-08-14T19:42:25"
+        }
+      ]
+    },
+    {
       "event_id": 155,
       "title": "Empery Digital (EMPD) insider group acquires 1.4M shares across two August trades",
       "summary": "Empery Asset Management and affiliated entities, a ten percent owner of Empery Digital Inc. (EMPD), acquired a total of 1.4 million shares of common stock in two separate open-market transactions in August 2026. These purchases, totaling over $4 million, increased their holdings to 4,330,345 shares through affiliated funds, with Ryan M. Lane directly holding an additional 100,000 shares. The transactions indicate a positive sentiment from this insider group towards Empery Digital.",
@@ -971,132 +1097,6 @@
           "headline": "Expedia acquires AI trip-planning startup",
           "url": "https://www.bizjournals.com/seattle/news/2026/08/13/expedia-layla-acquisition-tiqets-cartrawler.html",
           "published_at": "2026-08-13T20:57:49"
-        }
-      ]
-    },
-    {
-      "event_id": 138,
-      "title": "AvalonBay, Equity Residential shareholders approve merger By Investing.com",
-      "summary": "Shareholders of AvalonBay Communities, Inc. (NYSE: AVB) and Equity Residential (NYSE: EQR) have overwhelmingly approved all proposals required to complete their merger of equals. The merger is anticipated to finalize on Monday, August 17, 2026, and the combined entity will be renamed Vivmark Residential, trading under the ticker symbol VMRK on the NYSE starting August 18, 2026. Each AvalonBay share will convert into 2.793 Equity Residential common shares.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-08-13T20:37:55",
-      "first_seen_at": "2026-08-13T22:00:02.658504",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.444304,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425565,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.912088
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.84396
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.717368
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.626726
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 141,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "AvalonBay, Equity Residential shareholders approve merger By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/avalonbay-equity-residential-shareholders-approve-merger-93CH-2656475",
-          "published_at": "2026-08-13T20:37:55"
-        }
-      ]
-    },
-    {
-      "event_id": 133,
-      "title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
-      "summary": "Michigan's utility regulator, the Michigan Public Service Commission (MPSC), is urging state lawmakers to end annual rate increases and revise how utilities like DTE and Consumers Energy profit. The MPSC believes this change, allowing for multi-year rate plans tied to performance, would be more effective in lowering household energy bills and improving reliability than current commission powers. This comes after four rate hikes in eight months, highlighting concerns that the current system incentivizes expensive capital projects over cheaper alternatives like maintenance and existing infrastructure optimization.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 53,
-      "published_at": "2026-08-13T19:57:49",
-      "first_seen_at": "2026-08-13T21:00:01.878334",
-      "assets": [
-        {
-          "symbol": "DTE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.339527,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 0.812643,
-          "sentiment_score": -0.311729,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WEC",
-          "asset_class": null,
-          "relevance_score": 0.626036,
-          "sentiment_score": -0.230154,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.941275
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.805388
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.71603
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.60828
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 136,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Planet Detroit",
-          "source_domain": "Planet Detroit",
-          "headline": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
-          "url": "https://planetdetroit.org/2026/08/mpsc-dte-consumers-recommendations/",
-          "published_at": "2026-08-13T19:57:49"
         }
       ]
     }
