@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 152,
+      "title": "Phillips 66 (PSX) and Marathon Petroleum (MPC) reportedly held merger talks earlier this year in a deal that would have created a USD 180bln oil-and-gas giant, according to Semafor citing sources",
+      "summary": "Phillips 66 (PSX) and Marathon Petroleum (MPC) reportedly engaged in merger discussions earlier this year, aiming to create a $180 billion oil-and-gas conglomerate. Although the talks did not result in a deal, they highlight the industry's trend towards consolidation as a response to challenging downstream market conditions. Such a merger would have concentrated a significant portion of US refining capacity, likely triggering substantial antitrust scrutiny and potential divestitures.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 75,
+      "published_at": "2026-08-14T15:34:00",
+      "first_seen_at": "2026-08-14T17:00:01.804598",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.119888,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.908972,
+          "sentiment_score": 0.134274,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.922849
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.704199
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 158,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Newsquawk",
+          "source_domain": "Newsquawk",
+          "headline": "Phillips 66 (PSX) and Marathon Petroleum (MPC) reportedly held merger talks earlier this year in a deal that would have created a USD 180bln oil-and-gas giant, according to Semafor citing sources",
+          "url": "https://www.newsquawk.com/headlines/phillips-66-psx-and-marathon-petroleum-mpc-reportedly-held-merger-talks-earlier-this-year-in-a-deal-that-would-have-created-a-usd-180bln-oil-and-gas-giant-according-to-semafor-citing-sources",
+          "published_at": "2026-08-14T15:34:00"
+        }
+      ]
+    },
+    {
+      "event_id": 153,
+      "title": "Newmont Corporation Stock (NEM) Moved Up by 3.20% on Aug 14: What Signal Does It Send?",
+      "summary": "Newmont Corporation (NEM) stock rose 3.20% on August 14, driven by a strong precious metals market due to easing inflation fears and a significant settlement with Barrick Mining. The company's stock also benefited from robust quarterly financial performance, including record free cash flow despite lower output, and positive analyst sentiment. Technical indicators show a buy signal, though some overbought conditions are noted.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-14T15:14:54",
+      "first_seen_at": "2026-08-14T17:00:02.112259",
+      "assets": [
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 0.335418,
+          "sentiment_score": 0.012124,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925635
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.815714
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.72838
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604455
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 159,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Newmont Corporation Stock (NEM) Moved Up by 3.20% on Aug 14: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262108655-market-movers-nem-20260814",
+          "published_at": "2026-08-14T15:14:54"
+        }
+      ]
+    },
+    {
       "event_id": 151,
       "title": "Alumis (NASDAQ:ALMS) Shares Gap Down After Earnings Miss",
       "summary": "Alumis Inc. (NASDAQ:ALMS) experienced a significant share price drop after reporting disappointing earnings, missing both revenue and EPS consensus estimates. Despite the poor financial results and insider selling, analyst sentiment remains largely positive with a \"Moderate Buy\" consensus rating and a target price of $40.30. Several institutional investors, including BlackRock and Spruce Street Capital, recently established new positions in the company, while insiders sold a notable number of shares.",
@@ -1038,104 +1144,6 @@
           "headline": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
           "url": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
           "published_at": "2026-08-13T19:05:26"
-        }
-      ]
-    },
-    {
-      "event_id": 132,
-      "title": "Parker-Hannifin Corporation (NYSE:PH) completed the acquisition of Filtration Group Corporation from Madison Capital Partners Corporation.",
-      "summary": "Parker-Hannifin Corporation (NYSE:PH) has completed its acquisition of Filtration Group Corporation from Madison Capital Partners Corporation for $9.3 billion. The transaction, which was initially announced on November 10, 2025, excludes Filtration Group's Facet business. This acquisition is expected to boost Parker-Hannifin's organic growth, EBITDA margin, adjusted EPS, and cash flow, with a high single-digit cash ROIC projected by year five.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-13T18:09:12",
-      "first_seen_at": "2026-08-13T20:00:02.058919",
-      "assets": [
-        {
-          "symbol": "PH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.316802,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.724149
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 135,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Parker-Hannifin Corporation (NYSE:PH) completed the acquisition of Filtration Group Corporation from Madison Capital Partners Corporation.",
-          "url": "https://www.marketscreener.com/news/parker-hannifin-corporation-nyse-ph-completed-the-acquisition-of-filtration-group-corporation-from-ce7859ded988f123",
-          "published_at": "2026-08-13T18:09:12"
-        }
-      ]
-    },
-    {
-      "event_id": 130,
-      "title": "Kenvue options activity surges on bullish call bets ahead of merger news",
-      "summary": "Kenvue Inc. (KVUE) is experiencing a surge in bullish call options activity, with over 12,000 contracts traded, indicating traders anticipate a significant upward price movement. The high concentration of calls at the $19.50 strike price, expiring soon, alongside a spike in volatility, suggests market participants are positioning for news related to the pending $40–48.7 billion acquisition by Kimberly-Clark, expected to close in Q4 2026. This aggressive options trading follows recent Q2 earnings that slightly missed estimates, implying a focus on potential merger catalysts rather than past financial performance.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-13T16:40:51",
-      "first_seen_at": "2026-08-13T18:00:01.872708",
-      "assets": [
-        {
-          "symbol": "KVUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.456189,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMB",
-          "asset_class": null,
-          "relevance_score": 0.704719,
-          "sentiment_score": 0.341206,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91049
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.824911
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.619599
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 133,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Kenvue options activity surges on bullish call bets ahead of merger news",
-          "url": "https://www.investing.com/news/stock-market-news/kenvue-options-activity-surges-on-bullish-call-bets-ahead-of-merger-news-93CH-4858811",
-          "published_at": "2026-08-13T16:40:51"
         }
       ]
     }
