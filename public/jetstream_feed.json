@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 151,
+      "title": "Alumis (NASDAQ:ALMS) Shares Gap Down After Earnings Miss",
+      "summary": "Alumis Inc. (NASDAQ:ALMS) experienced a significant share price drop after reporting disappointing earnings, missing both revenue and EPS consensus estimates. Despite the poor financial results and insider selling, analyst sentiment remains largely positive with a \"Moderate Buy\" consensus rating and a target price of $40.30. Several institutional investors, including BlackRock and Spruce Street Capital, recently established new positions in the company, while insiders sold a notable number of shares.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-14T14:33:50",
+      "first_seen_at": "2026-08-14T16:00:02.672925",
+      "assets": [
+        {
+          "symbol": "ALMS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.604526,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.603981,
+          "sentiment_score": 0.216016,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.593191,
+          "sentiment_score": 0.126998,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.591306,
+          "sentiment_score": 0.124078,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916454
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843036
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.739296
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 157,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Alumis (NASDAQ:ALMS) Shares Gap Down After Earnings Miss",
+          "url": "https://www.marketbeat.com/instant-alerts/alumis-nasdaqalms-shares-gap-down-after-earnings-miss-2026-08-14/",
+          "published_at": "2026-08-14T14:33:50"
+        }
+      ]
+    },
+    {
       "event_id": 149,
       "title": "FOX (NASDAQ:FOXA) Raised to \"Overweight\" at JPMorgan Chase & Co.",
       "summary": "JPMorgan Chase & Co. upgraded FOX (NASDAQ:FOXA) from a \"neutral\" to an \"overweight\" rating, setting an $82 price target, indicating a potential 25.29% upside. This upgrade follows FOX's strong quarterly earnings, where it reported $1.79 EPS against an estimated $1.44, and a 28.1% year-over-year revenue increase to $4.21 billion. Despite the upgrade, analyst sentiment for FOX remains mixed, with a consensus \"hold\" rating and an average price target of $74.31.",
@@ -1065,53 +1136,6 @@
           "headline": "Kenvue options activity surges on bullish call bets ahead of merger news",
           "url": "https://www.investing.com/news/stock-market-news/kenvue-options-activity-surges-on-bullish-call-bets-ahead-of-merger-news-93CH-4858811",
           "published_at": "2026-08-13T16:40:51"
-        }
-      ]
-    },
-    {
-      "event_id": 131,
-      "title": "Centene stock holds near 52-week high as Q2 earnings beat and guidance support valuation",
-      "summary": "Centene stock is trading near its 52-week high after reporting strong second-quarter 2026 results, which included a significant earnings beat and raised full-year guidance. The company's adjusted diluted EPS of $2.51 far exceeded estimates, and revenue grew by nearly 10% year-over-year. Centene's solid operational performance, improved balance sheet, and strategic focus on Medicaid managed care continue to underpin its valuation and future growth prospects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-13T16:03:38",
-      "first_seen_at": "2026-08-13T18:00:02.210778",
-      "assets": [
-        {
-          "symbol": "CNC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.51829,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.910482
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.822753
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.741419
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 134,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Centene stock holds near 52-week high as Q2 earnings beat and guidance support valuation",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-holds-near-52-week-high-as-q2-earnings-beat-and-guidance/69946729",
-          "published_at": "2026-08-13T16:03:38"
         }
       ]
     }
