@@ -5,6 +5,70 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 154,
+      "title": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know",
+      "summary": "Stocks of several energy companies, including Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean, rose following a surge in crude oil prices. This increase was driven by escalating geopolitical tensions in the Middle East and ongoing supply concerns, pushing WTI crude above $81 and Brent crude near $90. The market's focus on these geopolitical risks outweighed a significant weekly build in U.S. commercial crude stocks, impacting energy market volatility.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 80,
+      "published_at": "2026-08-14T16:57:02",
+      "first_seen_at": "2026-08-14T18:00:02.433703",
+      "assets": [
+        {
+          "symbol": "TPL",
+          "asset_class": null,
+          "relevance_score": 0.997001,
+          "sentiment_score": 0.310618,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HAL",
+          "asset_class": null,
+          "relevance_score": 0.90935,
+          "sentiment_score": 0.308451,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933034
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.837825
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 161,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know",
+          "url": "https://www.tradingview.com/news/stockstory:d7d8bef0d094b:0-peabody-energy-borr-drilling-texas-pacific-land-halliburton-and-transocean-stocks-trade-up-what-you-need-to-know/",
+          "published_at": "2026-08-14T16:15:26"
+        },
+        {
+          "article_id": 160,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StockStory",
+          "source_domain": "StockStory",
+          "headline": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know",
+          "url": "https://stockstory.org/us/stocks/nyse/btu/news/why-up-down/peabody-energy-borr-drilling-texas-pacific-land-halliburton-and-transocean-stocks-trade-up-what-you-need-to-know",
+          "published_at": "2026-08-14T16:57:02"
+        }
+      ]
+    },
+    {
       "event_id": 152,
       "title": "Phillips 66 (PSX) and Marathon Petroleum (MPC) reportedly held merger talks earlier this year in a deal that would have created a USD 180bln oil-and-gas giant, according to Semafor citing sources",
       "summary": "Phillips 66 (PSX) and Marathon Petroleum (MPC) reportedly engaged in merger discussions earlier this year, aiming to create a $180 billion oil-and-gas conglomerate. Although the talks did not result in a deal, they highlight the industry's trend towards consolidation as a response to challenging downstream market conditions. Such a merger would have concentrated a significant portion of US refining capacity, likely triggering substantial antitrust scrutiny and potential divestitures.",
@@ -1085,65 +1149,6 @@
           "headline": "Kimberly-Clark secures $45M tariff refund, half of what it paid in 2026",
           "url": "https://www.supplychaindive.com/news/kimberly-clark-secures-45m-tariff-refund-half-of-what-it-paid-in-2026/827707/",
           "published_at": "2026-08-13T19:07:38"
-        }
-      ]
-    },
-    {
-      "event_id": 136,
-      "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
-      "summary": "PTC Therapeutics has won a bankruptcy auction for Sangamo Therapeutics' gene therapy candidate, isaralgagene civaparvovec (ST-920), for Fabry disease, with a bid of $111 million upfront and up to $100 million in milestone payments. This acquisition expands PTC's rare disease pipeline, bringing a therapy already in the regulatory review process with an anticipated FDA approval by 2027. The deal comes after Sangamo Therapeutics filed for Chapter 11 bankruptcy following failed attempts to find strategic alternatives for its programs.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-13T19:05:26",
-      "first_seen_at": "2026-08-13T21:00:02.788745",
-      "assets": [
-        {
-          "symbol": "PTCT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.486841,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PFE",
-          "asset_class": null,
-          "relevance_score": 0.636652,
-          "sentiment_score": -0.324168,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BIIB",
-          "asset_class": null,
-          "relevance_score": 0.619602,
-          "sentiment_score": -0.313012,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.912322
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.836123
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 139,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MedCity News",
-          "source_domain": "MedCity News",
-          "headline": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
-          "url": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
-          "published_at": "2026-08-13T19:05:26"
         }
       ]
     }
