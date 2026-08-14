@@ -5,6 +5,159 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 142,
+      "title": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
+      "summary": "TD Waterhouse Canada Inc. significantly increased its stake in Johnson Controls International (JCI) by 18% in the second quarter of 2026, bringing its total holdings to 124,880 shares valued at $18.1 million. This move aligns with a generally positive outlook from analysts, who rate JCI a \"Moderate Buy\" with an average price target of $154.80. The company recently reported strong quarterly earnings, beating revenue and EPS estimates, and pays a quarterly dividend of $0.40 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-14T10:29:30",
+      "first_seen_at": "2026-08-14T12:00:02.382510",
+      "assets": [
+        {
+          "symbol": "JCI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.465662,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906666
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.837732
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.728882
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.644493
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 147,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-raises-position-in-johnson-controls-international-plc-jci-2026-08-14/",
+          "published_at": "2026-08-14T10:29:30"
+        }
+      ]
+    },
+    {
+      "event_id": 143,
+      "title": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
+      "summary": "This Zacks Analyst Blog highlights Seagate Technology (STX) and NVIDIA (NVDA), focusing on Seagate's unexpected strong performance driven by AI-driven data storage demand. Seagate's shares have significantly outperformed NVIDIA's this year due to increased demand for high-capacity HDDs, leading to substantial revenue growth and margin expansion. The company's strong financial health and positive outlook make it a compelling investment in the AI infrastructure boom.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-14T10:27:17",
+      "first_seen_at": "2026-08-14T12:00:02.787111",
+      "assets": [
+        {
+          "symbol": "STX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.926038,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.837601,
+          "sentiment_score": 0.345625,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94545
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920412
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 148,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/STX/pressreleases/3848071/the-zacks-analyst-blog-highlights-seagate-technology-and-nvidia/",
+          "published_at": "2026-08-14T10:27:17"
+        }
+      ]
+    },
+    {
+      "event_id": 144,
+      "title": "Nations Financial Group Inc. IA ADV Acquires Shares of 5,223 Take-Two Interactive Software, Inc. $TTWO",
+      "summary": "Nations Financial Group Inc. IA ADV has acquired 5,223 shares of Take-Two Interactive Software, Inc. (NASDAQ:TTWO) valued at approximately $1.3 million during the second quarter. Despite missing EPS estimates, Take-Two reported strong revenue, and analysts maintain a \"Buy\" rating with an average price target of $296.95. However, CEO Strauss Zelnick and President Karl Slatoff recently sold significant shares under pre-arranged trading plans.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-14T10:19:29",
+      "first_seen_at": "2026-08-14T12:00:03.076702",
+      "assets": [
+        {
+          "symbol": "TTWO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.126296,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939418
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.840875
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 149,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nations Financial Group Inc. IA ADV Acquires Shares of 5,223 Take-Two Interactive Software, Inc. $TTWO",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nations-financial-group-inc-ia-adv-acquires-shares-of-5223-take-two-interactive-software-inc-ttwo-2026-08-14/",
+          "published_at": "2026-08-14T10:19:29"
+        }
+      ]
+    },
+    {
       "event_id": 140,
       "title": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
       "summary": "Jeff B. Gustavson, President, New Energies at Chevron Corp., sold 14,044 shares of common stock for $2.7 million on August 11, 2026, while also acquiring the same number of shares through stock option exercises valued at $1.66 million. Following these transactions, Gustavson directly holds 3,786 Chevron shares, in addition to indirect holdings and dividend reinvestments. Chevron also reported strong Q2 2026 earnings, leading Mizuho to reiterate an Outperform rating, and maintained dividend payments for 56 consecutive years.",
@@ -954,167 +1107,6 @@
           "headline": "Parker Hannifin completes acquisition of Filtration Group",
           "url": "https://www.investing.com/news/company-news/parker-hannifin-completes-acquisition-of-filtration-group-93CH-4858020",
           "published_at": "2026-08-13T13:46:08"
-        }
-      ]
-    },
-    {
-      "event_id": 125,
-      "title": "Builders FirstSource stock slips after Q2 earnings miss and guidance cut",
-      "summary": "Builders FirstSource (BLDR) stock fell after missing Q2 2026 earnings expectations and cutting its full-year revenue guidance, primarily due to a weak housing market. The company reported an 8.8% year-over-year revenue decline and significantly compressed EPS, leading to a cautious outlook from management and analysts. Despite the financial headwinds, the company's balance sheet appears manageable, and analysts still see potential upside toward a target price of $90.35 if housing demand stabilizes.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-13T13:42:21",
-      "first_seen_at": "2026-08-13T15:00:02.949273",
-      "assets": [
-        {
-          "symbol": "BLDR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.439889,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.911503
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.800813
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.736976
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.621122
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.608531
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 128,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Builders FirstSource stock slips after Q2 earnings miss and guidance cut",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/builders-firstsource-stock-slips-after-q2-earnings-miss-and-guidance-cut/69945896",
-          "published_at": "2026-08-13T13:42:21"
-        }
-      ]
-    },
-    {
-      "event_id": 126,
-      "title": "AvalonBay, Equity Residential merger approved by shareholders",
-      "summary": "Shareholders of AvalonBay Communities and Equity Residential have overwhelmingly approved all proposals for their \"merger of equals.\" The companies expect to close the deal on August 17, forming Vivmark Residential, which will have a pro forma equity market capitalization of about $53 billion and an enterprise value of roughly $71 billion. The",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-13T13:41:19",
-      "first_seen_at": "2026-08-13T15:00:03.200483",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.407905,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 0.904566,
-          "sentiment_score": 0.418901,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ESS",
-          "asset_class": null,
-          "relevance_score": 0.575869,
-          "sentiment_score": 0.229227,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.904224
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 129,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Multifamily Dive",
-          "source_domain": "Multifamily Dive",
-          "headline": "AvalonBay, Equity Residential merger approved by shareholders",
-          "url": "https://www.multifamilydive.com/news/reit-merger-vivmark-equity-residential-avalonbay/827775/",
-          "published_at": "2026-08-13T13:41:19"
-        }
-      ]
-    },
-    {
-      "event_id": 119,
-      "title": "Why the World Is Still Investing in America",
-      "summary": "The article highlights a disconnect between American perceptions of their financial system and global views. While Americans often focus on volatility and decline, international governments, companies, and investors continue to seek greater access to the U.S. market, indicating strong confidence from abroad. The author, having traveled extensively, notes this contrast in perspectives.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-13T13:02:23",
-      "first_seen_at": "2026-08-13T14:00:01.616462",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.941546,
-          "sentiment_score": 0.31274,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.910041
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.805523
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741538
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 122,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Citigroup",
-          "source_domain": "Citigroup",
-          "headline": "Why the World Is Still Investing in America",
-          "url": "https://www.citigroup.com/global/news/perspectives/2026/why-world-still-investing-in-america-jane-fraser",
-          "published_at": "2026-08-13T13:02:23"
         }
       ]
     }
