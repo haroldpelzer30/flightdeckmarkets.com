@@ -5,14 +5,81 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 149,
+      "title": "FOX (NASDAQ:FOXA) Raised to \"Overweight\" at JPMorgan Chase & Co.",
+      "summary": "JPMorgan Chase & Co. upgraded FOX (NASDAQ:FOXA) from a \"neutral\" to an \"overweight\" rating, setting an $82 price target, indicating a potential 25.29% upside. This upgrade follows FOX's strong quarterly earnings, where it reported $1.79 EPS against an estimated $1.44, and a 28.1% year-over-year revenue increase to $4.21 billion. Despite the upgrade, analyst sentiment for FOX remains mixed, with a consensus \"hold\" rating and an average price target of $74.31.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-14T13:18:46",
+      "first_seen_at": "2026-08-14T15:00:02.219021",
+      "assets": [
+        {
+          "symbol": "FOXA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.42022,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FOX",
+          "asset_class": null,
+          "relevance_score": 0.946544,
+          "sentiment_score": 0.405531,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.818918,
+          "sentiment_score": 0.282083,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924234
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.827853
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.643921
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.613558
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 154,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "FOX (NASDAQ:FOXA) Raised to \"Overweight\" at JPMorgan Chase & Co.",
+          "url": "https://www.marketbeat.com/instant-alerts/fox-nasdaqfoxa-raised-to-overweight-at-jpmorgan-chase-co-2026-08-14/",
+          "published_at": "2026-08-14T13:18:46"
+        }
+      ]
+    },
+    {
       "event_id": 148,
       "title": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
-      "summary": "The proposed merger between Crinetics Pharmaceuticals (NASDAQ:CRNX) and Vertex Pharmaceuticals (NASDAQ:VRTX) has progressed after securing regulatory clearances, including the expiration of the Hart-Scott-Rodino Antitrust Improvements Act waiting period and approvals in Austria, Germany, and Australia. The acquisition, valued at approximately $10 billion, is expected to close in early September 2026, pending Crinetics shareholder approval. Crinetics shares have surged 184% over the past year, reflecting strong investor interest, although InvestingPro analysis suggests the stock is currently overvalued.",
+      "summary": "Crinetics Pharmaceuticals announced that its proposed merger with Vertex Pharmaceuticals is progressing after receiving regulatory approvals and the expiration of antitrust waiting periods in several jurisdictions. The merger, valuing Crinetics at approximately $10 billion, is expected to close in early September 2026, pending Crinetics shareholder approval. Despite recent downgrades from analysts following the acquisition announcement, Crinetics shares are trading near their 52-week high, reflecting strong investor confidence in the deal.",
       "event_type": "M&A",
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "MEDIUM",
-      "intelligence_score": 60,
+      "intelligence_score": 64,
       "published_at": "2026-08-14T13:05:59",
       "first_seen_at": "2026-08-14T14:00:01.850900",
       "assets": [
@@ -20,7 +87,7 @@
           "symbol": "VRTX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.324936,
+          "sentiment_score": 0.334836,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -32,15 +99,15 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.903811
+          "relevance_score": 0.912968
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.801389
+          "relevance_score": 0.849615
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.707027
+          "relevance_score": 0.737573
         }
       ],
       "articles": [
@@ -52,6 +119,15 @@
           "headline": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
           "url": "https://www.investing.com/news/sec-filings/crinetics-pharmaceuticals-merger-with-vertex-pharmaceuticals-advances-after-regulatory-clearances-93CH-4860772",
           "published_at": "2026-08-14T13:05:59"
+        },
+        {
+          "article_id": 155,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
+          "url": "https://m.investing.com/news/sec-filings/crinetics-pharmaceuticals-merger-with-vertex-pharmaceuticals-advances-after-regulatory-clearances-93CH-4860772?ampMode=1",
+          "published_at": "2026-08-14T13:10:02"
         }
       ]
     },
@@ -1036,73 +1112,6 @@
           "headline": "Centene stock holds near 52-week high as Q2 earnings beat and guidance support valuation",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-holds-near-52-week-high-as-q2-earnings-beat-and-guidance/69946729",
           "published_at": "2026-08-13T16:03:38"
-        }
-      ]
-    },
-    {
-      "event_id": 127,
-      "title": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
-      "summary": "Tariffs are influencing company sourcing, production, and earnings, creating opportunities for investors in domestic-oriented value stocks. This article highlights Reliance (RS), Vulcan Materials (VMC), and Nucor (NUE) as three such companies that screen well on value, balance sheet strength, and dividends, as they are closely tied to tariff-related policy shifts and domestic market advantages.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-13T15:44:07",
-      "first_seen_at": "2026-08-13T17:00:02.964145",
-      "assets": [
-        {
-          "symbol": "VMC",
-          "asset_class": null,
-          "relevance_score": 0.995708,
-          "sentiment_score": 0.192553,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 0.966725,
-          "sentiment_score": 0.258593,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 0.5926,
-          "sentiment_score": 0.067231,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.907446
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.835655
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.723779
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.623752
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 130,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-rs/reliance/news/tariffs-are-reshaping-value-screens-for-reliance-vulcan-mate",
-          "published_at": "2026-08-13T15:44:07"
         }
       ]
     }
