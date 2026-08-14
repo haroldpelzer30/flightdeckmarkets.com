@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 145,
+      "title": "Expand Energy agrees to acquire Twin Eagle in a $1.25 billion deal to strengthen its U.S. natural gas platform",
+      "summary": "Expand Energy is set to acquire Twin Eagle Holdings, N.A., LLC for $1.25 billion to enhance its U.S. natural gas platform. This acquisition will integrate Expand Energy's supply and financial strength with Twin Eagle's marketing platform, creating a fully integrated natural gas company. The deal is expected to close in the third quarter of 2026, positioning Expand Energy as a leading integrated natural gas company and marketer in North America.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-14T11:46:13",
+      "first_seen_at": "2026-08-14T13:00:02.204438",
+      "assets": [
+        {
+          "symbol": "EXE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.439132,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.919343
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.622363
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 150,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Energies Media",
+          "source_domain": "Energies Media",
+          "headline": "Expand Energy agrees to acquire Twin Eagle in a $1.25 billion deal to strengthen its U.S. natural gas platform",
+          "url": "https://energiesmedia.com/expand-energy-twin-eagle-25-billion-natural-gas/",
+          "published_at": "2026-08-14T11:46:13"
+        }
+      ]
+    },
+    {
+      "event_id": 146,
+      "title": "Atika Capital (JATT) discloses 5.1% beneficial stake in JATT II Acquisition Corp.",
+      "summary": "Atika Capital Management LLC and Brad Farber have reported a beneficial ownership of 5.1% in JATT II Acquisition Corp., totaling 400,000 ordinary shares. This stake is held through advisory clients of Atika Capital, with both Atika and Farber sharing voting and dispositive power over these shares. The filing, a SCHEDULE 13G, indicates that no single advisory client beneficially owns more than 5% individually.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-14T11:33:34",
+      "first_seen_at": "2026-08-14T13:00:02.465649",
+      "assets": [
+        {
+          "symbol": "JATT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.010073,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.810508
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.613521
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 151,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Atika Capital (JATT) discloses 5.1% beneficial stake in JATT II Acquisition Corp.",
+          "url": "https://www.stocktitan.net/sec-filings/JATT/schedule-13g-jatt-ii-acquisition-corp-passive-investment-disclosure-5-8881180b42cc.html",
+          "published_at": "2026-08-14T11:33:34"
+        }
+      ]
+    },
+    {
+      "event_id": 147,
+      "title": "Oak Harvest Investment Services Buys New Position in Teradyne, Inc. $TER",
+      "summary": "Oak Harvest Investment Services has acquired a new position in Teradyne, Inc. (NASDAQ:TER) during the second quarter, purchasing 13,684 shares valued at approximately $6.6 million. Teradyne has a \"Moderate Buy\" consensus rating from analysts, with an average price target of $396.80. The company recently reported strong quarterly earnings, beating EPS and revenue estimates, though insiders have sold $2.27 million of stock over the last quarter.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-14T11:16:26",
+      "first_seen_at": "2026-08-14T13:00:02.702748",
+      "assets": [
+        {
+          "symbol": "TER",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.497878,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.946192
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.829586
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713462
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604899
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 152,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Oak Harvest Investment Services Buys New Position in Teradyne, Inc. $TER",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-oak-harvest-investment-services-buys-new-position-in-teradyne-inc-ter-2026-08-14/",
+          "published_at": "2026-08-14T11:16:26"
+        }
+      ]
+    },
+    {
       "event_id": 142,
       "title": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
       "summary": "TD Waterhouse Canada Inc. significantly increased its stake in Johnson Controls International (JCI) by 18% in the second quarter of 2026, bringing its total holdings to 124,880 shares valued at $18.1 million. This move aligns with a generally positive outlook from analysts, who rate JCI a \"Moderate Buy\" with an average price target of $154.80. The company recently reported strong quarterly earnings, beating revenue and EPS estimates, and pays a quarterly dividend of $0.40 per share.",
@@ -950,163 +1099,6 @@
           "headline": "Franco-Nevada Corporation",
           "url": "https://www.reuters.com/company/franco-nevada-corporation/",
           "published_at": "2026-08-13T15:40:22"
-        }
-      ]
-    },
-    {
-      "event_id": 129,
-      "title": "Proposed Texas Grid Projects Could Create 41,000 Jobs During Construction",
-      "summary": "A new economic impact study commissioned by CenterPoint Energy (NYSE:CNP) suggests that its planned 765kV transmission resiliency projects in Southeast Texas could generate over $18 billion annually in economic value, create approximately 41,000 construction jobs, and add $120 million in local property taxes each year. When combined with other Texas utility projects, the statewide economic impact could reach $30 billion annually, with 100,000 construction jobs. CenterPoint Energy is currently in the early planning stages, conducting community outreach and preparing to launch \"10 Commitments for Texans\" to guide landowner engagement for these crucial infrastructure improvements.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-13T15:09:27",
-      "first_seen_at": "2026-08-13T17:00:03.437969",
-      "assets": [
-        {
-          "symbol": "CNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.487563,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946441
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.83859
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.620778
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.607633
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 132,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Proposed Texas Grid Projects Could Create 41,000 Jobs During Construction",
-          "url": "https://www.stocktitan.net/news/CNP/new-economic-study-southeast-texas-transmission-resiliency-projects-2vax5kb47xqi.html",
-          "published_at": "2026-08-13T15:09:27"
-        }
-      ]
-    },
-    {
-      "event_id": 123,
-      "title": "Union Pacific stock holds gains as safety concerns and freight demand shape the outlook",
-      "summary": "Union Pacific (UNP) stock is trading near $294, reflecting investor confidence in strong freight demand despite recent local safety concerns regarding hazardous cargo transport. The company's Q2 2026 earnings showed robust revenue and net income growth, with freight revenue outpacing broad US GDP. While safety issues are noted, current market sentiment views them as manageable, with analysts expressing a stronger positive stance on the stock.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-13T13:52:00",
-      "first_seen_at": "2026-08-13T15:00:02.183544",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.141144,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.93046
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923598
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.814807
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.749844
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.636165
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 126,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Union Pacific stock holds gains as safety concerns and freight demand shape the outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-holds-gains-as-safety-concerns-and-freight-demand/69945536",
-          "published_at": "2026-08-13T13:52:00"
-        }
-      ]
-    },
-    {
-      "event_id": 124,
-      "title": "Parker Hannifin completes acquisition of Filtration Group",
-      "summary": "Parker Hannifin Corporation has finalized its acquisition of Filtration Group Corporation. This acquisition is projected to add approximately $1.8 billion to Parker's fiscal 2027 sales and is expected to be accretive to adjusted earnings per share for the full fiscal year 2027. Parker anticipates achieving roughly $220 million in pre-tax cost synergies by the end of the third year.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-13T13:46:08",
-      "first_seen_at": "2026-08-13T15:00:02.458964",
-      "assets": [
-        {
-          "symbol": "PH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.444875,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.802228
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.738723
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.708004
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 127,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Parker Hannifin completes acquisition of Filtration Group",
-          "url": "https://www.investing.com/news/company-news/parker-hannifin-completes-acquisition-of-filtration-group-93CH-4858020",
-          "published_at": "2026-08-13T13:46:08"
         }
       ]
     }
