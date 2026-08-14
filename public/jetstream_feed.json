@@ -5,6 +5,113 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 140,
+      "title": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
+      "summary": "Jeff B. Gustavson, President, New Energies at Chevron Corp., sold 14,044 shares of common stock for $2.7 million on August 11, 2026, while also acquiring the same number of shares through stock option exercises valued at $1.66 million. Following these transactions, Gustavson directly holds 3,786 Chevron shares, in addition to indirect holdings and dividend reinvestments. Chevron also reported strong Q2 2026 earnings, leading Mizuho to reiterate an Outperform rating, and maintained dividend payments for 56 consecutive years.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-13T22:18:29",
+      "first_seen_at": "2026-08-14T00:00:02.213718",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.269825,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.631466,
+          "sentiment_score": 0.092188,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931161
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.909849
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84489
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 145,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
+          "url": "https://uk.investing.com/news/stock-market-news/chevron-president-new-energies-jeff-gustavson-sells-27m-in-stock-93CH-4831764",
+          "published_at": "2026-08-13T22:15:36"
+        },
+        {
+          "article_id": 144,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Chevron president, new energies, Jeff Gustavson sells $2.7m in stock",
+          "url": "https://in.investing.com/news/stock-market-news/chevron-president-new-energies-jeff-gustavson-sells-27m-in-stock-93CH-5556500",
+          "published_at": "2026-08-13T22:18:29"
+        }
+      ]
+    },
+    {
+      "event_id": 141,
+      "title": "Databricks' Electric acquisition adds embeddable PostgreSQL",
+      "summary": "Databricks has acquired ElectricSQL to enhance its PostgreSQL database capabilities, extending them to edge devices for AI applications and mobile use. This acquisition builds on Databricks' previous purchase of Neon and aims to enable AI agents to self-correct more efficiently by having embeddable PostgreSQL data locally available. Analysts view this as a strategic move to address critical infrastructure gaps in agentic AI development and differentiate Databricks in a competitive market.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-13T22:11:20",
+      "first_seen_at": "2026-08-14T00:00:02.593792",
+      "assets": [
+        {
+          "symbol": "TTGT",
+          "asset_class": null,
+          "relevance_score": 0.836292,
+          "sentiment_score": 0.139422,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.944557
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 146,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechTarget",
+          "source_domain": "TechTarget",
+          "headline": "Databricks' Electric acquisition adds embeddable PostgreSQL",
+          "url": "https://www.techtarget.com/data-technologies/news/366649200/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
+          "published_at": "2026-08-13T22:11:20"
+        }
+      ]
+    },
+    {
       "event_id": 139,
       "title": "Duke Energy restores 85% of Cincinnati storm outages",
       "summary": "Duke Energy has restored power to 85% of customers affected by severe storms in Greater Cincinnati, bringing services back to approximately 223,000 customers. As of Thursday afternoon, about 32,485 customers in Ohio and 6,376 in Kentucky were still without power, with the company expecting to restore nearly all remaining outages by Thursday. Duke Energy deployed over 2,000 workers and committed $100,000 in grants for recovery efforts, serving 8.7 million customers across six states from its Charlotte, North Carolina headquarters.",
@@ -1008,128 +1115,6 @@
           "headline": "Why the World Is Still Investing in America",
           "url": "https://www.citigroup.com/global/news/perspectives/2026/why-world-still-investing-in-america-jane-fraser",
           "published_at": "2026-08-13T13:02:23"
-        }
-      ]
-    },
-    {
-      "event_id": 120,
-      "title": "Parker Completes Acquisition of Filtration Group Corporation",
-      "summary": "Parker Hannifin Corporation has completed its acquisition of Filtration Group Corporation, aiming to create one of the largest global industrial filtration businesses. This strategic move is expected to strengthen Parker's global customer service capabilities, add approximately $1.8 billion to its fiscal 2027 sales, and be accretive to adjusted EPS for the full fiscal year. The integration leverages complementary filtration technologies and expands Parker's presence in key growth markets.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-13T13:01:26",
-      "first_seen_at": "2026-08-13T14:00:01.826065",
-      "assets": [
-        {
-          "symbol": "PH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.491268,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.722698
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.717802
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 123,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GlobeNewswire",
-          "source_domain": "GlobeNewswire",
-          "headline": "Parker Completes Acquisition of Filtration Group Corporation",
-          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344575/0/en/parker-completes-acquisition-of-filtration-group-corporation.html",
-          "published_at": "2026-08-13T13:01:26"
-        }
-      ]
-    },
-    {
-      "event_id": 121,
-      "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
-      "summary": "Dell Technologies (DELL) shares are poised to exceed $500 for the first time, fueled by strong earnings from Lenovo and optimistic guidance from Super Micro Computer (SMCI), boosting confidence in the AI server market. Analysts foresee significant growth for Dell due to increasing AI demand, with Morningstar highlighting its attractive valuation and reduced business cyclicality. Both Dell and HPE are seeing \"extremely bullish\" retail sentiment on Stocktwits, reflecting strong year-to-date stock performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-13T12:57:12",
-      "first_seen_at": "2026-08-13T14:00:02.051980",
-      "assets": [
-        {
-          "symbol": "DELL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.702375,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SMCI",
-          "asset_class": null,
-          "relevance_score": 0.868456,
-          "sentiment_score": 0.731715,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HPE",
-          "asset_class": null,
-          "relevance_score": 0.761317,
-          "sentiment_score": 0.626924,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NTAP",
-          "asset_class": null,
-          "relevance_score": 0.608954,
-          "sentiment_score": 0.502961,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 0.949759
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901116
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832377
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.64991
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 124,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
-          "url": "https://www.tradingview.com/news/stocktwits:e4b549d42094b:0-dell-stock-on-track-to-top-500-for-first-time-as-ai-server-boom-gets-fresh-fuel-from-lenovo-smci/",
-          "published_at": "2026-08-13T12:57:12"
         }
       ]
     }
