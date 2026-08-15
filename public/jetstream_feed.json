@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 165,
+      "title": "Proficient Auto Logistics Completes Acquisition of Hansen & Adkins",
+      "summary": "Proficient Auto Logistics (NASDAQ: PAL) has completed its acquisition of Hansen & Adkins (H&A), forming the largest auto hauler in North America. This acquisition, finalized on August 13th, is expected to enhance capacity, improve efficiency, and increase Proficient's annual vehicle transport to over four million. The Hansen & Adkins brand will continue to operate under Proficient, with founders Steve Hansen and Louie Adkins serving as advisors through year-end.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-14T22:50:27",
+      "first_seen_at": "2026-08-15T00:00:03.129267",
+      "assets": [
+        {
+          "symbol": "PAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405728,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.847769
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713865
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 174,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Manila Times",
+          "source_domain": "The Manila Times",
+          "headline": "Proficient Auto Logistics Completes Acquisition of Hansen & Adkins",
+          "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/proficient-auto-logistics-completes-acquisition-of-hansen-adkins/2405772/amp",
+          "published_at": "2026-08-14T22:50:27"
+        }
+      ]
+    },
+    {
       "event_id": 162,
       "title": "Tyler Technologies Acquires CODY Systems",
       "summary": "Tyler Technologies has acquired CODY Systems, a public safety software provider, to strengthen its offerings in cloud-first solutions for law enforcement and other public sector entities. This acquisition aims to enhance Tyler's competitive position in the small to midsize public safety market by providing expanded resources, faster implementations, and improved interoperability. CODY Systems' Pathfinder RMS and COBRAnet solutions will integrate with Tyler's existing platforms to support better data management and cross-agency information sharing.",
@@ -1054,61 +1101,6 @@
           "headline": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
           "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-raises-position-in-johnson-controls-international-plc-jci-2026-08-14/",
           "published_at": "2026-08-14T10:29:30"
-        }
-      ]
-    },
-    {
-      "event_id": 143,
-      "title": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
-      "summary": "This Zacks Analyst Blog highlights Seagate Technology (STX) and NVIDIA (NVDA), focusing on Seagate's unexpected strong performance driven by AI-driven data storage demand. Seagate's shares have significantly outperformed NVIDIA's this year due to increased demand for high-capacity HDDs, leading to substantial revenue growth and margin expansion. The company's strong financial health and positive outlook make it a compelling investment in the AI infrastructure boom.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-14T10:27:17",
-      "first_seen_at": "2026-08-14T12:00:02.787111",
-      "assets": [
-        {
-          "symbol": "STX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.926038,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.837601,
-          "sentiment_score": 0.345625,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94545
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920412
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 148,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/STX/pressreleases/3848071/the-zacks-analyst-blog-highlights-seagate-technology-and-nvidia/",
-          "published_at": "2026-08-14T10:27:17"
         }
       ]
     }
