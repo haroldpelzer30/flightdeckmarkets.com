@@ -20,7 +20,7 @@
           "symbol": "MLM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.471456,
+          "sentiment_score": 0.469779,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,7 +28,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.939865
+          "relevance_score": 0.946802
         },
         {
           "topic": "financial_markets",
@@ -36,7 +36,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.83667
+          "relevance_score": 0.838913
         },
         {
           "topic": "manufacturing",
@@ -56,6 +56,62 @@
           "headline": "Martin Marietta stock holds above $540 as new institutional money and steady dividend support the ou",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/martin-marietta-stock-holds-above-540-as-new-institutional-money-and/69958839",
           "published_at": "2026-08-17T14:30:00"
+        }
+      ]
+    },
+    {
+      "event_id": 179,
+      "title": "FingerMotion Acquires 9.9% Stake in Lyken.AI, Enters Enterprise AI Compute Market",
+      "summary": "FingerMotion, Inc. has acquired a 9.9% stake in Lyken AI Computing Inc., marking its entry into the enterprise AI and cloud computing infrastructure market. The acquisition, approved by the TSX Venture Exchange, involved FingerMotion issuing 1,674,480 restricted common shares to Alset AI Ventures Inc. instead of cash. This strategic move aims to establish a recurring-revenue enterprise compute business, targeting underserved enterprise customers with unique computing needs, and allows FingerMotion to assess the market before committing further capital.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-17T14:15:42",
+      "first_seen_at": "2026-08-17T16:00:03.287272",
+      "assets": [
+        {
+          "symbol": "FNGR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.419961,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.938364
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.749883
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 190,
+          "provider": "ALPHA_VANTAGE",
+          "source": "citybiz",
+          "source_domain": "citybiz",
+          "headline": "FingerMotion Acquires 9.9% Stake in Lyken.AI, Enters Enterprise AI Compute Market",
+          "url": "https://www.citybiz.co/article/889791/fingermotion-acquires-9-9-stake-in-lyken-ai-enters-enterprise-ai-compute-market/",
+          "published_at": "2026-08-17T14:15:42"
+        },
+        {
+          "article_id": 189,
+          "provider": "ALPHA_VANTAGE",
+          "source": "citybiz",
+          "source_domain": "citybiz",
+          "headline": "FingerMotion Names Chris Polimeni CFO as Company Enters AI Compute Market",
+          "url": "https://www.citybiz.co/article/889810/fingermotion-names-chris-polimeni-cfo-as-company-enters-ai-compute-market/",
+          "published_at": "2026-08-17T14:25:42"
         }
       ]
     },
@@ -1085,69 +1141,6 @@
           "headline": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes",
           "url": "https://www.timothysykes.com/news/seagatetechnologyholdingsplc-stx-news-2026_08_14/",
           "published_at": "2026-08-14T20:08:01"
-        }
-      ]
-    },
-    {
-      "event_id": 159,
-      "title": "ConocoPhillips reaches $5 billion divestiture target early after completing $1.7 billion noncore asset sale",
-      "summary": "ConocoPhillips has exceeded its $5 billion divestiture target ahead of schedule, driven by a recent $1.7 billion sale of noncore Lower 48 assets. This strategic move aligns with a broader industry trend among U.S. shale producers to streamline portfolios, focus on higher-return assets, and prioritize value over volume. The company also announced better-than-expected second-quarter profits and a leadership change, with Andy O’Brien named Chief Financial Officer.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-14T19:42:25",
-      "first_seen_at": "2026-08-14T21:00:02.906845",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.476183,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.580986,
-          "sentiment_score": 0.287496,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.577053,
-          "sentiment_score": 0.297569,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924455
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.901278
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.823257
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 166,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Energies Media",
-          "source_domain": "Energies Media",
-          "headline": "ConocoPhillips reaches $5 billion divestiture target early after completing $1.7 billion noncore asset sale",
-          "url": "https://energiesmedia.com/conocophillips-divestiture-target-early-asset/",
-          "published_at": "2026-08-14T19:42:25"
         }
       ]
     }
