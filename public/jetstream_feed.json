@@ -5,6 +5,145 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 176,
+      "title": "Martin Marietta stock holds above $540 as new institutional money and steady dividend support the ou",
+      "summary": "Martin Marietta Materials (MLM) stock is trading in the high $540s, supported by new institutional investment and a recently increased quarterly dividend. The stock closed at $549.01 on August 14, 2026, with analysts maintaining a \"Moderate Buy\" rating and an average price target of $668.53. The company's strong position in construction aggregates and steady shareholder returns signal confidence in its future performance amidst a favorable economic backdrop for industrial and construction materials.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-17T14:30:00",
+      "first_seen_at": "2026-08-17T15:00:02.622349",
+      "assets": [
+        {
+          "symbol": "MLM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.471456,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939865
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.937416
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.83667
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.738359
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.645588
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 185,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Martin Marietta stock holds above $540 as new institutional money and steady dividend support the ou",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/martin-marietta-stock-holds-above-540-as-new-institutional-money-and/69958839",
+          "published_at": "2026-08-17T14:30:00"
+        }
+      ]
+    },
+    {
+      "event_id": 177,
+      "title": "UNP Looks 15.1% Overvalued on GF Value™",
+      "summary": "Union Pacific Corp (UNP) is currently trading 15.1% above its GF Value™ despite strong dividend fundamentals, a high GF Score™ of 91/100, and a recent fuel surcharge surplus. The company is also seeking regulatory approval for an $85 billion acquisition of Norfolk Southern. While its dividend is considered safe and attractive for income investors, institutional gurus and insiders show cautious sentiment through net selling and trimming of positions, suggesting attention to valuation and strategic risks.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-08-17T13:29:22",
+      "first_seen_at": "2026-08-17T15:00:02.941656",
+      "assets": [
+        {
+          "symbol": "CORT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.254516,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.207208,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.647952,
+          "sentiment_score": 0.328131,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949437
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.926015
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.915117
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.846134
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.845502
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.725964
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 187,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "CORT Looks 65.7% Overvalued on GF Value™",
+          "url": "https://www.gurufocus.com/news/9038393/cort-looks-657-overvalued-on-gf-value",
+          "published_at": "2026-08-17T13:19:18"
+        },
+        {
+          "article_id": 186,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "UNP Looks 15.1% Overvalued on GF Value™",
+          "url": "https://www.gurufocus.com/news/9038412/unp-looks-151-overvalued-on-gf-value",
+          "published_at": "2026-08-17T13:29:22"
+        }
+      ]
+    },
+    {
       "event_id": 171,
       "title": "The Top 5% Are Driving America’s Spending — Here’s Why % - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
       "summary": "The top 5% of American households are driving current consumer spending, with their spending growth outpacing their wage growth, likely due to the \"wealth effect\" from rising equity prices. Bank of America data indicates that the S&P 500's significant year-over-year increase has disproportionately benefited these higher-income households, enabling them to spend more on discretionary items like airlines and clothing. While this group relies on wealth, lower- and middle-income households are also catching up through stronger after-tax wage growth, leading to a \"great convergence\" in consumer spending patterns.",
@@ -1009,92 +1148,6 @@
           "headline": "ConocoPhillips reaches $5 billion divestiture target early after completing $1.7 billion noncore asset sale",
           "url": "https://energiesmedia.com/conocophillips-divestiture-target-early-asset/",
           "published_at": "2026-08-14T19:42:25"
-        }
-      ]
-    },
-    {
-      "event_id": 155,
-      "title": "Empery Digital (EMPD) insider group acquires 1.4M shares across two August trades",
-      "summary": "Empery Asset Management and affiliated entities, a ten percent owner of Empery Digital Inc. (EMPD), acquired a total of 1.4 million shares of common stock in two separate open-market transactions in August 2026. These purchases, totaling over $4 million, increased their holdings to 4,330,345 shares through affiliated funds, with Ryan M. Lane directly holding an additional 100,000 shares. The transactions indicate a positive sentiment from this insider group towards Empery Digital.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-14T17:24:37",
-      "first_seen_at": "2026-08-14T19:00:02.064124",
-      "assets": [
-        {
-          "symbol": "EMPD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.711932,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943898
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 162,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Empery Digital (EMPD) insider group acquires 1.4M shares across two August trades",
-          "url": "https://www.stocktitan.net/sec-filings/EMPD/form-4-empery-digital-inc-insider-trading-activity-64d68e6a3173.html",
-          "published_at": "2026-08-14T17:24:37"
-        }
-      ]
-    },
-    {
-      "event_id": 156,
-      "title": "Hewlett Packard Enterprise's settlement regarding $14B Juniper acquisition approved",
-      "summary": "A settlement concerning Hewlett Packard Enterprise's $14 billion acquisition of Juniper has been approved, despite concerns about the deal reducing competition in enterprise wireless networking. The ruling determined that the settlement is in the public interest. This development follows previous scrutiny and a government shutdown that stalled the antitrust case.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-14T17:02:22",
-      "first_seen_at": "2026-08-14T19:00:02.306048",
-      "assets": [
-        {
-          "symbol": "HPE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.372738,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.839321
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.717682
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 163,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Hewlett Packard Enterprise's settlement regarding $14B Juniper acquisition approved",
-          "url": "https://www.bizjournals.com/houston/news/2026/08/14/hewlett-packard-enterprise-settlement-approved.html",
-          "published_at": "2026-08-14T17:02:22"
         }
       ]
     }
