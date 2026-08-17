@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 198,
+      "title": "Spanberger formally intervenes in proposed NextEra-Dominion merger",
+      "summary": "Governor Abigail Spanberger has formally intervened in the proposed $67 billion merger between NextEra Energy and Dominion Energy, filing with the State Corporation Commission. She stated that her administration will advocate for Virginians' long-term interests, focusing on affordable energy bills, protecting utility jobs, and accelerating clean power development. Dominion Energy's CEO, Robert Blue, welcomed the intervention, highlighting the proposed $1.78 billion in bill credits and other benefits for Virginia customers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 71,
+      "published_at": "2026-08-17T20:24:37",
+      "first_seen_at": "2026-08-17T22:00:02.183546",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.078974,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.834387,
+          "sentiment_score": 0.07917,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.943481
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.708173
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 211,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WWBT",
+          "source_domain": "WWBT",
+          "headline": "Spanberger formally intervenes in proposed NextEra-Dominion merger",
+          "url": "https://www.12onyourside.com/2026/08/17/spanberger-formally-intervenes-proposed-nextera-dominion-merger/",
+          "published_at": "2026-08-17T20:24:37"
+        }
+      ]
+    },
+    {
       "event_id": 196,
       "title": "Sempra stock holds steady as investors weigh upside to earnings and data center demand",
       "summary": "Sempra stock is holding steady in the mid-$80s, with analysts predicting a 20.2% upside to its consensus price target of $103.92. This optimism is fueled by the company's strong earnings profile and the increasing power demands from the growing data center sector, particularly through its majority ownership in Oncor, a large Texas utility. The absence of sell ratings and continued analyst coverage suggest a constructive outlook for Sempra's regulated utility and infrastructure businesses.",
@@ -1110,49 +1165,6 @@
           "headline": "The Top 5% Are Driving America’s Spending — Here’s Why % - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
           "url": "https://www.benzinga.com/markets/economic-data/26/08/61245173/top-5-percent-driving-america-consumer-spending",
           "published_at": "2026-08-17T13:02:09"
-        }
-      ]
-    },
-    {
-      "event_id": 172,
-      "title": "Fortinet Advances Continuous AI Protection with the Acquisition of Virtue AI",
-      "summary": "Fortinet has acquired Virtue AI, an innovator in AI runtime protection and automated AI validation, to enhance its AI-Native Security Fabric. This acquisition will strengthen Fortinet's ability to secure AI models, applications, and agentic systems throughout their lifecycle, from development to runtime. Virtue AI's technology provides capabilities like agentic system red-teaming, agent protection, continuous AI validation, and real-time guardrails, addressing the expanding attack surface created by rapid AI application deployment.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-17T13:00:11",
-      "first_seen_at": "2026-08-17T14:00:02.021751",
-      "assets": [
-        {
-          "symbol": "FTNT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.437771,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.90884
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 181,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GlobeNewswire",
-          "source_domain": "GlobeNewswire",
-          "headline": "Fortinet Advances Continuous AI Protection with the Acquisition of Virtue AI",
-          "url": "https://www.globenewswire.com/news-release/2026/08/17/3346144/0/en/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai.html",
-          "published_at": "2026-08-17T13:00:11"
         }
       ]
     }
