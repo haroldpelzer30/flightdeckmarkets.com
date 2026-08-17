@@ -5,6 +5,179 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 168,
+      "title": "Do Tariff Disclosure Allegations Put First Solar’s (FSLR) Management Credibility Under the Microscope?",
+      "summary": "A new federal securities class action lawsuit against First Solar (FSLR) alleges that the company and its executives misrepresented their handling of U.S. tariff impacts and production utilization issues, affecting fiscal 2026 projections. This suit, alongside a similar one from June 2026, questions the accuracy and transparency of First Solar's disclosures regarding operational and policy-related risks. Investors should consider how these allegations might impact confidence in First Solar's long-term investment narrative, especially concerning its U.S. capacity expansion and policy-supported growth targets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-17T11:34:21",
+      "first_seen_at": "2026-08-17T13:00:03.049388",
+      "assets": [
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.219052,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949268
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80322
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.74491
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.641311
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.627327
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 177,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Do Tariff Disclosure Allegations Put First Solar’s (FSLR) Management Credibility Under the Microscope?",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-fslr/first-solar/news/do-tariff-disclosure-allegations-put-first-solars-fslr-manag",
+          "published_at": "2026-08-17T11:34:21"
+        }
+      ]
+    },
+    {
+      "event_id": 169,
+      "title": "OneDigital Investment Advisors LLC Buys New Stake in Cummins Inc. $CMI",
+      "summary": "OneDigital Investment Advisors LLC has acquired a new stake in Cummins Inc. (NYSE:CMI), purchasing 5,573 shares valued at approximately $3.97 million in the second quarter. Cummins maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $745.64, despite missing earnings per share estimates in its latest report. The company also announced an increase in its quarterly dividend from $2.00 to $2.20 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-17T11:29:36",
+      "first_seen_at": "2026-08-17T13:00:03.414774",
+      "assets": [
+        {
+          "symbol": "CMI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40002,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944398
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938481
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.721765
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.64769
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.6036
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 178,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "OneDigital Investment Advisors LLC Buys New Stake in Cummins Inc. $CMI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-onedigital-investment-advisors-llc-buys-new-stake-in-cummins-inc-cmi-2026-08-17/",
+          "published_at": "2026-08-17T11:29:36"
+        }
+      ]
+    },
+    {
+      "event_id": 170,
+      "title": "U.S. railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit",
+      "summary": "Union Pacific reportedly collected $91.1 million more in fuel surcharges than it paid for fuel in the second quarter, significantly outpacing rivals and boosting its profit. This has drawn criticism from shippers who argue that these surcharges, intended to cover rising petroleum costs due to the Iran conflict, are excessive. The company is also seeking regulatory approval for an $85 billion acquisition of Norfolk Southern, which faces opposition from a coalition concerned about reduced competition and increased shipping costs.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-08-17T11:29:09",
+      "first_seen_at": "2026-08-17T13:00:03.748946",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.250241,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.835657,
+          "sentiment_score": 0.086543,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CSX",
+          "asset_class": null,
+          "relevance_score": 0.747,
+          "sentiment_score": 0.079251,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.925927
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.918702
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.806957
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 179,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BNN Bloomberg",
+          "source_domain": "BNN Bloomberg",
+          "headline": "U.S. railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit",
+          "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/17/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit/",
+          "published_at": "2026-08-17T11:29:09"
+        }
+      ]
+    },
+    {
       "event_id": 166,
       "title": "Wilkinson Global Asset Management LLC Acquires Shares of 156,466 The Sherwin-Williams Company $SHW",
       "summary": "Wilkinson Global Asset Management LLC has acquired 156,466 shares of The Sherwin-Williams Company (NYSE:SHW) valued at approximately $53.9 million, making it their 10th largest holding. Sherwin-Williams exceeded quarterly expectations with $3.70 EPS and $6.79 billion in revenue, and has a \"Moderate Buy\" consensus rating from analysts with an average price target of $385.44. The company also declared a quarterly dividend of $0.80 per share.",
@@ -927,160 +1100,6 @@
           "headline": "FOX (NASDAQ:FOXA) Raised to \"Overweight\" at JPMorgan Chase & Co.",
           "url": "https://www.marketbeat.com/instant-alerts/fox-nasdaqfoxa-raised-to-overweight-at-jpmorgan-chase-co-2026-08-14/",
           "published_at": "2026-08-14T13:18:46"
-        }
-      ]
-    },
-    {
-      "event_id": 148,
-      "title": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
-      "summary": "Crinetics Pharmaceuticals announced that its proposed merger with Vertex Pharmaceuticals is progressing after receiving regulatory approvals and the expiration of antitrust waiting periods in several jurisdictions. The merger, valuing Crinetics at approximately $10 billion, is expected to close in early September 2026, pending Crinetics shareholder approval. Despite recent downgrades from analysts following the acquisition announcement, Crinetics shares are trading near their 52-week high, reflecting strong investor confidence in the deal.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-14T13:05:59",
-      "first_seen_at": "2026-08-14T14:00:01.850900",
-      "assets": [
-        {
-          "symbol": "VRTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.334836,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.912968
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849615
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.737573
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 153,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
-          "url": "https://www.investing.com/news/sec-filings/crinetics-pharmaceuticals-merger-with-vertex-pharmaceuticals-advances-after-regulatory-clearances-93CH-4860772",
-          "published_at": "2026-08-14T13:05:59"
-        },
-        {
-          "article_id": 155,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Crinetics Pharmaceuticals merger with Vertex Pharmaceuticals advances after regulatory clearances",
-          "url": "https://m.investing.com/news/sec-filings/crinetics-pharmaceuticals-merger-with-vertex-pharmaceuticals-advances-after-regulatory-clearances-93CH-4860772?ampMode=1",
-          "published_at": "2026-08-14T13:10:02"
-        }
-      ]
-    },
-    {
-      "event_id": 145,
-      "title": "Expand Energy agrees to acquire Twin Eagle in a $1.25 billion deal to strengthen its U.S. natural gas platform",
-      "summary": "Expand Energy is set to acquire Twin Eagle Holdings, N.A., LLC for $1.25 billion to enhance its U.S. natural gas platform. This acquisition will integrate Expand Energy's supply and financial strength with Twin Eagle's marketing platform, creating a fully integrated natural gas company. The deal is expected to close in the third quarter of 2026, positioning Expand Energy as a leading integrated natural gas company and marketer in North America.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-14T11:46:13",
-      "first_seen_at": "2026-08-14T13:00:02.204438",
-      "assets": [
-        {
-          "symbol": "EXE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.439132,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.919343
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.622363
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 150,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Energies Media",
-          "source_domain": "Energies Media",
-          "headline": "Expand Energy agrees to acquire Twin Eagle in a $1.25 billion deal to strengthen its U.S. natural gas platform",
-          "url": "https://energiesmedia.com/expand-energy-twin-eagle-25-billion-natural-gas/",
-          "published_at": "2026-08-14T11:46:13"
-        }
-      ]
-    },
-    {
-      "event_id": 146,
-      "title": "Atika Capital (JATT) discloses 5.1% beneficial stake in JATT II Acquisition Corp.",
-      "summary": "Atika Capital Management LLC and Brad Farber have reported a beneficial ownership of 5.1% in JATT II Acquisition Corp., totaling 400,000 ordinary shares. This stake is held through advisory clients of Atika Capital, with both Atika and Farber sharing voting and dispositive power over these shares. The filing, a SCHEDULE 13G, indicates that no single advisory client beneficially owns more than 5% individually.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-14T11:33:34",
-      "first_seen_at": "2026-08-14T13:00:02.465649",
-      "assets": [
-        {
-          "symbol": "JATT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.010073,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.810508
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.613521
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 151,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Atika Capital (JATT) discloses 5.1% beneficial stake in JATT II Acquisition Corp.",
-          "url": "https://www.stocktitan.net/sec-filings/JATT/schedule-13g-jatt-ii-acquisition-corp-passive-investment-disclosure-5-8881180b42cc.html",
-          "published_at": "2026-08-14T11:33:34"
         }
       ]
     }
