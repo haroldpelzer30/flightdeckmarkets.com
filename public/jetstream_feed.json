@@ -5,6 +5,96 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 166,
+      "title": "Wilkinson Global Asset Management LLC Acquires Shares of 156,466 The Sherwin-Williams Company $SHW",
+      "summary": "Wilkinson Global Asset Management LLC has acquired 156,466 shares of The Sherwin-Williams Company (NYSE:SHW) valued at approximately $53.9 million, making it their 10th largest holding. Sherwin-Williams exceeded quarterly expectations with $3.70 EPS and $6.79 billion in revenue, and has a \"Moderate Buy\" consensus rating from analysts with an average price target of $385.44. The company also declared a quarterly dividend of $0.80 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-17T10:55:21",
+      "first_seen_at": "2026-08-17T12:00:02.637448",
+      "assets": [
+        {
+          "symbol": "SHW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443427,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948471
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843296
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.747612
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 175,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Wilkinson Global Asset Management LLC Acquires Shares of 156,466 The Sherwin-Williams Company $SHW",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-wilkinson-global-asset-management-llc-acquires-shares-of-156466-the-sherwin-williams-company-shw-2026-08-17/",
+          "published_at": "2026-08-17T10:55:21"
+        }
+      ]
+    },
+    {
+      "event_id": 167,
+      "title": "Persistent Asset Partners Ltd Acquires Shares of 17,175 Expand Energy Corporation $EXE",
+      "summary": "Persistent Asset Partners Ltd acquired 17,175 shares of Expand Energy Corporation, valued at approximately $1.5 million, during the second quarter. Expand Energy has a \"Moderate Buy\" consensus rating with a target price of $128.12, despite recent downgrades from Barclays and William Blair. The company reported strong quarterly earnings of $1.33 EPS, exceeding estimates, and declared a quarterly dividend of $0.575.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-17T10:53:24",
+      "first_seen_at": "2026-08-17T12:00:02.965746",
+      "assets": [
+        {
+          "symbol": "EXE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.207387,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906995
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826427
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 176,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Persistent Asset Partners Ltd Acquires Shares of 17,175 Expand Energy Corporation $EXE",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-persistent-asset-partners-ltd-acquires-shares-of-17175-expand-energy-corporation-exe-2026-08-17/",
+          "published_at": "2026-08-17T10:53:24"
+        }
+      ]
+    },
+    {
       "event_id": 165,
       "title": "Proficient Auto Logistics Completes Acquisition of Hansen & Adkins",
       "summary": "Proficient Auto Logistics (NASDAQ: PAL) has completed its acquisition of Hansen & Adkins (H&A), forming the largest auto hauler in North America. This acquisition, finalized on August 13th, is expected to enhance capacity, improve efficiency, and increase Proficient's annual vehicle transport to over four million. The Hansen & Adkins brand will continue to operate under Proficient, with founders Steve Hansen and Louie Adkins serving as advisors through year-end.",
@@ -991,116 +1081,6 @@
           "headline": "Atika Capital (JATT) discloses 5.1% beneficial stake in JATT II Acquisition Corp.",
           "url": "https://www.stocktitan.net/sec-filings/JATT/schedule-13g-jatt-ii-acquisition-corp-passive-investment-disclosure-5-8881180b42cc.html",
           "published_at": "2026-08-14T11:33:34"
-        }
-      ]
-    },
-    {
-      "event_id": 147,
-      "title": "Oak Harvest Investment Services Buys New Position in Teradyne, Inc. $TER",
-      "summary": "Oak Harvest Investment Services has acquired a new position in Teradyne, Inc. (NASDAQ:TER) during the second quarter, purchasing 13,684 shares valued at approximately $6.6 million. Teradyne has a \"Moderate Buy\" consensus rating from analysts, with an average price target of $396.80. The company recently reported strong quarterly earnings, beating EPS and revenue estimates, though insiders have sold $2.27 million of stock over the last quarter.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-14T11:16:26",
-      "first_seen_at": "2026-08-14T13:00:02.702748",
-      "assets": [
-        {
-          "symbol": "TER",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.497878,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.946192
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.829586
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.713462
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604899
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 152,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Oak Harvest Investment Services Buys New Position in Teradyne, Inc. $TER",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-oak-harvest-investment-services-buys-new-position-in-teradyne-inc-ter-2026-08-14/",
-          "published_at": "2026-08-14T11:16:26"
-        }
-      ]
-    },
-    {
-      "event_id": 142,
-      "title": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
-      "summary": "TD Waterhouse Canada Inc. significantly increased its stake in Johnson Controls International (JCI) by 18% in the second quarter of 2026, bringing its total holdings to 124,880 shares valued at $18.1 million. This move aligns with a generally positive outlook from analysts, who rate JCI a \"Moderate Buy\" with an average price target of $154.80. The company recently reported strong quarterly earnings, beating revenue and EPS estimates, and pays a quarterly dividend of $0.40 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-14T10:29:30",
-      "first_seen_at": "2026-08-14T12:00:02.382510",
-      "assets": [
-        {
-          "symbol": "JCI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.465662,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906666
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.837732
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.728882
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644493
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 147,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "TD Waterhouse Canada Inc. Raises Position in Johnson Controls International plc $JCI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-raises-position-in-johnson-controls-international-plc-jci-2026-08-14/",
-          "published_at": "2026-08-14T10:29:30"
         }
       ]
     }
