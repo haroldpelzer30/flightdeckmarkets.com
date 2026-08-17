@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 196,
+      "title": "Sempra stock holds steady as investors weigh upside to earnings and data center demand",
+      "summary": "Sempra stock is holding steady in the mid-$80s, with analysts predicting a 20.2% upside to its consensus price target of $103.92. This optimism is fueled by the company's strong earnings profile and the increasing power demands from the growing data center sector, particularly through its majority ownership in Oncor, a large Texas utility. The absence of sell ratings and continued analyst coverage suggest a constructive outlook for Sempra's regulated utility and infrastructure businesses.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-17T19:37:11",
+      "first_seen_at": "2026-08-17T21:00:01.970883",
+      "assets": [
+        {
+          "symbol": "SRE",
+          "asset_class": null,
+          "relevance_score": 0.955566,
+          "sentiment_score": 0.298729,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923303
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914555
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.80033
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.613355
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.603832
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 209,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Sempra stock holds steady as investors weigh upside to earnings and data center demand",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-holds-steady-as-investors-weigh-upside-to-earnings-and-data/69961129",
+          "published_at": "2026-08-17T19:37:11"
+        }
+      ]
+    },
+    {
+      "event_id": 197,
+      "title": "Video: Huntington Bank Shares Weekly Market Insight",
+      "summary": "Huntington Bank's chief investment office released their weekly \"The Three Things We Learned This Week\" video, offering their perspective on financial news impacting the U.S. economy and markets. Randy Hare, director of equity research, discusses oil inventory data, decreased inflation numbers, and a surprise retail sales data decrease. The video provides a brief analysis of these events and their potential repercussions.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 84,
+      "published_at": "2026-08-17T19:04:13",
+      "first_seen_at": "2026-08-17T21:00:02.262055",
+      "assets": [
+        {
+          "symbol": "HBAN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.127769,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.929195
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.809808
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717656
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.705804
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 210,
+          "provider": "ALPHA_VANTAGE",
+          "source": "RV PRO",
+          "source_domain": "RV PRO",
+          "headline": "Video: Huntington Bank Shares Weekly Market Insight",
+          "url": "https://rv-pro.com/news/video-huntington-bank-shares-weekly-market-insight-2/",
+          "published_at": "2026-08-17T19:04:13"
+        }
+      ]
+    },
+    {
       "event_id": 193,
       "title": "AvalonBay, Equity Residential close $69B merger, creating nation's largest multifamily owner",
       "summary": "AvalonBay Communities Inc. and Equity Residential have completed their $69 billion merger, forming the largest multifamily owner in the nation. The merger closed less than three months after its announcement, and shares of the newly combined company will begin trading on Tuesday. This consolidation significantly impacts the commercial real estate sector.",
@@ -1043,152 +1153,6 @@
           "headline": "Fortinet Advances Continuous AI Protection with the Acquisition of Virtue AI",
           "url": "https://www.globenewswire.com/news-release/2026/08/17/3346144/0/en/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai.html",
           "published_at": "2026-08-17T13:00:11"
-        }
-      ]
-    },
-    {
-      "event_id": 173,
-      "title": "Bears beware: Case for bull market momentum",
-      "summary": "The article argues that bearish market concerns are consistently being disproven by current market trends, including strengthening AI demand, improved earnings, and widening market breadth. The author suggests that fears of an earnings bubble due to AI infrastructure spending may be misplaced, as future demand from a broader adoption of AI agents could justify current investments. It highlights the S&P 500's strong performance over several years, indicating persistent bull market momentum.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 76,
-      "published_at": "2026-08-17T12:53:38",
-      "first_seen_at": "2026-08-17T14:00:02.283516",
-      "assets": [
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.618776,
-          "sentiment_score": 0.738857,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "IVZ",
-          "asset_class": null,
-          "relevance_score": 0.331111,
-          "sentiment_score": 0.001087,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945457
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.814992
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.803601
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.732413
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.606508
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 182,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Invesco",
-          "source_domain": "Invesco",
-          "headline": "Bears beware: Case for bull market momentum",
-          "url": "https://www.invesco.com/us/en/insights/bears-beware-case-for-bull-market-momentum.html",
-          "published_at": "2026-08-17T12:53:38"
-        }
-      ]
-    },
-    {
-      "event_id": 174,
-      "title": "ONEOK stock trades near $95 as investors digest strong second quarter and upbeat targets",
-      "summary": "ONEOK Inc. (OKE) stock is trading near $95 after a strong second quarter in 2026, driven by improved volumes and cash flow following the Magellan Midstream acquisition. Despite trading above the average analyst price target of $91.81, the company continues to attract institutional interest, supported by positive sector fundamentals and a constructive equity market. The midstream energy company's fee-based model, diversified assets, and capital discipline are highlighted as factors contributing to its current valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-17T12:49:08",
-      "first_seen_at": "2026-08-17T14:00:02.576705",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.451194,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 0.63258,
-          "sentiment_score": 0.104753,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.622358,
-          "sentiment_score": 0.144372,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.619522,
-          "sentiment_score": 0.146086,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.600064,
-          "sentiment_score": 0.146856,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.933449
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.905616
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.842855
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.701916
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 183,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "ONEOK stock trades near $95 as investors digest strong second quarter and upbeat targets",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-trades-near-95-as-investors-digest-strong-second-quarter-and/69958956",
-          "published_at": "2026-08-17T12:49:08"
         }
       ]
     }
