@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 193,
+      "title": "AvalonBay, Equity Residential close $69B merger, creating nation's largest multifamily owner",
+      "summary": "AvalonBay Communities Inc. and Equity Residential have completed their $69 billion merger, forming the largest multifamily owner in the nation. The merger closed less than three months after its announcement, and shares of the newly combined company will begin trading on Tuesday. This consolidation significantly impacts the commercial real estate sector.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-17T18:33:15",
+      "first_seen_at": "2026-08-17T20:00:01.855652",
+      "assets": [
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.445428,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 0.942423,
+          "sentiment_score": 0.341913,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.833523
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 206,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "AvalonBay, Equity Residential close $69B merger, creating nation's largest multifamily owner",
+          "url": "https://www.bizjournals.com/washington/news/2026/08/17/avalonbay-equit-residential-merger-multifamily.html",
+          "published_at": "2026-08-17T18:33:15"
+        }
+      ]
+    },
+    {
       "event_id": 186,
       "title": "Linde stock holds firm after Q2 2026 earnings beat",
       "summary": "Linde plc reported strong Q2 2026 earnings, with adjusted EPS of $4.50 and revenue of $9.29 billion, exceeding analyst expectations. The company also raised its full-year 2026 EPS guidance to $17.70-$17.90, demonstrating its ability to convert higher sales into better profit margins. Additionally, Linde plans a $1 billion investment in Arizona for a semiconductor supply deal, reinforcing its growth strategy and long-term customer relationships in the industrial gases sector.",
@@ -20,7 +71,7 @@
           "symbol": "LIN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.443115,
+          "sentiment_score": 0.420079,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,7 +79,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.91254
+          "relevance_score": 0.940908
         },
         {
           "topic": "manufacturing",
@@ -39,12 +90,12 @@
           "relevance_score": 0.721876
         },
         {
-          "topic": "technology",
-          "relevance_score": 0.646949
+          "topic": "economy_macro",
+          "relevance_score": 0.647888
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.645809
+          "topic": "technology",
+          "relevance_score": 0.646949
         }
       ],
       "articles": [
@@ -75,15 +126,15 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.286679,
+          "sentiment_score": 0.264221,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CVX",
           "asset_class": null,
-          "relevance_score": 0.74095,
-          "sentiment_score": 0.245911,
+          "relevance_score": 0.743797,
+          "sentiment_score": 0.215984,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -91,15 +142,15 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 0.608961,
-          "sentiment_score": 0.145725,
+          "sentiment_score": 0.129436,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "VLO",
           "asset_class": null,
-          "relevance_score": 0.56005,
-          "sentiment_score": 0.248831,
+          "relevance_score": 0.58335,
+          "sentiment_score": 0.231024,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1138,49 +1189,6 @@
           "headline": "ONEOK stock trades near $95 as investors digest strong second quarter and upbeat targets",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-trades-near-95-as-investors-digest-strong-second-quarter-and/69958956",
           "published_at": "2026-08-17T12:49:08"
-        }
-      ]
-    },
-    {
-      "event_id": 175,
-      "title": "$448M all-stock bank merger: what Blue Ridge (BRBS) holders get",
-      "summary": "Blue Ridge Bankshares (BRBS) is being acquired by HomeTrust Bancshares (HTB) in an all-stock merger valued at approximately $448.1 million, or $4.28 per BRBS share. Each Blue Ridge share will convert into 0.086 shares of HomeTrust common stock, with the deal expected to close in the first quarter of 2027. The combined entity will have over $7 billion in assets, with HomeTrust stockholders owning about 65% and Blue Ridge shareholders about 35% of the new company.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-17T12:37:13",
-      "first_seen_at": "2026-08-17T14:00:02.931838",
-      "assets": [
-        {
-          "symbol": "BRBS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.277911,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.919312
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 184,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "$448M all-stock bank merger: what Blue Ridge (BRBS) holders get",
-          "url": "https://www.stocktitan.net/sec-filings/BRBS/8-k-blue-ridge-bankshares-inc-reports-material-event-f311ea76802f.html",
-          "published_at": "2026-08-17T12:37:13"
         }
       ]
     }
