@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 184,
+      "title": "HPE stock advances after DOJ clears Juniper acquisition",
+      "summary": "HPE stock has advanced significantly after the U.S. Justice Department cleared its acquisition of Juniper Networks. The deal aims to strengthen HPE's networking and AI-driven cloud portfolio, with investors weighing the strategic benefits. Analysts have a moderate buy rating with a consensus target price of $69.80, suggesting further upside despite intrinsic value models flagging the stock as expensive.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-17T17:11:38",
+      "first_seen_at": "2026-08-17T18:00:02.166589",
+      "assets": [
+        {
+          "symbol": "HPE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487422,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JNPR",
+          "asset_class": null,
+          "relevance_score": 0.71632,
+          "sentiment_score": 0.449097,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.907285
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811839
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.710347
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 197,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "HPE stock advances after DOJ clears Juniper acquisition",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hpe-stock-advances-after-doj-clears-juniper-acquisition/69959029",
+          "published_at": "2026-08-17T17:11:38"
+        }
+      ]
+    },
+    {
+      "event_id": 185,
+      "title": "American Water and Essential Utilities Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
+      "summary": "American Water (NYSE: AWK) and Essential Utilities (NYSE: WTRG) announced the expiration of the Hart-Scott-Rodino waiting period, a key condition for their proposed merger. The companies have also secured regulatory approvals from Kentucky, Ohio, and Virginia, and reached a settlement in principle in Texas. The merger, overwhelmingly approved by shareholders, is anticipated to close by the end of the first quarter of 2027, pending remaining regulatory approvals and customary closing conditions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-17T16:15:12",
+      "first_seen_at": "2026-08-17T18:00:02.432703",
+      "assets": [
+        {
+          "symbol": "AWK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.417657,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.849462
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 198,
+          "provider": "ALPHA_VANTAGE",
+          "source": "American Water Newsroom",
+          "source_domain": "American Water Newsroom",
+          "headline": "American Water and Essential Utilities Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
+          "url": "https://newsroom.amwater.com/2026-08-17-American-Water-and-Essential-Utilities-Announce-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Proposed-Merger",
+          "published_at": "2026-08-17T16:15:12"
+        }
+      ]
+    },
+    {
       "event_id": 180,
       "title": "Rollins Inc stock hits 52-week low at $35.96",
       "summary": "Rollins Inc. (ROL) stock has dropped to a 52-week low of $35.96, marking a significant downturn of 36.78% over the past year and 39% year-to-date. This decline follows the company reporting Q2 2026 adjusted earnings and revenue slightly below expectations, alongside cutting its full-year organic growth outlook due to a weaker residential business segment. Analysts from Piper Sandler, Wells Fargo, and JPMorgan have consequently lowered their price targets and ratings for the stock, citing ongoing market challenges despite the company's long history of dividend payments.",
@@ -1035,105 +1137,6 @@
           "headline": "Proficient Auto Logistics Completes Acquisition of Hansen & Adkins",
           "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/proficient-auto-logistics-completes-acquisition-of-hansen-adkins/2405772/amp",
           "published_at": "2026-08-14T22:50:27"
-        }
-      ]
-    },
-    {
-      "event_id": 162,
-      "title": "Tyler Technologies Acquires CODY Systems",
-      "summary": "Tyler Technologies has acquired CODY Systems, a public safety software provider, to strengthen its offerings in cloud-first solutions for law enforcement and other public sector entities. This acquisition aims to enhance Tyler's competitive position in the small to midsize public safety market by providing expanded resources, faster implementations, and improved interoperability. CODY Systems' Pathfinder RMS and COBRAnet solutions will integrate with Tyler's existing platforms to support better data management and cross-agency information sharing.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-14T21:35:51",
-      "first_seen_at": "2026-08-14T23:00:02.618749",
-      "assets": [
-        {
-          "symbol": "TYL",
-          "asset_class": null,
-          "relevance_score": 0.970205,
-          "sentiment_score": 0.469872,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.901561
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 169,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Police1",
-          "source_domain": "Police1",
-          "headline": "Tyler Technologies Acquires CODY Systems",
-          "url": "https://www.police1.com/police-products/police-technology/software/rms/tyler-technologies-acquires-cody-systems",
-          "published_at": "2026-08-14T21:35:51"
-        }
-      ]
-    },
-    {
-      "event_id": 163,
-      "title": "Republic Services (NYSE:RSG) Major Shareholder Acquires $40,671,552.60 in Stock",
-      "summary": "Cascade Investment, a major shareholder in Republic Services (NYSE:RSG), recently acquired 188,460 shares for approximately $40.7 million, increasing its direct ownership to 111.7 million shares. This purchase is part of a series of acquisitions by the firm. Republic Services also reported strong quarterly earnings, beating revenue expectations, and raised its quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-14T21:18:10",
-      "first_seen_at": "2026-08-14T23:00:02.985702",
-      "assets": [
-        {
-          "symbol": "RSG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.450134,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949101
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90681
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.747531
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 171,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Republic Services (NYSE:RSG) Major Shareholder Acquires $40,671,552.60 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/republic-services-nysersg-major-shareholder-acquires-4067155260-in-stock-2026-08-14/",
-          "published_at": "2026-08-14T21:18:10"
-        },
-        {
-          "article_id": 170,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Insider Buying: Republic Services (NYSE:RSG) Major Shareholder Buys $37,657,100.00 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-buying-republic-services-nysersg-major-shareholder-buys-3765710000-in-stock-2026-08-14/",
-          "published_at": "2026-08-14T21:26:10"
         }
       ]
     }
