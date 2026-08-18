@@ -5,6 +5,293 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 230,
+      "title": "ONEOK stock hits fresh 52-week high as analysts lift targets",
+      "summary": "ONEOK Inc. (OKE) stock reached a new 52-week high on August 18, 2026, trading in the mid-$90s, driven by positive analyst sentiment and consistent demand for its midstream energy assets. The stock has seen a 29.7% year-to-date increase, and while the average analyst price target is around $91.94, some targets have been raised to $105.00, maintaining a consensus \"Moderate Buy\" rating. The company's strong performance is attributed to its stable, fee-based cash flows from natural gas and natural gas liquids infrastructure, making it an attractive income and infrastructure holding.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-18T20:09:00",
+      "first_seen_at": "2026-08-18T21:00:02.179303",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.804274,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.946315
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.712305
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 246,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "ONEOK stock hits fresh 52-week high as analysts lift targets",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-hits-fresh-52-week-high-as-analysts-lift-targets/69966119",
+          "published_at": "2026-08-18T20:09:00"
+        }
+      ]
+    },
+    {
+      "event_id": 231,
+      "title": "NRG Energy Slides 5.2% as Texas Pricing Weighs; Analysts See 68.6% Upside",
+      "summary": "NRG Energy's stock fell 5.2% to $115.96 due to concerns about Texas electricity pricing, mild weather, and increased supply costs, which led to a 25.6% decline in Texas adjusted EBITDA. Despite this, eleven analysts maintain an average price target of $195.55, suggesting a 68.6% upside, highlighting a significant gap between market performance and analyst expectations. The company is pursuing strategies like customer-backed agreements for data center facilities to mitigate risks and capitalize on flexible assets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-18T20:06:55",
+      "first_seen_at": "2026-08-18T21:00:02.482617",
+      "assets": [
+        {
+          "symbol": "NRG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.341772,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 0.702329,
+          "sentiment_score": -0.229257,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.600704,
+          "sentiment_score": 0.11259,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.920926
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909972
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80608
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.624799
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 247,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechStock²",
+          "source_domain": "TechStock²",
+          "headline": "NRG Energy Slides 5.2% as Texas Pricing Weighs; Analysts See 68.6% Upside",
+          "url": "https://ts2.tech/en/nrg-energy-stock-falls-5-2-texas-price-pressure-meets-68-6-analyst-upside/",
+          "published_at": "2026-08-18T20:06:55"
+        }
+      ]
+    },
+    {
+      "event_id": 232,
+      "title": "MGM Resorts stock holds steady after Q2 2026 earnings beat",
+      "summary": "MGM Resorts International's stock is holding steady in the low-$40s range after the company reported Q2 2026 results that surpassed revenue and EPS expectations. The company highlighted strong demand from its Las Vegas properties and its philanthropic efforts. Despite the earnings beat, the stock experienced a modest post-earnings pullback, suggesting investors may be evaluating medium-term growth prospects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T19:31:00",
+      "first_seen_at": "2026-08-18T21:00:02.796493",
+      "assets": [
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.310339,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LVS",
+          "asset_class": null,
+          "relevance_score": 0.639368,
+          "sentiment_score": 0.220236,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WYNN",
+          "asset_class": null,
+          "relevance_score": 0.607021,
+          "sentiment_score": 0.213995,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949498
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.824682
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.611294
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.603948
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 248,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "MGM Resorts stock holds steady after Q2 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mgm-resorts-stock-holds-steady-after-q2-2026-earnings-beat/69965951",
+          "published_at": "2026-08-18T19:31:00"
+        }
+      ]
+    },
+    {
+      "event_id": 233,
+      "title": "Bank of America Says $5,000 Gold Is Within Reach",
+      "summary": "Bank of America projects that gold could reach $5,000 an ounce, despite its current trading price of around $4,358. This optimistic outlook is fueled by softer U.S. economic data, a weaker dollar, and anticipated reduced tightening by the Federal Reserve, alongside strong central bank demand. The next challenge for gold's upward trajectory will be sustained investor interest through dropping rates and increased ETF demand.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-18T19:24:17",
+      "first_seen_at": "2026-08-18T21:00:03.085863",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.99238,
+          "sentiment_score": 0.343191,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.909809
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.837794
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713054
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.641711
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 249,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "Bank of America Says $5,000 Gold Is Within Reach",
+          "url": "https://www.tradingview.com/news/gurufocus:73cc8c364094b:0-bank-of-america-says-5-000-gold-is-within-reach/",
+          "published_at": "2026-08-18T19:24:17"
+        }
+      ]
+    },
+    {
+      "event_id": 234,
+      "title": "HubSpot Stock Whipsaws As Earnings Beat Collides With Guidance Reset",
+      "summary": "HubSpot Inc. (HUBS) saw its stock whipsaw despite beating Q2 earnings expectations, due to a guidance reset that prioritized profitability over pure growth and led to a temporary after-hours drop. While Q2 adjusted EPS and revenue surpassed forecasts, management raised full-year EPS guidance but trimmed revenue projections, signaling market sensitivity to AI-driven pricing changes and budget constraints. Despite analyst price target cuts, most maintained \"Buy\" or \"Overweight\" ratings, and a new $1.0B share repurchase plan adds potential support for the stock.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-18T19:02:46",
+      "first_seen_at": "2026-08-18T21:00:03.336814",
+      "assets": [
+        {
+          "symbol": "HUBS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.095531,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WDAY",
+          "asset_class": null,
+          "relevance_score": 0.624456,
+          "sentiment_score": 0.123512,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945856
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.840138
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.711096
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 250,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Timothy Sykes",
+          "source_domain": "Timothy Sykes",
+          "headline": "HubSpot Stock Whipsaws As Earnings Beat Collides With Guidance Reset",
+          "url": "https://www.timothysykes.com/news/hubspot-inc-hubs-news-2026_08_18/",
+          "published_at": "2026-08-18T19:02:46"
+        }
+      ]
+    },
+    {
       "event_id": 227,
       "title": "Darden Restaurants stock steadies after fiscal Q4 2026 earnings beat",
       "summary": "Darden Restaurants (DRI) stock is stabilizing in the mid-$220 range following a strong fiscal Q4 2026 earnings beat, robust sales growth, and an updated positive outlook on profit and dividends. The company reported EPS of $3.66, exceeding estimates, with revenue up 13.7% year-over-year. Darden also increased its quarterly dividend to $1.62 per share and reiterated its fiscal 2027 EPS guidance, backed by strong institutional investor interest and a strategic multi-brand portfolio including Olive Garden.",
@@ -20,7 +307,7 @@
           "symbol": "DRI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.493156,
+          "sentiment_score": 0.501992,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +319,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.808625
+          "relevance_score": 0.820029
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.706284
+          "relevance_score": 0.711674
         }
       ],
       "articles": [
@@ -67,7 +354,7 @@
           "symbol": "SYY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.42294,
+          "sentiment_score": 0.413038,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -79,11 +366,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.813687
+          "relevance_score": 0.834308
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.72133
+          "relevance_score": 0.739615
         }
       ],
       "articles": [
@@ -835,322 +1122,6 @@
           "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
           "url": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760",
           "published_at": "2026-08-18T15:18:14"
-        }
-      ]
-    },
-    {
-      "event_id": 212,
-      "title": "Marathon Petroleum stock hits all-time high at 363.35 USD By Investing.com",
-      "summary": "Marathon Petroleum (MPC) stock has reached an all-time high of $363.35, marking a 120.63% increase over the past year and a 122% year-to-date return. This surge is attributed to strong investor confidence, upward earnings revisions from analysts, and robust financial performance. The company recently surpassed Q2 2026 earnings expectations, leading to an upgrade in stock rating by Freedom Broker.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-18T14:35:43",
-      "first_seen_at": "2026-08-18T16:00:02.299051",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.846104,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GDDY",
-          "asset_class": null,
-          "relevance_score": 0.596049,
-          "sentiment_score": 0.722841,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 0.589958,
-          "sentiment_score": 0.715386,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ULTA",
-          "asset_class": null,
-          "relevance_score": 0.575656,
-          "sentiment_score": 0.712825,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LULU",
-          "asset_class": null,
-          "relevance_score": 0.551646,
-          "sentiment_score": 0.720847,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93023
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922416
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.721904
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 227,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Marathon Petroleum stock hits all-time high at 363.35 USD",
-          "url": "https://www.investing.com/news/company-news/marathon-petroleum-stock-hits-alltime-high-at-36335-usd-93CH-4865641",
-          "published_at": "2026-08-18T14:33:43"
-        },
-        {
-          "article_id": 226,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Marathon Petroleum stock hits all-time high at 363.35 USD By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-36335-usd-93CH-4806322",
-          "published_at": "2026-08-18T14:35:43"
-        }
-      ]
-    },
-    {
-      "event_id": 213,
-      "title": "J.B. Hunt Transport stock trades near record levels as investors digest recent gains",
-      "summary": "J.B. Hunt Transport stock is trading near record levels, with shares priced at $283.37 as of August 17, 2026, and a market capitalization of $26.62 billion. Investors are evaluating the company's valuation in the context of its modest 0.64% dividend yield, which suggests a focus on growth rather than income. Institutional activity shows a mixed sentiment, with some",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-08-18T14:16:23",
-      "first_seen_at": "2026-08-18T16:00:02.713693",
-      "assets": [
-        {
-          "symbol": "JBHT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.42394,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947605
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.929498
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.928547
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.731152
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.70778
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 228,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "J.B. Hunt Transport stock trades near record levels as investors digest recent gains",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-transport-stock-trades-near-record-levels-as-investors-digest/69965069",
-          "published_at": "2026-08-18T14:16:23"
-        }
-      ]
-    },
-    {
-      "event_id": 211,
-      "title": "Southern Company’s 17-GW Power Pipeline Faces a 144-Basis-Point Yield Hurdle",
-      "summary": "Southern Company is experiencing surging electricity demand, particularly from data centers, with over 17 GW of contracted large-load demand by mid-2030s. However, the company faces a financial hurdle as the 10-year Treasury yield is 144 basis points higher than Southern's 3.29% dividend yield, making its income appeal weaker while it funds an $81 billion capital program. Despite positive operational performance and an 11.8% beat on adjusted EPS for Q2, analyst sentiment remains cautious due to the rising cost of financing and potential risks to large-load projects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-18T13:31:33",
-      "first_seen_at": "2026-08-18T15:00:02.026626",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.069802,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DLR",
-          "asset_class": null,
-          "relevance_score": 0.628901,
-          "sentiment_score": 0.140326,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.578973,
-          "sentiment_score": 0.114589,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.553441,
-          "sentiment_score": 0.20223,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.939145
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.926233
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80704
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.724167
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.600444
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 225,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechStock²",
-          "source_domain": "TechStock²",
-          "headline": "Southern Company’s 17-GW Power Pipeline Faces a 144-Basis-Point Yield Hurdle",
-          "url": "https://ts2.tech/en/southern-companys-17-gw-power-pipeline-faces-a-144-basis-point-yield-hurdle/",
-          "published_at": "2026-08-18T13:31:33"
-        }
-      ]
-    },
-    {
-      "event_id": 210,
-      "title": "Northrop Grumman stock trades near $570 as Q2 earnings beat and 2026 guidance support valuation",
-      "summary": "Northrop Grumman's stock is trading near $570 after reporting a strong Q2 earnings beat and reiterating full-year 2026 guidance in the high-$20s per share. The company's revenue increased by 5.1% year-over-year, driven by sustained demand for advanced defense systems. Analysts maintain a \"moderate buy\" rating with a 12-month price target implying a 15.5% upside, despite the stock's flat year-to-date performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T12:49:46",
-      "first_seen_at": "2026-08-18T14:00:03.016178",
-      "assets": [
-        {
-          "symbol": "NOC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.491845,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901149
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.801269
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 224,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Northrop Grumman stock trades near $570 as Q2 earnings beat and 2026 guidance support valuation",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/northrop-grumman-stock-trades-near-570-as-q2-earnings-beat-and-2026/69964666",
-          "published_at": "2026-08-18T12:49:46"
-        }
-      ]
-    },
-    {
-      "event_id": 205,
-      "title": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
-      "summary": "PowerBank Corporation has reacquired two New York community solar projects, Gainesville and Highway 28, with a combined construction value of US$32.5 million and US$13 million in anticipated U.S. federal tax credits. These projects, totaling 13.9 MW, are expected to be construction-ready in 2026 and 2027 and will contribute to PowerBank's strategy of increasing asset ownership and recurring revenue. The acquisition supports the company's focus on independent energy development in North America, particularly as demand for power from AI and digital infrastructure grows.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-08-18T12:00:43",
-      "first_seen_at": "2026-08-18T13:00:02.054223",
-      "assets": [
-        {
-          "symbol": "PBK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460415,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930616
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.848946
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.707714
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 219,
-          "provider": "ALPHA_VANTAGE",
-          "source": "PR Newswire",
-          "source_domain": "PR Newswire",
-          "headline": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
-          "url": "https://www.prnewswire.com/news-releases/powerbank-acquires-new-york-solar-portfolio-with-us32-5-million-construction-value-and-us13-million-in-expected-us-federal-tax-credits-302853432.html",
-          "published_at": "2026-08-18T12:00:43"
         }
       ]
     }
