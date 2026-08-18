@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 211,
+      "title": "Southern Company’s 17-GW Power Pipeline Faces a 144-Basis-Point Yield Hurdle",
+      "summary": "Southern Company is experiencing surging electricity demand, particularly from data centers, with over 17 GW of contracted large-load demand by mid-2030s. However, the company faces a financial hurdle as the 10-year Treasury yield is 144 basis points higher than Southern's 3.29% dividend yield, making its income appeal weaker while it funds an $81 billion capital program. Despite positive operational performance and an 11.8% beat on adjusted EPS for Q2, analyst sentiment remains cautious due to the rising cost of financing and potential risks to large-load projects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-18T13:31:33",
+      "first_seen_at": "2026-08-18T15:00:02.026626",
+      "assets": [
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.069802,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DLR",
+          "asset_class": null,
+          "relevance_score": 0.628901,
+          "sentiment_score": 0.140326,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 0.578973,
+          "sentiment_score": 0.114589,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.553441,
+          "sentiment_score": 0.20223,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.939145
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.926233
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80704
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.724167
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.600444
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 225,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechStock²",
+          "source_domain": "TechStock²",
+          "headline": "Southern Company’s 17-GW Power Pipeline Faces a 144-Basis-Point Yield Hurdle",
+          "url": "https://ts2.tech/en/southern-companys-17-gw-power-pipeline-faces-a-144-basis-point-yield-hurdle/",
+          "published_at": "2026-08-18T13:31:33"
+        }
+      ]
+    },
+    {
       "event_id": 210,
       "title": "Northrop Grumman stock trades near $570 as Q2 earnings beat and 2026 guidance support valuation",
       "summary": "Northrop Grumman's stock is trading near $570 after reporting a strong Q2 earnings beat and reiterating full-year 2026 guidance in the high-$20s per share. The company's revenue increased by 5.1% year-over-year, driven by sustained demand for advanced defense systems. Analysts maintain a \"moderate buy\" rating with a 12-month price target implying a 15.5% upside, despite the stock's flat year-to-date performance.",
@@ -1027,73 +1106,6 @@
           "headline": "First Solar Slides as Investors Weigh Tariff Uncertainty and Recent Policy Risks",
           "url": "https://www.quiverquant.com/news/First+Solar+Slides+as+Investors+Weigh+Tariff+Uncertainty+and+Recent+Policy+Risks",
           "published_at": "2026-08-17T17:38:15"
-        }
-      ]
-    },
-    {
-      "event_id": 189,
-      "title": "Union Pacific gains as earnings strength and merger momentum support shares",
-      "summary": "Union Pacific (UNP) stock rose 3.0% due to strong second-quarter results, an improved 2026 earnings outlook, and investor optimism about its planned merger with Norfolk Southern. The company reported adjusted earnings of $3.41 per share, operating revenue of $6.9 billion, and raised its quarterly dividend by 3%. Investors are also closely watching the Norfolk Southern transaction, which recently saw supplemental filings and Canadian National's support after concessions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-17T17:38:03",
-      "first_seen_at": "2026-08-17T19:00:03.041655",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.625605,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.737021,
-          "sentiment_score": 0.320623,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.608366,
-          "sentiment_score": 0.244247,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920536
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.842618
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.744929
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.622227
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 202,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Union Pacific gains as earnings strength and merger momentum support shares",
-          "url": "https://www.quiverquant.com/news/Union+Pacific+gains+as+earnings+strength+and+merger+momentum+support+shares",
-          "published_at": "2026-08-17T17:38:03"
         }
       ]
     }
