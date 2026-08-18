@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 237,
+      "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
+      "summary": "Mizuho Financial Group Inc. anticipates the Bank of Japan will accelerate its interest rate hikes, with the next increase potentially occurring as early as next month. This expectation is driven by a weak yen and persistent inflation, pushing the central bank to act more decisively. Additionally, Mizuho's co-head of global markets, Kenya Koshimizu, foresees continued rises in longer-term rates, following 10-year Japanese government bond yields reaching a 30-year high.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-18T21:00:00",
+      "first_seen_at": "2026-08-18T22:00:01.862669",
+      "assets": [
+        {
+          "symbol": "MFG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.310418,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.906707
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849083
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.700383
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.618882
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 253,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg",
+          "source_domain": "Bloomberg",
+          "headline": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often",
+          "published_at": "2026-08-18T21:00:00"
+        }
+      ]
+    },
+    {
+      "event_id": 238,
+      "title": "Jack Henry shares jump over 3% on earnings beat and strong guidance",
+      "summary": "Jack Henry & Associates Inc. (NASDAQ:JKHY) reported strong fourth-quarter results, surpassing analyst expectations for both adjusted EPS and revenue. The financial technology provider also issued robust fiscal year 2027 guidance that exceeded consensus estimates, leading to a 3.8% surge in its share price. The company highlighted record sales, financial results for fiscal 2026, and a significant number of competitive core wins.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-18T20:48:25",
+      "first_seen_at": "2026-08-18T22:00:02.121137",
+      "assets": [
+        {
+          "symbol": "JKHY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456414,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925089
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.738633
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.643856
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 254,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Jack Henry shares jump over 3% on earnings beat and strong guidance",
+          "url": "https://www.investing.com/news/earnings/jack-henry-shares-jump-over-3-on-earnings-beat-and-strong-guidance-93CH-4866091",
+          "published_at": "2026-08-18T20:48:25"
+        }
+      ]
+    },
+    {
       "event_id": 230,
       "title": "ONEOK stock hits fresh 52-week high as analysts lift targets",
       "summary": "ONEOK Inc. (OKE) stock reached a new 52-week high on August 18, 2026, trading in the mid-$90s, driven by positive analyst sentiment and consistent demand for its midstream energy assets. The stock has seen a 29.7% year-to-date increase, and while the average analyst price target is around $91.94, some targets have been raised to $105.00, maintaining a consensus \"Moderate Buy\" rating. The company's strong performance is attributed to its stable, fee-based cash flows from natural gas and natural gas liquids infrastructure, making it an attractive income and infrastructure holding.",
@@ -1028,100 +1126,6 @@
           "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html",
           "published_at": "2026-08-18T15:43:10"
-        }
-      ]
-    },
-    {
-      "event_id": 219,
-      "title": "Parker Hannifin completes $9.25-billion Filtration Group acquisition",
-      "summary": "Parker Hannifin Corp. has finalized its $9.25 billion acquisition of Filtration Group Corporation, aiming to enhance its filtration technologies and aftermarket presence globally. This strategic move is expected to add approximately $1.8 billion to Parker's fiscal 2027 sales and achieve significant cost synergies, contributing to earnings per share growth and shareholder value. Both companies share a commitment to advancing filtration solutions for customers worldwide.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-18T15:37:03",
-      "first_seen_at": "2026-08-18T17:00:03.705680",
-      "assets": [
-        {
-          "symbol": "PH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424162,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.708656
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 234,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ChemEngOnline",
-          "source_domain": "ChemEngOnline",
-          "headline": "Parker Hannifin completes $9.25-billion Filtration Group acquisition",
-          "url": "https://www.chemengonline.com/parker-hannifin-completes-9-25-billion-filtration-group-acquisition/",
-          "published_at": "2026-08-18T15:37:03"
-        }
-      ]
-    },
-    {
-      "event_id": 220,
-      "title": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
-      "summary": "KKR has made a takeover offer for natural-gas and electricity distributor UGI Corp., valuing the company at approximately $9 billion. The private-equity firm offered $42.50 per share, which is significantly higher than UGI's Monday closing price of $35.09. UGI operates AmeriGas and other natural-gas and electric utilities.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-18T15:18:14",
-      "first_seen_at": "2026-08-18T17:00:03.906597",
-      "assets": [
-        {
-          "symbol": "KKR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421793,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.846374
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.742636
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.639564
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 235,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WSJ",
-          "source_domain": "WSJ",
-          "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
-          "url": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760",
-          "published_at": "2026-08-18T15:18:14"
         }
       ]
     }
