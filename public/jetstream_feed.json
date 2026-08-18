@@ -5,6 +5,249 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 205,
+      "title": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
+      "summary": "PowerBank Corporation has reacquired two New York community solar projects, Gainesville and Highway 28, with a combined construction value of US$32.5 million and US$13 million in anticipated U.S. federal tax credits. These projects, totaling 13.9 MW, are expected to be construction-ready in 2026 and 2027 and will contribute to PowerBank's strategy of increasing asset ownership and recurring revenue. The acquisition supports the company's focus on independent energy development in North America, particularly as demand for power from AI and digital infrastructure grows.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 72,
+      "published_at": "2026-08-18T12:00:43",
+      "first_seen_at": "2026-08-18T13:00:02.054223",
+      "assets": [
+        {
+          "symbol": "PBK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.460415,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.930616
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.848946
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.707714
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 219,
+          "provider": "ALPHA_VANTAGE",
+          "source": "PR Newswire",
+          "source_domain": "PR Newswire",
+          "headline": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
+          "url": "https://www.prnewswire.com/news-releases/powerbank-acquires-new-york-solar-portfolio-with-us32-5-million-construction-value-and-us13-million-in-expected-us-federal-tax-credits-302853432.html",
+          "published_at": "2026-08-18T12:00:43"
+        }
+      ]
+    },
+    {
+      "event_id": 206,
+      "title": "Match Group stock steadies after Q2 2026 earnings beat and softer Q3 outlook",
+      "summary": "Match Group Inc. (US57669L1008) stock is stabilizing after reporting a strong Q2 2026 earnings beat, including sales of US$853.11 million and net income of US$170.55 million, alongside continued share buybacks and dividend payments. However, the company issued a cautious outlook for Q3 2026, guiding for a 2% to 3% year-over-year revenue decline, which is causing investors to balance improved profitability against softer near-term growth expectations. Analysts maintain a moderately positive sentiment with a consensus price target suggesting potential upside despite the guided revenue dip.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-18T11:47:00",
+      "first_seen_at": "2026-08-18T13:00:02.371302",
+      "assets": [
+        {
+          "symbol": "MTCH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.079397,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.942559
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.817613
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.718762
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 220,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Match Group stock steadies after Q2 2026 earnings beat and softer Q3 outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/match-group-stock-steadies-after-q2-2026-earnings-beat-and-softer-q3/69964172",
+          "published_at": "2026-08-18T11:47:00"
+        }
+      ]
+    },
+    {
+      "event_id": 207,
+      "title": "Ulta Beauty stock slips after Q2 earnings beat as investors digest guidance",
+      "summary": "Ulta Beauty's stock slipped after reporting strong Q2 2026 earnings, beating analyst estimates for both EPS and revenue, but investors are now evaluating its full-year guidance and valuation. The company demonstrated resilient profitability, double-digit top-line growth, and a strong return on equity. Leadership changes and strategic focus on exclusive products and omnichannel integration are key aspects shaping its future, with institutional investors showing continued interest despite the recent share price decline.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-18T11:42:43",
+      "first_seen_at": "2026-08-18T13:00:02.641800",
+      "assets": [
+        {
+          "symbol": "ULTA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.299999,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922505
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849909
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.718899
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 221,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Ulta Beauty stock slips after Q2 earnings beat as investors digest guidance",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ulta-beauty-stock-slips-after-q2-earnings-beat-as-investors-digest/69964135",
+          "published_at": "2026-08-18T11:42:43"
+        }
+      ]
+    },
+    {
+      "event_id": 208,
+      "title": "Casey Tansey Acquires 35,572 Shares of Mobia Medical (NASDAQ:MOBI) Stock",
+      "summary": "Director Casey Tansey purchased 35,572 shares of Mobia Medical (NASDAQ:MOBI) stock for approximately $409,434, increasing his direct ownership by 15.25%. This acquisition was made at an average price of $11.51 per share. Despite missing analysts' EPS estimates in its latest quarterly report, Mobia Medical experienced a 102.4% year-over-year revenue increase, and analysts maintain a \"Moderate Buy\" consensus with an average price target of $20.75.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-18T11:19:12",
+      "first_seen_at": "2026-08-18T13:00:02.915898",
+      "assets": [
+        {
+          "symbol": "MOBI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.213715,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916122
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839456
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.710388
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 222,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Casey Tansey Acquires 35,572 Shares of Mobia Medical (NASDAQ:MOBI) Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/casey-tansey-acquires-35572-shares-of-mobia-medical-nasdaqmobi-stock-2026-08-18/",
+          "published_at": "2026-08-18T11:19:12"
+        }
+      ]
+    },
+    {
+      "event_id": 209,
+      "title": "Home Depot Q2 2026 earnings beat, full-year guidance reaffirmed",
+      "summary": "Home Depot reported second-quarter results that surpassed analyst expectations for both revenue and earnings. Despite the strong performance, the company maintained its full-year guidance, citing widespread market uncertainty and a \"frozen\" housing market. Executive Vice President and CFO Richard McPhail noted that customers are hesitant about larger projects even though they have the means to spend.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-18T11:11:09",
+      "first_seen_at": "2026-08-18T13:00:03.156523",
+      "assets": [
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.326651,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941236
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.801282
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.646896
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.623586
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 223,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Home Depot Q2 2026 earnings beat, full-year guidance reaffirmed",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q2-2026-earnings-111100114.html",
+          "published_at": "2026-08-18T11:11:09"
+        }
+      ]
+    },
+    {
       "event_id": 200,
       "title": "MarketAxess stock trades close to ICE’s $167 offer as $6 billion deal reshapes fixed-income landsc",
       "summary": "MarketAxess (MKTX) stock is trading just below Intercontinental Exchange's (ICE) $167 per-share cash offer, signaling strong market confidence in the $6 billion takeover. The narrow spread between the current price of $162.57 and the offer reflects investor expectation of the deal's completion, despite ongoing regulatory and legal reviews. This acquisition aims to create a premier fixed-income marketplace by integrating MarketAxess's electronic bond trading platform into ICE's broader ecosystem.",
@@ -859,279 +1102,6 @@
           "headline": "Caterpillar Inc Stock (CAT) Moved Up by 3.20% on Aug 17: Facts Behind the Movement",
           "url": "https://www.tradingkey.com/news/market-movers/262112772-market-movers-cat-20260817",
           "published_at": "2026-08-17T17:15:28"
-        }
-      ]
-    },
-    {
-      "event_id": 191,
-      "title": "R Tony Tripeny Acquires 900 Shares of Mesa Laboratories (NASDAQ:MLAB) Stock",
-      "summary": "Director R. Tony Tripeny recently purchased 900 shares of Mesa Laboratories (NASDAQ:MLAB) stock for over $102,000, increasing his direct ownership by 16.67%. The company reported quarterly revenue of $60.14 million and earnings of $2.68 per share, with its stock trading up 2.0% to $108.19. Analysts currently maintain a \"Hold\" rating for MLAB with a consensus target price of $110.00.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-17T17:12:13",
-      "first_seen_at": "2026-08-17T19:00:03.517917",
-      "assets": [
-        {
-          "symbol": "MLAB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.114768,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.911494
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.744009
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.600459
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 204,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "R Tony Tripeny Acquires 900 Shares of Mesa Laboratories (NASDAQ:MLAB) Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/r-tony-tripeny-acquires-900-shares-of-mesa-laboratories-nasdaqmlab-stock-2026-08-17/",
-          "published_at": "2026-08-17T17:12:13"
-        }
-      ]
-    },
-    {
-      "event_id": 184,
-      "title": "HPE stock advances after DOJ clears Juniper acquisition",
-      "summary": "HPE stock has advanced significantly after the U.S. Justice Department cleared its acquisition of Juniper Networks. The deal aims to strengthen HPE's networking and AI-driven cloud portfolio, with investors weighing the strategic benefits. Analysts have a moderate buy rating with a consensus target price of $69.80, suggesting further upside despite intrinsic value models flagging the stock as expensive.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-17T17:11:38",
-      "first_seen_at": "2026-08-17T18:00:02.166589",
-      "assets": [
-        {
-          "symbol": "HPE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.459101,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JNPR",
-          "asset_class": null,
-          "relevance_score": 0.728295,
-          "sentiment_score": 0.430438,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.907285
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.818444
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.710347
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 197,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "HPE stock advances after DOJ clears Juniper acquisition",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hpe-stock-advances-after-doj-clears-juniper-acquisition/69959029",
-          "published_at": "2026-08-17T17:11:38"
-        }
-      ]
-    },
-    {
-      "event_id": 185,
-      "title": "American Water and Essential Utilities Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
-      "summary": "American Water (NYSE: AWK) and Essential Utilities (NYSE: WTRG) announced the expiration of the Hart-Scott-Rodino waiting period, a key condition for their proposed merger. The companies have also secured regulatory approvals from Kentucky, Ohio, and Virginia, and reached a settlement in principle in Texas. The merger, overwhelmingly approved by shareholders, is anticipated to close by the end of the first quarter of 2027, pending remaining regulatory approvals and customary closing conditions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-17T16:15:12",
-      "first_seen_at": "2026-08-17T18:00:02.432703",
-      "assets": [
-        {
-          "symbol": "AWK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.417657,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.849462
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 198,
-          "provider": "ALPHA_VANTAGE",
-          "source": "American Water Newsroom",
-          "source_domain": "American Water Newsroom",
-          "headline": "American Water and Essential Utilities Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
-          "url": "https://newsroom.amwater.com/2026-08-17-American-Water-and-Essential-Utilities-Announce-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Proposed-Merger",
-          "published_at": "2026-08-17T16:15:12"
-        }
-      ]
-    },
-    {
-      "event_id": 180,
-      "title": "Rollins Inc stock hits 52-week low at $35.96",
-      "summary": "Rollins Inc. (ROL) stock has dropped to a 52-week low of $35.96, marking a significant downturn of 36.78% over the past year and 39% year-to-date. This decline follows the company reporting Q2 2026 adjusted earnings and revenue slightly below expectations, alongside cutting its full-year organic growth outlook due to a weaker residential business segment. Analysts from Piper Sandler, Wells Fargo, and JPMorgan have consequently lowered their price targets and ratings for the stock, citing ongoing market challenges despite the company's long history of dividend payments.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-17T15:40:25",
-      "first_seen_at": "2026-08-17T17:00:01.793257",
-      "assets": [
-        {
-          "symbol": "ROL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.543995,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935778
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92182
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.646917
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.611309
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 192,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Rollins Inc stock hits 52-week low at $35.96 By Investing.com",
-          "url": "https://in.investing.com/news/stock-market-news/rollins-inc-stock-hits-52week-low-at-3596-93CH-5560228",
-          "published_at": "2026-08-17T15:22:35"
-        },
-        {
-          "article_id": 191,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Rollins Inc stock hits 52-week low at $35.96",
-          "url": "https://www.investing.com/news/company-news/rollins-inc-stock-hits-52week-low-at-3596-93CH-4863602",
-          "published_at": "2026-08-17T15:40:25"
-        }
-      ]
-    },
-    {
-      "event_id": 181,
-      "title": "Morgan Stanley cuts China property forecasts on deeper price drops",
-      "summary": "Morgan Stanley has lowered its forecasts for China's real estate sector due to continued weakness in new home sales and declining property prices in July. National primary home sales dropped by 8.9% year-over-year by value, and real estate investment saw a significant decline. The investment bank anticipates further month-over-month price drops, citing muted home purchase intentions and limited policy support.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-17T15:33:58",
-      "first_seen_at": "2026-08-17T17:00:02.134364",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.040046,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.924639
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843647
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.736173
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 194,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "Morgan Stanley cuts China property forecasts on deeper price drops By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/morgan-stanley-cuts-china-property-forecasts-on-deeper-price-drops-93CH-2663365",
-          "published_at": "2026-08-17T15:28:06"
-        },
-        {
-          "article_id": 193,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Morgan Stanley cuts China property forecasts on deeper price drops",
-          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-china-property-forecasts-on-deeper-price-drops-93CH-4863609",
-          "published_at": "2026-08-17T15:33:58"
         }
       ]
     }
