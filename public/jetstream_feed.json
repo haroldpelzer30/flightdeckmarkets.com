@@ -5,6 +5,218 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 223,
+      "title": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
+      "summary": "Fortinet's acquisition of Virtue AI is set to address the growing security challenges posed by agentic artificial intelligence. This move will help businesses secure autonomous AI systems that act like digital employees, by providing AI runtime protection, automated AI validation, and agentic AI security capabilities. The acquisition emphasizes the need for continuous AI protection, moving beyond traditional security models to govern AI behavior and integrate security controls into existing workflows.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-18T18:04:09",
+      "first_seen_at": "2026-08-18T19:00:03.417308",
+      "assets": [
+        {
+          "symbol": "FTNT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.483106,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.916199
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 239,
+          "provider": "ALPHA_VANTAGE",
+          "source": "SiliconANGLE",
+          "source_domain": "SiliconANGLE",
+          "headline": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
+          "url": "https://siliconangle.com/2026/08/18/fortinets-virtue-ai-acquisition-rebalances-the-agentic-ai-security-equation/",
+          "published_at": "2026-08-18T18:04:09"
+        }
+      ]
+    },
+    {
+      "event_id": 224,
+      "title": "C.H. Robinson stock steadies after profit rise and valuation gap widens",
+      "summary": "C.H. Robinson's stock is trading below fair-value estimates despite a significant profit increase in Q2 2026, driven by higher freight prices. This has created a valuation gap, with analysts maintaining a \"moderate buy\" stance and a consensus price target around $197.00, suggesting potential upside for investors. The company also continues to offer a steady dividend, though short-term stock performance has been negative amidst market pullback and ongoing legal risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-18T17:26:28",
+      "first_seen_at": "2026-08-18T19:00:03.653656",
+      "assets": [
+        {
+          "symbol": "CHRW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.281415,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.943685
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.832726
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.729766
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 240,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "C.H. Robinson stock steadies after profit rise and valuation gap widens",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/c-h-robinson-stock-steadies-after-profit-rise-and-valuation-gap-widens/69965929",
+          "published_at": "2026-08-18T17:26:28"
+        }
+      ]
+    },
+    {
+      "event_id": 225,
+      "title": "Analog Devices Inc Stock (ADI) Moved Down by 4.55% on Aug 18: Facts Behind the Movement",
+      "summary": "Analog Devices Inc (ADI) stock fell by 4.55% on August 18 due to broader semiconductor sector weakness and macroeconomic headwinds, including rising Treasury yields and pre-earnings caution. Despite analysts maintaining a constructive long-term outlook, short-term market sentiment was driven by volatility and profit-taking. Technical indicators showed mixed signals, with a neutral MACD and RSI but an overbought Williams %R.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-08-18T17:15:59",
+      "first_seen_at": "2026-08-18T19:00:03.930041",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.440705,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.607072,
+          "sentiment_score": -0.245313,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.604729,
+          "sentiment_score": -0.201273,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.947126
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928248
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.843227
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.814623
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 241,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Analog Devices Inc Stock (ADI) Moved Down by 4.55% on Aug 18: Facts Behind the Movement",
+          "url": "https://www.tradingkey.com/news/market-movers/262115670-market-movers-adi-20260818",
+          "published_at": "2026-08-18T17:15:59"
+        }
+      ]
+    },
+    {
+      "event_id": 226,
+      "title": "Equinor acquires stake in Chevron Namibia exploration license (EQNR:NYSE)",
+      "summary": "Equinor has announced its acquisition of a 17.4% stake in petroleum exploration license PEL 90 located in the Orange Basin offshore Namibia from Chevron. The financial terms of the agreement were not disclosed. This transaction signifies Equinor's entry into the Namibian oil and gas exploration sector.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-08-18T17:11:04",
+      "first_seen_at": "2026-08-18T19:00:04.181294",
+      "assets": [
+        {
+          "symbol": "EQNR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.362223,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.817726,
+          "sentiment_score": 0.177258,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.925355
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.836924
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 242,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "Equinor acquires stake in Chevron Namibia exploration license (EQNR:NYSE)",
+          "url": "https://seekingalpha.com/news/4634434-equinor-acquires-stake-in-chevron-namibia-exploration-license",
+          "published_at": "2026-08-18T17:11:04"
+        }
+      ]
+    },
+    {
       "event_id": 221,
       "title": "KLA Corp Stock (KLAC) Moved Down by 5.69% on Aug 18: Drivers Behind the Movement",
       "summary": "KLA Corp (KLAC) shares dropped by 5.69% on August 18, primarily due to broader macroeconomic pressures like rising bond yields, sector-wide profit-taking in the semiconductor equipment industry, and institutional rebalancing. While technical indicators show neutral MACD and RSI, the Williams %R suggests a buy condition. The company's fundamental performance includes $13.58B in annual revenue and $4.83B in net profit, but it faces risks such as gross margin compression, China revenue concentration, and insider stock sales.",
@@ -939,210 +1151,6 @@
           "headline": "Ulta Beauty stock slips after Q2 earnings beat as investors digest guidance",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ulta-beauty-stock-slips-after-q2-earnings-beat-as-investors-digest/69964135",
           "published_at": "2026-08-18T11:42:43"
-        }
-      ]
-    },
-    {
-      "event_id": 208,
-      "title": "Casey Tansey Acquires 35,572 Shares of Mobia Medical (NASDAQ:MOBI) Stock",
-      "summary": "Director Casey Tansey purchased 35,572 shares of Mobia Medical (NASDAQ:MOBI) stock for approximately $409,434, increasing his direct ownership by 15.25%. This acquisition was made at an average price of $11.51 per share. Despite missing analysts' EPS estimates in its latest quarterly report, Mobia Medical experienced a 102.4% year-over-year revenue increase, and analysts maintain a \"Moderate Buy\" consensus with an average price target of $20.75.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-18T11:19:12",
-      "first_seen_at": "2026-08-18T13:00:02.915898",
-      "assets": [
-        {
-          "symbol": "MOBI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.213715,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916122
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839456
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.710388
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 222,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Casey Tansey Acquires 35,572 Shares of Mobia Medical (NASDAQ:MOBI) Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/casey-tansey-acquires-35572-shares-of-mobia-medical-nasdaqmobi-stock-2026-08-18/",
-          "published_at": "2026-08-18T11:19:12"
-        }
-      ]
-    },
-    {
-      "event_id": 209,
-      "title": "Home Depot Q2 2026 earnings beat, full-year guidance reaffirmed",
-      "summary": "Home Depot reported second-quarter results that surpassed analyst expectations for both revenue and earnings. Despite the strong performance, the company maintained its full-year guidance, citing widespread market uncertainty and a \"frozen\" housing market. Executive Vice President and CFO Richard McPhail noted that customers are hesitant about larger projects even though they have the means to spend.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-18T11:11:09",
-      "first_seen_at": "2026-08-18T13:00:03.156523",
-      "assets": [
-        {
-          "symbol": "HD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.326651,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941236
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.801282
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.646896
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.623586
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 223,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Home Depot Q2 2026 earnings beat, full-year guidance reaffirmed",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q2-2026-earnings-111100114.html",
-          "published_at": "2026-08-18T11:11:09"
-        }
-      ]
-    },
-    {
-      "event_id": 200,
-      "title": "MarketAxess stock trades close to ICE’s $167 offer as $6 billion deal reshapes fixed-income landsc",
-      "summary": "MarketAxess (MKTX) stock is trading just below Intercontinental Exchange's (ICE) $167 per-share cash offer, signaling strong market confidence in the $6 billion takeover. The narrow spread between the current price of $162.57 and the offer reflects investor expectation of the deal's completion, despite ongoing regulatory and legal reviews. This acquisition aims to create a premier fixed-income marketplace by integrating MarketAxess's electronic bond trading platform into ICE's broader ecosystem.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-18T10:57:43",
-      "first_seen_at": "2026-08-18T12:00:02.261798",
-      "assets": [
-        {
-          "symbol": "MKTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.309233,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ICE",
-          "asset_class": null,
-          "relevance_score": 0.923394,
-          "sentiment_score": 0.338952,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90778
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.840614
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 213,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "MarketAxess stock trades close to ICE’s $167 offer as $6 billion deal reshapes fixed-income landsc",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marketaxess-stock-trades-close-to-ice-s-167-offer-as-6-billion-deal/69963794",
-          "published_at": "2026-08-18T10:57:43"
-        }
-      ]
-    },
-    {
-      "event_id": 201,
-      "title": "UNIVEST FINANCIAL Corp Acquires New Stake in MetLife, Inc. $MET",
-      "summary": "UNIVEST FINANCIAL Corp has acquired a new stake in MetLife, Inc. (NYSE:MET), purchasing 29,741 shares valued at approximately $2.52 million in the second quarter. This move is part of broader institutional interest, with several other firms also adjusting their positions in MetLife. Analyst ratings are generally positive, with a consensus of \"Moderate Buy\" and an average price target of $101.07.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-18T10:55:40",
-      "first_seen_at": "2026-08-18T12:00:02.545720",
-      "assets": [
-        {
-          "symbol": "MET",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.472981,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.934479
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845847
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.720806
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.62459
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 214,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "UNIVEST FINANCIAL Corp Acquires New Stake in MetLife, Inc. $MET",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-univest-financial-corp-acquires-new-stake-in-metlife-inc-met-2026-08-18/",
-          "published_at": "2026-08-18T10:55:40"
         }
       ]
     }
