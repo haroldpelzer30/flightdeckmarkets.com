@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 239,
+      "title": "FedEx-led consortium clears major hurdle in $9B acquisition",
+      "summary": "A FedEx-led consortium has received EU approval for its acquisition of InPost, a deal valued at $9 billion. FedEx is expected to hold a 37% stake in InPost if the proposal is finalized. The article also mentions the Memphis Business Journal's \"Building Memphis Awards 2027\" nominations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-18T21:26:18",
+      "first_seen_at": "2026-08-18T23:00:02.513928",
+      "assets": [
+        {
+          "symbol": "FDX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.444565,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.641285,
+          "sentiment_score": 0.33261,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.91805
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.740923
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.617229
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 255,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "FedEx-led consortium clears major hurdle in $9B acquisition",
+          "url": "https://www.bizjournals.com/memphis/news/2026/08/18/european-commission-approves-fedex-group-inpost.html",
+          "published_at": "2026-08-18T21:26:18"
+        }
+      ]
+    },
+    {
+      "event_id": 240,
+      "title": "Targa Resources inks ExxonMobil deals, plans new Permian Basin projects",
+      "summary": "Targa Resources Corp. is increasing its capital expenditures for 2026 due to new Permian Basin projects and agreements with ExxonMobil Holdings Corp. The Houston-based company has been growing organically and through acquisitions, and these new deals will further boost its spending next year.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-18T21:16:25",
+      "first_seen_at": "2026-08-18T23:00:02.785738",
+      "assets": [
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.430544,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.904269,
+          "sentiment_score": 0.318574,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.921731
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.83844
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 256,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "Targa Resources inks ExxonMobil deals, plans new Permian Basin projects",
+          "url": "https://www.bizjournals.com/houston/news/2026/08/18/targa-resources-exxonmobil-agreements-permian.html",
+          "published_at": "2026-08-18T21:16:25"
+        }
+      ]
+    },
+    {
       "event_id": 237,
       "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
       "summary": "Mizuho Financial Group Inc. anticipates the Bank of Japan will accelerate its interest rate hikes, with the next increase potentially occurring as early as next month. This expectation is driven by a weak yen and persistent inflation, pushing the central bank to act more decisively. Additionally, Mizuho's co-head of global markets, Kenya Koshimizu, foresees continued rises in longer-term rates, following 10-year Japanese government bond yields reaching a 30-year high.",
@@ -992,140 +1098,6 @@
           "headline": "Citigroup stock holds firm after July 14 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/citigroup-stock-holds-firm-after-july-14-earnings-beat/69965467",
           "published_at": "2026-08-18T15:50:14"
-        }
-      ]
-    },
-    {
-      "event_id": 217,
-      "title": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
-      "summary": "M&T Bank's stock is trading near its Wall Street consensus target following a stronger-than-expected Q2 2026 earnings report, with GAAP normalized earnings per share of $5.32 significantly beating the $4.66 estimate. The shares closed at $252.86 on August 17, 2026, slightly above the average analyst target of $252.28, suggesting that the positive results are largely priced in. Institutional interest remains strong, but future upside will likely depend on factors beyond current performance, such as credit quality stability and fee income growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T15:46:49",
-      "first_seen_at": "2026-08-18T17:00:03.204501",
-      "assets": [
-        {
-          "symbol": "MTB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.250933,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946204
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835975
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.712139
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648209
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 232,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
-          "published_at": "2026-08-18T15:46:49"
-        }
-      ]
-    },
-    {
-      "event_id": 218,
-      "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-      "summary": "Nvidia, AMD, Broadcom, and Meta experienced stock declines due to a surge in the 30-year Treasury yield, which reached its highest level since 2007. Rising bond yields negatively impact tech stocks by making future earnings less valuable and increasing the cost of financing large-scale projects like AI infrastructure. The article explores whether this rise in yields is primarily due to inflation or increased borrowing by governments and companies for AI investment, noting that distinguishing between these factors is difficult.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-18T15:43:10",
-      "first_seen_at": "2026-08-18T17:00:03.424354",
-      "assets": [
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.937647,
-          "sentiment_score": -0.339132,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AVGO",
-          "asset_class": null,
-          "relevance_score": 0.926532,
-          "sentiment_score": -0.312082,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.922001,
-          "sentiment_score": -0.343376,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.902038,
-          "sentiment_score": -0.312952,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.625788,
-          "sentiment_score": 0.101102,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917133
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.8085
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.727778
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.614269
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 233,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html",
-          "published_at": "2026-08-18T15:43:10"
         }
       ]
     }
