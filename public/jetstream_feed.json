@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 210,
+      "title": "Northrop Grumman stock trades near $570 as Q2 earnings beat and 2026 guidance support valuation",
+      "summary": "Northrop Grumman's stock is trading near $570 after reporting a strong Q2 earnings beat and reiterating full-year 2026 guidance in the high-$20s per share. The company's revenue increased by 5.1% year-over-year, driven by sustained demand for advanced defense systems. Analysts maintain a \"moderate buy\" rating with a 12-month price target implying a 15.5% upside, despite the stock's flat year-to-date performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T12:49:46",
+      "first_seen_at": "2026-08-18T14:00:03.016178",
+      "assets": [
+        {
+          "symbol": "NOC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.491845,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901149
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801269
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 224,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Northrop Grumman stock trades near $570 as Q2 earnings beat and 2026 guidance support valuation",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/northrop-grumman-stock-trades-near-570-as-q2-earnings-beat-and-2026/69964666",
+          "published_at": "2026-08-18T12:49:46"
+        }
+      ]
+    },
+    {
       "event_id": 205,
       "title": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
       "summary": "PowerBank Corporation has reacquired two New York community solar projects, Gainesville and Highway 28, with a combined construction value of US$32.5 million and US$13 million in anticipated U.S. federal tax credits. These projects, totaling 13.9 MW, are expected to be construction-ready in 2026 and 2027 and will contribute to PowerBank's strategy of increasing asset ownership and recurring revenue. The acquisition supports the company's focus on independent energy development in North America, particularly as demand for power from AI and digital infrastructure grows.",
@@ -1051,57 +1094,6 @@
           "headline": "Union Pacific gains as earnings strength and merger momentum support shares",
           "url": "https://www.quiverquant.com/news/Union+Pacific+gains+as+earnings+strength+and+merger+momentum+support+shares",
           "published_at": "2026-08-17T17:38:03"
-        }
-      ]
-    },
-    {
-      "event_id": 190,
-      "title": "Caterpillar Inc Stock (CAT) Moved Up by 3.20% on Aug 17: Facts Behind the Movement",
-      "summary": "Caterpillar Inc. (CAT) saw a 3.20% stock increase on August 17th, driven by strong quarterly earnings, record revenues exceeding $20 billion, and an expanded order backlog of $72 billion. The company's positive momentum is further supported by raised full-year sales guidance, analyst upgrades, and a commitment to shareholder returns. Despite strong performance, the article also notes valuation risks, production capacity bottlenecks, and potential regulatory restrictions as concerns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-17T17:15:28",
-      "first_seen_at": "2026-08-17T19:00:03.299271",
-      "assets": [
-        {
-          "symbol": "CAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.481187,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940964
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.919885
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.80856
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.64718
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 203,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Caterpillar Inc Stock (CAT) Moved Up by 3.20% on Aug 17: Facts Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262112772-market-movers-cat-20260817",
-          "published_at": "2026-08-17T17:15:28"
         }
       ]
     }
