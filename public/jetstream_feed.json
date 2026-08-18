@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 227,
+      "title": "Darden Restaurants stock steadies after fiscal Q4 2026 earnings beat",
+      "summary": "Darden Restaurants (DRI) stock is stabilizing in the mid-$220 range following a strong fiscal Q4 2026 earnings beat, robust sales growth, and an updated positive outlook on profit and dividends. The company reported EPS of $3.66, exceeding estimates, with revenue up 13.7% year-over-year. Darden also increased its quarterly dividend to $1.62 per share and reiterated its fiscal 2027 EPS guidance, backed by strong institutional investor interest and a strategic multi-brand portfolio including Olive Garden.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T18:52:57",
+      "first_seen_at": "2026-08-18T20:00:02.270369",
+      "assets": [
+        {
+          "symbol": "DRI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.493156,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947097
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.808625
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.706284
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 243,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Darden Restaurants stock steadies after fiscal Q4 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/darden-restaurants-stock-steadies-after-fiscal-q4-2026-earnings-beat/69966305",
+          "published_at": "2026-08-18T18:52:57"
+        }
+      ]
+    },
+    {
+      "event_id": 228,
+      "title": "Sysco stock holds firm after a July earnings beat",
+      "summary": "Sysco Corp. (US8718291078) stock is trading near $82 after reporting strong Q4 2026 earnings with revenue of $22.12 billion and EPS of $1.53, both exceeding estimates. The company's fiscal 2027 outlook projects a 5.29% increase in expected EPS to $5.37, reinforcing a \"hold\" rating from analysts with a target price around $89.50. Sysco's performance reflects its role in foodservice distribution, serving various sectors and indicating trends in restaurant traffic and institutional demand.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T18:49:23",
+      "first_seen_at": "2026-08-18T20:00:02.559616",
+      "assets": [
+        {
+          "symbol": "SYY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.42294,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92493
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813687
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.72133
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 244,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Sysco stock holds firm after a July earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-holds-firm-after-a-july-earnings-beat/69966292",
+          "published_at": "2026-08-18T18:49:23"
+        }
+      ]
+    },
+    {
       "event_id": 223,
       "title": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
       "summary": "Fortinet's acquisition of Virtue AI is set to address the growing security challenges posed by agentic artificial intelligence. This move will help businesses secure autonomous AI systems that act like digital employees, by providing AI runtime protection, automated AI validation, and agentic AI security capabilities. The acquisition emphasizes the need for continuous AI protection, moving beyond traditional security models to govern AI behavior and integrate security controls into existing workflows.",
@@ -1057,100 +1151,6 @@
           "headline": "PowerBank Acquires New York Solar Portfolio with US$32.5 Million Construction Value and US$13 Million in Expected U.S. Federal Tax Credits",
           "url": "https://www.prnewswire.com/news-releases/powerbank-acquires-new-york-solar-portfolio-with-us32-5-million-construction-value-and-us13-million-in-expected-us-federal-tax-credits-302853432.html",
           "published_at": "2026-08-18T12:00:43"
-        }
-      ]
-    },
-    {
-      "event_id": 206,
-      "title": "Match Group stock steadies after Q2 2026 earnings beat and softer Q3 outlook",
-      "summary": "Match Group Inc. (US57669L1008) stock is stabilizing after reporting a strong Q2 2026 earnings beat, including sales of US$853.11 million and net income of US$170.55 million, alongside continued share buybacks and dividend payments. However, the company issued a cautious outlook for Q3 2026, guiding for a 2% to 3% year-over-year revenue decline, which is causing investors to balance improved profitability against softer near-term growth expectations. Analysts maintain a moderately positive sentiment with a consensus price target suggesting potential upside despite the guided revenue dip.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-18T11:47:00",
-      "first_seen_at": "2026-08-18T13:00:02.371302",
-      "assets": [
-        {
-          "symbol": "MTCH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.079397,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.942559
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817613
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.718762
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 220,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Match Group stock steadies after Q2 2026 earnings beat and softer Q3 outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/match-group-stock-steadies-after-q2-2026-earnings-beat-and-softer-q3/69964172",
-          "published_at": "2026-08-18T11:47:00"
-        }
-      ]
-    },
-    {
-      "event_id": 207,
-      "title": "Ulta Beauty stock slips after Q2 earnings beat as investors digest guidance",
-      "summary": "Ulta Beauty's stock slipped after reporting strong Q2 2026 earnings, beating analyst estimates for both EPS and revenue, but investors are now evaluating its full-year guidance and valuation. The company demonstrated resilient profitability, double-digit top-line growth, and a strong return on equity. Leadership changes and strategic focus on exclusive products and omnichannel integration are key aspects shaping its future, with institutional investors showing continued interest despite the recent share price decline.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-18T11:42:43",
-      "first_seen_at": "2026-08-18T13:00:02.641800",
-      "assets": [
-        {
-          "symbol": "ULTA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.299999,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922505
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849909
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.718899
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 221,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Ulta Beauty stock slips after Q2 earnings beat as investors digest guidance",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ulta-beauty-stock-slips-after-q2-earnings-beat-as-investors-digest/69964135",
-          "published_at": "2026-08-18T11:42:43"
         }
       ]
     }
