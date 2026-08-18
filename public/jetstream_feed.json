@@ -5,6 +5,141 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 221,
+      "title": "KLA Corp Stock (KLAC) Moved Down by 5.69% on Aug 18: Drivers Behind the Movement",
+      "summary": "KLA Corp (KLAC) shares dropped by 5.69% on August 18, primarily due to broader macroeconomic pressures like rising bond yields, sector-wide profit-taking in the semiconductor equipment industry, and institutional rebalancing. While technical indicators show neutral MACD and RSI, the Williams %R suggests a buy condition. The company's fundamental performance includes $13.58B in annual revenue and $4.83B in net profit, but it faces risks such as gross margin compression, China revenue concentration, and insider stock sales.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-18T16:21:30",
+      "first_seen_at": "2026-08-18T18:00:01.743789",
+      "assets": [
+        {
+          "symbol": "ANET",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.426403,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KLAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.344313,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.629398,
+          "sentiment_score": -0.409117,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.611726,
+          "sentiment_score": -0.235488,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940828
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.837507
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.81668
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.739389
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 237,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Arista Networks Inc Stock (ANET) Moved Down by 5.06% on Aug 18: What Investors Need To Know",
+          "url": "https://www.tradingkey.com/news/market-movers/262115614-market-movers-anet-20260818",
+          "published_at": "2026-08-18T16:21:12"
+        },
+        {
+          "article_id": 236,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "KLA Corp Stock (KLAC) Moved Down by 5.69% on Aug 18: Drivers Behind the Movement",
+          "url": "https://www.tradingkey.com/news/market-movers/262115613-market-movers-klac-20260818",
+          "published_at": "2026-08-18T16:21:30"
+        }
+      ]
+    },
+    {
+      "event_id": 222,
+      "title": "Textron stock holds steady as aircraft milestone and Q2 beat support outlook",
+      "summary": "Textron stock is holding steady despite market fluctuations, supported by a strong Q2 earnings beat and the significant milestone of delivering the 500th Cessna Citation CJ4-series business jet. The company reported EPS of $1.62 and revenue of $3.83 billion, both exceeding expectations, and its stock is considered modestly discounted by analysts with a potential upside of 16.8%. The successful aircraft delivery highlights sustained demand and operational momentum in its aviation segment.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-18T16:15:00",
+      "first_seen_at": "2026-08-18T18:00:02.128537",
+      "assets": [
+        {
+          "symbol": "TXT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.536559,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902077
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.720169
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.613801
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 238,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Textron stock holds steady as aircraft milestone and Q2 beat support outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/textron-stock-holds-steady-as-aircraft-milestone-and-q2-beat-support/69965596",
+          "published_at": "2026-08-18T16:15:00"
+        }
+      ]
+    },
+    {
       "event_id": 214,
       "title": "AvalonBay, Equity Residential Complete Historic Merger",
       "summary": "AvalonBay Communities and Equity Residential have officially completed their merger of equals, forming Vivmark Residential, the largest apartment real estate investment trust in the U.S. The new company boasts an equity market capitalization of $51 billion, an enterprise value of approximately $70 billion, and a portfolio of over 184,000 units. Vivmark Residential aims to redefine the rental housing industry through its scale, technological integration, and a $4.2 billion development pipeline, expecting $125 million in savings within 18 months.",
@@ -1008,108 +1143,6 @@
           "headline": "UNIVEST FINANCIAL Corp Acquires New Stake in MetLife, Inc. $MET",
           "url": "https://www.marketbeat.com/instant-alerts/filing-univest-financial-corp-acquires-new-stake-in-metlife-inc-met-2026-08-18/",
           "published_at": "2026-08-18T10:55:40"
-        }
-      ]
-    },
-    {
-      "event_id": 202,
-      "title": "Pallas Capital Advisors LLC Acquires Shares of 12,859 Biogen Inc. $BIIB",
-      "summary": "Pallas Capital Advisors LLC has acquired 12,859 shares of Biogen Inc. (NASDAQ:BIIB) in the second quarter, valued at approximately $2.78 million. Other institutional investors have also adjusted their positions in Biogen, with 87.93% of the company's stock owned by institutional investors and hedge funds. Analysts have provided mixed but generally positive ratings for Biogen, with an average target price of $227.07, and the company recently reported stronger-than-expected quarterly earnings.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-18T10:53:12",
-      "first_seen_at": "2026-08-18T12:00:02.850148",
-      "assets": [
-        {
-          "symbol": "BIIB",
-          "asset_class": null,
-          "relevance_score": 0.972787,
-          "sentiment_score": 0.226154,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906438
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.829082
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.711322
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.640673
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 215,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Pallas Capital Advisors LLC Acquires Shares of 12,859 Biogen Inc. $BIIB",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-acquires-shares-of-12859-biogen-inc-biib-2026-08-18/",
-          "published_at": "2026-08-18T10:53:12"
-        }
-      ]
-    },
-    {
-      "event_id": 203,
-      "title": "Meeder Asset Management Inc. Acquires New Stake in Western Digital Corporation $WDC",
-      "summary": "Meeder Asset Management Inc. has acquired a new stake of 15,197 shares in Western Digital Corporation, valued at approximately $9.7 million, during the second quarter. Institutional investors and hedge funds now own 92.51% of Western Digital, which recently reported strong quarterly EPS and revenue figures. Analysts maintain a \"Moderate Buy\" rating for the company with a consensus price target of $534.56.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T10:48:48",
-      "first_seen_at": "2026-08-18T12:00:03.117445",
-      "assets": [
-        {
-          "symbol": "WDC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.444748,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.930546
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811072
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.714646
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.604309
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 216,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Meeder Asset Management Inc. Acquires New Stake in Western Digital Corporation $WDC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-meeder-asset-management-inc-acquires-new-stake-in-western-digital-corporation-wdc-2026-08-18/",
-          "published_at": "2026-08-18T10:48:48"
         }
       ]
     }
