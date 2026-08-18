@@ -5,6 +5,399 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 214,
+      "title": "AvalonBay, Equity Residential Complete Historic Merger",
+      "summary": "AvalonBay Communities and Equity Residential have officially completed their merger of equals, forming Vivmark Residential, the largest apartment real estate investment trust in the U.S. The new company boasts an equity market capitalization of $51 billion, an enterprise value of approximately $70 billion, and a portfolio of over 184,000 units. Vivmark Residential aims to redefine the rental housing industry through its scale, technological integration, and a $4.2 billion development pipeline, expecting $125 million in savings within 18 months.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-18T15:59:52",
+      "first_seen_at": "2026-08-18T17:00:02.381975",
+      "assets": [
+        {
+          "symbol": "EQR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.499419,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVB",
+          "asset_class": null,
+          "relevance_score": 0.922436,
+          "sentiment_score": 0.49444,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.921836
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.641585
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 229,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Real Deal",
+          "source_domain": "The Real Deal",
+          "headline": "AvalonBay, Equity Residential Complete Historic Merger",
+          "url": "https://therealdeal.com/national/2026/08/18/avalonbay-equity-residential-complete-historic-merger/",
+          "published_at": "2026-08-18T15:59:52"
+        }
+      ]
+    },
+    {
+      "event_id": 215,
+      "title": "Southwest Airlines stock edges lower as investors weigh safety headlines and valuation",
+      "summary": "Southwest Airlines (LUV) stock edged lower as investors considered recent safety incidents, including a bomb threat and tire damage issues, alongside its valuation. Despite a consensus \"Hold\" rating and a target price implying potential upside, the airline faces scrutiny over operational reliability and competitive pressures. The article highlights the tension between the stock's valuation support and investor caution due to these incidents and ongoing regulatory attention.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-08-18T15:51:40",
+      "first_seen_at": "2026-08-18T17:00:02.653705",
+      "assets": [
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.214653,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.632256,
+          "sentiment_score": 0.00782,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.937787
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915041
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.83084
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.714607
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.637477
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 230,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Southwest Airlines stock edges lower as investors weigh safety headlines and valuation",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-edges-lower-as-investors-weigh-safety-headlines/69965478",
+          "published_at": "2026-08-18T15:51:40"
+        }
+      ]
+    },
+    {
+      "event_id": 216,
+      "title": "Citigroup stock holds firm after July 14 earnings beat",
+      "summary": "Citigroup Inc. stock is holding firm after its July 14 earnings beat, where it reported $3.15 EPS and $24.77 billion in revenue, exceeding analyst estimates. Despite an 18.7% rise year-to-date, the stock trades below the average analyst price target of $145.22. The company's core products and global operations position it to capitalize on a stronger revenue cycle, with its next earnings date scheduled for October 13, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T15:50:14",
+      "first_seen_at": "2026-08-18T17:00:02.977666",
+      "assets": [
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40737,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.833781
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83065
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 231,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Citigroup stock holds firm after July 14 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/citigroup-stock-holds-firm-after-july-14-earnings-beat/69965467",
+          "published_at": "2026-08-18T15:50:14"
+        }
+      ]
+    },
+    {
+      "event_id": 217,
+      "title": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
+      "summary": "M&T Bank's stock is trading near its Wall Street consensus target following a stronger-than-expected Q2 2026 earnings report, with GAAP normalized earnings per share of $5.32 significantly beating the $4.66 estimate. The shares closed at $252.86 on August 17, 2026, slightly above the average analyst target of $252.28, suggesting that the positive results are largely priced in. Institutional interest remains strong, but future upside will likely depend on factors beyond current performance, such as credit quality stability and fee income growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-18T15:46:49",
+      "first_seen_at": "2026-08-18T17:00:03.204501",
+      "assets": [
+        {
+          "symbol": "MTB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.250933,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.946204
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.835975
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.712139
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648209
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 232,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
+          "published_at": "2026-08-18T15:46:49"
+        }
+      ]
+    },
+    {
+      "event_id": 218,
+      "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+      "summary": "Nvidia, AMD, Broadcom, and Meta experienced stock declines due to a surge in the 30-year Treasury yield, which reached its highest level since 2007. Rising bond yields negatively impact tech stocks by making future earnings less valuable and increasing the cost of financing large-scale projects like AI infrastructure. The article explores whether this rise in yields is primarily due to inflation or increased borrowing by governments and companies for AI investment, noting that distinguishing between these factors is difficult.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-18T15:43:10",
+      "first_seen_at": "2026-08-18T17:00:03.424354",
+      "assets": [
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.937647,
+          "sentiment_score": -0.339132,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 0.926532,
+          "sentiment_score": -0.312082,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.922001,
+          "sentiment_score": -0.343376,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.902038,
+          "sentiment_score": -0.312952,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.625788,
+          "sentiment_score": 0.101102,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917133
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.8085
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.727778
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.614269
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 233,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html",
+          "published_at": "2026-08-18T15:43:10"
+        }
+      ]
+    },
+    {
+      "event_id": 219,
+      "title": "Parker Hannifin completes $9.25-billion Filtration Group acquisition",
+      "summary": "Parker Hannifin Corp. has finalized its $9.25 billion acquisition of Filtration Group Corporation, aiming to enhance its filtration technologies and aftermarket presence globally. This strategic move is expected to add approximately $1.8 billion to Parker's fiscal 2027 sales and achieve significant cost synergies, contributing to earnings per share growth and shareholder value. Both companies share a commitment to advancing filtration solutions for customers worldwide.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-18T15:37:03",
+      "first_seen_at": "2026-08-18T17:00:03.705680",
+      "assets": [
+        {
+          "symbol": "PH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424162,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.708656
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 234,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ChemEngOnline",
+          "source_domain": "ChemEngOnline",
+          "headline": "Parker Hannifin completes $9.25-billion Filtration Group acquisition",
+          "url": "https://www.chemengonline.com/parker-hannifin-completes-9-25-billion-filtration-group-acquisition/",
+          "published_at": "2026-08-18T15:37:03"
+        }
+      ]
+    },
+    {
+      "event_id": 220,
+      "title": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
+      "summary": "KKR has made a takeover offer for natural-gas and electricity distributor UGI Corp., valuing the company at approximately $9 billion. The private-equity firm offered $42.50 per share, which is significantly higher than UGI's Monday closing price of $35.09. UGI operates AmeriGas and other natural-gas and electric utilities.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-18T15:18:14",
+      "first_seen_at": "2026-08-18T17:00:03.906597",
+      "assets": [
+        {
+          "symbol": "KKR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.421793,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.846374
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.742636
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.639564
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 235,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WSJ",
+          "source_domain": "WSJ",
+          "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
+          "url": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760",
+          "published_at": "2026-08-18T15:18:14"
+        }
+      ]
+    },
+    {
       "event_id": 212,
       "title": "Marathon Petroleum stock hits all-time high at 363.35 USD By Investing.com",
       "summary": "Marathon Petroleum (MPC) stock has reached an all-time high of $363.35, marking a 120.63% increase over the past year and a 122% year-to-date return. This surge is attributed to strong investor confidence, upward earnings revisions from analysts, and robust financial performance. The company recently surpassed Q2 2026 earnings expectations, leading to an upgrade in stock rating by Freedom Broker.",
@@ -717,408 +1110,6 @@
           "headline": "Meeder Asset Management Inc. Acquires New Stake in Western Digital Corporation $WDC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-meeder-asset-management-inc-acquires-new-stake-in-western-digital-corporation-wdc-2026-08-18/",
           "published_at": "2026-08-18T10:48:48"
-        }
-      ]
-    },
-    {
-      "event_id": 204,
-      "title": "Texas Capital Bank Wealth Management Services Inc Acquires Shares of 5,778 The PNC Financial Services Group, Inc $PNC",
-      "summary": "Texas Capital Bank Wealth Management Services Inc recently acquired 5,778 shares of The PNC Financial Services Group, Inc (PNC) valued at approximately $1.42 million during the second quarter. Institutional investors now own 83.53% of PNC, which holds a \"Moderate Buy\" consensus rating from analysts with an average price target of $265.73. The company also reported strong quarterly earnings, exceeding expectations with $4.85 EPS and $6.88 billion in revenue, and increased its quarterly dividend to $2.00 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-18T10:43:13",
-      "first_seen_at": "2026-08-18T12:00:03.387241",
-      "assets": [
-        {
-          "symbol": "PNC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.407178,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MA",
-          "asset_class": null,
-          "relevance_score": 0.636442,
-          "sentiment_score": -0.11825,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "V",
-          "asset_class": null,
-          "relevance_score": 0.617845,
-          "sentiment_score": -0.136334,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.923628
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923427
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.90001
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.633918
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 217,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Perigon Wealth Management LLC Makes New Investment in The PNC Financial Services Group, Inc $PNC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-perigon-wealth-management-llc-makes-new-investment-in-the-pnc-financial-services-group-inc-pnc-2026-08-18/",
-          "published_at": "2026-08-18T10:43:13"
-        },
-        {
-          "article_id": 218,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Texas Capital Bank Wealth Management Services Inc Acquires Shares of 5,778 The PNC Financial Services Group, Inc $PNC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-texas-capital-bank-wealth-management-services-inc-acquires-shares-of-5778-the-pnc-financial-services-group-inc-pnc-2026-08-18/",
-          "published_at": "2026-08-18T10:43:13"
-        }
-      ]
-    },
-    {
-      "event_id": 199,
-      "title": "AvalonBay And Equity Residential Complete Merger To Create $70 Billion Vivmark Residential",
-      "summary": "AvalonBay Communities and Equity Residential have completed a merger of equals to form Vivmark Residential, a new rental housing giant. The combined company boasts an enterprise value of approximately $70 billion and will begin trading on the NYSE under the ticker VMRK on August 18. Vivmark Residential aims to leverage its scale, technology, and data analytics to improve operating efficiency, projecting over $2 billion in annual cash flow and common dividends by 2026.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-17T22:37:18",
-      "first_seen_at": "2026-08-18T00:00:02.117356",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 0.905097,
-          "sentiment_score": 0.411759,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 0.834746,
-          "sentiment_score": 0.413297,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.916849
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.734721
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 212,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pulse 2.0",
-          "source_domain": "Pulse 2.0",
-          "headline": "AvalonBay And Equity Residential Complete Merger To Create $70 Billion Vivmark Residential",
-          "url": "https://pulse2.com/avalonbay-and-equity-residential-complete-merger-to-create-70-billion-vivmark-residential/amp/",
-          "published_at": "2026-08-17T22:37:18"
-        }
-      ]
-    },
-    {
-      "event_id": 198,
-      "title": "Spanberger formally intervenes in proposed NextEra-Dominion merger",
-      "summary": "Governor Abigail Spanberger has formally intervened in the proposed $67 billion merger between NextEra Energy and Dominion Energy, filing with the State Corporation Commission. She stated that her administration will advocate for Virginians' long-term interests, focusing on affordable energy bills, protecting utility jobs, and accelerating clean power development. Dominion Energy's CEO, Robert Blue, welcomed the intervention, highlighting the proposed $1.78 billion in bill credits and other benefits for Virginia customers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 71,
-      "published_at": "2026-08-17T20:24:37",
-      "first_seen_at": "2026-08-17T22:00:02.183546",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.078974,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.834387,
-          "sentiment_score": 0.07917,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943481
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.708173
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 211,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WWBT",
-          "source_domain": "WWBT",
-          "headline": "Spanberger formally intervenes in proposed NextEra-Dominion merger",
-          "url": "https://www.12onyourside.com/2026/08/17/spanberger-formally-intervenes-proposed-nextera-dominion-merger/",
-          "published_at": "2026-08-17T20:24:37"
-        }
-      ]
-    },
-    {
-      "event_id": 196,
-      "title": "Sempra stock holds steady as investors weigh upside to earnings and data center demand",
-      "summary": "Sempra stock is holding steady in the mid-$80s, with analysts predicting a 20.2% upside to its consensus price target of $103.92. This optimism is fueled by the company's strong earnings profile and the increasing power demands from the growing data center sector, particularly through its majority ownership in Oncor, a large Texas utility. The absence of sell ratings and continued analyst coverage suggest a constructive outlook for Sempra's regulated utility and infrastructure businesses.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-17T19:37:11",
-      "first_seen_at": "2026-08-17T21:00:01.970883",
-      "assets": [
-        {
-          "symbol": "SRE",
-          "asset_class": null,
-          "relevance_score": 0.955566,
-          "sentiment_score": 0.298729,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923303
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.914555
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.80033
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.613355
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.603832
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 209,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Sempra stock holds steady as investors weigh upside to earnings and data center demand",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-holds-steady-as-investors-weigh-upside-to-earnings-and-data/69961129",
-          "published_at": "2026-08-17T19:37:11"
-        }
-      ]
-    },
-    {
-      "event_id": 197,
-      "title": "Video: Huntington Bank Shares Weekly Market Insight",
-      "summary": "Huntington Bank's chief investment office released their weekly \"The Three Things We Learned This Week\" video, offering their perspective on financial news impacting the U.S. economy and markets. Randy Hare, director of equity research, discusses oil inventory data, decreased inflation numbers, and a surprise retail sales data decrease. The video provides a brief analysis of these events and their potential repercussions.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 84,
-      "published_at": "2026-08-17T19:04:13",
-      "first_seen_at": "2026-08-17T21:00:02.262055",
-      "assets": [
-        {
-          "symbol": "HBAN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.127769,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.929195
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.809808
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.717656
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.705804
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 210,
-          "provider": "ALPHA_VANTAGE",
-          "source": "RV PRO",
-          "source_domain": "RV PRO",
-          "headline": "Video: Huntington Bank Shares Weekly Market Insight",
-          "url": "https://rv-pro.com/news/video-huntington-bank-shares-weekly-market-insight-2/",
-          "published_at": "2026-08-17T19:04:13"
-        }
-      ]
-    },
-    {
-      "event_id": 193,
-      "title": "AvalonBay, Equity Residential close $69B merger, creating nation's largest multifamily owner",
-      "summary": "AvalonBay Communities Inc. and Equity Residential have completed their $69 billion merger, forming the largest multifamily owner in the nation. The merger closed less than three months after its announcement, and shares of the newly combined company will begin trading on Tuesday. This consolidation significantly impacts the commercial real estate sector.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-17T18:33:15",
-      "first_seen_at": "2026-08-17T20:00:01.855652",
-      "assets": [
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.445428,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 0.942423,
-          "sentiment_score": 0.341913,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.833523
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 206,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "AvalonBay, Equity Residential close $69B merger, creating nation's largest multifamily owner",
-          "url": "https://www.bizjournals.com/washington/news/2026/08/17/avalonbay-equit-residential-merger-multifamily.html",
-          "published_at": "2026-08-17T18:33:15"
-        }
-      ]
-    },
-    {
-      "event_id": 186,
-      "title": "Linde stock holds firm after Q2 2026 earnings beat",
-      "summary": "Linde plc reported strong Q2 2026 earnings, with adjusted EPS of $4.50 and revenue of $9.29 billion, exceeding analyst expectations. The company also raised its full-year 2026 EPS guidance to $17.70-$17.90, demonstrating its ability to convert higher sales into better profit margins. Additionally, Linde plans a $1 billion investment in Arizona for a semiconductor supply deal, reinforcing its growth strategy and long-term customer relationships in the industrial gases sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-17T18:23:00",
-      "first_seen_at": "2026-08-17T19:00:02.166026",
-      "assets": [
-        {
-          "symbol": "LIN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.420079,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940908
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.84448
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.721876
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.647888
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.646949
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 199,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Linde stock holds firm after Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/linde-stock-holds-firm-after-q2-2026-earnings-beat/69960281",
-          "published_at": "2026-08-17T18:23:00"
         }
       ]
     }
