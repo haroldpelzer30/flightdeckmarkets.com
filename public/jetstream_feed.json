@@ -5,6 +5,149 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 212,
+      "title": "Marathon Petroleum stock hits all-time high at 363.35 USD By Investing.com",
+      "summary": "Marathon Petroleum (MPC) stock has reached an all-time high of $363.35, marking a 120.63% increase over the past year and a 122% year-to-date return. This surge is attributed to strong investor confidence, upward earnings revisions from analysts, and robust financial performance. The company recently surpassed Q2 2026 earnings expectations, leading to an upgrade in stock rating by Freedom Broker.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-18T14:35:43",
+      "first_seen_at": "2026-08-18T16:00:02.299051",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.846104,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GDDY",
+          "asset_class": null,
+          "relevance_score": 0.596049,
+          "sentiment_score": 0.722841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 0.589958,
+          "sentiment_score": 0.715386,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ULTA",
+          "asset_class": null,
+          "relevance_score": 0.575656,
+          "sentiment_score": 0.712825,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LULU",
+          "asset_class": null,
+          "relevance_score": 0.551646,
+          "sentiment_score": 0.720847,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93023
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922416
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.721904
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 227,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Marathon Petroleum stock hits all-time high at 363.35 USD",
+          "url": "https://www.investing.com/news/company-news/marathon-petroleum-stock-hits-alltime-high-at-36335-usd-93CH-4865641",
+          "published_at": "2026-08-18T14:33:43"
+        },
+        {
+          "article_id": 226,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Marathon Petroleum stock hits all-time high at 363.35 USD By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-36335-usd-93CH-4806322",
+          "published_at": "2026-08-18T14:35:43"
+        }
+      ]
+    },
+    {
+      "event_id": 213,
+      "title": "J.B. Hunt Transport stock trades near record levels as investors digest recent gains",
+      "summary": "J.B. Hunt Transport stock is trading near record levels, with shares priced at $283.37 as of August 17, 2026, and a market capitalization of $26.62 billion. Investors are evaluating the company's valuation in the context of its modest 0.64% dividend yield, which suggests a focus on growth rather than income. Institutional activity shows a mixed sentiment, with some",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-08-18T14:16:23",
+      "first_seen_at": "2026-08-18T16:00:02.713693",
+      "assets": [
+        {
+          "symbol": "JBHT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.42394,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947605
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.929498
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928547
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.731152
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.70778
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 228,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "J.B. Hunt Transport stock trades near record levels as investors digest recent gains",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-transport-stock-trades-near-record-levels-as-investors-digest/69965069",
+          "published_at": "2026-08-18T14:16:23"
+        }
+      ]
+    },
+    {
       "event_id": 211,
       "title": "Southern Company’s 17-GW Power Pipeline Faces a 144-Basis-Point Yield Hurdle",
       "summary": "Southern Company is experiencing surging electricity demand, particularly from data centers, with over 17 GW of contracted large-load demand by mid-2030s. However, the company faces a financial hurdle as the 10-year Treasury yield is 144 basis points higher than Southern's 3.29% dividend yield, making its income appeal weaker while it funds an $81 billion capital program. Despite positive operational performance and an 11.8% beat on adjusted EPS for Q2, analyst sentiment remains cautious due to the rising cost of financing and potential risks to large-load projects.",
@@ -976,136 +1119,6 @@
           "headline": "Linde stock holds firm after Q2 2026 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/linde-stock-holds-firm-after-q2-2026-earnings-beat/69960281",
           "published_at": "2026-08-17T18:23:00"
-        }
-      ]
-    },
-    {
-      "event_id": 187,
-      "title": "Exxon Shares Lifted by Iran Tensions, Consensus Upside Narrows to 3%",
-      "summary": "Exxon Mobil (NYSE:XOM) shares rose 0.7% due to heightened Iran tensions and increased oil prices, with Brent crude nearing $89 per barrel. Despite the stock's rise, analysts project a modest 3.2% potential upside, indicating a narrowing consensus. The article highlights the impact of geopolitical events on oil markets and Exxon's robust financial performance, while noting the divided analyst sentiment regarding future valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-17T17:50:41",
-      "first_seen_at": "2026-08-17T19:00:02.480532",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.264221,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.743797,
-          "sentiment_score": 0.215984,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.608961,
-          "sentiment_score": 0.129436,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.58335,
-          "sentiment_score": 0.231024,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.927517
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.837683
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.720295
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 200,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechStock²",
-          "source_domain": "TechStock²",
-          "headline": "Exxon Shares Lifted by Iran Tensions, Consensus Upside Narrows to 3%",
-          "url": "https://ts2.tech/en/exxon-stock-rises-on-iran-threat-but-consensus-upside-shrinks-to-3/",
-          "published_at": "2026-08-17T17:50:41"
-        }
-      ]
-    },
-    {
-      "event_id": 188,
-      "title": "First Solar Slides as Investors Weigh Tariff Uncertainty and Recent Policy Risks",
-      "summary": "First Solar (FSLR) stock declined 3.1% due to ongoing investor uncertainty surrounding U.S. solar trade policy, new import rules, and lingering tariff-related issues. Despite strong Q2 2026 results and reaffirmed full-year guidance, a recent White House proclamation adding duties on polysilicon derivatives and existing securities litigation are contributing to fragile sentiment. Insider selling, significant institutional trading, and congressional purchases are also detailed, alongside recent analyst price targets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-17T17:38:15",
-      "first_seen_at": "2026-08-17T19:00:02.771981",
-      "assets": [
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.272788,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936642
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.832243
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.720701
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.612397
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.611321
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 201,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "First Solar Slides as Investors Weigh Tariff Uncertainty and Recent Policy Risks",
-          "url": "https://www.quiverquant.com/news/First+Solar+Slides+as+Investors+Weigh+Tariff+Uncertainty+and+Recent+Policy+Risks",
-          "published_at": "2026-08-17T17:38:15"
         }
       ]
     }
