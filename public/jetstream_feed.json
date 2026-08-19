@@ -5,6 +5,344 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 269,
+      "title": "Dover stock holds above $200 as Q2 2026 earnings and new acquisition shape outlook",
+      "summary": "Dover Corp. stock is trading above $200 after reporting solid Q2 2026 results, with revenue of $2.19 billion and earnings per share of $2.74, slightly exceeding expectations. The company also announced the acquisition of India-based Leistung Engineering to expand its international footprint. Analysts have set price targets suggesting a significant upside, indicating confidence in Dover's operational and earnings plans despite some recent stock price consolidation.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-19T18:41:00",
+      "first_seen_at": "2026-08-19T20:00:01.668933",
+      "assets": [
+        {
+          "symbol": "DOV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.275523,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916139
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.834685
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.727026
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.713456
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.626998
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 285,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Dover stock holds above $200 as Q2 2026 earnings and new acquisition shape outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dover-stock-holds-above-200-as-q2-2026-earnings-and-new-acquisition-shape/69972381",
+          "published_at": "2026-08-19T18:41:00"
+        }
+      ]
+    },
+    {
+      "event_id": 270,
+      "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
+      "summary": "Several major companies, including Nike, Target, and Amer Sports, have received significant tariff refunds due to reciprocal duties that were imposed last year and later ruled illegal. While these companies are benefiting, consumers who paid higher prices due to the tariffs are questioning if they will also receive refunds, with some lawsuits already filed against companies like Costco and Nike. The U.S. Customs and Border Protection is only processing refunds for registered importers, and it remains unclear how consumer-related lawsuits will be resolved.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-08-19T18:40:51",
+      "first_seen_at": "2026-08-19T20:00:01.961348",
+      "assets": [
+        {
+          "symbol": "AS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.335619,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TGT",
+          "asset_class": null,
+          "relevance_score": 0.944424,
+          "sentiment_score": 0.329662,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NKE",
+          "asset_class": null,
+          "relevance_score": 0.943702,
+          "sentiment_score": 0.318153,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COST",
+          "asset_class": null,
+          "relevance_score": 0.610679,
+          "sentiment_score": 0.028514,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.933663
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 286,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WWD",
+          "source_domain": "WWD",
+          "headline": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
+          "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-target-refunds-consumers-payments-1239128922/",
+          "published_at": "2026-08-19T18:40:51"
+        }
+      ]
+    },
+    {
+      "event_id": 271,
+      "title": "Resilient Starbucks stock holds above $106 as Q3 earnings beat supports FY 2026 outlook",
+      "summary": "Starbucks stock is trading above $106 following strong fiscal 2026 third-quarter earnings that surpassed expectations, despite a slight revenue decline due to the China divestiture. The company raised its full-year comparable sales guidance and maintained EPS guidance, reinforcing investor confidence in its growth trajectory. While the stock's valuation is considered rich, its digital engagement and loyalty programs are key drivers for sustained growth and profitability.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T18:13:07",
+      "first_seen_at": "2026-08-19T20:00:02.361233",
+      "assets": [
+        {
+          "symbol": "SBUX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.491545,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 0.561181,
+          "sentiment_score": 0.142649,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.934934
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826165
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.745804
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620903
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 287,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient Starbucks stock holds above $106 as Q3 earnings beat supports FY 2026 outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-starbucks-stock-holds-above-106-as-q3-earnings-beat-supports-fy/69972225",
+          "published_at": "2026-08-19T18:13:07"
+        }
+      ]
+    },
+    {
+      "event_id": 272,
+      "title": "Skyworks Solutions stock edges higher as Q3 earnings beat but growth stays muted",
+      "summary": "Skyworks Solutions' Q3 2026 earnings surpassed forecasts, with diluted EPS at $1.08 against an expected $1.03, primarily due to cost discipline rather than revenue growth, which declined year over year. The stock is trading in the upper-$60 range, showing a modest 6.3% year-to-date gain, and analysts project limited upside of about 10.1% from current levels. Future performance is expected to depend on the adoption of Wi-Fi 7 and advanced RF solutions driving renewed revenue growth for the chipmaker.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-19T18:13:00",
+      "first_seen_at": "2026-08-19T20:00:02.636523",
+      "assets": [
+        {
+          "symbol": "SWKS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.109624,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.910591
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.813283
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.731809
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.641505
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 288,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Skyworks Solutions stock edges higher as Q3 earnings beat but growth stays muted",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/skyworks-solutions-stock-edges-higher-as-q3-earnings-beat-but-growth-stays/69972226",
+          "published_at": "2026-08-19T18:13:00"
+        }
+      ]
+    },
+    {
+      "event_id": 273,
+      "title": "FedEx stock trades close to consensus target as investors eye freight-driven growth",
+      "summary": "FedEx stock is currently trading in the high $320s, with analysts setting a consensus price target of $350.54, indicating a moderate upside. The company's freight and logistics strategy, including partnerships in autonomous trucking, is highlighted as a key driver for future growth and efficiency. Investors are watching to see if FedEx can meet or exceed this target through operational improvements and strategic deployments.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T18:11:08",
+      "first_seen_at": "2026-08-19T20:00:02.896318",
+      "assets": [
+        {
+          "symbol": "FDX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.269548,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.932057
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907051
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.813522
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.63547
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.632072
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 289,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "FedEx stock trades close to consensus target as investors eye freight-driven growth",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-trades-close-to-consensus-target-as-investors-eye/69972209",
+          "published_at": "2026-08-19T18:11:08"
+        }
+      ]
+    },
+    {
+      "event_id": 274,
+      "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
+      "summary": "Quest Diagnostics (DGX) stock has reached a new 52-week high in August 2026, extending its rally after reporting strong second-quarter earnings that surpassed expectations. The company recorded $3.04 billion in revenue, a 10.2% year-over-year increase, and exceeded full-year EPS guidance, demonstrating robust operational execution and improved profitability. This performance has led to positive market momentum, with the stock trading near its peak and analysts maintaining a \"Moderate Buy\" consensus.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T18:10:52",
+      "first_seen_at": "2026-08-19T20:00:03.189216",
+      "assets": [
+        {
+          "symbol": "DGX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.498596,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948789
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802741
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.748203
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 290,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-hits-a-fresh-high-as-q2-earnings-beat-expectations/69972211",
+          "published_at": "2026-08-19T18:10:52"
+        }
+      ]
+    },
+    {
       "event_id": 265,
       "title": "Aurora Cannabis acquires UK pharma firms for £2.1 million",
       "summary": "Aurora Cannabis Inc. has acquired Internode Pharma Limited and HAP Pharma Limited, two UK-based pharmaceutical firms, for £2.1 million in cash. This acquisition provides Aurora with direct control over the medical cannabis supply chain in the UK, including a licensed import and distribution facility and a virtual pharmacy. The transaction is expected to enhance Aurora's adjusted EBITDA through operational efficiencies and reduced reliance on third-party distributors.",
@@ -20,7 +358,7 @@
           "symbol": "ACB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.325857,
+          "sentiment_score": 0.302476,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +366,7 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.925036
+          "relevance_score": 0.927682
         },
         {
           "topic": "life_sciences",
@@ -747,280 +1085,6 @@
           "headline": "Why Edison International (EIX) Is Up 5.4% After Q2 Earnings Beat And Reaffirmed 2026 Guidance",
           "url": "https://simplywall.st/stocks/us/utilities/nyse-eix/edison-international/news/why-edison-international-eix-is-up-54-after-q2-earnings-beat",
           "published_at": "2026-08-19T13:37:54"
-        }
-      ]
-    },
-    {
-      "event_id": 255,
-      "title": "Avery Dennison stock trades around $178 as strong Q2 2026 results and board changes shape the outloo",
-      "summary": "Avery Dennison's stock is trading around $178 after reporting stronger-than-expected Q2 2026 earnings of $2.89 per share on $2.5 billion in revenue, beating analyst forecasts. The company also announced leadership changes, including William Wagner as the new board chair, which, combined with solid cash generation, has contributed to a positive market reaction. Despite the strong performance, the stock remains below the consensus analyst price target of $201.22, suggesting potential for further upside.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-19T13:26:00",
-      "first_seen_at": "2026-08-19T15:00:02.715852",
-      "assets": [
-        {
-          "symbol": "AVY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.517066,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.905646
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.748854
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.632567
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 271,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Avery Dennison stock trades around $178 as strong Q2 2026 results and board changes shape the outloo",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/avery-dennison-stock-trades-around-178-as-strong-q2-2026-results-and/69970447",
-          "published_at": "2026-08-19T13:26:00"
-        }
-      ]
-    },
-    {
-      "event_id": 249,
-      "title": "Target boosts 2026 outlook after Q2 sales and earnings beat",
-      "summary": "Target (NYSE:TGT) has increased its full-year 2026 outlook following better-than-expected second-quarter results, with sales up 5.3% to $26.54 billion and adjusted EPS of $4.11, exceeding analyst estimates. The company saw strong growth across all merchandise categories, driven by digital sales and same-day delivery, and has raised its net sales growth and operating income margin rate projections for the full year. Target also increased its full-year GAAP and adjusted EPS guidance, largely due to tariff refund benefits.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-19T13:02:14",
-      "first_seen_at": "2026-08-19T14:00:02.164054",
-      "assets": [
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.722639,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.902147
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.801547
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 265,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "Target boosts 2026 outlook after Q2 sales and earnings beat",
-          "url": "https://uk.finance.yahoo.com/news/target-boosts-2026-outlook-q2-130200790.html",
-          "published_at": "2026-08-19T13:02:14"
-        }
-      ]
-    },
-    {
-      "event_id": 250,
-      "title": "Massachusetts governor warn NextEra-Dominion merger could hike energy costs",
-      "summary": "Massachusetts Governor Maura Healey and Attorney General Andrea Joy Campbell are opposing the proposed merger between NextEra Energy and Dominion Energy, citing concerns about potential increases in electricity costs, reduced market competition, and risks to grid reliability. Five New England states, excluding New Hampshire, have urged federal regulators to scrutinize the deal, which would consolidate ownership of the region's two remaining nuclear power plants. State officials highlighted NextEra's past actions, including efforts to block a transmission line and attempts to pass costs to ratepayers, as reasons for their opposition.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-19T12:38:52",
-      "first_seen_at": "2026-08-19T14:00:02.401312",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.308534,
-          "sentiment_score": 0.010758,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.945318
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.822206
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.630479
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 266,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WWLP",
-          "source_domain": "WWLP",
-          "headline": "Massachusetts governor warn NextEra-Dominion merger could hike energy costs",
-          "url": "https://www.wwlp.com/news/massachusetts/massachusetts-governor-warn-nextera-dominion-merger-could-hike-energy-costs/",
-          "published_at": "2026-08-19T12:38:52"
-        }
-      ]
-    },
-    {
-      "event_id": 251,
-      "title": "Analog Devices Q3 2026 earnings beat on AI data center demand",
-      "summary": "Analog Devices reported record fiscal third-quarter revenue of $4.02 billion, a 40% year-over-year increase, surpassing analyst expectations due to strong demand for data center and industrial chips, particularly driven by AI infrastructure. The company also provided a record outlook for Q4 and announced the acquisition of Empower Semiconductor for $1.5 billion to enhance its position in AI power delivery.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T12:29:03",
-      "first_seen_at": "2026-08-19T14:00:02.740978",
-      "assets": [
-        {
-          "symbol": "ADI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.725426,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909797
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.823315
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.807095
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 267,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quartz",
-          "source_domain": "Quartz",
-          "headline": "Analog Devices Q3 2026 earnings beat on AI data center demand",
-          "url": "https://qz.com/analog-devices-earnings-record-revenue-ai-data-center-081926",
-          "published_at": "2026-08-19T12:29:03"
-        }
-      ]
-    },
-    {
-      "event_id": 252,
-      "title": "Resilient Waste Management stock holds after Q2 earnings beat as sustainability theme supports valua",
-      "summary": "Waste Management (WM) stock is trading around $224 in mid-August 2026, supported by a strong Q2 2026 earnings beat and steady revenue growth. The company reported EPS of $2.02, exceeding analyst estimates, and demonstrated robust profitability metrics including an 11.11% net margin and 31.68% return on equity. Analysts maintain a positive outlook, with an average price target suggesting over 15% upside, driven by the company's strong core operations and expanding sustainability initiatives.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T12:14:59",
-      "first_seen_at": "2026-08-19T14:00:03.012687",
-      "assets": [
-        {
-          "symbol": "WM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.532339,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.830718
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 268,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Resilient Waste Management stock holds after Q2 earnings beat as sustainability theme supports valua",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-waste-management-stock-holds-after-q2-earnings-beat-as/69970041",
-          "published_at": "2026-08-19T12:14:59"
-        }
-      ]
-    },
-    {
-      "event_id": 246,
-      "title": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
-      "summary": "Target (NYSE: TGT) reported robust Q2 2026 results, with net sales growing 5.3% to $26.5 billion and EPS doubling to $4.11, significantly boosted by $994 million in pretax tariff refunds. Excluding these refunds, EPS still increased by 20%. The company also raised its full-year 2026 guidance, expecting net sales growth of around 5% and GAAP and Adjusted EPS of $9.90–$10.90, including the tariff benefit.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-19T11:51:23",
-      "first_seen_at": "2026-08-19T13:00:02.981729",
-      "assets": [
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.740252,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932667
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.817887
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 262,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
-          "url": "https://www.stocktitan.net/sec-filings/TGT/8-k-target-corp-reports-material-event-d12ca38849de.html",
-          "published_at": "2026-08-19T11:51:23"
         }
       ]
     }
