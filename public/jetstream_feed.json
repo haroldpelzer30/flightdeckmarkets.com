@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 241,
+      "title": "Profusa (PFSA) Slides 18% As Acquisition Plan Rattles Traders",
+      "summary": "Profusa Inc. (PFSA) shares dropped 18% after the company announced a non-binding term sheet to acquire a privately held diagnostics and toxicology testing business. This move has raised concerns among traders about potential dilution or new debt due to PFSA's weak balance sheet. Despite the sell-off, the stock remains a high-volatility trading vehicle, attracting momentum traders.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-18T22:40:29",
+      "first_seen_at": "2026-08-19T00:00:02.173677",
+      "assets": [
+        {
+          "symbol": "PFSA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.413547,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.939097
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813062
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.707491
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 257,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "Profusa (PFSA) Slides 18% As Acquisition Plan Rattles Traders",
+          "url": "https://stockstotrade.com/news/profusa-inc-pfsa-news-2026_08_18/",
+          "published_at": "2026-08-18T22:40:29"
+        }
+      ]
+    },
+    {
       "event_id": 239,
       "title": "FedEx-led consortium clears major hurdle in $9B acquisition",
       "summary": "A FedEx-led consortium has received EU approval for its acquisition of InPost, a deal valued at $9 billion. FedEx is expected to hold a 37% stake in InPost if the proposal is finalized. The article also mentions the Memphis Business Journal's \"Building Memphis Awards 2027\" nominations.",
@@ -1051,53 +1098,6 @@
           "headline": "Southwest Airlines stock edges lower as investors weigh safety headlines and valuation",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-edges-lower-as-investors-weigh-safety-headlines/69965478",
           "published_at": "2026-08-18T15:51:40"
-        }
-      ]
-    },
-    {
-      "event_id": 216,
-      "title": "Citigroup stock holds firm after July 14 earnings beat",
-      "summary": "Citigroup Inc. stock is holding firm after its July 14 earnings beat, where it reported $3.15 EPS and $24.77 billion in revenue, exceeding analyst estimates. Despite an 18.7% rise year-to-date, the stock trades below the average analyst price target of $145.22. The company's core products and global operations position it to capitalize on a stronger revenue cycle, with its next earnings date scheduled for October 13, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T15:50:14",
-      "first_seen_at": "2026-08-18T17:00:02.977666",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40737,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.833781
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83065
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 231,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Citigroup stock holds firm after July 14 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/citigroup-stock-holds-firm-after-july-14-earnings-beat/69965467",
-          "published_at": "2026-08-18T15:50:14"
         }
       ]
     }
