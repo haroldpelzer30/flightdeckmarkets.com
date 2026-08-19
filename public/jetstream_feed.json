@@ -5,6 +5,186 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 249,
+      "title": "Target boosts 2026 outlook after Q2 sales and earnings beat",
+      "summary": "Target (NYSE:TGT) has increased its full-year 2026 outlook following better-than-expected second-quarter results, with sales up 5.3% to $26.54 billion and adjusted EPS of $4.11, exceeding analyst estimates. The company saw strong growth across all merchandise categories, driven by digital sales and same-day delivery, and has raised its net sales growth and operating income margin rate projections for the full year. Target also increased its full-year GAAP and adjusted EPS guidance, largely due to tariff refund benefits.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-19T13:02:14",
+      "first_seen_at": "2026-08-19T14:00:02.164054",
+      "assets": [
+        {
+          "symbol": "TGT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.722639,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902147
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.801547
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 265,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "Target boosts 2026 outlook after Q2 sales and earnings beat",
+          "url": "https://uk.finance.yahoo.com/news/target-boosts-2026-outlook-q2-130200790.html",
+          "published_at": "2026-08-19T13:02:14"
+        }
+      ]
+    },
+    {
+      "event_id": 250,
+      "title": "Massachusetts governor warn NextEra-Dominion merger could hike energy costs",
+      "summary": "Massachusetts Governor Maura Healey and Attorney General Andrea Joy Campbell are opposing the proposed merger between NextEra Energy and Dominion Energy, citing concerns about potential increases in electricity costs, reduced market competition, and risks to grid reliability. Five New England states, excluding New Hampshire, have urged federal regulators to scrutinize the deal, which would consolidate ownership of the region's two remaining nuclear power plants. State officials highlighted NextEra's past actions, including efforts to block a transmission line and attempts to pass costs to ratepayers, as reasons for their opposition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-19T12:38:52",
+      "first_seen_at": "2026-08-19T14:00:02.401312",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.308534,
+          "sentiment_score": 0.010758,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.945318
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.822206
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.630479
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 266,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WWLP",
+          "source_domain": "WWLP",
+          "headline": "Massachusetts governor warn NextEra-Dominion merger could hike energy costs",
+          "url": "https://www.wwlp.com/news/massachusetts/massachusetts-governor-warn-nextera-dominion-merger-could-hike-energy-costs/",
+          "published_at": "2026-08-19T12:38:52"
+        }
+      ]
+    },
+    {
+      "event_id": 251,
+      "title": "Analog Devices Q3 2026 earnings beat on AI data center demand",
+      "summary": "Analog Devices reported record fiscal third-quarter revenue of $4.02 billion, a 40% year-over-year increase, surpassing analyst expectations due to strong demand for data center and industrial chips, particularly driven by AI infrastructure. The company also provided a record outlook for Q4 and announced the acquisition of Empower Semiconductor for $1.5 billion to enhance its position in AI power delivery.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T12:29:03",
+      "first_seen_at": "2026-08-19T14:00:02.740978",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.725426,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909797
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.823315
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.807095
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 267,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "Analog Devices Q3 2026 earnings beat on AI data center demand",
+          "url": "https://qz.com/analog-devices-earnings-record-revenue-ai-data-center-081926",
+          "published_at": "2026-08-19T12:29:03"
+        }
+      ]
+    },
+    {
+      "event_id": 252,
+      "title": "Resilient Waste Management stock holds after Q2 earnings beat as sustainability theme supports valua",
+      "summary": "Waste Management (WM) stock is trading around $224 in mid-August 2026, supported by a strong Q2 2026 earnings beat and steady revenue growth. The company reported EPS of $2.02, exceeding analyst estimates, and demonstrated robust profitability metrics including an 11.11% net margin and 31.68% return on equity. Analysts maintain a positive outlook, with an average price target suggesting over 15% upside, driven by the company's strong core operations and expanding sustainability initiatives.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T12:14:59",
+      "first_seen_at": "2026-08-19T14:00:03.012687",
+      "assets": [
+        {
+          "symbol": "WM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.532339,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.830718
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 268,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Resilient Waste Management stock holds after Q2 earnings beat as sustainability theme supports valua",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-waste-management-stock-holds-after-q2-earnings-beat-as/69970041",
+          "published_at": "2026-08-19T12:14:59"
+        }
+      ]
+    },
+    {
       "event_id": 246,
       "title": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
       "summary": "Target (NYSE: TGT) reported robust Q2 2026 results, with net sales growing 5.3% to $26.5 billion and EPS doubling to $4.11, significantly boosted by $994 million in pretax tariff refunds. Excluding these refunds, EPS still increased by 20%. The company also raised its full-year 2026 guidance, expecting net sales growth of around 5% and GAAP and Adjusted EPS of $9.90–$10.90, including the tariff benefit.",
@@ -825,198 +1005,6 @@
           "headline": "Bank of America Says $5,000 Gold Is Within Reach",
           "url": "https://www.tradingview.com/news/gurufocus:73cc8c364094b:0-bank-of-america-says-5-000-gold-is-within-reach/",
           "published_at": "2026-08-18T19:24:17"
-        }
-      ]
-    },
-    {
-      "event_id": 234,
-      "title": "HubSpot Stock Whipsaws As Earnings Beat Collides With Guidance Reset",
-      "summary": "HubSpot Inc. (HUBS) saw its stock whipsaw despite beating Q2 earnings expectations, due to a guidance reset that prioritized profitability over pure growth and led to a temporary after-hours drop. While Q2 adjusted EPS and revenue surpassed forecasts, management raised full-year EPS guidance but trimmed revenue projections, signaling market sensitivity to AI-driven pricing changes and budget constraints. Despite analyst price target cuts, most maintained \"Buy\" or \"Overweight\" ratings, and a new $1.0B share repurchase plan adds potential support for the stock.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-18T19:02:46",
-      "first_seen_at": "2026-08-18T21:00:03.336814",
-      "assets": [
-        {
-          "symbol": "HUBS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.095531,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WDAY",
-          "asset_class": null,
-          "relevance_score": 0.624456,
-          "sentiment_score": 0.123512,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945856
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840138
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.711096
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 250,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Timothy Sykes",
-          "source_domain": "Timothy Sykes",
-          "headline": "HubSpot Stock Whipsaws As Earnings Beat Collides With Guidance Reset",
-          "url": "https://www.timothysykes.com/news/hubspot-inc-hubs-news-2026_08_18/",
-          "published_at": "2026-08-18T19:02:46"
-        }
-      ]
-    },
-    {
-      "event_id": 227,
-      "title": "Darden Restaurants stock steadies after fiscal Q4 2026 earnings beat",
-      "summary": "Darden Restaurants (DRI) stock is stabilizing in the mid-$220 range following a strong fiscal Q4 2026 earnings beat, robust sales growth, and an updated positive outlook on profit and dividends. The company reported EPS of $3.66, exceeding estimates, with revenue up 13.7% year-over-year. Darden also increased its quarterly dividend to $1.62 per share and reiterated its fiscal 2027 EPS guidance, backed by strong institutional investor interest and a strategic multi-brand portfolio including Olive Garden.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T18:52:57",
-      "first_seen_at": "2026-08-18T20:00:02.270369",
-      "assets": [
-        {
-          "symbol": "DRI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.501992,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947097
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820029
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.711674
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 243,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Darden Restaurants stock steadies after fiscal Q4 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/darden-restaurants-stock-steadies-after-fiscal-q4-2026-earnings-beat/69966305",
-          "published_at": "2026-08-18T18:52:57"
-        }
-      ]
-    },
-    {
-      "event_id": 228,
-      "title": "Sysco stock holds firm after a July earnings beat",
-      "summary": "Sysco Corp. (US8718291078) stock is trading near $82 after reporting strong Q4 2026 earnings with revenue of $22.12 billion and EPS of $1.53, both exceeding estimates. The company's fiscal 2027 outlook projects a 5.29% increase in expected EPS to $5.37, reinforcing a \"hold\" rating from analysts with a target price around $89.50. Sysco's performance reflects its role in foodservice distribution, serving various sectors and indicating trends in restaurant traffic and institutional demand.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T18:49:23",
-      "first_seen_at": "2026-08-18T20:00:02.559616",
-      "assets": [
-        {
-          "symbol": "SYY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413038,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92493
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.834308
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.739615
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 244,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Sysco stock holds firm after a July earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-holds-firm-after-a-july-earnings-beat/69966292",
-          "published_at": "2026-08-18T18:49:23"
-        }
-      ]
-    },
-    {
-      "event_id": 223,
-      "title": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
-      "summary": "Fortinet's acquisition of Virtue AI is set to address the growing security challenges posed by agentic artificial intelligence. This move will help businesses secure autonomous AI systems that act like digital employees, by providing AI runtime protection, automated AI validation, and agentic AI security capabilities. The acquisition emphasizes the need for continuous AI protection, moving beyond traditional security models to govern AI behavior and integrate security controls into existing workflows.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-18T18:04:09",
-      "first_seen_at": "2026-08-18T19:00:03.417308",
-      "assets": [
-        {
-          "symbol": "FTNT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.483106,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.916199
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 239,
-          "provider": "ALPHA_VANTAGE",
-          "source": "SiliconANGLE",
-          "source_domain": "SiliconANGLE",
-          "headline": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
-          "url": "https://siliconangle.com/2026/08/18/fortinets-virtue-ai-acquisition-rebalances-the-agentic-ai-security-equation/",
-          "published_at": "2026-08-18T18:04:09"
         }
       ]
     }
