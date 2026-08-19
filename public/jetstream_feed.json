@@ -5,6 +5,202 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 261,
+      "title": "Waters stock slips after earnings beat and guidance holds",
+      "summary": "Waters Corp (WAT) stock experienced a slight dip despite beating earnings expectations for the latest quarter, reporting $1.65 billion in revenue and $3.05 EPS against an expected $1.62 billion and $3.01 respectively. The company also issued Q3 and FY 2026 EPS guidance, which, while competitive, did not prevent the stock from trading lower. The market's focus remains on whether Waters can sustain growth and improve its narrow profitability margins, especially given its high P/E ratio.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-19T17:04:36",
+      "first_seen_at": "2026-08-19T18:00:02.181439",
+      "assets": [
+        {
+          "symbol": "WAT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.190581,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.838281
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.734263
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 277,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Waters stock slips after earnings beat and guidance holds",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waters-stock-slips-after-earnings-beat-and-guidance-holds/69971847",
+          "published_at": "2026-08-19T17:04:36"
+        }
+      ]
+    },
+    {
+      "event_id": 262,
+      "title": "Private Equity's Return to Oil, Gas and Coal Already Tops All of 2025, Driven by One $9.7B Deal",
+      "summary": "Private equity investments in the oil, gas, and coal sectors have significantly surpassed the total for all of 2025, largely due to a $9.7 billion acquisition by KKR & Co. and Energy Capital Partners. This surge, totaling $14.7 billion through July, is attributed to rising commodity prices, energy supply concerns, and increased electricity demand from data centers and AI. Europe accounted for the majority of this investment as it seeks to reduce reliance on Russian natural gas.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T17:04:24",
+      "first_seen_at": "2026-08-19T18:00:02.421952",
+      "assets": [
+        {
+          "symbol": "KKR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403906,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.920124
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.901482
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.72527
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 278,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Private Equity's Return to Oil, Gas and Coal Already Tops All of 2025, Driven by One $9.7B Deal",
+          "url": "https://www.benzinga.com/markets/private-markets/26/08/61309422/private-equitys-return-to-oil-gas-and-coal-already-tops-all-of-2025-driven-by-one-9-7b-deal",
+          "published_at": "2026-08-19T17:04:24"
+        }
+      ]
+    },
+    {
+      "event_id": 263,
+      "title": "Is ONEOK (OKE) Fully Valued On Strong Q2 Earnings And A Higher 2026 Outlook?",
+      "summary": "ONEOK (OKE) recently hit a 52-week high after strong Q2 earnings, an updated 2026 outlook, and a higher price target from Morgan Stanley. Despite this, Simply Wall St's analysis suggests the stock is currently 2% overvalued with a fair value of $95.48 against its last close of $97.07. While its P/E ratio is below the fair ratio and peer average, it remains above the industry level, leading to a mixed valuation outlook.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-19T16:39:48",
+      "first_seen_at": "2026-08-19T18:00:02.664369",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.310511,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMB",
+          "asset_class": null,
+          "relevance_score": 0.635628,
+          "sentiment_score": 0.109318,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938283
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.921862
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.833642
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 279,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Is ONEOK (OKE) Fully Valued On Strong Q2 Earnings And A Higher 2026 Outlook?",
+          "url": "https://simplywall.st/stocks/us/energy/nyse-oke/oneok/news/is-oneok-oke-fully-valued-on-strong-q2-earnings-and-a-higher",
+          "published_at": "2026-08-19T16:39:48"
+        }
+      ]
+    },
+    {
+      "event_id": 264,
+      "title": "Elevance Health stock trades around $400 as Q2 2026 earnings beat supports upbeat outlook",
+      "summary": "Elevance Health stock is trading around $400, supported by a strong Q2 2026 earnings beat with adjusted EPS of $7.45 against a $6.21 consensus. The company reported modest revenue growth, but profit expansion outpaced top-line growth, leading to an upbeat full-year EPS forecast of $27.07 for 2026. Analysts maintain a \"Buy to Moderate Buy\" rating with an average price target of $440.90, indicating potential upside despite a slight membership decline.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T16:33:45",
+      "first_seen_at": "2026-08-19T18:00:02.927622",
+      "assets": [
+        {
+          "symbol": "ELV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.483282,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923383
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810086
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.724472
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 280,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Elevance Health stock trades around $400 as Q2 2026 earnings beat supports upbeat outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-trades-around-400-as-q2-2026-earnings-beat-supports/69971658",
+          "published_at": "2026-08-19T16:33:45"
+        }
+      ]
+    },
+    {
       "event_id": 259,
       "title": "Goldman Sachs reiterates Progressive stock rating on July earnings beat",
       "summary": "Goldman Sachs has reiterated its Buy rating and $230.00 price target for Progressive Corp. (NYSE:PGR) after the company reported strong July operating results, beating analyst estimates for earnings per share and net premiums written growth. The insurance company's Personal Auto segment showed robust performance with an 86.7% combined ratio, and InvestingPro's Fair Value analysis suggests the stock is currently undervalued. This positive outlook comes despite recent broader market concerns about slowing policy growth and competitive pressures in the auto insurance sector.",
@@ -841,198 +1037,6 @@
           "headline": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
           "url": "https://www.marketbeat.com/instant-alerts/filing-palmer-knight-co-acquires-shares-of-39810-ametek-inc-ame-2026-08-19/",
           "published_at": "2026-08-19T11:00:05"
-        }
-      ]
-    },
-    {
-      "event_id": 243,
-      "title": "Oxbow Advisors LLC Acquires Shares of 19,733 Ventas, Inc. $VTR",
-      "summary": "Oxbow Advisors LLC has acquired 19,733 shares of Ventas, Inc. (NYSE:VTR) in the second quarter, valued at approximately $1.75 million. This investment comes as institutional investors collectively own a significant 94.18% of Ventas stock, and analysts maintain a \"Moderate Buy\" rating with an average price target of $98. Ventas recently surpassed quarterly expectations, reporting $0.97 earnings per share and $1.73 billion in revenue, marking a 21.7% year-over-year increase.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T10:59:49",
-      "first_seen_at": "2026-08-19T12:00:03.229658",
-      "assets": [
-        {
-          "symbol": "VTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.449914,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.911264
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909136
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820473
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.726031
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.62338
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 259,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Oxbow Advisors LLC Acquires Shares of 19,733 Ventas, Inc. $VTR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-oxbow-advisors-llc-acquires-shares-of-19733-ventas-inc-vtr-2026-08-19/",
-          "published_at": "2026-08-19T10:59:49"
-        }
-      ]
-    },
-    {
-      "event_id": 244,
-      "title": "Gov. Mills calls the proposed NextEra, Dominion merger a ‘bad deal for Maine’",
-      "summary": "Governor Janet Mills has publicly opposed the proposed merger between NextEra Energy and Dominion Energy, labeling it a \"bad deal for Maine.\" She argues that the merger would consolidate too many energy assets under one company, thereby limiting competition and potentially leading to higher electricity costs for Maine residents. U.S. Senator Angus King also recommends rejecting the merger, citing NextEra's past anti-competitive behavior in New England.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T10:53:33",
-      "first_seen_at": "2026-08-19T12:00:03.524800",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.335263,
-          "sentiment_score": 0.030815,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.914073
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.707688
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 260,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WGME",
-          "source_domain": "WGME",
-          "headline": "Gov. Mills calls the proposed NextEra, Dominion merger a ‘bad deal for Maine’",
-          "url": "https://wgme.com/news/local/gov-mills-calls-the-proposed-nextera-dominion-merger-a-bad-deal-for-maine",
-          "published_at": "2026-08-19T10:53:33"
-        }
-      ]
-    },
-    {
-      "event_id": 245,
-      "title": "Fortinet eyes AI security gains with Virtue AI acquisition",
-      "summary": "Fortinet has acquired Virtue AI, an AI security specialist, to enhance its existing Security for AI portfolio with AI runtime protection and automated validation capabilities. This acquisition aims to strengthen Fortinet's ability to protect AI models and applications across their lifecycle, addressing the expanding attack surface as organizations increasingly deploy AI. The deal comes as the market for securing AI ecosystems is projected to grow significantly, with financial terms remaining undisclosed but deemed \"immaterial\" to Fortinet's business.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-19T10:37:58",
-      "first_seen_at": "2026-08-19T12:00:03.775483",
-      "assets": [
-        {
-          "symbol": "FTNT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.497845,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.948186
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 261,
-          "provider": "ALPHA_VANTAGE",
-          "source": "IT Pro",
-          "source_domain": "IT Pro",
-          "headline": "Fortinet eyes AI security gains with Virtue AI acquisition",
-          "url": "https://www.itpro.com/business/acquisition/fortinet-eyes-ai-security-gains-with-virtue-ai-acquisition",
-          "published_at": "2026-08-19T10:37:58"
-        }
-      ]
-    },
-    {
-      "event_id": 241,
-      "title": "Profusa (PFSA) Slides 18% As Acquisition Plan Rattles Traders",
-      "summary": "Profusa Inc. (PFSA) shares dropped 18% after the company announced a non-binding term sheet to acquire a privately held diagnostics and toxicology testing business. This move has raised concerns among traders about potential dilution or new debt due to PFSA's weak balance sheet. Despite the sell-off, the stock remains a high-volatility trading vehicle, attracting momentum traders.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-18T22:40:29",
-      "first_seen_at": "2026-08-19T00:00:02.173677",
-      "assets": [
-        {
-          "symbol": "PFSA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.413547,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.939097
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.813062
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.707491
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 257,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "Profusa (PFSA) Slides 18% As Acquisition Plan Rattles Traders",
-          "url": "https://stockstotrade.com/news/profusa-inc-pfsa-news-2026_08_18/",
-          "published_at": "2026-08-18T22:40:29"
         }
       ]
     }
