@@ -5,6 +5,151 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 246,
+      "title": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
+      "summary": "Target (NYSE: TGT) reported robust Q2 2026 results, with net sales growing 5.3% to $26.5 billion and EPS doubling to $4.11, significantly boosted by $994 million in pretax tariff refunds. Excluding these refunds, EPS still increased by 20%. The company also raised its full-year 2026 guidance, expecting net sales growth of around 5% and GAAP and Adjusted EPS of $9.90–$10.90, including the tariff benefit.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-19T11:51:23",
+      "first_seen_at": "2026-08-19T13:00:02.981729",
+      "assets": [
+        {
+          "symbol": "TGT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.740252,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932667
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.817887
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 262,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
+          "url": "https://www.stocktitan.net/sec-filings/TGT/8-k-target-corp-reports-material-event-d12ca38849de.html",
+          "published_at": "2026-08-19T11:51:23"
+        }
+      ]
+    },
+    {
+      "event_id": 247,
+      "title": "Oxbow Advisors LLC Acquires Shares of 16,911 IDEX Corporation $IEX",
+      "summary": "Oxbow Advisors LLC recently acquired 16,911 shares of IDEX Corporation (NYSE:IEX), valued at approximately $3.84 million, contributing to institutional investors owning 97.96% of the company. IDEX maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $260.80, and reported strong Q2 earnings and revenue, alongside a quarterly dividend of $0.73 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T11:28:19",
+      "first_seen_at": "2026-08-19T13:00:03.226184",
+      "assets": [
+        {
+          "symbol": "IEX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.713224,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912137
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825182
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.722413
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.718768
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 263,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Oxbow Advisors LLC Acquires Shares of 16,911 IDEX Corporation $IEX",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-oxbow-advisors-llc-acquires-shares-of-16911-idex-corporation-iex-2026-08-19/",
+          "published_at": "2026-08-19T11:28:19"
+        }
+      ]
+    },
+    {
+      "event_id": 248,
+      "title": "Teledyne Technologies stock holds near $666 after Varex deal",
+      "summary": "Teledyne Technologies stock is trading near $666.39 following its $1.1 billion all-cash acquisition of Varex Imaging. The deal expands Teledyne's medical imaging footprint and comes after a strong July 22 quarter where revenue and EPS beat expectations. Analysts have a \"Moderate Buy\" rating with a consensus price target of $721.67.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-19T11:28:00",
+      "first_seen_at": "2026-08-19T13:00:03.486364",
+      "assets": [
+        {
+          "symbol": "TDY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.284147,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92206
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.91386
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839729
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.610087
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 264,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Teledyne Technologies stock holds near $666 after Varex deal",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/teledyne-technologies-stock-holds-near-666-after-varex-deal/69969728",
+          "published_at": "2026-08-19T11:28:00"
+        }
+      ]
+    },
+    {
       "event_id": 242,
       "title": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
       "summary": "Palmer Knight Co. recently acquired 39,810 shares of AMETEK, Inc. (NYSE: AME) valued at approximately $9.6 million, making it their ninth-largest holding. Institutional investors collectively own a significant portion of AMETEK stock, which maintains a \"Moderate Buy\" consensus rating from analysts. The company reported strong quarterly earnings, beating expectations, and declared a quarterly dividend of $0.34 per share.",
@@ -872,175 +1017,6 @@
           "headline": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
           "url": "https://siliconangle.com/2026/08/18/fortinets-virtue-ai-acquisition-rebalances-the-agentic-ai-security-equation/",
           "published_at": "2026-08-18T18:04:09"
-        }
-      ]
-    },
-    {
-      "event_id": 224,
-      "title": "C.H. Robinson stock steadies after profit rise and valuation gap widens",
-      "summary": "C.H. Robinson's stock is trading below fair-value estimates despite a significant profit increase in Q2 2026, driven by higher freight prices. This has created a valuation gap, with analysts maintaining a \"moderate buy\" stance and a consensus price target around $197.00, suggesting potential upside for investors. The company also continues to offer a steady dividend, though short-term stock performance has been negative amidst market pullback and ongoing legal risks.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-18T17:26:28",
-      "first_seen_at": "2026-08-18T19:00:03.653656",
-      "assets": [
-        {
-          "symbol": "CHRW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.281415,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943685
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.832726
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.729766
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 240,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "C.H. Robinson stock steadies after profit rise and valuation gap widens",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/c-h-robinson-stock-steadies-after-profit-rise-and-valuation-gap-widens/69965929",
-          "published_at": "2026-08-18T17:26:28"
-        }
-      ]
-    },
-    {
-      "event_id": 225,
-      "title": "Analog Devices Inc Stock (ADI) Moved Down by 4.55% on Aug 18: Facts Behind the Movement",
-      "summary": "Analog Devices Inc (ADI) stock fell by 4.55% on August 18 due to broader semiconductor sector weakness and macroeconomic headwinds, including rising Treasury yields and pre-earnings caution. Despite analysts maintaining a constructive long-term outlook, short-term market sentiment was driven by volatility and profit-taking. Technical indicators showed mixed signals, with a neutral MACD and RSI but an overbought Williams %R.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-08-18T17:15:59",
-      "first_seen_at": "2026-08-18T19:00:03.930041",
-      "assets": [
-        {
-          "symbol": "ADI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.440705,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.607072,
-          "sentiment_score": -0.245313,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.604729,
-          "sentiment_score": -0.201273,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947126
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928248
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.843227
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.814623
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 241,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Analog Devices Inc Stock (ADI) Moved Down by 4.55% on Aug 18: Facts Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262115670-market-movers-adi-20260818",
-          "published_at": "2026-08-18T17:15:59"
-        }
-      ]
-    },
-    {
-      "event_id": 226,
-      "title": "Equinor acquires stake in Chevron Namibia exploration license (EQNR:NYSE)",
-      "summary": "Equinor has announced its acquisition of a 17.4% stake in petroleum exploration license PEL 90 located in the Orange Basin offshore Namibia from Chevron. The financial terms of the agreement were not disclosed. This transaction signifies Equinor's entry into the Namibian oil and gas exploration sector.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-08-18T17:11:04",
-      "first_seen_at": "2026-08-18T19:00:04.181294",
-      "assets": [
-        {
-          "symbol": "EQNR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.362223,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.817726,
-          "sentiment_score": 0.177258,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.925355
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.836924
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 242,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Equinor acquires stake in Chevron Namibia exploration license (EQNR:NYSE)",
-          "url": "https://seekingalpha.com/news/4634434-equinor-acquires-stake-in-chevron-namibia-exploration-license",
-          "published_at": "2026-08-18T17:11:04"
         }
       ]
     }
