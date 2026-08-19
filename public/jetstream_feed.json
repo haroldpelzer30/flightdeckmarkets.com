@@ -5,6 +5,191 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 256,
+      "title": "Strong ONEOK stock trades near a new 52-week high as guidance and demand support the rally",
+      "summary": "ONEOK Inc. (OKE) stock is trading near its 52-week high in mid-August 2026, driven by strong Q2 2026 earnings, increased full-year guidance, and growing demand for natural gas from AI data centers. The company reported a 13% increase in net income and a 7% rise in adjusted EBITDA in Q2, leading to an upward revision of its 2026 outlook. Analysts have reacted positively, with some raising price targets, as the stock has significantly outperformed the market year-to-date with a gain of over 30%.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T14:33:23",
+      "first_seen_at": "2026-08-19T16:00:02.993700",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 0.951648,
+          "sentiment_score": 0.77225,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.918019
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900794
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.820409
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.632203
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 272,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Strong ONEOK stock trades near a new 52-week high as guidance and demand support the rally",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/strong-oneok-stock-trades-near-a-new-52-week-high-as-guidance-and-demand/69970894",
+          "published_at": "2026-08-19T14:33:23"
+        }
+      ]
+    },
+    {
+      "event_id": 257,
+      "title": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation",
+      "summary": "Morgan Stanley has downgraded Diamondback Energy (NASDAQ:FANG) from Overweight to Equalweight, setting a price target of $216.00, citing valuation concerns despite the company being a premier U.S. shale operator. Analyst Devin McDermott noted that the stock's valuation is in-line with peers but offers less free cash flow growth, with spending expected to rise in 2027. This downgrade comes even as Diamondback Energy recently reported strong Q2 2026 results and has seen a 42% gain year-to-date, trading near its 52-week high.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-19T14:27:08",
+      "first_seen_at": "2026-08-19T16:00:03.263632",
+      "assets": [
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.441174,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.8373,
+          "sentiment_score": -0.127597,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.644781,
+          "sentiment_score": -0.115636,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.614304,
+          "sentiment_score": -0.114338,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.613193,
+          "sentiment_score": -0.126597,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.9438
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.935724
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.824936
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.706792
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 273,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation",
+          "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-diamondback-energy-stock-rating-on-valuation-93CH-4867730",
+          "published_at": "2026-08-19T14:27:08"
+        }
+      ]
+    },
+    {
+      "event_id": 258,
+      "title": "Tariff refunds of nearly $1B help Target beat Street in strong Q2",
+      "summary": "Target (TGT) reported strong second-quarter results, driven by nearly $1 billion in tariff refunds and the continued success of its turnaround program. The company's net earnings doubled and adjusted EPS significantly beat Wall Street estimates. Target also raised its full-year guidance, reflecting confidence in its strategic initiatives and continued growth in sales.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-19T14:04:55",
+      "first_seen_at": "2026-08-19T16:00:03.546053",
+      "assets": [
+        {
+          "symbol": "TGT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.870869,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933362
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.812037
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.649483
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.602901
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 274,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Chain Store Age",
+          "source_domain": "Chain Store Age",
+          "headline": "Tariff refunds of nearly $1B help Target beat Street in strong Q2",
+          "url": "https://chainstoreage.com/tariff-refunds-nearly-1b-help-target-beat-street-strong-q2",
+          "published_at": "2026-08-19T14:04:55"
+        }
+      ]
+    },
+    {
       "event_id": 253,
       "title": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation By Investing.com",
       "summary": "Morgan Stanley downgraded Diamondback Energy (NASDAQ:FANG) from Overweight to Equalweight due to valuation concerns, setting a price target of $216.00. Analyst Devin McDermott noted that the company's valuation is in line with peers despite offering less free cash flow growth and that future capital spending on the Barnett play may increase in 2027. Despite the downgrade, Diamondback Energy has seen a 42% year-to-date gain and recently reported strong Q2 2026 results, surpassing analyst expectations.",
@@ -844,151 +1029,6 @@
           "headline": "Targa Resources inks ExxonMobil deals, plans new Permian Basin projects",
           "url": "https://www.bizjournals.com/houston/news/2026/08/18/targa-resources-exxonmobil-agreements-permian.html",
           "published_at": "2026-08-18T21:16:25"
-        }
-      ]
-    },
-    {
-      "event_id": 237,
-      "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
-      "summary": "Mizuho Financial Group Inc. anticipates the Bank of Japan will accelerate its interest rate hikes, with the next increase potentially occurring as early as next month. This expectation is driven by a weak yen and persistent inflation, pushing the central bank to act more decisively. Additionally, Mizuho's co-head of global markets, Kenya Koshimizu, foresees continued rises in longer-term rates, following 10-year Japanese government bond yields reaching a 30-year high.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-18T21:00:00",
-      "first_seen_at": "2026-08-18T22:00:01.862669",
-      "assets": [
-        {
-          "symbol": "MFG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.310418,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.906707
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849083
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.700383
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.618882
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 253,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg",
-          "source_domain": "Bloomberg",
-          "headline": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often",
-          "published_at": "2026-08-18T21:00:00"
-        }
-      ]
-    },
-    {
-      "event_id": 238,
-      "title": "Jack Henry shares jump over 3% on earnings beat and strong guidance",
-      "summary": "Jack Henry & Associates Inc. (NASDAQ:JKHY) reported strong fourth-quarter results, surpassing analyst expectations for both adjusted EPS and revenue. The financial technology provider also issued robust fiscal year 2027 guidance that exceeded consensus estimates, leading to a 3.8% surge in its share price. The company highlighted record sales, financial results for fiscal 2026, and a significant number of competitive core wins.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-18T20:48:25",
-      "first_seen_at": "2026-08-18T22:00:02.121137",
-      "assets": [
-        {
-          "symbol": "JKHY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.456414,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.925089
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.738633
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.643856
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 254,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Jack Henry shares jump over 3% on earnings beat and strong guidance",
-          "url": "https://www.investing.com/news/earnings/jack-henry-shares-jump-over-3-on-earnings-beat-and-strong-guidance-93CH-4866091",
-          "published_at": "2026-08-18T20:48:25"
-        }
-      ]
-    },
-    {
-      "event_id": 230,
-      "title": "ONEOK stock hits fresh 52-week high as analysts lift targets",
-      "summary": "ONEOK Inc. (OKE) stock reached a new 52-week high on August 18, 2026, trading in the mid-$90s, driven by positive analyst sentiment and consistent demand for its midstream energy assets. The stock has seen a 29.7% year-to-date increase, and while the average analyst price target is around $91.94, some targets have been raised to $105.00, maintaining a consensus \"Moderate Buy\" rating. The company's strong performance is attributed to its stable, fee-based cash flows from natural gas and natural gas liquids infrastructure, making it an attractive income and infrastructure holding.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-18T20:09:00",
-      "first_seen_at": "2026-08-18T21:00:02.179303",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.804274,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946315
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.712305
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 246,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "ONEOK stock hits fresh 52-week high as analysts lift targets",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-hits-fresh-52-week-high-as-analysts-lift-targets/69966119",
-          "published_at": "2026-08-18T20:09:00"
         }
       ]
     }
