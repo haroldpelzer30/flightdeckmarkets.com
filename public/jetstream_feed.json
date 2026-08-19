@@ -5,6 +5,175 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 253,
+      "title": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation By Investing.com",
+      "summary": "Morgan Stanley downgraded Diamondback Energy (NASDAQ:FANG) from Overweight to Equalweight due to valuation concerns, setting a price target of $216.00. Analyst Devin McDermott noted that the company's valuation is in line with peers despite offering less free cash flow growth and that future capital spending on the Barnett play may increase in 2027. Despite the downgrade, Diamondback Energy has seen a 42% year-to-date gain and recently reported strong Q2 2026 results, surpassing analyst expectations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-19T14:02:00",
+      "first_seen_at": "2026-08-19T15:00:02.105068",
+      "assets": [
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.967572,
+          "sentiment_score": -0.340119,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.623409,
+          "sentiment_score": 0.122273,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940248
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.911329
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.810416
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713986
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 269,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/morgan-stanley-downgrades-diamondback-energy-stock-rating-on-valuation-93CH-4808386",
+          "published_at": "2026-08-19T14:02:00"
+        }
+      ]
+    },
+    {
+      "event_id": 254,
+      "title": "Why Edison International (EIX) Is Up 5.4% After Q2 Earnings Beat And Reaffirmed 2026 Guidance",
+      "summary": "Edison International (EIX) saw its stock rise 5.4% after reporting Q2 2026 earnings above analyst forecasts and reaffirming its full-year guidance of US$5.90 to US$6.20 per share. Despite these positive results and a lifted annual dividend, analysts maintain a \"Hold\" rating due to ongoing wildfire and regulatory risks in California. The company's investment narrative hinges on regulated grid investment and electrification outweighing these persistent challenges, with wildfire cost recovery clarity remaining a key short-term catalyst.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T13:37:54",
+      "first_seen_at": "2026-08-19T15:00:02.379232",
+      "assets": [
+        {
+          "symbol": "EIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.335897,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.609649,
+          "sentiment_score": 0.106772,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.915419
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832029
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.722692
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.636107
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 270,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Why Edison International (EIX) Is Up 5.4% After Q2 Earnings Beat And Reaffirmed 2026 Guidance",
+          "url": "https://simplywall.st/stocks/us/utilities/nyse-eix/edison-international/news/why-edison-international-eix-is-up-54-after-q2-earnings-beat",
+          "published_at": "2026-08-19T13:37:54"
+        }
+      ]
+    },
+    {
+      "event_id": 255,
+      "title": "Avery Dennison stock trades around $178 as strong Q2 2026 results and board changes shape the outloo",
+      "summary": "Avery Dennison's stock is trading around $178 after reporting stronger-than-expected Q2 2026 earnings of $2.89 per share on $2.5 billion in revenue, beating analyst forecasts. The company also announced leadership changes, including William Wagner as the new board chair, which, combined with solid cash generation, has contributed to a positive market reaction. Despite the strong performance, the stock remains below the consensus analyst price target of $201.22, suggesting potential for further upside.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-19T13:26:00",
+      "first_seen_at": "2026-08-19T15:00:02.715852",
+      "assets": [
+        {
+          "symbol": "AVY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.517066,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.905646
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.748854
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.632567
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 271,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Avery Dennison stock trades around $178 as strong Q2 2026 results and board changes shape the outloo",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/avery-dennison-stock-trades-around-178-as-strong-q2-2026-results-and/69970447",
+          "published_at": "2026-08-19T13:26:00"
+        }
+      ]
+    },
+    {
       "event_id": 249,
       "title": "Target boosts 2026 outlook after Q2 sales and earnings beat",
       "summary": "Target (NYSE:TGT) has increased its full-year 2026 outlook following better-than-expected second-quarter results, with sales up 5.3% to $26.54 billion and adjusted EPS of $4.11, exceeding analyst estimates. The company saw strong growth across all merchandise categories, driven by digital sales and same-day delivery, and has raised its net sales growth and operating income margin rate projections for the full year. Target also increased its full-year GAAP and adjusted EPS guidance, largely due to tariff refund benefits.",
@@ -820,191 +989,6 @@
           "headline": "ONEOK stock hits fresh 52-week high as analysts lift targets",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-hits-fresh-52-week-high-as-analysts-lift-targets/69966119",
           "published_at": "2026-08-18T20:09:00"
-        }
-      ]
-    },
-    {
-      "event_id": 231,
-      "title": "NRG Energy Slides 5.2% as Texas Pricing Weighs; Analysts See 68.6% Upside",
-      "summary": "NRG Energy's stock fell 5.2% to $115.96 due to concerns about Texas electricity pricing, mild weather, and increased supply costs, which led to a 25.6% decline in Texas adjusted EBITDA. Despite this, eleven analysts maintain an average price target of $195.55, suggesting a 68.6% upside, highlighting a significant gap between market performance and analyst expectations. The company is pursuing strategies like customer-backed agreements for data center facilities to mitigate risks and capitalize on flexible assets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-18T20:06:55",
-      "first_seen_at": "2026-08-18T21:00:02.482617",
-      "assets": [
-        {
-          "symbol": "NRG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.341772,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.702329,
-          "sentiment_score": -0.229257,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.600704,
-          "sentiment_score": 0.11259,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.920926
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909972
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80608
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.624799
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 247,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechStock²",
-          "source_domain": "TechStock²",
-          "headline": "NRG Energy Slides 5.2% as Texas Pricing Weighs; Analysts See 68.6% Upside",
-          "url": "https://ts2.tech/en/nrg-energy-stock-falls-5-2-texas-price-pressure-meets-68-6-analyst-upside/",
-          "published_at": "2026-08-18T20:06:55"
-        }
-      ]
-    },
-    {
-      "event_id": 232,
-      "title": "MGM Resorts stock holds steady after Q2 2026 earnings beat",
-      "summary": "MGM Resorts International's stock is holding steady in the low-$40s range after the company reported Q2 2026 results that surpassed revenue and EPS expectations. The company highlighted strong demand from its Las Vegas properties and its philanthropic efforts. Despite the earnings beat, the stock experienced a modest post-earnings pullback, suggesting investors may be evaluating medium-term growth prospects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-18T19:31:00",
-      "first_seen_at": "2026-08-18T21:00:02.796493",
-      "assets": [
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.310339,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LVS",
-          "asset_class": null,
-          "relevance_score": 0.639368,
-          "sentiment_score": 0.220236,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WYNN",
-          "asset_class": null,
-          "relevance_score": 0.607021,
-          "sentiment_score": 0.213995,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949498
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.824682
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.611294
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.603948
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 248,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "MGM Resorts stock holds steady after Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mgm-resorts-stock-holds-steady-after-q2-2026-earnings-beat/69965951",
-          "published_at": "2026-08-18T19:31:00"
-        }
-      ]
-    },
-    {
-      "event_id": 233,
-      "title": "Bank of America Says $5,000 Gold Is Within Reach",
-      "summary": "Bank of America projects that gold could reach $5,000 an ounce, despite its current trading price of around $4,358. This optimistic outlook is fueled by softer U.S. economic data, a weaker dollar, and anticipated reduced tightening by the Federal Reserve, alongside strong central bank demand. The next challenge for gold's upward trajectory will be sustained investor interest through dropping rates and increased ETF demand.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-18T19:24:17",
-      "first_seen_at": "2026-08-18T21:00:03.085863",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.99238,
-          "sentiment_score": 0.343191,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.909809
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.837794
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.713054
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.641711
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 249,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "Bank of America Says $5,000 Gold Is Within Reach",
-          "url": "https://www.tradingview.com/news/gurufocus:73cc8c364094b:0-bank-of-america-says-5-000-gold-is-within-reach/",
-          "published_at": "2026-08-18T19:24:17"
         }
       ]
     }
