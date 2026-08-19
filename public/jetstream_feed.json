@@ -5,6 +5,143 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 265,
+      "title": "Aurora Cannabis acquires UK pharma firms for £2.1 million",
+      "summary": "Aurora Cannabis Inc. has acquired Internode Pharma Limited and HAP Pharma Limited, two UK-based pharmaceutical firms, for £2.1 million in cash. This acquisition provides Aurora with direct control over the medical cannabis supply chain in the UK, including a licensed import and distribution facility and a virtual pharmacy. The transaction is expected to enhance Aurora's adjusted EBITDA through operational efficiencies and reduced reliance on third-party distributors.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-19T18:00:27",
+      "first_seen_at": "2026-08-19T19:00:01.751956",
+      "assets": [
+        {
+          "symbol": "ACB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.325857,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.925036
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.824015
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 281,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Aurora Cannabis acquires UK pharma firms for £2.1 million",
+          "url": "https://www.investing.com/news/company-news/aurora-cannabis-acquires-uk-pharma-firms-for-21-million-93CH-4868008",
+          "published_at": "2026-08-19T18:00:27"
+        }
+      ]
+    },
+    {
+      "event_id": 266,
+      "title": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market",
+      "summary": "Aurora Cannabis has acquired Internode Pharma Limited and HAP Pharma Limited to expand its presence and distribution capabilities in the rapidly growing UK medical cannabis market. This strategic acquisition is expected to streamline the supply chain, enhance operational efficiencies, and contribute to Aurora's adjusted EBITDA in future quarters. The move is aimed at strengthening Aurora's leadership in the international medical cannabis sector and improving product supply to UK patients.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T17:45:27",
+      "first_seen_at": "2026-08-19T19:00:01.959911",
+      "assets": [
+        {
+          "symbol": "ACB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.486119,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.800183
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.637007
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 282,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market",
+          "url": "https://finance.yahoo.com/healthcare/articles/aurora-cannabis-furthers-global-medical-174500141.html",
+          "published_at": "2026-08-19T17:45:27"
+        }
+      ]
+    },
+    {
+      "event_id": 267,
+      "title": "Resilient Occidental Petroleum stock holds near $60 as fresh earnings beat and analyst targets suppo",
+      "summary": "Occidental Petroleum's stock is holding near $60 following a strong earnings beat and supportive analyst targets. The company reported EPS of $2.40 against an estimate of $1.83, with revenue rising 53.4% year-over-year. Analysts maintain a \"Hold\" consensus with an average target price of $64.83, indicating modest upside potential.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-08-19T17:26:59",
+      "first_seen_at": "2026-08-19T19:00:02.245817",
+      "assets": [
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.410079,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933923
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.901301
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84752
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 283,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient Occidental Petroleum stock holds near $60 as fresh earnings beat and analyst targets suppo",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-occidental-petroleum-stock-holds-near-60-as-fresh-earnings-beat/69971979",
+          "published_at": "2026-08-19T17:26:59"
+        }
+      ]
+    },
+    {
       "event_id": 261,
       "title": "Waters stock slips after earnings beat and guidance holds",
       "summary": "Waters Corp (WAT) stock experienced a slight dip despite beating earnings expectations for the latest quarter, reporting $1.65 billion in revenue and $3.05 EPS against an expected $1.62 billion and $3.01 respectively. The company also issued Q3 and FY 2026 EPS guidance, which, while competitive, did not prevent the stock from trading lower. The market's focus remains on whether Waters can sustain growth and improve its narrow profitability margins, especially given its high P/E ratio.",
@@ -884,159 +1021,6 @@
           "headline": "Target (NYSE: TGT) nearly doubles Q2 EPS as tariff refunds hit",
           "url": "https://www.stocktitan.net/sec-filings/TGT/8-k-target-corp-reports-material-event-d12ca38849de.html",
           "published_at": "2026-08-19T11:51:23"
-        }
-      ]
-    },
-    {
-      "event_id": 247,
-      "title": "Oxbow Advisors LLC Acquires Shares of 16,911 IDEX Corporation $IEX",
-      "summary": "Oxbow Advisors LLC recently acquired 16,911 shares of IDEX Corporation (NYSE:IEX), valued at approximately $3.84 million, contributing to institutional investors owning 97.96% of the company. IDEX maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $260.80, and reported strong Q2 earnings and revenue, alongside a quarterly dividend of $0.73 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T11:28:19",
-      "first_seen_at": "2026-08-19T13:00:03.226184",
-      "assets": [
-        {
-          "symbol": "IEX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.713224,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912137
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.825182
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.722413
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.718768
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 263,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Oxbow Advisors LLC Acquires Shares of 16,911 IDEX Corporation $IEX",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-oxbow-advisors-llc-acquires-shares-of-16911-idex-corporation-iex-2026-08-19/",
-          "published_at": "2026-08-19T11:28:19"
-        }
-      ]
-    },
-    {
-      "event_id": 248,
-      "title": "Teledyne Technologies stock holds near $666 after Varex deal",
-      "summary": "Teledyne Technologies stock is trading near $666.39 following its $1.1 billion all-cash acquisition of Varex Imaging. The deal expands Teledyne's medical imaging footprint and comes after a strong July 22 quarter where revenue and EPS beat expectations. Analysts have a \"Moderate Buy\" rating with a consensus price target of $721.67.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-19T11:28:00",
-      "first_seen_at": "2026-08-19T13:00:03.486364",
-      "assets": [
-        {
-          "symbol": "TDY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.284147,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92206
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.91386
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839729
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.610087
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 264,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Teledyne Technologies stock holds near $666 after Varex deal",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/teledyne-technologies-stock-holds-near-666-after-varex-deal/69969728",
-          "published_at": "2026-08-19T11:28:00"
-        }
-      ]
-    },
-    {
-      "event_id": 242,
-      "title": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
-      "summary": "Palmer Knight Co. recently acquired 39,810 shares of AMETEK, Inc. (NYSE: AME) valued at approximately $9.6 million, making it their ninth-largest holding. Institutional investors collectively own a significant portion of AMETEK stock, which maintains a \"Moderate Buy\" consensus rating from analysts. The company reported strong quarterly earnings, beating expectations, and declared a quarterly dividend of $0.34 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-19T11:00:05",
-      "first_seen_at": "2026-08-19T12:00:02.936204",
-      "assets": [
-        {
-          "symbol": "AME",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.302796,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914185
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843442
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.737613
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.643362
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 258,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-palmer-knight-co-acquires-shares-of-39810-ametek-inc-ame-2026-08-19/",
-          "published_at": "2026-08-19T11:00:05"
         }
       ]
     }
