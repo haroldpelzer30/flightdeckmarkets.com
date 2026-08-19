@@ -5,6 +5,202 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 242,
+      "title": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
+      "summary": "Palmer Knight Co. recently acquired 39,810 shares of AMETEK, Inc. (NYSE: AME) valued at approximately $9.6 million, making it their ninth-largest holding. Institutional investors collectively own a significant portion of AMETEK stock, which maintains a \"Moderate Buy\" consensus rating from analysts. The company reported strong quarterly earnings, beating expectations, and declared a quarterly dividend of $0.34 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-19T11:00:05",
+      "first_seen_at": "2026-08-19T12:00:02.936204",
+      "assets": [
+        {
+          "symbol": "AME",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.302796,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914185
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843442
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.737613
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.643362
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 258,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Palmer Knight Co Acquires Shares of 39,810 AMETEK, Inc. $AME",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-palmer-knight-co-acquires-shares-of-39810-ametek-inc-ame-2026-08-19/",
+          "published_at": "2026-08-19T11:00:05"
+        }
+      ]
+    },
+    {
+      "event_id": 243,
+      "title": "Oxbow Advisors LLC Acquires Shares of 19,733 Ventas, Inc. $VTR",
+      "summary": "Oxbow Advisors LLC has acquired 19,733 shares of Ventas, Inc. (NYSE:VTR) in the second quarter, valued at approximately $1.75 million. This investment comes as institutional investors collectively own a significant 94.18% of Ventas stock, and analysts maintain a \"Moderate Buy\" rating with an average price target of $98. Ventas recently surpassed quarterly expectations, reporting $0.97 earnings per share and $1.73 billion in revenue, marking a 21.7% year-over-year increase.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T10:59:49",
+      "first_seen_at": "2026-08-19T12:00:03.229658",
+      "assets": [
+        {
+          "symbol": "VTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.449914,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.911264
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909136
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820473
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.726031
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.62338
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 259,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Oxbow Advisors LLC Acquires Shares of 19,733 Ventas, Inc. $VTR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-oxbow-advisors-llc-acquires-shares-of-19733-ventas-inc-vtr-2026-08-19/",
+          "published_at": "2026-08-19T10:59:49"
+        }
+      ]
+    },
+    {
+      "event_id": 244,
+      "title": "Gov. Mills calls the proposed NextEra, Dominion merger a ‘bad deal for Maine’",
+      "summary": "Governor Janet Mills has publicly opposed the proposed merger between NextEra Energy and Dominion Energy, labeling it a \"bad deal for Maine.\" She argues that the merger would consolidate too many energy assets under one company, thereby limiting competition and potentially leading to higher electricity costs for Maine residents. U.S. Senator Angus King also recommends rejecting the merger, citing NextEra's past anti-competitive behavior in New England.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-19T10:53:33",
+      "first_seen_at": "2026-08-19T12:00:03.524800",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.335263,
+          "sentiment_score": 0.030815,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.914073
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.707688
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 260,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WGME",
+          "source_domain": "WGME",
+          "headline": "Gov. Mills calls the proposed NextEra, Dominion merger a ‘bad deal for Maine’",
+          "url": "https://wgme.com/news/local/gov-mills-calls-the-proposed-nextera-dominion-merger-a-bad-deal-for-maine",
+          "published_at": "2026-08-19T10:53:33"
+        }
+      ]
+    },
+    {
+      "event_id": 245,
+      "title": "Fortinet eyes AI security gains with Virtue AI acquisition",
+      "summary": "Fortinet has acquired Virtue AI, an AI security specialist, to enhance its existing Security for AI portfolio with AI runtime protection and automated validation capabilities. This acquisition aims to strengthen Fortinet's ability to protect AI models and applications across their lifecycle, addressing the expanding attack surface as organizations increasingly deploy AI. The deal comes as the market for securing AI ecosystems is projected to grow significantly, with financial terms remaining undisclosed but deemed \"immaterial\" to Fortinet's business.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T10:37:58",
+      "first_seen_at": "2026-08-19T12:00:03.775483",
+      "assets": [
+        {
+          "symbol": "FTNT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.497845,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.948186
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 261,
+          "provider": "ALPHA_VANTAGE",
+          "source": "IT Pro",
+          "source_domain": "IT Pro",
+          "headline": "Fortinet eyes AI security gains with Virtue AI acquisition",
+          "url": "https://www.itpro.com/business/acquisition/fortinet-eyes-ai-security-gains-with-virtue-ai-acquisition",
+          "published_at": "2026-08-19T10:37:58"
+        }
+      ]
+    },
+    {
       "event_id": 241,
       "title": "Profusa (PFSA) Slides 18% As Acquisition Plan Rattles Traders",
       "summary": "Profusa Inc. (PFSA) shares dropped 18% after the company announced a non-binding term sheet to acquire a privately held diagnostics and toxicology testing business. This move has raised concerns among traders about potential dilution or new debt due to PFSA's weak balance sheet. Despite the sell-off, the stock remains a high-volatility trading vehicle, attracting momentum traders.",
@@ -845,259 +1041,6 @@
           "headline": "Equinor acquires stake in Chevron Namibia exploration license (EQNR:NYSE)",
           "url": "https://seekingalpha.com/news/4634434-equinor-acquires-stake-in-chevron-namibia-exploration-license",
           "published_at": "2026-08-18T17:11:04"
-        }
-      ]
-    },
-    {
-      "event_id": 221,
-      "title": "KLA Corp Stock (KLAC) Moved Down by 5.69% on Aug 18: Drivers Behind the Movement",
-      "summary": "KLA Corp (KLAC) shares dropped by 5.69% on August 18, primarily due to broader macroeconomic pressures like rising bond yields, sector-wide profit-taking in the semiconductor equipment industry, and institutional rebalancing. While technical indicators show neutral MACD and RSI, the Williams %R suggests a buy condition. The company's fundamental performance includes $13.58B in annual revenue and $4.83B in net profit, but it faces risks such as gross margin compression, China revenue concentration, and insider stock sales.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-18T16:21:30",
-      "first_seen_at": "2026-08-18T18:00:01.743789",
-      "assets": [
-        {
-          "symbol": "ANET",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.426403,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.344313,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.629398,
-          "sentiment_score": -0.409117,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.611726,
-          "sentiment_score": -0.235488,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940828
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.837507
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.81668
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.739389
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 237,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Arista Networks Inc Stock (ANET) Moved Down by 5.06% on Aug 18: What Investors Need To Know",
-          "url": "https://www.tradingkey.com/news/market-movers/262115614-market-movers-anet-20260818",
-          "published_at": "2026-08-18T16:21:12"
-        },
-        {
-          "article_id": 236,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "KLA Corp Stock (KLAC) Moved Down by 5.69% on Aug 18: Drivers Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262115613-market-movers-klac-20260818",
-          "published_at": "2026-08-18T16:21:30"
-        }
-      ]
-    },
-    {
-      "event_id": 222,
-      "title": "Textron stock holds steady as aircraft milestone and Q2 beat support outlook",
-      "summary": "Textron stock is holding steady despite market fluctuations, supported by a strong Q2 earnings beat and the significant milestone of delivering the 500th Cessna Citation CJ4-series business jet. The company reported EPS of $1.62 and revenue of $3.83 billion, both exceeding expectations, and its stock is considered modestly discounted by analysts with a potential upside of 16.8%. The successful aircraft delivery highlights sustained demand and operational momentum in its aviation segment.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-18T16:15:00",
-      "first_seen_at": "2026-08-18T18:00:02.128537",
-      "assets": [
-        {
-          "symbol": "TXT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.536559,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.902077
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.720169
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.613801
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 238,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Textron stock holds steady as aircraft milestone and Q2 beat support outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/textron-stock-holds-steady-as-aircraft-milestone-and-q2-beat-support/69965596",
-          "published_at": "2026-08-18T16:15:00"
-        }
-      ]
-    },
-    {
-      "event_id": 214,
-      "title": "AvalonBay, Equity Residential Complete Historic Merger",
-      "summary": "AvalonBay Communities and Equity Residential have officially completed their merger of equals, forming Vivmark Residential, the largest apartment real estate investment trust in the U.S. The new company boasts an equity market capitalization of $51 billion, an enterprise value of approximately $70 billion, and a portfolio of over 184,000 units. Vivmark Residential aims to redefine the rental housing industry through its scale, technological integration, and a $4.2 billion development pipeline, expecting $125 million in savings within 18 months.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-18T15:59:52",
-      "first_seen_at": "2026-08-18T17:00:02.381975",
-      "assets": [
-        {
-          "symbol": "EQR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.499419,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AVB",
-          "asset_class": null,
-          "relevance_score": 0.922436,
-          "sentiment_score": 0.49444,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.921836
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.641585
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 229,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Real Deal",
-          "source_domain": "The Real Deal",
-          "headline": "AvalonBay, Equity Residential Complete Historic Merger",
-          "url": "https://therealdeal.com/national/2026/08/18/avalonbay-equity-residential-complete-historic-merger/",
-          "published_at": "2026-08-18T15:59:52"
-        }
-      ]
-    },
-    {
-      "event_id": 215,
-      "title": "Southwest Airlines stock edges lower as investors weigh safety headlines and valuation",
-      "summary": "Southwest Airlines (LUV) stock edged lower as investors considered recent safety incidents, including a bomb threat and tire damage issues, alongside its valuation. Despite a consensus \"Hold\" rating and a target price implying potential upside, the airline faces scrutiny over operational reliability and competitive pressures. The article highlights the tension between the stock's valuation support and investor caution due to these incidents and ongoing regulatory attention.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-08-18T15:51:40",
-      "first_seen_at": "2026-08-18T17:00:02.653705",
-      "assets": [
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.214653,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.632256,
-          "sentiment_score": 0.00782,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.937787
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.915041
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.83084
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.714607
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637477
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 230,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Southwest Airlines stock edges lower as investors weigh safety headlines and valuation",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-edges-lower-as-investors-weigh-safety-headlines/69965478",
-          "published_at": "2026-08-18T15:51:40"
         }
       ]
     }
