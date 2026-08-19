@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 276,
+      "title": "Newmont stock jumps as Nevada gold project sale and strong cash flows highlight miner leverage",
+      "summary": "Newmont's stock saw a significant jump on August 19, 2026, driven by the sale of its Northumberland gold project in Nevada and robust financial metrics. The company reported strong production of 1.3 million ounces and free cash flow of $2.2 billion for the quarter, benefiting from high gold prices. Analysts maintain a positive outlook, suggesting further gains are possible given solid execution and stable bullion prices.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T20:12:00",
+      "first_seen_at": "2026-08-19T21:00:02.137002",
+      "assets": [
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.410701,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930879
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913362
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.808323
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 292,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Newmont stock jumps as Nevada gold project sale and strong cash flows highlight miner leverage",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/newmont-stock-jumps-as-nevada-gold-project-sale-and-strong-cash-flows/69972216",
+          "published_at": "2026-08-19T20:12:00"
+        }
+      ]
+    },
+    {
+      "event_id": 277,
+      "title": "Xcel Energy stock holds steady as institutional buying supports outlook",
+      "summary": "Xcel Energy stock is trading in the high-$70s, supported by fresh institutional buying and a consensus analyst price target in the low-$90s. The company, a regulated utility, attracts large-scale capital due to its stable earnings, long-term capital plans, and dividend potential. Analysts view Xcel Energy as a stability-oriented holding, with its regulated structure and electricity demand trends driving its valuation narrative for the second half of 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-19T20:00:00",
+      "first_seen_at": "2026-08-19T21:00:02.399560",
+      "assets": [
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.436989,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.927571
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.926349
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.840524
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 293,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Xcel Energy stock holds steady as institutional buying supports outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-holds-steady-as-institutional-buying-supports-outlook/69972828",
+          "published_at": "2026-08-19T20:00:00"
+        }
+      ]
+    },
+    {
+      "event_id": 278,
+      "title": "Ford Stock Rises As Analysts Hike Targets After Strong Q2",
+      "summary": "Ford Motor Company (F) stock rose 3.45% after analysts hiked price targets following a strong Q2 earnings report that exceeded expectations. The company also raised its full-year core profit outlook and medium-term guidance, signaling improving fundamentals and a clearer path to EV profitability despite projected losses in its Model e unit. Ford's strategic moves include a U.S. Army contract, a JV with Geely, and plans for an affordable midsize electric truck, diversifying its business beyond traditional auto manufacturing.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-19T19:04:01",
+      "first_seen_at": "2026-08-19T21:00:02.634381",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.468392,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 0.592435,
+          "sentiment_score": 0.203081,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.587785,
+          "sentiment_score": 0.136194,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902576
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.846823
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.74404
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.635842
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 294,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "Ford Stock Rises As Analysts Hike Targets After Strong Q2",
+          "url": "https://stockstotrade.com/news/ford-motor-company-f-news-2026_08_19/",
+          "published_at": "2026-08-19T19:04:01"
+        }
+      ]
+    },
+    {
       "event_id": 269,
       "title": "Dover stock holds above $200 as Q2 2026 earnings and new acquisition shape outlook",
       "summary": "Dover Corp. stock is trading above $200 after reporting solid Q2 2026 results, with revenue of $2.19 billion and earnings per share of $2.74, slightly exceeding expectations. The company also announced the acquisition of India-based Leistung Engineering to expand its international footprint. Analysts have set price targets suggesting a significant upside, indicating confidence in Dover's operational and earnings plans despite some recent stock price consolidation.",
@@ -916,175 +1081,6 @@
           "headline": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation",
           "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-diamondback-energy-stock-rating-on-valuation-93CH-4867730",
           "published_at": "2026-08-19T14:27:08"
-        }
-      ]
-    },
-    {
-      "event_id": 258,
-      "title": "Tariff refunds of nearly $1B help Target beat Street in strong Q2",
-      "summary": "Target (TGT) reported strong second-quarter results, driven by nearly $1 billion in tariff refunds and the continued success of its turnaround program. The company's net earnings doubled and adjusted EPS significantly beat Wall Street estimates. Target also raised its full-year guidance, reflecting confidence in its strategic initiatives and continued growth in sales.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-19T14:04:55",
-      "first_seen_at": "2026-08-19T16:00:03.546053",
-      "assets": [
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.870869,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.933362
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.812037
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.649483
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.602901
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 274,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Chain Store Age",
-          "source_domain": "Chain Store Age",
-          "headline": "Tariff refunds of nearly $1B help Target beat Street in strong Q2",
-          "url": "https://chainstoreage.com/tariff-refunds-nearly-1b-help-target-beat-street-strong-q2",
-          "published_at": "2026-08-19T14:04:55"
-        }
-      ]
-    },
-    {
-      "event_id": 253,
-      "title": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation By Investing.com",
-      "summary": "Morgan Stanley downgraded Diamondback Energy (NASDAQ:FANG) from Overweight to Equalweight due to valuation concerns, setting a price target of $216.00. Analyst Devin McDermott noted that the company's valuation is in line with peers despite offering less free cash flow growth and that future capital spending on the Barnett play may increase in 2027. Despite the downgrade, Diamondback Energy has seen a 42% year-to-date gain and recently reported strong Q2 2026 results, surpassing analyst expectations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-19T14:02:00",
-      "first_seen_at": "2026-08-19T15:00:02.105068",
-      "assets": [
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.967572,
-          "sentiment_score": -0.340119,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.623409,
-          "sentiment_score": 0.122273,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940248
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.911329
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.810416
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.713986
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 269,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Morgan Stanley downgrades Diamondback Energy stock rating on valuation By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/morgan-stanley-downgrades-diamondback-energy-stock-rating-on-valuation-93CH-4808386",
-          "published_at": "2026-08-19T14:02:00"
-        }
-      ]
-    },
-    {
-      "event_id": 254,
-      "title": "Why Edison International (EIX) Is Up 5.4% After Q2 Earnings Beat And Reaffirmed 2026 Guidance",
-      "summary": "Edison International (EIX) saw its stock rise 5.4% after reporting Q2 2026 earnings above analyst forecasts and reaffirming its full-year guidance of US$5.90 to US$6.20 per share. Despite these positive results and a lifted annual dividend, analysts maintain a \"Hold\" rating due to ongoing wildfire and regulatory risks in California. The company's investment narrative hinges on regulated grid investment and electrification outweighing these persistent challenges, with wildfire cost recovery clarity remaining a key short-term catalyst.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T13:37:54",
-      "first_seen_at": "2026-08-19T15:00:02.379232",
-      "assets": [
-        {
-          "symbol": "EIX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.335897,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.609649,
-          "sentiment_score": 0.106772,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.915419
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832029
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.722692
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.636107
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 270,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Why Edison International (EIX) Is Up 5.4% After Q2 Earnings Beat And Reaffirmed 2026 Guidance",
-          "url": "https://simplywall.st/stocks/us/utilities/nyse-eix/edison-international/news/why-edison-international-eix-is-up-54-after-q2-earnings-beat",
-          "published_at": "2026-08-19T13:37:54"
         }
       ]
     }
