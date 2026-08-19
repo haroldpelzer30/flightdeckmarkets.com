@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 281,
+      "title": "How a proposed merger between energy giants could impact Maine electricity bills",
+      "summary": "Maine Governor Janet Mills, along with four other New England governors, is opposing a proposed merger between NextEra Energy and Dominion Energy. They are concerned the deal, which would give NextEra control over all nuclear power production in New England, could reduce competition and lead to higher electricity costs for consumers in the region. Governor Mills specifically cited NextEra's past efforts to suppress competition in Maine.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 72,
+      "published_at": "2026-08-19T21:34:39",
+      "first_seen_at": "2026-08-19T23:00:02.198847",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.964633,
+          "sentiment_score": -0.34107,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928462
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.603256
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 297,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WMTW",
+          "source_domain": "WMTW",
+          "headline": "How a proposed merger between energy giants could impact Maine electricity bills",
+          "url": "https://www.wmtw.com/article/how-a-proposed-merger-between-energy-giants-could-impact-maine-electricity-bills/73477958",
+          "published_at": "2026-08-19T21:34:39"
+        }
+      ]
+    },
+    {
       "event_id": 279,
       "title": "Dollar General stock holds above $123 after earnings beat",
       "summary": "Dollar General stock is trading at $123.26 after reporting Q2 2026 earnings per share of $2.00, beating consensus estimates, and providing FY2026 EPS guidance of $7.20 to $7.45. The company's stock is currently trading above its 50-day average but below its 200-day average, with its core business focused on everyday consumables. Analysts have an average price target of $130.42, indicating potential upside based on the company's ability to meet its guidance.",
@@ -994,53 +1041,6 @@
           "headline": "Goldman Sachs reiterates Progressive stock rating on July earnings beat",
           "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-progressive-stock-rating-on-july-earnings-beat-93CH-4867816",
           "published_at": "2026-08-19T15:22:17"
-        }
-      ]
-    },
-    {
-      "event_id": 260,
-      "title": "Citi Turns Bullish on Zambia Debt as Election Heralds Upgrades",
-      "summary": "Citigroup Inc. is taking a bullish stance on Zambia's bonds following the recent election of President Hakainde Hichilema, anticipating credit upgrades for the copper-producing nation. Citi strategists recommend buying Zambia's domestic seven-year notes at an upcoming auction and are going overweight on the country's credit. This outlook suggests renewed confidence in Zambia's economic future after the political transition.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-19T15:07:17",
-      "first_seen_at": "2026-08-19T17:00:02.647712",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.492644,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.910376
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.81218
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.715812
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 276,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg.com",
-          "source_domain": "Bloomberg.com",
-          "headline": "Citi Turns Bullish on Zambia Debt as Election Heralds Upgrades",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/citi-turns-bullish-on-zambia-debt-as-election-heralds-upgrades",
-          "published_at": "2026-08-19T15:07:17"
         }
       ]
     }
