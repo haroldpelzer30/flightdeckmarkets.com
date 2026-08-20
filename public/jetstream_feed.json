@@ -5,6 +5,273 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 319,
+      "title": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
+      "summary": "Ross Stores reported strong second-quarter 2026 results with sales up 13% to $6.26 billion and EPS of $2.66, which included a $0.60 benefit from tariff refunds. The company raised its full-year 2026 EPS guidance to $8.61–$8.77 and increased its store opening plan to 115 new locations. Despite a moderate negative market reaction to the news, Ross Stores highlighted its strong performance and momentum heading into the second half of the year.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-20T20:00:52",
+      "first_seen_at": "2026-08-20T21:00:01.923016",
+      "assets": [
+        {
+          "symbol": "ROST",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.309511,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938185
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.819863
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.647531
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.616048
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 335,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
+          "url": "https://www.stocktitan.net/news/ROST/ross-stores-reports-strong-second-quarter-sales-and-earnings-hhfeyhcb2uhn.html",
+          "published_at": "2026-08-20T20:00:52"
+        }
+      ]
+    },
+    {
+      "event_id": 320,
+      "title": "Delta Is Quietly Cutting Its Las Vegas Routes To Rebuild The Hub Around Premium Flyers",
+      "summary": "Delta Air Lines has strategically cut several Las Vegas routes, including nonstop service from Sacramento and San Jose, to focus on higher-yield premium flyers. This move, driven by a 7% decline in Las Vegas tourism in early 2025 and a desire to avoid competing with budget carriers on low-margin routes, signifies Delta's pivot from a volume-based to a yield-based business model. The airline is expanding premium cabin offerings like Premium Select on transcontinental routes, aiming to attract affluent travelers and establish Las Vegas as a premium spoke in its network, ensuring higher revenue per seat despite potentially fewer overall flights.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-20T19:27:34",
+      "first_seen_at": "2026-08-20T21:00:02.177741",
+      "assets": [
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 0.955853,
+          "sentiment_score": 0.296006,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 0.66883,
+          "sentiment_score": -0.107595,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 0.635152,
+          "sentiment_score": -0.133584,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.943248
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.8458
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 336,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TheTravel",
+          "source_domain": "TheTravel",
+          "headline": "Delta Is Quietly Cutting Its Las Vegas Routes To Rebuild The Hub Around Premium Flyers",
+          "url": "https://www.thetravel.com/delta-is-quietly-cutting-its-las-vegas-routes-to-rebuild-the-hub-around-premium-flyers/",
+          "published_at": "2026-08-20T19:27:34"
+        }
+      ]
+    },
+    {
+      "event_id": 321,
+      "title": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later",
+      "summary": "Three months after the proposed $67 billion merger between NextEra Energy and Dominion Energy was announced, it is facing intense regulatory scrutiny in Virginia. Governor Abigail Spanberger, state lawmakers, experts, and numerous residents are raising concerns, particularly regarding a potential conflict of interest involving the State Corporation Commission's lead reviewer and the impact on ratepayers. The SCC is expected to decide on the merger's terms in January.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-08-20T19:22:31",
+      "first_seen_at": "2026-08-20T21:00:02.461693",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.254909,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.980343,
+          "sentiment_score": -0.200923,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.813567
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 337,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WTVR.com",
+          "source_domain": "WTVR.com",
+          "headline": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later",
+          "url": "https://www.wtvr.com/news/local-news/dominion-nextera-merger-latest-aug-20-2026",
+          "published_at": "2026-08-20T19:22:31"
+        }
+      ]
+    },
+    {
+      "event_id": 322,
+      "title": "Norfolk Southern stock holds firm as regulators restart review of Union Pacific merger",
+      "summary": "Norfolk Southern stock is trading near its consensus price target as the Surface Transportation Board resumes its review of the proposed merger with Union Pacific. This review, expected to last until at least May 2027, introduces both uncertainty and potential opportunities for investors. The company's strong fundamentals, including consistent dividends and exceeding earnings estimates, support its current valuation amidst the lengthy regulatory process.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 79,
+      "published_at": "2026-08-20T19:12:43",
+      "first_seen_at": "2026-08-20T21:00:02.722367",
+      "assets": [
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.342011,
+          "sentiment_score": 0.038814,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93096
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.930563
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.831306
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 338,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Norfolk Southern stock holds firm as regulators restart review of Union Pacific merger",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-holds-firm-as-regulators-restart-review-of-union/69977959",
+          "published_at": "2026-08-20T19:12:43"
+        }
+      ]
+    },
+    {
+      "event_id": 323,
+      "title": "Ford Stock Slips As Trade Fears And Sales Drop Rattle Traders",
+      "summary": "Ford Motor Company (F) stock slipped by 3.48% due to concerns over weakening EV demand, a 10.2% drop in July U.S. vehicle sales, and potential increased costs from USMCA revisions. The CEO also warned about impending competition from Chinese automakers in the U.S. market. Analysts suggest that while the company has strong cash flow, it faces significant challenges with negative margins and policy uncertainties, making it a battleground stock for traders.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-20T19:02:53",
+      "first_seen_at": "2026-08-20T21:00:03.046174",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.417653,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902332
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.818966
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.738914
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.606337
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.605357
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 339,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "Ford Stock Slips As Trade Fears And Sales Drop Rattle Traders",
+          "url": "https://stockstotrade.com/news/ford-motor-company-f-news-2026_08_20/",
+          "published_at": "2026-08-20T19:02:53"
+        }
+      ]
+    },
+    {
       "event_id": 313,
       "title": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
       "summary": "Sempra Inc. stock is trading in the mid-$80s as investors evaluate the company's reaffirmed earnings guidance and its recent long-term bond issuance. Analysts maintain a \"moderate buy\" rating with a consensus price target of $103.92, suggesting potential upside despite interest-rate sensitivities. The company's strategy involves matching long-lived assets with long-term funding to support grid modernization and gas infrastructure expansion, aiming for predictable earnings growth through regulated returns.",
@@ -20,19 +287,19 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.262645,
+          "sentiment_score": 0.267203,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.917749
+          "topic": "earnings",
+          "relevance_score": 0.931607
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.902958
+          "topic": "financial_markets",
+          "relevance_score": 0.919322
         },
         {
           "topic": "energy_transportation",
@@ -40,7 +307,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.710328
+          "relevance_score": 0.727353
         }
       ],
       "articles": [
@@ -870,297 +1137,6 @@
           "headline": "Sol Gel Tech earnings beat by $2.20, revenue fell short of estimates",
           "url": "https://www.investing.com/news/earnings/sol-gel-tech-earnings-beat-by-220-revenue-fell-short-of-estimates-4870227",
           "published_at": "2026-08-20T16:31:14"
-        }
-      ]
-    },
-    {
-      "event_id": 306,
-      "title": "Valero Energy stock hits a fresh all-time high as record profits and strong crude markets support th",
-      "summary": "Valero Energy (VLO) stock has reached a new all-time high of $351.20, driven by record refinery profits and robust oil markets. A $1,000 investment in 2016 would now be worth over $6,300, demonstrating a 531.63% gain over ten years. Despite trading above the average analyst target price, the company's strong financial performance, consistent dividends, and operational efficiency in navigating crude and refined product prices continue to support its valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-20T16:07:17",
-      "first_seen_at": "2026-08-20T18:00:03.205817",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.469847,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924316
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.918824
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.800799
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646682
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 322,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Valero Energy stock hits a fresh all-time high as record profits and strong crude markets support th",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valero-energy-stock-hits-a-fresh-all-time-high-as-record-profits-and/69977040",
-          "published_at": "2026-08-20T16:07:17"
-        }
-      ]
-    },
-    {
-      "event_id": 298,
-      "title": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
-      "summary": "Profusa is moving forward with satisfying conditions for its potential acquisition of G3 Vision Labs, a commercial-stage diagnostics business, despite a widening net loss in Q2 2026 and limited cash resources. The company is undertaking debt-to-equity exchanges and balance sheet restructuring to support the acquisition and meet Nasdaq listing requirements. The transaction remains conditional on G3's financial audits and Profusa exercising its option.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-20T15:49:00",
-      "first_seen_at": "2026-08-20T17:00:02.552231",
-      "assets": [
-        {
-          "symbol": "PFSA",
-          "asset_class": null,
-          "relevance_score": 0.971368,
-          "sentiment_score": -0.289519,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912747
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.729203
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.616552
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 314,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/profusa-advances-g3-vision-labs-144905185.html",
-          "published_at": "2026-08-20T15:49:00"
-        }
-      ]
-    },
-    {
-      "event_id": 299,
-      "title": "AES Corp. stock holds at $14.72 as investors watch buyout spread and dividend yield",
-      "summary": "AES Corp. stock is trading at $14.72, leaving a modest gap to a $15.00 cash proposal from an infrastructure-led buyer group. Investors are evaluating the potential annualized return of 10.7 percent by combining this spread with the company's dividend distribution, framing it as a yield-enhanced arbitrage opportunity. The analysis suggests a high probability of deal completion, supported by AES Corp.'s stable business model and long-term contracts in power generation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-20T15:44:02",
-      "first_seen_at": "2026-08-20T17:00:02.805668",
-      "assets": [
-        {
-          "symbol": "AES",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.252607,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944675
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.801835
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733318
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.610735
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 315,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "AES Corp. stock holds at $14.72 as investors watch buyout spread and dividend yield",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aes-corp-stock-holds-at-14-72-as-investors-watch-buyout-spread-and/69976613",
-          "published_at": "2026-08-20T15:44:02"
-        }
-      ]
-    },
-    {
-      "event_id": 300,
-      "title": "Aptiv stock slips after a $300 million guidance cut",
-      "summary": "Aptiv plc's stock (JE00B783TY65) is facing pressure after the company reduced its midpoint revenue outlook for 2026 by $300 million, now expecting $12.6 billion to $12.8 billion in sales and adjusted EPS of $5.60 to $5.80. The revised forecast is attributed to weaker production schedules, delayed launches, and softer software and services sales. Despite the guidance cut, the company achieved $5 billion in second-quarter awards, reaching $10 billion year-to-date and halfway to its $20 billion full-year target.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-20T15:18:06",
-      "first_seen_at": "2026-08-20T17:00:03.062429",
-      "assets": [
-        {
-          "symbol": "APTV",
-          "asset_class": null,
-          "relevance_score": 0.344344,
-          "sentiment_score": 0.017073,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94864
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.704595
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648776
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.63273
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 316,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Aptiv stock slips after a $300 million guidance cut",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
-          "published_at": "2026-08-20T15:18:06"
-        }
-      ]
-    },
-    {
-      "event_id": 301,
-      "title": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
-      "summary": "This article highlights five companies whose stocks made significant moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker. Wendy's rose on news of a potential take-private bid, Equifax increased after declaring a quarterly dividend, and Jack Henry saw gains following a strong earnings report. PulteGroup's stock climbed due to an analyst reiteration of an \"Outperform\" rating, and Stryker's shares increased after its unit secured a large government contract.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-20T15:07:53",
-      "first_seen_at": "2026-08-20T17:00:03.314192",
-      "assets": [
-        {
-          "symbol": "EFX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.401675,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PHM",
-          "asset_class": null,
-          "relevance_score": 0.936812,
-          "sentiment_score": 0.393108,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JKHY",
-          "asset_class": null,
-          "relevance_score": 0.920107,
-          "sentiment_score": 0.408699,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SYK",
-          "asset_class": null,
-          "relevance_score": 0.901706,
-          "sentiment_score": 0.427367,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935007
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.740954
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.702122
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.640696
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 317,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/3951664/stocks-making-big-moves-yesterday-wendys-equifax-jack-henry-pultegroup-and-stryker/",
-          "published_at": "2026-08-20T15:07:53"
         }
       ]
     }
