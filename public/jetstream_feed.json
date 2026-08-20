@@ -5,6 +5,148 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 290,
+      "title": "ConocoPhillips Stock (COP) Opened Up by 3.04% on Aug 20: What Investors Need To Know",
+      "summary": "ConocoPhillips (COP) stock opened up by 3.04% due to strong second-quarter earnings, bullish analyst revisions, and a commitment to shareholder returns. Technical indicators suggest a buy signal, while the company faces risks such as leadership succession and geopolitical instability. The energy major's strategic moves and robust operational cash flow have bolstered investor confidence despite broader market fluctuations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-20T13:47:25",
+      "first_seen_at": "2026-08-20T15:00:01.828122",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.992903,
+          "sentiment_score": 0.469207,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.741675,
+          "sentiment_score": 0.316996,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.664304,
+          "sentiment_score": 0.268298,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.618754,
+          "sentiment_score": 0.217538,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.58335,
+          "sentiment_score": -0.305914,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.947941
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937159
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.820495
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 306,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "ConocoPhillips Stock (COP) Opened Up by 3.04% on Aug 20: What Investors Need To Know",
+          "url": "https://www.tradingkey.com/news/market-movers/262121418-market-movers-cop-20260820",
+          "published_at": "2026-08-20T13:47:25"
+        }
+      ]
+    },
+    {
+      "event_id": 291,
+      "title": "Charter Closes $34.5 Billion Cox, Liberty Broadband Acquisitions",
+      "summary": "Charter Communications has completed its $34.5 billion acquisition of Cox Communications and Liberty Broadband, making it the largest pay-TV and high-speed internet provider in the U.S. with 43.2 million customers. The parent company name will change to Cox Communications, while customer-facing services will retain the Spectrum brand. Spectrum plans to offer various benefits, including a free year of mobile service for former Cox internet customers and a full suite of products with transparent pricing to new markets.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-20T13:38:29",
+      "first_seen_at": "2026-08-20T15:00:02.179940",
+      "assets": [
+        {
+          "symbol": "CHTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.454711,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMCSA",
+          "asset_class": null,
+          "relevance_score": 0.619859,
+          "sentiment_score": 0.117838,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LBDKV",
+          "asset_class": null,
+          "relevance_score": 0.312021,
+          "sentiment_score": 0.03846,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.819277
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.747803
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 307,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Media Play News",
+          "source_domain": "Media Play News",
+          "headline": "Charter Closes $34.5 Billion Cox, Liberty Broadband Acquisitions",
+          "url": "https://www.mediaplaynews.com/charter-closes-34-5-billion-cox-liberty-broadband-acquisitions/",
+          "published_at": "2026-08-20T13:38:29"
+        }
+      ]
+    },
+    {
       "event_id": 287,
       "title": "Trimble stock jumps after Q2 earnings beat and guidance raise",
       "summary": "Trimble Inc. (TRMB) saw its stock rise after reporting better-than-expected Q2 2026 earnings and revenue, leading the company to raise its full-year guidance. The strong performance, driven by double-digit organic growth and an increase in recurring revenue, has reinforced investor confidence. Analysts have responded positively, with one firm increasing its price target, and valuation metrics suggesting the stock may still be undervalued despite the recent rally.",
@@ -20,7 +162,7 @@
           "symbol": "TRMB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.477046,
+          "sentiment_score": 0.45325,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,19 +174,19 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.805777
+          "relevance_score": 0.828639
         },
         {
           "topic": "financial_markets",
           "relevance_score": 0.74887
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.616484
+          "topic": "real_estate",
+          "relevance_score": 0.642789
         },
         {
-          "topic": "real_estate",
-          "relevance_score": 0.614804
+          "topic": "economy_macro",
+          "relevance_score": 0.625494
         }
       ],
       "articles": [
@@ -56,6 +198,104 @@
           "headline": "Trimble stock jumps after Q2 earnings beat and guidance raise",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/trimble-stock-jumps-after-q2-earnings-beat-and-guidance-raise/69975620",
           "published_at": "2026-08-20T13:23:00"
+        }
+      ]
+    },
+    {
+      "event_id": 293,
+      "title": "Xcel Energy Rates to go Up",
+      "summary": "The Colorado Public Utilities Commission has approved a rate increase for Xcel Energy, raising residential bills by $5 and commercial bills by $7 monthly. This approved increase is about half of Xcel's initial request and is intended to fund infrastructure improvements. Despite the company's rates having risen 22.2% since September 2023, the settlement faced opposition from various consumer advocacy groups.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-20T13:21:12",
+      "first_seen_at": "2026-08-20T15:00:02.716931",
+      "assets": [
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 0.978783,
+          "sentiment_score": 0.284075,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.837861
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 309,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Heart of the Rockies Radio |",
+          "source_domain": "Heart of the Rockies Radio |",
+          "headline": "Xcel Energy Rates to go Up",
+          "url": "https://heartoftherockiesradio.com/xcel-energy-rates-to-go-up/",
+          "published_at": "2026-08-20T13:21:12"
+        }
+      ]
+    },
+    {
+      "event_id": 294,
+      "title": "Is LSI Industries (LYTS) Overvalued After Q4 Earnings Miss? EPS at $0.18, Revenue of $234.6M -- GF Score: 88/100",
+      "summary": "LSI Industries (LYTS) reported a significant 51% year-over-year increase in Q4 net sales to $234.6 million, with full-year revenue reaching a record $689.4 million. Despite this growth, net income was $6.9 million ($0.18 EPS), impacted by $3.0 million in acquisition-related costs, missing analyst estimates of $0.27 per share. GuruFocus indicates the stock is overvalued by 17.3% with a GF Score of 88/100, and a low predictability rank, alongside significant insider selling.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-20T13:12:13",
+      "first_seen_at": "2026-08-20T15:00:02.953492",
+      "assets": [
+        {
+          "symbol": "LYTS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.232044,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.926659
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.838444
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.630613
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.613599
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.600653
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 310,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "Is LSI Industries (LYTS) Overvalued After Q4 Earnings Miss? EPS at $0.18, Revenue of $234.6M -- GF Score: 88/100",
+          "url": "https://www.gurufocus.com/news/9045245/is-lsi-industries-lyts-overvalued-after-q4-earnings-miss-eps-at-018-revenue-of-2346m-gf-score-88100",
+          "published_at": "2026-08-20T13:12:13"
         }
       ]
     },
@@ -845,218 +1085,6 @@
           "headline": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
           "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-target-refunds-consumers-payments-1239128922/",
           "published_at": "2026-08-19T18:40:51"
-        }
-      ]
-    },
-    {
-      "event_id": 271,
-      "title": "Resilient Starbucks stock holds above $106 as Q3 earnings beat supports FY 2026 outlook",
-      "summary": "Starbucks stock is trading above $106 following strong fiscal 2026 third-quarter earnings that surpassed expectations, despite a slight revenue decline due to the China divestiture. The company raised its full-year comparable sales guidance and maintained EPS guidance, reinforcing investor confidence in its growth trajectory. While the stock's valuation is considered rich, its digital engagement and loyalty programs are key drivers for sustained growth and profitability.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T18:13:07",
-      "first_seen_at": "2026-08-19T20:00:02.361233",
-      "assets": [
-        {
-          "symbol": "SBUX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.491545,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.561181,
-          "sentiment_score": 0.142649,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.934934
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826165
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.745804
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620903
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 287,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Starbucks stock holds above $106 as Q3 earnings beat supports FY 2026 outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-starbucks-stock-holds-above-106-as-q3-earnings-beat-supports-fy/69972225",
-          "published_at": "2026-08-19T18:13:07"
-        }
-      ]
-    },
-    {
-      "event_id": 272,
-      "title": "Skyworks Solutions stock edges higher as Q3 earnings beat but growth stays muted",
-      "summary": "Skyworks Solutions' Q3 2026 earnings surpassed forecasts, with diluted EPS at $1.08 against an expected $1.03, primarily due to cost discipline rather than revenue growth, which declined year over year. The stock is trading in the upper-$60 range, showing a modest 6.3% year-to-date gain, and analysts project limited upside of about 10.1% from current levels. Future performance is expected to depend on the adoption of Wi-Fi 7 and advanced RF solutions driving renewed revenue growth for the chipmaker.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-19T18:13:00",
-      "first_seen_at": "2026-08-19T20:00:02.636523",
-      "assets": [
-        {
-          "symbol": "SWKS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.109624,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.910591
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.813283
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.731809
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.641505
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 288,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Skyworks Solutions stock edges higher as Q3 earnings beat but growth stays muted",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/skyworks-solutions-stock-edges-higher-as-q3-earnings-beat-but-growth-stays/69972226",
-          "published_at": "2026-08-19T18:13:00"
-        }
-      ]
-    },
-    {
-      "event_id": 273,
-      "title": "FedEx stock trades close to consensus target as investors eye freight-driven growth",
-      "summary": "FedEx stock is currently trading in the high $320s, with analysts setting a consensus price target of $350.54, indicating a moderate upside. The company's freight and logistics strategy, including partnerships in autonomous trucking, is highlighted as a key driver for future growth and efficiency. Investors are watching to see if FedEx can meet or exceed this target through operational improvements and strategic deployments.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-19T18:11:08",
-      "first_seen_at": "2026-08-19T20:00:02.896318",
-      "assets": [
-        {
-          "symbol": "FDX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.269548,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.932057
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907051
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.813522
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.63547
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.632072
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 289,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "FedEx stock trades close to consensus target as investors eye freight-driven growth",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-trades-close-to-consensus-target-as-investors-eye/69972209",
-          "published_at": "2026-08-19T18:11:08"
-        }
-      ]
-    },
-    {
-      "event_id": 274,
-      "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
-      "summary": "Quest Diagnostics (DGX) stock has reached a new 52-week high in August 2026, extending its rally after reporting strong second-quarter earnings that surpassed expectations. The company recorded $3.04 billion in revenue, a 10.2% year-over-year increase, and exceeded full-year EPS guidance, demonstrating robust operational execution and improved profitability. This performance has led to positive market momentum, with the stock trading near its peak and analysts maintaining a \"Moderate Buy\" consensus.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T18:10:52",
-      "first_seen_at": "2026-08-19T20:00:03.189216",
-      "assets": [
-        {
-          "symbol": "DGX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.498596,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948789
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.802741
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.748203
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 290,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-hits-a-fresh-high-as-q2-earnings-beat-expectations/69972211",
-          "published_at": "2026-08-19T18:10:52"
         }
       ]
     }
