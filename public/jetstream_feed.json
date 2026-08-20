@@ -5,6 +5,163 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 283,
+      "title": "Michigan lawmakers should cap utility rate increases and give families relief",
+      "summary": "The author, a Lansing resident, father, and grandfather, highlights the struggle of living paycheck to paycheck due to soaring utility bills, particularly from Consumers Energy. He advocates for Michigan lawmakers to cap utility rate increases, citing Consumers Energy's high revenues and executive salaries while families struggle. The article emphasizes that a rate cap would provide financial stability and predictability for Michiganders, drawing parallels to actions taken in other states like New Jersey.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-20T11:04:31",
+      "first_seen_at": "2026-08-20T12:00:02.942256",
+      "assets": [
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.449246,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.904392
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.832003
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.746419
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 299,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Michigan Advance",
+          "source_domain": "Michigan Advance",
+          "headline": "Michigan lawmakers should cap utility rate increases and give families relief",
+          "url": "https://michiganadvance.com/2026/08/20/michigan-lawmakers-should-cap-utility-rate-increases-and-give-families-relief/",
+          "published_at": "2026-08-20T11:04:31"
+        }
+      ]
+    },
+    {
+      "event_id": 284,
+      "title": "XPO upgraded by S&P, just one notch below investment-grade",
+      "summary": "S&P Global Ratings has upgraded LTL carrier XPO's debt rating to BB+ from BB, placing it just one notch below investment grade. This upgrade is largely attributed to the strengthening freight market fundamentals and XPO's improved financial metrics, particularly its Funds from Operations (FFO) to debt ratio. The rating agency also noted XPO's decision to insource more of its linehaul and improved operational efficiencies.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-20T11:00:23",
+      "first_seen_at": "2026-08-20T12:00:03.210541",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 0.823135,
+          "sentiment_score": 0.205599,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MCO",
+          "asset_class": null,
+          "relevance_score": 0.703119,
+          "sentiment_score": 0.115514,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CHRW",
+          "asset_class": null,
+          "relevance_score": 0.63835,
+          "sentiment_score": 0.039391,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925813
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.924971
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.846584
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.737049
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 300,
+          "provider": "ALPHA_VANTAGE",
+          "source": "FreightWaves",
+          "source_domain": "FreightWaves",
+          "headline": "XPO upgraded by S&P, just one notch below investment-grade",
+          "url": "https://www.freightwaves.com/news/xpo-upgraded-by-sp-just-one-notch-below-investment-grade",
+          "published_at": "2026-08-20T11:00:23"
+        }
+      ]
+    },
+    {
+      "event_id": 285,
+      "title": "iShares MSCI Mexico ETF lags peers despite gains in copper sector and Q2 GDP rebound",
+      "summary": "The iShares MSCI Mexico ETF (EWW) has underperformed its emerging market and global peers this year, despite an increase in its materials holdings, particularly Grupo Mexico B, and a rebound in Mexico's Q2 GDP. The ETF's valuation shows a 16% premium over emerging market peers but with lower earnings growth. Its recent price action has lost its upward trend, suggesting a neutral investment outlook.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "CRITICAL",
+      "intelligence_score": 71,
+      "published_at": "2026-08-20T10:58:19",
+      "first_seen_at": "2026-08-20T12:00:03.506069",
+      "assets": [
+        {
+          "symbol": "EWW",
+          "asset_class": null,
+          "relevance_score": 0.31034,
+          "sentiment_score": 0.012959,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.933227
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 301,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "iShares MSCI Mexico ETF lags peers despite gains in copper sector and Q2 GDP rebound",
+          "url": "https://pluang.com/en/news-feed/eww-perdagangan-penilaian-lemah-dan-ekspose-material-yang-berguna",
+          "published_at": "2026-08-20T10:58:19"
+        }
+      ]
+    },
+    {
       "event_id": 282,
       "title": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition",
       "summary": "Digital Realty Trust (NYSE: DLR) has registered the resale of shares issued during its acquisition of Columbia Capital, filing a prospectus supplement with the SEC. The company, a prominent data center REIT, currently trades at $192.35, which InvestingPro analysis suggests is overvalued relative to its Fair Value. This news comes alongside recent positive analyst upgrades and increased price targets from HSBC and Cantor Fitzgerald, although Morgan Stanley noted widening credit spreads in the AI and data center sectors.",
@@ -880,155 +1037,6 @@
           "headline": "Waters stock slips after earnings beat and guidance holds",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waters-stock-slips-after-earnings-beat-and-guidance-holds/69971847",
           "published_at": "2026-08-19T17:04:36"
-        }
-      ]
-    },
-    {
-      "event_id": 262,
-      "title": "Private Equity's Return to Oil, Gas and Coal Already Tops All of 2025, Driven by One $9.7B Deal",
-      "summary": "Private equity investments in the oil, gas, and coal sectors have significantly surpassed the total for all of 2025, largely due to a $9.7 billion acquisition by KKR & Co. and Energy Capital Partners. This surge, totaling $14.7 billion through July, is attributed to rising commodity prices, energy supply concerns, and increased electricity demand from data centers and AI. Europe accounted for the majority of this investment as it seeks to reduce reliance on Russian natural gas.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T17:04:24",
-      "first_seen_at": "2026-08-19T18:00:02.421952",
-      "assets": [
-        {
-          "symbol": "KKR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.403906,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.920124
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.901482
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.72527
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 278,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Private Equity's Return to Oil, Gas and Coal Already Tops All of 2025, Driven by One $9.7B Deal",
-          "url": "https://www.benzinga.com/markets/private-markets/26/08/61309422/private-equitys-return-to-oil-gas-and-coal-already-tops-all-of-2025-driven-by-one-9-7b-deal",
-          "published_at": "2026-08-19T17:04:24"
-        }
-      ]
-    },
-    {
-      "event_id": 263,
-      "title": "Is ONEOK (OKE) Fully Valued On Strong Q2 Earnings And A Higher 2026 Outlook?",
-      "summary": "ONEOK (OKE) recently hit a 52-week high after strong Q2 earnings, an updated 2026 outlook, and a higher price target from Morgan Stanley. Despite this, Simply Wall St's analysis suggests the stock is currently 2% overvalued with a fair value of $95.48 against its last close of $97.07. While its P/E ratio is below the fair ratio and peer average, it remains above the industry level, leading to a mixed valuation outlook.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-19T16:39:48",
-      "first_seen_at": "2026-08-19T18:00:02.664369",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.310511,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMB",
-          "asset_class": null,
-          "relevance_score": 0.635628,
-          "sentiment_score": 0.109318,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938283
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.921862
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.833642
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 279,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Is ONEOK (OKE) Fully Valued On Strong Q2 Earnings And A Higher 2026 Outlook?",
-          "url": "https://simplywall.st/stocks/us/energy/nyse-oke/oneok/news/is-oneok-oke-fully-valued-on-strong-q2-earnings-and-a-higher",
-          "published_at": "2026-08-19T16:39:48"
-        }
-      ]
-    },
-    {
-      "event_id": 264,
-      "title": "Elevance Health stock trades around $400 as Q2 2026 earnings beat supports upbeat outlook",
-      "summary": "Elevance Health stock is trading around $400, supported by a strong Q2 2026 earnings beat with adjusted EPS of $7.45 against a $6.21 consensus. The company reported modest revenue growth, but profit expansion outpaced top-line growth, leading to an upbeat full-year EPS forecast of $27.07 for 2026. Analysts maintain a \"Buy to Moderate Buy\" rating with an average price target of $440.90, indicating potential upside despite a slight membership decline.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-19T16:33:45",
-      "first_seen_at": "2026-08-19T18:00:02.927622",
-      "assets": [
-        {
-          "symbol": "ELV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.483282,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923383
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.810086
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.724472
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 280,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Elevance Health stock trades around $400 as Q2 2026 earnings beat supports upbeat outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-trades-around-400-as-q2-2026-earnings-beat-supports/69971658",
-          "published_at": "2026-08-19T16:33:45"
         }
       ]
     }
