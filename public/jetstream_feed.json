@@ -5,6 +5,222 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 303,
+      "title": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
+      "summary": "Huntington Ingalls Industries (HII) stock is trading above $300 in August 2026, driven by strong Q2 2026 revenue growth of 10.9% and increasing investor interest in nuclear-powered shipping. The company, the sole builder of nuclear aircraft carriers and submarines for the US Navy, is seeing operational momentum with the USS John F. Kennedy completing sea trials. Analysts maintain a \"Moderate Buy\" rating with price targets in the mid-to-high $300s, reflecting an anticipated upside despite recent robust performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-20T16:41:10",
+      "first_seen_at": "2026-08-20T18:00:02.358042",
+      "assets": [
+        {
+          "symbol": "HII",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.400846,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920188
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.900973
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.702214
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.619797
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 319,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/huntington-ingalls-stock-extends-q2-gains-as-nuclear-shipbuilding-theme/69977215",
+          "published_at": "2026-08-20T16:41:10"
+        }
+      ]
+    },
+    {
+      "event_id": 304,
+      "title": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs",
+      "summary": "Cruise line stocks, including Norwegian Cruise Line (NCLH), Carnival (CCL), and Royal Caribbean Group (RCL), experienced drops of 5%, 4%, and 3% respectively, driven by rising crude oil prices. Higher oil costs directly impact cruise operators' margins as fuel is a significant operating expense, with no company-specific news contributing to the declines. Royal Caribbean's larger market cap and positive year-to-date performance help it absorb the oil shock better than Norwegian Cruise Line, which has a smaller, more leveraged balance sheet.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-20T16:32:53",
+      "first_seen_at": "2026-08-20T18:00:02.618349",
+      "assets": [
+        {
+          "symbol": "RCL",
+          "asset_class": null,
+          "relevance_score": 0.961257,
+          "sentiment_score": -0.300138,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CCL",
+          "asset_class": null,
+          "relevance_score": 0.911088,
+          "sentiment_score": -0.28125,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NCLH",
+          "asset_class": null,
+          "relevance_score": 0.904899,
+          "sentiment_score": -0.321912,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.923446
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.822962
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.724424
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 320,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs",
+          "url": "https://247wallst.com/investing/2026/08/20/norwegian-cruise-line-drops-5-carnival-falls-4-royal-caribbean-slips-3-as-oil-climbs/",
+          "published_at": "2026-08-20T16:32:53"
+        }
+      ]
+    },
+    {
+      "event_id": 305,
+      "title": "Sol Gel Tech earnings beat by $2.20, revenue fell short of estimates",
+      "summary": "Sol Gel Technologies (NASDAQ: SLGL) reported its second-quarter earnings, beating analyst EPS estimates by $2.20 with an EPS of $-1.1300 against an expected $-3.3300. However, the company's revenue of $591K fell short of the consensus estimate of $1.2M. Despite the mixed results, Sol Gel Tech's stock has shown strong performance, up 2.4200% in the last three months and 205.2300% over the last 12 months, with its financial health rated as \"great performance\" by InvestingPro.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-20T16:31:14",
+      "first_seen_at": "2026-08-20T18:00:02.946424",
+      "assets": [
+        {
+          "symbol": "SLGL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.185576,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.908968
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.835411
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.730162
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.60761
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 321,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Sol Gel Tech earnings beat by $2.20, revenue fell short of estimates",
+          "url": "https://www.investing.com/news/earnings/sol-gel-tech-earnings-beat-by-220-revenue-fell-short-of-estimates-4870227",
+          "published_at": "2026-08-20T16:31:14"
+        }
+      ]
+    },
+    {
+      "event_id": 306,
+      "title": "Valero Energy stock hits a fresh all-time high as record profits and strong crude markets support th",
+      "summary": "Valero Energy (VLO) stock has reached a new all-time high of $351.20, driven by record refinery profits and robust oil markets. A $1,000 investment in 2016 would now be worth over $6,300, demonstrating a 531.63% gain over ten years. Despite trading above the average analyst target price, the company's strong financial performance, consistent dividends, and operational efficiency in navigating crude and refined product prices continue to support its valuation.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-20T16:07:17",
+      "first_seen_at": "2026-08-20T18:00:03.205817",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.469847,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924316
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.918824
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.800799
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.646682
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 322,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Valero Energy stock hits a fresh all-time high as record profits and strong crude markets support th",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valero-energy-stock-hits-a-fresh-all-time-high-as-record-profits-and/69977040",
+          "published_at": "2026-08-20T16:07:17"
+        }
+      ]
+    },
+    {
       "event_id": 298,
       "title": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
       "summary": "Profusa is moving forward with satisfying conditions for its potential acquisition of G3 Vision Labs, a commercial-stage diagnostics business, despite a widening net loss in Q2 2026 and limited cash resources. The company is undertaking debt-to-equity exchanges and balance sheet restructuring to support the acquisition and meet Nasdaq listing requirements. The transaction remains conditional on G3's financial audits and Profusa exercising its option.",
@@ -901,214 +1117,6 @@
           "headline": "Michigan lawmakers should cap utility rate increases and give families relief",
           "url": "https://michiganadvance.com/2026/08/20/michigan-lawmakers-should-cap-utility-rate-increases-and-give-families-relief/",
           "published_at": "2026-08-20T11:04:31"
-        }
-      ]
-    },
-    {
-      "event_id": 284,
-      "title": "XPO upgraded by S&P, just one notch below investment-grade",
-      "summary": "S&P Global Ratings has upgraded LTL carrier XPO's debt rating to BB+ from BB, placing it just one notch below investment grade. This upgrade is largely attributed to the strengthening freight market fundamentals and XPO's improved financial metrics, particularly its Funds from Operations (FFO) to debt ratio. The rating agency also noted XPO's decision to insource more of its linehaul and improved operational efficiencies.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-20T11:00:23",
-      "first_seen_at": "2026-08-20T12:00:03.210541",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.823135,
-          "sentiment_score": 0.205599,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MCO",
-          "asset_class": null,
-          "relevance_score": 0.703119,
-          "sentiment_score": 0.115514,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CHRW",
-          "asset_class": null,
-          "relevance_score": 0.63835,
-          "sentiment_score": 0.039391,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.925813
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.924971
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.846584
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.737049
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 300,
-          "provider": "ALPHA_VANTAGE",
-          "source": "FreightWaves",
-          "source_domain": "FreightWaves",
-          "headline": "XPO upgraded by S&P, just one notch below investment-grade",
-          "url": "https://www.freightwaves.com/news/xpo-upgraded-by-sp-just-one-notch-below-investment-grade",
-          "published_at": "2026-08-20T11:00:23"
-        }
-      ]
-    },
-    {
-      "event_id": 285,
-      "title": "iShares MSCI Mexico ETF lags peers despite gains in copper sector and Q2 GDP rebound",
-      "summary": "The iShares MSCI Mexico ETF (EWW) has underperformed its emerging market and global peers this year, despite an increase in its materials holdings, particularly Grupo Mexico B, and a rebound in Mexico's Q2 GDP. The ETF's valuation shows a 16% premium over emerging market peers but with lower earnings growth. Its recent price action has lost its upward trend, suggesting a neutral investment outlook.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "CRITICAL",
-      "intelligence_score": 71,
-      "published_at": "2026-08-20T10:58:19",
-      "first_seen_at": "2026-08-20T12:00:03.506069",
-      "assets": [
-        {
-          "symbol": "EWW",
-          "asset_class": null,
-          "relevance_score": 0.31034,
-          "sentiment_score": 0.012959,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.933227
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 301,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "iShares MSCI Mexico ETF lags peers despite gains in copper sector and Q2 GDP rebound",
-          "url": "https://pluang.com/en/news-feed/eww-perdagangan-penilaian-lemah-dan-ekspose-material-yang-berguna",
-          "published_at": "2026-08-20T10:58:19"
-        }
-      ]
-    },
-    {
-      "event_id": 282,
-      "title": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition",
-      "summary": "Digital Realty Trust (NYSE: DLR) has registered the resale of shares issued during its acquisition of Columbia Capital, filing a prospectus supplement with the SEC. The company, a prominent data center REIT, currently trades at $192.35, which InvestingPro analysis suggests is overvalued relative to its Fair Value. This news comes alongside recent positive analyst upgrades and increased price targets from HSBC and Cantor Fitzgerald, although Morgan Stanley noted widening credit spreads in the AI and data center sectors.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-19T22:30:45",
-      "first_seen_at": "2026-08-20T00:00:02.266484",
-      "assets": [
-        {
-          "symbol": "DLR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.258409,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.814109
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.717024
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.628097
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 298,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition",
-          "url": "https://www.investing.com/news/sec-filings/digital-realty-trust-registers-resale-of-shares-issued-in-columbia-capital-acquisition-93CH-4868395",
-          "published_at": "2026-08-19T22:30:45"
-        }
-      ]
-    },
-    {
-      "event_id": 281,
-      "title": "How a proposed merger between energy giants could impact Maine electricity bills",
-      "summary": "Maine Governor Janet Mills, along with four other New England governors, is opposing a proposed merger between NextEra Energy and Dominion Energy. They are concerned the deal, which would give NextEra control over all nuclear power production in New England, could reduce competition and lead to higher electricity costs for consumers in the region. Governor Mills specifically cited NextEra's past efforts to suppress competition in Maine.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-08-19T21:34:39",
-      "first_seen_at": "2026-08-19T23:00:02.198847",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.964633,
-          "sentiment_score": -0.34107,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.928462
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.603256
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 297,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WMTW",
-          "source_domain": "WMTW",
-          "headline": "How a proposed merger between energy giants could impact Maine electricity bills",
-          "url": "https://www.wmtw.com/article/how-a-proposed-merger-between-energy-giants-could-impact-maine-electricity-bills/73477958",
-          "published_at": "2026-08-19T21:34:39"
         }
       ]
     }
