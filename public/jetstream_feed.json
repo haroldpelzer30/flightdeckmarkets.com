@@ -5,6 +5,246 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 298,
+      "title": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
+      "summary": "Profusa is moving forward with satisfying conditions for its potential acquisition of G3 Vision Labs, a commercial-stage diagnostics business, despite a widening net loss in Q2 2026 and limited cash resources. The company is undertaking debt-to-equity exchanges and balance sheet restructuring to support the acquisition and meet Nasdaq listing requirements. The transaction remains conditional on G3's financial audits and Profusa exercising its option.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-20T15:49:00",
+      "first_seen_at": "2026-08-20T17:00:02.552231",
+      "assets": [
+        {
+          "symbol": "PFSA",
+          "asset_class": null,
+          "relevance_score": 0.971368,
+          "sentiment_score": -0.289519,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912747
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.729203
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.616552
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 314,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/profusa-advances-g3-vision-labs-144905185.html",
+          "published_at": "2026-08-20T15:49:00"
+        }
+      ]
+    },
+    {
+      "event_id": 299,
+      "title": "AES Corp. stock holds at $14.72 as investors watch buyout spread and dividend yield",
+      "summary": "AES Corp. stock is trading at $14.72, leaving a modest gap to a $15.00 cash proposal from an infrastructure-led buyer group. Investors are evaluating the potential annualized return of 10.7 percent by combining this spread with the company's dividend distribution, framing it as a yield-enhanced arbitrage opportunity. The analysis suggests a high probability of deal completion, supported by AES Corp.'s stable business model and long-term contracts in power generation.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-20T15:44:02",
+      "first_seen_at": "2026-08-20T17:00:02.805668",
+      "assets": [
+        {
+          "symbol": "AES",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.252607,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.944675
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.801835
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.733318
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.610735
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 315,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "AES Corp. stock holds at $14.72 as investors watch buyout spread and dividend yield",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aes-corp-stock-holds-at-14-72-as-investors-watch-buyout-spread-and/69976613",
+          "published_at": "2026-08-20T15:44:02"
+        }
+      ]
+    },
+    {
+      "event_id": 300,
+      "title": "Aptiv stock slips after a $300 million guidance cut",
+      "summary": "Aptiv plc's stock (JE00B783TY65) is facing pressure after the company reduced its midpoint revenue outlook for 2026 by $300 million, now expecting $12.6 billion to $12.8 billion in sales and adjusted EPS of $5.60 to $5.80. The revised forecast is attributed to weaker production schedules, delayed launches, and softer software and services sales. Despite the guidance cut, the company achieved $5 billion in second-quarter awards, reaching $10 billion year-to-date and halfway to its $20 billion full-year target.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-20T15:18:06",
+      "first_seen_at": "2026-08-20T17:00:03.062429",
+      "assets": [
+        {
+          "symbol": "APTV",
+          "asset_class": null,
+          "relevance_score": 0.344344,
+          "sentiment_score": 0.017073,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.94864
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.704595
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648776
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.63273
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 316,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Aptiv stock slips after a $300 million guidance cut",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
+          "published_at": "2026-08-20T15:18:06"
+        }
+      ]
+    },
+    {
+      "event_id": 301,
+      "title": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
+      "summary": "This article highlights five companies whose stocks made significant moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker. Wendy's rose on news of a potential take-private bid, Equifax increased after declaring a quarterly dividend, and Jack Henry saw gains following a strong earnings report. PulteGroup's stock climbed due to an analyst reiteration of an \"Outperform\" rating, and Stryker's shares increased after its unit secured a large government contract.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-20T15:07:53",
+      "first_seen_at": "2026-08-20T17:00:03.314192",
+      "assets": [
+        {
+          "symbol": "EFX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.401675,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PHM",
+          "asset_class": null,
+          "relevance_score": 0.936812,
+          "sentiment_score": 0.393108,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JKHY",
+          "asset_class": null,
+          "relevance_score": 0.920107,
+          "sentiment_score": 0.408699,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SYK",
+          "asset_class": null,
+          "relevance_score": 0.901706,
+          "sentiment_score": 0.427367,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935007
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.740954
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.702122
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.640696
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 317,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/3951664/stocks-making-big-moves-yesterday-wendys-equifax-jack-henry-pultegroup-and-stryker/",
+          "published_at": "2026-08-20T15:07:53"
+        }
+      ]
+    },
+    {
       "event_id": 295,
       "title": "Deere Shares Rise After Q3 Beat and Higher Full-Year Outlook",
       "summary": "Deere & Company (DE) shares rose 7.5% after the company reported a stronger-than-expected fiscal third quarter and raised its full-year profit outlook. Investors were also encouraged by management's view that 2026 would mark the bottom of the current agricultural equipment cycle. The company's net income and sales increased, and institutional investors showed significant activity in DE stock.",
@@ -20,7 +260,7 @@
           "symbol": "DE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.818668,
+          "sentiment_score": 0.81754,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,7 +272,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.911727
+          "relevance_score": 0.918084
         },
         {
           "topic": "manufacturing",
@@ -869,194 +1109,6 @@
           "headline": "How a proposed merger between energy giants could impact Maine electricity bills",
           "url": "https://www.wmtw.com/article/how-a-proposed-merger-between-energy-giants-could-impact-maine-electricity-bills/73477958",
           "published_at": "2026-08-19T21:34:39"
-        }
-      ]
-    },
-    {
-      "event_id": 279,
-      "title": "Dollar General stock holds above $123 after earnings beat",
-      "summary": "Dollar General stock is trading at $123.26 after reporting Q2 2026 earnings per share of $2.00, beating consensus estimates, and providing FY2026 EPS guidance of $7.20 to $7.45. The company's stock is currently trading above its 50-day average but below its 200-day average, with its core business focused on everyday consumables. Analysts have an average price target of $130.42, indicating potential upside based on the company's ability to meet its guidance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-19T20:38:00",
-      "first_seen_at": "2026-08-19T22:00:02.522223",
-      "assets": [
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.383377,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.815208
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.745954
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 295,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Dollar General stock holds above $123 after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-general-stock-holds-above-123-after-earnings-beat/69972366",
-          "published_at": "2026-08-19T20:38:00"
-        }
-      ]
-    },
-    {
-      "event_id": 280,
-      "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
-      "summary": "The Colorado Public Utilities Commission has approved an Xcel Energy rate increase, which will lead to an average monthly bill increase of about $5 for residential customers and $7 for commercial customers, effective late December. This approved increase is significantly less than Xcel's initial request of $356 million, reduced to just over $150 million after public feedback. Despite the reduction, concerns remain about the long-term affordability of electricity, especially given Xcel's increasing capital spending.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-19T20:37:42",
-      "first_seen_at": "2026-08-19T22:00:02.776732",
-      "assets": [
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.225475,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.8191
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.718035
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 296,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CBS News",
-          "source_domain": "CBS News",
-          "headline": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
-          "url": "https://www.cbsnews.com/colorado/news/colorado-regulators-xcel-energy-rate-increase-electric-bills/",
-          "published_at": "2026-08-19T20:37:42"
-        }
-      ]
-    },
-    {
-      "event_id": 276,
-      "title": "Newmont stock jumps as Nevada gold project sale and strong cash flows highlight miner leverage",
-      "summary": "Newmont's stock saw a significant jump on August 19, 2026, driven by the sale of its Northumberland gold project in Nevada and robust financial metrics. The company reported strong production of 1.3 million ounces and free cash flow of $2.2 billion for the quarter, benefiting from high gold prices. Analysts maintain a positive outlook, suggesting further gains are possible given solid execution and stable bullion prices.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-19T20:12:00",
-      "first_seen_at": "2026-08-19T21:00:02.137002",
-      "assets": [
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410701,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930879
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913362
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.808323
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 292,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Newmont stock jumps as Nevada gold project sale and strong cash flows highlight miner leverage",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/newmont-stock-jumps-as-nevada-gold-project-sale-and-strong-cash-flows/69972216",
-          "published_at": "2026-08-19T20:12:00"
-        }
-      ]
-    },
-    {
-      "event_id": 277,
-      "title": "Xcel Energy stock holds steady as institutional buying supports outlook",
-      "summary": "Xcel Energy stock is trading in the high-$70s, supported by fresh institutional buying and a consensus analyst price target in the low-$90s. The company, a regulated utility, attracts large-scale capital due to its stable earnings, long-term capital plans, and dividend potential. Analysts view Xcel Energy as a stability-oriented holding, with its regulated structure and electricity demand trends driving its valuation narrative for the second half of 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-19T20:00:00",
-      "first_seen_at": "2026-08-19T21:00:02.399560",
-      "assets": [
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.436989,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.927571
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.926349
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.840524
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 293,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Xcel Energy stock holds steady as institutional buying supports outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-holds-steady-as-institutional-buying-supports-outlook/69972828",
-          "published_at": "2026-08-19T20:00:00"
         }
       ]
     }
