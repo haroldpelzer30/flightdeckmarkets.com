@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 325,
+      "title": "Xcel Energy stock holds steady as Colorado approves 4.77% electric rate hike",
+      "summary": "Xcel Energy's stock remained stable after Colorado regulators approved a 4.77% electric rate increase, which will raise residential bills by $5 per month and add $157 million in annual revenue for the utility. This decision, following nine months of deliberation, provides a fresh revenue tailwind and reinforces the company's regulated earnings visibility, aligning with its $50.28 billion market capitalization and an average analyst target of $92.41. The utility continues to balance infrastructure investments and renewable integration with consumer affordability and regulatory scrutiny.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 64,
+      "published_at": "2026-08-20T20:29:47",
+      "first_seen_at": "2026-08-20T22:00:02.393265",
+      "assets": [
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.393597,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932178
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.903458
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 341,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Xcel Energy stock holds steady as Colorado approves 4.77% electric rate hike",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-holds-steady-as-colorado-approves-4-77-percent-electric/69978296",
+          "published_at": "2026-08-20T20:29:47"
+        }
+      ]
+    },
+    {
       "event_id": 319,
       "title": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
       "summary": "Ross Stores reported strong second-quarter 2026 results with sales up 13% to $6.26 billion and EPS of $2.66, which included a $0.60 benefit from tariff refunds. The company raised its full-year 2026 EPS guidance to $8.61–$8.77 and increased its store opening plan to 115 new locations. Despite a moderate negative market reaction to the news, Ross Stores highlighted its strong performance and momentum heading into the second half of the year.",
@@ -1086,57 +1129,6 @@
           "headline": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs",
           "url": "https://247wallst.com/investing/2026/08/20/norwegian-cruise-line-drops-5-carnival-falls-4-royal-caribbean-slips-3-as-oil-climbs/",
           "published_at": "2026-08-20T16:32:53"
-        }
-      ]
-    },
-    {
-      "event_id": 305,
-      "title": "Sol Gel Tech earnings beat by $2.20, revenue fell short of estimates",
-      "summary": "Sol Gel Technologies (NASDAQ: SLGL) reported its second-quarter earnings, beating analyst EPS estimates by $2.20 with an EPS of $-1.1300 against an expected $-3.3300. However, the company's revenue of $591K fell short of the consensus estimate of $1.2M. Despite the mixed results, Sol Gel Tech's stock has shown strong performance, up 2.4200% in the last three months and 205.2300% over the last 12 months, with its financial health rated as \"great performance\" by InvestingPro.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-20T16:31:14",
-      "first_seen_at": "2026-08-20T18:00:02.946424",
-      "assets": [
-        {
-          "symbol": "SLGL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.185576,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.908968
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835411
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730162
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.60761
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 321,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Sol Gel Tech earnings beat by $2.20, revenue fell short of estimates",
-          "url": "https://www.investing.com/news/earnings/sol-gel-tech-earnings-beat-by-220-revenue-fell-short-of-estimates-4870227",
-          "published_at": "2026-08-20T16:31:14"
         }
       ]
     }
