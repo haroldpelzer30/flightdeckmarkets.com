@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 282,
+      "title": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition",
+      "summary": "Digital Realty Trust (NYSE: DLR) has registered the resale of shares issued during its acquisition of Columbia Capital, filing a prospectus supplement with the SEC. The company, a prominent data center REIT, currently trades at $192.35, which InvestingPro analysis suggests is overvalued relative to its Fair Value. This news comes alongside recent positive analyst upgrades and increased price targets from HSBC and Cantor Fitzgerald, although Morgan Stanley noted widening credit spreads in the AI and data center sectors.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-19T22:30:45",
+      "first_seen_at": "2026-08-20T00:00:02.266484",
+      "assets": [
+        {
+          "symbol": "DLR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.258409,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.814109
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.717024
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.628097
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 298,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition",
+          "url": "https://www.investing.com/news/sec-filings/digital-realty-trust-registers-resale-of-shares-issued-in-columbia-capital-acquisition-93CH-4868395",
+          "published_at": "2026-08-19T22:30:45"
+        }
+      ]
+    },
+    {
       "event_id": 281,
       "title": "How a proposed merger between energy giants could impact Maine electricity bills",
       "summary": "Maine Governor Janet Mills, along with four other New England governors, is opposing a proposed merger between NextEra Energy and Dominion Energy. They are concerned the deal, which would give NextEra control over all nuclear power production in New England, could reduce competition and lead to higher electricity costs for consumers in the region. Governor Mills specifically cited NextEra's past efforts to suppress competition in Maine.",
@@ -978,69 +1029,6 @@
           "headline": "Elevance Health stock trades around $400 as Q2 2026 earnings beat supports upbeat outlook",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-trades-around-400-as-q2-2026-earnings-beat-supports/69971658",
           "published_at": "2026-08-19T16:33:45"
-        }
-      ]
-    },
-    {
-      "event_id": 259,
-      "title": "Goldman Sachs reiterates Progressive stock rating on July earnings beat",
-      "summary": "Goldman Sachs has reiterated its Buy rating and $230.00 price target for Progressive Corp. (NYSE:PGR) after the company reported strong July operating results, beating analyst estimates for earnings per share and net premiums written growth. The insurance company's Personal Auto segment showed robust performance with an 86.7% combined ratio, and InvestingPro's Fair Value analysis suggests the stock is currently undervalued. This positive outlook comes despite recent broader market concerns about slowing policy growth and competitive pressures in the auto insurance sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-19T15:22:17",
-      "first_seen_at": "2026-08-19T17:00:02.313237",
-      "assets": [
-        {
-          "symbol": "PGR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410084,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.712794,
-          "sentiment_score": 0.320856,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.625945,
-          "sentiment_score": -0.121272,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928215
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.824599
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.734022
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 275,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Goldman Sachs reiterates Progressive stock rating on July earnings beat",
-          "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-progressive-stock-rating-on-july-earnings-beat-93CH-4867816",
-          "published_at": "2026-08-19T15:22:17"
         }
       ]
     }
