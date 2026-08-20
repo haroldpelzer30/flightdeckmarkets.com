@@ -5,6 +5,163 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 287,
+      "title": "Trimble stock jumps after Q2 earnings beat and guidance raise",
+      "summary": "Trimble Inc. (TRMB) saw its stock rise after reporting better-than-expected Q2 2026 earnings and revenue, leading the company to raise its full-year guidance. The strong performance, driven by double-digit organic growth and an increase in recurring revenue, has reinforced investor confidence. Analysts have responded positively, with one firm increasing its price target, and valuation metrics suggesting the stock may still be undervalued despite the recent rally.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-20T13:23:00",
+      "first_seen_at": "2026-08-20T14:00:02.490622",
+      "assets": [
+        {
+          "symbol": "TRMB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.477046,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.805777
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.74887
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.616484
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.614804
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 303,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Trimble stock jumps after Q2 earnings beat and guidance raise",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/trimble-stock-jumps-after-q2-earnings-beat-and-guidance-raise/69975620",
+          "published_at": "2026-08-20T13:23:00"
+        }
+      ]
+    },
+    {
+      "event_id": 288,
+      "title": "Mettler-Toledo stock steadies after Q2 2026 earnings beat",
+      "summary": "Mettler-Toledo International Inc. (MTD) stock is trading in the mid-$1,300s on the NYSE, supported by a Q2 2026 earnings beat where EPS exceeded analyst estimates by $0.66. Despite a slight dip in recent sessions, the stock maintains a positive year-to-date performance and is holding steady, reflecting investor confidence in its operational outperformance in precision instruments and analytical equipment. The company's consistent earnings delivery reinforces its premium valuation within the sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-20T12:48:37",
+      "first_seen_at": "2026-08-20T14:00:02.801730",
+      "assets": [
+        {
+          "symbol": "MTD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.48016,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.90967
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.725277
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.629582
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 304,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Mettler-Toledo stock steadies after Q2 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mettler-toledo-stock-steadies-after-q2-2026-earnings-beat/69976023",
+          "published_at": "2026-08-20T12:48:37"
+        }
+      ]
+    },
+    {
+      "event_id": 289,
+      "title": "PSEG Launches Community Impact Update, Highlights Statewide Community Presence with $12.8 Million in Corporate and Foundation Giving and $16.3 Billion Economic Output in 2025",
+      "summary": "Public Service Enterprise Group (PSEG) has released its 2025 Community Impact Update, detailing its significant contributions to New Jersey's economy and communities. The report highlights $12.8 million in philanthropic giving, $16.3 billion in economic output, and substantial investments in energy infrastructure. PSEG also announced a forthcoming 2026 Sustainability Report that will further explore its environmental stewardship, workforce development, and customer support initiatives.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 69,
+      "published_at": "2026-08-20T12:44:47",
+      "first_seen_at": "2026-08-20T14:00:03.084748",
+      "assets": [
+        {
+          "symbol": "PEG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424983,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.946859
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944252
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.835431
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.734274
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 305,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "PSEG Launches Community Impact Update, Highlights Statewide Community Presence with $12.8 Million in Corporate and Foundation Giving and $16.3 Billion Economic Output in 2025",
+          "url": "https://finance.yahoo.com/energy/articles/pseg-launches-community-impact-highlights-124500893.html",
+          "published_at": "2026-08-20T12:44:47"
+        }
+      ]
+    },
+    {
       "event_id": 286,
       "title": "Waters stock climbs after earnings beat and guidance lift",
       "summary": "Waters Corp (US9418481035) stock climbed to $416.45 after reporting a second-quarter beat with revenue of $1.65 billion and adjusted EPS of $3.05, exceeding expectations. The company also lifted its 2026 adjusted EPS guidance to $14.45-$14.65 and organic growth to 7%-9%. Analyst consensus remains a Moderate Buy with a price target of $420.35, placing importance on the execution of the new guidance.",
@@ -900,143 +1057,6 @@
           "headline": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-hits-a-fresh-high-as-q2-earnings-beat-expectations/69972211",
           "published_at": "2026-08-19T18:10:52"
-        }
-      ]
-    },
-    {
-      "event_id": 265,
-      "title": "Aurora Cannabis acquires UK pharma firms for £2.1 million",
-      "summary": "Aurora Cannabis Inc. has acquired Internode Pharma Limited and HAP Pharma Limited, two UK-based pharmaceutical firms, for £2.1 million in cash. This acquisition provides Aurora with direct control over the medical cannabis supply chain in the UK, including a licensed import and distribution facility and a virtual pharmacy. The transaction is expected to enhance Aurora's adjusted EBITDA through operational efficiencies and reduced reliance on third-party distributors.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-19T18:00:27",
-      "first_seen_at": "2026-08-19T19:00:01.751956",
-      "assets": [
-        {
-          "symbol": "ACB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.302476,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.927682
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.824015
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 281,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Aurora Cannabis acquires UK pharma firms for £2.1 million",
-          "url": "https://www.investing.com/news/company-news/aurora-cannabis-acquires-uk-pharma-firms-for-21-million-93CH-4868008",
-          "published_at": "2026-08-19T18:00:27"
-        }
-      ]
-    },
-    {
-      "event_id": 266,
-      "title": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market",
-      "summary": "Aurora Cannabis has acquired Internode Pharma Limited and HAP Pharma Limited to expand its presence and distribution capabilities in the rapidly growing UK medical cannabis market. This strategic acquisition is expected to streamline the supply chain, enhance operational efficiencies, and contribute to Aurora's adjusted EBITDA in future quarters. The move is aimed at strengthening Aurora's leadership in the international medical cannabis sector and improving product supply to UK patients.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-19T17:45:27",
-      "first_seen_at": "2026-08-19T19:00:01.959911",
-      "assets": [
-        {
-          "symbol": "ACB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.486119,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.800183
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.637007
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 282,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market",
-          "url": "https://finance.yahoo.com/healthcare/articles/aurora-cannabis-furthers-global-medical-174500141.html",
-          "published_at": "2026-08-19T17:45:27"
-        }
-      ]
-    },
-    {
-      "event_id": 267,
-      "title": "Resilient Occidental Petroleum stock holds near $60 as fresh earnings beat and analyst targets suppo",
-      "summary": "Occidental Petroleum's stock is holding near $60 following a strong earnings beat and supportive analyst targets. The company reported EPS of $2.40 against an estimate of $1.83, with revenue rising 53.4% year-over-year. Analysts maintain a \"Hold\" consensus with an average target price of $64.83, indicating modest upside potential.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-08-19T17:26:59",
-      "first_seen_at": "2026-08-19T19:00:02.245817",
-      "assets": [
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410079,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.933923
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.901301
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84752
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 283,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Occidental Petroleum stock holds near $60 as fresh earnings beat and analyst targets suppo",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-occidental-petroleum-stock-holds-near-60-as-fresh-earnings-beat/69971979",
-          "published_at": "2026-08-19T17:26:59"
         }
       ]
     }
