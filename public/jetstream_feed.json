@@ -5,6 +5,344 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 313,
+      "title": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
+      "summary": "Sempra Inc. stock is trading in the mid-$80s as investors evaluate the company's reaffirmed earnings guidance and its recent long-term bond issuance. Analysts maintain a \"moderate buy\" rating with a consensus price target of $103.92, suggesting potential upside despite interest-rate sensitivities. The company's strategy involves matching long-lived assets with long-term funding to support grid modernization and gas infrastructure expansion, aiming for predictable earnings growth through regulated returns.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-20T18:51:05",
+      "first_seen_at": "2026-08-20T20:00:02.531967",
+      "assets": [
+        {
+          "symbol": "SRE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.262645,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917749
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902958
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.830211
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710328
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 329,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-holds-in-the-mid-80s-as-investors-weigh-bond-issuance-and/69977578",
+          "published_at": "2026-08-20T18:51:05"
+        }
+      ]
+    },
+    {
+      "event_id": 314,
+      "title": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?",
+      "summary": "Ford shares dropped 4% after a rally based on unconfirmed Bronco product reports faded, while General Motors gained 1%, indicating a company-specific reversal for Ford rather than a sector trend. Tesla also slipped 2% due to unrelated AI infrastructure capital-spending pressures. Investors are advised to exercise patience with Ford and monitor its upcoming Bronco recall notification on August 24.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-20T18:33:55",
+      "first_seen_at": "2026-08-20T20:00:02.824248",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.939853,
+          "sentiment_score": -0.306993,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.905108,
+          "sentiment_score": 0.259165,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.80093,
+          "sentiment_score": -0.203545,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.623398,
+          "sentiment_score": -0.33576,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912171
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.841217
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.720301
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.616637
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 330,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?",
+          "url": "https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/",
+          "published_at": "2026-08-20T18:33:55"
+        }
+      ]
+    },
+    {
+      "event_id": 315,
+      "title": "Arch Capital Group stock holds firm after a July 28 earnings beat",
+      "summary": "Arch Capital Group (ACGL) stock maintained its position at $98.53 after beating second-quarter 2026 earnings and revenue estimates. The insurer reported $2.56 EPS and $4.67 billion in revenue, surpassing analyst consensus. Despite a slight year-over-year EPS decline, the company's strong net margin, return on equity, and $800 million stock repurchase reinforce its steady performance in specialty insurance, reinsurance, and mortgage insurance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-20T18:23:57",
+      "first_seen_at": "2026-08-20T20:00:03.167741",
+      "assets": [
+        {
+          "symbol": "ACGL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409906,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94577
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801146
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.746727
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 331,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Arch Capital Group stock holds firm after a July 28 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/arch-capital-group-stock-holds-firm-after-a-july-28-earnings-beat/69977738",
+          "published_at": "2026-08-20T18:23:57"
+        }
+      ]
+    },
+    {
+      "event_id": 316,
+      "title": "Vulcan Materials stock rises on a $2.59 earnings beat",
+      "summary": "Vulcan Materials (VMC) shares rose after the company reported quarterly EPS of $2.59, beating consensus estimates of $2.46, and revenue of $2.16 billion. The company reaffirmed its 2026 adjusted EBITDA guidance of $2.4 billion to $2.6 billion. The stock trades with a market capitalization of $35.83 billion, and its performance is closely tied to aggregate pricing, shipment volumes, and construction demand.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-20T18:23:29",
+      "first_seen_at": "2026-08-20T20:00:03.436885",
+      "assets": [
+        {
+          "symbol": "VMC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.469503,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901353
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.738359
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.715268
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.602154
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 332,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Vulcan Materials stock rises on a $2.59 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vulcan-materials-stock-rises-on-a-2-59-earnings-beat/69977739",
+          "published_at": "2026-08-20T18:23:29"
+        }
+      ]
+    },
+    {
+      "event_id": 317,
+      "title": "General Electric Co Stock (GE) Moved Down by 3.20% on Aug 20: What Signal Does It Send?",
+      "summary": "General Electric Co (GE) stock dropped by 3.20% on August 20th due to profit-taking after a sustained rally and persistent operational and cost pressures within the aerospace manufacturing environment. Despite strong demand, supply chain bottlenecks, rising expenses, and valuation recalibrations contributed to the decline. Technical indicators show neutral MACD and RSI but an oversold Williams %R, while analysts maintain \"Buy\" ratings with an average price target of $399.21.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-20T18:14:59",
+      "first_seen_at": "2026-08-20T20:00:03.689688",
+      "assets": [
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.423454,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.701174,
+          "sentiment_score": -0.406443,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94098
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.91938
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.825215
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.718254
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 333,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "General Electric Co Stock (GE) Moved Down by 3.20% on Aug 20: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262121895-market-movers-ge-20260820",
+          "published_at": "2026-08-20T18:14:59"
+        }
+      ]
+    },
+    {
+      "event_id": 318,
+      "title": "Deere Stock Soars After Construction Unit Drives Earnings Beat",
+      "summary": "Deere & Co. shares surged after the company's fiscal third-quarter results, driven by its construction and forestry business, beat analyst expectations. The company also raised the lower end of its full-year earnings guidance. Despite a revenue decline in its largest unit, strong growth in construction and forestry, along with double-digit sales growth in small agriculture and turf, contributed to the positive performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-20T17:50:31",
+      "first_seen_at": "2026-08-20T20:00:03.938666",
+      "assets": [
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.547794,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902123
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831447
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.738961
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.621381
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60996
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 334,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investopedia",
+          "source_domain": "Investopedia",
+          "headline": "Deere Stock Soars After Construction Unit Drives Earnings Beat",
+          "url": "https://www.investopedia.com/market-update-deere-stock-soars-after-construction-unit-drives-earnings-beat-de-12064433",
+          "published_at": "2026-08-20T17:50:31"
+        }
+      ]
+    },
+    {
       "event_id": 307,
       "title": "Cardano Surges 5.66% on Macro Shocks and Project News",
       "summary": "Cardano (ADA) experienced a 5.66% surge due to a combination of macro-economic factors, project-specific news, and a bullish short-term technical setup. A US Treasury announcement regarding increased long-term bond buybacks triggered a broad crypto market rally and a significant short squeeze. This macro shift, coupled with Cardano's new IBC testnet connection to Injective and the initiation of its Dijkstra network upgrade, provided strong catalysts for ADA's price movement.",
@@ -823,372 +1161,6 @@
           "headline": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
           "url": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/3951664/stocks-making-big-moves-yesterday-wendys-equifax-jack-henry-pultegroup-and-stryker/",
           "published_at": "2026-08-20T15:07:53"
-        }
-      ]
-    },
-    {
-      "event_id": 295,
-      "title": "Deere Shares Rise After Q3 Beat and Higher Full-Year Outlook",
-      "summary": "Deere & Company (DE) shares rose 7.5% after the company reported a stronger-than-expected fiscal third quarter and raised its full-year profit outlook. Investors were also encouraged by management's view that 2026 would mark the bottom of the current agricultural equipment cycle. The company's net income and sales increased, and institutional investors showed significant activity in DE stock.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-20T14:53:00",
-      "first_seen_at": "2026-08-20T16:00:02.348600",
-      "assets": [
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.81754,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918084
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.739556
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.640095
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.605629
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 311,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Deere Shares Rise After Q3 Beat and Higher Full-Year Outlook",
-          "url": "https://www.quiverquant.com/news/Deere+Shares+Rise+After+Q3+Beat+and+Higher+Full-Year+Outlook",
-          "published_at": "2026-08-20T14:53:00"
-        }
-      ]
-    },
-    {
-      "event_id": 297,
-      "title": "Valero Energy stock hits all-time high at 351.2 USD",
-      "summary": "Valero Energy Corporation's stock has reached an all-time high of $351.20, driven by robust performance in the energy sector, a 149.73% 1-year change, and strong Q2 earnings. Despite being overvalued according to InvestingPro, the company boasts a \"GREAT\" financial health rating and positive market conditions, including rising oil prices. Analysts have raised price targets following these strong results, reflecting continued investor confidence.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-20T14:14:11",
-      "first_seen_at": "2026-08-20T16:00:02.962103",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.414239,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.613252,
-          "sentiment_score": 0.343266,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943807
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.926201
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.847198
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.64861
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 313,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Valero Energy stock hits all-time high at 351.2 USD",
-          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
-          "published_at": "2026-08-20T14:14:11"
-        }
-      ]
-    },
-    {
-      "event_id": 296,
-      "title": "Diamondback Energy stock hits all-time high at 214.71 USD",
-      "summary": "Diamondback Energy Inc. (FANG) has reached an all-time high stock price of $214.71, currently trading at $215.07 with a market capitalization of $59.89 billion. The company's stock has seen a 55.46% increase over the past year and InvestingPro analysis suggests it is undervalued. This follows strong Q2 2026 earnings, though one analyst downgraded the stock due to valuation concerns and future spending plans.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-20T14:14:11",
-      "first_seen_at": "2026-08-20T16:00:02.669917",
-      "assets": [
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.486973,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.593306,
-          "sentiment_score": 0.117955,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913802
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.903768
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.821266
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 312,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Diamondback Energy stock hits all-time high at 214.71 USD",
-          "url": "https://www.investing.com/news/company-news/diamondback-energy-stock-hits-alltime-high-at-21471-usd-93CH-4869953",
-          "published_at": "2026-08-20T14:14:11"
-        }
-      ]
-    },
-    {
-      "event_id": 290,
-      "title": "ConocoPhillips Stock (COP) Opened Up by 3.04% on Aug 20: What Investors Need To Know",
-      "summary": "ConocoPhillips (COP) stock opened up by 3.04% due to strong second-quarter earnings, bullish analyst revisions, and a commitment to shareholder returns. Technical indicators suggest a buy signal, while the company faces risks such as leadership succession and geopolitical instability. The energy major's strategic moves and robust operational cash flow have bolstered investor confidence despite broader market fluctuations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-20T13:47:25",
-      "first_seen_at": "2026-08-20T15:00:01.828122",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.992903,
-          "sentiment_score": 0.469207,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.741675,
-          "sentiment_score": 0.316996,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.664304,
-          "sentiment_score": 0.268298,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 0.618754,
-          "sentiment_score": 0.217538,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.58335,
-          "sentiment_score": -0.305914,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947941
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937159
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.820495
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 306,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "ConocoPhillips Stock (COP) Opened Up by 3.04% on Aug 20: What Investors Need To Know",
-          "url": "https://www.tradingkey.com/news/market-movers/262121418-market-movers-cop-20260820",
-          "published_at": "2026-08-20T13:47:25"
-        }
-      ]
-    },
-    {
-      "event_id": 291,
-      "title": "Charter Closes $34.5 Billion Cox, Liberty Broadband Acquisitions",
-      "summary": "Charter Communications has completed its $34.5 billion acquisition of Cox Communications and Liberty Broadband, making it the largest pay-TV and high-speed internet provider in the U.S. with 43.2 million customers. The parent company name will change to Cox Communications, while customer-facing services will retain the Spectrum brand. Spectrum plans to offer various benefits, including a free year of mobile service for former Cox internet customers and a full suite of products with transparent pricing to new markets.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-20T13:38:29",
-      "first_seen_at": "2026-08-20T15:00:02.179940",
-      "assets": [
-        {
-          "symbol": "CHTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.454711,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CMCSA",
-          "asset_class": null,
-          "relevance_score": 0.619859,
-          "sentiment_score": 0.117838,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LBDKV",
-          "asset_class": null,
-          "relevance_score": 0.312021,
-          "sentiment_score": 0.03846,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.819277
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.747803
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 307,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Media Play News",
-          "source_domain": "Media Play News",
-          "headline": "Charter Closes $34.5 Billion Cox, Liberty Broadband Acquisitions",
-          "url": "https://www.mediaplaynews.com/charter-closes-34-5-billion-cox-liberty-broadband-acquisitions/",
-          "published_at": "2026-08-20T13:38:29"
-        }
-      ]
-    },
-    {
-      "event_id": 287,
-      "title": "Trimble stock jumps after Q2 earnings beat and guidance raise",
-      "summary": "Trimble Inc. (TRMB) saw its stock rise after reporting better-than-expected Q2 2026 earnings and revenue, leading the company to raise its full-year guidance. The strong performance, driven by double-digit organic growth and an increase in recurring revenue, has reinforced investor confidence. Analysts have responded positively, with one firm increasing its price target, and valuation metrics suggesting the stock may still be undervalued despite the recent rally.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-20T13:23:00",
-      "first_seen_at": "2026-08-20T14:00:02.490622",
-      "assets": [
-        {
-          "symbol": "TRMB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.45325,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.828639
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.74887
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.642789
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.625494
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 303,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Trimble stock jumps after Q2 earnings beat and guidance raise",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/trimble-stock-jumps-after-q2-earnings-beat-and-guidance-raise/69975620",
-          "published_at": "2026-08-20T13:23:00"
         }
       ]
     }
