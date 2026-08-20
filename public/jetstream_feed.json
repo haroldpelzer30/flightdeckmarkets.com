@@ -5,6 +5,372 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 307,
+      "title": "Cardano Surges 5.66% on Macro Shocks and Project News",
+      "summary": "Cardano (ADA) experienced a 5.66% surge due to a combination of macro-economic factors, project-specific news, and a bullish short-term technical setup. A US Treasury announcement regarding increased long-term bond buybacks triggered a broad crypto market rally and a significant short squeeze. This macro shift, coupled with Cardano's new IBC testnet connection to Injective and the initiation of its Dijkstra network upgrade, provided strong catalysts for ADA's price movement.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-20T17:40:12",
+      "first_seen_at": "2026-08-20T19:00:02.146949",
+      "assets": [
+        {
+          "symbol": "CRDD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.449575,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": 0.947511
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.919875
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826622
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 323,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CoinMarketCap",
+          "source_domain": "CoinMarketCap",
+          "headline": "Cardano Surges 5.66% on Macro Shocks and Project News",
+          "url": "https://coinmarketcap.com/top-stories/6a8629e6e9294340172a4ed1/",
+          "published_at": "2026-08-20T17:40:12"
+        }
+      ]
+    },
+    {
+      "event_id": 308,
+      "title": "Columbus Circle Capital Corp II Signs $800M Merger Agreement with Elroy Air",
+      "summary": "Columbus Circle Capital Corp II (NASDAQ: CMIIU, CMII, CMIIW) has entered into a definitive $800 million merger agreement with Elroy Air, Inc., a developer of autonomous cargo aircraft. The SPAC aims to transform from a shell company into an operating business in the autonomous aviation sector. The transaction will include the issuance of up to 11,000,000 additional shares as earnout consideration and is expected to be funded by the SPAC's $233.1 million trust account.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-20T17:39:47",
+      "first_seen_at": "2026-08-20T19:00:02.396666",
+      "assets": [
+        {
+          "symbol": "CMII",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.395074,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": 0.805489
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.747653
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.647039
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.632654
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 324,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Minichart",
+          "source_domain": "Minichart",
+          "headline": "Columbus Circle Capital Corp II Signs $800M Merger Agreement with Elroy Air",
+          "url": "https://www.minichart.com.sg/2026/08/19/columbus-circle-capital-corp-ii-signs-800m-merger-agreement-with-elroy-air/",
+          "published_at": "2026-08-20T17:39:47"
+        }
+      ]
+    },
+    {
+      "event_id": 309,
+      "title": "SCC chair won’t recuse herself from NextEra-Dominion case",
+      "summary": "State Corporation Commission Chair Kelsey A. Bagot has stated she will not recuse herself from the proposed $66.8 billion NextEra Energy-Dominion Energy merger proceedings. Bagot, who previously worked as a senior attorney for NextEra, asserted her duty to impartially discharge her duties and noted that her past work history with a regulated entity does not typically require recusal. The merger, which would create the world’s largest regulated electric utility, is expected to close in the second half of 2027 and is facing opposition in Virginia.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-20T17:36:29",
+      "first_seen_at": "2026-08-20T19:00:02.683585",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.24396,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.908842,
+          "sentiment_score": 0.210475,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.937369
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.711172
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 325,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Virginia Business",
+          "source_domain": "Virginia Business",
+          "headline": "SCC chair won’t recuse herself from NextEra-Dominion case",
+          "url": "https://virginiabusiness.com/scc-chair-bagot-not-recusing-nextera-dominion-case/",
+          "published_at": "2026-08-20T17:36:29"
+        }
+      ]
+    },
+    {
+      "event_id": 310,
+      "title": "Chevron vs. Exxon Mobil: The Better Energy Stock for the Next 5 Years",
+      "summary": "This article compares Exxon Mobil (XOM) and Chevron (CVX) as investment opportunities for the next five years, noting their different strategies in a tight oil market. While Exxon focuses on its Guyana operations, Permian Basin, and refining, Chevron is leveraging its Hess acquisition and a new venture into powering AI data centers. The author leans towards Chevron due to faster-than-expected Hess synergies, a new revenue stream from a Microsoft power deal, and a higher dividend yield, despite Exxon's stronger balance sheet and longer dividend streak.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-20T17:30:26",
+      "first_seen_at": "2026-08-20T19:00:02.942335",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.295032,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.950471,
+          "sentiment_score": 0.30369,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.742466,
+          "sentiment_score": 0.208081,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.598186,
+          "sentiment_score": 0.229776,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 0.556959,
+          "sentiment_score": 0.235449,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.949462
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.804686
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.741719
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.648083
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 326,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Chevron vs. Exxon Mobil: The Better Energy Stock for the Next 5 Years",
+          "url": "https://247wallst.com/investing/2026/08/20/chevron-vs-exxon-mobil-the-better-energy-stock-for-the-next-5-years/",
+          "published_at": "2026-08-20T17:30:26"
+        }
+      ]
+    },
+    {
+      "event_id": 311,
+      "title": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+      "summary": "SLB is preparing to reactivate up to 15 idle drilling and workover rigs in Venezuela, with four expected to be operational by the end of 2026. This move aims to address bottlenecks in the country's crude production recovery, potentially increasing output significantly from the current two active onshore rigs. The effort is distinct from Formentera Partners' plans to import new rigs, and both initiatives highlight renewed international interest in Venezuela's vast oil reserves.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-08-20T17:22:58",
+      "first_seen_at": "2026-08-20T19:00:03.314532",
+      "assets": [
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.484372,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.844309,
+          "sentiment_score": 0.310995,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.634516,
+          "sentiment_score": 0.201138,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HAL",
+          "asset_class": null,
+          "relevance_score": 0.629008,
+          "sentiment_score": 0.246376,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.571175,
+          "sentiment_score": -0.113184,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.947784
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.807924
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.633386
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 327,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Energy News Beat",
+          "source_domain": "Energy News Beat",
+          "headline": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+          "url": "https://energynewsbeat.co/crude-oil/slb-prepares-to-restart-15-oil-rigs-in-venezuela/",
+          "published_at": "2026-08-20T17:22:58"
+        }
+      ]
+    },
+    {
+      "event_id": 312,
+      "title": "PPL stock holds after a Q2 earnings miss",
+      "summary": "PPL Corporation's stock held near $35.95 despite a Q2 earnings and revenue miss, with EPS of $0.33 against an expected $0.34 and revenue of $2.11 billion versus $2.19 billion estimated. The company maintained its full-year 2026 EPS guidance of $1.90 to $1.98, indicating the miss was within expectations for continued steady cash flow from its regulated utility operations. Analyst price targets remain above the current share price, with an average target of $41.50.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-20T17:08:51",
+      "first_seen_at": "2026-08-20T19:00:03.626000",
+      "assets": [
+        {
+          "symbol": "PPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.041593,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925581
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.822878
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.741942
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 328,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "PPL stock holds after a Q2 earnings miss",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-stock-holds-after-a-q2-earnings-miss/69977334",
+          "published_at": "2026-08-20T17:08:51"
+        }
+      ]
+    },
+    {
       "event_id": 303,
       "title": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
       "summary": "Huntington Ingalls Industries (HII) stock is trading above $300 in August 2026, driven by strong Q2 2026 revenue growth of 10.9% and increasing investor interest in nuclear-powered shipping. The company, the sole builder of nuclear aircraft carriers and submarines for the US Navy, is seeing operational momentum with the USS John F. Kennedy completing sea trials. Analysts maintain a \"Moderate Buy\" rating with price targets in the mid-to-high $300s, reflecting an anticipated upside despite recent robust performance.",
@@ -823,300 +1189,6 @@
           "headline": "Trimble stock jumps after Q2 earnings beat and guidance raise",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/trimble-stock-jumps-after-q2-earnings-beat-and-guidance-raise/69975620",
           "published_at": "2026-08-20T13:23:00"
-        }
-      ]
-    },
-    {
-      "event_id": 293,
-      "title": "Xcel Energy Rates to go Up",
-      "summary": "The Colorado Public Utilities Commission has approved a rate increase for Xcel Energy, raising residential bills by $5 and commercial bills by $7 monthly. This approved increase is about half of Xcel's initial request and is intended to fund infrastructure improvements. Despite the company's rates having risen 22.2% since September 2023, the settlement faced opposition from various consumer advocacy groups.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-20T13:21:12",
-      "first_seen_at": "2026-08-20T15:00:02.716931",
-      "assets": [
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 0.978783,
-          "sentiment_score": 0.284075,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.837861
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 309,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Heart of the Rockies Radio |",
-          "source_domain": "Heart of the Rockies Radio |",
-          "headline": "Xcel Energy Rates to go Up",
-          "url": "https://heartoftherockiesradio.com/xcel-energy-rates-to-go-up/",
-          "published_at": "2026-08-20T13:21:12"
-        }
-      ]
-    },
-    {
-      "event_id": 294,
-      "title": "Is LSI Industries (LYTS) Overvalued After Q4 Earnings Miss? EPS at $0.18, Revenue of $234.6M -- GF Score: 88/100",
-      "summary": "LSI Industries (LYTS) reported a significant 51% year-over-year increase in Q4 net sales to $234.6 million, with full-year revenue reaching a record $689.4 million. Despite this growth, net income was $6.9 million ($0.18 EPS), impacted by $3.0 million in acquisition-related costs, missing analyst estimates of $0.27 per share. GuruFocus indicates the stock is overvalued by 17.3% with a GF Score of 88/100, and a low predictability rank, alongside significant insider selling.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-20T13:12:13",
-      "first_seen_at": "2026-08-20T15:00:02.953492",
-      "assets": [
-        {
-          "symbol": "LYTS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.232044,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.926659
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.838444
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.630613
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.613599
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.600653
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 310,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GuruFocus",
-          "source_domain": "GuruFocus",
-          "headline": "Is LSI Industries (LYTS) Overvalued After Q4 Earnings Miss? EPS at $0.18, Revenue of $234.6M -- GF Score: 88/100",
-          "url": "https://www.gurufocus.com/news/9045245/is-lsi-industries-lyts-overvalued-after-q4-earnings-miss-eps-at-018-revenue-of-2346m-gf-score-88100",
-          "published_at": "2026-08-20T13:12:13"
-        }
-      ]
-    },
-    {
-      "event_id": 288,
-      "title": "Mettler-Toledo stock steadies after Q2 2026 earnings beat",
-      "summary": "Mettler-Toledo International Inc. (MTD) stock is trading in the mid-$1,300s on the NYSE, supported by a Q2 2026 earnings beat where EPS exceeded analyst estimates by $0.66. Despite a slight dip in recent sessions, the stock maintains a positive year-to-date performance and is holding steady, reflecting investor confidence in its operational outperformance in precision instruments and analytical equipment. The company's consistent earnings delivery reinforces its premium valuation within the sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-20T12:48:37",
-      "first_seen_at": "2026-08-20T14:00:02.801730",
-      "assets": [
-        {
-          "symbol": "MTD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.48016,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90967
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.725277
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.629582
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 304,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Mettler-Toledo stock steadies after Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mettler-toledo-stock-steadies-after-q2-2026-earnings-beat/69976023",
-          "published_at": "2026-08-20T12:48:37"
-        }
-      ]
-    },
-    {
-      "event_id": 289,
-      "title": "PSEG Launches Community Impact Update, Highlights Statewide Community Presence with $12.8 Million in Corporate and Foundation Giving and $16.3 Billion Economic Output in 2025",
-      "summary": "Public Service Enterprise Group (PSEG) has released its 2025 Community Impact Update, detailing its significant contributions to New Jersey's economy and communities. The report highlights $12.8 million in philanthropic giving, $16.3 billion in economic output, and substantial investments in energy infrastructure. PSEG also announced a forthcoming 2026 Sustainability Report that will further explore its environmental stewardship, workforce development, and customer support initiatives.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 69,
-      "published_at": "2026-08-20T12:44:47",
-      "first_seen_at": "2026-08-20T14:00:03.084748",
-      "assets": [
-        {
-          "symbol": "PEG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424983,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946859
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944252
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.835431
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.734274
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 305,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "PSEG Launches Community Impact Update, Highlights Statewide Community Presence with $12.8 Million in Corporate and Foundation Giving and $16.3 Billion Economic Output in 2025",
-          "url": "https://finance.yahoo.com/energy/articles/pseg-launches-community-impact-highlights-124500893.html",
-          "published_at": "2026-08-20T12:44:47"
-        }
-      ]
-    },
-    {
-      "event_id": 286,
-      "title": "Waters stock climbs after earnings beat and guidance lift",
-      "summary": "Waters Corp (US9418481035) stock climbed to $416.45 after reporting a second-quarter beat with revenue of $1.65 billion and adjusted EPS of $3.05, exceeding expectations. The company also lifted its 2026 adjusted EPS guidance to $14.45-$14.65 and organic growth to 7%-9%. Analyst consensus remains a Moderate Buy with a price target of $420.35, placing importance on the execution of the new guidance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-20T11:32:48",
-      "first_seen_at": "2026-08-20T13:00:02.545043",
-      "assets": [
-        {
-          "symbol": "WAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.780752,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931276
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84611
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.700762
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 302,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Waters stock climbs after earnings beat and guidance lift",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waters-stock-climbs-after-earnings-beat-and-guidance-lift/69975663",
-          "published_at": "2026-08-20T11:32:48"
-        }
-      ]
-    },
-    {
-      "event_id": 283,
-      "title": "Michigan lawmakers should cap utility rate increases and give families relief",
-      "summary": "The author, a Lansing resident, father, and grandfather, highlights the struggle of living paycheck to paycheck due to soaring utility bills, particularly from Consumers Energy. He advocates for Michigan lawmakers to cap utility rate increases, citing Consumers Energy's high revenues and executive salaries while families struggle. The article emphasizes that a rate cap would provide financial stability and predictability for Michiganders, drawing parallels to actions taken in other states like New Jersey.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-20T11:04:31",
-      "first_seen_at": "2026-08-20T12:00:02.942256",
-      "assets": [
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.449246,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.904392
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.832003
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.746419
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 299,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Michigan Advance",
-          "source_domain": "Michigan Advance",
-          "headline": "Michigan lawmakers should cap utility rate increases and give families relief",
-          "url": "https://michiganadvance.com/2026/08/20/michigan-lawmakers-should-cap-utility-rate-increases-and-give-families-relief/",
-          "published_at": "2026-08-20T11:04:31"
         }
       ]
     }
