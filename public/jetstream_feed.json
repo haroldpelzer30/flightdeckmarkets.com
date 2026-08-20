@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 286,
+      "title": "Waters stock climbs after earnings beat and guidance lift",
+      "summary": "Waters Corp (US9418481035) stock climbed to $416.45 after reporting a second-quarter beat with revenue of $1.65 billion and adjusted EPS of $3.05, exceeding expectations. The company also lifted its 2026 adjusted EPS guidance to $14.45-$14.65 and organic growth to 7%-9%. Analyst consensus remains a Moderate Buy with a price target of $420.35, placing importance on the execution of the new guidance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-20T11:32:48",
+      "first_seen_at": "2026-08-20T13:00:02.545043",
+      "assets": [
+        {
+          "symbol": "WAT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.780752,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931276
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84611
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.700762
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 302,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Waters stock climbs after earnings beat and guidance lift",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waters-stock-climbs-after-earnings-beat-and-guidance-lift/69975663",
+          "published_at": "2026-08-20T11:32:48"
+        }
+      ]
+    },
+    {
       "event_id": 283,
       "title": "Michigan lawmakers should cap utility rate increases and give families relief",
       "summary": "The author, a Lansing resident, father, and grandfather, highlights the struggle of living paycheck to paycheck due to soaring utility bills, particularly from Consumers Energy. He advocates for Michigan lawmakers to cap utility rate increases, citing Consumers Energy's high revenues and executive salaries while families struggle. The article emphasizes that a rate cap would provide financial stability and predictability for Michiganders, drawing parallels to actions taken in other states like New Jersey.",
@@ -990,53 +1037,6 @@
           "headline": "Resilient Occidental Petroleum stock holds near $60 as fresh earnings beat and analyst targets suppo",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-occidental-petroleum-stock-holds-near-60-as-fresh-earnings-beat/69971979",
           "published_at": "2026-08-19T17:26:59"
-        }
-      ]
-    },
-    {
-      "event_id": 261,
-      "title": "Waters stock slips after earnings beat and guidance holds",
-      "summary": "Waters Corp (WAT) stock experienced a slight dip despite beating earnings expectations for the latest quarter, reporting $1.65 billion in revenue and $3.05 EPS against an expected $1.62 billion and $3.01 respectively. The company also issued Q3 and FY 2026 EPS guidance, which, while competitive, did not prevent the stock from trading lower. The market's focus remains on whether Waters can sustain growth and improve its narrow profitability margins, especially given its high P/E ratio.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-19T17:04:36",
-      "first_seen_at": "2026-08-19T18:00:02.181439",
-      "assets": [
-        {
-          "symbol": "WAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.190581,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.838281
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.734263
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 277,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Waters stock slips after earnings beat and guidance holds",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waters-stock-slips-after-earnings-beat-and-guidance-holds/69971847",
-          "published_at": "2026-08-19T17:04:36"
         }
       ]
     }
