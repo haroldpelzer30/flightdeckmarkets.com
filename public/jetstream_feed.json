@@ -5,6 +5,175 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 295,
+      "title": "Deere Shares Rise After Q3 Beat and Higher Full-Year Outlook",
+      "summary": "Deere & Company (DE) shares rose 7.5% after the company reported a stronger-than-expected fiscal third quarter and raised its full-year profit outlook. Investors were also encouraged by management's view that 2026 would mark the bottom of the current agricultural equipment cycle. The company's net income and sales increased, and institutional investors showed significant activity in DE stock.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-20T14:53:00",
+      "first_seen_at": "2026-08-20T16:00:02.348600",
+      "assets": [
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.818668,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911727
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.739556
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640095
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.605629
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 311,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Deere Shares Rise After Q3 Beat and Higher Full-Year Outlook",
+          "url": "https://www.quiverquant.com/news/Deere+Shares+Rise+After+Q3+Beat+and+Higher+Full-Year+Outlook",
+          "published_at": "2026-08-20T14:53:00"
+        }
+      ]
+    },
+    {
+      "event_id": 297,
+      "title": "Valero Energy stock hits all-time high at 351.2 USD",
+      "summary": "Valero Energy Corporation's stock has reached an all-time high of $351.20, driven by robust performance in the energy sector, a 149.73% 1-year change, and strong Q2 earnings. Despite being overvalued according to InvestingPro, the company boasts a \"GREAT\" financial health rating and positive market conditions, including rising oil prices. Analysts have raised price targets following these strong results, reflecting continued investor confidence.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-20T14:14:11",
+      "first_seen_at": "2026-08-20T16:00:02.962103",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.414239,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.613252,
+          "sentiment_score": 0.343266,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.943807
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.926201
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.847198
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.64861
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 313,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Valero Energy stock hits all-time high at 351.2 USD",
+          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
+          "published_at": "2026-08-20T14:14:11"
+        }
+      ]
+    },
+    {
+      "event_id": 296,
+      "title": "Diamondback Energy stock hits all-time high at 214.71 USD",
+      "summary": "Diamondback Energy Inc. (FANG) has reached an all-time high stock price of $214.71, currently trading at $215.07 with a market capitalization of $59.89 billion. The company's stock has seen a 55.46% increase over the past year and InvestingPro analysis suggests it is undervalued. This follows strong Q2 2026 earnings, though one analyst downgraded the stock due to valuation concerns and future spending plans.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-20T14:14:11",
+      "first_seen_at": "2026-08-20T16:00:02.669917",
+      "assets": [
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.486973,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.593306,
+          "sentiment_score": 0.117955,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913802
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903768
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.821266
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 312,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Diamondback Energy stock hits all-time high at 214.71 USD",
+          "url": "https://www.investing.com/news/company-news/diamondback-energy-stock-hits-alltime-high-at-21471-usd-93CH-4869953",
+          "published_at": "2026-08-20T14:14:11"
+        }
+      ]
+    },
+    {
       "event_id": 290,
       "title": "ConocoPhillips Stock (COP) Opened Up by 3.04% on Aug 20: What Investors Need To Know",
       "summary": "ConocoPhillips (COP) stock opened up by 3.04% due to strong second-quarter earnings, bullish analyst revisions, and a commitment to shareholder returns. Technical indicators suggest a buy signal, while the company faces risks such as leadership succession and geopolitical instability. The energy major's strategic moves and robust operational cash flow have bolstered investor confidence despite broader market fluctuations.",
@@ -888,203 +1057,6 @@
           "headline": "Xcel Energy stock holds steady as institutional buying supports outlook",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-holds-steady-as-institutional-buying-supports-outlook/69972828",
           "published_at": "2026-08-19T20:00:00"
-        }
-      ]
-    },
-    {
-      "event_id": 278,
-      "title": "Ford Stock Rises As Analysts Hike Targets After Strong Q2",
-      "summary": "Ford Motor Company (F) stock rose 3.45% after analysts hiked price targets following a strong Q2 earnings report that exceeded expectations. The company also raised its full-year core profit outlook and medium-term guidance, signaling improving fundamentals and a clearer path to EV profitability despite projected losses in its Model e unit. Ford's strategic moves include a U.S. Army contract, a JV with Geely, and plans for an affordable midsize electric truck, diversifying its business beyond traditional auto manufacturing.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-19T19:04:01",
-      "first_seen_at": "2026-08-19T21:00:02.634381",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.468392,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.592435,
-          "sentiment_score": 0.203081,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.587785,
-          "sentiment_score": 0.136194,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.902576
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.846823
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.74404
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.635842
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 294,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "Ford Stock Rises As Analysts Hike Targets After Strong Q2",
-          "url": "https://stockstotrade.com/news/ford-motor-company-f-news-2026_08_19/",
-          "published_at": "2026-08-19T19:04:01"
-        }
-      ]
-    },
-    {
-      "event_id": 269,
-      "title": "Dover stock holds above $200 as Q2 2026 earnings and new acquisition shape outlook",
-      "summary": "Dover Corp. stock is trading above $200 after reporting solid Q2 2026 results, with revenue of $2.19 billion and earnings per share of $2.74, slightly exceeding expectations. The company also announced the acquisition of India-based Leistung Engineering to expand its international footprint. Analysts have set price targets suggesting a significant upside, indicating confidence in Dover's operational and earnings plans despite some recent stock price consolidation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-19T18:41:00",
-      "first_seen_at": "2026-08-19T20:00:01.668933",
-      "assets": [
-        {
-          "symbol": "DOV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.275523,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916139
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.834685
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.727026
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.713456
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.626998
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 285,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Dover stock holds above $200 as Q2 2026 earnings and new acquisition shape outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dover-stock-holds-above-200-as-q2-2026-earnings-and-new-acquisition-shape/69972381",
-          "published_at": "2026-08-19T18:41:00"
-        }
-      ]
-    },
-    {
-      "event_id": 270,
-      "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
-      "summary": "Several major companies, including Nike, Target, and Amer Sports, have received significant tariff refunds due to reciprocal duties that were imposed last year and later ruled illegal. While these companies are benefiting, consumers who paid higher prices due to the tariffs are questioning if they will also receive refunds, with some lawsuits already filed against companies like Costco and Nike. The U.S. Customs and Border Protection is only processing refunds for registered importers, and it remains unclear how consumer-related lawsuits will be resolved.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-08-19T18:40:51",
-      "first_seen_at": "2026-08-19T20:00:01.961348",
-      "assets": [
-        {
-          "symbol": "AS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.335619,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 0.944424,
-          "sentiment_score": 0.329662,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NKE",
-          "asset_class": null,
-          "relevance_score": 0.943702,
-          "sentiment_score": 0.318153,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COST",
-          "asset_class": null,
-          "relevance_score": 0.610679,
-          "sentiment_score": 0.028514,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.933663
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 286,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WWD",
-          "source_domain": "WWD",
-          "headline": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
-          "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-target-refunds-consumers-payments-1239128922/",
-          "published_at": "2026-08-19T18:40:51"
         }
       ]
     }
