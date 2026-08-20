@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 326,
+      "title": "Targa Resources Corp. announces 20-Year agreements with ExxonMobil",
+      "summary": "Targa Resources Corp. announced new 20-year integrated midstream agreements with ExxonMobil subsidiaries for natural gas gathering, processing, treating, and liquid fractionation services in the Permian Basin. To support this, Targa plans to construct three new natural gas processing plants (Wrangler, Ranger, Ranger II) in the Delaware Basin, adding 825 MMcf/d capacity by H1 2028, and a 70-mile Bull Run II natural gas pipeline, increasing its 2026 growth capital estimate to $5 billion. These agreements significantly expand Targa's strategic relationship with ExxonMobil and are expected to drive substantial long-term volume growth and enhance Targa's financial outlook.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-20T21:39:24",
+      "first_seen_at": "2026-08-20T23:00:02.779519",
+      "assets": [
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.481842,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.94948,
+          "sentiment_score": 0.414809,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.713465
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 342,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BIC Magazine",
+          "source_domain": "BIC Magazine",
+          "headline": "Targa Resources Corp. announces 20-Year agreements with ExxonMobil",
+          "url": "https://www.bicmagazine.com/projects-expansions/midstream/targa-resources-corp-announces-20-year-agreements-with-exxon/",
+          "published_at": "2026-08-20T21:39:24"
+        }
+      ]
+    },
+    {
       "event_id": 325,
       "title": "Xcel Energy stock holds steady as Colorado approves 4.77% electric rate hike",
       "summary": "Xcel Energy's stock remained stable after Colorado regulators approved a 4.77% electric rate increase, which will raise residential bills by $5 per month and add $157 million in annual revenue for the utility. This decision, following nine months of deliberation, provides a fresh revenue tailwind and reinforces the company's regulated earnings visibility, aligning with its $50.28 billion market capitalization and an average analyst target of $92.41. The utility continues to balance infrastructure investments and renewable integration with consumer affordability and regulatory scrutiny.",
@@ -1066,69 +1117,6 @@
           "headline": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/huntington-ingalls-stock-extends-q2-gains-as-nuclear-shipbuilding-theme/69977215",
           "published_at": "2026-08-20T16:41:10"
-        }
-      ]
-    },
-    {
-      "event_id": 304,
-      "title": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs",
-      "summary": "Cruise line stocks, including Norwegian Cruise Line (NCLH), Carnival (CCL), and Royal Caribbean Group (RCL), experienced drops of 5%, 4%, and 3% respectively, driven by rising crude oil prices. Higher oil costs directly impact cruise operators' margins as fuel is a significant operating expense, with no company-specific news contributing to the declines. Royal Caribbean's larger market cap and positive year-to-date performance help it absorb the oil shock better than Norwegian Cruise Line, which has a smaller, more leveraged balance sheet.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-20T16:32:53",
-      "first_seen_at": "2026-08-20T18:00:02.618349",
-      "assets": [
-        {
-          "symbol": "RCL",
-          "asset_class": null,
-          "relevance_score": 0.961257,
-          "sentiment_score": -0.300138,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CCL",
-          "asset_class": null,
-          "relevance_score": 0.911088,
-          "sentiment_score": -0.28125,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NCLH",
-          "asset_class": null,
-          "relevance_score": 0.904899,
-          "sentiment_score": -0.321912,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923446
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.822962
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.724424
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 320,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs",
-          "url": "https://247wallst.com/investing/2026/08/20/norwegian-cruise-line-drops-5-carnival-falls-4-royal-caribbean-slips-3-as-oil-climbs/",
-          "published_at": "2026-08-20T16:32:53"
         }
       ]
     }
