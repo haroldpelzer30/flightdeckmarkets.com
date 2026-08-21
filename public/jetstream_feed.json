@@ -5,6 +5,144 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 357,
+      "title": "Ingersoll Rand stock holds in the high $70s as institutional buying supports the trend",
+      "summary": "Ingersoll Rand Inc. (US45687V1061) stock is trading in the high $70s on the NYSE, supported by significant institutional buying, including a major European bank acquiring over 1.2 million shares. This institutional confidence, coupled with recent quarterly revenue and earnings growth, indicates a constructive outlook for the industrial products group. The company continues to deliver strong financial performance, maintain a healthy backlog, and emphasize balance sheet resilience, reinforcing investor expectations for continued compound growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-21T17:38:24",
+      "first_seen_at": "2026-08-21T19:00:01.789545",
+      "assets": [
+        {
+          "symbol": "IR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.460416,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.910802
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901346
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.709492
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.608675
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 374,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Ingersoll Rand stock holds in the high $70s as institutional buying supports the trend",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ingersoll-rand-stock-holds-in-the-high-70s-as-institutional-buying/69982814",
+          "published_at": "2026-08-21T17:38:24"
+        }
+      ]
+    },
+    {
+      "event_id": 358,
+      "title": "Above the Noise: AI, earnings, and permabears",
+      "summary": "This article discusses the current market environment, highlighting the strong demand for AI technology that already exceeds supply, contrasting it with past speculative booms. The author points to robust corporate earnings growth without significant hiring increases as potential evidence of AI-driven productivity gains. It also addresses \"permabear\" concerns about market tops, arguing that current conditions like resilient growth and available liquidity challenge such narratives, while acknowledging the value of bearish perspectives in challenging assumptions.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 72,
+      "published_at": "2026-08-21T17:08:23",
+      "first_seen_at": "2026-08-21T19:00:02.078761",
+      "assets": [
+        {
+          "symbol": "IVZ",
+          "asset_class": null,
+          "relevance_score": 0.823558,
+          "sentiment_score": 0.123398,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.732686,
+          "sentiment_score": 0.346678,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.647297,
+          "sentiment_score": 0.202606,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 0.640479,
+          "sentiment_score": 0.342311,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "IBM",
+          "asset_class": null,
+          "relevance_score": 0.633396,
+          "sentiment_score": 0.233007,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.947144
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.810571
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.727604
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 375,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Invesco",
+          "source_domain": "Invesco",
+          "headline": "Above the Noise: AI, earnings, and permabears",
+          "url": "https://www.invesco.com/us/en/insights/ai-earnings-permabears-markets-oil-growth-bears.html",
+          "published_at": "2026-08-21T17:08:23"
+        }
+      ]
+    },
+    {
       "event_id": 352,
       "title": "Medifast director Parsa Kiai acquires $842,698 in company shares By Investing.com",
       "summary": "Medifast director Parsa Kiai indirectly acquired shares worth $842,698 on August 19 and 20, 2026, through investment entities he manages. The acquisitions occurred at average prices between $11.6037 and $11.6576 per share, with the company's stock currently trading at $11.95. Despite Medifast's impressive gross profit margins, it has not been profitable over the last twelve months, although it recently surpassed analyst expectations for Q2 2026 financial results.",
@@ -20,7 +158,7 @@
           "symbol": "MED",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.336861,
+          "sentiment_score": 0.339412,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -32,7 +170,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.804145
+          "relevance_score": 0.837752
         },
         {
           "topic": "finance",
@@ -980,120 +1118,6 @@
           "headline": "Steel Dynamics stock falls on tariff pressure and valuation",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
           "published_at": "2026-08-21T13:01:21"
-        }
-      ]
-    },
-    {
-      "event_id": 337,
-      "title": "Resilient News Corp stock holds above $29 as fresh earnings beat lifts outlook",
-      "summary": "News Corp's stock is trading above $29 after a strong fiscal Q4 2026 earnings report, which saw revenue increase by 10.8% to $2.34 billion and adjusted EPS beat consensus estimates at $0.35. This performance has led to a more positive outlook for the company, with analysts' average target price suggesting further upside potential. The company's ongoing $1 billion share repurchase program further underscores its commitment to capital return and investor value.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-21T12:27:00",
-      "first_seen_at": "2026-08-21T14:00:03.078962",
-      "assets": [
-        {
-          "symbol": "NWSA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.43058,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949666
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.729177
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 353,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient News Corp stock holds above $29 as fresh earnings beat lifts outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-news-corp-stock-holds-above-29-as-fresh-earnings-beat-lifts/69981047",
-          "published_at": "2026-08-21T12:27:00"
-        }
-      ]
-    },
-    {
-      "event_id": 338,
-      "title": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
-      "summary": "On CNBC's \"Halftime Report Final Trades,\" experts recommended ServiceNow, Vertex Pharmaceuticals, and Uber Technologies. ServiceNow was highlighted for its expanded partnership with Tech Mahindra on AI projects. Vertex Pharmaceuticals was noted for its strong Q2 earnings and raised FY2026 sales guidance, while Uber was featured for launching fully driverless Apollo Go robotaxis in Dubai with Baidu.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-21T12:19:31",
-      "first_seen_at": "2026-08-21T14:00:03.292330",
-      "assets": [
-        {
-          "symbol": "UBER",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.309154,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOW",
-          "asset_class": null,
-          "relevance_score": 0.82374,
-          "sentiment_score": 0.337653,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VRTX",
-          "asset_class": null,
-          "relevance_score": 0.70431,
-          "sentiment_score": 0.317194,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.933679
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.802211
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.749411
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.705146
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.648402
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 354,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
-          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61352685/uber-servicenow-and-a-health-care-stock-on-cnbcs-final-trades",
-          "published_at": "2026-08-21T12:19:31"
         }
       ]
     }
