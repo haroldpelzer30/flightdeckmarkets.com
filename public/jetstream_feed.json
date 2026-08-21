@@ -5,6 +5,136 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 365,
+      "title": "PPL stock slips after an August 7 earnings miss",
+      "summary": "PPL stock slipped after reporting Q2 EPS of $0.33, missing the $0.34 forecast, despite revenue reaching $2.11 billion and the company maintaining its fiscal 2026 EPS guidance. Analysts remain constructive with a $42 price target, and PPL declared a steady quarterly dividend of $0.285 a share, reinforcing its defensive utility profile. The stock's current price of $34.69 is below its 52-week high but well above its low, with a market value of $26.11 billion.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-21T21:02:13",
+      "first_seen_at": "2026-08-21T22:00:02.129166",
+      "assets": [
+        {
+          "symbol": "PPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.205269,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937257
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.819098
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.748712
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.626368
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 382,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "PPL stock slips after an August 7 earnings miss",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-stock-slips-after-an-august-7-earnings-miss/69983691",
+          "published_at": "2026-08-21T21:02:13"
+        }
+      ]
+    },
+    {
+      "event_id": 366,
+      "title": "US business activity surges to 52-month high: S&P Global",
+      "summary": "U.S. business activity reached a 52-month high in August, primarily driven by a resurgence in the services sector, according to S&P Global. While manufacturing saw a slowdown due to supply delays, overall business expectations hit a nine-month high, supported by strong business investment and high equity prices. Despite this growth, consumer expectations for business conditions declined, and retail sales fell in July, suggesting a potential reduction in consumer spending in the latter half of 2026.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-21T20:43:19",
+      "first_seen_at": "2026-08-21T22:00:02.403353",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.495805,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.742188,
+          "sentiment_score": 0.309752,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "IBM",
+          "asset_class": null,
+          "relevance_score": 0.627134,
+          "sentiment_score": 0.130786,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.624021,
+          "sentiment_score": 0.313928,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.586952,
+          "sentiment_score": 0.347934,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.909066
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83089
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.715868
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 383,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CFO Dive",
+          "source_domain": "CFO Dive",
+          "headline": "US business activity surges to 52-month high: S&P Global",
+          "url": "https://www.cfodive.com/news/us-business-activity-surges-52-month-high-sp-global-GDP-consumers-economy/828538/",
+          "published_at": "2026-08-21T20:43:19"
+        }
+      ]
+    },
+    {
       "event_id": 363,
       "title": "Goldman Sachs Group Inc Stock (GS) Moved Up by 3.73% on Aug 21: Facts Behind the Movement",
       "summary": "Goldman Sachs Group Inc (GS) saw its stock rise by 3.73% on August 21, driven by recovering investment banking and capital markets momentum, alongside elevated Treasury yield volatility benefiting its market-making operations. The company's strong fee pipeline, major global advisory roles, and position as a premier global liquidity provider contributed to the positive movement. Despite some technical sell signals and valuation concerns, robust trading revenue expectations and a recovering advisory backlog continue to fuel investor interest.",
@@ -1024,108 +1154,6 @@
           "headline": "Genco Shipping & Trading Ltd stock hits 52-week high at 27.36 USD",
           "url": "https://in.investing.com/news/stock-market-news/genco-shipping--trading-ltd-stock-hits-52week-high-at-2736-usd-93CH-5567621",
           "published_at": "2026-08-21T14:21:15"
-        }
-      ]
-    },
-    {
-      "event_id": 348,
-      "title": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
-      "summary": "Flower Foods (FLO) missed its Q2 earnings estimates and lowered its full-year guidance, citing ongoing macroeconomic pressures, competitive activity, and higher input costs. The company reported a 30% drop in profits due to inflation and rising costs. In response, Flower Foods plans to strengthen competitiveness, improve execution, and optimize its cost structure to enhance long-term value.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-21T14:10:12",
-      "first_seen_at": "2026-08-21T16:00:03.481652",
-      "assets": [
-        {
-          "symbol": "FLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.42494,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.917443
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825287
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.731286
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 365,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
-          "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
-          "published_at": "2026-08-21T14:10:12"
-        }
-      ]
-    },
-    {
-      "event_id": 339,
-      "title": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
-      "summary": "Freeport-McMoRan Inc (FCX) stock surged by 7.17% on August 21, driven primarily by a rally in benchmark copper futures, strong quarterly financial results surpassing expectations, and positive analyst ratings. The company also benefits from structural long-term demand for copper due to global electric power grid expansions and clean energy infrastructure. Technical indicators suggest a buy signal, while fundamental analysis highlights its significant revenue and profit within the Mineral Resources sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 69,
-      "published_at": "2026-08-21T13:46:58",
-      "first_seen_at": "2026-08-21T15:00:04.140290",
-      "assets": [
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.480329,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 0.627794,
-          "sentiment_score": 0.238207,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945688
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942298
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.848298
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 355,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
-          "url": "https://www.tradingkey.com/news/market-movers/262124712-market-movers-fcx-20260821",
-          "published_at": "2026-08-21T13:46:58"
         }
       ]
     }
