@@ -5,6 +5,202 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 327,
+      "title": "Old Dominion stock holds near $205 after earnings beat",
+      "summary": "Old Dominion Freight Line's stock is holding near $205 after the company reported a quarterly EPS beat of $1.68 and revenue of $1.55 billion, surpassing consensus estimates. Despite the strong earnings, the stock is trading below its 50-day and 200-day moving averages, and analysts maintain a \"Hold\" consensus with an average price target of $226.55. The company also declared a quarterly dividend of $0.29 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-20T23:01:00",
+      "first_seen_at": "2026-08-21T00:00:02.282166",
+      "assets": [
+        {
+          "symbol": "ODFL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.347407,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929728
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843781
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.710471
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.634726
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 343,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Old Dominion stock holds near $205 after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-near-205-after-earnings-beat/69978436",
+          "published_at": "2026-08-20T23:01:00"
+        }
+      ]
+    },
+    {
+      "event_id": 328,
+      "title": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
+      "summary": "Reports surfaced on August 14th that refining giants Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) held preliminary talks earlier this year regarding a potential $180 billion mega-merger. The deal ultimately collapsed, largely due to regulatory hurdles, and investors are now evaluating each company's independent performance. Both companies delivered strong Q2 2026 financial results, benefiting from expanding crack spreads and robust demand, but present different bull and bear cases for investors.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-08-20T22:42:45",
+      "first_seen_at": "2026-08-21T00:00:02.561759",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.250566,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.933814,
+          "sentiment_score": 0.207494,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.940829
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937384
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.809767
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.714286
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 344,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
+          "url": "https://uk.finance.yahoo.com/news/phillips-66-psx-marathon-petroleum-224300009.html",
+          "published_at": "2026-08-20T22:42:45"
+        }
+      ]
+    },
+    {
+      "event_id": 329,
+      "title": "Charter Communications Finalizes Mergers with Liberty Broadband and Cox Enterprises",
+      "summary": "Charter Communications has completed its merger with Liberty Broadband Corporation and an acquisition transaction with Cox Enterprises, Inc., as disclosed in a recent Form 8-K filing. The Liberty merger resulted in a net reduction of approximately 4.7 million Charter Class A shares outstanding, while the Cox deal involved $3.5 billion in cash payments, issuance of convertible preferred units, and assumption of about $12 billion in Cox debt. These transactions significantly impact Charter's capital structure and operational scope.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-20T22:10:30",
+      "first_seen_at": "2026-08-21T00:00:02.901797",
+      "assets": [
+        {
+          "symbol": "CHTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.431384,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 345,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Charter Communications Finalizes Mergers with Liberty Broadband and Cox Enterprises",
+          "url": "https://kalkinemedia.com/us/news/announcements/charter-communications-finalizes-mergers-with-liberty-broadband-and-cox-enterprises",
+          "published_at": "2026-08-20T22:10:30"
+        }
+      ]
+    },
+    {
+      "event_id": 330,
+      "title": "Republic Services (NYSE:RSG) Major Shareholder Cascade Investment, L.L.C. Acquires 200,125 Shares of Stock",
+      "summary": "Cascade Investment, L.L.C., a major shareholder in Republic Services (NYSE:RSG), recently acquired an additional 200,125 shares of the company's stock for approximately $43.6 million. This purchase is part of several large acquisitions made by Cascade Investment, bringing their total holdings to over 112.2 million shares. The acquisition follows Republic Services' strong quarterly results, which exceeded analyst expectations, and the company's decision to increase its quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-20T21:51:13",
+      "first_seen_at": "2026-08-21T00:00:03.128091",
+      "assets": [
+        {
+          "symbol": "RSG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.435784,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902359
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.707211
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 346,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Republic Services (NYSE:RSG) Major Shareholder Cascade Investment, L.L.C. Acquires 200,125 Shares of Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/republic-services-nysersg-major-shareholder-cascade-investment-llc-acquires-200125-shares-of-stock-2026-08-20/",
+          "published_at": "2026-08-20T21:51:13"
+        }
+      ]
+    },
+    {
       "event_id": 326,
       "title": "Targa Resources Corp. announces 20-Year agreements with ExxonMobil",
       "summary": "Targa Resources Corp. announced new 20-year integrated midstream agreements with ExxonMobil subsidiaries for natural gas gathering, processing, treating, and liquid fractionation services in the Permian Basin. To support this, Targa plans to construct three new natural gas processing plants (Wrangler, Ranger, Ranger II) in the Delaware Basin, adding 825 MMcf/d capacity by H1 2028, and a 70-mile Bull Run II natural gas pipeline, increasing its 2026 growth capital estimate to $5 billion. These agreements significantly expand Targa's strategic relationship with ExxonMobil and are expected to drive substantial long-term volume growth and enhance Targa's financial outlook.",
@@ -857,266 +1053,6 @@
           "headline": "SCC chair won’t recuse herself from NextEra-Dominion case",
           "url": "https://virginiabusiness.com/scc-chair-bagot-not-recusing-nextera-dominion-case/",
           "published_at": "2026-08-20T17:36:29"
-        }
-      ]
-    },
-    {
-      "event_id": 310,
-      "title": "Chevron vs. Exxon Mobil: The Better Energy Stock for the Next 5 Years",
-      "summary": "This article compares Exxon Mobil (XOM) and Chevron (CVX) as investment opportunities for the next five years, noting their different strategies in a tight oil market. While Exxon focuses on its Guyana operations, Permian Basin, and refining, Chevron is leveraging its Hess acquisition and a new venture into powering AI data centers. The author leans towards Chevron due to faster-than-expected Hess synergies, a new revenue stream from a Microsoft power deal, and a higher dividend yield, despite Exxon's stronger balance sheet and longer dividend streak.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-20T17:30:26",
-      "first_seen_at": "2026-08-20T19:00:02.942335",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.295032,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.950471,
-          "sentiment_score": 0.30369,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.742466,
-          "sentiment_score": 0.208081,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.598186,
-          "sentiment_score": 0.229776,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 0.556959,
-          "sentiment_score": 0.235449,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.949462
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.804686
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.741719
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.648083
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 326,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Chevron vs. Exxon Mobil: The Better Energy Stock for the Next 5 Years",
-          "url": "https://247wallst.com/investing/2026/08/20/chevron-vs-exxon-mobil-the-better-energy-stock-for-the-next-5-years/",
-          "published_at": "2026-08-20T17:30:26"
-        }
-      ]
-    },
-    {
-      "event_id": 311,
-      "title": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
-      "summary": "SLB is preparing to reactivate up to 15 idle drilling and workover rigs in Venezuela, with four expected to be operational by the end of 2026. This move aims to address bottlenecks in the country's crude production recovery, potentially increasing output significantly from the current two active onshore rigs. The effort is distinct from Formentera Partners' plans to import new rigs, and both initiatives highlight renewed international interest in Venezuela's vast oil reserves.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-08-20T17:22:58",
-      "first_seen_at": "2026-08-20T19:00:03.314532",
-      "assets": [
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.484372,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.844309,
-          "sentiment_score": 0.310995,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKR",
-          "asset_class": null,
-          "relevance_score": 0.634516,
-          "sentiment_score": 0.201138,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HAL",
-          "asset_class": null,
-          "relevance_score": 0.629008,
-          "sentiment_score": 0.246376,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.571175,
-          "sentiment_score": -0.113184,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.947784
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.807924
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.633386
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 327,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Energy News Beat",
-          "source_domain": "Energy News Beat",
-          "headline": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
-          "url": "https://energynewsbeat.co/crude-oil/slb-prepares-to-restart-15-oil-rigs-in-venezuela/",
-          "published_at": "2026-08-20T17:22:58"
-        }
-      ]
-    },
-    {
-      "event_id": 312,
-      "title": "PPL stock holds after a Q2 earnings miss",
-      "summary": "PPL Corporation's stock held near $35.95 despite a Q2 earnings and revenue miss, with EPS of $0.33 against an expected $0.34 and revenue of $2.11 billion versus $2.19 billion estimated. The company maintained its full-year 2026 EPS guidance of $1.90 to $1.98, indicating the miss was within expectations for continued steady cash flow from its regulated utility operations. Analyst price targets remain above the current share price, with an average target of $41.50.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-20T17:08:51",
-      "first_seen_at": "2026-08-20T19:00:03.626000",
-      "assets": [
-        {
-          "symbol": "PPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.041593,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.925581
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.822878
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.741942
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 328,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "PPL stock holds after a Q2 earnings miss",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-stock-holds-after-a-q2-earnings-miss/69977334",
-          "published_at": "2026-08-20T17:08:51"
-        }
-      ]
-    },
-    {
-      "event_id": 303,
-      "title": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
-      "summary": "Huntington Ingalls Industries (HII) stock is trading above $300 in August 2026, driven by strong Q2 2026 revenue growth of 10.9% and increasing investor interest in nuclear-powered shipping. The company, the sole builder of nuclear aircraft carriers and submarines for the US Navy, is seeing operational momentum with the USS John F. Kennedy completing sea trials. Analysts maintain a \"Moderate Buy\" rating with price targets in the mid-to-high $300s, reflecting an anticipated upside despite recent robust performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-20T16:41:10",
-      "first_seen_at": "2026-08-20T18:00:02.358042",
-      "assets": [
-        {
-          "symbol": "HII",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.400846,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920188
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.900973
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.702214
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.619797
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 319,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Huntington Ingalls stock extends Q2 gains as nuclear shipbuilding theme builds",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/huntington-ingalls-stock-extends-q2-gains-as-nuclear-shipbuilding-theme/69977215",
-          "published_at": "2026-08-20T16:41:10"
         }
       ]
     }
