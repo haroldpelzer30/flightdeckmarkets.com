@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 336,
+      "title": "Steel Dynamics stock falls on tariff pressure and valuation",
+      "summary": "Steel Dynamics stock experienced a significant drop due to pressure from tariff headlines, which suggested a potential cut in import tariffs on Canadian steel and aluminum. Despite a strong year-to-date performance, the stock's valuation is considered high, with its current price exceeding a cited fair value. Analyst consensus, however, remains moderately positive with an average target price suggesting an upside.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-21T13:01:21",
+      "first_seen_at": "2026-08-21T14:00:02.802011",
+      "assets": [
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.214452,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.944122
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.8491
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.702353
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.637416
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 352,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Steel Dynamics stock falls on tariff pressure and valuation",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
+          "published_at": "2026-08-21T13:01:21"
+        }
+      ]
+    },
+    {
+      "event_id": 337,
+      "title": "Resilient News Corp stock holds above $29 as fresh earnings beat lifts outlook",
+      "summary": "News Corp's stock is trading above $29 after a strong fiscal Q4 2026 earnings report, which saw revenue increase by 10.8% to $2.34 billion and adjusted EPS beat consensus estimates at $0.35. This performance has led to a more positive outlook for the company, with analysts' average target price suggesting further upside potential. The company's ongoing $1 billion share repurchase program further underscores its commitment to capital return and investor value.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-21T12:27:00",
+      "first_seen_at": "2026-08-21T14:00:03.078962",
+      "assets": [
+        {
+          "symbol": "NWSA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.43058,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949666
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.729177
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 353,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient News Corp stock holds above $29 as fresh earnings beat lifts outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-news-corp-stock-holds-above-29-as-fresh-earnings-beat-lifts/69981047",
+          "published_at": "2026-08-21T12:27:00"
+        }
+      ]
+    },
+    {
+      "event_id": 338,
+      "title": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
+      "summary": "On CNBC's \"Halftime Report Final Trades,\" experts recommended ServiceNow, Vertex Pharmaceuticals, and Uber Technologies. ServiceNow was highlighted for its expanded partnership with Tech Mahindra on AI projects. Vertex Pharmaceuticals was noted for its strong Q2 earnings and raised FY2026 sales guidance, while Uber was featured for launching fully driverless Apollo Go robotaxis in Dubai with Baidu.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-21T12:19:31",
+      "first_seen_at": "2026-08-21T14:00:03.292330",
+      "assets": [
+        {
+          "symbol": "UBER",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.309154,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NOW",
+          "asset_class": null,
+          "relevance_score": 0.82374,
+          "sentiment_score": 0.337653,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VRTX",
+          "asset_class": null,
+          "relevance_score": 0.70431,
+          "sentiment_score": 0.317194,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933679
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.802211
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.749411
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.705146
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.648402
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 354,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
+          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61352685/uber-servicenow-and-a-health-care-stock-on-cnbcs-final-trades",
+          "published_at": "2026-08-21T12:19:31"
+        }
+      ]
+    },
+    {
       "event_id": 331,
       "title": "Paralel Advisors LLC Acquires Shares of 5,204 Ameriprise Financial, Inc. $AMP",
       "summary": "Paralel Advisors LLC recently acquired 5,204 shares of Ameriprise Financial, Inc. (NYSE:AMP) valued at approximately $2.39 million, adding to significant institutional ownership in the company. Ameriprise Financial holds a consensus \"Moderate Buy\" rating from analysts with an average price target of $555.33, and recently exceeded quarterly earnings expectations with an EPS of $11.07 and revenue of $4.90 billion. Despite insider selling activity totaling nearly 30,000 shares, the company announced a quarterly dividend of $1.70 per share, reflecting a 1.2% yield.",
@@ -852,179 +1017,6 @@
           "headline": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-holds-in-the-mid-80s-as-investors-weigh-bond-issuance-and/69977578",
           "published_at": "2026-08-20T18:51:05"
-        }
-      ]
-    },
-    {
-      "event_id": 314,
-      "title": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?",
-      "summary": "Ford shares dropped 4% after a rally based on unconfirmed Bronco product reports faded, while General Motors gained 1%, indicating a company-specific reversal for Ford rather than a sector trend. Tesla also slipped 2% due to unrelated AI infrastructure capital-spending pressures. Investors are advised to exercise patience with Ford and monitor its upcoming Bronco recall notification on August 24.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-20T18:33:55",
-      "first_seen_at": "2026-08-20T20:00:02.824248",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.939853,
-          "sentiment_score": -0.306993,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.905108,
-          "sentiment_score": 0.259165,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.80093,
-          "sentiment_score": -0.203545,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.623398,
-          "sentiment_score": -0.33576,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912171
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.841217
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.720301
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.616637
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 330,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?",
-          "url": "https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/",
-          "published_at": "2026-08-20T18:33:55"
-        }
-      ]
-    },
-    {
-      "event_id": 315,
-      "title": "Arch Capital Group stock holds firm after a July 28 earnings beat",
-      "summary": "Arch Capital Group (ACGL) stock maintained its position at $98.53 after beating second-quarter 2026 earnings and revenue estimates. The insurer reported $2.56 EPS and $4.67 billion in revenue, surpassing analyst consensus. Despite a slight year-over-year EPS decline, the company's strong net margin, return on equity, and $800 million stock repurchase reinforce its steady performance in specialty insurance, reinsurance, and mortgage insurance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-20T18:23:57",
-      "first_seen_at": "2026-08-20T20:00:03.167741",
-      "assets": [
-        {
-          "symbol": "ACGL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.409906,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94577
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.801146
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.746727
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 331,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Arch Capital Group stock holds firm after a July 28 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/arch-capital-group-stock-holds-firm-after-a-july-28-earnings-beat/69977738",
-          "published_at": "2026-08-20T18:23:57"
-        }
-      ]
-    },
-    {
-      "event_id": 316,
-      "title": "Vulcan Materials stock rises on a $2.59 earnings beat",
-      "summary": "Vulcan Materials (VMC) shares rose after the company reported quarterly EPS of $2.59, beating consensus estimates of $2.46, and revenue of $2.16 billion. The company reaffirmed its 2026 adjusted EBITDA guidance of $2.4 billion to $2.6 billion. The stock trades with a market capitalization of $35.83 billion, and its performance is closely tied to aggregate pricing, shipment volumes, and construction demand.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-20T18:23:29",
-      "first_seen_at": "2026-08-20T20:00:03.436885",
-      "assets": [
-        {
-          "symbol": "VMC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.469503,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901353
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.738359
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.715268
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.602154
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 332,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Vulcan Materials stock rises on a $2.59 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vulcan-materials-stock-rises-on-a-2-59-earnings-beat/69977739",
-          "published_at": "2026-08-20T18:23:29"
         }
       ]
     }
