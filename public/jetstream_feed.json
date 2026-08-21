@@ -5,6 +5,290 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 344,
+      "title": "Packaging Corp stock holds firm after July earnings beat",
+      "summary": "Packaging Corp of America (PCA) stock is trading near its 52-week high following a strong Q2 2026 earnings beat, with EPS of $2.35 and revenue of $2.49 billion. The company also provided Q3 2026 guidance of $2.91 EPS, demonstrating steady execution and growth. Broker price targets have increased, with the average target ($264.57) suggesting upside from the current stock price ($249.87).",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-21T15:30:00",
+      "first_seen_at": "2026-08-21T16:00:02.196410",
+      "assets": [
+        {
+          "symbol": "PKG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.622326,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.595688,
+          "sentiment_score": 0.334996,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.563611,
+          "sentiment_score": 0.337864,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.557445,
+          "sentiment_score": 0.343228,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802109
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.713692
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 360,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Packaging Corp stock holds firm after July earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/packaging-corp-stock-holds-firm-after-july-earnings-beat/69981404",
+          "published_at": "2026-08-21T15:30:00"
+        }
+      ]
+    },
+    {
+      "event_id": 345,
+      "title": "CoStar Group Completes $800M Zonda Acquisition, Expanding New Home Platform",
+      "summary": "CoStar Group Inc. has finalized its $800 million acquisition of Zonda, a move that significantly expands its presence in the new home construction market. This acquisition integrates Zonda's data, software, and residential marketplaces, including its proprietary lot-level database, into CoStar's existing real estate information and technology portfolio. The deal is expected to enhance CoStar's residential segment's profitability and open new growth opportunities by cross-selling products and leveraging Zonda's established customer base.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-21T14:56:36",
+      "first_seen_at": "2026-08-21T16:00:02.527545",
+      "assets": [
+        {
+          "symbol": "CSGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443303,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913285
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.813465
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 362,
+          "provider": "ALPHA_VANTAGE",
+          "source": "HousingWire",
+          "source_domain": "HousingWire",
+          "headline": "CoStar closes $800M Zonda acquisition",
+          "url": "https://www.housingwire.com/articles/costar-zonda-acquisition-closes/",
+          "published_at": "2026-08-21T14:11:36"
+        },
+        {
+          "article_id": 361,
+          "provider": "ALPHA_VANTAGE",
+          "source": "citybiz",
+          "source_domain": "citybiz",
+          "headline": "CoStar Group Completes $800M Zonda Acquisition, Expanding New Home Platform",
+          "url": "https://www.citybiz.co/article/892762/costar-group-completes-800m-zonda-acquisition-expanding-new-home-platform/",
+          "published_at": "2026-08-21T14:56:36"
+        }
+      ]
+    },
+    {
+      "event_id": 346,
+      "title": "Why Did ConocoPhillips (COP) Move Today?",
+      "summary": "ConocoPhillips (COP) is seeing movement today after announcing a finance leadership reshuffle, promoting Kontessa S. Haynes-Welsh to CFO and appointing Greig Patterson as VP, Finance and Controller. The company has experienced strong share price momentum recently and is considered modestly undervalued with a narrative fair value of $143.72, driven by its expanding LNG portfolio and project execution. However, its P/E ratio is higher than the industry average, signaling both potential risk and rerating room.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-08-21T14:34:28",
+      "first_seen_at": "2026-08-21T16:00:02.932247",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.302478,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.9166
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.838539
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825928
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.743741
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.614086
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 363,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Why Did ConocoPhillips (COP) Move Today?",
+          "url": "https://simplywall.st/stocks/us/energy/nyse-cop/conocophillips/news/why-did-conocophillips-cop-move-today",
+          "published_at": "2026-08-21T14:34:28"
+        }
+      ]
+    },
+    {
+      "event_id": 347,
+      "title": "Genco Shipping & Trading Ltd stock hits 52-week high at 27.36 USD",
+      "summary": "Genco Shipping & Trading Ltd (GNK) shares reached a new 52-week high of $27.36, showcasing a strong performance with a 70.7% total return over the past year and a 51.5% year-to-date gain. The company also offers a 12.27% dividend yield and is considered slightly undervalued according to InvestingPro data. This surge follows Genco's Q2 2026 financial results, which exceeded Wall Street expectations, despite Diana Shipping Inc. withdrawing its acquisition offer.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-21T14:21:15",
+      "first_seen_at": "2026-08-21T16:00:03.225553",
+      "assets": [
+        {
+          "symbol": "GNK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.617987,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938883
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92943
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.710294
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.635656
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 364,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Genco Shipping & Trading Ltd stock hits 52-week high at 27.36 USD",
+          "url": "https://in.investing.com/news/stock-market-news/genco-shipping--trading-ltd-stock-hits-52week-high-at-2736-usd-93CH-5567621",
+          "published_at": "2026-08-21T14:21:15"
+        }
+      ]
+    },
+    {
+      "event_id": 348,
+      "title": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
+      "summary": "Flower Foods (FLO) missed its Q2 earnings estimates and lowered its full-year guidance, citing ongoing macroeconomic pressures, competitive activity, and higher input costs. The company reported a 30% drop in profits due to inflation and rising costs. In response, Flower Foods plans to strengthen competitiveness, improve execution, and optimize its cost structure to enhance long-term value.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-08-21T14:10:12",
+      "first_seen_at": "2026-08-21T16:00:03.481652",
+      "assets": [
+        {
+          "symbol": "FLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.42494,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.917443
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825287
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.731286
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 365,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
+          "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
+          "published_at": "2026-08-21T14:10:12"
+        }
+      ]
+    },
+    {
       "event_id": 339,
       "title": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
       "summary": "Freeport-McMoRan Inc (FCX) stock surged by 7.17% on August 21, driven primarily by a rally in benchmark copper futures, strong quarterly financial results surpassing expectations, and positive analyst ratings. The company also benefits from structural long-term demand for copper due to global electric power grid expansions and clean energy infrastructure. Technical indicators suggest a buy signal, while fundamental analysis highlights its significant revenue and profit within the Mineral Resources sector.",
@@ -766,237 +1050,6 @@
           "headline": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
           "url": "https://uk.finance.yahoo.com/news/phillips-66-psx-marathon-petroleum-224300009.html",
           "published_at": "2026-08-20T22:42:45"
-        }
-      ]
-    },
-    {
-      "event_id": 329,
-      "title": "Charter Communications Finalizes Mergers with Liberty Broadband and Cox Enterprises",
-      "summary": "Charter Communications has completed its merger with Liberty Broadband Corporation and an acquisition transaction with Cox Enterprises, Inc., as disclosed in a recent Form 8-K filing. The Liberty merger resulted in a net reduction of approximately 4.7 million Charter Class A shares outstanding, while the Cox deal involved $3.5 billion in cash payments, issuance of convertible preferred units, and assumption of about $12 billion in Cox debt. These transactions significantly impact Charter's capital structure and operational scope.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-20T22:10:30",
-      "first_seen_at": "2026-08-21T00:00:02.901797",
-      "assets": [
-        {
-          "symbol": "CHTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.431384,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 345,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Charter Communications Finalizes Mergers with Liberty Broadband and Cox Enterprises",
-          "url": "https://kalkinemedia.com/us/news/announcements/charter-communications-finalizes-mergers-with-liberty-broadband-and-cox-enterprises",
-          "published_at": "2026-08-20T22:10:30"
-        }
-      ]
-    },
-    {
-      "event_id": 330,
-      "title": "Republic Services (NYSE:RSG) Major Shareholder Cascade Investment, L.L.C. Acquires 200,125 Shares of Stock",
-      "summary": "Cascade Investment, L.L.C., a major shareholder in Republic Services (NYSE:RSG), recently acquired an additional 200,125 shares of the company's stock for approximately $43.6 million. This purchase is part of several large acquisitions made by Cascade Investment, bringing their total holdings to over 112.2 million shares. The acquisition follows Republic Services' strong quarterly results, which exceeded analyst expectations, and the company's decision to increase its quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-20T21:51:13",
-      "first_seen_at": "2026-08-21T00:00:03.128091",
-      "assets": [
-        {
-          "symbol": "RSG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.435784,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.902359
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.707211
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 346,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Republic Services (NYSE:RSG) Major Shareholder Cascade Investment, L.L.C. Acquires 200,125 Shares of Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/republic-services-nysersg-major-shareholder-cascade-investment-llc-acquires-200125-shares-of-stock-2026-08-20/",
-          "published_at": "2026-08-20T21:51:13"
-        }
-      ]
-    },
-    {
-      "event_id": 326,
-      "title": "Targa Resources Corp. announces 20-Year agreements with ExxonMobil",
-      "summary": "Targa Resources Corp. announced new 20-year integrated midstream agreements with ExxonMobil subsidiaries for natural gas gathering, processing, treating, and liquid fractionation services in the Permian Basin. To support this, Targa plans to construct three new natural gas processing plants (Wrangler, Ranger, Ranger II) in the Delaware Basin, adding 825 MMcf/d capacity by H1 2028, and a 70-mile Bull Run II natural gas pipeline, increasing its 2026 growth capital estimate to $5 billion. These agreements significantly expand Targa's strategic relationship with ExxonMobil and are expected to drive substantial long-term volume growth and enhance Targa's financial outlook.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-20T21:39:24",
-      "first_seen_at": "2026-08-20T23:00:02.779519",
-      "assets": [
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.481842,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.94948,
-          "sentiment_score": 0.414809,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.713465
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 342,
-          "provider": "ALPHA_VANTAGE",
-          "source": "BIC Magazine",
-          "source_domain": "BIC Magazine",
-          "headline": "Targa Resources Corp. announces 20-Year agreements with ExxonMobil",
-          "url": "https://www.bicmagazine.com/projects-expansions/midstream/targa-resources-corp-announces-20-year-agreements-with-exxon/",
-          "published_at": "2026-08-20T21:39:24"
-        }
-      ]
-    },
-    {
-      "event_id": 325,
-      "title": "Xcel Energy stock holds steady as Colorado approves 4.77% electric rate hike",
-      "summary": "Xcel Energy's stock remained stable after Colorado regulators approved a 4.77% electric rate increase, which will raise residential bills by $5 per month and add $157 million in annual revenue for the utility. This decision, following nine months of deliberation, provides a fresh revenue tailwind and reinforces the company's regulated earnings visibility, aligning with its $50.28 billion market capitalization and an average analyst target of $92.41. The utility continues to balance infrastructure investments and renewable integration with consumer affordability and regulatory scrutiny.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 64,
-      "published_at": "2026-08-20T20:29:47",
-      "first_seen_at": "2026-08-20T22:00:02.393265",
-      "assets": [
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.393597,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932178
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.903458
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 341,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Xcel Energy stock holds steady as Colorado approves 4.77% electric rate hike",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-holds-steady-as-colorado-approves-4-77-percent-electric/69978296",
-          "published_at": "2026-08-20T20:29:47"
-        }
-      ]
-    },
-    {
-      "event_id": 319,
-      "title": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
-      "summary": "Ross Stores reported strong second-quarter 2026 results with sales up 13% to $6.26 billion and EPS of $2.66, which included a $0.60 benefit from tariff refunds. The company raised its full-year 2026 EPS guidance to $8.61–$8.77 and increased its store opening plan to 115 new locations. Despite a moderate negative market reaction to the news, Ross Stores highlighted its strong performance and momentum heading into the second half of the year.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-20T20:00:52",
-      "first_seen_at": "2026-08-20T21:00:01.923016",
-      "assets": [
-        {
-          "symbol": "ROST",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.309511,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938185
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.819863
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.647531
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.616048
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 335,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
-          "url": "https://www.stocktitan.net/news/ROST/ross-stores-reports-strong-second-quarter-sales-and-earnings-hhfeyhcb2uhn.html",
-          "published_at": "2026-08-20T20:00:52"
         }
       ]
     }
