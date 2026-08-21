@@ -5,6 +5,253 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 339,
+      "title": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
+      "summary": "Freeport-McMoRan Inc (FCX) stock surged by 7.17% on August 21, driven primarily by a rally in benchmark copper futures, strong quarterly financial results surpassing expectations, and positive analyst ratings. The company also benefits from structural long-term demand for copper due to global electric power grid expansions and clean energy infrastructure. Technical indicators suggest a buy signal, while fundamental analysis highlights its significant revenue and profit within the Mineral Resources sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 69,
+      "published_at": "2026-08-21T13:46:58",
+      "first_seen_at": "2026-08-21T15:00:04.140290",
+      "assets": [
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.480329,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 0.627794,
+          "sentiment_score": 0.238207,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945688
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942298
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.848298
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 355,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262124712-market-movers-fcx-20260821",
+          "published_at": "2026-08-21T13:46:58"
+        }
+      ]
+    },
+    {
+      "event_id": 340,
+      "title": "T. Rowe Price Acquires $19 Billion F/m Investments - VettaFi - Commentaries",
+      "summary": "T. Rowe Price announced its acquisition of F/m Investments, which manages approximately $19 billion in assets. This acquisition is expected to nearly double T. Rowe Price's fixed income ETF AUM and brings F/m's innovative fixed income strategies, including their U.S. Treasury 3 Month Bill Fund (TBIL), into T. Rowe Price's offerings. The deal, anticipated to close in early 2027, will see F/m operate as \"F/m Investments, a T. Rowe Price company.\"",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-21T13:29:45",
+      "first_seen_at": "2026-08-21T15:00:04.367082",
+      "assets": [
+        {
+          "symbol": "TROW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.449076,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.947052
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.841055
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 356,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Advisor Perspectives",
+          "source_domain": "Advisor Perspectives",
+          "headline": "T. Rowe Price Acquires $19 Billion F/m Investments - VettaFi - Commentaries",
+          "url": "https://www.advisorperspectives.com/commentaries/2026/08/21/t-rowe-price-acquires-19-billion-f-m-investments",
+          "published_at": "2026-08-21T13:29:45"
+        }
+      ]
+    },
+    {
+      "event_id": 341,
+      "title": "Caesars Entertainment stock trades below merger offer as investors weigh deal timing",
+      "summary": "Caesars Entertainment's stock is trading below the agreed $31 per-share cash acquisition price by Fertitta Entertainment, indicating investor sentiment regarding the deal's timing and certainty. The market currently prices shares at $29.64, a 4.4% discount, reflecting perceived execution risks and the absence of a higher competing bid. This spread allows for a modest return for merger arbitrageurs, with the $30 billion enterprise value highlighting the company's debt and lease commitments.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-21T13:12:33",
+      "first_seen_at": "2026-08-21T15:00:04.567758",
+      "assets": [
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 0.335205,
+          "sentiment_score": 0.049398,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.927837
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.716857
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 357,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Caesars Entertainment stock trades below merger offer as investors weigh deal timing",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trades-below-merger-offer-as-investors-weigh/69981284",
+          "published_at": "2026-08-21T13:12:33"
+        }
+      ]
+    },
+    {
+      "event_id": 342,
+      "title": "Is This a Good Time to Buy Bitcoin?",
+      "summary": "Grayscale Research suggests that current Bitcoin prices may offer a favorable entry point for long-term investors. This assessment is based on three factors: the intact structural adoption trend, the current deep stage of the bear market (10 months in), and a broadly favorable macro outlook, despite potential short-term downside risks from interest rate hikes.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-21T13:11:40",
+      "first_seen_at": "2026-08-21T15:00:04.782152",
+      "assets": [
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.624697,
+          "sentiment_score": 0.304771,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ETH",
+          "asset_class": null,
+          "relevance_score": 0.32189,
+          "sentiment_score": 0.042097,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.928021
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": 0.909215
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.831157
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 358,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Grayscale",
+          "source_domain": "Grayscale",
+          "headline": "Is This a Good Time to Buy Bitcoin?",
+          "url": "https://www.grayscale.com/the-stack/is-this-a-good-time-to-buy-bitcoin",
+          "published_at": "2026-08-21T13:11:40"
+        }
+      ]
+    },
+    {
+      "event_id": 343,
+      "title": "CoStar Group Completes Acquisition of Zonda",
+      "summary": "CoStar Group has finalized its $800 million cash acquisition of Zonda, expanding its presence in the residential real estate sector, specifically new home construction. This move integrates Zonda's B2B information platform and online marketplaces like NewHomeSource.com and Livabl into CoStar's portfolio. The acquisition aims to enhance profitability, expand market reach, and leverage proprietary data, analytics, and software for the homebuilding industry.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-21T13:09:29",
+      "first_seen_at": "2026-08-21T15:00:05.009119",
+      "assets": [
+        {
+          "symbol": "CSGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.458469,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.943782
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.83147
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 359,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Builder Magazine",
+          "source_domain": "Builder Magazine",
+          "headline": "CoStar Group Completes Acquisition of Zonda",
+          "url": "https://www.builderonline.com/money/ma/costar-group-completes-acquisition-of-zonda/",
+          "published_at": "2026-08-21T13:09:29"
+        }
+      ]
+    },
+    {
       "event_id": 336,
       "title": "Steel Dynamics stock falls on tariff pressure and valuation",
       "summary": "Steel Dynamics stock experienced a significant drop due to pressure from tariff headlines, which suggested a potential cut in import tariffs on Canadian steel and aluminum. Despite a strong year-to-date performance, the stock's valuation is considered high, with its current price exceeding a cited fair value. Analyst consensus, however, remains moderately positive with an average target price suggesting an upside.",
@@ -750,273 +997,6 @@
           "headline": "Ross Stores earned $2.66 a share, including a roughly 60-cent tariff refund",
           "url": "https://www.stocktitan.net/news/ROST/ross-stores-reports-strong-second-quarter-sales-and-earnings-hhfeyhcb2uhn.html",
           "published_at": "2026-08-20T20:00:52"
-        }
-      ]
-    },
-    {
-      "event_id": 320,
-      "title": "Delta Is Quietly Cutting Its Las Vegas Routes To Rebuild The Hub Around Premium Flyers",
-      "summary": "Delta Air Lines has strategically cut several Las Vegas routes, including nonstop service from Sacramento and San Jose, to focus on higher-yield premium flyers. This move, driven by a 7% decline in Las Vegas tourism in early 2025 and a desire to avoid competing with budget carriers on low-margin routes, signifies Delta's pivot from a volume-based to a yield-based business model. The airline is expanding premium cabin offerings like Premium Select on transcontinental routes, aiming to attract affluent travelers and establish Las Vegas as a premium spoke in its network, ensuring higher revenue per seat despite potentially fewer overall flights.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-08-20T19:27:34",
-      "first_seen_at": "2026-08-20T21:00:02.177741",
-      "assets": [
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 0.955853,
-          "sentiment_score": 0.296006,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 0.66883,
-          "sentiment_score": -0.107595,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 0.635152,
-          "sentiment_score": -0.133584,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943248
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.8458
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 336,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TheTravel",
-          "source_domain": "TheTravel",
-          "headline": "Delta Is Quietly Cutting Its Las Vegas Routes To Rebuild The Hub Around Premium Flyers",
-          "url": "https://www.thetravel.com/delta-is-quietly-cutting-its-las-vegas-routes-to-rebuild-the-hub-around-premium-flyers/",
-          "published_at": "2026-08-20T19:27:34"
-        }
-      ]
-    },
-    {
-      "event_id": 321,
-      "title": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later",
-      "summary": "Three months after the proposed $67 billion merger between NextEra Energy and Dominion Energy was announced, it is facing intense regulatory scrutiny in Virginia. Governor Abigail Spanberger, state lawmakers, experts, and numerous residents are raising concerns, particularly regarding a potential conflict of interest involving the State Corporation Commission's lead reviewer and the impact on ratepayers. The SCC is expected to decide on the merger's terms in January.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-08-20T19:22:31",
-      "first_seen_at": "2026-08-20T21:00:02.461693",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.254909,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.980343,
-          "sentiment_score": -0.200923,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.813567
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 337,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WTVR.com",
-          "source_domain": "WTVR.com",
-          "headline": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later",
-          "url": "https://www.wtvr.com/news/local-news/dominion-nextera-merger-latest-aug-20-2026",
-          "published_at": "2026-08-20T19:22:31"
-        }
-      ]
-    },
-    {
-      "event_id": 322,
-      "title": "Norfolk Southern stock holds firm as regulators restart review of Union Pacific merger",
-      "summary": "Norfolk Southern stock is trading near its consensus price target as the Surface Transportation Board resumes its review of the proposed merger with Union Pacific. This review, expected to last until at least May 2027, introduces both uncertainty and potential opportunities for investors. The company's strong fundamentals, including consistent dividends and exceeding earnings estimates, support its current valuation amidst the lengthy regulatory process.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 79,
-      "published_at": "2026-08-20T19:12:43",
-      "first_seen_at": "2026-08-20T21:00:02.722367",
-      "assets": [
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.342011,
-          "sentiment_score": 0.038814,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93096
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930563
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.831306
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 338,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Norfolk Southern stock holds firm as regulators restart review of Union Pacific merger",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-holds-firm-as-regulators-restart-review-of-union/69977959",
-          "published_at": "2026-08-20T19:12:43"
-        }
-      ]
-    },
-    {
-      "event_id": 323,
-      "title": "Ford Stock Slips As Trade Fears And Sales Drop Rattle Traders",
-      "summary": "Ford Motor Company (F) stock slipped by 3.48% due to concerns over weakening EV demand, a 10.2% drop in July U.S. vehicle sales, and potential increased costs from USMCA revisions. The CEO also warned about impending competition from Chinese automakers in the U.S. market. Analysts suggest that while the company has strong cash flow, it faces significant challenges with negative margins and policy uncertainties, making it a battleground stock for traders.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-20T19:02:53",
-      "first_seen_at": "2026-08-20T21:00:03.046174",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.417653,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.902332
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.818966
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.738914
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.606337
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.605357
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 339,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "Ford Stock Slips As Trade Fears And Sales Drop Rattle Traders",
-          "url": "https://stockstotrade.com/news/ford-motor-company-f-news-2026_08_20/",
-          "published_at": "2026-08-20T19:02:53"
-        }
-      ]
-    },
-    {
-      "event_id": 313,
-      "title": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
-      "summary": "Sempra Inc. stock is trading in the mid-$80s as investors evaluate the company's reaffirmed earnings guidance and its recent long-term bond issuance. Analysts maintain a \"moderate buy\" rating with a consensus price target of $103.92, suggesting potential upside despite interest-rate sensitivities. The company's strategy involves matching long-lived assets with long-term funding to support grid modernization and gas infrastructure expansion, aiming for predictable earnings growth through regulated returns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-20T18:51:05",
-      "first_seen_at": "2026-08-20T20:00:02.531967",
-      "assets": [
-        {
-          "symbol": "SRE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.267203,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931607
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.919322
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.830211
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.727353
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 329,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Sempra stock holds in the mid-$80s as investors weigh bond issuance and steady utility earnings",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-holds-in-the-mid-80s-as-investors-weigh-bond-issuance-and/69977578",
-          "published_at": "2026-08-20T18:51:05"
         }
       ]
     }
