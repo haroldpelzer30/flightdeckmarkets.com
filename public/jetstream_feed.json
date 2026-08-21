@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 363,
+      "title": "Goldman Sachs Group Inc Stock (GS) Moved Up by 3.73% on Aug 21: Facts Behind the Movement",
+      "summary": "Goldman Sachs Group Inc (GS) saw its stock rise by 3.73% on August 21, driven by recovering investment banking and capital markets momentum, alongside elevated Treasury yield volatility benefiting its market-making operations. The company's strong fee pipeline, major global advisory roles, and position as a premier global liquidity provider contributed to the positive movement. Despite some technical sell signals and valuation concerns, robust trading revenue expectations and a recovering advisory backlog continue to fuel investor interest.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-21T19:15:00",
+      "first_seen_at": "2026-08-21T21:00:02.362077",
+      "assets": [
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.460976,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.936571
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933956
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921658
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.745933
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.734497
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 380,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Goldman Sachs Group Inc Stock (GS) Moved Up by 3.73% on Aug 21: Facts Behind the Movement",
+          "url": "https://www.tradingkey.com/news/market-movers/262125222-market-movers-gs-20260821",
+          "published_at": "2026-08-21T19:15:00"
+        }
+      ]
+    },
+    {
+      "event_id": 364,
+      "title": "Southern Copper Stock Stays Hot After Q2 Earnings Beat",
+      "summary": "Southern Copper Corporation (SCCO) stock surged over 8% following a strong Q2 earnings beat, with EPS nearly doubling and revenue significantly increasing, driven by strong copper demand. Despite a downgrade from CICC due to valuation concerns, the stock demonstrated significant operating leverage against rising copper prices. Traders are closely watching SCCO, balancing its strong fundamentals and momentum with the cautious analyst rating.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-21T19:09:50",
+      "first_seen_at": "2026-08-21T21:00:02.646398",
+      "assets": [
+        {
+          "symbol": "SCCO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456666,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.915036
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839445
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 381,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "Southern Copper Stock Stays Hot After Q2 Earnings Beat",
+          "url": "https://stockstotrade.com/news/southern-copper-corporation-scco-news-2026_08_21/",
+          "published_at": "2026-08-21T19:09:50"
+        }
+      ]
+    },
+    {
       "event_id": 360,
       "title": "PulteGroup stock holds firm after Q2 2026 results",
       "summary": "PulteGroup Inc. (PHM) stock is trading at $128.49 after reporting second-quarter 2026 revenue of $4 billion and earnings of $2.48 per share, beating consensus EPS estimates by 12 cents. While revenue was slightly below expectations, the beat on EPS indicates strong margins and cost control. The company's diversified homebuilding mix and services contribute to its resilient earnings despite uneven revenue growth.",
@@ -1028,96 +1126,6 @@
           "headline": "Freeport-McMoRan Inc Stock (FCX) Opened Up by 7.17% on Aug 21: Key Drivers Unveiled",
           "url": "https://www.tradingkey.com/news/market-movers/262124712-market-movers-fcx-20260821",
           "published_at": "2026-08-21T13:46:58"
-        }
-      ]
-    },
-    {
-      "event_id": 340,
-      "title": "T. Rowe Price Acquires $19 Billion F/m Investments - VettaFi - Commentaries",
-      "summary": "T. Rowe Price announced its acquisition of F/m Investments, which manages approximately $19 billion in assets. This acquisition is expected to nearly double T. Rowe Price's fixed income ETF AUM and brings F/m's innovative fixed income strategies, including their U.S. Treasury 3 Month Bill Fund (TBIL), into T. Rowe Price's offerings. The deal, anticipated to close in early 2027, will see F/m operate as \"F/m Investments, a T. Rowe Price company.\"",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-21T13:29:45",
-      "first_seen_at": "2026-08-21T15:00:04.367082",
-      "assets": [
-        {
-          "symbol": "TROW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.449076,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.947052
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.841055
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 356,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Advisor Perspectives",
-          "source_domain": "Advisor Perspectives",
-          "headline": "T. Rowe Price Acquires $19 Billion F/m Investments - VettaFi - Commentaries",
-          "url": "https://www.advisorperspectives.com/commentaries/2026/08/21/t-rowe-price-acquires-19-billion-f-m-investments",
-          "published_at": "2026-08-21T13:29:45"
-        }
-      ]
-    },
-    {
-      "event_id": 341,
-      "title": "Caesars Entertainment stock trades below merger offer as investors weigh deal timing",
-      "summary": "Caesars Entertainment's stock is trading below the agreed $31 per-share cash acquisition price by Fertitta Entertainment, indicating investor sentiment regarding the deal's timing and certainty. The market currently prices shares at $29.64, a 4.4% discount, reflecting perceived execution risks and the absence of a higher competing bid. This spread allows for a modest return for merger arbitrageurs, with the $30 billion enterprise value highlighting the company's debt and lease commitments.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-21T13:12:33",
-      "first_seen_at": "2026-08-21T15:00:04.567758",
-      "assets": [
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 0.335205,
-          "sentiment_score": 0.049398,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.927837
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.716857
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 357,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Caesars Entertainment stock trades below merger offer as investors weigh deal timing",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trades-below-merger-offer-as-investors-weigh/69981284",
-          "published_at": "2026-08-21T13:12:33"
         }
       ]
     }
