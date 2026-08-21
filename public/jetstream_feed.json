@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 367,
+      "title": "Boeing engineers, technical workers reject contract offer",
+      "summary": "Boeing engineers and technical workers have rejected a four-year contract offer from the company, union officials announced. The Society of Professional Engineering Employees in Aerospace (SPEEA), representing 17,000 members, also voted to authorize a strike if a new agreement isn't reached by October. Key sticking points include the proposed wage increases, which are capped at 3% and tied to inflation and individual performance, a figure several members believe will not keep pace with the rising Consumer Price Index in their primary work area.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-21T21:51:00",
+      "first_seen_at": "2026-08-21T23:00:02.017068",
+      "assets": [
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.412343,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.919382
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.82371
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.644537
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 384,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Boeing engineers, technical workers reject contract offer",
+          "url": "https://www.cnbc.com/2026/08/21/boeing-engineers-technical-workers-reject-contract-offer.html",
+          "published_at": "2026-08-21T21:51:00"
+        }
+      ]
+    },
+    {
+      "event_id": 368,
+      "title": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger",
+      "summary": "Fox Corp (NASDAQ: FOX) has filed an amended S-4 form detailing its acquisition of Roku, Inc. Roku stockholders will receive 0.9693 shares of FOX Class A Common Stock plus $96.00 in cash per share. This merger is expected to result in former Roku stockholders owning approximately 27% of outstanding FOX common stock.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-21T21:16:05",
+      "first_seen_at": "2026-08-21T23:00:02.290155",
+      "assets": [
+        {
+          "symbol": "FOX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.340788,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FOXA",
+          "asset_class": null,
+          "relevance_score": 0.747878,
+          "sentiment_score": 0.285099,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.830743
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 385,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger",
+          "url": "https://www.stocktitan.net/sec-filings/FOX/s-4-a-fox-corp-amended-business-combination-registration-5da12941d979.html",
+          "published_at": "2026-08-21T21:16:05"
+        }
+      ]
+    },
+    {
       "event_id": 365,
       "title": "PPL stock slips after an August 7 earnings miss",
       "summary": "PPL stock slipped after reporting Q2 EPS of $0.33, missing the $0.34 forecast, despite revenue reaching $2.11 billion and the company maintaining its fiscal 2026 EPS guidance. Analysts remain constructive with a $42 price target, and PPL declared a steady quarterly dividend of $0.285 a share, reinforcing its defensive utility profile. The stock's current price of $34.69 is below its 52-week high but well above its low, with a market value of $26.11 billion.",
@@ -1048,112 +1146,6 @@
           "headline": "CoStar Group Completes $800M Zonda Acquisition, Expanding New Home Platform",
           "url": "https://www.citybiz.co/article/892762/costar-group-completes-800m-zonda-acquisition-expanding-new-home-platform/",
           "published_at": "2026-08-21T14:56:36"
-        }
-      ]
-    },
-    {
-      "event_id": 346,
-      "title": "Why Did ConocoPhillips (COP) Move Today?",
-      "summary": "ConocoPhillips (COP) is seeing movement today after announcing a finance leadership reshuffle, promoting Kontessa S. Haynes-Welsh to CFO and appointing Greig Patterson as VP, Finance and Controller. The company has experienced strong share price momentum recently and is considered modestly undervalued with a narrative fair value of $143.72, driven by its expanding LNG portfolio and project execution. However, its P/E ratio is higher than the industry average, signaling both potential risk and rerating room.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-08-21T14:34:28",
-      "first_seen_at": "2026-08-21T16:00:02.932247",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.302478,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.9166
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.838539
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.825928
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.743741
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.614086
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 363,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Why Did ConocoPhillips (COP) Move Today?",
-          "url": "https://simplywall.st/stocks/us/energy/nyse-cop/conocophillips/news/why-did-conocophillips-cop-move-today",
-          "published_at": "2026-08-21T14:34:28"
-        }
-      ]
-    },
-    {
-      "event_id": 347,
-      "title": "Genco Shipping & Trading Ltd stock hits 52-week high at 27.36 USD",
-      "summary": "Genco Shipping & Trading Ltd (GNK) shares reached a new 52-week high of $27.36, showcasing a strong performance with a 70.7% total return over the past year and a 51.5% year-to-date gain. The company also offers a 12.27% dividend yield and is considered slightly undervalued according to InvestingPro data. This surge follows Genco's Q2 2026 financial results, which exceeded Wall Street expectations, despite Diana Shipping Inc. withdrawing its acquisition offer.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-21T14:21:15",
-      "first_seen_at": "2026-08-21T16:00:03.225553",
-      "assets": [
-        {
-          "symbol": "GNK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.617987,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938883
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92943
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.710294
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.635656
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 364,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Genco Shipping & Trading Ltd stock hits 52-week high at 27.36 USD",
-          "url": "https://in.investing.com/news/stock-market-news/genco-shipping--trading-ltd-stock-hits-52week-high-at-2736-usd-93CH-5567621",
-          "published_at": "2026-08-21T14:21:15"
         }
       ]
     }
