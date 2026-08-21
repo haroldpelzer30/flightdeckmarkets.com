@@ -5,6 +5,159 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 360,
+      "title": "PulteGroup stock holds firm after Q2 2026 results",
+      "summary": "PulteGroup Inc. (PHM) stock is trading at $128.49 after reporting second-quarter 2026 revenue of $4 billion and earnings of $2.48 per share, beating consensus EPS estimates by 12 cents. While revenue was slightly below expectations, the beat on EPS indicates strong margins and cost control. The company's diversified homebuilding mix and services contribute to its resilient earnings despite uneven revenue growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-21T18:29:12",
+      "first_seen_at": "2026-08-21T20:00:02.824555",
+      "assets": [
+        {
+          "symbol": "PHM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.507424,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906178
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.848494
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.615576
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 377,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "PulteGroup stock holds firm after Q2 2026 results",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pultegroup-stock-holds-firm-after-q2-2026-results/69983050",
+          "published_at": "2026-08-21T18:29:12"
+        }
+      ]
+    },
+    {
+      "event_id": 361,
+      "title": "EQT Corp. stock holds in the low $50s as Q2 2026 earnings miss consensus",
+      "summary": "EQT Corp. (EQT) stock is trading in the low $50s after reporting Q2 2026 earnings and revenue that missed consensus estimates. The company's adjusted earnings per share declined by 13.3% year-over-year to $0.39, missing the $0.41 consensus, while revenue dropped 29.2% to $1.81 billion, falling short of the $1.84 billion estimate. This performance was attributed to lower realized natural gas prices despite an 11.7% increase in sales volumes, highlighting the company's sensitivity to commodity price fluctuations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-21T18:15:04",
+      "first_seen_at": "2026-08-21T20:00:03.145642",
+      "assets": [
+        {
+          "symbol": "EQT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.261115,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941148
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.715224
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.707199
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.646308
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 378,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "EQT Corp. stock holds in the low $50s as Q2 2026 earnings miss consensus",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-corp-stock-holds-in-the-low-50s-as-q2-2026-earnings-miss-consensus/69982980",
+          "published_at": "2026-08-21T18:15:04"
+        }
+      ]
+    },
+    {
+      "event_id": 362,
+      "title": "Ecolab stock holds firm after July 28 earnings beat",
+      "summary": "Ecolab Inc. reported strong Q2 2026 earnings, beating consensus estimates with $2.09 adjusted EPS and $4.42 billion in revenue. The company also provided optimistic Q3 2026 guidance, reinforcing its stock's position in the upper range of its 52-week performance. Despite mixed institutional buying and insider selling, Ecolab's core business in water treatment and hygiene continues to drive its valuation, which analysts consider fair given its industrial large-cap status.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-21T18:14:55",
+      "first_seen_at": "2026-08-21T20:00:03.448346",
+      "assets": [
+        {
+          "symbol": "ECL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443601,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91505
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80094
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.622308
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.60024
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 379,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Ecolab stock holds firm after July 28 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ecolab-stock-holds-firm-after-july-28-earnings-beat/69982981",
+          "published_at": "2026-08-21T18:14:55"
+        }
+      ]
+    },
+    {
       "event_id": 357,
       "title": "Ingersoll Rand stock holds in the high $70s as institutional buying supports the trend",
       "summary": "Ingersoll Rand Inc. (US45687V1061) stock is trading in the high $70s on the NYSE, supported by significant institutional buying, including a major European bank acquiring over 1.2 million shares. This institutional confidence, coupled with recent quarterly revenue and earnings growth, indicates a constructive outlook for the industrial products group. The company continues to deliver strong financial performance, maintain a healthy backlog, and emphasize balance sheet resilience, reinforcing investor expectations for continued compound growth.",
@@ -965,159 +1118,6 @@
           "headline": "Caesars Entertainment stock trades below merger offer as investors weigh deal timing",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trades-below-merger-offer-as-investors-weigh/69981284",
           "published_at": "2026-08-21T13:12:33"
-        }
-      ]
-    },
-    {
-      "event_id": 342,
-      "title": "Is This a Good Time to Buy Bitcoin?",
-      "summary": "Grayscale Research suggests that current Bitcoin prices may offer a favorable entry point for long-term investors. This assessment is based on three factors: the intact structural adoption trend, the current deep stage of the bear market (10 months in), and a broadly favorable macro outlook, despite potential short-term downside risks from interest rate hikes.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-21T13:11:40",
-      "first_seen_at": "2026-08-21T15:00:04.782152",
-      "assets": [
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.624697,
-          "sentiment_score": 0.304771,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ETH",
-          "asset_class": null,
-          "relevance_score": 0.32189,
-          "sentiment_score": 0.042097,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928021
-        },
-        {
-          "topic": "blockchain",
-          "relevance_score": 0.909215
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.831157
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 358,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Grayscale",
-          "source_domain": "Grayscale",
-          "headline": "Is This a Good Time to Buy Bitcoin?",
-          "url": "https://www.grayscale.com/the-stack/is-this-a-good-time-to-buy-bitcoin",
-          "published_at": "2026-08-21T13:11:40"
-        }
-      ]
-    },
-    {
-      "event_id": 343,
-      "title": "CoStar Group Completes Acquisition of Zonda",
-      "summary": "CoStar Group has finalized its $800 million cash acquisition of Zonda, expanding its presence in the residential real estate sector, specifically new home construction. This move integrates Zonda's B2B information platform and online marketplaces like NewHomeSource.com and Livabl into CoStar's portfolio. The acquisition aims to enhance profitability, expand market reach, and leverage proprietary data, analytics, and software for the homebuilding industry.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-21T13:09:29",
-      "first_seen_at": "2026-08-21T15:00:05.009119",
-      "assets": [
-        {
-          "symbol": "CSGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.458469,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.943782
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.83147
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 359,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Builder Magazine",
-          "source_domain": "Builder Magazine",
-          "headline": "CoStar Group Completes Acquisition of Zonda",
-          "url": "https://www.builderonline.com/money/ma/costar-group-completes-acquisition-of-zonda/",
-          "published_at": "2026-08-21T13:09:29"
-        }
-      ]
-    },
-    {
-      "event_id": 336,
-      "title": "Steel Dynamics stock falls on tariff pressure and valuation",
-      "summary": "Steel Dynamics stock experienced a significant drop due to pressure from tariff headlines, which suggested a potential cut in import tariffs on Canadian steel and aluminum. Despite a strong year-to-date performance, the stock's valuation is considered high, with its current price exceeding a cited fair value. Analyst consensus, however, remains moderately positive with an average target price suggesting an upside.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-21T13:01:21",
-      "first_seen_at": "2026-08-21T14:00:02.802011",
-      "assets": [
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.214452,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944122
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.8491
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.702353
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637416
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 352,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Steel Dynamics stock falls on tariff pressure and valuation",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
-          "published_at": "2026-08-21T13:01:21"
         }
       ]
     }
