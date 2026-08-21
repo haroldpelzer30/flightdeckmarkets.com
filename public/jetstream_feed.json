@@ -20,23 +20,23 @@
           "symbol": "PKG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.622326,
+          "sentiment_score": 0.638692,
           "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.595783,
+          "sentiment_score": 0.310252,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.595688,
-          "sentiment_score": 0.334996,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.563611,
-          "sentiment_score": 0.337864,
+          "sentiment_score": 0.328732,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +44,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.557445,
-          "sentiment_score": 0.343228,
+          "sentiment_score": 0.338745,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -56,7 +56,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.802109
+          "relevance_score": 0.815475
         },
         {
           "topic": "manufacturing",
@@ -72,6 +72,144 @@
           "headline": "Packaging Corp stock holds firm after July earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/packaging-corp-stock-holds-firm-after-july-earnings-beat/69981404",
           "published_at": "2026-08-21T15:30:00"
+        }
+      ]
+    },
+    {
+      "event_id": 350,
+      "title": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades (XLF:NYSEARCA)",
+      "summary": "The S&P Financials sector faces macroeconomic headwinds and shifting demand dynamics in Q3 2026. Citigroup and Goldman Sachs lead the sector with 'A' growth grades, while several other major financial institutions like Bank of America and Mastercard also received 'Buy' ratings (B- or higher) based on their growth factor grades. The growth factor grade assesses a company's expansion prospects relative to its peers.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-21T15:17:22",
+      "first_seen_at": "2026-08-21T17:00:02.393265",
+      "assets": [
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.966757,
+          "sentiment_score": 0.424017,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.920092,
+          "sentiment_score": 0.447882,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.86816,
+          "sentiment_score": 0.423407,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.824408,
+          "sentiment_score": 0.314774,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AXP",
+          "asset_class": null,
+          "relevance_score": 0.754343,
+          "sentiment_score": 0.331511,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.929905
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.814886
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.731966
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.639875
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 367,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades (XLF:NYSEARCA)",
+          "url": "https://seekingalpha.com/news/4635917-citigroup-and-goldman-sachs-lead-as-most-financial-giants-earn-buy-growth-grades",
+          "published_at": "2026-08-21T15:17:22"
+        }
+      ]
+    },
+    {
+      "event_id": 351,
+      "title": "Innventure (NASDAQ:INV) Chairman Michael Otworth Acquires 231,000 Shares of Stock",
+      "summary": "Innventure (NASDAQ:INV) Chairman Michael Otworth recently purchased 231,000 shares of the company's stock for $348,810, increasing his direct holdings to 3.78 million shares. This insider buying occurred as the stock, despite a recent 4.3% rise, remains near its one-year low and below key moving averages. The company also reported a quarterly EPS loss that missed analyst estimates, and its revenue fell short of forecasts.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-21T15:10:53",
+      "first_seen_at": "2026-08-21T17:00:02.743001",
+      "assets": [
+        {
+          "symbol": "INV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.233093,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.645861,
+          "sentiment_score": 0.132288,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91922
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.800945
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.709772
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 368,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Innventure (NASDAQ:INV) Chairman Michael Otworth Acquires 231,000 Shares of Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/innventure-nasdaqinv-chairman-michael-otworth-acquires-231000-shares-of-stock-2026-08-21/",
+          "published_at": "2026-08-21T15:10:53"
         }
       ]
     },
@@ -940,116 +1078,6 @@
           "headline": "NFJ Investment Group LLC Acquires Shares of 47,918 Advance Auto Parts, Inc. $AAP",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nfj-investment-group-llc-acquires-shares-of-47918-advance-auto-parts-inc-aap-2026-08-21/",
           "published_at": "2026-08-21T10:57:30"
-        }
-      ]
-    },
-    {
-      "event_id": 327,
-      "title": "Old Dominion stock holds near $205 after earnings beat",
-      "summary": "Old Dominion Freight Line's stock is holding near $205 after the company reported a quarterly EPS beat of $1.68 and revenue of $1.55 billion, surpassing consensus estimates. Despite the strong earnings, the stock is trading below its 50-day and 200-day moving averages, and analysts maintain a \"Hold\" consensus with an average price target of $226.55. The company also declared a quarterly dividend of $0.29 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-20T23:01:00",
-      "first_seen_at": "2026-08-21T00:00:02.282166",
-      "assets": [
-        {
-          "symbol": "ODFL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.347407,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929728
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843781
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.710471
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.634726
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 343,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Old Dominion stock holds near $205 after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-near-205-after-earnings-beat/69978436",
-          "published_at": "2026-08-20T23:01:00"
-        }
-      ]
-    },
-    {
-      "event_id": 328,
-      "title": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
-      "summary": "Reports surfaced on August 14th that refining giants Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) held preliminary talks earlier this year regarding a potential $180 billion mega-merger. The deal ultimately collapsed, largely due to regulatory hurdles, and investors are now evaluating each company's independent performance. Both companies delivered strong Q2 2026 financial results, benefiting from expanding crack spreads and robust demand, but present different bull and bear cases for investors.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-20T22:42:45",
-      "first_seen_at": "2026-08-21T00:00:02.561759",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.250566,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 0.933814,
-          "sentiment_score": 0.207494,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.940829
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937384
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.809767
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.714286
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 344,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
-          "url": "https://uk.finance.yahoo.com/news/phillips-66-psx-marathon-petroleum-224300009.html",
-          "published_at": "2026-08-20T22:42:45"
         }
       ]
     }
