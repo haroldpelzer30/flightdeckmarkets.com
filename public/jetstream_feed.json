@@ -5,6 +5,249 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 331,
+      "title": "Paralel Advisors LLC Acquires Shares of 5,204 Ameriprise Financial, Inc. $AMP",
+      "summary": "Paralel Advisors LLC recently acquired 5,204 shares of Ameriprise Financial, Inc. (NYSE:AMP) valued at approximately $2.39 million, adding to significant institutional ownership in the company. Ameriprise Financial holds a consensus \"Moderate Buy\" rating from analysts with an average price target of $555.33, and recently exceeded quarterly earnings expectations with an EPS of $11.07 and revenue of $4.90 billion. Despite insider selling activity totaling nearly 30,000 shares, the company announced a quarterly dividend of $1.70 per share, reflecting a 1.2% yield.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-21T11:05:10",
+      "first_seen_at": "2026-08-21T12:00:02.254493",
+      "assets": [
+        {
+          "symbol": "AMP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.334589,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944288
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.844359
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.739482
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 347,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Paralel Advisors LLC Acquires Shares of 5,204 Ameriprise Financial, Inc. $AMP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-paralel-advisors-llc-acquires-shares-of-5204-ameriprise-financial-inc-amp-2026-08-21/",
+          "published_at": "2026-08-21T11:05:10"
+        }
+      ]
+    },
+    {
+      "event_id": 332,
+      "title": "Silvant Capital Management LLC Acquires New Shares in Astera Labs, Inc. $ALAB",
+      "summary": "Silvant Capital Management LLC has acquired 23,347 shares of Astera Labs, Inc. (NASDAQ:ALAB) during the second quarter, valued at approximately $11.28 million. Several other institutional investors also adjusted their holdings in Astera Labs. The company has received positive analyst sentiment due to strong AI connectivity demand, with its \"Scorpio\" product line expected to become a key catalyst.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-21T11:04:36",
+      "first_seen_at": "2026-08-21T12:00:02.510560",
+      "assets": [
+        {
+          "symbol": "ALAB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.204419,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932752
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802095
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.731272
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 348,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Silvant Capital Management LLC Acquires New Shares in Astera Labs, Inc. $ALAB",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-silvant-capital-management-llc-acquires-new-shares-in-astera-labs-inc-alab-2026-08-21/",
+          "published_at": "2026-08-21T11:04:36"
+        }
+      ]
+    },
+    {
+      "event_id": 333,
+      "title": "Paralel Advisors LLC Acquires New Position in Ford Motor Company $F",
+      "summary": "Paralel Advisors LLC has acquired a new position in Ford Motor Company, purchasing 200,240 shares valued at approximately $2.78 million during the second quarter. This move comes as institutional investors and hedge funds collectively own 58.74% of Ford. Despite a recent 3.7% dip in share price, Ford reported strong quarterly earnings of $0.42 EPS, beating estimates, and declared a quarterly dividend of $0.15 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-21T10:59:53",
+      "first_seen_at": "2026-08-21T12:00:02.785676",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.306128,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914145
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849908
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.708527
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.613151
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 349,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Paralel Advisors LLC Acquires New Position in Ford Motor Company $F",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-paralel-advisors-llc-acquires-new-position-in-ford-motor-company-f-2026-08-21/",
+          "published_at": "2026-08-21T10:59:53"
+        }
+      ]
+    },
+    {
+      "event_id": 334,
+      "title": "Kayne Anderson Capital Advisors LP Acquires New Stake in CenterPoint Energy, Inc. $CNP",
+      "summary": "Kayne Anderson Capital Advisors LP has acquired a new stake in CenterPoint Energy, Inc. (NYSE:CNP), purchasing over 1.28 million shares valued at approximately $56.5 million. This investment makes CenterPoint Energy the 19th-largest holding for Kayne Anderson, representing 1.1% of its portfolio. Despite mixed analyst sentiment, CenterPoint Energy recently exceeded earnings expectations and increased its quarterly dividend, reflecting positive financial performance.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-21T10:58:38",
+      "first_seen_at": "2026-08-21T12:00:03.036510",
+      "assets": [
+        {
+          "symbol": "CNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409293,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900678
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.81425
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717094
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.632602
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 350,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Kayne Anderson Capital Advisors LP Acquires New Stake in CenterPoint Energy, Inc. $CNP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-kayne-anderson-capital-advisors-lp-acquires-new-stake-in-centerpoint-energy-inc-cnp-2026-08-21/",
+          "published_at": "2026-08-21T10:58:38"
+        }
+      ]
+    },
+    {
+      "event_id": 335,
+      "title": "NFJ Investment Group LLC Acquires Shares of 47,918 Advance Auto Parts, Inc. $AAP",
+      "summary": "NFJ Investment Group LLC has acquired a new stake of 47,918 shares in Advance Auto Parts, Inc. (NYSE:AAP), valued at approximately $2.98 million. Other institutional investors like Royal Bank of Canada and Goldman Sachs also adjusted their positions in AAP. The company recently reported Q2 adjusted EPS of $1.03, surpassing estimates, and declared a quarterly dividend of $0.25 per share, despite a revenue miss and concerns about subdued DIY demand.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-21T10:57:30",
+      "first_seen_at": "2026-08-21T12:00:03.285958",
+      "assets": [
+        {
+          "symbol": "AAP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.112146,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920485
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801107
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.709582
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 351,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "NFJ Investment Group LLC Acquires Shares of 47,918 Advance Auto Parts, Inc. $AAP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nfj-investment-group-llc-acquires-shares-of-47918-advance-auto-parts-inc-aap-2026-08-21/",
+          "published_at": "2026-08-21T10:57:30"
+        }
+      ]
+    },
+    {
       "event_id": 327,
       "title": "Old Dominion stock holds near $205 after earnings beat",
       "summary": "Old Dominion Freight Line's stock is holding near $205 after the company reported a quarterly EPS beat of $1.68 and revenue of $1.55 billion, surpassing consensus estimates. Despite the strong earnings, the stock is trading below its 50-day and 200-day moving averages, and analysts maintain a \"Hold\" consensus with an average price target of $226.55. The company also declared a quarterly dividend of $0.29 per share.",
@@ -782,277 +1025,6 @@
           "headline": "Vulcan Materials stock rises on a $2.59 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vulcan-materials-stock-rises-on-a-2-59-earnings-beat/69977739",
           "published_at": "2026-08-20T18:23:29"
-        }
-      ]
-    },
-    {
-      "event_id": 317,
-      "title": "General Electric Co Stock (GE) Moved Down by 3.20% on Aug 20: What Signal Does It Send?",
-      "summary": "General Electric Co (GE) stock dropped by 3.20% on August 20th due to profit-taking after a sustained rally and persistent operational and cost pressures within the aerospace manufacturing environment. Despite strong demand, supply chain bottlenecks, rising expenses, and valuation recalibrations contributed to the decline. Technical indicators show neutral MACD and RSI but an oversold Williams %R, while analysts maintain \"Buy\" ratings with an average price target of $399.21.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-20T18:14:59",
-      "first_seen_at": "2026-08-20T20:00:03.689688",
-      "assets": [
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.423454,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.701174,
-          "sentiment_score": -0.406443,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94098
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91938
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.825215
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.718254
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 333,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "General Electric Co Stock (GE) Moved Down by 3.20% on Aug 20: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262121895-market-movers-ge-20260820",
-          "published_at": "2026-08-20T18:14:59"
-        }
-      ]
-    },
-    {
-      "event_id": 318,
-      "title": "Deere Stock Soars After Construction Unit Drives Earnings Beat",
-      "summary": "Deere & Co. shares surged after the company's fiscal third-quarter results, driven by its construction and forestry business, beat analyst expectations. The company also raised the lower end of its full-year earnings guidance. Despite a revenue decline in its largest unit, strong growth in construction and forestry, along with double-digit sales growth in small agriculture and turf, contributed to the positive performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-20T17:50:31",
-      "first_seen_at": "2026-08-20T20:00:03.938666",
-      "assets": [
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.547794,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.902123
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831447
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.738961
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.621381
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.60996
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 334,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investopedia",
-          "source_domain": "Investopedia",
-          "headline": "Deere Stock Soars After Construction Unit Drives Earnings Beat",
-          "url": "https://www.investopedia.com/market-update-deere-stock-soars-after-construction-unit-drives-earnings-beat-de-12064433",
-          "published_at": "2026-08-20T17:50:31"
-        }
-      ]
-    },
-    {
-      "event_id": 307,
-      "title": "Cardano Surges 5.66% on Macro Shocks and Project News",
-      "summary": "Cardano (ADA) experienced a 5.66% surge due to a combination of macro-economic factors, project-specific news, and a bullish short-term technical setup. A US Treasury announcement regarding increased long-term bond buybacks triggered a broad crypto market rally and a significant short squeeze. This macro shift, coupled with Cardano's new IBC testnet connection to Injective and the initiation of its Dijkstra network upgrade, provided strong catalysts for ADA's price movement.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-20T17:40:12",
-      "first_seen_at": "2026-08-20T19:00:02.146949",
-      "assets": [
-        {
-          "symbol": "CRDD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.449575,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "blockchain",
-          "relevance_score": 0.947511
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.919875
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826622
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 323,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CoinMarketCap",
-          "source_domain": "CoinMarketCap",
-          "headline": "Cardano Surges 5.66% on Macro Shocks and Project News",
-          "url": "https://coinmarketcap.com/top-stories/6a8629e6e9294340172a4ed1/",
-          "published_at": "2026-08-20T17:40:12"
-        }
-      ]
-    },
-    {
-      "event_id": 308,
-      "title": "Columbus Circle Capital Corp II Signs $800M Merger Agreement with Elroy Air",
-      "summary": "Columbus Circle Capital Corp II (NASDAQ: CMIIU, CMII, CMIIW) has entered into a definitive $800 million merger agreement with Elroy Air, Inc., a developer of autonomous cargo aircraft. The SPAC aims to transform from a shell company into an operating business in the autonomous aviation sector. The transaction will include the issuance of up to 11,000,000 additional shares as earnout consideration and is expected to be funded by the SPAC's $233.1 million trust account.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-20T17:39:47",
-      "first_seen_at": "2026-08-20T19:00:02.396666",
-      "assets": [
-        {
-          "symbol": "CMII",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.395074,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "ipo",
-          "relevance_score": 0.805489
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.747653
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.647039
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.632654
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 324,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Minichart",
-          "source_domain": "Minichart",
-          "headline": "Columbus Circle Capital Corp II Signs $800M Merger Agreement with Elroy Air",
-          "url": "https://www.minichart.com.sg/2026/08/19/columbus-circle-capital-corp-ii-signs-800m-merger-agreement-with-elroy-air/",
-          "published_at": "2026-08-20T17:39:47"
-        }
-      ]
-    },
-    {
-      "event_id": 309,
-      "title": "SCC chair won’t recuse herself from NextEra-Dominion case",
-      "summary": "State Corporation Commission Chair Kelsey A. Bagot has stated she will not recuse herself from the proposed $66.8 billion NextEra Energy-Dominion Energy merger proceedings. Bagot, who previously worked as a senior attorney for NextEra, asserted her duty to impartially discharge her duties and noted that her past work history with a regulated entity does not typically require recusal. The merger, which would create the world’s largest regulated electric utility, is expected to close in the second half of 2027 and is facing opposition in Virginia.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-20T17:36:29",
-      "first_seen_at": "2026-08-20T19:00:02.683585",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.24396,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.908842,
-          "sentiment_score": 0.210475,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.937369
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.711172
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 325,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Virginia Business",
-          "source_domain": "Virginia Business",
-          "headline": "SCC chair won’t recuse herself from NextEra-Dominion case",
-          "url": "https://virginiabusiness.com/scc-chair-bagot-not-recusing-nextera-dominion-case/",
-          "published_at": "2026-08-20T17:36:29"
         }
       ]
     }
