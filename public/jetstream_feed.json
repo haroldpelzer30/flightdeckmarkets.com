@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 369,
+      "title": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
+      "summary": "Tesla's U.S. EV market share has increased to 59%, a level not seen since 2023, despite a 25% stock drop this year. While the company's revenue grew, profitability decreased due to significant investments in AI, Optimus, and robotaxis, leading to negative free cash flow. This creates volatility for investors, balancing a strong core business against speculative ancillary projects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-21T22:25:00",
+      "first_seen_at": "2026-08-22T00:00:03.147008",
+      "assets": [
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.277116,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.629523,
+          "sentiment_score": 0.342836,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.935914
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923957
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826024
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.713074
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.607449
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 386,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-controls-59-u-ev-222500240.html",
+          "published_at": "2026-08-21T22:25:00"
+        }
+      ]
+    },
+    {
+      "event_id": 370,
+      "title": "Charter Communications (CHTR) sees Liberty Broadband unwind stake in merger deal",
+      "summary": "Liberty Broadband Corporation has divested its entire stake in Charter Communications (CHTR) following a merger agreement and combination completed on August 19, 2026. This action, detailed in an amended Schedule 13D filing, signifies Liberty Broadband's exit as a beneficial owner, now holding 0% of Charter's Class A common stock. Prior to the final disposition, Liberty Broadband sold shares back to Charter on two occasions in July and August 2026 for cash.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-21T22:09:23",
+      "first_seen_at": "2026-08-22T00:00:03.523497",
+      "assets": [
+        {
+          "symbol": "CHTR",
+          "asset_class": null,
+          "relevance_score": 0.975066,
+          "sentiment_score": -0.074269,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.817735
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.725782
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 387,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Charter Communications (CHTR) sees Liberty Broadband unwind stake in merger deal",
+          "url": "https://www.stocktitan.net/sec-filings/CHTR/schedule-13d-a-charter-communications-inc-mo-amended-major-shareholde-af649da7044a.html",
+          "published_at": "2026-08-21T22:09:23"
+        }
+      ]
+    },
+    {
       "event_id": 367,
       "title": "Boeing engineers, technical workers reject contract offer",
       "summary": "Boeing engineers and technical workers have rejected a four-year contract offer from the company, union officials announced. The Society of Professional Engineering Employees in Aerospace (SPEEA), representing 17,000 members, also voted to authorize a strike if a new agreement isn't reached by October. Key sticking points include the proposed wage increases, which are capped at 3% and tied to inflation and individual performance, a figure several members believe will not keep pace with the rising Consumer Price Index in their primary work area.",
@@ -20,7 +130,7 @@
           "symbol": "BA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.412343,
+          "sentiment_score": -0.436605,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -28,11 +138,11 @@
       "topics": [
         {
           "topic": "manufacturing",
-          "relevance_score": 0.919382
+          "relevance_score": 0.94901
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.82371
+          "relevance_score": 0.845475
         },
         {
           "topic": "financial_markets",
@@ -67,7 +177,7 @@
           "symbol": "FOX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.340788,
+          "sentiment_score": 0.304563,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -75,7 +185,7 @@
           "symbol": "FOXA",
           "asset_class": null,
           "relevance_score": 0.747878,
-          "sentiment_score": 0.285099,
+          "sentiment_score": 0.298666,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -87,7 +197,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.830743
+          "relevance_score": 0.834019
         }
       ],
       "articles": [
@@ -1031,121 +1141,6 @@
           "headline": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades (XLF:NYSEARCA)",
           "url": "https://seekingalpha.com/news/4635917-citigroup-and-goldman-sachs-lead-as-most-financial-giants-earn-buy-growth-grades",
           "published_at": "2026-08-21T15:17:22"
-        }
-      ]
-    },
-    {
-      "event_id": 351,
-      "title": "Innventure (NASDAQ:INV) Chairman Michael Otworth Acquires 231,000 Shares of Stock",
-      "summary": "Innventure (NASDAQ:INV) Chairman Michael Otworth recently purchased 231,000 shares of the company's stock for $348,810, increasing his direct holdings to 3.78 million shares. This insider buying occurred as the stock, despite a recent 4.3% rise, remains near its one-year low and below key moving averages. The company also reported a quarterly EPS loss that missed analyst estimates, and its revenue fell short of forecasts.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-21T15:10:53",
-      "first_seen_at": "2026-08-21T17:00:02.743001",
-      "assets": [
-        {
-          "symbol": "INV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.233093,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.645861,
-          "sentiment_score": 0.132288,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.91922
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.800945
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.709772
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 368,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Innventure (NASDAQ:INV) Chairman Michael Otworth Acquires 231,000 Shares of Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/innventure-nasdaqinv-chairman-michael-otworth-acquires-231000-shares-of-stock-2026-08-21/",
-          "published_at": "2026-08-21T15:10:53"
-        }
-      ]
-    },
-    {
-      "event_id": 345,
-      "title": "CoStar Group Completes $800M Zonda Acquisition, Expanding New Home Platform",
-      "summary": "CoStar Group Inc. has finalized its $800 million acquisition of Zonda, a move that significantly expands its presence in the new home construction market. This acquisition integrates Zonda's data, software, and residential marketplaces, including its proprietary lot-level database, into CoStar's existing real estate information and technology portfolio. The deal is expected to enhance CoStar's residential segment's profitability and open new growth opportunities by cross-selling products and leveraging Zonda's established customer base.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-21T14:56:36",
-      "first_seen_at": "2026-08-21T16:00:02.527545",
-      "assets": [
-        {
-          "symbol": "CSGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.443303,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913285
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.813465
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 362,
-          "provider": "ALPHA_VANTAGE",
-          "source": "HousingWire",
-          "source_domain": "HousingWire",
-          "headline": "CoStar closes $800M Zonda acquisition",
-          "url": "https://www.housingwire.com/articles/costar-zonda-acquisition-closes/",
-          "published_at": "2026-08-21T14:11:36"
-        },
-        {
-          "article_id": 361,
-          "provider": "ALPHA_VANTAGE",
-          "source": "citybiz",
-          "source_domain": "citybiz",
-          "headline": "CoStar Group Completes $800M Zonda Acquisition, Expanding New Home Platform",
-          "url": "https://www.citybiz.co/article/892762/costar-group-completes-800m-zonda-acquisition-expanding-new-home-platform/",
-          "published_at": "2026-08-21T14:56:36"
         }
       ]
     }
