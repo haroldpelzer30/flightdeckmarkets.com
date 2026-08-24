@@ -5,6 +5,163 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 396,
+      "title": "Waste Management stock holds firm after July 28 earnings beat",
+      "summary": "Waste Management (WM) stock is holding steady after reporting a strong earnings beat on July 28, with EPS of $2.02 on $6.68 billion in revenue. Shares opened at $223.87 on August 24, 2026, trading below both the 200-day and 50-day moving averages but well above its 52-week low. The company's market capitalization stands at $89.48 billion, reflecting a premium valuation due to its strong cash generation and defensive operational quality.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-24T15:44:03",
+      "first_seen_at": "2026-08-24T17:00:02.462775",
+      "assets": [
+        {
+          "symbol": "WM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.38098,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.947663
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 417,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Waste Management stock holds firm after July 28 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waste-management-stock-holds-firm-after-july-28-earnings-beat/69994418",
+          "published_at": "2026-08-24T15:44:03"
+        }
+      ]
+    },
+    {
+      "event_id": 397,
+      "title": "Huntington Bank: Manufacturing Data Suggests Momentum",
+      "summary": "Huntington Bank's Director of Equity Research, Randy Hare, discussed recent manufacturing data suggesting strong economic momentum. He also analyzed activity in the bond market, including the U.S. Treasury's efforts to manage long-term yields, and examined the effects of sustained higher fuel prices on both businesses and consumers. This analysis is part of Huntington's regular \"The Three Things We Learned This Week\" blog series.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-08-24T15:27:48",
+      "first_seen_at": "2026-08-24T17:00:02.705733",
+      "assets": [
+        {
+          "symbol": "HBAN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.389621,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915543
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.839891
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.741465
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.702181
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.626988
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 418,
+          "provider": "ALPHA_VANTAGE",
+          "source": "RVBusiness",
+          "source_domain": "RVBusiness",
+          "headline": "Huntington Bank: Manufacturing Data Suggests Momentum",
+          "url": "https://rvbusiness.com/huntington-bank-manufacturing-data-suggests-momentum/",
+          "published_at": "2026-08-24T15:27:48"
+        }
+      ]
+    },
+    {
+      "event_id": 398,
+      "title": "Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips",
+      "summary": "Ford and Stellantis shares each fell 4% after former President Trump announced a 50% tariff on Canadian vehicles and parts, effective January 1, 2027. General Motors also saw a 2% drop. This selloff follows a Truth Social post by Trump and the collapse of U.S.-Canada trade talks, with Canada's ambassador indicating a disagreement on the trade text, particularly regarding the inclusion of medium and heavy-duty vehicles in tariff relief.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-08-24T15:25:30",
+      "first_seen_at": "2026-08-24T17:00:03.044068",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.477736,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.918736,
+          "sentiment_score": -0.316418,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.932083
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.814041
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.727643
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.647213
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 419,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips",
+          "url": "https://247wallst.com/investing/2026/08/24/ford-and-stellantis-drop-4-as-trump-sets-50-auto-tariffs-on-canada-general-motors-slips/",
+          "published_at": "2026-08-24T15:25:30"
+        }
+      ]
+    },
+    {
       "event_id": 393,
       "title": "Unifor Reaches Tentative Agreements With General Motors",
       "summary": "Unifor has reached tentative agreements with General Motors covering over 4,600 union members across multiple Canadian plants. These agreements, endorsed unanimously by the Unifor GM Master Bargaining Committee, deliver strong income and benefit gains, securing the pattern previously set with Ford. Details will be shared with members during ratification meetings on August 29-30.",
@@ -978,183 +1135,6 @@
           "headline": "Sysco stock holds firm as earnings beat and guidance stay high",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-holds-firm-as-earnings-beat-and-guidance-stay-high/69993005",
           "published_at": "2026-08-24T11:07:54"
-        }
-      ]
-    },
-    {
-      "event_id": 373,
-      "title": "OMERS ADMINISTRATION Corp Acquires New Shares in RTX Corporation $RTX",
-      "summary": "OMERS ADMINISTRATION Corp reported acquiring 96,386 shares of RTX Corporation, valued at approximately $18.29 million, during the second quarter. Other institutional investors like BlackRock Inc. and Norges Bank also significantly increased their holdings in RTX. The article highlights RTX's strong financial performance, recent contract wins, and dividend announcements, alongside some neutral and negative sentiments regarding market volatility, valuation, and insider stock sales.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-24T10:59:37",
-      "first_seen_at": "2026-08-24T12:00:04.047215",
-      "assets": [
-        {
-          "symbol": "RTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.475536,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949607
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849653
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741966
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.609419
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.600878
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 390,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "OMERS ADMINISTRATION Corp Acquires New Shares in RTX Corporation $RTX",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-omers-administration-corp-acquires-new-shares-in-rtx-corporation-rtx-2026-08-24/",
-          "published_at": "2026-08-24T10:59:37"
-        }
-      ]
-    },
-    {
-      "event_id": 374,
-      "title": "Osmosis Investment Management UK Ltd Acquires Shares of 10,336 Synopsys, Inc. $SNPS",
-      "summary": "Osmosis Investment Management UK Ltd recently acquired 10,336 shares of Synopsys, Inc. (NASDAQ:SNPS) during the second quarter, valued at approximately $4.61 million. This acquisition is part of broader institutional investment activity in Synopsys, with other major firms like Vanguard Group Inc. and BlackRock Inc. also holding significant stakes. Despite recent insider selling by executives, analysts maintain a \"Moderate Buy\" consensus rating for Synopsys, with a target price of $563.59.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-24T10:59:36",
-      "first_seen_at": "2026-08-24T12:00:04.355093",
-      "assets": [
-        {
-          "symbol": "SNPS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.311819,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906967
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849856
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.719726
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.621593
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 391,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Osmosis Investment Management UK Ltd Acquires Shares of 10,336 Synopsys, Inc. $SNPS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-acquires-shares-of-10336-synopsys-inc-snps-2026-08-24/",
-          "published_at": "2026-08-24T10:59:36"
-        }
-      ]
-    },
-    {
-      "event_id": 375,
-      "title": "Meiji Yasuda Asset Management Co Ltd. Acquires Shares of 36,586 Essex Property Trust, Inc. $ESS",
-      "summary": "Meiji Yasuda Asset Management Co Ltd. has acquired a new position of 36,586 shares in Essex Property Trust, Inc. (NYSE:ESS), valued at approximately $10.67 million. This investment makes them the owner of about 0.06% of the company's stock. Other institutional investors have also recently adjusted their holdings in Essex Property Trust, which currently holds a \"Moderate Buy\" consensus rating from analysts with an average target price of $304.79.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T10:59:32",
-      "first_seen_at": "2026-08-24T12:00:04.578598",
-      "assets": [
-        {
-          "symbol": "ESS",
-          "asset_class": null,
-          "relevance_score": 0.955035,
-          "sentiment_score": 0.32427,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BX",
-          "asset_class": null,
-          "relevance_score": 0.63352,
-          "sentiment_score": 0.130424,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.565632,
-          "sentiment_score": 0.090831,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938203
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.901239
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845971
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.721219
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604986
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 392,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Meiji Yasuda Asset Management Co Ltd. Acquires Shares of 36,586 Essex Property Trust, Inc. $ESS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-meiji-yasuda-asset-management-co-ltd-acquires-shares-of-36586-essex-property-trust-inc-ess-2026-08-24/",
-          "published_at": "2026-08-24T10:59:32"
         }
       ]
     }
