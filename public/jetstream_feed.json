@@ -5,6 +5,183 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 415,
+      "title": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
+      "summary": "In 2026, RTX has emerged as the top performer among major aerospace and defense stocks, with a 14% year-to-date gain, followed by GE Aerospace at 11%. Boeing, however, has lagged significantly with a 3% decline. The article highlights that these companies, despite being in the same sector, have fundamentally different business models—GE Aerospace focuses on recurring engine servicing, RTX on a diversified portfolio, and Boeing on airframe manufacturing, explaining their varied performances.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-24T19:39:35",
+      "first_seen_at": "2026-08-24T21:00:02.261213",
+      "assets": [
+        {
+          "symbol": "RTX",
+          "asset_class": null,
+          "relevance_score": 0.974096,
+          "sentiment_score": 0.325666,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 0.862659,
+          "sentiment_score": 0.297208,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSI",
+          "asset_class": null,
+          "relevance_score": 0.555154,
+          "sentiment_score": 0.015756,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.944829
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.803
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.745192
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 436,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
+          "url": "https://247wallst.com/investing/2026/08/24/which-aerospace-and-defense-stock-has-dominated-in-2026-ge-aerospace-boeing-or-rtx/",
+          "published_at": "2026-08-24T19:39:35"
+        }
+      ]
+    },
+    {
+      "event_id": 416,
+      "title": "Clean energy groups call on regulators to reject We Energies rate hike",
+      "summary": "Clean energy and environmental groups in Wisconsin are urging state regulators to reject We Energies' proposed 14% residential electric rate hike, citing the significant burden on low-income residents and concerns over rising costs. We Energies argues the increases are necessary to fund $600 million in new clean energy projects and replace older facilities, while also clarifying that costs for artificial intelligence data centers will not impact residential bills. Advocacy groups contend the utility has repeatedly broken promises regarding coal plant closures and clean energy commitments, despite achieving record profits.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 75,
+      "published_at": "2026-08-24T19:37:00",
+      "first_seen_at": "2026-08-24T21:00:02.548353",
+      "assets": [
+        {
+          "symbol": "WEC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.311428,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.900676
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.844834
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.637134
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 437,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Milwaukee Journal Sentinel",
+          "source_domain": "Milwaukee Journal Sentinel",
+          "headline": "Clean energy groups call on regulators to reject We Energies rate hike",
+          "url": "https://www.jsonline.com/story/money/business/energy/2026/08/24/clean-energy-groups-call-on-regulators-to-reject-we-energies-rate-hike/91445736007/",
+          "published_at": "2026-08-24T19:37:00"
+        }
+      ]
+    },
+    {
+      "event_id": 417,
+      "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
+      "summary": "In 2026, Occidental Petroleum (OXY) leads the oil and gas sector with a 46% year-to-date gain, closely followed by EOG Resources (EOG) and ConocoPhillips (COP) which both achieved a 43% gain. The SPDR S&P Oil & Gas Exploration & Production ETF (XOP) outperformed two of these individual stocks with a 45% return, suggesting that for most investors, a sector-wide ETF might have been a more effective choice than picking individual stocks this year. The article highlights the narrow margin between the top performers and the ETF, advising investors to maintain modest single-stock positions.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-24T19:36:50",
+      "first_seen_at": "2026-08-24T21:00:02.841729",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.972012,
+          "sentiment_score": 0.035289,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.923378,
+          "sentiment_score": 0.147772,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EOG",
+          "asset_class": null,
+          "relevance_score": 0.857721,
+          "sentiment_score": 0.049018,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949288
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.805686
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.706994
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612821
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 438,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
+          "url": "https://247wallst.com/investing/2026/08/24/which-oil-and-gas-stock-has-dominated-in-2026-conocophillips-eog-resources-or-occidental-petroleum/",
+          "published_at": "2026-08-24T19:36:50"
+        }
+      ]
+    },
+    {
       "event_id": 412,
       "title": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
       "summary": "SunCar Technology Group (NASDAQ: SDA) operates a cloud service and mobile app that digitalizes the automotive aftermarket and e-insurance sectors in China, partnering with major EV manufacturers. The company experienced significant revenue growth in FY 2023, particularly in its auto e-insurance business, and has recently shown positive Adjusted EBITDA. SunCar addresses the need for aftermarket support in China's rapidly growing EV market, which lacks extensive dealer networks, and aims to make car ownership more efficient and affordable through its platform.",
@@ -20,7 +197,7 @@
           "symbol": "SDA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.427697,
+          "sentiment_score": 0.424586,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +205,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.907003
+          "relevance_score": 0.9378
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.802606
+          "relevance_score": 0.840193
         },
         {
           "topic": "technology",
@@ -40,7 +217,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.626097
+          "relevance_score": 0.627952
         },
         {
           "topic": "economy_macro",
@@ -884,175 +1061,6 @@
           "headline": "Huntington Bank: Manufacturing Data Suggests Momentum",
           "url": "https://rvbusiness.com/huntington-bank-manufacturing-data-suggests-momentum/",
           "published_at": "2026-08-24T15:27:48"
-        }
-      ]
-    },
-    {
-      "event_id": 398,
-      "title": "Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips",
-      "summary": "Ford and Stellantis shares each fell 4% after former President Trump announced a 50% tariff on Canadian vehicles and parts, effective January 1, 2027. General Motors also saw a 2% drop. This selloff follows a Truth Social post by Trump and the collapse of U.S.-Canada trade talks, with Canada's ambassador indicating a disagreement on the trade text, particularly regarding the inclusion of medium and heavy-duty vehicles in tariff relief.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-08-24T15:25:30",
-      "first_seen_at": "2026-08-24T17:00:03.044068",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.477736,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.918736,
-          "sentiment_score": -0.316418,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.932083
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.814041
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.727643
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.647213
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 419,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips",
-          "url": "https://247wallst.com/investing/2026/08/24/ford-and-stellantis-drop-4-as-trump-sets-50-auto-tariffs-on-canada-general-motors-slips/",
-          "published_at": "2026-08-24T15:25:30"
-        }
-      ]
-    },
-    {
-      "event_id": 393,
-      "title": "Unifor Reaches Tentative Agreements With General Motors",
-      "summary": "Unifor has reached tentative agreements with General Motors covering over 4,600 union members across multiple Canadian plants. These agreements, endorsed unanimously by the Unifor GM Master Bargaining Committee, deliver strong income and benefit gains, securing the pattern previously set with Ford. Details will be shared with members during ratification meetings on August 29-30.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-24T14:35:41",
-      "first_seen_at": "2026-08-24T16:00:02.704809",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.458906,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.722468,
-          "sentiment_score": 0.252507,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.941342
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.805085
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.728262
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 414,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Canadian Manufacturing",
-          "source_domain": "Canadian Manufacturing",
-          "headline": "Unifor Reaches Tentative Agreements With General Motors",
-          "url": "https://www.canadianmanufacturing.com/manufacturing/unifor-reaches-tentative-agreements-with-general-motors-320958/",
-          "published_at": "2026-08-24T14:35:41"
-        }
-      ]
-    },
-    {
-      "event_id": 394,
-      "title": "Steel Dynamics, Nucor surge on S&P leaderboard as U.S.-Canada trade fight escalates (STLD:NASDAQ)",
-      "summary": "Steel Dynamics (STLD) and Nucor (NUE) are leading gainers on the S&P 500 in early trading Monday. This surge follows the collapse of trade talks between the U.S. and Canada, suggesting investors are reacting to the implications of escalating trade tensions. The article indicates a direct correlation between the trade dispute and the stock performance of these steel companies.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-24T14:27:56",
-      "first_seen_at": "2026-08-24T16:00:02.971620",
-      "assets": [
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.406902,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 0.822466,
-          "sentiment_score": 0.414894,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936273
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.717606
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.61587
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 415,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Steel Dynamics, Nucor surge on S&P leaderboard as U.S.-Canada trade fight escalates (STLD:NASDAQ)",
-          "url": "https://seekingalpha.com/news/4636270-steel-dynamics-nucor-surge-on-sp-leaderboard-as-us-canada-trade-fight-escalates",
-          "published_at": "2026-08-24T14:27:56"
         }
       ]
     }
