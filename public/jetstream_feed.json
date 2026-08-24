@@ -5,6 +5,167 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 393,
+      "title": "Unifor Reaches Tentative Agreements With General Motors",
+      "summary": "Unifor has reached tentative agreements with General Motors covering over 4,600 union members across multiple Canadian plants. These agreements, endorsed unanimously by the Unifor GM Master Bargaining Committee, deliver strong income and benefit gains, securing the pattern previously set with Ford. Details will be shared with members during ratification meetings on August 29-30.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-24T14:35:41",
+      "first_seen_at": "2026-08-24T16:00:02.704809",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.458906,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.722468,
+          "sentiment_score": 0.252507,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.941342
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.805085
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.728262
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 414,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Canadian Manufacturing",
+          "source_domain": "Canadian Manufacturing",
+          "headline": "Unifor Reaches Tentative Agreements With General Motors",
+          "url": "https://www.canadianmanufacturing.com/manufacturing/unifor-reaches-tentative-agreements-with-general-motors-320958/",
+          "published_at": "2026-08-24T14:35:41"
+        }
+      ]
+    },
+    {
+      "event_id": 394,
+      "title": "Steel Dynamics, Nucor surge on S&P leaderboard as U.S.-Canada trade fight escalates (STLD:NASDAQ)",
+      "summary": "Steel Dynamics (STLD) and Nucor (NUE) are leading gainers on the S&P 500 in early trading Monday. This surge follows the collapse of trade talks between the U.S. and Canada, suggesting investors are reacting to the implications of escalating trade tensions. The article indicates a direct correlation between the trade dispute and the stock performance of these steel companies.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-24T14:27:56",
+      "first_seen_at": "2026-08-24T16:00:02.971620",
+      "assets": [
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.406902,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 0.822466,
+          "sentiment_score": 0.414894,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.936273
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.717606
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.61587
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 415,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "Steel Dynamics, Nucor surge on S&P leaderboard as U.S.-Canada trade fight escalates (STLD:NASDAQ)",
+          "url": "https://seekingalpha.com/news/4636270-steel-dynamics-nucor-surge-on-sp-leaderboard-as-us-canada-trade-fight-escalates",
+          "published_at": "2026-08-24T14:27:56"
+        }
+      ]
+    },
+    {
+      "event_id": 395,
+      "title": "Is Guyana Becoming an Even Bigger Cash Flow Engine for ExxonMobil?",
+      "summary": "ExxonMobil is poised for significant cash flow growth from its Guyana operations, expecting free cash flow in 2030 to be double the 2025 level due to accelerated investment recovery and higher production. The company is expanding its FPSO capacity, with a fifth FPSO starting in late 2026 and a ninth planned for 2031, while also identifying new opportunities through AI-powered exploration. This expansion also benefits Chevron, with its stake in the Stabroek Block, and TechnipFMC, through sustained demand for its subsea services.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-24T14:14:37",
+      "first_seen_at": "2026-08-24T16:00:03.324654",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.986012,
+          "sentiment_score": 0.440702,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.878063,
+          "sentiment_score": 0.328103,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.912177
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.849146
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 416,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "Is Guyana Becoming an Even Bigger Cash Flow Engine for ExxonMobil?",
+          "url": "https://ca.finance.yahoo.com/news/guyana-becoming-even-bigger-cash-141500626.html",
+          "published_at": "2026-08-24T14:14:37"
+        }
+      ]
+    },
+    {
       "event_id": 388,
       "title": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
       "summary": "Frontline shares are nearing a 14-year high, trading just 3.3% below their 52-week peak, driven by a 6% weekly surge in oil prices and tightening tanker availability due to Strait of Hormuz shipping constraints. Unlike major integrated oil producers like Exxon and Chevron, Frontline provides more direct exposure to these market dynamics, resulting in a 5.97% stock increase last week. The company, set to announce Q2 results on August 31, is operating on solid financial ground, having reported strong Q1 adjusted earnings and a dividend in line with EPS.",
@@ -994,169 +1155,6 @@
           "headline": "Meiji Yasuda Asset Management Co Ltd. Acquires Shares of 36,586 Essex Property Trust, Inc. $ESS",
           "url": "https://www.marketbeat.com/instant-alerts/filing-meiji-yasuda-asset-management-co-ltd-acquires-shares-of-36586-essex-property-trust-inc-ess-2026-08-24/",
           "published_at": "2026-08-24T10:59:32"
-        }
-      ]
-    },
-    {
-      "event_id": 376,
-      "title": "Sanctuary Advisors LLC Buys New Shares in Williams Companies, Inc. (The) $WMB",
-      "summary": "Sanctuary Advisors LLC recently acquired 461,473 shares of Williams Companies, Inc. (WMB) during the second quarter, valued at approximately $34.3 million. This purchase is part of broader institutional investment, with 86.44% of WMB stock held by institutional investors and hedge funds. Despite some analyst forecast reductions, WMB maintains a consensus \"Buy\" rating with an average target price of $85.60, reporting quarterly revenue of $3.05 billion and an EPS of $0.50.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-24T10:59:22",
-      "first_seen_at": "2026-08-24T12:00:04.830051",
-      "assets": [
-        {
-          "symbol": "WMB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.269234,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.934161
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92447
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.827462
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741534
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 393,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "RR Advisors LLC Invests $27.88 Million in Williams Companies, Inc. (The) $WMB",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-rr-advisors-llc-invests-2788-million-in-williams-companies-inc-the-wmb-2026-08-24/",
-          "published_at": "2026-08-24T10:59:22"
-        },
-        {
-          "article_id": 394,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Sanctuary Advisors LLC Buys New Shares in Williams Companies, Inc. (The) $WMB",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-buys-new-shares-in-williams-companies-inc-the-wmb-2026-08-24/",
-          "published_at": "2026-08-24T10:59:22"
-        },
-        {
-          "article_id": 395,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Pinnacle Holdings LLC Takes $5.46 Million Position in Williams Companies, Inc. (The) $WMB",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-pinnacle-holdings-llc-takes-546-million-position-in-williams-companies-inc-the-wmb-2026-08-24/",
-          "published_at": "2026-08-24T10:59:22"
-        }
-      ]
-    },
-    {
-      "event_id": 378,
-      "title": "Winmill & CO. Inc. Acquires Shares of 21,990 Ameriprise Financial, Inc. $AMP",
-      "summary": "Winmill & CO. Inc. recently acquired 21,990 shares of Ameriprise Financial, Inc. (NYSE:AMP) during the second quarter, a stake valued at approximately $10.1 million and representing 2.2% of its portfolio. This acquisition contributes to institutional investors collectively owning 83.95% of Ameriprise. The financial services provider reported strong quarterly earnings, beating analyst estimates, and has a \"Moderate Buy\" consensus rating from analysts, although insiders have sold a significant number of shares recently.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T10:59:14",
-      "first_seen_at": "2026-08-24T12:00:05.390578",
-      "assets": [
-        {
-          "symbol": "AMP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.313708,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940908
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.814551
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.80864
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.608054
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 397,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Winmill & CO. Inc. Acquires Shares of 21,990 Ameriprise Financial, Inc. $AMP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-winmill-co-inc-acquires-shares-of-21990-ameriprise-financial-inc-amp-2026-08-24/",
-          "published_at": "2026-08-24T10:59:14"
-        }
-      ]
-    },
-    {
-      "event_id": 377,
-      "title": "Sanctuary Advisors LLC Acquires New Position in Devon Energy Corporation $DVN",
-      "summary": "Sanctuary Advisors LLC has acquired a new position in Devon Energy Corporation, purchasing 363,861 shares valued at approximately $15.035 million. This makes Sanctuary Advisors LLC the owner of about 0.06% of Devon Energy's stock. Other institutional investors also adjusted their holdings, and analysts have offered various ratings, with the company currently holding a \"Moderate Buy\" consensus.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-24T10:59:14",
-      "first_seen_at": "2026-08-24T12:00:05.191884",
-      "assets": [
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.213677,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92065
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.842935
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 396,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Sanctuary Advisors LLC Acquires New Position in Devon Energy Corporation $DVN",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-acquires-new-position-in-devon-energy-corporation-dvn-2026-08-24/",
-          "published_at": "2026-08-24T10:59:14"
         }
       ]
     }
