@@ -5,6 +5,326 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 388,
+      "title": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
+      "summary": "Frontline shares are nearing a 14-year high, trading just 3.3% below their 52-week peak, driven by a 6% weekly surge in oil prices and tightening tanker availability due to Strait of Hormuz shipping constraints. Unlike major integrated oil producers like Exxon and Chevron, Frontline provides more direct exposure to these market dynamics, resulting in a 5.97% stock increase last week. The company, set to announce Q2 results on August 31, is operating on solid financial ground, having reported strong Q1 adjusted earnings and a dividend in line with EPS.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-24T14:12:58",
+      "first_seen_at": "2026-08-24T15:00:02.052147",
+      "assets": [
+        {
+          "symbol": "FRO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.427368,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.680605,
+          "sentiment_score": 0.222602,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.671829,
+          "sentiment_score": 0.194446,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945731
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.945572
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.819966
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612286
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 408,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechStock²",
+          "source_domain": "TechStock²",
+          "headline": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
+          "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
+          "published_at": "2026-08-24T14:12:58"
+        }
+      ]
+    },
+    {
+      "event_id": 389,
+      "title": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
+      "summary": "Micron Technology Inc. (MU) stock opened down by 6.86% on August 24, driven by a combination of Asian semiconductor selloffs, macroeconomic pressures, and ongoing patent litigation with Netlist. The company faces concerns over moderating memory spot prices and increased capital expenditure, despite strong annual revenues and net profits. Analysts currently hold a \"Buy\" consensus, with an average price target of $1451.14, but short-term momentum is fragile due to market volatility and risk mitigation efforts.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 72,
+      "published_at": "2026-08-24T13:46:59",
+      "first_seen_at": "2026-08-24T15:00:02.338630",
+      "assets": [
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.401065,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.416168,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.634694,
+          "sentiment_score": -0.232857,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.617836,
+          "sentiment_score": -0.328912,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.932902
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.822757
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 410,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
+          "url": "https://www.tradingkey.com/news/market-movers/262127879-market-movers-mu-20260824",
+          "published_at": "2026-08-24T13:46:59"
+        },
+        {
+          "article_id": 409,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
+          "published_at": "2026-08-24T13:47:16"
+        }
+      ]
+    },
+    {
+      "event_id": 390,
+      "title": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
+      "summary": "Morgan Stanley is cautioning investors that bond yields may continue to rise, citing a shift in economic cycles that resembles the post-World War II era. The investment bank believes market dynamics have moved away from the disinflationary period observed from 1982 to 2020. This prediction was initially made by Morgan Stanley in 2021, suggesting a sustained change in economic conditions.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-24T13:45:46",
+      "first_seen_at": "2026-08-24T15:00:02.767321",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.286444,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 0.635842,
+          "sentiment_score": 0.016671,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.613372,
+          "sentiment_score": 0.045268,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.550744,
+          "sentiment_score": 0.001315,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.944302
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.829722
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.723526
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 411,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
+          "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
+          "published_at": "2026-08-24T13:45:46"
+        }
+      ]
+    },
+    {
+      "event_id": 391,
+      "title": "Are Transportation Stocks Lagging Delta Air Lines (DAL) This Year?",
+      "summary": "Delta Air Lines (DAL) has outperformed its sector and industry year-to-date, with a stock return of 18.8% compared to the Transportation sector's 15% average. The company currently holds a Zacks Rank of #2 (Buy), and its full-year earnings estimates have seen a significant increase. Another strong performer in the transportation group is Okeanis Eco Tankers Corp. (ECO), which has returned 91.2% year-to-date and has a Zacks Rank #1 (Strong Buy).",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-08-24T13:40:02",
+      "first_seen_at": "2026-08-24T15:00:03.061746",
+      "assets": [
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.348183,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.932426
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.919417
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.807141
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 412,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Australia",
+          "source_domain": "Yahoo Finance Australia",
+          "headline": "Are Transportation Stocks Lagging Delta Air Lines (DAL) This Year?",
+          "url": "https://au.finance.yahoo.com/news/transportation-stocks-lagging-delta-air-134001129.html",
+          "published_at": "2026-08-24T13:40:02"
+        }
+      ]
+    },
+    {
+      "event_id": 392,
+      "title": "Union Pacific stock trades near record highs as institutions boost stakes and dividend rises",
+      "summary": "Union Pacific (UNP) stock is trading near record highs, driven by increased institutional buying, a higher quarterly dividend, and recent strong earnings. While various valuation models present mixed signals regarding the stock's fair value, its robust year-to-date and one-year performance, coupled with a positive analyst outlook, suggest continued investor confidence ahead of its next earnings report on October 22, 2026. The company's strong rail operations, diversified freight services, and consistent investments in technology contribute to its stable financial outlook.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-24T13:36:58",
+      "first_seen_at": "2026-08-24T15:00:03.313100",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.338242,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.918691
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.910969
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802035
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.645369
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 413,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Union Pacific stock trades near record highs as institutions boost stakes and dividend rises",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-trades-near-record-highs-as-institutions-boost-stakes/69993779",
+          "published_at": "2026-08-24T13:36:58"
+        }
+      ]
+    },
+    {
       "event_id": 383,
       "title": "Morgan Stanley sees quality stocks and AI adopters leading market",
       "summary": "Morgan Stanley believes that large-cap quality stocks and companies embracing artificial intelligence will drive market leadership, as post-COVID inflation has created shorter market cycles. The firm notes that its quality rotation strategy has already shown success, with stocks featuring high free cash flow, gross margins, and sales growth stability outperforming. Morgan Stanley also suggests that energy stocks can act as a hedge against rising oil prices, which historically create headwinds for equities.",
@@ -837,265 +1157,6 @@
           "headline": "Sanctuary Advisors LLC Acquires New Position in Devon Energy Corporation $DVN",
           "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-acquires-new-position-in-devon-energy-corporation-dvn-2026-08-24/",
           "published_at": "2026-08-24T10:59:14"
-        }
-      ]
-    },
-    {
-      "event_id": 369,
-      "title": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
-      "summary": "Tesla's U.S. EV market share has increased to 59%, a level not seen since 2023, despite a 25% stock drop this year. While the company's revenue grew, profitability decreased due to significant investments in AI, Optimus, and robotaxis, leading to negative free cash flow. This creates volatility for investors, balancing a strong core business against speculative ancillary projects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-21T22:25:00",
-      "first_seen_at": "2026-08-22T00:00:03.147008",
-      "assets": [
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.277116,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.629523,
-          "sentiment_score": 0.342836,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935914
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923957
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826024
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.713074
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.607449
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 386,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-controls-59-u-ev-222500240.html",
-          "published_at": "2026-08-21T22:25:00"
-        }
-      ]
-    },
-    {
-      "event_id": 370,
-      "title": "Charter Communications (CHTR) sees Liberty Broadband unwind stake in merger deal",
-      "summary": "Liberty Broadband Corporation has divested its entire stake in Charter Communications (CHTR) following a merger agreement and combination completed on August 19, 2026. This action, detailed in an amended Schedule 13D filing, signifies Liberty Broadband's exit as a beneficial owner, now holding 0% of Charter's Class A common stock. Prior to the final disposition, Liberty Broadband sold shares back to Charter on two occasions in July and August 2026 for cash.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-21T22:09:23",
-      "first_seen_at": "2026-08-22T00:00:03.523497",
-      "assets": [
-        {
-          "symbol": "CHTR",
-          "asset_class": null,
-          "relevance_score": 0.975066,
-          "sentiment_score": -0.074269,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.817735
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.725782
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 387,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Charter Communications (CHTR) sees Liberty Broadband unwind stake in merger deal",
-          "url": "https://www.stocktitan.net/sec-filings/CHTR/schedule-13d-a-charter-communications-inc-mo-amended-major-shareholde-af649da7044a.html",
-          "published_at": "2026-08-21T22:09:23"
-        }
-      ]
-    },
-    {
-      "event_id": 367,
-      "title": "Boeing engineers, technical workers reject contract offer",
-      "summary": "Boeing engineers and technical workers have rejected a four-year contract offer from the company, union officials announced. The Society of Professional Engineering Employees in Aerospace (SPEEA), representing 17,000 members, also voted to authorize a strike if a new agreement isn't reached by October. Key sticking points include the proposed wage increases, which are capped at 3% and tied to inflation and individual performance, a figure several members believe will not keep pace with the rising Consumer Price Index in their primary work area.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-21T21:51:00",
-      "first_seen_at": "2026-08-21T23:00:02.017068",
-      "assets": [
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.436605,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.94901
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.845475
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.644537
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 384,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Boeing engineers, technical workers reject contract offer",
-          "url": "https://www.cnbc.com/2026/08/21/boeing-engineers-technical-workers-reject-contract-offer.html",
-          "published_at": "2026-08-21T21:51:00"
-        }
-      ]
-    },
-    {
-      "event_id": 368,
-      "title": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger",
-      "summary": "Fox Corp (NASDAQ: FOX) has filed an amended S-4 form detailing its acquisition of Roku, Inc. Roku stockholders will receive 0.9693 shares of FOX Class A Common Stock plus $96.00 in cash per share. This merger is expected to result in former Roku stockholders owning approximately 27% of outstanding FOX common stock.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-21T21:16:05",
-      "first_seen_at": "2026-08-21T23:00:02.290155",
-      "assets": [
-        {
-          "symbol": "FOX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.304563,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FOXA",
-          "asset_class": null,
-          "relevance_score": 0.747878,
-          "sentiment_score": 0.298666,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.834019
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 385,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger",
-          "url": "https://www.stocktitan.net/sec-filings/FOX/s-4-a-fox-corp-amended-business-combination-registration-5da12941d979.html",
-          "published_at": "2026-08-21T21:16:05"
-        }
-      ]
-    },
-    {
-      "event_id": 365,
-      "title": "PPL stock slips after an August 7 earnings miss",
-      "summary": "PPL stock slipped after reporting Q2 EPS of $0.33, missing the $0.34 forecast, despite revenue reaching $2.11 billion and the company maintaining its fiscal 2026 EPS guidance. Analysts remain constructive with a $42 price target, and PPL declared a steady quarterly dividend of $0.285 a share, reinforcing its defensive utility profile. The stock's current price of $34.69 is below its 52-week high but well above its low, with a market value of $26.11 billion.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-21T21:02:13",
-      "first_seen_at": "2026-08-21T22:00:02.129166",
-      "assets": [
-        {
-          "symbol": "PPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.205269,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937257
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.819098
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.748712
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.626368
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 382,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "PPL stock slips after an August 7 earnings miss",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-stock-slips-after-an-august-7-earnings-miss/69983691",
-          "published_at": "2026-08-21T21:02:13"
         }
       ]
     }
