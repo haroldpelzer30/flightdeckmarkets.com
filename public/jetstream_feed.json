@@ -5,6 +5,128 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 419,
+      "title": "Occidental Petroleum stock holds a strong 2026 gain as analysts stay cautious",
+      "summary": "Occidental Petroleum (OXY) stock has seen a strong 46% year-to-date gain in 2026, trading in the low-$60s range, partially fueled by a significant Q2 2026 earnings beat. Despite this robust performance, analyst sentiment remains cautious, with a consensus Hold rating and price targets clustered in the mid-$60s, suggesting limited upside without new catalysts. The company's performance has outpaced some peers, reflecting strong operational execution and leverage to commodity prices, but much of this is already factored into the current valuation.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-24T20:40:17",
+      "first_seen_at": "2026-08-24T22:00:01.676126",
+      "assets": [
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.293299,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.689927,
+          "sentiment_score": 0.137351,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EOG",
+          "asset_class": null,
+          "relevance_score": 0.673243,
+          "sentiment_score": 0.120877,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FDS",
+          "asset_class": null,
+          "relevance_score": 0.626636,
+          "sentiment_score": 0.13591,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932723
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.915339
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.835196
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 440,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Occidental Petroleum stock holds a strong 2026 gain as analysts stay cautious",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/occidental-petroleum-stock-holds-a-strong-2026-gain-as-analysts-stay/69995905",
+          "published_at": "2026-08-24T20:40:17"
+        }
+      ]
+    },
+    {
+      "event_id": 420,
+      "title": "Dollar General stock edges higher as earnings beat odds become focus",
+      "summary": "Dollar General (DG) stock is trading in the mid-$120s as investors await its upcoming quarterly earnings report. Analysts expect a 7.5% year-over-year increase in earnings to $2.00 per share, with a consensus \"hold\" rating and a one-year price target of $130.42. The company's focus on consumables and its defensive retail model are key factors in its anticipated steady performance amidst macroeconomic uncertainties.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-24T20:20:05",
+      "first_seen_at": "2026-08-24T22:00:01.997225",
+      "assets": [
+        {
+          "symbol": "DG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.293059,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940542
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.80542
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.74878
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640126
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 441,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Dollar General stock edges higher as earnings beat odds become focus",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-general-stock-edges-higher-as-earnings-beat-odds-become-focus/69995794",
+          "published_at": "2026-08-24T20:20:05"
+        }
+      ]
+    },
+    {
       "event_id": 415,
       "title": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
       "summary": "In 2026, RTX has emerged as the top performer among major aerospace and defense stocks, with a 14% year-to-date gain, followed by GE Aerospace at 11%. Boeing, however, has lagged significantly with a 3% decline. The article highlights that these companies, despite being in the same sector, have fundamentally different business models—GE Aerospace focuses on recurring engine servicing, RTX on a diversified portfolio, and Boeing on airframe manufacturing, explaining their varied performances.",
@@ -963,104 +1085,6 @@
           "headline": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
           "url": "https://www.cnhinews.com/news/article_bf343275-9d44-5c5a-ba37-2e81cbc71dce.html",
           "published_at": "2026-08-24T16:07:31"
-        }
-      ]
-    },
-    {
-      "event_id": 396,
-      "title": "Waste Management stock holds firm after July 28 earnings beat",
-      "summary": "Waste Management (WM) stock is holding steady after reporting a strong earnings beat on July 28, with EPS of $2.02 on $6.68 billion in revenue. Shares opened at $223.87 on August 24, 2026, trading below both the 200-day and 50-day moving averages but well above its 52-week low. The company's market capitalization stands at $89.48 billion, reflecting a premium valuation due to its strong cash generation and defensive operational quality.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-24T15:44:03",
-      "first_seen_at": "2026-08-24T17:00:02.462775",
-      "assets": [
-        {
-          "symbol": "WM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.38098,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947663
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 417,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Waste Management stock holds firm after July 28 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waste-management-stock-holds-firm-after-july-28-earnings-beat/69994418",
-          "published_at": "2026-08-24T15:44:03"
-        }
-      ]
-    },
-    {
-      "event_id": 397,
-      "title": "Huntington Bank: Manufacturing Data Suggests Momentum",
-      "summary": "Huntington Bank's Director of Equity Research, Randy Hare, discussed recent manufacturing data suggesting strong economic momentum. He also analyzed activity in the bond market, including the U.S. Treasury's efforts to manage long-term yields, and examined the effects of sustained higher fuel prices on both businesses and consumers. This analysis is part of Huntington's regular \"The Three Things We Learned This Week\" blog series.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-08-24T15:27:48",
-      "first_seen_at": "2026-08-24T17:00:02.705733",
-      "assets": [
-        {
-          "symbol": "HBAN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.389621,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.915543
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.839891
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.741465
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.702181
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.626988
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 418,
-          "provider": "ALPHA_VANTAGE",
-          "source": "RVBusiness",
-          "source_domain": "RVBusiness",
-          "headline": "Huntington Bank: Manufacturing Data Suggests Momentum",
-          "url": "https://rvbusiness.com/huntington-bank-manufacturing-data-suggests-momentum/",
-          "published_at": "2026-08-24T15:27:48"
         }
       ]
     }
