@@ -5,6 +5,454 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 399,
+      "title": "McCormick stock holds bullish tone as merger and earnings reshape the flavor leader",
+      "summary": "McCormick & Company (MKC) stock is displaying a bullish trend, driven by strong second-quarter 2026 earnings that beat expectations and reaffirmed full-year guidance. This positive performance is further bolstered by a planned $65 billion merger with a substantial portion of Unilever’s food business, which is set to significantly expand McCormick's scale in the global spice, condiments, and prepared-foods market. Technical analysis points to a support level of $53.70 and a resistance target of $60.00, reinforcing the near-term bullish outlook for investors.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-08-24T17:20:05",
+      "first_seen_at": "2026-08-24T18:00:02.684042",
+      "assets": [
+        {
+          "symbol": "MKC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.706799,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MKC-V",
+          "asset_class": null,
+          "relevance_score": 0.318688,
+          "sentiment_score": 0.040631,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906441
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.817775
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.701316
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.602606
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 420,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "McCormick stock holds bullish tone as merger and earnings reshape the flavor leader",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mccormick-stock-holds-bullish-tone-as-merger-and-earnings-reshape-the/69994605",
+          "published_at": "2026-08-24T17:20:05"
+        }
+      ]
+    },
+    {
+      "event_id": 400,
+      "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+      "summary": "The United States and Canada have fallen deeper into a trade war after negotiations collapsed, leading to new tariffs from both sides. The US imposed 50% tariffs on $20 billion worth of Canadian goods, with Canada retaliating with its own penalties set to begin on September 8th. Both nations are blaming each other for the failed talks, raising concerns about the future of their historically cooperative relationship and potential impacts on their economies.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-08-24T17:09:22",
+      "first_seen_at": "2026-08-24T18:00:03.037659",
+      "assets": [
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 0.643972,
+          "sentiment_score": -0.310208,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 0.623223,
+          "sentiment_score": -0.310049,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MT",
+          "asset_class": null,
+          "relevance_score": 0.340053,
+          "sentiment_score": 0.01597,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.948882
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.812838
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.646208
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.634967
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 421,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Times Union",
+          "source_domain": "Times Union",
+          "headline": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+          "url": "https://www.timesunion.com/business/article/us-is-set-to-impose-50-tariffs-on-20-billion-22399024.php",
+          "published_at": "2026-08-24T17:09:22"
+        }
+      ]
+    },
+    {
+      "event_id": 401,
+      "title": "Ameren stock holds above $106 as institutions add millions",
+      "summary": "Ameren stock is trading above $106, supported by new multi-million-dollar institutional investments, as the utility anticipates steady earnings growth of 7.36% for fiscal year 2026. Analysts maintain a \"moderate buy\" rating with an average price target of $121.42, suggesting a potential upside of approximately 13% from current levels. The company's regulated utility operations and dividend profile are key factors attracting long-term investors.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-24T16:56:59",
+      "first_seen_at": "2026-08-24T18:00:03.341504",
+      "assets": [
+        {
+          "symbol": "AEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.470526,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.936143
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.831648
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.743203
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 422,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Ameren stock holds above $106 as institutions add millions",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ameren-stock-holds-above-106-as-institutions-add-millions/69994783",
+          "published_at": "2026-08-24T16:56:59"
+        }
+      ]
+    },
+    {
+      "event_id": 402,
+      "title": "Elevance Health stock holds near $400 as Q2 2026 earnings beat supports outlook",
+      "summary": "Elevance Health (ELV) stock is trading near $403 after reporting a solid Q2 2026 earnings beat, with revenue of $49.83 billion exceeding analyst expectations and EPS of $7.45 significantly above estimates. Despite a slight dip in medical members, the company maintained stable revenue and reaffirmed its full-year earnings guidance, supported by a \"Moderate Buy\" consensus rating and ongoing institutional investment interest. The stock's current price is modestly above its 50-day and 200-day moving averages, suggesting an upward trend.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-24T16:49:09",
+      "first_seen_at": "2026-08-24T18:00:03.625990",
+      "assets": [
+        {
+          "symbol": "ELV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.408939,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922722
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.835541
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.72579
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620045
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.609091
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 423,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Elevance Health stock holds near $400 as Q2 2026 earnings beat supports outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-holds-near-400-as-q2-2026-earnings-beat-supports/69994749",
+          "published_at": "2026-08-24T16:49:09"
+        }
+      ]
+    },
+    {
+      "event_id": 403,
+      "title": "UnitedHealth Group stock advances as Q2 2026 earnings beat drives guidance hike",
+      "summary": "UnitedHealth Group's stock is advancing due to a strong Q2 2026 earnings beat, a higher full-year EPS outlook, and a rebound in Optum's profitability. The company reported adjusted Q2 2026 EPS of $6.38, significantly exceeding estimates, and improved its medical benefit ratio, leading to a raised full-year 2026 EPS guidance of $19.50 to $20.00. Analysts maintain a 'Moderate Buy' rating with an average 12-month price target of $455.92, indicating cautious optimism for continued margin repair and growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-24T16:40:00",
+      "first_seen_at": "2026-08-24T18:00:03.888752",
+      "assets": [
+        {
+          "symbol": "UNH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.512335,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920054
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.807677
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.741817
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.641497
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 424,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "UnitedHealth Group stock advances as Q2 2026 earnings beat drives guidance hike",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-advances-as-q2-2026-earnings-beat-drives-guidance/69994105",
+          "published_at": "2026-08-24T16:40:00"
+        }
+      ]
+    },
+    {
+      "event_id": 404,
+      "title": "MasTec Falls as Investors Weigh New Debt, Acquisition Financing, and Lingering Segment Weakness",
+      "summary": "MasTec (MTZ) shares fell 4.4% due to continued investor caution regarding its recent financing activities, acquisition-related leverage, and persistent weakness in its communications segment. The company recently priced $650 million in senior notes and acquired The Superior Group for approximately $1.6 billion, increasing focus on its balance sheet. Despite record revenue and adjusted EPS in Q2 2026, concerns about profitability in its communications segment and execution risk have kept the stock under pressure.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-08-24T16:19:24",
+      "first_seen_at": "2026-08-24T18:00:04.126292",
+      "assets": [
+        {
+          "symbol": "MTZ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.380807,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907054
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832259
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.823016
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.71603
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 425,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "MasTec Falls as Investors Weigh New Debt, Acquisition Financing, and Lingering Segment Weakness",
+          "url": "https://www.quiverquant.com/news/MasTec+Falls+as+Investors+Weigh+New+Debt%2C+Acquisition+Financing%2C+and+Lingering+Segment+Weakness",
+          "published_at": "2026-08-24T16:19:24"
+        }
+      ]
+    },
+    {
+      "event_id": 405,
+      "title": "Quanta Services slides as investors weigh recent debt raise and acquisition activity",
+      "summary": "Quanta Services (PWR) stock fell 3.2% as investors assessed the company's recent debt financing and acquisition activities following a strong Q2 2026 report. While Quanta reported significant revenue and backlog growth and raised its full-year guidance, the market may be weighing the added debt and integration risks from several new acquisitions against these positive results. The company recently priced $2.0 billion in senior notes and completed multiple acquisitions to expand its infrastructure capabilities.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-24T16:18:53",
+      "first_seen_at": "2026-08-24T18:00:04.349870",
+      "assets": [
+        {
+          "symbol": "PWR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.262709,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.576487,
+          "sentiment_score": 0.108296,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.928685
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845232
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.742263
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 426,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Quanta Services slides as investors weigh recent debt raise and acquisition activity",
+          "url": "https://www.quiverquant.com/news/Quanta+Services+slides+as+investors+weigh+recent+debt+raise+and+acquisition+activity",
+          "published_at": "2026-08-24T16:18:53"
+        }
+      ]
+    },
+    {
+      "event_id": 406,
+      "title": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
+      "summary": "Lancium has announced a strategic partnership with NVIDIA to advance gigawatt-scale AI factory development across its 15+ GW portfolio. NVIDIA has also made a strategic investment in Lancium, a Blackstone portfolio company. This collaboration will enable the deployment of NVIDIA's full-stack AI factory platform at Lancium's campuses, providing NVIDIA customers and partners with access to large-scale, power-ready capacity for demanding AI workloads.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-24T16:07:31",
+      "first_seen_at": "2026-08-24T18:00:04.570151",
+      "assets": [
+        {
+          "symbol": "BX",
+          "asset_class": null,
+          "relevance_score": 0.983735,
+          "sentiment_score": 0.460554,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.919372,
+          "sentiment_score": 0.407073,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.915377
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.715017
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 427,
+          "provider": "ALPHA_VANTAGE",
+          "source": "cnhinews.com",
+          "source_domain": "cnhinews.com",
+          "headline": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
+          "url": "https://www.cnhinews.com/news/article_bf343275-9d44-5c5a-ba37-2e81cbc71dce.html",
+          "published_at": "2026-08-24T16:07:31"
+        }
+      ]
+    },
+    {
       "event_id": 396,
       "title": "Waste Management stock holds firm after July 28 earnings beat",
       "summary": "Waste Management (WM) stock is holding steady after reporting a strong earnings beat on July 28, with EPS of $2.02 on $6.68 billion in revenue. Shares opened at $223.87 on August 24, 2026, trading below both the 200-day and 50-day moving averages but well above its 52-week low. The company's market capitalization stands at $89.48 billion, reflecting a premium valuation due to its strong cash generation and defensive operational quality.",
@@ -726,415 +1174,6 @@
           "headline": "Morgan Stanley sees quality stocks and AI adopters leading market",
           "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-quality-stocks-and-ai-adopters-leading-market-93CH-4873513",
           "published_at": "2026-08-24T12:46:54"
-        }
-      ]
-    },
-    {
-      "event_id": 384,
-      "title": "Carrier Global stock holds at $60 while analysts see upside",
-      "summary": "Carrier Global (CARR) stock is trading around $60.40, with analysts maintaining a \"Moderate Buy\" rating and an average price target of $73.67, implying approximately 22% upside. The company recently reported strong quarterly results, exceeding revenue and EPS expectations, and has reaffirmed its full-year 2026 guidance. Carrier Global also offers a dividend yield of 1.6% and is positioned to benefit from long-term trends in urbanization and decarbonization within the climate-control sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-24T12:45:30",
-      "first_seen_at": "2026-08-24T14:00:02.210746",
-      "assets": [
-        {
-          "symbol": "CARR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.415235,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940365
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.717136
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.622755
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 404,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Carrier Global stock holds at $60 while analysts see upside",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/carrier-global-stock-holds-at-60-while-analysts-see-upside/69993549",
-          "published_at": "2026-08-24T12:45:30"
-        }
-      ]
-    },
-    {
-      "event_id": 385,
-      "title": "Halliburton stock holds at mid 30s as investors eye consensus upside",
-      "summary": "Halliburton (HAL) stock is trading in the mid-$30s, specifically at $35.38, with analysts projecting a consensus target in the low $40s, indicating potential upside. Institutional investors are actively adding positions, highlighting continued interest despite the current share price. The stock's position relative to its 50-day and 200-day moving averages, along with a \"Moderate Buy\" consensus rating and a $43.10 average target price, suggests a favorable outlook for the oilfield services provider.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-24T12:42:44",
-      "first_seen_at": "2026-08-24T14:00:02.478813",
-      "assets": [
-        {
-          "symbol": "HAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.394103,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920138
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.905308
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.815809
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 405,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Halliburton stock holds at mid 30s as investors eye consensus upside",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/halliburton-stock-holds-at-mid-30s-as-investors-eye-consensus-upside/69993186",
-          "published_at": "2026-08-24T12:42:44"
-        }
-      ]
-    },
-    {
-      "event_id": 386,
-      "title": "ADP stock holds after a July 29 earnings beat",
-      "summary": "Automatic Data Processing (ADP) stock is holding steady following strong July 29 earnings, which exceeded analyst expectations for both EPS and revenue. The company reported $2.64 EPS and $5.47 billion in revenue, with a 6.8% year-over-year growth and positive FY 2027 guidance. ADP's core business in payroll and human-capital software continues to drive its operating profile, supported by a significant market capitalization and a notable dividend yield.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-24T12:39:07",
-      "first_seen_at": "2026-08-24T14:00:02.707617",
-      "assets": [
-        {
-          "symbol": "ADP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.472832,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.905733
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.748716
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 406,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "ADP stock holds after a July 29 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/adp-stock-holds-after-a-july-29-earnings-beat/69993168",
-          "published_at": "2026-08-24T12:39:07"
-        }
-      ]
-    },
-    {
-      "event_id": 387,
-      "title": "ONEOK stock hovers above consensus target as 2026 guidance and data center deal boost outlook",
-      "summary": "ONEOK Inc. (OKE) stock is trading above its consensus price target, driven by strong 2026 guidance and a new contract to supply natural gas to a 1-gigawatt power plant with integrated data center operations. This strategic move links ONEOK's midstream network to the rising energy demands of artificial intelligence and cloud computing. The company's latest earnings beat expectations, and its dividend program, combined with institutional investor confidence, underpins its appeal, despite trading slightly above analyst targets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-24T12:31:14",
-      "first_seen_at": "2026-08-24T14:00:02.940525",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.492174,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947283
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930937
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.839288
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.642825
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 407,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "ONEOK stock hovers above consensus target as 2026 guidance and data center deal boost outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-hovers-above-consensus-target-as-2026-guidance-and-data-center/69993480",
-          "published_at": "2026-08-24T12:31:14"
-        }
-      ]
-    },
-    {
-      "event_id": 380,
-      "title": "Synchrony Financial stock holds firm after earnings beat",
-      "summary": "Synchrony Financial (SYF) reported a strong Q2 2026 earnings beat with $2.59 EPS, surpassing consensus estimates by $0.45. Despite matching revenue estimates at $3.72 billion, the company maintains its FY 2026 EPS guidance of $9.25-$9.50. The stock opened at $79.53, trading above its 50-day and 200-day moving averages, and institutional investors like Northwestern Mutual and Korea Investment CORP have increased their holdings.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T11:38:35",
-      "first_seen_at": "2026-08-24T13:00:03.556002",
-      "assets": [
-        {
-          "symbol": "SYF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.428249,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912621
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829593
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.729673
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 400,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Synchrony Financial stock holds firm after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/synchrony-financial-stock-holds-firm-after-earnings-beat/69993163",
-          "published_at": "2026-08-24T11:38:35"
-        }
-      ]
-    },
-    {
-      "event_id": 381,
-      "title": "Weekly Recap: Neos Investments acquisition and LCN Capital Partners deal",
-      "summary": "Goldman Sachs (GS) is significantly expanding its asset management sector with two major acquisitions: Neos Investments for up to $2.25 billion and LCN Capital Partners for up to $410 million. These deals will boost GS's ETF and AUM exposure, especially as ETF trading surges and the firm diversifies its private-market and crypto ETF holdings. The article also highlights GS's substantial XRP ETF holdings and its role in a new $2 billion private-market investment vehicle.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-08-24T11:22:03",
-      "first_seen_at": "2026-08-24T13:00:03.771825",
-      "assets": [
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421302,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923984
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.84288
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.72124
-        },
-        {
-          "topic": "blockchain",
-          "relevance_score": 0.629414
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 401,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "Weekly Recap: Neos Investments acquisition and LCN Capital Partners deal",
-          "url": "https://www.tradingview.com/news/tradingview:249e8c2c0b4ae:0-weekly-recap-neos-investments-acquisition-and-lcn-capital-partners-deal/",
-          "published_at": "2026-08-24T11:22:03"
-        }
-      ]
-    },
-    {
-      "event_id": 379,
-      "title": "Martin Marietta completes Lhoist North America acquisition By Investing.com",
-      "summary": "Martin Marietta Materials, Inc. (NYSE:MLM) has finalized its acquisition of Lhoist North America, a move that significantly expands its Specialties platform. This transaction adds over 2 billion tons of limestone reserves to Martin Marietta's portfolio, enhancing the company's scale and resilience. Martin Marietta plans to issue updated financial guidance for full-year 2026 when it releases its third-quarter results.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-24T11:09:09",
-      "first_seen_at": "2026-08-24T13:00:03.216474",
-      "assets": [
-        {
-          "symbol": "MLM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.461875,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.831913
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.723394
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.719832
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.644923
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.621996
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 399,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Martin Marietta completes Lhoist North America acquisition By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/martin-marietta-completes-lhoist-north-america-acquisition-93CH-4813639",
-          "published_at": "2026-08-24T11:09:09"
-        },
-        {
-          "article_id": 398,
-          "provider": "ALPHA_VANTAGE",
-          "source": "citybiz",
-          "source_domain": "citybiz",
-          "headline": "Martin Marietta Completes Lhoist North America Combination, Expanding Specialties Platform",
-          "url": "https://www.citybiz.co/article/892956/martin-marietta-completes-lhoist-north-america-combination-expanding-specialties-platform/",
-          "published_at": "2026-08-24T12:01:54"
-        }
-      ]
-    },
-    {
-      "event_id": 382,
-      "title": "Sysco stock holds firm as earnings beat and guidance stay high",
-      "summary": "Sysco Corp. (US8718291078) reported an earnings beat with EPS of $1.53, exceeding estimates, and revenues of $22.12 billion, above the $21.95 billion estimate. The company provided optimistic FY 2027 EPS guidance of $5.025 to $5.117, signaling continued investor engagement despite the stock trading below its 52-week high. Sysco's broad customer base and strong financials, including a 2.08% net margin and 95.05% return on equity, suggest a stable profit-rich foodservice distribution business.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T11:07:54",
-      "first_seen_at": "2026-08-24T13:00:04.006077",
-      "assets": [
-        {
-          "symbol": "SYY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.469014,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.903898
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829565
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.713463
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 402,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Sysco stock holds firm as earnings beat and guidance stay high",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-holds-firm-as-earnings-beat-and-guidance-stay-high/69993005",
-          "published_at": "2026-08-24T11:07:54"
         }
       ]
     }
