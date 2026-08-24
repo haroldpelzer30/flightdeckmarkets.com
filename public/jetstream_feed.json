@@ -5,6 +5,346 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 373,
+      "title": "OMERS ADMINISTRATION Corp Acquires New Shares in RTX Corporation $RTX",
+      "summary": "OMERS ADMINISTRATION Corp reported acquiring 96,386 shares of RTX Corporation, valued at approximately $18.29 million, during the second quarter. Other institutional investors like BlackRock Inc. and Norges Bank also significantly increased their holdings in RTX. The article highlights RTX's strong financial performance, recent contract wins, and dividend announcements, alongside some neutral and negative sentiments regarding market volatility, valuation, and insider stock sales.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-24T10:59:37",
+      "first_seen_at": "2026-08-24T12:00:04.047215",
+      "assets": [
+        {
+          "symbol": "RTX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.475536,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949607
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849653
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741966
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.609419
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.600878
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 390,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "OMERS ADMINISTRATION Corp Acquires New Shares in RTX Corporation $RTX",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-omers-administration-corp-acquires-new-shares-in-rtx-corporation-rtx-2026-08-24/",
+          "published_at": "2026-08-24T10:59:37"
+        }
+      ]
+    },
+    {
+      "event_id": 374,
+      "title": "Osmosis Investment Management UK Ltd Acquires Shares of 10,336 Synopsys, Inc. $SNPS",
+      "summary": "Osmosis Investment Management UK Ltd recently acquired 10,336 shares of Synopsys, Inc. (NASDAQ:SNPS) during the second quarter, valued at approximately $4.61 million. This acquisition is part of broader institutional investment activity in Synopsys, with other major firms like Vanguard Group Inc. and BlackRock Inc. also holding significant stakes. Despite recent insider selling by executives, analysts maintain a \"Moderate Buy\" consensus rating for Synopsys, with a target price of $563.59.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-24T10:59:36",
+      "first_seen_at": "2026-08-24T12:00:04.355093",
+      "assets": [
+        {
+          "symbol": "SNPS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.311819,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906967
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849856
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.719726
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.621593
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 391,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Osmosis Investment Management UK Ltd Acquires Shares of 10,336 Synopsys, Inc. $SNPS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-acquires-shares-of-10336-synopsys-inc-snps-2026-08-24/",
+          "published_at": "2026-08-24T10:59:36"
+        }
+      ]
+    },
+    {
+      "event_id": 375,
+      "title": "Meiji Yasuda Asset Management Co Ltd. Acquires Shares of 36,586 Essex Property Trust, Inc. $ESS",
+      "summary": "Meiji Yasuda Asset Management Co Ltd. has acquired a new position of 36,586 shares in Essex Property Trust, Inc. (NYSE:ESS), valued at approximately $10.67 million. This investment makes them the owner of about 0.06% of the company's stock. Other institutional investors have also recently adjusted their holdings in Essex Property Trust, which currently holds a \"Moderate Buy\" consensus rating from analysts with an average target price of $304.79.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-24T10:59:32",
+      "first_seen_at": "2026-08-24T12:00:04.578598",
+      "assets": [
+        {
+          "symbol": "ESS",
+          "asset_class": null,
+          "relevance_score": 0.955035,
+          "sentiment_score": 0.32427,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BX",
+          "asset_class": null,
+          "relevance_score": 0.63352,
+          "sentiment_score": 0.130424,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.565632,
+          "sentiment_score": 0.090831,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938203
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.901239
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845971
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.721219
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604986
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 392,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Meiji Yasuda Asset Management Co Ltd. Acquires Shares of 36,586 Essex Property Trust, Inc. $ESS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-meiji-yasuda-asset-management-co-ltd-acquires-shares-of-36586-essex-property-trust-inc-ess-2026-08-24/",
+          "published_at": "2026-08-24T10:59:32"
+        }
+      ]
+    },
+    {
+      "event_id": 376,
+      "title": "Sanctuary Advisors LLC Buys New Shares in Williams Companies, Inc. (The) $WMB",
+      "summary": "Sanctuary Advisors LLC recently acquired 461,473 shares of Williams Companies, Inc. (WMB) during the second quarter, valued at approximately $34.3 million. This purchase is part of broader institutional investment, with 86.44% of WMB stock held by institutional investors and hedge funds. Despite some analyst forecast reductions, WMB maintains a consensus \"Buy\" rating with an average target price of $85.60, reporting quarterly revenue of $3.05 billion and an EPS of $0.50.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-24T10:59:22",
+      "first_seen_at": "2026-08-24T12:00:04.830051",
+      "assets": [
+        {
+          "symbol": "WMB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.269234,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.934161
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92447
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.827462
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741534
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 393,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "RR Advisors LLC Invests $27.88 Million in Williams Companies, Inc. (The) $WMB",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-rr-advisors-llc-invests-2788-million-in-williams-companies-inc-the-wmb-2026-08-24/",
+          "published_at": "2026-08-24T10:59:22"
+        },
+        {
+          "article_id": 394,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Sanctuary Advisors LLC Buys New Shares in Williams Companies, Inc. (The) $WMB",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-buys-new-shares-in-williams-companies-inc-the-wmb-2026-08-24/",
+          "published_at": "2026-08-24T10:59:22"
+        },
+        {
+          "article_id": 395,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Pinnacle Holdings LLC Takes $5.46 Million Position in Williams Companies, Inc. (The) $WMB",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-pinnacle-holdings-llc-takes-546-million-position-in-williams-companies-inc-the-wmb-2026-08-24/",
+          "published_at": "2026-08-24T10:59:22"
+        }
+      ]
+    },
+    {
+      "event_id": 378,
+      "title": "Winmill & CO. Inc. Acquires Shares of 21,990 Ameriprise Financial, Inc. $AMP",
+      "summary": "Winmill & CO. Inc. recently acquired 21,990 shares of Ameriprise Financial, Inc. (NYSE:AMP) during the second quarter, a stake valued at approximately $10.1 million and representing 2.2% of its portfolio. This acquisition contributes to institutional investors collectively owning 83.95% of Ameriprise. The financial services provider reported strong quarterly earnings, beating analyst estimates, and has a \"Moderate Buy\" consensus rating from analysts, although insiders have sold a significant number of shares recently.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-24T10:59:14",
+      "first_seen_at": "2026-08-24T12:00:05.390578",
+      "assets": [
+        {
+          "symbol": "AMP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.313708,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940908
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.814551
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.80864
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.608054
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 397,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Winmill & CO. Inc. Acquires Shares of 21,990 Ameriprise Financial, Inc. $AMP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-winmill-co-inc-acquires-shares-of-21990-ameriprise-financial-inc-amp-2026-08-24/",
+          "published_at": "2026-08-24T10:59:14"
+        }
+      ]
+    },
+    {
+      "event_id": 377,
+      "title": "Sanctuary Advisors LLC Acquires New Position in Devon Energy Corporation $DVN",
+      "summary": "Sanctuary Advisors LLC has acquired a new position in Devon Energy Corporation, purchasing 363,861 shares valued at approximately $15.035 million. This makes Sanctuary Advisors LLC the owner of about 0.06% of Devon Energy's stock. Other institutional investors also adjusted their holdings, and analysts have offered various ratings, with the company currently holding a \"Moderate Buy\" consensus.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-24T10:59:14",
+      "first_seen_at": "2026-08-24T12:00:05.191884",
+      "assets": [
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.213677,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92065
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.842935
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 396,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Sanctuary Advisors LLC Acquires New Position in Devon Energy Corporation $DVN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-acquires-new-position-in-devon-energy-corporation-dvn-2026-08-24/",
+          "published_at": "2026-08-24T10:59:14"
+        }
+      ]
+    },
+    {
       "event_id": 369,
       "title": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
       "summary": "Tesla's U.S. EV market share has increased to 59%, a level not seen since 2023, despite a 25% stock drop this year. While the company's revenue grew, profitability decreased due to significant investments in AI, Optimus, and robotaxis, leading to negative free cash flow. This creates volatility for investors, balancing a strong core business against speculative ancillary projects.",
@@ -775,372 +1115,6 @@
           "headline": "Medifast director Parsa Kiai acquires $842,698 in company shares By Investing.com",
           "url": "https://in.investing.com/news/stock-market-news/medifast-director-parsa-kiai-acquires-842698-in-company-shares-93CH-5567734",
           "published_at": "2026-08-21T17:02:56"
-        }
-      ]
-    },
-    {
-      "event_id": 353,
-      "title": "CoStar Closes on $800 Million Zonda Acquisition",
-      "summary": "CoStar Group has finalized its $800 million acquisition of Zonda, a leading provider of new home construction data, software, and residential real estate marketplaces. This strategic move expands CoStar's presence in the residential real estate sector, integrating Zonda's proprietary lot-level database and online marketplaces like NewHomeSource.com and Livabl. CoStar aims to leverage this acquisition to accelerate innovation and deliver more value to the homebuilding industry, combining Zonda's capabilities with its existing market intelligence and technology.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-21T16:27:35",
-      "first_seen_at": "2026-08-21T18:00:02.591759",
-      "assets": [
-        {
-          "symbol": "CSGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.44118,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.912471
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.614988
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 370,
-          "provider": "ALPHA_VANTAGE",
-          "source": "RISMedia",
-          "source_domain": "RISMedia",
-          "headline": "CoStar Closes on $800 Million Zonda Acquisition",
-          "url": "https://www.rismedia.com/2026/08/21/costar-closes-on-800-million-zonda-acquisition/",
-          "published_at": "2026-08-21T16:27:35"
-        }
-      ]
-    },
-    {
-      "event_id": 354,
-      "title": "Newmont Corporation Stock (NEM) Moved Up by 3.18% on Aug 21: What Signal Does It Send?",
-      "summary": "Newmont Corporation (NEM) stock increased by 3.18% on August 21, driven by strong spot gold prices, increased market demand, and favorable analyst commentary. The rally was fueled by lower long-term bond yields and a weaker U.S. Dollar Index, making gold more attractive, alongside positive company-specific fundamentals like strong operational margins and successful capital expansion projects. While technical indicators suggest strong momentum, potential risks include overbought conditions, insider share sales, and possible production guidance cuts.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-21T16:16:48",
-      "first_seen_at": "2026-08-21T18:00:02.864329",
-      "assets": [
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.468013,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 0.74315,
-          "sentiment_score": 0.303992,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94064
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.815442
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.725673
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.642425
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 371,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Newmont Corporation Stock (NEM) Moved Up by 3.18% on Aug 21: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262125009-market-movers-nem-20260821",
-          "published_at": "2026-08-21T16:16:48"
-        }
-      ]
-    },
-    {
-      "event_id": 355,
-      "title": "Union Pacific Merger Deal Gets Rail Regulator Review Timeline",
-      "summary": "The Surface Transportation Board has set an official timeline for its review of the proposed merger between Union Pacific Corp. and Norfolk Southern Corp., aiming for a final decision by summer 2027. This deal would create the first coast-to-coast rail network in the US, though the timeline allows for extensions. Union Pacific CEO Jim Vena had initially hoped to finalize the merger much sooner.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-08-21T16:09:33",
-      "first_seen_at": "2026-08-21T18:00:03.183822",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.107688,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.830393,
-          "sentiment_score": 0.127052,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.815805
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 372,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg Government News",
-          "source_domain": "Bloomberg Government News",
-          "headline": "Union Pacific Merger Deal Gets Rail Regulator Review Timeline",
-          "url": "https://news.bgov.com/new-york-brief/union-pacific-merger-deal-gets-rail-regulator-review-timeline",
-          "published_at": "2026-08-21T16:09:33"
-        }
-      ]
-    },
-    {
-      "event_id": 356,
-      "title": "Diamondback Energy stock trades close to record high as big institutions add exposure",
-      "summary": "Diamondback Energy (FANG) stock is trading near its all-time high in late August 2026, driven by significant institutional investment and strong analyst ratings. Recent regulatory filings reveal major asset managers increasing their stakes, reflecting confidence in the company's oil and natural gas portfolio. Analysts maintain an average 12-month price target in the low-to-mid-$220 range, slightly above the current trading levels, following the company's Q2 2026 earnings beat and positive guidance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-08-21T16:08:59",
-      "first_seen_at": "2026-08-21T18:00:03.411995",
-      "assets": [
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.466404,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948978
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.814689
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.707228
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637931
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 373,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Diamondback Energy stock trades close to record high as big institutions add exposure",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-trades-close-to-record-high-as-big-institutions/69982337",
-          "published_at": "2026-08-21T16:08:59"
-        }
-      ]
-    },
-    {
-      "event_id": 344,
-      "title": "Packaging Corp stock holds firm after July earnings beat",
-      "summary": "Packaging Corp of America (PCA) stock is trading near its 52-week high following a strong Q2 2026 earnings beat, with EPS of $2.35 and revenue of $2.49 billion. The company also provided Q3 2026 guidance of $2.91 EPS, demonstrating steady execution and growth. Broker price targets have increased, with the average target ($264.57) suggesting upside from the current stock price ($249.87).",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-21T15:30:00",
-      "first_seen_at": "2026-08-21T16:00:02.196410",
-      "assets": [
-        {
-          "symbol": "PKG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.638692,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.595783,
-          "sentiment_score": 0.310252,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.595688,
-          "sentiment_score": 0.328732,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.557445,
-          "sentiment_score": 0.338745,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.815475
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.713692
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 360,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Packaging Corp stock holds firm after July earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/packaging-corp-stock-holds-firm-after-july-earnings-beat/69981404",
-          "published_at": "2026-08-21T15:30:00"
-        }
-      ]
-    },
-    {
-      "event_id": 350,
-      "title": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades (XLF:NYSEARCA)",
-      "summary": "The S&P Financials sector faces macroeconomic headwinds and shifting demand dynamics in Q3 2026. Citigroup and Goldman Sachs lead the sector with 'A' growth grades, while several other major financial institutions like Bank of America and Mastercard also received 'Buy' ratings (B- or higher) based on their growth factor grades. The growth factor grade assesses a company's expansion prospects relative to its peers.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-21T15:17:22",
-      "first_seen_at": "2026-08-21T17:00:02.393265",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.966757,
-          "sentiment_score": 0.424017,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.920092,
-          "sentiment_score": 0.447882,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.86816,
-          "sentiment_score": 0.423407,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.824408,
-          "sentiment_score": 0.314774,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AXP",
-          "asset_class": null,
-          "relevance_score": 0.754343,
-          "sentiment_score": 0.331511,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.929905
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.814886
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.731966
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.639875
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 367,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades (XLF:NYSEARCA)",
-          "url": "https://seekingalpha.com/news/4635917-citigroup-and-goldman-sachs-lead-as-most-financial-giants-earn-buy-growth-grades",
-          "published_at": "2026-08-21T15:17:22"
         }
       ]
     }
