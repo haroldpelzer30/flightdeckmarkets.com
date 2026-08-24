@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 412,
+      "title": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
+      "summary": "SunCar Technology Group (NASDAQ: SDA) operates a cloud service and mobile app that digitalizes the automotive aftermarket and e-insurance sectors in China, partnering with major EV manufacturers. The company experienced significant revenue growth in FY 2023, particularly in its auto e-insurance business, and has recently shown positive Adjusted EBITDA. SunCar addresses the need for aftermarket support in China's rapidly growing EV market, which lacks extensive dealer networks, and aims to make car ownership more efficient and affordable through its platform.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-24T19:12:50",
+      "first_seen_at": "2026-08-24T20:00:01.948655",
+      "assets": [
+        {
+          "symbol": "SDA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.427697,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907003
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.802606
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.745711
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.626097
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612499
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 433,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-SDA/ideas/",
+          "published_at": "2026-08-24T19:12:50"
+        }
+      ]
+    },
+    {
+      "event_id": 413,
+      "title": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America",
+      "summary": "Martin Marietta Materials, Inc. (NYSE: MLM) has finalized its acquisition of Lhoist North America, Inc. for approximately $13.5 billion, comprising $7 billion in cash and 10,953,543 shares of common stock. The deal, completed on August 21, 2026, also includes governance changes such as the appointment of Lhoist S.A.'s CEO, Philipp Niemann, to Martin Marietta's Board of Directors. A staggered lock-up period applies to the consideration shares, and a standstill agreement caps LNA Holding's ownership at 18%.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-24T18:28:24",
+      "first_seen_at": "2026-08-24T20:00:02.285958",
+      "assets": [
+        {
+          "symbol": "MLM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.432708,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.920642
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.731418
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 434,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America",
+          "url": "https://kalkinemedia.com/us/news/announcements/martin-marietta-finalizes-135-billion-acquisition-of-lhoist-north-america",
+          "published_at": "2026-08-24T18:28:24"
+        }
+      ]
+    },
+    {
+      "event_id": 414,
+      "title": "Kimco Realty stock holds after August 4 earnings beat",
+      "summary": "Kimco Realty (KIM) stock maintained its value after reporting strong second-quarter 2026 earnings, exceeding analyst expectations for both EPS and revenue. The retail REIT also raised its annual dividend to $1.12, yielding 4.7%, and reaffirmed its FY 2026 guidance, aligning with Street estimates. The company's focus on grocery-anchored, open-air shopping centers and a robust market capitalization support its current valuation and future growth potential.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-24T18:10:09",
+      "first_seen_at": "2026-08-24T20:00:02.511010",
+      "assets": [
+        {
+          "symbol": "KIM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.408672,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.907398
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826087
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.706724
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 435,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Kimco Realty stock holds after August 4 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-holds-after-august-4-earnings-beat/69995142",
+          "published_at": "2026-08-24T18:10:09"
+        }
+      ]
+    },
+    {
       "event_id": 407,
       "title": "Valero Energy stock advances as Jefferies lifts target and Q2 2026 refining profits surge",
       "summary": "Valero Energy stock is trading near record highs after Jefferies significantly increased its price target to $401 from $312, citing strong second-quarter 2026 refining profits driven by favorable crack spreads. The company reported $4.5 billion in refining operating income and holds $7.87 billion in cash, demonstrating robust profitability despite ongoing maintenance at its Norco refinery. While the stock has seen substantial year-to-date gains, the new target suggests further upside, positioning Valero favorably within the energy sector.",
@@ -904,208 +1053,6 @@
           "headline": "Steel Dynamics, Nucor surge on S&P leaderboard as U.S.-Canada trade fight escalates (STLD:NASDAQ)",
           "url": "https://seekingalpha.com/news/4636270-steel-dynamics-nucor-surge-on-sp-leaderboard-as-us-canada-trade-fight-escalates",
           "published_at": "2026-08-24T14:27:56"
-        }
-      ]
-    },
-    {
-      "event_id": 395,
-      "title": "Is Guyana Becoming an Even Bigger Cash Flow Engine for ExxonMobil?",
-      "summary": "ExxonMobil is poised for significant cash flow growth from its Guyana operations, expecting free cash flow in 2030 to be double the 2025 level due to accelerated investment recovery and higher production. The company is expanding its FPSO capacity, with a fifth FPSO starting in late 2026 and a ninth planned for 2031, while also identifying new opportunities through AI-powered exploration. This expansion also benefits Chevron, with its stake in the Stabroek Block, and TechnipFMC, through sustained demand for its subsea services.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-24T14:14:37",
-      "first_seen_at": "2026-08-24T16:00:03.324654",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.986012,
-          "sentiment_score": 0.440702,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.878063,
-          "sentiment_score": 0.328103,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.912177
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.849146
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 416,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Is Guyana Becoming an Even Bigger Cash Flow Engine for ExxonMobil?",
-          "url": "https://ca.finance.yahoo.com/news/guyana-becoming-even-bigger-cash-141500626.html",
-          "published_at": "2026-08-24T14:14:37"
-        }
-      ]
-    },
-    {
-      "event_id": 388,
-      "title": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
-      "summary": "Frontline shares are nearing a 14-year high, trading just 3.3% below their 52-week peak, driven by a 6% weekly surge in oil prices and tightening tanker availability due to Strait of Hormuz shipping constraints. Unlike major integrated oil producers like Exxon and Chevron, Frontline provides more direct exposure to these market dynamics, resulting in a 5.97% stock increase last week. The company, set to announce Q2 results on August 31, is operating on solid financial ground, having reported strong Q1 adjusted earnings and a dividend in line with EPS.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-24T14:12:58",
-      "first_seen_at": "2026-08-24T15:00:02.052147",
-      "assets": [
-        {
-          "symbol": "FRO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.427368,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.680605,
-          "sentiment_score": 0.222602,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.671829,
-          "sentiment_score": 0.194446,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945731
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.945572
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.819966
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.612286
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 408,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechStock²",
-          "source_domain": "TechStock²",
-          "headline": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
-          "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
-          "published_at": "2026-08-24T14:12:58"
-        }
-      ]
-    },
-    {
-      "event_id": 389,
-      "title": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
-      "summary": "Micron Technology Inc. (MU) stock opened down by 6.86% on August 24, driven by a combination of Asian semiconductor selloffs, macroeconomic pressures, and ongoing patent litigation with Netlist. The company faces concerns over moderating memory spot prices and increased capital expenditure, despite strong annual revenues and net profits. Analysts currently hold a \"Buy\" consensus, with an average price target of $1451.14, but short-term momentum is fragile due to market volatility and risk mitigation efforts.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-08-24T13:46:59",
-      "first_seen_at": "2026-08-24T15:00:02.338630",
-      "assets": [
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.401065,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.416168,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.634694,
-          "sentiment_score": -0.232857,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.617836,
-          "sentiment_score": -0.328912,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.932902
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.822757
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 410,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
-          "url": "https://www.tradingkey.com/news/market-movers/262127879-market-movers-mu-20260824",
-          "published_at": "2026-08-24T13:46:59"
-        },
-        {
-          "article_id": 409,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
-          "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
-          "published_at": "2026-08-24T13:47:16"
         }
       ]
     }
