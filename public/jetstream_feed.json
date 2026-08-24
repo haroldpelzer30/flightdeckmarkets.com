@@ -5,6 +5,285 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 383,
+      "title": "Morgan Stanley sees quality stocks and AI adopters leading market",
+      "summary": "Morgan Stanley believes that large-cap quality stocks and companies embracing artificial intelligence will drive market leadership, as post-COVID inflation has created shorter market cycles. The firm notes that its quality rotation strategy has already shown success, with stocks featuring high free cash flow, gross margins, and sales growth stability outperforming. Morgan Stanley also suggests that energy stocks can act as a hedge against rising oil prices, which historically create headwinds for equities.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-24T12:46:54",
+      "first_seen_at": "2026-08-24T14:00:01.886554",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.299187,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.610776,
+          "sentiment_score": 0.340343,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.588684,
+          "sentiment_score": 0.207874,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.561122,
+          "sentiment_score": 0.246936,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.559716,
+          "sentiment_score": 0.206076,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915068
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.808201
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.743717
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.640911
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612797
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 403,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Morgan Stanley sees quality stocks and AI adopters leading market",
+          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-quality-stocks-and-ai-adopters-leading-market-93CH-4873513",
+          "published_at": "2026-08-24T12:46:54"
+        }
+      ]
+    },
+    {
+      "event_id": 384,
+      "title": "Carrier Global stock holds at $60 while analysts see upside",
+      "summary": "Carrier Global (CARR) stock is trading around $60.40, with analysts maintaining a \"Moderate Buy\" rating and an average price target of $73.67, implying approximately 22% upside. The company recently reported strong quarterly results, exceeding revenue and EPS expectations, and has reaffirmed its full-year 2026 guidance. Carrier Global also offers a dividend yield of 1.6% and is positioned to benefit from long-term trends in urbanization and decarbonization within the climate-control sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-24T12:45:30",
+      "first_seen_at": "2026-08-24T14:00:02.210746",
+      "assets": [
+        {
+          "symbol": "CARR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.415235,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940365
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.717136
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.622755
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 404,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Carrier Global stock holds at $60 while analysts see upside",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/carrier-global-stock-holds-at-60-while-analysts-see-upside/69993549",
+          "published_at": "2026-08-24T12:45:30"
+        }
+      ]
+    },
+    {
+      "event_id": 385,
+      "title": "Halliburton stock holds at mid 30s as investors eye consensus upside",
+      "summary": "Halliburton (HAL) stock is trading in the mid-$30s, specifically at $35.38, with analysts projecting a consensus target in the low $40s, indicating potential upside. Institutional investors are actively adding positions, highlighting continued interest despite the current share price. The stock's position relative to its 50-day and 200-day moving averages, along with a \"Moderate Buy\" consensus rating and a $43.10 average target price, suggests a favorable outlook for the oilfield services provider.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-24T12:42:44",
+      "first_seen_at": "2026-08-24T14:00:02.478813",
+      "assets": [
+        {
+          "symbol": "HAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.394103,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920138
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.905308
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.815809
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 405,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Halliburton stock holds at mid 30s as investors eye consensus upside",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/halliburton-stock-holds-at-mid-30s-as-investors-eye-consensus-upside/69993186",
+          "published_at": "2026-08-24T12:42:44"
+        }
+      ]
+    },
+    {
+      "event_id": 386,
+      "title": "ADP stock holds after a July 29 earnings beat",
+      "summary": "Automatic Data Processing (ADP) stock is holding steady following strong July 29 earnings, which exceeded analyst expectations for both EPS and revenue. The company reported $2.64 EPS and $5.47 billion in revenue, with a 6.8% year-over-year growth and positive FY 2027 guidance. ADP's core business in payroll and human-capital software continues to drive its operating profile, supported by a significant market capitalization and a notable dividend yield.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-24T12:39:07",
+      "first_seen_at": "2026-08-24T14:00:02.707617",
+      "assets": [
+        {
+          "symbol": "ADP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.472832,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.905733
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.748716
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 406,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "ADP stock holds after a July 29 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/adp-stock-holds-after-a-july-29-earnings-beat/69993168",
+          "published_at": "2026-08-24T12:39:07"
+        }
+      ]
+    },
+    {
+      "event_id": 387,
+      "title": "ONEOK stock hovers above consensus target as 2026 guidance and data center deal boost outlook",
+      "summary": "ONEOK Inc. (OKE) stock is trading above its consensus price target, driven by strong 2026 guidance and a new contract to supply natural gas to a 1-gigawatt power plant with integrated data center operations. This strategic move links ONEOK's midstream network to the rising energy demands of artificial intelligence and cloud computing. The company's latest earnings beat expectations, and its dividend program, combined with institutional investor confidence, underpins its appeal, despite trading slightly above analyst targets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-24T12:31:14",
+      "first_seen_at": "2026-08-24T14:00:02.940525",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.492174,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947283
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930937
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.839288
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.642825
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 407,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "ONEOK stock hovers above consensus target as 2026 guidance and data center deal boost outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/oneok-stock-hovers-above-consensus-target-as-2026-guidance-and-data-center/69993480",
+          "published_at": "2026-08-24T12:31:14"
+        }
+      ]
+    },
+    {
       "event_id": 380,
       "title": "Synchrony Financial stock holds firm after earnings beat",
       "summary": "Synchrony Financial (SYF) reported a strong Q2 2026 earnings beat with $2.59 EPS, surpassing consensus estimates by $0.45. Despite matching revenue estimates at $3.72 billion, the company maintains its FY 2026 EPS guidance of $9.25-$9.50. The stock opened at $79.53, trading above its 50-day and 200-day moving averages, and institutional investors like Northwestern Mutual and Korea Investment CORP have increased their holdings.",
@@ -817,285 +1096,6 @@
           "headline": "PPL stock slips after an August 7 earnings miss",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-stock-slips-after-an-august-7-earnings-miss/69983691",
           "published_at": "2026-08-21T21:02:13"
-        }
-      ]
-    },
-    {
-      "event_id": 366,
-      "title": "US business activity surges to 52-month high: S&P Global",
-      "summary": "U.S. business activity reached a 52-month high in August, primarily driven by a resurgence in the services sector, according to S&P Global. While manufacturing saw a slowdown due to supply delays, overall business expectations hit a nine-month high, supported by strong business investment and high equity prices. Despite this growth, consumer expectations for business conditions declined, and retail sales fell in July, suggesting a potential reduction in consumer spending in the latter half of 2026.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-21T20:43:19",
-      "first_seen_at": "2026-08-21T22:00:02.403353",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.495805,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.742188,
-          "sentiment_score": 0.309752,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "IBM",
-          "asset_class": null,
-          "relevance_score": 0.627134,
-          "sentiment_score": 0.130786,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.624021,
-          "sentiment_score": 0.313928,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.586952,
-          "sentiment_score": 0.347934,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.909066
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83089
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.715868
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 383,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CFO Dive",
-          "source_domain": "CFO Dive",
-          "headline": "US business activity surges to 52-month high: S&P Global",
-          "url": "https://www.cfodive.com/news/us-business-activity-surges-52-month-high-sp-global-GDP-consumers-economy/828538/",
-          "published_at": "2026-08-21T20:43:19"
-        }
-      ]
-    },
-    {
-      "event_id": 363,
-      "title": "Goldman Sachs Group Inc Stock (GS) Moved Up by 3.73% on Aug 21: Facts Behind the Movement",
-      "summary": "Goldman Sachs Group Inc (GS) saw its stock rise by 3.73% on August 21, driven by recovering investment banking and capital markets momentum, alongside elevated Treasury yield volatility benefiting its market-making operations. The company's strong fee pipeline, major global advisory roles, and position as a premier global liquidity provider contributed to the positive movement. Despite some technical sell signals and valuation concerns, robust trading revenue expectations and a recovering advisory backlog continue to fuel investor interest.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-21T19:15:00",
-      "first_seen_at": "2026-08-21T21:00:02.362077",
-      "assets": [
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460976,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.936571
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.933956
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921658
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.745933
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.734497
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 380,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Goldman Sachs Group Inc Stock (GS) Moved Up by 3.73% on Aug 21: Facts Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262125222-market-movers-gs-20260821",
-          "published_at": "2026-08-21T19:15:00"
-        }
-      ]
-    },
-    {
-      "event_id": 364,
-      "title": "Southern Copper Stock Stays Hot After Q2 Earnings Beat",
-      "summary": "Southern Copper Corporation (SCCO) stock surged over 8% following a strong Q2 earnings beat, with EPS nearly doubling and revenue significantly increasing, driven by strong copper demand. Despite a downgrade from CICC due to valuation concerns, the stock demonstrated significant operating leverage against rising copper prices. Traders are closely watching SCCO, balancing its strong fundamentals and momentum with the cautious analyst rating.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-21T19:09:50",
-      "first_seen_at": "2026-08-21T21:00:02.646398",
-      "assets": [
-        {
-          "symbol": "SCCO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.456666,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.915036
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839445
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 381,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "Southern Copper Stock Stays Hot After Q2 Earnings Beat",
-          "url": "https://stockstotrade.com/news/southern-copper-corporation-scco-news-2026_08_21/",
-          "published_at": "2026-08-21T19:09:50"
-        }
-      ]
-    },
-    {
-      "event_id": 360,
-      "title": "PulteGroup stock holds firm after Q2 2026 results",
-      "summary": "PulteGroup Inc. (PHM) stock is trading at $128.49 after reporting second-quarter 2026 revenue of $4 billion and earnings of $2.48 per share, beating consensus EPS estimates by 12 cents. While revenue was slightly below expectations, the beat on EPS indicates strong margins and cost control. The company's diversified homebuilding mix and services contribute to its resilient earnings despite uneven revenue growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-21T18:29:12",
-      "first_seen_at": "2026-08-21T20:00:02.824555",
-      "assets": [
-        {
-          "symbol": "PHM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.507424,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906178
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.848494
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.615576
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 377,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "PulteGroup stock holds firm after Q2 2026 results",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pultegroup-stock-holds-firm-after-q2-2026-results/69983050",
-          "published_at": "2026-08-21T18:29:12"
-        }
-      ]
-    },
-    {
-      "event_id": 361,
-      "title": "EQT Corp. stock holds in the low $50s as Q2 2026 earnings miss consensus",
-      "summary": "EQT Corp. (EQT) stock is trading in the low $50s after reporting Q2 2026 earnings and revenue that missed consensus estimates. The company's adjusted earnings per share declined by 13.3% year-over-year to $0.39, missing the $0.41 consensus, while revenue dropped 29.2% to $1.81 billion, falling short of the $1.84 billion estimate. This performance was attributed to lower realized natural gas prices despite an 11.7% increase in sales volumes, highlighting the company's sensitivity to commodity price fluctuations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-21T18:15:04",
-      "first_seen_at": "2026-08-21T20:00:03.145642",
-      "assets": [
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.261115,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941148
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.715224
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.707199
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646308
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 378,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "EQT Corp. stock holds in the low $50s as Q2 2026 earnings miss consensus",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-corp-stock-holds-in-the-low-50s-as-q2-2026-earnings-miss-consensus/69982980",
-          "published_at": "2026-08-21T18:15:04"
         }
       ]
     }
