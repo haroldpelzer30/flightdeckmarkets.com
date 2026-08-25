@@ -5,6 +5,238 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 428,
+      "title": "American Airlines stock steadies after guidance cut as investors weigh Q2 2026 rebound",
+      "summary": "American Airlines (AAL) stock is stabilizing in late August 2026 after investors digested its Q2 2026 return to profit and revised full-year guidance, which now includes the possibility of a quarterly loss. Despite thin margins and negative free cash flow, the company showed double-digit revenue growth in Q2, and institutional investors are reportedly buying shares, signaling confidence in its long-term recovery potential. The stock is trading in the lower half of its 52-week range, with analysts assigning a \"hold\" rating and a consensus price target suggesting potential upside.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-08-25T12:14:21",
+      "first_seen_at": "2026-08-25T13:00:03.465623",
+      "assets": [
+        {
+          "symbol": "AAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.117348,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 0.645377,
+          "sentiment_score": 0.123691,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 0.644502,
+          "sentiment_score": 0.142511,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 0.640596,
+          "sentiment_score": 0.13191,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.937735
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.834936
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 449,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "American Airlines stock steadies after guidance cut as investors weigh Q2 2026 rebound",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/american-airlines-stock-steadies-after-guidance-cut-as-investors-weigh-q2/69998923",
+          "published_at": "2026-08-25T12:14:21"
+        }
+      ]
+    },
+    {
+      "event_id": 429,
+      "title": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
+      "summary": "ZenaTech, Inc. has announced the acquisition of ESM Software, a Boston-based company specializing in strategy execution and performance management software. This acquisition expands ZenaTech's enterprise SaaS portfolio, adding crucial capabilities in strategy execution, performance management, and cybersecurity compliance, particularly for government and regulated customers. ESM Software's solutions are expected to be integrated into ZenaTech’s AI-powered enterprise productivity platform, Zoo Office, enhancing its compliance and strategic governance offerings.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-25T12:00:25",
+      "first_seen_at": "2026-08-25T13:00:03.736451",
+      "assets": [
+        {
+          "symbol": "ZENA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.465836,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.913104
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.816083
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 450,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GlobeNewswire",
+          "source_domain": "GlobeNewswire",
+          "headline": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
+          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350405/0/en/zenatech-completes-acquisition-of-esm-software-adding-strategy-execution-and-compliance-software-to-its-enterprise-saas-division-with-revenue-from-government-healthcare-and-financi.html",
+          "published_at": "2026-08-25T12:00:25"
+        }
+      ]
+    },
+    {
+      "event_id": 430,
+      "title": "Tuesday's market movers: Intuit, DICK'S, consumer confidence, and housing data",
+      "summary": "This article highlights the key market drivers for Tuesday, August 25th, focusing on earnings reports from Intuit and DICK'S Sporting Goods. It also covers upcoming economic data releases, including consumer confidence readings and new home sales figures, providing insight into the current state of the consumer and housing markets.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-25T11:59:47",
+      "first_seen_at": "2026-08-25T13:00:03.935824",
+      "assets": [
+        {
+          "symbol": "INTU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.270317,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.631621,
+          "sentiment_score": 0.01884,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937739
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.832109
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820656
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.709916
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.615731
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 451,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Tuesday's market movers: Intuit, DICK'S, consumer confidence, and housing data",
+          "url": "https://finance.yahoo.com/video/tuesdays-market-movers-intuit-dicks-120000092.html",
+          "published_at": "2026-08-25T11:59:47"
+        }
+      ]
+    },
+    {
+      "event_id": 431,
+      "title": "Home Depot still faces frozen housing market",
+      "summary": "Home Depot's recent profits were boosted by significant tariff refunds, masking a potential decline if these were excluded. The company is facing challenges due to high mortgage rates in the US, which are deterring Americans from moving homes and consequently reducing visits to their stores. This suggests a frozen housing market is negatively impacting their core business.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-25T11:49:32",
+      "first_seen_at": "2026-08-25T13:00:04.191119",
+      "assets": [
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.045721,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949985
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.910413
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.830261
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.735391
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.717392
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 452,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investors' Chronicle",
+          "source_domain": "Investors' Chronicle",
+          "headline": "Home Depot still faces frozen housing market",
+          "url": "https://www.investorschronicle.co.uk/content/40a53747-cb87-4206-9c67-e3272a9c7ad1",
+          "published_at": "2026-08-25T11:49:32"
+        }
+      ]
+    },
+    {
       "event_id": 423,
       "title": "Legal & General Group Plc Acquires Shares of 1,133,223 Equinix, Inc. $EQIX",
       "summary": "Legal & General Group Plc has acquired a significant new position in Equinix, Inc., purchasing over 1.1 million shares valued at approximately $1.18 billion in the second quarter. This move makes Legal & General Group Plc a 1.15% owner of Equinix. Other institutional investors like BlackRock Inc. and Cohen & Steers Inc. also hold substantial stakes, with Equinix showing strong financial performance, including beating earnings estimates and announcing a quarterly dividend.",
@@ -913,230 +1145,6 @@
           "headline": "Resilient AMETEK stock trades below analyst targets as Q2 2026 earnings beat expectations",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-ametek-stock-trades-below-analyst-targets-as-q2-2026-earnings/69994976",
           "published_at": "2026-08-24T17:36:45"
-        }
-      ]
-    },
-    {
-      "event_id": 409,
-      "title": "McKesson stock gains as fresh earnings beat and higher dividend support outlook",
-      "summary": "McKesson's stock is rising due to a recent earnings beat, updated fiscal 2027 EPS guidance, and an increased quarterly dividend. The company reported EPS of $9.93, exceeding estimates, and revenue of $105.38 billion, also above expectations, with a 7.7% year-over-year growth. McKesson's dividend has been raised to $0.94 per share, demonstrating its commitment to shareholder returns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-24T17:29:17",
-      "first_seen_at": "2026-08-24T19:00:03.048707",
-      "assets": [
-        {
-          "symbol": "MCK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.805818,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922961
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.707776
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.635335
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 430,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "McKesson stock gains as fresh earnings beat and higher dividend support outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mckesson-stock-gains-as-fresh-earnings-beat-and-higher-dividend-support/69994932",
-          "published_at": "2026-08-24T17:29:17"
-        }
-      ]
-    },
-    {
-      "event_id": 410,
-      "title": "J.B. Hunt Transport stock holds near $275 after a dividend and upgrade",
-      "summary": "J.B. Hunt Transport Services (JBHT) stock is holding near $275 after a recent dividend payment and an upgrade from Weiss Ratings. The company paid a quarterly dividend of $0.45 per share, and analysts maintain a \"Moderate Buy\" consensus rating with an average price target of $286.30. The stock has climbed 41.7% year-to-date and its intermodal network remains a key operational driver.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-24T17:28:07",
-      "first_seen_at": "2026-08-24T19:00:03.296481",
-      "assets": [
-        {
-          "symbol": "JBHT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426582,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941111
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.714152
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 431,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "J.B. Hunt Transport stock holds near $275 after a dividend and upgrade",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-transport-stock-holds-near-275-after-a-dividend-and-upgrade/69994931",
-          "published_at": "2026-08-24T17:28:07"
-        }
-      ]
-    },
-    {
-      "event_id": 399,
-      "title": "McCormick stock holds bullish tone as merger and earnings reshape the flavor leader",
-      "summary": "McCormick & Company (MKC) stock is displaying a bullish trend, driven by strong second-quarter 2026 earnings that beat expectations and reaffirmed full-year guidance. This positive performance is further bolstered by a planned $65 billion merger with a substantial portion of Unilever’s food business, which is set to significantly expand McCormick's scale in the global spice, condiments, and prepared-foods market. Technical analysis points to a support level of $53.70 and a resistance target of $60.00, reinforcing the near-term bullish outlook for investors.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-08-24T17:20:05",
-      "first_seen_at": "2026-08-24T18:00:02.684042",
-      "assets": [
-        {
-          "symbol": "MKC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.724744,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MKC-V",
-          "asset_class": null,
-          "relevance_score": 0.318688,
-          "sentiment_score": 0.031876,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912296
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817775
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.735956
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.606065
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 420,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "McCormick stock holds bullish tone as merger and earnings reshape the flavor leader",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mccormick-stock-holds-bullish-tone-as-merger-and-earnings-reshape-the/69994605",
-          "published_at": "2026-08-24T17:20:05"
-        }
-      ]
-    },
-    {
-      "event_id": 400,
-      "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-      "summary": "The United States and Canada have fallen deeper into a trade war after negotiations collapsed, leading to new tariffs from both sides. The US imposed 50% tariffs on $20 billion worth of Canadian goods, with Canada retaliating with its own penalties set to begin on September 8th. Both nations are blaming each other for the failed talks, raising concerns about the future of their historically cooperative relationship and potential impacts on their economies.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-08-24T17:09:22",
-      "first_seen_at": "2026-08-24T18:00:03.037659",
-      "assets": [
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 0.643972,
-          "sentiment_score": -0.310208,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 0.623223,
-          "sentiment_score": -0.310049,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MT",
-          "asset_class": null,
-          "relevance_score": 0.340053,
-          "sentiment_score": 0.01597,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.948882
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.812838
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.646208
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.634967
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 421,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Times Union",
-          "source_domain": "Times Union",
-          "headline": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-          "url": "https://www.timesunion.com/business/article/us-is-set-to-impose-50-tariffs-on-20-billion-22399024.php",
-          "published_at": "2026-08-24T17:09:22"
         }
       ]
     }
