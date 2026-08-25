@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 434,
+      "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
+      "summary": "This article compares two leading heavy equipment stocks, Caterpillar (CAT) and Deere & Company (DE), highlighting their recent financial performance, growth drivers, and market outlooks. Caterpillar shows stronger growth, an upgraded outlook, and a higher Zacks Rank due to its diverse market exposure and robust backlog. While Deere has long-term potential in precision agriculture, near-term challenges in farm economics may limit its upside.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-25T13:50:31",
+      "first_seen_at": "2026-08-25T15:00:03.182779",
+      "assets": [
+        {
+          "symbol": "CAT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.473624,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 0.930081,
+          "sentiment_score": 0.217373,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931903
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839521
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.722759
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.710673
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.636007
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 455,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
+          "url": "https://sg.finance.yahoo.com/news/caterpillar-vs-deere-heavy-equipment-135000642.html",
+          "published_at": "2026-08-25T13:50:31"
+        }
+      ]
+    },
+    {
+      "event_id": 435,
+      "title": "Report: PepsiCo's Network Supported 440,400 Jobs Nationwide and Contributed Nearly $65 Billion to U.S. GDP",
+      "summary": "A new analysis by Oxford Economics reveals that PepsiCo's operations significantly impact the U.S. economy, supporting nearly 440,400 jobs nationwide and contributing approximately $64.88 billion to the U.S. GDP in 2024. The report highlights PepsiCo's reach across various sectors including manufacturing, agriculture, and transportation, and its commitment to sustainability and community initiatives through its pep+ strategy and the PepsiCo Foundation. This extensive footprint underscores the company's deep integration into the American economy and daily life.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 69,
+      "published_at": "2026-08-25T13:29:21",
+      "first_seen_at": "2026-08-25T15:00:03.435366",
+      "assets": [
+        {
+          "symbol": "PEP",
+          "asset_class": null,
+          "relevance_score": 0.987559,
+          "sentiment_score": 0.731946,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.92711
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.71344
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.701214
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.605449
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 456,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.marketscreener.com",
+          "source_domain": "www.marketscreener.com",
+          "headline": "Report: PepsiCo's Network Supported 440,400 Jobs Nationwide and Contributed Nearly $65 Billion to U.S. GDP",
+          "url": "https://www.marketscreener.com/news/report-pepsico-s-network-supported-440-400-jobs-nationwide-and-contributed-nearly-65-billion-to-u-ce7858d8dd89f325",
+          "published_at": "2026-08-25T13:29:21"
+        }
+      ]
+    },
+    {
       "event_id": 432,
       "title": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
       "summary": "Interpublic Group stock is now fully integrated into Omnicom following its November 2025 acquisition, making the combined entity the world's largest marketing services firm. Omnicom's fourth-quarter 2025 results are the first to fully incorporate Interpublic Group's financials, allowing investors to assess the combined company's performance and scale. This integration means Interpublic Group's value is now reflected through Omnicom's consolidated metrics, with a focus on their combined revenue growth, margin trends, and cash generation.",
@@ -1051,100 +1165,6 @@
           "headline": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
           "url": "https://www.tradingview.com/symbols/NASDAQ-SDA/ideas/",
           "published_at": "2026-08-24T19:12:50"
-        }
-      ]
-    },
-    {
-      "event_id": 413,
-      "title": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America",
-      "summary": "Martin Marietta Materials, Inc. (NYSE: MLM) has finalized its acquisition of Lhoist North America, Inc. for approximately $13.5 billion, comprising $7 billion in cash and 10,953,543 shares of common stock. The deal, completed on August 21, 2026, also includes governance changes such as the appointment of Lhoist S.A.'s CEO, Philipp Niemann, to Martin Marietta's Board of Directors. A staggered lock-up period applies to the consideration shares, and a standstill agreement caps LNA Holding's ownership at 18%.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-24T18:28:24",
-      "first_seen_at": "2026-08-24T20:00:02.285958",
-      "assets": [
-        {
-          "symbol": "MLM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.432708,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.920642
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.731418
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 434,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America",
-          "url": "https://kalkinemedia.com/us/news/announcements/martin-marietta-finalizes-135-billion-acquisition-of-lhoist-north-america",
-          "published_at": "2026-08-24T18:28:24"
-        }
-      ]
-    },
-    {
-      "event_id": 414,
-      "title": "Kimco Realty stock holds after August 4 earnings beat",
-      "summary": "Kimco Realty (KIM) stock maintained its value after reporting strong second-quarter 2026 earnings, exceeding analyst expectations for both EPS and revenue. The retail REIT also raised its annual dividend to $1.12, yielding 4.7%, and reaffirmed its FY 2026 guidance, aligning with Street estimates. The company's focus on grocery-anchored, open-air shopping centers and a robust market capitalization support its current valuation and future growth potential.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T18:10:09",
-      "first_seen_at": "2026-08-24T20:00:02.511010",
-      "assets": [
-        {
-          "symbol": "KIM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408672,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.907398
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826087
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.706724
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 435,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Kimco Realty stock holds after August 4 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-holds-after-august-4-earnings-beat/69995142",
-          "published_at": "2026-08-24T18:10:09"
         }
       ]
     }
