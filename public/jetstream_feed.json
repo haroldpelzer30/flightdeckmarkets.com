@@ -5,6 +5,159 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 450,
+      "title": "Stagflation calls for flexibility in fixed income, not abandonment",
+      "summary": "The article argues that stagflation, characterized by rising inflation and slowing economic growth, necessitates a flexible approach to fixed income rather than abandonment. It highlights that stagflation rarely affects all markets equally, creating regional opportunities and risks. Historically, inflation shocks are often followed by more supportive environments for fixed income returns, emphasizing the value of dynamic bond strategies that can adjust duration and invest broadly across various sectors.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-25T21:02:34",
+      "first_seen_at": "2026-08-25T22:00:02.141283",
+      "assets": [
+        {
+          "symbol": "TROW",
+          "asset_class": null,
+          "relevance_score": 0.904745,
+          "sentiment_score": 0.203223,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.906733
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.836005
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.733352
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 472,
+          "provider": "ALPHA_VANTAGE",
+          "source": "T. Rowe Price",
+          "source_domain": "T. Rowe Price",
+          "headline": "Stagflation calls for flexibility in fixed income, not abandonment",
+          "url": "https://www.troweprice.com/en/au/insights/stagflation-call-for-flexibility-in-fixed-income-not-abandonment.html",
+          "published_at": "2026-08-25T21:02:34"
+        }
+      ]
+    },
+    {
+      "event_id": 451,
+      "title": "PG&E stock holds steady as wildfire liability cap and earnings guidance support investor confidence",
+      "summary": "PG&E's stock is trading in the high teens as investors consider new wildfire liability cap legislation, reaffirmed 2026 core EPS guidance of $1.64 to $1.66 per share, and a \"moderate buy\" analyst consensus with a target price of $22.20. The proposed $6 billion cap on certain wildfire liabilities and the company's consistent earnings despite potential revenue reductions from customer bill credits are key factors supporting investor confidence. The stock's current forward P/E multiple of approximately 10.7 suggests a discount reflecting lingering wildfire risks but also room for rerating if risk stabilization efforts are successful.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-25T20:55:08",
+      "first_seen_at": "2026-08-25T22:00:02.378725",
+      "assets": [
+        {
+          "symbol": "PCG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.267191,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914114
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.823742
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.72041
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 473,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "PG&E stock holds steady as wildfire liability cap and earnings guidance support investor confidence",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pg-and-e-stock-holds-steady-as-wildfire-liability-cap-and-earnings/70001606",
+          "published_at": "2026-08-25T20:55:08"
+        }
+      ]
+    },
+    {
+      "event_id": 452,
+      "title": "Starbucks stock trades just below its 52-week high as earnings beat and guidance lift support the ra",
+      "summary": "Starbucks stock is trading near its 52-week high at around $107 after the company reported stronger-than-expected fiscal third-quarter earnings, raising its full-year 2026 outlook. The coffee giant's Q3 EPS jumped 70% to $0.85, surpassing analyst estimates, driven by a 7.9% increase in comparable-store sales. Despite an intrinsic value model suggesting the stock is trading above its fair value, institutional investors continue to show interest, and analysts have a mixed but generally supportive stance, with some initiating coverage with bullish price targets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-25T20:42:00",
+      "first_seen_at": "2026-08-25T22:00:02.638731",
+      "assets": [
+        {
+          "symbol": "SBUX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.48026,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924671
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.817618
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.702717
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.614999
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.605465
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 474,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Starbucks stock trades just below its 52-week high as earnings beat and guidance lift support the ra",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-trades-just-below-its-52-week-high-as-earnings-beat-and/70001282",
+          "published_at": "2026-08-25T20:42:00"
+        }
+      ]
+    },
+    {
       "event_id": 447,
       "title": "KLA Corporation stock draws analyst attention after fresh earnings beat",
       "summary": "KLA Corporation's stock has garnered analyst attention following a strong quarterly earnings report, which included exceeding revenue and EPS expectations, and raising its future outlook. The company reported robust revenue growth of 15.21% year over year, consistent earnings beats, and substantial shareholder returns through dividends and buybacks. Despite a recent share price pullback due to sector-wide concerns, analysts see significant upside potential, with the stock trading well below consensus target prices, supported by a large order backlog and strong growth projections.",
@@ -933,167 +1086,6 @@
           "headline": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/interpublic-group-stock-enters-new-phase-after-omnicom-acquisition/69998719",
           "published_at": "2026-08-25T13:10:00"
-        }
-      ]
-    },
-    {
-      "event_id": 433,
-      "title": "Top 3 Energy Stocks That May Keep You Up At Night In Q3",
-      "summary": "This article identifies three energy stocks—Teekay Corp Ltd (TK), Phillips 66 (PSX), and Peabody Energy Corp (BTU)—that are currently considered overbought based on their Relative Strength Index (RSI) values above 70. Despite recent positive earnings or stock gains, these high RSI figures suggest that momentum-driven investors should exercise caution. The article provides recent performance details and quotes from company executives for each stock.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-25T12:34:37",
-      "first_seen_at": "2026-08-25T14:00:02.043976",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.28047,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.927552
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.910386
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.801788
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 454,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Top 3 Energy Stocks That May Keep You Up At Night In Q3",
-          "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/08/61405979/top-3-energy-stocks-that-may-keep-you-up-at-night-in-q3",
-          "published_at": "2026-08-25T12:34:37"
-        }
-      ]
-    },
-    {
-      "event_id": 428,
-      "title": "American Airlines stock steadies after guidance cut as investors weigh Q2 2026 rebound",
-      "summary": "American Airlines (AAL) stock is stabilizing in late August 2026 after investors digested its Q2 2026 return to profit and revised full-year guidance, which now includes the possibility of a quarterly loss. Despite thin margins and negative free cash flow, the company showed double-digit revenue growth in Q2, and institutional investors are reportedly buying shares, signaling confidence in its long-term recovery potential. The stock is trading in the lower half of its 52-week range, with analysts assigning a \"hold\" rating and a consensus price target suggesting potential upside.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-08-25T12:14:21",
-      "first_seen_at": "2026-08-25T13:00:03.465623",
-      "assets": [
-        {
-          "symbol": "AAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.117348,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 0.645377,
-          "sentiment_score": 0.123691,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 0.644502,
-          "sentiment_score": 0.142511,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 0.640596,
-          "sentiment_score": 0.13191,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.937735
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.834936
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 449,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "American Airlines stock steadies after guidance cut as investors weigh Q2 2026 rebound",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/american-airlines-stock-steadies-after-guidance-cut-as-investors-weigh-q2/69998923",
-          "published_at": "2026-08-25T12:14:21"
-        }
-      ]
-    },
-    {
-      "event_id": 429,
-      "title": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
-      "summary": "ZenaTech, Inc. has announced the acquisition of ESM Software, a Boston-based company specializing in strategy execution and performance management software. This acquisition expands ZenaTech's enterprise SaaS portfolio, adding crucial capabilities in strategy execution, performance management, and cybersecurity compliance, particularly for government and regulated customers. ESM Software's solutions are expected to be integrated into ZenaTech’s AI-powered enterprise productivity platform, Zoo Office, enhancing its compliance and strategic governance offerings.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-25T12:00:25",
-      "first_seen_at": "2026-08-25T13:00:03.736451",
-      "assets": [
-        {
-          "symbol": "ZENA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.465836,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.913104
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.816083
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 450,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GlobeNewswire",
-          "source_domain": "GlobeNewswire",
-          "headline": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
-          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350405/0/en/zenatech-completes-acquisition-of-esm-software-adding-strategy-execution-and-compliance-software-to-its-enterprise-saas-division-with-revenue-from-government-healthcare-and-financi.html",
-          "published_at": "2026-08-25T12:00:25"
         }
       ]
     }
