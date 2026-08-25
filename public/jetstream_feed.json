@@ -20,7 +20,7 @@
           "symbol": "EXPD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.431044,
+          "sentiment_score": 0.403784,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -35,12 +35,12 @@
           "relevance_score": 0.844839
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.640126
+          "topic": "economy_macro",
+          "relevance_score": 0.644128
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.609741
+          "topic": "energy_transportation",
+          "relevance_score": 0.640126
         }
       ],
       "articles": [
