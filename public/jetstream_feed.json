@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 432,
+      "title": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
+      "summary": "Interpublic Group stock is now fully integrated into Omnicom following its November 2025 acquisition, making the combined entity the world's largest marketing services firm. Omnicom's fourth-quarter 2025 results are the first to fully incorporate Interpublic Group's financials, allowing investors to assess the combined company's performance and scale. This integration means Interpublic Group's value is now reflected through Omnicom's consolidated metrics, with a focus on their combined revenue growth, margin trends, and cash generation.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-08-25T13:10:00",
+      "first_seen_at": "2026-08-25T14:00:01.761047",
+      "assets": [
+        {
+          "symbol": "OMC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.425479,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916823
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810227
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 453,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/interpublic-group-stock-enters-new-phase-after-omnicom-acquisition/69998719",
+          "published_at": "2026-08-25T13:10:00"
+        }
+      ]
+    },
+    {
+      "event_id": 433,
+      "title": "Top 3 Energy Stocks That May Keep You Up At Night In Q3",
+      "summary": "This article identifies three energy stocks—Teekay Corp Ltd (TK), Phillips 66 (PSX), and Peabody Energy Corp (BTU)—that are currently considered overbought based on their Relative Strength Index (RSI) values above 70. Despite recent positive earnings or stock gains, these high RSI figures suggest that momentum-driven investors should exercise caution. The article provides recent performance details and quotes from company executives for each stock.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-25T12:34:37",
+      "first_seen_at": "2026-08-25T14:00:02.043976",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.28047,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927552
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910386
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.801788
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 454,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Top 3 Energy Stocks That May Keep You Up At Night In Q3",
+          "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/08/61405979/top-3-energy-stocks-that-may-keep-you-up-at-night-in-q3",
+          "published_at": "2026-08-25T12:34:37"
+        }
+      ]
+    },
+    {
       "event_id": 428,
       "title": "American Airlines stock steadies after guidance cut as investors weigh Q2 2026 rebound",
       "summary": "American Airlines (AAL) stock is stabilizing in late August 2026 after investors digested its Q2 2026 return to profit and revised full-year guidance, which now includes the possibility of a quarterly loss. Despite thin margins and negative free cash flow, the company showed double-digit revenue growth in Q2, and institutional investors are reportedly buying shares, signaling confidence in its long-term recovery potential. The stock is trading in the lower half of its 52-week range, with analysts assigning a \"hold\" rating and a consensus price target suggesting potential upside.",
@@ -1051,100 +1145,6 @@
           "headline": "Kimco Realty stock holds after August 4 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-holds-after-august-4-earnings-beat/69995142",
           "published_at": "2026-08-24T18:10:09"
-        }
-      ]
-    },
-    {
-      "event_id": 407,
-      "title": "Valero Energy stock advances as Jefferies lifts target and Q2 2026 refining profits surge",
-      "summary": "Valero Energy stock is trading near record highs after Jefferies significantly increased its price target to $401 from $312, citing strong second-quarter 2026 refining profits driven by favorable crack spreads. The company reported $4.5 billion in refining operating income and holds $7.87 billion in cash, demonstrating robust profitability despite ongoing maintenance at its Norco refinery. While the stock has seen substantial year-to-date gains, the new target suggests further upside, positioning Valero favorably within the energy sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-24T17:37:00",
-      "first_seen_at": "2026-08-24T19:00:02.496527",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.465798,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.945346
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937774
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836873
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 428,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Valero Energy stock advances as Jefferies lifts target and Q2 2026 refining profits surge",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valero-energy-stock-advances-as-jefferies-lifts-target-and-q2-2026/69994385",
-          "published_at": "2026-08-24T17:37:00"
-        }
-      ]
-    },
-    {
-      "event_id": 408,
-      "title": "Resilient AMETEK stock trades below analyst targets as Q2 2026 earnings beat expectations",
-      "summary": "AMETEK Inc. reported a strong Q2 2026 earnings beat and raised its full-year guidance, with EPS of $2.09 and revenue of $2.04 billion, surpassing analyst expectations. Despite this, the stock trades below the consensus analyst target of $266.80, with recent prices around $239.55, indicating potential upside. The company's solid balance sheet, conservative debt, and consistent dividend payments support its growth trajectory and acquisition strategy, attracting continued institutional investment.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T17:36:45",
-      "first_seen_at": "2026-08-24T19:00:02.774917",
-      "assets": [
-        {
-          "symbol": "AME",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424361,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924899
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820512
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.725151
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 429,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient AMETEK stock trades below analyst targets as Q2 2026 earnings beat expectations",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-ametek-stock-trades-below-analyst-targets-as-q2-2026-earnings/69994976",
-          "published_at": "2026-08-24T17:36:45"
         }
       ]
     }
