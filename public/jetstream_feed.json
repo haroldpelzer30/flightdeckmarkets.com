@@ -5,6 +5,325 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 423,
+      "title": "Legal & General Group Plc Acquires Shares of 1,133,223 Equinix, Inc. $EQIX",
+      "summary": "Legal & General Group Plc has acquired a significant new position in Equinix, Inc., purchasing over 1.1 million shares valued at approximately $1.18 billion in the second quarter. This move makes Legal & General Group Plc a 1.15% owner of Equinix. Other institutional investors like BlackRock Inc. and Cohen & Steers Inc. also hold substantial stakes, with Equinix showing strong financial performance, including beating earnings estimates and announcing a quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-25T11:03:17",
+      "first_seen_at": "2026-08-25T12:00:02.738131",
+      "assets": [
+        {
+          "symbol": "EQIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405696,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.623592,
+          "sentiment_score": 0.332207,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940828
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.848907
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.632488
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.632395
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.615347
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 444,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Legal & General Group Plc Acquires Shares of 1,133,223 Equinix, Inc. $EQIX",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-acquires-shares-of-1133223-equinix-inc-eqix-2026-08-25/",
+          "published_at": "2026-08-25T11:03:17"
+        }
+      ]
+    },
+    {
+      "event_id": 424,
+      "title": "Nicholas Investment Partners LP Acquires New Shares in Tapestry, Inc. $TPR",
+      "summary": "Nicholas Investment Partners LP has acquired a new stake in Tapestry, Inc. (NYSE:TPR) during the second quarter, purchasing 9,919 shares valued at approximately $1.45 million. This move is part of broader institutional interest, with other major firms also increasing their holdings in the luxury accessories retailer. Tapestry recently reported strong earnings, exceeding analyst expectations, and announced an increase in its quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-25T11:02:33",
+      "first_seen_at": "2026-08-25T12:00:03.028988",
+      "assets": [
+        {
+          "symbol": "TPR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.25239,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.915211
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.809888
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.74611
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.617995
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 445,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nicholas Investment Partners LP Acquires New Shares in Tapestry, Inc. $TPR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nicholas-investment-partners-lp-acquires-new-shares-in-tapestry-inc-tpr-2026-08-25/",
+          "published_at": "2026-08-25T11:02:33"
+        }
+      ]
+    },
+    {
+      "event_id": 425,
+      "title": "Osterweis Capital Management Inc. Acquires Shares of 142,193 The Progressive Corporation $PGR",
+      "summary": "Osterweis Capital Management Inc. has acquired a new stake of 142,193 shares in The Progressive Corporation (NYSE:PGR), valued at approximately $31.06 million, making it their 24th largest holding. Progressive recently reported strong quarterly earnings, beating analyst estimates for both EPS and revenue. Despite the positive earnings, analysts maintain a \"Hold\" rating with an average price target of $236.05, and company insiders have sold shares totaling over $3 million in recent months.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-25T10:47:53",
+      "first_seen_at": "2026-08-25T12:00:03.289693",
+      "assets": [
+        {
+          "symbol": "PGR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.467846,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ALL",
+          "asset_class": null,
+          "relevance_score": 0.723432,
+          "sentiment_score": 0.117812,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRV",
+          "asset_class": null,
+          "relevance_score": 0.633671,
+          "sentiment_score": 0.100577,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HIG",
+          "asset_class": null,
+          "relevance_score": 0.570221,
+          "sentiment_score": 0.058063,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927458
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.833103
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.606425
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 446,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Osterweis Capital Management Inc. Acquires Shares of 142,193 The Progressive Corporation $PGR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-osterweis-capital-management-inc-acquires-shares-of-142193-the-progressive-corporation-pgr-2026-08-25/",
+          "published_at": "2026-08-25T10:47:53"
+        }
+      ]
+    },
+    {
+      "event_id": 426,
+      "title": "124,319 Shares in Valero Energy Corporation $VLO Acquired by SIR Capital Management L.P.",
+      "summary": "SIR Capital Management L.P. recently acquired 124,319 shares of Valero Energy Corporation (NYSE:VLO) worth approximately $32.4 million, making it their fifth-largest holding. Institutional investors now own 78.69% of Valero, which has a consensus \"Moderate Buy\" rating from analysts with an average price target of $288. The company reported strong Q2 earnings, beating estimates with $12.54 EPS and $44.48 billion in revenue, and declared a $1.20 quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-25T10:31:55",
+      "first_seen_at": "2026-08-25T12:00:03.571198",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.619567,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SCHW",
+          "asset_class": null,
+          "relevance_score": 0.645462,
+          "sentiment_score": 0.226226,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.635908,
+          "sentiment_score": 0.23793,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.634119,
+          "sentiment_score": 0.239519,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BEN",
+          "asset_class": null,
+          "relevance_score": 0.603742,
+          "sentiment_score": 0.238048,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92464
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907661
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.805629
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 447,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "124,319 Shares in Valero Energy Corporation $VLO Acquired by SIR Capital Management L.P.",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-124319-shares-in-valero-energy-corporation-vlo-acquired-by-sir-capital-management-lp-2026-08-25/",
+          "published_at": "2026-08-25T10:31:55"
+        }
+      ]
+    },
+    {
+      "event_id": 427,
+      "title": "Lakewood Capital Management LP Acquires New Shares in HCA Healthcare, Inc. $HCA",
+      "summary": "Lakewood Capital Management LP has acquired 38,500 shares of HCA Healthcare, Inc. worth approximately $15.0 million during the second quarter, making it one of many institutional investors with a stake in the company. HCA Healthcare recently reported strong quarterly earnings, beating analyst expectations with $7.59 EPS and $20.23 billion in revenue, an 8.7% increase year-over-year. Analysts maintain a \"Moderate Buy\" consensus for HCA Healthcare, with an average price target of $462.64.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-25T10:31:48",
+      "first_seen_at": "2026-08-25T12:00:03.835517",
+      "assets": [
+        {
+          "symbol": "HCA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.386293,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914161
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.827269
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811231
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.7204
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.630867
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 448,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Lakewood Capital Management LP Acquires New Shares in HCA Healthcare, Inc. $HCA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-lakewood-capital-management-lp-acquires-new-shares-in-hca-healthcare-inc-hca-2026-08-25/",
+          "published_at": "2026-08-25T10:31:48"
+        }
+      ]
+    },
+    {
       "event_id": 421,
       "title": "Resilient Expeditors stock trades near 52-week high as Q2 2026 earnings beat expectations",
       "summary": "Expeditors International (EXPD) stock is trading near its 52-week high at $187.81 after reporting better-than-expected Q2 2026 earnings of $2.03 per share, driven by strong airfreight and customs brokerage operations. Despite a consensus analyst \"Hold\" rating and an average price target of $168.78 suggesting limited upside, the company's strong profitability, efficient use of capital, and recent institutional interest support its current valuation. The contrast between the market price and analyst targets highlights investor confidence in Expeditors' ability to maintain strong margins and returns on equity.",
@@ -818,269 +1137,6 @@
           "headline": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
           "url": "https://www.timesunion.com/business/article/us-is-set-to-impose-50-tariffs-on-20-billion-22399024.php",
           "published_at": "2026-08-24T17:09:22"
-        }
-      ]
-    },
-    {
-      "event_id": 401,
-      "title": "Ameren stock holds above $106 as institutions add millions",
-      "summary": "Ameren stock is trading above $106, supported by new multi-million-dollar institutional investments, as the utility anticipates steady earnings growth of 7.36% for fiscal year 2026. Analysts maintain a \"moderate buy\" rating with an average price target of $121.42, suggesting a potential upside of approximately 13% from current levels. The company's regulated utility operations and dividend profile are key factors attracting long-term investors.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-24T16:56:59",
-      "first_seen_at": "2026-08-24T18:00:03.341504",
-      "assets": [
-        {
-          "symbol": "AEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.470526,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936143
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.831648
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.743203
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 422,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Ameren stock holds above $106 as institutions add millions",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ameren-stock-holds-above-106-as-institutions-add-millions/69994783",
-          "published_at": "2026-08-24T16:56:59"
-        }
-      ]
-    },
-    {
-      "event_id": 402,
-      "title": "Elevance Health stock holds near $400 as Q2 2026 earnings beat supports outlook",
-      "summary": "Elevance Health (ELV) stock is trading near $403 after reporting a solid Q2 2026 earnings beat, with revenue of $49.83 billion exceeding analyst expectations and EPS of $7.45 significantly above estimates. Despite a slight dip in medical members, the company maintained stable revenue and reaffirmed its full-year earnings guidance, supported by a \"Moderate Buy\" consensus rating and ongoing institutional investment interest. The stock's current price is modestly above its 50-day and 200-day moving averages, suggesting an upward trend.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-24T16:49:09",
-      "first_seen_at": "2026-08-24T18:00:03.625990",
-      "assets": [
-        {
-          "symbol": "ELV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408939,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922722
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.835541
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.72579
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620045
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.609091
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 423,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Elevance Health stock holds near $400 as Q2 2026 earnings beat supports outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-holds-near-400-as-q2-2026-earnings-beat-supports/69994749",
-          "published_at": "2026-08-24T16:49:09"
-        }
-      ]
-    },
-    {
-      "event_id": 403,
-      "title": "UnitedHealth Group stock advances as Q2 2026 earnings beat drives guidance hike",
-      "summary": "UnitedHealth Group's stock is advancing due to a strong Q2 2026 earnings beat, a higher full-year EPS outlook, and a rebound in Optum's profitability. The company reported adjusted Q2 2026 EPS of $6.38, significantly exceeding estimates, and improved its medical benefit ratio, leading to a raised full-year 2026 EPS guidance of $19.50 to $20.00. Analysts maintain a 'Moderate Buy' rating with an average 12-month price target of $455.92, indicating cautious optimism for continued margin repair and growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T16:40:00",
-      "first_seen_at": "2026-08-24T18:00:03.888752",
-      "assets": [
-        {
-          "symbol": "UNH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.512335,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920054
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.807677
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.741817
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.641497
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 424,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "UnitedHealth Group stock advances as Q2 2026 earnings beat drives guidance hike",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-advances-as-q2-2026-earnings-beat-drives-guidance/69994105",
-          "published_at": "2026-08-24T16:40:00"
-        }
-      ]
-    },
-    {
-      "event_id": 404,
-      "title": "MasTec Falls as Investors Weigh New Debt, Acquisition Financing, and Lingering Segment Weakness",
-      "summary": "MasTec (MTZ) shares fell 4.4% due to continued investor caution regarding its recent financing activities, acquisition-related leverage, and persistent weakness in its communications segment. The company recently priced $650 million in senior notes and acquired The Superior Group for approximately $1.6 billion, increasing focus on its balance sheet. Despite record revenue and adjusted EPS in Q2 2026, concerns about profitability in its communications segment and execution risk have kept the stock under pressure.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-08-24T16:19:24",
-      "first_seen_at": "2026-08-24T18:00:04.126292",
-      "assets": [
-        {
-          "symbol": "MTZ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.380807,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907054
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832259
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.823016
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.71603
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 425,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "MasTec Falls as Investors Weigh New Debt, Acquisition Financing, and Lingering Segment Weakness",
-          "url": "https://www.quiverquant.com/news/MasTec+Falls+as+Investors+Weigh+New+Debt%2C+Acquisition+Financing%2C+and+Lingering+Segment+Weakness",
-          "published_at": "2026-08-24T16:19:24"
-        }
-      ]
-    },
-    {
-      "event_id": 405,
-      "title": "Quanta Services slides as investors weigh recent debt raise and acquisition activity",
-      "summary": "Quanta Services (PWR) stock fell 3.2% as investors assessed the company's recent debt financing and acquisition activities following a strong Q2 2026 report. While Quanta reported significant revenue and backlog growth and raised its full-year guidance, the market may be weighing the added debt and integration risks from several new acquisitions against these positive results. The company recently priced $2.0 billion in senior notes and completed multiple acquisitions to expand its infrastructure capabilities.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-24T16:18:53",
-      "first_seen_at": "2026-08-24T18:00:04.349870",
-      "assets": [
-        {
-          "symbol": "PWR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.262709,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.576487,
-          "sentiment_score": 0.108296,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.928685
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845232
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.742263
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 426,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Quanta Services slides as investors weigh recent debt raise and acquisition activity",
-          "url": "https://www.quiverquant.com/news/Quanta+Services+slides+as+investors+weigh+recent+debt+raise+and+acquisition+activity",
-          "published_at": "2026-08-24T16:18:53"
         }
       ]
     }
