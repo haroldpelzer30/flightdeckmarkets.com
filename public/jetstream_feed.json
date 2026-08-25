@@ -5,6 +5,167 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 444,
+      "title": "Exelon stock trades close to its 52-week low as transmission approvals reshape the grid story",
+      "summary": "Exelon stock is trading near its 52-week low, influenced by new Illinois transmission approvals and a pending multi-year grid plan that are reshaping its investment narrative. The utility's subsidiary, ComEd, received approval for a new transmission line project, reinforcing long-term grid modernization efforts, while analysts maintain a consensus \"Hold\" rating with an average price target of $50.07. Investors are closely watching the upcoming regulatory decision on ComEd's $15.3 billion network plan, which is crucial for Exelon's future rate base growth and earnings potential.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-25T18:40:00",
+      "first_seen_at": "2026-08-25T20:00:02.155927",
+      "assets": [
+        {
+          "symbol": "EXC",
+          "asset_class": null,
+          "relevance_score": 0.966178,
+          "sentiment_score": 0.106752,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.927113
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927103
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.924578
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.800567
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.626823
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 466,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Exelon stock trades close to its 52-week low as transmission approvals reshape the grid story",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exelon-stock-trades-close-to-its-52-week-low-as-transmission-approvals/70001009",
+          "published_at": "2026-08-25T18:40:00"
+        }
+      ]
+    },
+    {
+      "event_id": 445,
+      "title": "Is Elevance Health (ELV) a Mispriced Opportunity?",
+      "summary": "Sound Shore Management highlighted Elevance Health, Inc. (NYSE: ELV) as a significant contributor in its Q2 2026 investor letter. The firm views Elevance Health as a mispriced opportunity, trading below its normal valuation with double-digit earnings growth, despite investor concerns about regulatory risk and weak margins in its Medicaid and Medicare businesses. Sound Shore believes the market underestimates the strength of the franchise, citing management's focus on margin improvement, capital returns, and the use of AI tools to reduce administrative overhead and expand operating margins.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-25T18:20:05",
+      "first_seen_at": "2026-08-25T20:00:02.485683",
+      "assets": [
+        {
+          "symbol": "ELV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405844,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936262
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906637
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.814086
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.631385
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.625737
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 467,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "Is Elevance Health (ELV) a Mispriced Opportunity?",
+          "url": "https://sg.finance.yahoo.com/news/elevance-health-elv-mispriced-opportunity-182030448.html",
+          "published_at": "2026-08-25T18:20:05"
+        }
+      ]
+    },
+    {
+      "event_id": 446,
+      "title": "Steel Dynamics stock holds steady as tariffs and analyst calls shape the 2026 outlook",
+      "summary": "Steel Dynamics stock is trading below its recent highs as new U.S. tariff rhetoric on steel imports and updated analyst expectations for 2026 influence its outlook. Despite a 12.8% pullback from early August highs, analyst coverage remains constructive with an average price target implying 20.4% upside, supported by upward revisions to earnings per share forecasts. The company's performance in late 2026 will likely be driven by quarterly results and developments in trade policy affecting steel demand and pricing.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-25T18:17:56",
+      "first_seen_at": "2026-08-25T20:00:02.771464",
+      "assets": [
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.290741,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929798
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92548
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.744246
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.742166
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 468,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Steel Dynamics stock holds steady as tariffs and analyst calls shape the 2026 outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-holds-steady-as-tariffs-and-analyst-calls-shape-the/70000902",
+          "published_at": "2026-08-25T18:17:56"
+        }
+      ]
+    },
+    {
       "event_id": 439,
       "title": "McCormick (NYSE: MKC) HR chief acquires stock and units",
       "summary": "McCormick's Chief Human Relations Officer, Sarah Piper, acquired equity-linked interests including 45.168 Phantom Stock units on August 24, 2026, and additional Phantom Stock units and Common Stock through dividend reinvestment on July 20, 2026. Following these transactions, she directly holds 9,058.460 shares of Common Stock - Voting. The Form 4 filing indicates these transactions were not made under a Rule 10b5-1 trading plan.",
@@ -945,207 +1106,6 @@
           "headline": "Legal & General Group Plc Acquires Shares of 1,133,223 Equinix, Inc. $EQIX",
           "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-acquires-shares-of-1133223-equinix-inc-eqix-2026-08-25/",
           "published_at": "2026-08-25T11:03:17"
-        }
-      ]
-    },
-    {
-      "event_id": 424,
-      "title": "Nicholas Investment Partners LP Acquires New Shares in Tapestry, Inc. $TPR",
-      "summary": "Nicholas Investment Partners LP has acquired a new stake in Tapestry, Inc. (NYSE:TPR) during the second quarter, purchasing 9,919 shares valued at approximately $1.45 million. This move is part of broader institutional interest, with other major firms also increasing their holdings in the luxury accessories retailer. Tapestry recently reported strong earnings, exceeding analyst expectations, and announced an increase in its quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-25T11:02:33",
-      "first_seen_at": "2026-08-25T12:00:03.028988",
-      "assets": [
-        {
-          "symbol": "TPR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.25239,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.915211
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.809888
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.74611
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.617995
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 445,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nicholas Investment Partners LP Acquires New Shares in Tapestry, Inc. $TPR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nicholas-investment-partners-lp-acquires-new-shares-in-tapestry-inc-tpr-2026-08-25/",
-          "published_at": "2026-08-25T11:02:33"
-        }
-      ]
-    },
-    {
-      "event_id": 425,
-      "title": "Osterweis Capital Management Inc. Acquires Shares of 142,193 The Progressive Corporation $PGR",
-      "summary": "Osterweis Capital Management Inc. has acquired a new stake of 142,193 shares in The Progressive Corporation (NYSE:PGR), valued at approximately $31.06 million, making it their 24th largest holding. Progressive recently reported strong quarterly earnings, beating analyst estimates for both EPS and revenue. Despite the positive earnings, analysts maintain a \"Hold\" rating with an average price target of $236.05, and company insiders have sold shares totaling over $3 million in recent months.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-25T10:47:53",
-      "first_seen_at": "2026-08-25T12:00:03.289693",
-      "assets": [
-        {
-          "symbol": "PGR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.467846,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ALL",
-          "asset_class": null,
-          "relevance_score": 0.723432,
-          "sentiment_score": 0.117812,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TRV",
-          "asset_class": null,
-          "relevance_score": 0.633671,
-          "sentiment_score": 0.100577,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HIG",
-          "asset_class": null,
-          "relevance_score": 0.570221,
-          "sentiment_score": 0.058063,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.927458
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.833103
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.606425
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 446,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Osterweis Capital Management Inc. Acquires Shares of 142,193 The Progressive Corporation $PGR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-osterweis-capital-management-inc-acquires-shares-of-142193-the-progressive-corporation-pgr-2026-08-25/",
-          "published_at": "2026-08-25T10:47:53"
-        }
-      ]
-    },
-    {
-      "event_id": 426,
-      "title": "124,319 Shares in Valero Energy Corporation $VLO Acquired by SIR Capital Management L.P.",
-      "summary": "SIR Capital Management L.P. recently acquired 124,319 shares of Valero Energy Corporation (NYSE:VLO) worth approximately $32.4 million, making it their fifth-largest holding. Institutional investors now own 78.69% of Valero, which has a consensus \"Moderate Buy\" rating from analysts with an average price target of $288. The company reported strong Q2 earnings, beating estimates with $12.54 EPS and $44.48 billion in revenue, and declared a $1.20 quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-25T10:31:55",
-      "first_seen_at": "2026-08-25T12:00:03.571198",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.619567,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SCHW",
-          "asset_class": null,
-          "relevance_score": 0.645462,
-          "sentiment_score": 0.226226,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.635908,
-          "sentiment_score": 0.23793,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.634119,
-          "sentiment_score": 0.239519,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BEN",
-          "asset_class": null,
-          "relevance_score": 0.603742,
-          "sentiment_score": 0.238048,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92464
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.907661
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.805629
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 447,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "124,319 Shares in Valero Energy Corporation $VLO Acquired by SIR Capital Management L.P.",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-124319-shares-in-valero-energy-corporation-vlo-acquired-by-sir-capital-management-lp-2026-08-25/",
-          "published_at": "2026-08-25T10:31:55"
         }
       ]
     }
