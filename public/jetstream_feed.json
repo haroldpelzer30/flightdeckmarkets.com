@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 438,
+      "title": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook",
+      "summary": "Alphabet Inc. (GOOG) reported a strong Q2 2026 earnings beat, with revenue up 24.2% year-over-year and Google Cloud revenue soaring by 82%. The company's significant investment in AI infrastructure, including its Gemini platform, has led to increased operating income but also resulted in negative free cash flow due to substantial capital expenditures. Institutional investors like Berkshire Hathaway have shown confidence in Alphabet, even as the stock trades below its May 2026 high, indicating a balance between growth potential and investment costs.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-25T16:45:08",
+      "first_seen_at": "2026-08-25T18:00:02.064564",
+      "assets": [
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456869,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.880069,
+          "sentiment_score": 0.40874,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925872
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825385
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.82484
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620823
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.612247
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 459,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-stock-holds-strong-as-q2-cloud-growth-and-ai-demand-reshape-the/70000478",
+          "published_at": "2026-08-25T16:45:08"
+        }
+      ]
+    },
+    {
       "event_id": 436,
       "title": "Here's Why Investors Should Add J.B. Hunt Stock to Their Portfolio",
       "summary": "J.B. Hunt Transportation (JBHT) is presented as an attractive investment due to its strong performance, outperforming the transportation-truck industry with an 80% surge in shares over the past year. The company holds a Zacks Rank #2 (Buy), has seen northward estimate revisions for its earnings, and boasts a positive earnings surprise history. Additionally, its efforts toward efficient transportation solutions, disciplined capital allocation, and shareholder-friendly initiatives are highlighted as growth factors.",
@@ -1110,53 +1173,6 @@
           "headline": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
           "url": "https://247wallst.com/investing/2026/08/24/which-aerospace-and-defense-stock-has-dominated-in-2026-ge-aerospace-boeing-or-rtx/",
           "published_at": "2026-08-24T19:39:35"
-        }
-      ]
-    },
-    {
-      "event_id": 416,
-      "title": "Clean energy groups call on regulators to reject We Energies rate hike",
-      "summary": "Clean energy and environmental groups in Wisconsin are urging state regulators to reject We Energies' proposed 14% residential electric rate hike, citing the significant burden on low-income residents and concerns over rising costs. We Energies argues the increases are necessary to fund $600 million in new clean energy projects and replace older facilities, while also clarifying that costs for artificial intelligence data centers will not impact residential bills. Advocacy groups contend the utility has repeatedly broken promises regarding coal plant closures and clean energy commitments, despite achieving record profits.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 75,
-      "published_at": "2026-08-24T19:37:00",
-      "first_seen_at": "2026-08-24T21:00:02.548353",
-      "assets": [
-        {
-          "symbol": "WEC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.311428,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.900676
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.844834
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.637134
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 437,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Milwaukee Journal Sentinel",
-          "source_domain": "Milwaukee Journal Sentinel",
-          "headline": "Clean energy groups call on regulators to reject We Energies rate hike",
-          "url": "https://www.jsonline.com/story/money/business/energy/2026/08/24/clean-energy-groups-call-on-regulators-to-reject-we-energies-rate-hike/91445736007/",
-          "published_at": "2026-08-24T19:37:00"
         }
       ]
     }
