@@ -5,6 +5,270 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 439,
+      "title": "McCormick (NYSE: MKC) HR chief acquires stock and units",
+      "summary": "McCormick's Chief Human Relations Officer, Sarah Piper, acquired equity-linked interests including 45.168 Phantom Stock units on August 24, 2026, and additional Phantom Stock units and Common Stock through dividend reinvestment on July 20, 2026. Following these transactions, she directly holds 9,058.460 shares of Common Stock - Voting. The Form 4 filing indicates these transactions were not made under a Rule 10b5-1 trading plan.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-25T17:50:46",
+      "first_seen_at": "2026-08-25T19:00:03.051006",
+      "assets": [
+        {
+          "symbol": "MKC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.122364,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938381
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.911811
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 461,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "McCormick (NYSE: MKC) HR chief acquires stock and units",
+          "url": "https://www.stocktitan.net/sec-filings/MKC/form-4-mccormick-co-inc-insider-trading-activity-28f8f4ccc50d.html",
+          "published_at": "2026-08-25T17:50:46"
+        },
+        {
+          "article_id": 460,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "McCormick (NYSE: MKC) insider logs new stock transactions",
+          "url": "https://www.stocktitan.net/sec-filings/MKC/form-4-mccormick-co-inc-insider-trading-activity-a4e752dfc3b5.html",
+          "published_at": "2026-08-25T17:54:46"
+        }
+      ]
+    },
+    {
+      "event_id": 440,
+      "title": "Resilient Church & Dwight stock extends 2026 rally as investors add positions",
+      "summary": "Church & Dwight (CHD) stock is trading near its 52-week high in late August 2026, supported by steady Q2 revenue growth and increasing institutional investment. The company reported $1.53 billion in Q2 2026 revenues, a 1.6% year-over-year increase, beating analyst expectations. With a year-to-date return of 23.4%, the stock is seen as a resilient consumer staples holding, trading close to its fair value with potential for further incremental gains.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-25T17:48:31",
+      "first_seen_at": "2026-08-25T19:00:03.319192",
+      "assets": [
+        {
+          "symbol": "CHD",
+          "asset_class": null,
+          "relevance_score": 0.99912,
+          "sentiment_score": 0.44373,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.932
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904734
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.725695
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.646726
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.625731
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 462,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient Church & Dwight stock extends 2026 rally as investors add positions",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-church-and-dwight-stock-extends-2026-rally-as-investors-add/70000774",
+          "published_at": "2026-08-25T17:48:31"
+        }
+      ]
+    },
+    {
+      "event_id": 441,
+      "title": "MGM Resorts stock holds steady as investors eye institutional buying and upside to consensus targets",
+      "summary": "MGM Resorts stock is trading in the low-$40s, with institutional investors showing continued confidence through significant new share acquisitions. Analysts maintain a \"Moderate Buy\" rating with an average price target indicating over 22% upside, suggesting attractive risk-reward for investors. The company's performance is driven by its diversified casino, hotel, and entertainment properties, with financial metrics closely tied to tourism trends.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-25T17:28:45",
+      "first_seen_at": "2026-08-25T19:00:03.554922",
+      "assets": [
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.45464,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941739
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.905191
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.743586
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.709394
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 463,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "MGM Resorts stock holds steady as investors eye institutional buying and upside to consensus targets",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mgm-resorts-stock-holds-steady-as-investors-eye-institutional-buying-and/70000669",
+          "published_at": "2026-08-25T17:28:45"
+        }
+      ]
+    },
+    {
+      "event_id": 442,
+      "title": "High Aircraft Fuel Costs Continue to Impact JetBlue’s Credit Health",
+      "summary": "JetBlue Airways (JBLU) continues to face credit health challenges due to high aircraft fuel costs, leading to widening operating losses despite revenue growth. Activist investor Carl Icahn significantly trimmed his stake, indicating a lack of confidence in immediate returns. While JetBlue possesses substantial liquidity and unencumbered assets to manage short-term capital needs, its long-term profitability and ability to deleverage depend heavily on a more favorable macroeconomic environment and declining jet fuel prices.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 78,
+      "published_at": "2026-08-25T17:10:57",
+      "first_seen_at": "2026-08-25T19:00:03.791655",
+      "assets": [
+        {
+          "symbol": "JBLU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.270151,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925704
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.904314
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.841251
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.813246
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 464,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Barchart.com",
+          "source_domain": "Barchart.com",
+          "headline": "High Aircraft Fuel Costs Continue to Impact JetBlue’s Credit Health",
+          "url": "https://www.barchart.com/story/news/4027204/high-aircraft-fuel-costs-continue-to-impact-jetblues-credit-health",
+          "published_at": "2026-08-25T17:10:57"
+        }
+      ]
+    },
+    {
+      "event_id": 443,
+      "title": "Consumer debt hits record $2.6 trillion as more Canadians fall behind on payments",
+      "summary": "Total consumer debt in Canada has reached a record high of over $2.6 trillion in the second quarter of 2026, with more Canadians falling behind on payments. While the credit market remains healthy, data from Equifax and TransUnion indicate increasingly divergent financial realities, with some households expanding borrowing from strength and others relying on credit for daily expenses. Delinquencies are rising, particularly in Alberta, Saskatchewan, and Ontario, and though mortgage delinquency rates are low nationally, there are signs of stress in higher-cost housing markets.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-25T17:05:58",
+      "first_seen_at": "2026-08-25T19:00:04.036685",
+      "assets": [
+        {
+          "symbol": "EFX",
+          "asset_class": null,
+          "relevance_score": 0.975038,
+          "sentiment_score": -0.11259,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COF",
+          "asset_class": null,
+          "relevance_score": 0.635516,
+          "sentiment_score": -0.175458,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.589476,
+          "sentiment_score": -0.156664,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.908027
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 465,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "Consumer debt hits record $2.6 trillion as more Canadians fall behind on payments",
+          "url": "https://ca.finance.yahoo.com/news/consumer-debt-hits-record-2-170530883.html",
+          "published_at": "2026-08-25T17:05:58"
+        }
+      ]
+    },
+    {
       "event_id": 438,
       "title": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook",
       "summary": "Alphabet Inc. (GOOG) reported a strong Q2 2026 earnings beat, with revenue up 24.2% year-over-year and Google Cloud revenue soaring by 82%. The company's significant investment in AI infrastructure, including its Gemini platform, has led to increased operating income but also resulted in negative free cash flow due to substantial capital expenditures. Institutional investors like Berkshire Hathaway have shown confidence in Alphabet, even as the stock trades below its May 2026 high, indicating a balance between growth potential and investment costs.",
@@ -882,297 +1146,6 @@
           "headline": "124,319 Shares in Valero Energy Corporation $VLO Acquired by SIR Capital Management L.P.",
           "url": "https://www.marketbeat.com/instant-alerts/filing-124319-shares-in-valero-energy-corporation-vlo-acquired-by-sir-capital-management-lp-2026-08-25/",
           "published_at": "2026-08-25T10:31:55"
-        }
-      ]
-    },
-    {
-      "event_id": 427,
-      "title": "Lakewood Capital Management LP Acquires New Shares in HCA Healthcare, Inc. $HCA",
-      "summary": "Lakewood Capital Management LP has acquired 38,500 shares of HCA Healthcare, Inc. worth approximately $15.0 million during the second quarter, making it one of many institutional investors with a stake in the company. HCA Healthcare recently reported strong quarterly earnings, beating analyst expectations with $7.59 EPS and $20.23 billion in revenue, an 8.7% increase year-over-year. Analysts maintain a \"Moderate Buy\" consensus for HCA Healthcare, with an average price target of $462.64.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T10:31:48",
-      "first_seen_at": "2026-08-25T12:00:03.835517",
-      "assets": [
-        {
-          "symbol": "HCA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.386293,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914161
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.827269
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811231
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.7204
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.630867
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 448,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Lakewood Capital Management LP Acquires New Shares in HCA Healthcare, Inc. $HCA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-lakewood-capital-management-lp-acquires-new-shares-in-hca-healthcare-inc-hca-2026-08-25/",
-          "published_at": "2026-08-25T10:31:48"
-        }
-      ]
-    },
-    {
-      "event_id": 421,
-      "title": "Resilient Expeditors stock trades near 52-week high as Q2 2026 earnings beat expectations",
-      "summary": "Expeditors International (EXPD) stock is trading near its 52-week high at $187.81 after reporting better-than-expected Q2 2026 earnings of $2.03 per share, driven by strong airfreight and customs brokerage operations. Despite a consensus analyst \"Hold\" rating and an average price target of $168.78 suggesting limited upside, the company's strong profitability, efficient use of capital, and recent institutional interest support its current valuation. The contrast between the market price and analyst targets highlights investor confidence in Expeditors' ability to maintain strong margins and returns on equity.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-24T21:45:00",
-      "first_seen_at": "2026-08-24T23:00:01.777355",
-      "assets": [
-        {
-          "symbol": "EXPD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.403784,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945991
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844839
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644128
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.640126
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 442,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Expeditors stock trades near 52-week high as Q2 2026 earnings beat expectations",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-expeditors-stock-trades-near-52-week-high-as-q2-2026-earnings/69995935",
-          "published_at": "2026-08-24T21:45:00"
-        }
-      ]
-    },
-    {
-      "event_id": 419,
-      "title": "Occidental Petroleum stock holds a strong 2026 gain as analysts stay cautious",
-      "summary": "Occidental Petroleum (OXY) stock has seen a strong 46% year-to-date gain in 2026, trading in the low-$60s range, partially fueled by a significant Q2 2026 earnings beat. Despite this robust performance, analyst sentiment remains cautious, with a consensus Hold rating and price targets clustered in the mid-$60s, suggesting limited upside without new catalysts. The company's performance has outpaced some peers, reflecting strong operational execution and leverage to commodity prices, but much of this is already factored into the current valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-24T20:40:17",
-      "first_seen_at": "2026-08-24T22:00:01.676126",
-      "assets": [
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.293299,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.689927,
-          "sentiment_score": 0.137351,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EOG",
-          "asset_class": null,
-          "relevance_score": 0.673243,
-          "sentiment_score": 0.120877,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FDS",
-          "asset_class": null,
-          "relevance_score": 0.626636,
-          "sentiment_score": 0.13591,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932723
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.915339
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835196
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 440,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Occidental Petroleum stock holds a strong 2026 gain as analysts stay cautious",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/occidental-petroleum-stock-holds-a-strong-2026-gain-as-analysts-stay/69995905",
-          "published_at": "2026-08-24T20:40:17"
-        }
-      ]
-    },
-    {
-      "event_id": 420,
-      "title": "Dollar General stock edges higher as earnings beat odds become focus",
-      "summary": "Dollar General (DG) stock is trading in the mid-$120s as investors await its upcoming quarterly earnings report. Analysts expect a 7.5% year-over-year increase in earnings to $2.00 per share, with a consensus \"hold\" rating and a one-year price target of $130.42. The company's focus on consumables and its defensive retail model are key factors in its anticipated steady performance amidst macroeconomic uncertainties.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-24T20:20:05",
-      "first_seen_at": "2026-08-24T22:00:01.997225",
-      "assets": [
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.293059,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940542
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.80542
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.74878
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.640126
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 441,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Dollar General stock edges higher as earnings beat odds become focus",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-general-stock-edges-higher-as-earnings-beat-odds-become-focus/69995794",
-          "published_at": "2026-08-24T20:20:05"
-        }
-      ]
-    },
-    {
-      "event_id": 415,
-      "title": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
-      "summary": "In 2026, RTX has emerged as the top performer among major aerospace and defense stocks, with a 14% year-to-date gain, followed by GE Aerospace at 11%. Boeing, however, has lagged significantly with a 3% decline. The article highlights that these companies, despite being in the same sector, have fundamentally different business models—GE Aerospace focuses on recurring engine servicing, RTX on a diversified portfolio, and Boeing on airframe manufacturing, explaining their varied performances.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-24T19:39:35",
-      "first_seen_at": "2026-08-24T21:00:02.261213",
-      "assets": [
-        {
-          "symbol": "RTX",
-          "asset_class": null,
-          "relevance_score": 0.974096,
-          "sentiment_score": 0.325666,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.862659,
-          "sentiment_score": 0.297208,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSI",
-          "asset_class": null,
-          "relevance_score": 0.555154,
-          "sentiment_score": 0.015756,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944829
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.803
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.745192
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 436,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
-          "url": "https://247wallst.com/investing/2026/08/24/which-aerospace-and-defense-stock-has-dominated-in-2026-ge-aerospace-boeing-or-rtx/",
-          "published_at": "2026-08-24T19:39:35"
         }
       ]
     }
