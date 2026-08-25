@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 453,
+      "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
+      "summary": "Expion360 Inc. has changed its corporate name to Expion Energy, Inc. and is entering the oil and gas sector with the acquisition of an exploration opportunity in Eastern Louisiana for $3.4 million. Kevin Sellers has been appointed as the new CEO. The company, previously known for lithium iron phosphate batteries, will now commit up to $4 million for a leasing program and is required to drill a new lateral wellbore by February 15, 2027.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-25T22:11:48",
+      "first_seen_at": "2026-08-25T23:00:01.970012",
+      "assets": [
+        {
+          "symbol": "XPON",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.388618,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.901756
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.806737
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.74881
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 475,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Australia",
+          "source_domain": "Investing.com Australia",
+          "headline": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
+          "url": "https://au.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4613706",
+          "published_at": "2026-08-25T22:11:48"
+        }
+      ]
+    },
+    {
+      "event_id": 454,
+      "title": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock",
+      "summary": "Rajesh Kalathur, a director at American Tower (NYSE:AMT), recently acquired 2,829 shares of the company's stock for $500,733, increasing his direct ownership by 57.31%. This insider buying follows a strong quarterly earnings report where American Tower beat analyst EPS estimates and saw revenue growth. Analysts currently rate American Tower as a \"Moderate Buy\" with an average target price of $215.29.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-25T21:15:03",
+      "first_seen_at": "2026-08-25T23:00:02.203281",
+      "assets": [
+        {
+          "symbol": "AMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.338695,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.93455
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.804652
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.612846
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 476,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-rajesh-kalathur-acquires-2829-shares-of-american-tower-nyse-amt-stock-2026-08-25/",
+          "published_at": "2026-08-25T21:15:03"
+        }
+      ]
+    },
+    {
       "event_id": 450,
       "title": "Stagflation calls for flexibility in fixed income, not abandonment",
       "summary": "The article argues that stagflation, characterized by rising inflation and slowing economic growth, necessitates a flexible approach to fixed income rather than abandonment. It highlights that stagflation rarely affects all markets equally, creating regional opportunities and risks. Historically, inflation shocks are often followed by more supportive environments for fixed income returns, emphasizing the value of dynamic bond strategies that can adjust duration and invest broadly across various sectors.",
@@ -988,104 +1082,6 @@
           "headline": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
           "url": "https://sg.finance.yahoo.com/news/caterpillar-vs-deere-heavy-equipment-135000642.html",
           "published_at": "2026-08-25T13:50:31"
-        }
-      ]
-    },
-    {
-      "event_id": 435,
-      "title": "Report: PepsiCo's Network Supported 440,400 Jobs Nationwide and Contributed Nearly $65 Billion to U.S. GDP",
-      "summary": "A new analysis by Oxford Economics reveals that PepsiCo's operations significantly impact the U.S. economy, supporting nearly 440,400 jobs nationwide and contributing approximately $64.88 billion to the U.S. GDP in 2024. The report highlights PepsiCo's reach across various sectors including manufacturing, agriculture, and transportation, and its commitment to sustainability and community initiatives through its pep+ strategy and the PepsiCo Foundation. This extensive footprint underscores the company's deep integration into the American economy and daily life.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 69,
-      "published_at": "2026-08-25T13:29:21",
-      "first_seen_at": "2026-08-25T15:00:03.435366",
-      "assets": [
-        {
-          "symbol": "PEP",
-          "asset_class": null,
-          "relevance_score": 0.987559,
-          "sentiment_score": 0.731946,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.92711
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.71344
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.701214
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.605449
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 456,
-          "provider": "ALPHA_VANTAGE",
-          "source": "www.marketscreener.com",
-          "source_domain": "www.marketscreener.com",
-          "headline": "Report: PepsiCo's Network Supported 440,400 Jobs Nationwide and Contributed Nearly $65 Billion to U.S. GDP",
-          "url": "https://www.marketscreener.com/news/report-pepsico-s-network-supported-440-400-jobs-nationwide-and-contributed-nearly-65-billion-to-u-ce7858d8dd89f325",
-          "published_at": "2026-08-25T13:29:21"
-        }
-      ]
-    },
-    {
-      "event_id": 432,
-      "title": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
-      "summary": "Interpublic Group stock is now fully integrated into Omnicom following its November 2025 acquisition, making the combined entity the world's largest marketing services firm. Omnicom's fourth-quarter 2025 results are the first to fully incorporate Interpublic Group's financials, allowing investors to assess the combined company's performance and scale. This integration means Interpublic Group's value is now reflected through Omnicom's consolidated metrics, with a focus on their combined revenue growth, margin trends, and cash generation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-08-25T13:10:00",
-      "first_seen_at": "2026-08-25T14:00:01.761047",
-      "assets": [
-        {
-          "symbol": "OMC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425479,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916823
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.810227
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 453,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Interpublic Group stock enters new phase after Omnicom acquisition integration",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/interpublic-group-stock-enters-new-phase-after-omnicom-acquisition/69998719",
-          "published_at": "2026-08-25T13:10:00"
         }
       ]
     }
