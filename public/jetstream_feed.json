@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 436,
+      "title": "Here's Why Investors Should Add J.B. Hunt Stock to Their Portfolio",
+      "summary": "J.B. Hunt Transportation (JBHT) is presented as an attractive investment due to its strong performance, outperforming the transportation-truck industry with an 80% surge in shares over the past year. The company holds a Zacks Rank #2 (Buy), has seen northward estimate revisions for its earnings, and boasts a positive earnings surprise history. Additionally, its efforts toward efficient transportation solutions, disciplined capital allocation, and shareholder-friendly initiatives are highlighted as growth factors.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-25T15:33:39",
+      "first_seen_at": "2026-08-25T17:00:02.417495",
+      "assets": [
+        {
+          "symbol": "JBHT",
+          "asset_class": null,
+          "relevance_score": 0.907118,
+          "sentiment_score": 0.732573,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EXPD",
+          "asset_class": null,
+          "relevance_score": 0.644028,
+          "sentiment_score": 0.601396,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.909239
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90852
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811551
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.613874
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 457,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "Here's Why Investors Should Add J.B. Hunt Stock to Their Portfolio",
+          "url": "https://sg.finance.yahoo.com/news/heres-why-investors-add-j-153400137.html",
+          "published_at": "2026-08-25T15:33:39"
+        }
+      ]
+    },
+    {
+      "event_id": 437,
+      "title": "IDEX stock holds firm after July 29 earnings beat",
+      "summary": "IDEX Corporation's stock remained firm after reporting a Q2 earnings beat on July 29, with quarterly EPS of $2.32 surpassing estimates and revenue reaching $920.60 million. The company's full-year 2026 EPS guidance of $8.70 to $8.85 is slightly below the analyst consensus of $8.82. Despite this, its valuation at 33.60 times earnings is supported by strong sales growth and a significant EPS beat.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-25T15:17:19",
+      "first_seen_at": "2026-08-25T17:00:02.697179",
+      "assets": [
+        {
+          "symbol": "IEX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.492708,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810058
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.703014
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.641829
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.632602
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 458,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "IDEX stock holds firm after July 29 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idex-stock-holds-firm-after-july-29-earnings-beat/70000068",
+          "published_at": "2026-08-25T15:17:19"
+        }
+      ]
+    },
+    {
       "event_id": 434,
       "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
       "summary": "This article compares two leading heavy equipment stocks, Caterpillar (CAT) and Deere & Company (DE), highlighting their recent financial performance, growth drivers, and market outlooks. Caterpillar shows stronger growth, an upgraded outlook, and a higher Zacks Rank due to its diverse market exposure and robust backlog. While Deere has long-term potential in precision agriculture, near-term challenges in farm economics may limit its upside.",
@@ -1043,128 +1157,6 @@
           "headline": "Clean energy groups call on regulators to reject We Energies rate hike",
           "url": "https://www.jsonline.com/story/money/business/energy/2026/08/24/clean-energy-groups-call-on-regulators-to-reject-we-energies-rate-hike/91445736007/",
           "published_at": "2026-08-24T19:37:00"
-        }
-      ]
-    },
-    {
-      "event_id": 417,
-      "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
-      "summary": "In 2026, Occidental Petroleum (OXY) leads the oil and gas sector with a 46% year-to-date gain, closely followed by EOG Resources (EOG) and ConocoPhillips (COP) which both achieved a 43% gain. The SPDR S&P Oil & Gas Exploration & Production ETF (XOP) outperformed two of these individual stocks with a 45% return, suggesting that for most investors, a sector-wide ETF might have been a more effective choice than picking individual stocks this year. The article highlights the narrow margin between the top performers and the ETF, advising investors to maintain modest single-stock positions.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-24T19:36:50",
-      "first_seen_at": "2026-08-24T21:00:02.841729",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.972012,
-          "sentiment_score": 0.035289,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 0.923378,
-          "sentiment_score": 0.147772,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EOG",
-          "asset_class": null,
-          "relevance_score": 0.857721,
-          "sentiment_score": 0.049018,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.949288
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.805686
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.706994
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.612821
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 438,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
-          "url": "https://247wallst.com/investing/2026/08/24/which-oil-and-gas-stock-has-dominated-in-2026-conocophillips-eog-resources-or-occidental-petroleum/",
-          "published_at": "2026-08-24T19:36:50"
-        }
-      ]
-    },
-    {
-      "event_id": 412,
-      "title": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
-      "summary": "SunCar Technology Group (NASDAQ: SDA) operates a cloud service and mobile app that digitalizes the automotive aftermarket and e-insurance sectors in China, partnering with major EV manufacturers. The company experienced significant revenue growth in FY 2023, particularly in its auto e-insurance business, and has recently shown positive Adjusted EBITDA. SunCar addresses the need for aftermarket support in China's rapidly growing EV market, which lacks extensive dealer networks, and aims to make car ownership more efficient and affordable through its platform.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-24T19:12:50",
-      "first_seen_at": "2026-08-24T20:00:01.948655",
-      "assets": [
-        {
-          "symbol": "SDA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424586,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.9378
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.840193
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.745711
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.627952
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.612499
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 433,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
-          "url": "https://www.tradingview.com/symbols/NASDAQ-SDA/ideas/",
-          "published_at": "2026-08-24T19:12:50"
         }
       ]
     }
