@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 475,
+      "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
+      "summary": "Morgan Stanley predicts a significant increase in dividends from Thai refiners, expecting them to rise three times in 2026. This is attributed to companies distributing excess profits after reducing debt and a positive outlook on the durability of the refining cycle. The bank anticipates stronger cash generation due to sustained high annual refining margins and improving balance sheets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-26T16:16:14",
+      "first_seen_at": "2026-08-26T18:00:02.582444",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.934537,
+          "sentiment_score": 0.384254,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.939928
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.846088
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.73917
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.628729
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 498,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Morgan Stanley sees Thai refiners boosting dividends sharply",
+          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-thai-refiners-boosting-dividends-sharply-93CH-4877623",
+          "published_at": "2026-08-26T16:16:14"
+        }
+      ]
+    },
+    {
       "event_id": 474,
       "title": "Duke Energy stock holds steady as nuclear and data-center plans shape outlook",
       "summary": "Duke Energy's stock is trading just above $50 as the company advances plans for new nuclear generation in the Carolinas and prepares to meet growing data-center demand in Florida under a new state law. While addressing these strategic initiatives, the utility also faces regulatory scrutiny over solar procurement in North Carolina and political pressure regarding rate increases in Ohio. Investors are evaluating how Duke Energy will navigate these complex regulatory and capital expenditure challenges to ensure stable earnings and dividend support.",
@@ -20,7 +71,7 @@
           "symbol": "DUK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.129596,
+          "sentiment_score": 0.109229,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -32,7 +83,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.916432
+          "relevance_score": 0.919222
         },
         {
           "topic": "financial_markets",
@@ -1051,69 +1102,6 @@
           "headline": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
           "url": "https://au.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4613706",
           "published_at": "2026-08-25T22:11:48"
-        }
-      ]
-    },
-    {
-      "event_id": 460,
-      "title": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
-      "summary": "Walmart (WMT) recently reported Q2 results that disappointed investors, leading to a significant stock tumble. Despite its strong defensive position, Walmart's valuation is now considered richer than Nvidia's by some metrics, raising questions about its growth prospects. The company's smallest sales gain in six years and a cautious Q3 outlook are putting pressure on its premium valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-25T21:42:35",
-      "first_seen_at": "2026-08-26T00:00:03.992037",
-      "assets": [
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 0.994652,
-          "sentiment_score": -0.346415,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.739463,
-          "sentiment_score": 0.104869,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947286
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.841577
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.718133
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.641873
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.614479
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 482,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barchart.com",
-          "source_domain": "Barchart.com",
-          "headline": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
-          "url": "https://www.barchart.com/story/news/4037283/walmart-stock-is-more-expensive-than-nvidia-amid-earnings-miss",
-          "published_at": "2026-08-25T21:42:35"
         }
       ]
     }
