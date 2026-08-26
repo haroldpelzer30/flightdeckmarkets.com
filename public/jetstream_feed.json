@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 471,
+      "title": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
+      "summary": "Sonoco Products Company has raised prices by €60 per ton on uncoated recycled paperboard in the EMEA region starting September 15, 2026, to combat inflationary pressures. This strategic move aims to offset higher input costs, impacting customer relationships and margin resilience in a key European market. Investors will be monitoring how this price hike affects Sonoco's margins and sales volumes, especially given existing concerns about softer European demand and integration efforts.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 67,
+      "published_at": "2026-08-26T13:37:34",
+      "first_seen_at": "2026-08-26T15:00:02.185749",
+      "assets": [
+        {
+          "symbol": "SON",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.12925,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMCR",
+          "asset_class": null,
+          "relevance_score": 0.5654,
+          "sentiment_score": 0.0147,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902249
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.843058
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.726617
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.634381
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 494,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-son/sonoco-products/news/should-sonocos-emea-paperboard-price-hike-to-counter-inflati",
+          "published_at": "2026-08-26T13:37:34"
+        }
+      ]
+    },
+    {
+      "event_id": 472,
+      "title": "Occidental Petroleum stock holds above $58 as sanctions and Hormuz talks shape oil outlook",
+      "summary": "Occidental Petroleum (OXY) stock is trading in the high-$50s, influenced by volatile oil markets due to new Iran sanctions and talks to reopen the Strait of Hormuz. While crude prices softened on Hormuz optimism, sanctions on Iranian exports could tighten global supply. Analysts maintain mid-$60s price targets, suggesting potential upside despite the recent pullback, and institutional investors continue to show confidence in the company.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-26T13:36:10",
+      "first_seen_at": "2026-08-26T15:00:02.517539",
+      "assets": [
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.012723,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.932628
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811816
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 495,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Occidental Petroleum stock holds above $58 as sanctions and Hormuz talks shape oil outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/occidental-petroleum-stock-holds-above-58-as-sanctions-and-hormuz-talks/70004352",
+          "published_at": "2026-08-26T13:36:10"
+        }
+      ]
+    },
+    {
       "event_id": 467,
       "title": "Fort Technology acquires 50.1% stake in Logia USA",
       "summary": "Fort Technology Inc., a majority-owned subsidiary of Nexera Technologies Ltd., has acquired a 50.1% stake in Logia USA Inc. for approximately $125,000 in newly-issued common shares. The acquisition aims to expand Logia Israel Ltd's fuel integrity solutions for data centers into the U.S. market, supported by a $2.0 million credit facility. This strategic move aligns with Fort Technology's broader plans to expand its retail operations, currently focused on pest control and remedial repair products in Europe, into the United States.",
@@ -996,112 +1098,6 @@
           "headline": "Stagflation calls for flexibility in fixed income, not abandonment",
           "url": "https://www.troweprice.com/en/au/insights/stagflation-call-for-flexibility-in-fixed-income-not-abandonment.html",
           "published_at": "2026-08-25T21:02:34"
-        }
-      ]
-    },
-    {
-      "event_id": 451,
-      "title": "PG&E stock holds steady as wildfire liability cap and earnings guidance support investor confidence",
-      "summary": "PG&E's stock is trading in the high teens as investors consider new wildfire liability cap legislation, reaffirmed 2026 core EPS guidance of $1.64 to $1.66 per share, and a \"moderate buy\" analyst consensus with a target price of $22.20. The proposed $6 billion cap on certain wildfire liabilities and the company's consistent earnings despite potential revenue reductions from customer bill credits are key factors supporting investor confidence. The stock's current forward P/E multiple of approximately 10.7 suggests a discount reflecting lingering wildfire risks but also room for rerating if risk stabilization efforts are successful.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-25T20:55:08",
-      "first_seen_at": "2026-08-25T22:00:02.378725",
-      "assets": [
-        {
-          "symbol": "PCG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.267191,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.914114
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.823742
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.72041
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 473,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "PG&E stock holds steady as wildfire liability cap and earnings guidance support investor confidence",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pg-and-e-stock-holds-steady-as-wildfire-liability-cap-and-earnings/70001606",
-          "published_at": "2026-08-25T20:55:08"
-        }
-      ]
-    },
-    {
-      "event_id": 452,
-      "title": "Starbucks stock trades just below its 52-week high as earnings beat and guidance lift support the ra",
-      "summary": "Starbucks stock is trading near its 52-week high at around $107 after the company reported stronger-than-expected fiscal third-quarter earnings, raising its full-year 2026 outlook. The coffee giant's Q3 EPS jumped 70% to $0.85, surpassing analyst estimates, driven by a 7.9% increase in comparable-store sales. Despite an intrinsic value model suggesting the stock is trading above its fair value, institutional investors continue to show interest, and analysts have a mixed but generally supportive stance, with some initiating coverage with bullish price targets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T20:42:00",
-      "first_seen_at": "2026-08-25T22:00:02.638731",
-      "assets": [
-        {
-          "symbol": "SBUX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.48026,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924671
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817618
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.702717
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.614999
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.605465
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 474,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Starbucks stock trades just below its 52-week high as earnings beat and guidance lift support the ra",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-trades-just-below-its-52-week-high-as-earnings-beat-and/70001282",
-          "published_at": "2026-08-25T20:42:00"
         }
       ]
     }
