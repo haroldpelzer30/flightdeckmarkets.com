@@ -20,7 +20,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.945269,
-          "sentiment_score": 0.382992,
+          "sentiment_score": 0.38185,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.73917
+          "relevance_score": 0.749339
         },
         {
           "topic": "economy_macro",
