@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 474,
+      "title": "Duke Energy stock holds steady as nuclear and data-center plans shape outlook",
+      "summary": "Duke Energy's stock is trading just above $50 as the company advances plans for new nuclear generation in the Carolinas and prepares to meet growing data-center demand in Florida under a new state law. While addressing these strategic initiatives, the utility also faces regulatory scrutiny over solar procurement in North Carolina and political pressure regarding rate increases in Ohio. Investors are evaluating how Duke Energy will navigate these complex regulatory and capital expenditure challenges to ensure stable earnings and dividend support.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-26T15:20:44",
+      "first_seen_at": "2026-08-26T17:00:02.009320",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.129596,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923969
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.916432
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.824856
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 497,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Duke Energy stock holds steady as nuclear and data-center plans shape outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/duke-energy-stock-holds-steady-as-nuclear-and-data-center-plans-shape/70004809",
+          "published_at": "2026-08-26T15:20:44"
+        }
+      ]
+    },
+    {
       "event_id": 473,
       "title": "Exxon Mobil stock holds in the low $160s as Guyana output and dividend strength shape the outlook",
       "summary": "Exxon Mobil stock is trading in the low $160s, supported by strong Q2 2026 earnings of $14.5 billion and operating cash flow of $23.6 billion. The company's investment appeal is strengthened by its growing free cash flow from Guyana, which reached 900,000 barrels per day in Q2 2026 and has recovered $55 billion in investment, alongside a 43-year track record of dividend increases. Despite recent oil price volatility, analysts maintain a \"Hold\" rating with an average target price of $166.10, recognizing the stock's year-to-date gain of 36.15%.",
@@ -1067,53 +1114,6 @@
           "headline": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
           "url": "https://www.barchart.com/story/news/4037283/walmart-stock-is-more-expensive-than-nvidia-amid-earnings-miss",
           "published_at": "2026-08-25T21:42:35"
-        }
-      ]
-    },
-    {
-      "event_id": 454,
-      "title": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock",
-      "summary": "Rajesh Kalathur, a director at American Tower (NYSE:AMT), recently acquired 2,829 shares of the company's stock for $500,733, increasing his direct ownership by 57.31%. This insider buying follows a strong quarterly earnings report where American Tower beat analyst EPS estimates and saw revenue growth. Analysts currently rate American Tower as a \"Moderate Buy\" with an average target price of $215.29.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-25T21:15:03",
-      "first_seen_at": "2026-08-25T23:00:02.203281",
-      "assets": [
-        {
-          "symbol": "AMT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.338695,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93455
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.804652
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.612846
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 476,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-rajesh-kalathur-acquires-2829-shares-of-american-tower-nyse-amt-stock-2026-08-25/",
-          "published_at": "2026-08-25T21:15:03"
         }
       ]
     }
