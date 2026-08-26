@@ -20,7 +20,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.945269,
-          "sentiment_score": 0.394628,
+          "sentiment_score": 0.410492,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -71,7 +71,7 @@
           "symbol": "DUK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.119833,
+          "sentiment_score": 0.127914,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -83,7 +83,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.919222
+          "relevance_score": 0.924123
         },
         {
           "topic": "financial_markets",
