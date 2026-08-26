@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 473,
+      "title": "Exxon Mobil stock holds in the low $160s as Guyana output and dividend strength shape the outlook",
+      "summary": "Exxon Mobil stock is trading in the low $160s, supported by strong Q2 2026 earnings of $14.5 billion and operating cash flow of $23.6 billion. The company's investment appeal is strengthened by its growing free cash flow from Guyana, which reached 900,000 barrels per day in Q2 2026 and has recovered $55 billion in investment, alongside a 43-year track record of dividend increases. Despite recent oil price volatility, analysts maintain a \"Hold\" rating with an average target price of $166.10, recognizing the stock's year-to-date gain of 36.15%.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-26T14:19:34",
+      "first_seen_at": "2026-08-26T16:00:03.398199",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.499684,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.604749,
+          "sentiment_score": 0.147738,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.577926,
+          "sentiment_score": 0.124838,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947804
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.906273
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.830628
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 496,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Exxon Mobil stock holds in the low $160s as Guyana output and dividend strength shape the outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-holds-in-the-low-160s-as-guyana-output-and-dividend/70004554",
+          "published_at": "2026-08-26T14:19:34"
+        }
+      ]
+    },
+    {
       "event_id": 471,
       "title": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
       "summary": "Sonoco Products Company has raised prices by €60 per ton on uncoated recycled paperboard in the EMEA region starting September 15, 2026, to combat inflationary pressures. This strategic move aims to offset higher input costs, impacting customer relationships and margin resilience in a key European market. Investors will be monitoring how this price hike affects Sonoco's margins and sales volumes, especially given existing concerns about softer European demand and integration efforts.",
@@ -1051,53 +1114,6 @@
           "headline": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock",
           "url": "https://www.marketbeat.com/instant-alerts/insider-rajesh-kalathur-acquires-2829-shares-of-american-tower-nyse-amt-stock-2026-08-25/",
           "published_at": "2026-08-25T21:15:03"
-        }
-      ]
-    },
-    {
-      "event_id": 450,
-      "title": "Stagflation calls for flexibility in fixed income, not abandonment",
-      "summary": "The article argues that stagflation, characterized by rising inflation and slowing economic growth, necessitates a flexible approach to fixed income rather than abandonment. It highlights that stagflation rarely affects all markets equally, creating regional opportunities and risks. Historically, inflation shocks are often followed by more supportive environments for fixed income returns, emphasizing the value of dynamic bond strategies that can adjust duration and invest broadly across various sectors.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-25T21:02:34",
-      "first_seen_at": "2026-08-25T22:00:02.141283",
-      "assets": [
-        {
-          "symbol": "TROW",
-          "asset_class": null,
-          "relevance_score": 0.904745,
-          "sentiment_score": 0.203223,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.906733
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836005
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.733352
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 472,
-          "provider": "ALPHA_VANTAGE",
-          "source": "T. Rowe Price",
-          "source_domain": "T. Rowe Price",
-          "headline": "Stagflation calls for flexibility in fixed income, not abandonment",
-          "url": "https://www.troweprice.com/en/au/insights/stagflation-call-for-flexibility-in-fixed-income-not-abandonment.html",
-          "published_at": "2026-08-25T21:02:34"
         }
       ]
     }
