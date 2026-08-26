@@ -5,6 +5,372 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 461,
+      "title": "Keurig Dr Pepper stock holds steady as Q2 2026 earnings beat and 2026 guidance is reaffirmed",
+      "summary": "Keurig Dr Pepper (KDP) stock held steady in late August 2026 after the company reported Q2 2026 adjusted diluted EPS of $0.57, exceeding analyst expectations of $0.54, and reaffirmed its full-year 2026 guidance for net sales between $25.9 billion and $26.4 billion and low double-digit EPS growth. The company's performance was boosted by growth in soft drinks and energy drinks, which offset weaknesses in its coffee segment, expected to improve in the second half of 2026. KDP also highlighted its commitment to deleveraging, aiming for a management leverage of 4.1 times by year-end 2026, and continuous product innovation with launches like Mott's Zero Sugar.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-26T10:59:23",
+      "first_seen_at": "2026-08-26T12:00:02.610789",
+      "assets": [
+        {
+          "symbol": "KDP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.479494,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906285
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 483,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Keurig Dr Pepper stock holds steady as Q2 2026 earnings beat and 2026 guidance is reaffirmed",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keurig-dr-pepper-stock-holds-steady-as-q2-2026-earnings-beat-and-2026/70003601",
+          "published_at": "2026-08-26T10:59:23"
+        }
+      ]
+    },
+    {
+      "event_id": 462,
+      "title": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Odyssean LLC has acquired a new stake of 2,775 shares in Advanced Micro Devices (AMD), valued at approximately $1.6 million, during the second quarter. This move comes as institutional investors now hold 71.34% of AMD's stock. Analysts generally maintain a bullish outlook on AMD, with Raymond James upgrading the stock to \"Strong Buy\" and a consensus \"Moderate Buy\" rating, supported by AMD's reported 50.1% year-over-year revenue growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-26T10:55:07",
+      "first_seen_at": "2026-08-26T12:00:02.857370",
+      "assets": [
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.257227,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.810563,
+          "sentiment_score": 0.091748,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.640735,
+          "sentiment_score": 0.116465,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.579775,
+          "sentiment_score": 0.103057,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.579713,
+          "sentiment_score": 0.131367,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924108
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.905737
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.811514
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 484,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-odyssean-llc-buys-new-shares-in-advanced-micro-devices-inc-amd-2026-08-26/",
+          "published_at": "2026-08-26T10:55:07"
+        }
+      ]
+    },
+    {
+      "event_id": 463,
+      "title": "Man Group plc Acquires Shares of 1,475,345 Otis Worldwide Corporation $OTIS",
+      "summary": "Man Group plc acquired 1,475,345 shares of Otis Worldwide Corporation ($OTIS) in the second quarter, a new stake valued at approximately $105.6 million. Institutional investors own 88.03% of Otis, with several increasing their positions. Analysts have a mixed sentiment with a \"Hold\" consensus rating and a target price of $92.91.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-26T10:45:05",
+      "first_seen_at": "2026-08-26T12:00:03.173678",
+      "assets": [
+        {
+          "symbol": "OTIS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.137103,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.908714
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.807148
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.736658
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.612352
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 485,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Man Group plc Acquires Shares of 1,475,345 Otis Worldwide Corporation $OTIS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-shares-of-1475345-otis-worldwide-corporation-otis-2026-08-26/",
+          "published_at": "2026-08-26T10:45:05"
+        }
+      ]
+    },
+    {
+      "event_id": 464,
+      "title": "Man Group plc Acquires New Shares in VICI Properties Inc. $VICI",
+      "summary": "Man Group plc has acquired a new stake in VICI Properties Inc. (NYSE:VICI), purchasing over 11.9 million shares valued at approximately $318.2 million. This acquisition makes Man Group plc one of many institutional investors increasing their positions in VICI Properties, which now sees 97.71% of its stock owned by institutional investors. The article also details VICI Properties' recent financial performance, dividend announcements, and current analyst ratings.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-26T10:37:32",
+      "first_seen_at": "2026-08-26T12:00:03.406855",
+      "assets": [
+        {
+          "symbol": "VICI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.287473,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.908896
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.834491
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.719965
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.637756
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 486,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Man Group plc Acquires New Shares in VICI Properties Inc. $VICI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-shares-in-vici-properties-inc-vici-2026-08-26/",
+          "published_at": "2026-08-26T10:37:32"
+        }
+      ]
+    },
+    {
+      "event_id": 465,
+      "title": "Man Group plc Acquires Shares of 187,497 Cummins Inc. $CMI",
+      "summary": "Man Group plc has acquired a new stake of 187,497 shares in Cummins Inc. (NYSE:CMI), valued at approximately $133.7 million, according to its latest 13F filing. Other institutional investors have also adjusted their holdings in Cummins. The company recently reported its quarterly earnings, missing analyst estimates, but also declared an increased quarterly dividend of $2.20 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-26T10:37:31",
+      "first_seen_at": "2026-08-26T12:00:03.638351",
+      "assets": [
+        {
+          "symbol": "CMI",
+          "asset_class": null,
+          "relevance_score": 0.979059,
+          "sentiment_score": 0.257678,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GNRC",
+          "asset_class": null,
+          "relevance_score": 0.618317,
+          "sentiment_score": 0.147333,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.61053,
+          "sentiment_score": 0.130855,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.579877,
+          "sentiment_score": 0.115356,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92655
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828881
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.727758
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710121
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.612318
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 487,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Man Group plc Acquires Shares of 187,497 Cummins Inc. $CMI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-shares-of-187497-cummins-inc-cmi-2026-08-26/",
+          "published_at": "2026-08-26T10:37:31"
+        }
+      ]
+    },
+    {
+      "event_id": 466,
+      "title": "Prediction market traders all but rule out an Nvidia earnings miss",
+      "summary": "Prediction market traders on Polymarket are placing a 97% probability on Nvidia beating Wall Street's profit forecasts for its upcoming earnings report. Despite this confidence, Nvidia's stock recently snapped a seven-day losing streak, highlighting investor sensitivity. The market is also keenly focused on the company's guidance for the next quarter, particularly regarding new accelerator platforms and customer purchasing behavior amidst concerns about AI infrastructure returns.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-26T10:35:57",
+      "first_seen_at": "2026-08-26T12:00:03.915980",
+      "assets": [
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.421535,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.634215,
+          "sentiment_score": 0.138349,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.60142,
+          "sentiment_score": 0.136221,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922065
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825377
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.726067
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 488,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "Prediction market traders all but rule out an Nvidia earnings miss",
+          "url": "https://ca.finance.yahoo.com/news/prediction-market-traders-rule-nvidia-103600817.html",
+          "published_at": "2026-08-26T10:35:57"
+        }
+      ]
+    },
+    {
       "event_id": 455,
       "title": "Community West Bancshares director Lokey acquires $1,405 common stock By Investing.com",
       "summary": "James W. Lokey, a director at Community West Bancshares (NASDAQ:CWBC), recently acquired 54.23 shares of common stock totaling $1,405 through dividend reinvestment. This transaction increases his direct holdings to 15,228.902 shares. The company's stock has seen a significant increase year-to-date and over the past year, and it is considered slightly undervalued according to InvestingPro analysis, with D.A. Davidson maintaining a Buy rating despite recent merger-related adjustments.",
@@ -743,321 +1109,6 @@
           "headline": "Exelon stock trades close to its 52-week low as transmission approvals reshape the grid story",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exelon-stock-trades-close-to-its-52-week-low-as-transmission-approvals/70001009",
           "published_at": "2026-08-25T18:40:00"
-        }
-      ]
-    },
-    {
-      "event_id": 445,
-      "title": "Is Elevance Health (ELV) a Mispriced Opportunity?",
-      "summary": "Sound Shore Management highlighted Elevance Health, Inc. (NYSE: ELV) as a significant contributor in its Q2 2026 investor letter. The firm views Elevance Health as a mispriced opportunity, trading below its normal valuation with double-digit earnings growth, despite investor concerns about regulatory risk and weak margins in its Medicaid and Medicare businesses. Sound Shore believes the market underestimates the strength of the franchise, citing management's focus on margin improvement, capital returns, and the use of AI tools to reduce administrative overhead and expand operating margins.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-25T18:20:05",
-      "first_seen_at": "2026-08-25T20:00:02.485683",
-      "assets": [
-        {
-          "symbol": "ELV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.405844,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936262
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906637
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.814086
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.631385
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.625737
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 467,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "Is Elevance Health (ELV) a Mispriced Opportunity?",
-          "url": "https://sg.finance.yahoo.com/news/elevance-health-elv-mispriced-opportunity-182030448.html",
-          "published_at": "2026-08-25T18:20:05"
-        }
-      ]
-    },
-    {
-      "event_id": 446,
-      "title": "Steel Dynamics stock holds steady as tariffs and analyst calls shape the 2026 outlook",
-      "summary": "Steel Dynamics stock is trading below its recent highs as new U.S. tariff rhetoric on steel imports and updated analyst expectations for 2026 influence its outlook. Despite a 12.8% pullback from early August highs, analyst coverage remains constructive with an average price target implying 20.4% upside, supported by upward revisions to earnings per share forecasts. The company's performance in late 2026 will likely be driven by quarterly results and developments in trade policy affecting steel demand and pricing.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T18:17:56",
-      "first_seen_at": "2026-08-25T20:00:02.771464",
-      "assets": [
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.290741,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929798
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92548
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.744246
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.742166
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 468,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Steel Dynamics stock holds steady as tariffs and analyst calls shape the 2026 outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-holds-steady-as-tariffs-and-analyst-calls-shape-the/70000902",
-          "published_at": "2026-08-25T18:17:56"
-        }
-      ]
-    },
-    {
-      "event_id": 439,
-      "title": "McCormick (NYSE: MKC) HR chief acquires stock and units",
-      "summary": "McCormick's Chief Human Relations Officer, Sarah Piper, acquired equity-linked interests including 45.168 Phantom Stock units on August 24, 2026, and additional Phantom Stock units and Common Stock through dividend reinvestment on July 20, 2026. Following these transactions, she directly holds 9,058.460 shares of Common Stock - Voting. The Form 4 filing indicates these transactions were not made under a Rule 10b5-1 trading plan.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-25T17:50:46",
-      "first_seen_at": "2026-08-25T19:00:03.051006",
-      "assets": [
-        {
-          "symbol": "MKC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.122364,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938381
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.911811
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 461,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "McCormick (NYSE: MKC) HR chief acquires stock and units",
-          "url": "https://www.stocktitan.net/sec-filings/MKC/form-4-mccormick-co-inc-insider-trading-activity-28f8f4ccc50d.html",
-          "published_at": "2026-08-25T17:50:46"
-        },
-        {
-          "article_id": 460,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "McCormick (NYSE: MKC) insider logs new stock transactions",
-          "url": "https://www.stocktitan.net/sec-filings/MKC/form-4-mccormick-co-inc-insider-trading-activity-a4e752dfc3b5.html",
-          "published_at": "2026-08-25T17:54:46"
-        }
-      ]
-    },
-    {
-      "event_id": 440,
-      "title": "Resilient Church & Dwight stock extends 2026 rally as investors add positions",
-      "summary": "Church & Dwight (CHD) stock is trading near its 52-week high in late August 2026, supported by steady Q2 revenue growth and increasing institutional investment. The company reported $1.53 billion in Q2 2026 revenues, a 1.6% year-over-year increase, beating analyst expectations. With a year-to-date return of 23.4%, the stock is seen as a resilient consumer staples holding, trading close to its fair value with potential for further incremental gains.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-25T17:48:31",
-      "first_seen_at": "2026-08-25T19:00:03.319192",
-      "assets": [
-        {
-          "symbol": "CHD",
-          "asset_class": null,
-          "relevance_score": 0.99912,
-          "sentiment_score": 0.44373,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.932
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.904734
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.725695
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646726
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.625731
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 462,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Church & Dwight stock extends 2026 rally as investors add positions",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-church-and-dwight-stock-extends-2026-rally-as-investors-add/70000774",
-          "published_at": "2026-08-25T17:48:31"
-        }
-      ]
-    },
-    {
-      "event_id": 441,
-      "title": "MGM Resorts stock holds steady as investors eye institutional buying and upside to consensus targets",
-      "summary": "MGM Resorts stock is trading in the low-$40s, with institutional investors showing continued confidence through significant new share acquisitions. Analysts maintain a \"Moderate Buy\" rating with an average price target indicating over 22% upside, suggesting attractive risk-reward for investors. The company's performance is driven by its diversified casino, hotel, and entertainment properties, with financial metrics closely tied to tourism trends.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-25T17:28:45",
-      "first_seen_at": "2026-08-25T19:00:03.554922",
-      "assets": [
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.45464,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941739
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.905191
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.743586
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.709394
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 463,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "MGM Resorts stock holds steady as investors eye institutional buying and upside to consensus targets",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mgm-resorts-stock-holds-steady-as-investors-eye-institutional-buying-and/70000669",
-          "published_at": "2026-08-25T17:28:45"
-        }
-      ]
-    },
-    {
-      "event_id": 442,
-      "title": "High Aircraft Fuel Costs Continue to Impact JetBlue’s Credit Health",
-      "summary": "JetBlue Airways (JBLU) continues to face credit health challenges due to high aircraft fuel costs, leading to widening operating losses despite revenue growth. Activist investor Carl Icahn significantly trimmed his stake, indicating a lack of confidence in immediate returns. While JetBlue possesses substantial liquidity and unencumbered assets to manage short-term capital needs, its long-term profitability and ability to deleverage depend heavily on a more favorable macroeconomic environment and declining jet fuel prices.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 78,
-      "published_at": "2026-08-25T17:10:57",
-      "first_seen_at": "2026-08-25T19:00:03.791655",
-      "assets": [
-        {
-          "symbol": "JBLU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.270151,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.925704
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.904314
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.841251
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.813246
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 464,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barchart.com",
-          "source_domain": "Barchart.com",
-          "headline": "High Aircraft Fuel Costs Continue to Impact JetBlue’s Credit Health",
-          "url": "https://www.barchart.com/story/news/4027204/high-aircraft-fuel-costs-continue-to-impact-jetblues-credit-health",
-          "published_at": "2026-08-25T17:10:57"
         }
       ]
     }
