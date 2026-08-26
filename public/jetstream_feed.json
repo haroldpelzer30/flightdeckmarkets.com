@@ -5,6 +5,223 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 467,
+      "title": "Fort Technology acquires 50.1% stake in Logia USA",
+      "summary": "Fort Technology Inc., a majority-owned subsidiary of Nexera Technologies Ltd., has acquired a 50.1% stake in Logia USA Inc. for approximately $125,000 in newly-issued common shares. The acquisition aims to expand Logia Israel Ltd's fuel integrity solutions for data centers into the U.S. market, supported by a $2.0 million credit facility. This strategic move aligns with Fort Technology's broader plans to expand its retail operations, currently focused on pest control and remedial repair products in Europe, into the United States.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-26T11:45:03",
+      "first_seen_at": "2026-08-26T13:00:03.154157",
+      "assets": [
+        {
+          "symbol": "FRTT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.511512,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.727476
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.618741
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 489,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Fort Technology acquires 50.1% stake in Logia USA",
+          "url": "https://www.investing.com/news/company-news/fort-technology-acquires-501-stake-in-logia-usa-93CH-4876934",
+          "published_at": "2026-08-26T11:45:03"
+        }
+      ]
+    },
+    {
+      "event_id": 468,
+      "title": "Fort Technology Closes Acquisition of Logia USA - Fuel Integrity Solutions for Data Centers Company",
+      "summary": "Fort Technology Inc. has completed its acquisition of 50.1% of Logia USA Inc., a company specializing in fuel integrity solutions for data centers and other critical facilities. This acquisition allows Fort Technology to expand into the US market, leveraging Logia USA's automated systems to ensure reliable backup power in the rapidly growing global data center sector. As part of the agreement, Logia USA's founder, Mr. Yair Harel, will continue as CEO and Fort Technology will provide a $2.0 million credit facility for market entry and growth.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-26T11:24:03",
+      "first_seen_at": "2026-08-26T13:00:03.436613",
+      "assets": [
+        {
+          "symbol": "FRTT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.426463,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DLR",
+          "asset_class": null,
+          "relevance_score": 0.626008,
+          "sentiment_score": 0.318642,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.615414,
+          "sentiment_score": 0.106068,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.92353
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 491,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Manila Times",
+          "source_domain": "The Manila Times",
+          "headline": "Fort Technology Closes Acquisition of Logia USA - Fuel Integrity Solutions for Data Centers Company",
+          "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/globenewswire/fort-technology-closes-acquisition-of-logia-usa-fuel-integrity-solutions-for-data-centers-company/2412465",
+          "published_at": "2026-08-26T11:24:03"
+        },
+        {
+          "article_id": 490,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Nexera Technologies Subsidiary Fort Completes Acquisition of Majority Stake in Logia USA to Expand Fuel Integrity Solutions for Data Centers",
+          "url": "https://www.quiverquant.com/news/Nexera+Technologies+Subsidiary+Fort+Completes+Acquisition+of+Majority+Stake+in+Logia+USA+to+Expand+Fuel+Integrity+Solutions+for+Data+Centers",
+          "published_at": "2026-08-26T11:30:00"
+        }
+      ]
+    },
+    {
+      "event_id": 469,
+      "title": "Starbucks stock holds above $105 as guidance raised and turnaround gains momentum",
+      "summary": "Starbucks stock is trading above $105, supported by strong fiscal third-quarter results, a raised 2026 earnings guidance, and ongoing \"Back to Starbucks\" initiatives. The company reported EPS of $0.85 and revenue of $9.32 billion, exceeding analyst estimates, and updated its adjusted EPS guidance to a range of $2.55 to $2.65 for fiscal 2026. Global comparable store sales increased by 7.9%, driven by a 4.2% rise in transaction volume, indicating progress in its turnaround strategy despite some valuation models suggesting the stock is trading slightly above fair value.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-26T11:23:14",
+      "first_seen_at": "2026-08-26T13:00:03.719997",
+      "assets": [
+        {
+          "symbol": "SBUX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.3951,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920673
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831815
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.739583
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.635088
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.631852
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 492,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Starbucks stock holds above $105 as guidance raised and turnaround gains momentum",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-holds-above-105-as-guidance-raised-and-turnaround-gains/70003709",
+          "published_at": "2026-08-26T11:23:14"
+        }
+      ]
+    },
+    {
+      "event_id": 470,
+      "title": "Sempra stock attracts fresh institutional buying as shares trade in the mid-$80s",
+      "summary": "Sempra stock is drawing renewed interest from large institutional investors, trading in the mid-$80s, driven by a significant $65 billion utilities capital plan and an analyst consensus price target of $103.62, implying over 20% upside. The company is also strategically reallocating resources, focusing 95% of its capital plan on regulated North American infrastructure while divesting non-core assets like a natural gas company in Mexico. This strategy, combined with steady institutional buying, suggests confidence in predictable cash flows and earnings growth from its regulated asset base.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-08-26T11:18:22",
+      "first_seen_at": "2026-08-26T13:00:03.957648",
+      "assets": [
+        {
+          "symbol": "SRE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.460297,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.918305
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.842793
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.82026
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 493,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Sempra stock attracts fresh institutional buying as shares trade in the mid-$80s",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-attracts-fresh-institutional-buying-as-shares-trade-in-the/70003691",
+          "published_at": "2026-08-26T11:18:22"
+        }
+      ]
+    },
+    {
       "event_id": 461,
       "title": "Keurig Dr Pepper stock holds steady as Q2 2026 earnings beat and 2026 guidance is reaffirmed",
       "summary": "Keurig Dr Pepper (KDP) stock held steady in late August 2026 after the company reported Q2 2026 adjusted diluted EPS of $0.57, exceeding analyst expectations of $0.54, and reaffirmed its full-year 2026 guidance for net sales between $25.9 billion and $26.4 billion and low double-digit EPS growth. The company's performance was boosted by growth in soft drinks and energy drinks, which offset weaknesses in its coffee segment, expected to improve in the second half of 2026. KDP also highlighted its commitment to deleveraging, aiming for a management leverage of 4.1 times by year-end 2026, and continuous product innovation with launches like Mott's Zero Sugar.",
@@ -885,230 +1102,6 @@
           "headline": "Starbucks stock trades just below its 52-week high as earnings beat and guidance lift support the ra",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-trades-just-below-its-52-week-high-as-earnings-beat-and/70001282",
           "published_at": "2026-08-25T20:42:00"
-        }
-      ]
-    },
-    {
-      "event_id": 447,
-      "title": "KLA Corporation stock draws analyst attention after fresh earnings beat",
-      "summary": "KLA Corporation's stock has garnered analyst attention following a strong quarterly earnings report, which included exceeding revenue and EPS expectations, and raising its future outlook. The company reported robust revenue growth of 15.21% year over year, consistent earnings beats, and substantial shareholder returns through dividends and buybacks. Despite a recent share price pullback due to sector-wide concerns, analysts see significant upside potential, with the stock trading well below consensus target prices, supported by a large order backlog and strong growth projections.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T19:20:36",
-      "first_seen_at": "2026-08-25T21:00:02.644920",
-      "assets": [
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413485,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93924
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829584
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.748771
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.644682
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.623385
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 469,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "KLA Corporation stock draws analyst attention after fresh earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kla-corporation-stock-draws-analyst-attention-after-fresh-earnings-beat/70001199",
-          "published_at": "2026-08-25T19:20:36"
-        }
-      ]
-    },
-    {
-      "event_id": 448,
-      "title": "Is Dominion Energy Stock a Buy Ahead of the September 3 Merger Vote?",
-      "summary": "Dominion Energy (D) is facing shareholder lawsuits and political opposition ahead of its September 3 merger vote with NextEra, despite issuing supplemental proxy disclosures. While analysts show a bullish sentiment with a mean target of $71.82, TIKR's model suggests a higher value of $93.96 by 2030, assuming the merger closes and rate base growth continues. Investors are advised to analyze the numbers themselves using tools like TIKR to assess the stock's potential.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T19:19:43",
-      "first_seen_at": "2026-08-25T21:00:02.956842",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.101326,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.922733
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.837055
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.719774
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.626173
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 470,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TIKR.com",
-          "source_domain": "TIKR.com",
-          "headline": "Is Dominion Energy Stock a Buy Ahead of the September 3 Merger Vote?",
-          "url": "https://www.tikr.com/blog/is-dominion-energy-stock-a-buy-ahead-of-the-september-3-merger-vote",
-          "published_at": "2026-08-25T19:19:43"
-        }
-      ]
-    },
-    {
-      "event_id": 449,
-      "title": "Dominion Energy stock gets merger vote date as implied deal value tops recent trading",
-      "summary": "Dominion Energy's stock is trading below the implied value of its merger with NextEra Energy, with a shareholder vote scheduled for September 3, 2026. New SEC filings detail an implied $76.38 per share consideration, while the stock recently traded at $66.60, representing a significant discount. The merger terms and valuation metrics are presented as consistent with historical utility deals, despite ongoing legal and regulatory considerations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 71,
-      "published_at": "2026-08-25T19:19:00",
-      "first_seen_at": "2026-08-25T21:00:03.226165",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.310655,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.84025,
-          "sentiment_score": 0.337883,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.834029
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.720618
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.637687
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.613989
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 471,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Dominion Energy stock gets merger vote date as implied deal value tops recent trading",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dominion-energy-stock-gets-merger-vote-date-as-implied-deal-value-tops/70001196",
-          "published_at": "2026-08-25T19:19:00"
-        }
-      ]
-    },
-    {
-      "event_id": 444,
-      "title": "Exelon stock trades close to its 52-week low as transmission approvals reshape the grid story",
-      "summary": "Exelon stock is trading near its 52-week low, influenced by new Illinois transmission approvals and a pending multi-year grid plan that are reshaping its investment narrative. The utility's subsidiary, ComEd, received approval for a new transmission line project, reinforcing long-term grid modernization efforts, while analysts maintain a consensus \"Hold\" rating with an average price target of $50.07. Investors are closely watching the upcoming regulatory decision on ComEd's $15.3 billion network plan, which is crucial for Exelon's future rate base growth and earnings potential.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-25T18:40:00",
-      "first_seen_at": "2026-08-25T20:00:02.155927",
-      "assets": [
-        {
-          "symbol": "EXC",
-          "asset_class": null,
-          "relevance_score": 0.966178,
-          "sentiment_score": 0.106752,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.927113
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.927103
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.924578
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.800567
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.626823
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 466,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Exelon stock trades close to its 52-week low as transmission approvals reshape the grid story",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exelon-stock-trades-close-to-its-52-week-low-as-transmission-approvals/70001009",
-          "published_at": "2026-08-25T18:40:00"
         }
       ]
     }
