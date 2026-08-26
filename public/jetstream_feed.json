@@ -5,6 +5,214 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 455,
+      "title": "Community West Bancshares director Lokey acquires $1,405 common stock By Investing.com",
+      "summary": "James W. Lokey, a director at Community West Bancshares (NASDAQ:CWBC), recently acquired 54.23 shares of common stock totaling $1,405 through dividend reinvestment. This transaction increases his direct holdings to 15,228.902 shares. The company's stock has seen a significant increase year-to-date and over the past year, and it is considered slightly undervalued according to InvestingPro analysis, with D.A. Davidson maintaining a Buy rating despite recent merger-related adjustments.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-08-25T23:11:14",
+      "first_seen_at": "2026-08-26T00:00:02.712051",
+      "assets": [
+        {
+          "symbol": "CWBC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.348384,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938543
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.82432
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.721213
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 477,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Community West Bancshares director Lokey acquires $1,405 common stock By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/community-west-bancshares-director-lokey-acquires-1405-common-stock-93CH-2672774",
+          "published_at": "2026-08-25T23:11:14"
+        }
+      ]
+    },
+    {
+      "event_id": 456,
+      "title": "Best-Performing Leveraged ETFs of Last Week",
+      "summary": "Last week saw a mixed performance on Wall Street, with initial declines due to AI bubble fears, followed by a strong finish after Federal Reserve Chair Jerome Powell hinted at a potential September rate cut. This news led to a rally in markets, with the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all experiencing gains. The article highlights several leveraged ETFs that performed well, benefiting from these market movements, including those tied to cryptocurrency, inverse AI stocks, regional banks, and cannabis.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-25T22:41:32",
+      "first_seen_at": "2026-08-26T00:00:03.009118",
+      "assets": [
+        {
+          "symbol": "RIOX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403666,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.638756,
+          "sentiment_score": -0.244897,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.939753
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": 0.842122
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.742976
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 478,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "Best-Performing Leveraged ETFs of Last Week",
+          "url": "https://www.tradingview.com/news/zacks:411802629094b:0-best-performing-leveraged-etfs-of-last-week/",
+          "published_at": "2026-08-25T22:41:32"
+        }
+      ]
+    },
+    {
+      "event_id": 457,
+      "title": "Honeywell Aerospace faces securities law probe after Q2 earnings miss and stock plunge.",
+      "summary": "Honeywell Aerospace is facing a securities law probe by Robbins Geller Rudman & Dowd LLP after reporting a 32% drop in adjusted earnings per share for Q2 2026 and lowering its organic growth forecast, leading to a stock price fall of over 23%. The investigation will focus on potential violations of U.S. securities laws. Investors who incurred losses are encouraged to contact the firm for legal advice.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-25T22:30:19",
+      "first_seen_at": "2026-08-26T00:00:03.291982",
+      "assets": [
+        {
+          "symbol": "HON",
+          "asset_class": null,
+          "relevance_score": 0.901902,
+          "sentiment_score": -0.427697,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HONAV",
+          "asset_class": null,
+          "relevance_score": 0.322396,
+          "sentiment_score": 0.01726,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948311
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.833535
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.709348
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.601938
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 479,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "Honeywell Aerospace faces securities law probe after Q2 earnings miss and stock plunge.",
+          "url": "https://pluang.com/en/news-feed/penyelidikan-terhadap-honeywell-aerospace-inc-hona",
+          "published_at": "2026-08-25T22:30:19"
+        }
+      ]
+    },
+    {
+      "event_id": 458,
+      "title": "INTU Stock Is Tumbling Despite Earnings Beat — Weak 2027 Guidance Is Weighing On Intuit Shares",
+      "summary": "Intuit (INTU) shares dropped over 11% despite beating fiscal Q4 earnings and revenue estimates. The decline was primarily due to weaker-than-expected guidance for fiscal 2027 and Q1, with both adjusted EPS and revenue forecasts falling significantly below analyst expectations. Retail traders on Stocktwits were divided, with some viewing the sell-off as a buying opportunity and others seeing it as a sign of deeper issues.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-25T22:23:17",
+      "first_seen_at": "2026-08-26T00:00:03.555294",
+      "assets": [
+        {
+          "symbol": "INTU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.400076,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.942765
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839975
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 480,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "INTU Stock Is Tumbling Despite Earnings Beat — Weak 2027 Guidance Is Weighing On Intuit Shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intu-stock-tumbling-despite-earnings-222255798.html",
+          "published_at": "2026-08-25T22:23:17"
+        }
+      ]
+    },
+    {
       "event_id": 453,
       "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
       "summary": "Expion360 Inc. has changed its corporate name to Expion Energy, Inc. and is entering the oil and gas sector with the acquisition of an exploration opportunity in Eastern Louisiana for $3.4 million. Kevin Sellers has been appointed as the new CEO. The company, previously known for lithium iron phosphate batteries, will now commit up to $4 million for a leasing program and is required to drill a new lateral wellbore by February 15, 2027.",
@@ -20,7 +228,7 @@
           "symbol": "XPON",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.388618,
+          "sentiment_score": 0.423595,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +236,11 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.901756
+          "relevance_score": 0.905969
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.806737
+          "relevance_score": 0.819539
         },
         {
           "topic": "financial_markets",
@@ -48,6 +256,69 @@
           "headline": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
           "url": "https://au.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4613706",
           "published_at": "2026-08-25T22:11:48"
+        }
+      ]
+    },
+    {
+      "event_id": 460,
+      "title": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
+      "summary": "Walmart (WMT) recently reported Q2 results that disappointed investors, leading to a significant stock tumble. Despite its strong defensive position, Walmart's valuation is now considered richer than Nvidia's by some metrics, raising questions about its growth prospects. The company's smallest sales gain in six years and a cautious Q3 outlook are putting pressure on its premium valuation.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-25T21:42:35",
+      "first_seen_at": "2026-08-26T00:00:03.992037",
+      "assets": [
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 0.994652,
+          "sentiment_score": -0.346415,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.739463,
+          "sentiment_score": 0.104869,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947286
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.841577
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.718133
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.641873
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.614479
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 482,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Barchart.com",
+          "source_domain": "Barchart.com",
+          "headline": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
+          "url": "https://www.barchart.com/story/news/4037283/walmart-stock-is-more-expensive-than-nvidia-amid-earnings-miss",
+          "published_at": "2026-08-25T21:42:35"
         }
       ]
     },
@@ -787,301 +1058,6 @@
           "headline": "High Aircraft Fuel Costs Continue to Impact JetBlue’s Credit Health",
           "url": "https://www.barchart.com/story/news/4027204/high-aircraft-fuel-costs-continue-to-impact-jetblues-credit-health",
           "published_at": "2026-08-25T17:10:57"
-        }
-      ]
-    },
-    {
-      "event_id": 443,
-      "title": "Consumer debt hits record $2.6 trillion as more Canadians fall behind on payments",
-      "summary": "Total consumer debt in Canada has reached a record high of over $2.6 trillion in the second quarter of 2026, with more Canadians falling behind on payments. While the credit market remains healthy, data from Equifax and TransUnion indicate increasingly divergent financial realities, with some households expanding borrowing from strength and others relying on credit for daily expenses. Delinquencies are rising, particularly in Alberta, Saskatchewan, and Ontario, and though mortgage delinquency rates are low nationally, there are signs of stress in higher-cost housing markets.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-25T17:05:58",
-      "first_seen_at": "2026-08-25T19:00:04.036685",
-      "assets": [
-        {
-          "symbol": "EFX",
-          "asset_class": null,
-          "relevance_score": 0.975038,
-          "sentiment_score": -0.11259,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COF",
-          "asset_class": null,
-          "relevance_score": 0.635516,
-          "sentiment_score": -0.175458,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.589476,
-          "sentiment_score": -0.156664,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.908027
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 465,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Consumer debt hits record $2.6 trillion as more Canadians fall behind on payments",
-          "url": "https://ca.finance.yahoo.com/news/consumer-debt-hits-record-2-170530883.html",
-          "published_at": "2026-08-25T17:05:58"
-        }
-      ]
-    },
-    {
-      "event_id": 438,
-      "title": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook",
-      "summary": "Alphabet Inc. (GOOG) reported a strong Q2 2026 earnings beat, with revenue up 24.2% year-over-year and Google Cloud revenue soaring by 82%. The company's significant investment in AI infrastructure, including its Gemini platform, has led to increased operating income but also resulted in negative free cash flow due to substantial capital expenditures. Institutional investors like Berkshire Hathaway have shown confidence in Alphabet, even as the stock trades below its May 2026 high, indicating a balance between growth potential and investment costs.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-25T16:45:08",
-      "first_seen_at": "2026-08-25T18:00:02.064564",
-      "assets": [
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.456869,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.880069,
-          "sentiment_score": 0.40874,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.925872
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.825385
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.82484
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620823
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.612247
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 459,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-stock-holds-strong-as-q2-cloud-growth-and-ai-demand-reshape-the/70000478",
-          "published_at": "2026-08-25T16:45:08"
-        }
-      ]
-    },
-    {
-      "event_id": 436,
-      "title": "Here's Why Investors Should Add J.B. Hunt Stock to Their Portfolio",
-      "summary": "J.B. Hunt Transportation (JBHT) is presented as an attractive investment due to its strong performance, outperforming the transportation-truck industry with an 80% surge in shares over the past year. The company holds a Zacks Rank #2 (Buy), has seen northward estimate revisions for its earnings, and boasts a positive earnings surprise history. Additionally, its efforts toward efficient transportation solutions, disciplined capital allocation, and shareholder-friendly initiatives are highlighted as growth factors.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-25T15:33:39",
-      "first_seen_at": "2026-08-25T17:00:02.417495",
-      "assets": [
-        {
-          "symbol": "JBHT",
-          "asset_class": null,
-          "relevance_score": 0.907118,
-          "sentiment_score": 0.732573,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EXPD",
-          "asset_class": null,
-          "relevance_score": 0.644028,
-          "sentiment_score": 0.601396,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.909239
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.90852
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811551
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.613874
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 457,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "Here's Why Investors Should Add J.B. Hunt Stock to Their Portfolio",
-          "url": "https://sg.finance.yahoo.com/news/heres-why-investors-add-j-153400137.html",
-          "published_at": "2026-08-25T15:33:39"
-        }
-      ]
-    },
-    {
-      "event_id": 437,
-      "title": "IDEX stock holds firm after July 29 earnings beat",
-      "summary": "IDEX Corporation's stock remained firm after reporting a Q2 earnings beat on July 29, with quarterly EPS of $2.32 surpassing estimates and revenue reaching $920.60 million. The company's full-year 2026 EPS guidance of $8.70 to $8.85 is slightly below the analyst consensus of $8.82. Despite this, its valuation at 33.60 times earnings is supported by strong sales growth and a significant EPS beat.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-25T15:17:19",
-      "first_seen_at": "2026-08-25T17:00:02.697179",
-      "assets": [
-        {
-          "symbol": "IEX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.492708,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.810058
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.703014
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.641829
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.632602
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 458,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "IDEX stock holds firm after July 29 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idex-stock-holds-firm-after-july-29-earnings-beat/70000068",
-          "published_at": "2026-08-25T15:17:19"
-        }
-      ]
-    },
-    {
-      "event_id": 434,
-      "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
-      "summary": "This article compares two leading heavy equipment stocks, Caterpillar (CAT) and Deere & Company (DE), highlighting their recent financial performance, growth drivers, and market outlooks. Caterpillar shows stronger growth, an upgraded outlook, and a higher Zacks Rank due to its diverse market exposure and robust backlog. While Deere has long-term potential in precision agriculture, near-term challenges in farm economics may limit its upside.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-25T13:50:31",
-      "first_seen_at": "2026-08-25T15:00:03.182779",
-      "assets": [
-        {
-          "symbol": "CAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.473624,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 0.930081,
-          "sentiment_score": 0.217373,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931903
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839521
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.722759
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.710673
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.636007
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 455,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On?",
-          "url": "https://sg.finance.yahoo.com/news/caterpillar-vs-deere-heavy-equipment-135000642.html",
-          "published_at": "2026-08-25T13:50:31"
         }
       ]
     }
