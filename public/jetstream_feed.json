@@ -20,7 +20,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.396961,
+          "sentiment_score": 0.383263,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -84,7 +84,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.279305,
+          "sentiment_score": 0.29749,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -96,7 +96,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.904997
+          "relevance_score": 0.941408
         },
         {
           "topic": "economy_macro",
@@ -131,39 +131,39 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.343895,
+          "sentiment_score": 0.349622,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BLK",
           "asset_class": null,
-          "relevance_score": 0.701843,
-          "sentiment_score": 0.219189,
+          "relevance_score": 0.730978,
+          "sentiment_score": 0.223378,
           "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.620421,
-          "sentiment_score": 0.134972,
-          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
-          "relevance_score": 0.616505,
-          "sentiment_score": 0.119907,
+          "relevance_score": 0.641984,
+          "sentiment_score": 0.127561,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "L",
           "asset_class": null,
-          "relevance_score": 0.600357,
-          "sentiment_score": 0.14856,
+          "relevance_score": 0.63232,
+          "sentiment_score": 0.121053,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.626799,
+          "sentiment_score": 0.124005,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -179,7 +179,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.804932
+          "relevance_score": 0.816555
         },
         {
           "topic": "finance",
@@ -187,7 +187,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.62748
+          "relevance_score": 0.63443
         }
       ],
       "articles": [
@@ -218,7 +218,7 @@
           "symbol": "CINF",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.1163,
+          "sentiment_score": 0.148316,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -226,7 +226,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.620739,
-          "sentiment_score": 0.128549,
+          "sentiment_score": 0.103071,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -234,15 +234,15 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.927753
+          "relevance_score": 0.943305
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.846925
+          "relevance_score": 0.848042
         },
         {
           "topic": "finance",
-          "relevance_score": 0.814131
+          "relevance_score": 0.820222
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -286,7 +286,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.448662,
+          "sentiment_score": 0.435533,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -294,7 +294,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.911868
+          "relevance_score": 0.937488
         },
         {
           "topic": "earnings",
@@ -310,7 +310,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.624442
+          "relevance_score": 0.636151
         }
       ],
       "articles": [
@@ -341,7 +341,7 @@
           "symbol": "MCK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.412917,
+          "sentiment_score": 0.408985,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -388,7 +388,7 @@
           "symbol": "AME",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.451481,
+          "sentiment_score": 0.484701,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -400,15 +400,15 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.929096
+          "relevance_score": 0.935702
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.828775
+          "relevance_score": 0.829021
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.709154
+          "relevance_score": 0.734965
         }
       ],
       "articles": [
