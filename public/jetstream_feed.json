@@ -5,6 +5,89 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 557,
+      "title": "Americans of All Incomes Head to Dollar Stores to Stay Frugal",
+      "summary": "Dollar General and Dollar Tree have reported significant sales gains and increased store traffic, driven by shoppers seeking value amidst economic uncertainty and higher gas prices. Both companies noted that while their core customers remain financially constrained, higher-income shoppers are also increasingly visiting their stores, highlighting a broader shift towards frugality. This trend comes as other major retailers like Walmart and Target are also focusing on price reductions to attract cost-conscious consumers.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-27T18:42:19",
+      "first_seen_at": "2026-08-27T22:00:02.348704",
+      "assets": [
+        {
+          "symbol": "DLTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.430526,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DG",
+          "asset_class": null,
+          "relevance_score": 0.937477,
+          "sentiment_score": 0.341738,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 0.74508,
+          "sentiment_score": 0.106862,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 0.629884,
+          "sentiment_score": 0.107963,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TGT",
+          "asset_class": null,
+          "relevance_score": 0.614988,
+          "sentiment_score": 0.112951,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900242
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.828284
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.707352
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 599,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The New York Times",
+          "source_domain": "The New York Times",
+          "headline": "Americans of All Incomes Head to Dollar Stores to Stay Frugal",
+          "url": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
+          "published_at": "2026-08-27T18:42:19"
+        }
+      ]
+    },
+    {
       "event_id": 533,
       "title": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
       "summary": "Alphabet Class C stock trades in the high $330s as of late August 2026, demonstrating resilience despite negative free cash flow from aggressive AI infrastructure investments. The company reported strong Q2 2026 earnings, with revenue up 24.23% and Google Cloud revenue surging 82%, alongside an expansion in cloud operating margin. While facing a $692 billion market value reduction due to AI execution risk concerns, Alphabet has initiated a dividend and authorized an $85 billion stock issuance to finance future growth.",
@@ -20,7 +103,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.288714,
+          "sentiment_score": 0.264936,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +119,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.717286
+          "relevance_score": 0.735252
         }
       ],
       "articles": [
@@ -48,6 +131,65 @@
           "headline": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-alphabet-c-stock-weathers-heavy-ai-capex-after-q2-2026-earnings/70009954",
           "published_at": "2026-08-27T16:54:13"
+        }
+      ]
+    },
+    {
+      "event_id": 559,
+      "title": "Tariff refunds boost Dollar Tree earnings; sales rise 7%",
+      "summary": "Dollar Tree Inc. reported strong second-quarter earnings, significantly boosted by tariff refunds and comparable store sales gains. The company's earnings per share reached $2.70, surpassing analyst expectations, and net sales increased by 7.0% to $4.9 billion. Dollar Tree also updated its full fiscal year 2026 guidance, projecting higher adjusted earnings per share due to the tariff refunds while maintaining sales expectations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-27T14:42:19",
+      "first_seen_at": "2026-08-27T22:00:02.952290",
+      "assets": [
+        {
+          "symbol": "DLTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.893748,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DG",
+          "asset_class": null,
+          "relevance_score": 0.672498,
+          "sentiment_score": 0.715967,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922731
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.83979
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.629204
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.6176
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 601,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Chain Store Age",
+          "source_domain": "Chain Store Age",
+          "headline": "Tariff refunds boost Dollar Tree earnings; sales rise 7%",
+          "url": "https://chainstoreage.com/tariff-refunds-boost-dollar-tree-earnings-sales-rise-7",
+          "published_at": "2026-08-27T14:42:19"
         }
       ]
     },
@@ -67,7 +209,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.066326,
+          "sentiment_score": 0.092484,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -75,7 +217,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.934279
+          "relevance_score": 0.946493
         },
         {
           "topic": "financial_markets",
@@ -118,7 +260,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.317389,
+          "sentiment_score": 0.312587,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -169,15 +311,15 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.03834,
+          "sentiment_score": 0.023406,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MGM",
           "asset_class": null,
-          "relevance_score": 0.639277,
-          "sentiment_score": 0.133916,
+          "relevance_score": 0.646819,
+          "sentiment_score": 0.112516,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -185,7 +327,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 0.626405,
-          "sentiment_score": 0.103668,
+          "sentiment_score": 0.100541,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -213,6 +355,61 @@
           "headline": "Man Group plc Acquires New Stake in Caesars Entertainment, Inc. $CZR",
           "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-stake-in-caesars-entertainment-inc-czr-2026-08-27/",
           "published_at": "2026-08-27T10:13:40"
+        }
+      ]
+    },
+    {
+      "event_id": 563,
+      "title": "Magnolia Capital Advisors LLC Purchases Shares of 5,441 Diamondback Energy, Inc. $FANG",
+      "summary": "Magnolia Capital Advisors LLC has acquired 5,441 shares of Diamondback Energy, Inc. (FANG) valued at approximately $956,000, establishing a new position in the company. Institutional investors now own 90.01% of Diamondback Energy, which holds a \"Moderate Buy\" consensus rating with an average price target of $222.21. The company recently reported strong quarterly earnings of $6.48 per share, exceeding estimates, and paid a quarterly dividend of $1.10 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-27T09:58:29",
+      "first_seen_at": "2026-08-27T22:00:04.015317",
+      "assets": [
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.475103,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.924366
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.844611
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717367
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.629455
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 605,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Magnolia Capital Advisors LLC Purchases Shares of 5,441 Diamondback Energy, Inc. $FANG",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-magnolia-capital-advisors-llc-purchases-shares-of-5441-diamondback-energy-inc-fang-2026-08-27/",
+          "published_at": "2026-08-27T09:58:29"
         }
       ]
     },
@@ -985,164 +1182,6 @@
           "headline": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
           "url": "https://simplywall.st/stocks/us/materials/nyse-son/sonoco-products/news/should-sonocos-emea-paperboard-price-hike-to-counter-inflati",
           "published_at": "2026-08-26T13:37:34"
-        }
-      ]
-    },
-    {
-      "event_id": 472,
-      "title": "Occidental Petroleum stock holds above $58 as sanctions and Hormuz talks shape oil outlook",
-      "summary": "Occidental Petroleum (OXY) stock is trading in the high-$50s, influenced by volatile oil markets due to new Iran sanctions and talks to reopen the Strait of Hormuz. While crude prices softened on Hormuz optimism, sanctions on Iranian exports could tighten global supply. Analysts maintain mid-$60s price targets, suggesting potential upside despite the recent pullback, and institutional investors continue to show confidence in the company.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-26T13:36:10",
-      "first_seen_at": "2026-08-26T15:00:02.517539",
-      "assets": [
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.012723,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932628
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811816
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 495,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Occidental Petroleum stock holds above $58 as sanctions and Hormuz talks shape oil outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/occidental-petroleum-stock-holds-above-58-as-sanctions-and-hormuz-talks/70004352",
-          "published_at": "2026-08-26T13:36:10"
-        }
-      ]
-    },
-    {
-      "event_id": 467,
-      "title": "Fort Technology acquires 50.1% stake in Logia USA",
-      "summary": "Fort Technology Inc., a majority-owned subsidiary of Nexera Technologies Ltd., has acquired a 50.1% stake in Logia USA Inc. for approximately $125,000 in newly-issued common shares. The acquisition aims to expand Logia Israel Ltd's fuel integrity solutions for data centers into the U.S. market, supported by a $2.0 million credit facility. This strategic move aligns with Fort Technology's broader plans to expand its retail operations, currently focused on pest control and remedial repair products in Europe, into the United States.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-26T11:45:03",
-      "first_seen_at": "2026-08-26T13:00:03.154157",
-      "assets": [
-        {
-          "symbol": "FRTT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.511512,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.727476
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.618741
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 489,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Fort Technology acquires 50.1% stake in Logia USA",
-          "url": "https://www.investing.com/news/company-news/fort-technology-acquires-501-stake-in-logia-usa-93CH-4876934",
-          "published_at": "2026-08-26T11:45:03"
-        }
-      ]
-    },
-    {
-      "event_id": 468,
-      "title": "Fort Technology Closes Acquisition of Logia USA - Fuel Integrity Solutions for Data Centers Company",
-      "summary": "Fort Technology Inc. has completed its acquisition of 50.1% of Logia USA Inc., a company specializing in fuel integrity solutions for data centers and other critical facilities. This acquisition allows Fort Technology to expand into the US market, leveraging Logia USA's automated systems to ensure reliable backup power in the rapidly growing global data center sector. As part of the agreement, Logia USA's founder, Mr. Yair Harel, will continue as CEO and Fort Technology will provide a $2.0 million credit facility for market entry and growth.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-26T11:24:03",
-      "first_seen_at": "2026-08-26T13:00:03.436613",
-      "assets": [
-        {
-          "symbol": "FRTT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426463,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DLR",
-          "asset_class": null,
-          "relevance_score": 0.626008,
-          "sentiment_score": 0.318642,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.615414,
-          "sentiment_score": 0.106068,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.92353
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 491,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Manila Times",
-          "source_domain": "The Manila Times",
-          "headline": "Fort Technology Closes Acquisition of Logia USA - Fuel Integrity Solutions for Data Centers Company",
-          "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/globenewswire/fort-technology-closes-acquisition-of-logia-usa-fuel-integrity-solutions-for-data-centers-company/2412465",
-          "published_at": "2026-08-26T11:24:03"
-        },
-        {
-          "article_id": 490,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Nexera Technologies Subsidiary Fort Completes Acquisition of Majority Stake in Logia USA to Expand Fuel Integrity Solutions for Data Centers",
-          "url": "https://www.quiverquant.com/news/Nexera+Technologies+Subsidiary+Fort+Completes+Acquisition+of+Majority+Stake+in+Logia+USA+to+Expand+Fuel+Integrity+Solutions+for+Data+Centers",
-          "published_at": "2026-08-26T11:30:00"
         }
       ]
     }
