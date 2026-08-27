@@ -20,7 +20,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.284451,
+          "sentiment_score": 0.281079,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.701825
+          "relevance_score": 0.712901
         }
       ],
       "articles": [
@@ -67,7 +67,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.051733,
+          "sentiment_score": 0.096355,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -118,7 +118,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.336709,
+          "sentiment_score": 0.343105,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -169,7 +169,15 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.037655,
+          "sentiment_score": 0.029175,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 0.63737,
+          "sentiment_score": 0.124023,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -177,15 +185,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 0.624622,
-          "sentiment_score": 0.118045,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 0.620054,
-          "sentiment_score": 0.104087,
+          "sentiment_score": 0.102744,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -232,7 +232,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.470267,
+          "sentiment_score": 0.465541,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -296,15 +296,15 @@
           "symbol": "PPG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.323825,
+          "sentiment_score": 0.340266,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "SHW",
           "asset_class": null,
-          "relevance_score": 0.745667,
-          "sentiment_score": 0.238894,
+          "relevance_score": 0.746699,
+          "sentiment_score": 0.209107,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -355,7 +355,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.296214,
+          "sentiment_score": 0.279037,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -402,7 +402,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.442086,
+          "sentiment_score": 0.425313,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
