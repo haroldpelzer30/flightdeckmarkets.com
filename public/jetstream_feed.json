@@ -20,7 +20,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.324552,
+          "sentiment_score": 0.309744,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +28,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.912362
+          "relevance_score": 0.939872
         },
         {
           "topic": "life_sciences",
@@ -40,7 +40,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.605158
+          "relevance_score": 0.630088
         }
       ],
       "articles": [
@@ -52,6 +52,69 @@
           "headline": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
           "url": "https://www.marketbeat.com/instant-alerts/filing-stonebridge-capital-management-inc-acquires-new-stake-in-amgen-inc-amgn-2026-08-27/",
           "published_at": "2026-08-27T10:41:06"
+        }
+      ]
+    },
+    {
+      "event_id": 514,
+      "title": "Man Group plc Acquires New Stake in Caesars Entertainment, Inc. $CZR",
+      "summary": "Man Group plc initiated a new position in Caesars Entertainment, Inc. by acquiring 1.09 million shares, valued at approximately $33.0 million, representing a 0.54% stake. This comes as institutional investors and hedge funds own a significant portion of Caesars stock, while company insiders have been selling shares. Analysts generally maintain a \"Hold\" rating on Caesars Entertainment, with the company recently missing quarterly earnings expectations despite a modest revenue increase.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-27T10:13:40",
+      "first_seen_at": "2026-08-27T16:00:02.768353",
+      "assets": [
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.012877,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LVS",
+          "asset_class": null,
+          "relevance_score": 0.619049,
+          "sentiment_score": 0.116078,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 0.617614,
+          "sentiment_score": 0.104856,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932437
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.8186
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.74575
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 554,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Man Group plc Acquires New Stake in Caesars Entertainment, Inc. $CZR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-stake-in-caesars-entertainment-inc-czr-2026-08-27/",
+          "published_at": "2026-08-27T10:13:40"
         }
       ]
     },
@@ -71,7 +134,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.39651,
+          "sentiment_score": 0.455008,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -135,7 +198,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.26027,
+          "sentiment_score": 0.270207,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -182,15 +245,15 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.312564,
+          "sentiment_score": 0.322303,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BLK",
           "asset_class": null,
-          "relevance_score": 0.730978,
-          "sentiment_score": 0.248337,
+          "relevance_score": 0.747462,
+          "sentiment_score": 0.24983,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -198,7 +261,7 @@
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.641984,
-          "sentiment_score": 0.128445,
+          "sentiment_score": 0.128099,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -206,7 +269,7 @@
           "symbol": "L",
           "asset_class": null,
           "relevance_score": 0.635447,
-          "sentiment_score": 0.125764,
+          "sentiment_score": 0.115694,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -214,7 +277,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.630054,
-          "sentiment_score": 0.106388,
+          "sentiment_score": 0.118217,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -222,11 +285,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.927388
+          "relevance_score": 0.936645
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.927142
+          "relevance_score": 0.928885
         },
         {
           "topic": "energy_transportation",
@@ -269,7 +332,7 @@
           "symbol": "CINF",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.12256,
+          "sentiment_score": 0.143168,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -277,7 +340,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.649447,
-          "sentiment_score": 0.120119,
+          "sentiment_score": 0.141572,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -285,7 +348,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.943305
+          "relevance_score": 0.946503
         },
         {
           "topic": "financial_markets",
@@ -1100,57 +1163,6 @@
           "headline": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
           "url": "https://www.marketbeat.com/instant-alerts/filing-odyssean-llc-buys-new-shares-in-advanced-micro-devices-inc-amd-2026-08-26/",
           "published_at": "2026-08-26T10:55:07"
-        }
-      ]
-    },
-    {
-      "event_id": 463,
-      "title": "Man Group plc Acquires Shares of 1,475,345 Otis Worldwide Corporation $OTIS",
-      "summary": "Man Group plc acquired 1,475,345 shares of Otis Worldwide Corporation ($OTIS) in the second quarter, a new stake valued at approximately $105.6 million. Institutional investors own 88.03% of Otis, with several increasing their positions. Analysts have a mixed sentiment with a \"Hold\" consensus rating and a target price of $92.91.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-26T10:45:05",
-      "first_seen_at": "2026-08-26T12:00:03.173678",
-      "assets": [
-        {
-          "symbol": "OTIS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.137103,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.908714
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.807148
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.736658
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.612352
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 485,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Man Group plc Acquires Shares of 1,475,345 Otis Worldwide Corporation $OTIS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-shares-of-1475345-otis-worldwide-corporation-otis-2026-08-26/",
-          "published_at": "2026-08-26T10:45:05"
         }
       ]
     }
