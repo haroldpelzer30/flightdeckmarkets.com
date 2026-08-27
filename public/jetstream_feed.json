@@ -5,6 +5,452 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 486,
+      "title": "The Manufacturers Life Insurance Company Acquires New Shares in Marathon Petroleum Corporation $MPC",
+      "summary": "The Manufacturers Life Insurance Company acquired 176,990 shares of Marathon Petroleum Corporation (NYSE:MPC) worth approximately $45.3 million during the second quarter. Marathon Petroleum reported strong Q2 earnings with EPS of $17.73 and revenue up 53.5% year over year to $51.99 billion. Analysts currently rate MPC a \"Moderate Buy\" with a consensus price target of $312.50, despite recent insider stock sales totaling over $8.7 million.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-27T09:28:40",
+      "first_seen_at": "2026-08-27T12:00:02.636139",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.396961,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937577
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.844297
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.842032
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.74608
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.642174
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 510,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Ausdal Financial Partners Inc. Purchases Shares of 3,499 Marathon Petroleum Corporation $MPC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-ausdal-financial-partners-inc-purchases-shares-of-3499-marathon-petroleum-corporation-mpc-2026-08-27/",
+          "published_at": "2026-08-27T07:33:40"
+        },
+        {
+          "article_id": 509,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "The Manufacturers Life Insurance Company Acquires New Shares in Marathon Petroleum Corporation $MPC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-acquires-new-shares-in-marathon-petroleum-corporation-mpc-2026-08-27/",
+          "published_at": "2026-08-27T09:28:40"
+        }
+      ]
+    },
+    {
+      "event_id": 487,
+      "title": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
+      "summary": "The Zacks Building Products - Home Builders industry is poised for long-term growth in 2026 due to tight housing supply, steady demand, and easing mortgage rates, benefiting companies like PulteGroup, M/I Homes, and Century Communities. Despite near-term challenges such as affordability issues, high land costs, and reliance on sales incentives, the industry's structural housing shortage and favorable demographics support future demand. Builders are adapting through build-to-order models, community expansion, disciplined inventory management, and technology adoption to navigate these challenges and capitalize on growth opportunities.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-08-27T08:51:35",
+      "first_seen_at": "2026-08-27T12:00:03.016630",
+      "assets": [
+        {
+          "symbol": "PHM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.279305,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904997
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.834851
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 511,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
+          "url": "https://uk.finance.yahoo.com/news/zacks-industry-outlook-pultegroup-m-082300032.html",
+          "published_at": "2026-08-27T08:51:35"
+        }
+      ]
+    },
+    {
+      "event_id": 488,
+      "title": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
+      "summary": "The Canada Pension Plan Investment Board has made a new investment of $130.77 million in Marathon Petroleum Corporation, acquiring 511,495 shares. This move makes the board a significant institutional holder, owning 0.18% of the company's stock. Other major institutional investors have also adjusted their stakes in Marathon Petroleum, alongside recent insider selling activity and updated analyst price targets for the company.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-27T08:33:40",
+      "first_seen_at": "2026-08-27T12:00:03.338023",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.343895,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.701843,
+          "sentiment_score": 0.219189,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.620421,
+          "sentiment_score": 0.134972,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.616505,
+          "sentiment_score": 0.119907,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "L",
+          "asset_class": null,
+          "relevance_score": 0.600357,
+          "sentiment_score": 0.14856,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927388
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.927142
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.804932
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.744233
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.62748
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 512,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-makes-new-13077-million-investment-in-marathon-petroleum-corporation-mpc-2026-08-27/",
+          "published_at": "2026-08-27T08:33:40"
+        }
+      ]
+    },
+    {
+      "event_id": 489,
+      "title": "Cibc World Market Inc. Acquires Shares of 16,785 Cincinnati Financial Corporation $CINF",
+      "summary": "Cibc World Market Inc. recently acquired 16,785 shares of Cincinnati Financial Corporation (NASDAQ:CINF) valued at $3.1 million in the second quarter. Institutional investors now own 65.24% of the company's stock, and analysts maintain a \"Moderate Buy\" consensus rating despite recent price target adjustments. Cincinnati Financial reported Q2 earnings of $1.43 per share, missing estimates, and announced a quarterly dividend of $0.94, representing a 2.2% annualized yield.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-27T08:26:11",
+      "first_seen_at": "2026-08-27T12:00:03.671499",
+      "assets": [
+        {
+          "symbol": "CINF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.1163,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.620739,
+          "sentiment_score": 0.128549,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927753
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.846925
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.814131
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.645936
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 514,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Cibc World Market Inc. Acquires Shares of 16,785 Cincinnati Financial Corporation $CINF",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-cibc-world-market-inc-acquires-shares-of-16785-cincinnati-financial-corporation-cinf-2026-08-27/",
+          "published_at": "2026-08-27T08:26:11"
+        },
+        {
+          "article_id": 513,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Bank of Nova Scotia Buys Shares of 16,324 Cincinnati Financial Corporation $CINF",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-nova-scotia-buys-shares-of-16324-cincinnati-financial-corporation-cinf-2026-08-27/",
+          "published_at": "2026-08-27T08:26:12"
+        }
+      ]
+    },
+    {
+      "event_id": 490,
+      "title": "8,918 Shares in Marathon Petroleum Corporation $MPC Bought by Ancora Advisors LLC",
+      "summary": "Ancora Advisors LLC purchased a new position of 8,918 shares in Marathon Petroleum Corporation (NYSE:MPC) during the second quarter, valued at approximately $2.28 million. This comes as other institutional investors have also adjusted their holdings in MPC. Marathon Petroleum recently announced a quarterly dividend of $1.00 per share, payable on September 10th.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-27T07:33:40",
+      "first_seen_at": "2026-08-27T12:00:03.985414",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.448662,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.911868
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909833
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83091
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.744428
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.624442
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 515,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "8,918 Shares in Marathon Petroleum Corporation $MPC Bought by Ancora Advisors LLC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-8918-shares-in-marathon-petroleum-corporation-mpc-bought-by-ancora-advisors-llc-2026-08-27/",
+          "published_at": "2026-08-27T07:33:40"
+        }
+      ]
+    },
+    {
+      "event_id": 492,
+      "title": "McKesson Acquires Precision Medicine Group",
+      "summary": "McKesson has signed a definitive agreement to acquire Precision Medicine Group for approximately $2.25 billion in an all-cash transaction. This acquisition aims to strengthen McKesson's oncology and multispecialty strategy by enhancing its clinical research and commercialization services. Precision Medicine Group provides integrated services and technology-enabled products supporting drug development and commercialization for biotechnology and pharmaceutical companies.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-26T21:16:04",
+      "first_seen_at": "2026-08-27T12:00:04.620295",
+      "assets": [
+        {
+          "symbol": "MCK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.412917,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.743911
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 520,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BioXconomy",
+          "source_domain": "BioXconomy",
+          "headline": "McKesson Acquires Precision Medicine Group",
+          "url": "https://www.bioxconomy.com/access-and-channel/mckesson-to-acquire-precision-medicine-group-for-225b-to-boost-oncology-clinical-research-services",
+          "published_at": "2026-08-26T21:16:04"
+        }
+      ]
+    },
+    {
+      "event_id": 491,
+      "title": "AMETEK Completes $5 Billion Acquisition of Indicor Instrumentation",
+      "summary": "AMETEK has finalized its $5 billion cash acquisition of Indicor Instrumentation, aiming to significantly enhance its market position and integrate Indicor's businesses into its Electronic Instruments Group and Electromechanical Group. This acquisition is expected to contribute approximately $350 million to AMETEK's sales in 2026 and strengthen its presence in attractive niche markets. The strategic move aligns with AMETEK's growth strategies and leverages its operational model for increased efficiency and value creation.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-08-26T21:07:59",
+      "first_seen_at": "2026-08-27T12:00:04.228633",
+      "assets": [
+        {
+          "symbol": "AME",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.451481,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929096
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828775
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.709154
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 517,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "AMETEK completes $5 billion Indicor Instrumentation acquisition",
+          "url": "https://www.investing.com/news/company-news/ametek-completes-5-billion-indicor-instrumentation-acquisition-93CH-4877910",
+          "published_at": "2026-08-26T21:07:59"
+        },
+        {
+          "article_id": 518,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "AMETEK completes $5.0B acquisition of Indicor Instrumentation",
+          "url": "https://www.tradingview.com/news/tradingview:3ef54a4b1ea82:0-ametek-completes-5-0b-acquisition-of-indicor-instrumentation/",
+          "published_at": "2026-08-26T21:07:59"
+        },
+        {
+          "article_id": 519,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Intellectia AI",
+          "source_domain": "Intellectia AI",
+          "headline": "AMETEK Completes $5 Billion Acquisition of Indicor Instrumentation",
+          "url": "https://intellectia.ai/news/stock/ametek-completes-5-billion-acquisition-of-indicor-instrumentation",
+          "published_at": "2026-08-26T21:07:59"
+        },
+        {
+          "article_id": 516,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "AMETEK completes $5B acquisition of Indicor Instrumentation, boosting 2026 sales and earnings.",
+          "url": "https://pluang.com/en/news-feed/ametek-selesaikan-akuisisi-indicor-instrumentation",
+          "published_at": "2026-08-26T23:07:59"
+        }
+      ]
+    },
+    {
       "event_id": 475,
       "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
       "summary": "Morgan Stanley predicts a significant increase in dividends from Thai refiners, expecting them to rise three times in 2026. This is attributed to companies distributing excess profits after reducing debt and a positive outlook on the durability of the refining cycle. The bank anticipates stronger cash generation due to sustained high annual refining margins and improving balance sheets.",
@@ -705,403 +1151,6 @@
           "headline": "Man Group plc Acquires New Shares in VICI Properties Inc. $VICI",
           "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-shares-in-vici-properties-inc-vici-2026-08-26/",
           "published_at": "2026-08-26T10:37:32"
-        }
-      ]
-    },
-    {
-      "event_id": 465,
-      "title": "Man Group plc Acquires Shares of 187,497 Cummins Inc. $CMI",
-      "summary": "Man Group plc has acquired a new stake of 187,497 shares in Cummins Inc. (NYSE:CMI), valued at approximately $133.7 million, according to its latest 13F filing. Other institutional investors have also adjusted their holdings in Cummins. The company recently reported its quarterly earnings, missing analyst estimates, but also declared an increased quarterly dividend of $2.20 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-26T10:37:31",
-      "first_seen_at": "2026-08-26T12:00:03.638351",
-      "assets": [
-        {
-          "symbol": "CMI",
-          "asset_class": null,
-          "relevance_score": 0.979059,
-          "sentiment_score": 0.257678,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GNRC",
-          "asset_class": null,
-          "relevance_score": 0.618317,
-          "sentiment_score": 0.147333,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.61053,
-          "sentiment_score": 0.130855,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.579877,
-          "sentiment_score": 0.115356,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92655
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.828881
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.727758
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.710121
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.612318
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 487,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Man Group plc Acquires Shares of 187,497 Cummins Inc. $CMI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-shares-of-187497-cummins-inc-cmi-2026-08-26/",
-          "published_at": "2026-08-26T10:37:31"
-        }
-      ]
-    },
-    {
-      "event_id": 466,
-      "title": "Prediction market traders all but rule out an Nvidia earnings miss",
-      "summary": "Prediction market traders on Polymarket are placing a 97% probability on Nvidia beating Wall Street's profit forecasts for its upcoming earnings report. Despite this confidence, Nvidia's stock recently snapped a seven-day losing streak, highlighting investor sensitivity. The market is also keenly focused on the company's guidance for the next quarter, particularly regarding new accelerator platforms and customer purchasing behavior amidst concerns about AI infrastructure returns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-26T10:35:57",
-      "first_seen_at": "2026-08-26T12:00:03.915980",
-      "assets": [
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421535,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.634215,
-          "sentiment_score": 0.138349,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.60142,
-          "sentiment_score": 0.136221,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922065
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.825377
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.726067
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 488,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Prediction market traders all but rule out an Nvidia earnings miss",
-          "url": "https://ca.finance.yahoo.com/news/prediction-market-traders-rule-nvidia-103600817.html",
-          "published_at": "2026-08-26T10:35:57"
-        }
-      ]
-    },
-    {
-      "event_id": 455,
-      "title": "Community West Bancshares director Lokey acquires $1,405 common stock By Investing.com",
-      "summary": "James W. Lokey, a director at Community West Bancshares (NASDAQ:CWBC), recently acquired 54.23 shares of common stock totaling $1,405 through dividend reinvestment. This transaction increases his direct holdings to 15,228.902 shares. The company's stock has seen a significant increase year-to-date and over the past year, and it is considered slightly undervalued according to InvestingPro analysis, with D.A. Davidson maintaining a Buy rating despite recent merger-related adjustments.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-25T23:11:14",
-      "first_seen_at": "2026-08-26T00:00:02.712051",
-      "assets": [
-        {
-          "symbol": "CWBC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.348384,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938543
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.82432
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.721213
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 477,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Community West Bancshares director Lokey acquires $1,405 common stock By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/community-west-bancshares-director-lokey-acquires-1405-common-stock-93CH-2672774",
-          "published_at": "2026-08-25T23:11:14"
-        }
-      ]
-    },
-    {
-      "event_id": 456,
-      "title": "Best-Performing Leveraged ETFs of Last Week",
-      "summary": "Last week saw a mixed performance on Wall Street, with initial declines due to AI bubble fears, followed by a strong finish after Federal Reserve Chair Jerome Powell hinted at a potential September rate cut. This news led to a rally in markets, with the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all experiencing gains. The article highlights several leveraged ETFs that performed well, benefiting from these market movements, including those tied to cryptocurrency, inverse AI stocks, regional banks, and cannabis.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-08-25T22:41:32",
-      "first_seen_at": "2026-08-26T00:00:03.009118",
-      "assets": [
-        {
-          "symbol": "RIOX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.403666,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PLTR",
-          "asset_class": null,
-          "relevance_score": 0.638756,
-          "sentiment_score": -0.244897,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.939753
-        },
-        {
-          "topic": "blockchain",
-          "relevance_score": 0.842122
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.742976
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 478,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "Best-Performing Leveraged ETFs of Last Week",
-          "url": "https://www.tradingview.com/news/zacks:411802629094b:0-best-performing-leveraged-etfs-of-last-week/",
-          "published_at": "2026-08-25T22:41:32"
-        }
-      ]
-    },
-    {
-      "event_id": 457,
-      "title": "Honeywell Aerospace faces securities law probe after Q2 earnings miss and stock plunge.",
-      "summary": "Honeywell Aerospace is facing a securities law probe by Robbins Geller Rudman & Dowd LLP after reporting a 32% drop in adjusted earnings per share for Q2 2026 and lowering its organic growth forecast, leading to a stock price fall of over 23%. The investigation will focus on potential violations of U.S. securities laws. Investors who incurred losses are encouraged to contact the firm for legal advice.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-25T22:30:19",
-      "first_seen_at": "2026-08-26T00:00:03.291982",
-      "assets": [
-        {
-          "symbol": "HON",
-          "asset_class": null,
-          "relevance_score": 0.901902,
-          "sentiment_score": -0.427697,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HONAV",
-          "asset_class": null,
-          "relevance_score": 0.322396,
-          "sentiment_score": 0.01726,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948311
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.833535
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.709348
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.601938
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 479,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "Honeywell Aerospace faces securities law probe after Q2 earnings miss and stock plunge.",
-          "url": "https://pluang.com/en/news-feed/penyelidikan-terhadap-honeywell-aerospace-inc-hona",
-          "published_at": "2026-08-25T22:30:19"
-        }
-      ]
-    },
-    {
-      "event_id": 458,
-      "title": "INTU Stock Is Tumbling Despite Earnings Beat — Weak 2027 Guidance Is Weighing On Intuit Shares",
-      "summary": "Intuit (INTU) shares dropped over 11% despite beating fiscal Q4 earnings and revenue estimates. The decline was primarily due to weaker-than-expected guidance for fiscal 2027 and Q1, with both adjusted EPS and revenue forecasts falling significantly below analyst expectations. Retail traders on Stocktwits were divided, with some viewing the sell-off as a buying opportunity and others seeing it as a sign of deeper issues.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-25T22:23:17",
-      "first_seen_at": "2026-08-26T00:00:03.555294",
-      "assets": [
-        {
-          "symbol": "INTU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.400076,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.942765
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839975
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 480,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "INTU Stock Is Tumbling Despite Earnings Beat — Weak 2027 Guidance Is Weighing On Intuit Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intu-stock-tumbling-despite-earnings-222255798.html",
-          "published_at": "2026-08-25T22:23:17"
-        }
-      ]
-    },
-    {
-      "event_id": 453,
-      "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
-      "summary": "Expion360 Inc. has changed its corporate name to Expion Energy, Inc. and is entering the oil and gas sector with the acquisition of an exploration opportunity in Eastern Louisiana for $3.4 million. Kevin Sellers has been appointed as the new CEO. The company, previously known for lithium iron phosphate batteries, will now commit up to $4 million for a leasing program and is required to drill a new lateral wellbore by February 15, 2027.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-25T22:11:48",
-      "first_seen_at": "2026-08-25T23:00:01.970012",
-      "assets": [
-        {
-          "symbol": "XPON",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.423595,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.905969
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.819539
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.74881
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 475,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Australia",
-          "source_domain": "Investing.com Australia",
-          "headline": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
-          "url": "https://au.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4613706",
-          "published_at": "2026-08-25T22:11:48"
         }
       ]
     }
