@@ -20,7 +20,7 @@
           "symbol": "DLTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.430526,
+          "sentiment_score": 0.446621,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "DG",
           "asset_class": null,
           "relevance_score": 0.937477,
-          "sentiment_score": 0.341738,
+          "sentiment_score": 0.314814,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,23 +36,23 @@
           "symbol": "WMT",
           "asset_class": null,
           "relevance_score": 0.74508,
-          "sentiment_score": 0.106862,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HD",
-          "asset_class": null,
-          "relevance_score": 0.629884,
-          "sentiment_score": 0.107963,
+          "sentiment_score": 0.114116,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "TGT",
           "asset_class": null,
-          "relevance_score": 0.614988,
-          "sentiment_score": 0.112951,
+          "relevance_score": 0.644064,
+          "sentiment_score": 0.129507,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 0.643276,
+          "sentiment_score": 0.146329,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -64,7 +64,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.900242
+          "relevance_score": 0.915656
         },
         {
           "topic": "economy_monetary",
@@ -72,7 +72,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.707352
+          "relevance_score": 0.742609
         }
       ],
       "articles": [
@@ -103,7 +103,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.264936,
+          "sentiment_score": 0.293535,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -119,7 +119,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.735252
+          "relevance_score": 0.742719
         }
       ],
       "articles": [
@@ -131,6 +131,73 @@
           "headline": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-alphabet-c-stock-weathers-heavy-ai-capex-after-q2-2026-earnings/70009954",
           "published_at": "2026-08-27T16:54:13"
+        }
+      ]
+    },
+    {
+      "event_id": 566,
+      "title": "Will Southwest’s New Premium Perks and Bag Fees Change Southwest Airlines' (LUV) Narrative?",
+      "summary": "Southwest Airlines is introducing premium services like extra legroom, preferred seating, and new checked bag fees to boost profitability and potentially restore historical returns. This strategic shift aims to improve pricing without compromising its value reputation, with an estimated earnings power of US$6.00 per share. The success of these initiatives hinges on customer reaction and effective execution amidst demand uncertainty and cost pressures.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-27T16:03:08",
+      "first_seen_at": "2026-08-27T23:00:02.945677",
+      "assets": [
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.26571,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.725131,
+          "sentiment_score": 0.039456,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 0.63907,
+          "sentiment_score": 0.135285,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.946242
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.91666
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.834299
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.601075
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 608,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Will Southwest’s New Premium Perks and Bag Fees Change Southwest Airlines' (LUV) Narrative?",
+          "url": "https://simplywall.st/stocks/us/transportation/nyse-luv/southwest-airlines/news/will-southwests-new-premium-perks-and-bag-fees-change-southw",
+          "published_at": "2026-08-27T16:03:08"
         }
       ]
     },
@@ -150,15 +217,15 @@
           "symbol": "DLTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.893748,
+          "sentiment_score": 0.89791,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DG",
           "asset_class": null,
-          "relevance_score": 0.672498,
-          "sentiment_score": 0.715967,
+          "relevance_score": 0.68331,
+          "sentiment_score": 0.722306,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -166,7 +233,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.922731
+          "relevance_score": 0.934904
         },
         {
           "topic": "retail_wholesale",
@@ -194,6 +261,53 @@
       ]
     },
     {
+      "event_id": 568,
+      "title": "ADP stock holds firm after a July 29 earnings beat.",
+      "summary": "Automatic Data Processing (ADP) stock remained firm at $281.39 after its July 29, 2026, earnings beat, reporting $5.47 billion in revenue and $2.64 EPS, surpassing estimates. The company showed 6.8% year-over-year revenue growth and a strong 20.11% net margin, with forward guidance for FY 2027 EPS ranging from $12.12 to $12.34. ADP's core business of payroll and human capital management continues to drive its $111.79 billion market value.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-27T12:16:00",
+      "first_seen_at": "2026-08-27T23:00:03.495855",
+      "assets": [
+        {
+          "symbol": "ADP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.705824,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921494
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.734007
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.625363
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 610,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "ADP stock holds firm after a July 29 earnings beat.",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/adp-stock-holds-firm-after-a-july-29-earnings-beat/70008056",
+          "published_at": "2026-08-27T12:16:00"
+        }
+      ]
+    },
+    {
       "event_id": 525,
       "title": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
       "summary": "Palo Duro Investment Partners LP has acquired 663,389 shares of Enphase Energy, Inc. (NASDAQ:ENPH), valued at approximately $32.7 million, making it 6.3% of their portfolio. Institutional ownership of Enphase remains high at 72.12%, with other major investors also modifying their holdings. Despite reporting earnings per share slightly below estimates, Enphase's revenue exceeded forecasts, and analysts maintain a consensus \"Hold\" rating with an average price target of $45.79.",
@@ -209,7 +323,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.092484,
+          "sentiment_score": 0.092133,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -260,7 +374,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.312587,
+          "sentiment_score": 0.32749,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -311,7 +425,7 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.023406,
+          "sentiment_score": 0.005337,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -319,7 +433,7 @@
           "symbol": "MGM",
           "asset_class": null,
           "relevance_score": 0.646819,
-          "sentiment_score": 0.112516,
+          "sentiment_score": 0.127451,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -327,7 +441,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 0.626405,
-          "sentiment_score": 0.100541,
+          "sentiment_score": 0.140866,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -339,7 +453,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.836816
+          "relevance_score": 0.843163
         },
         {
           "topic": "finance",
@@ -1060,128 +1174,6 @@
           "headline": "Duke Energy stock holds steady as nuclear and data-center plans shape outlook",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/duke-energy-stock-holds-steady-as-nuclear-and-data-center-plans-shape/70004809",
           "published_at": "2026-08-26T15:20:44"
-        }
-      ]
-    },
-    {
-      "event_id": 473,
-      "title": "Exxon Mobil stock holds in the low $160s as Guyana output and dividend strength shape the outlook",
-      "summary": "Exxon Mobil stock is trading in the low $160s, supported by strong Q2 2026 earnings of $14.5 billion and operating cash flow of $23.6 billion. The company's investment appeal is strengthened by its growing free cash flow from Guyana, which reached 900,000 barrels per day in Q2 2026 and has recovered $55 billion in investment, alongside a 43-year track record of dividend increases. Despite recent oil price volatility, analysts maintain a \"Hold\" rating with an average target price of $166.10, recognizing the stock's year-to-date gain of 36.15%.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-26T14:19:34",
-      "first_seen_at": "2026-08-26T16:00:03.398199",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.499684,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.604749,
-          "sentiment_score": 0.147738,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.577926,
-          "sentiment_score": 0.124838,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947804
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.906273
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.830628
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 496,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Exxon Mobil stock holds in the low $160s as Guyana output and dividend strength shape the outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-holds-in-the-low-160s-as-guyana-output-and-dividend/70004554",
-          "published_at": "2026-08-26T14:19:34"
-        }
-      ]
-    },
-    {
-      "event_id": 471,
-      "title": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
-      "summary": "Sonoco Products Company has raised prices by €60 per ton on uncoated recycled paperboard in the EMEA region starting September 15, 2026, to combat inflationary pressures. This strategic move aims to offset higher input costs, impacting customer relationships and margin resilience in a key European market. Investors will be monitoring how this price hike affects Sonoco's margins and sales volumes, especially given existing concerns about softer European demand and integration efforts.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 67,
-      "published_at": "2026-08-26T13:37:34",
-      "first_seen_at": "2026-08-26T15:00:02.185749",
-      "assets": [
-        {
-          "symbol": "SON",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.12925,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMCR",
-          "asset_class": null,
-          "relevance_score": 0.5654,
-          "sentiment_score": 0.0147,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.902249
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.843058
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.726617
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.634381
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 494,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Should Sonoco’s EMEA Paperboard Price Hike to Counter Inflation Require Action From Sonoco (SON) Investors?",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-son/sonoco-products/news/should-sonocos-emea-paperboard-price-hike-to-counter-inflati",
-          "published_at": "2026-08-26T13:37:34"
         }
       ]
     }
