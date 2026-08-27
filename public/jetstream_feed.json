@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 533,
+      "title": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
+      "summary": "Alphabet Class C stock trades in the high $330s as of late August 2026, demonstrating resilience despite negative free cash flow from aggressive AI infrastructure investments. The company reported strong Q2 2026 earnings, with revenue up 24.23% and Google Cloud revenue surging 82%, alongside an expansion in cloud operating margin. While facing a $692 billion market value reduction due to AI execution risk concerns, Alphabet has initiated a dividend and authorized an $85 billion stock issuance to finance future growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-27T16:54:13",
+      "first_seen_at": "2026-08-27T19:00:03.866718",
+      "assets": [
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.284451,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.915465
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.835103
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.701825
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 575,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-alphabet-c-stock-weathers-heavy-ai-capex-after-q2-2026-earnings/70009954",
+          "published_at": "2026-08-27T16:54:13"
+        }
+      ]
+    },
+    {
       "event_id": 525,
       "title": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
       "summary": "Palo Duro Investment Partners LP has acquired 663,389 shares of Enphase Energy, Inc. (NASDAQ:ENPH), valued at approximately $32.7 million, making it 6.3% of their portfolio. Institutional ownership of Enphase remains high at 72.12%, with other major investors also modifying their holdings. Despite reporting earnings per share slightly below estimates, Enphase's revenue exceeded forecasts, and analysts maintain a consensus \"Hold\" rating with an average price target of $45.79.",
@@ -20,7 +67,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.0559,
+          "sentiment_score": 0.051733,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,7 +87,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.601177
+          "relevance_score": 0.619297
         }
       ],
       "articles": [
@@ -71,7 +118,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.32218,
+          "sentiment_score": 0.336709,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -91,7 +138,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.630283
+          "relevance_score": 0.649877
         }
       ],
       "articles": [
@@ -122,7 +169,7 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.023894,
+          "sentiment_score": 0.037655,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -130,7 +177,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 0.624622,
-          "sentiment_score": 0.11404,
+          "sentiment_score": 0.118045,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -138,7 +185,7 @@
           "symbol": "MGM",
           "asset_class": null,
           "relevance_score": 0.620054,
-          "sentiment_score": 0.100588,
+          "sentiment_score": 0.104087,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -146,7 +193,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.932437
+          "relevance_score": 0.941698
         },
         {
           "topic": "financial_markets",
@@ -185,7 +232,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.473999,
+          "sentiment_score": 0.470267,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -193,7 +240,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.946144
+          "relevance_score": 0.946527
         },
         {
           "topic": "financial_markets",
@@ -249,7 +296,7 @@
           "symbol": "PPG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.322716,
+          "sentiment_score": 0.323825,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -257,7 +304,7 @@
           "symbol": "SHW",
           "asset_class": null,
           "relevance_score": 0.745667,
-          "sentiment_score": 0.201884,
+          "sentiment_score": 0.238894,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -265,7 +312,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.935953
+          "relevance_score": 0.938732
         },
         {
           "topic": "financial_markets",
@@ -273,7 +320,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.7382
+          "relevance_score": 0.739413
         },
         {
           "topic": "manufacturing",
@@ -308,7 +355,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.262765,
+          "sentiment_score": 0.296214,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -355,7 +402,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.422618,
+          "sentiment_score": 0.442086,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -367,11 +414,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.834884
+          "relevance_score": 0.847337
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.707054
+          "relevance_score": 0.738864
         }
       ],
       "articles": [
@@ -1096,61 +1143,6 @@
           "headline": "Nexera Technologies Subsidiary Fort Completes Acquisition of Majority Stake in Logia USA to Expand Fuel Integrity Solutions for Data Centers",
           "url": "https://www.quiverquant.com/news/Nexera+Technologies+Subsidiary+Fort+Completes+Acquisition+of+Majority+Stake+in+Logia+USA+to+Expand+Fuel+Integrity+Solutions+for+Data+Centers",
           "published_at": "2026-08-26T11:30:00"
-        }
-      ]
-    },
-    {
-      "event_id": 469,
-      "title": "Starbucks stock holds above $105 as guidance raised and turnaround gains momentum",
-      "summary": "Starbucks stock is trading above $105, supported by strong fiscal third-quarter results, a raised 2026 earnings guidance, and ongoing \"Back to Starbucks\" initiatives. The company reported EPS of $0.85 and revenue of $9.32 billion, exceeding analyst estimates, and updated its adjusted EPS guidance to a range of $2.55 to $2.65 for fiscal 2026. Global comparable store sales increased by 7.9%, driven by a 4.2% rise in transaction volume, indicating progress in its turnaround strategy despite some valuation models suggesting the stock is trading slightly above fair value.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-26T11:23:14",
-      "first_seen_at": "2026-08-26T13:00:03.719997",
-      "assets": [
-        {
-          "symbol": "SBUX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.3951,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920673
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831815
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.739583
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.635088
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.631852
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 492,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Starbucks stock holds above $105 as guidance raised and turnaround gains momentum",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-holds-above-105-as-guidance-raised-and-turnaround-gains/70003709",
-          "published_at": "2026-08-26T11:23:14"
         }
       ]
     }
