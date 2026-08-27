@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 507,
+      "title": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
+      "summary": "Stonebridge Capital Management Inc. has acquired a new stake in Amgen Inc., purchasing 4,736 shares valued at approximately $1.7 million in the second quarter. This move comes as other institutional investors have also adjusted their positions in the medical research company. Amgen recently reported strong financial results, exceeding analyst estimates for EPS and revenue, and announced a quarterly dividend of $2.52 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-27T10:41:06",
+      "first_seen_at": "2026-08-27T15:00:02.255940",
+      "assets": [
+        {
+          "symbol": "AMGN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.324552,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912362
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.842827
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.733254
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.605158
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 545,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-stonebridge-capital-management-inc-acquires-new-stake-in-amgen-inc-amgn-2026-08-27/",
+          "published_at": "2026-08-27T10:41:06"
+        }
+      ]
+    },
+    {
       "event_id": 486,
       "title": "The Manufacturers Life Insurance Company Acquires New Shares in Marathon Petroleum Corporation $MPC",
       "summary": "The Manufacturers Life Insurance Company acquired 176,990 shares of Marathon Petroleum Corporation (NYSE:MPC) worth approximately $45.3 million during the second quarter. Marathon Petroleum reported strong Q2 earnings with EPS of $17.73 and revenue up 53.5% year over year to $51.99 billion. Analysts currently rate MPC a \"Moderate Buy\" with a consensus price target of $312.50, despite recent insider stock sales totaling over $8.7 million.",
@@ -20,7 +71,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.420041,
+          "sentiment_score": 0.39651,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -84,7 +135,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.273825,
+          "sentiment_score": 0.26027,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -131,7 +182,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.33815,
+          "sentiment_score": 0.312564,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -139,7 +190,7 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.730978,
-          "sentiment_score": 0.228848,
+          "sentiment_score": 0.248337,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -147,15 +198,15 @@
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.641984,
-          "sentiment_score": 0.111509,
+          "sentiment_score": 0.128445,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "L",
           "asset_class": null,
-          "relevance_score": 0.63232,
-          "sentiment_score": 0.125843,
+          "relevance_score": 0.635447,
+          "sentiment_score": 0.125764,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -163,7 +214,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.630054,
-          "sentiment_score": 0.140459,
+          "sentiment_score": 0.106388,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -218,15 +269,15 @@
           "symbol": "CINF",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.126401,
+          "sentiment_score": 0.12256,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BAC",
           "asset_class": null,
-          "relevance_score": 0.627777,
-          "sentiment_score": 0.130314,
+          "relevance_score": 0.649447,
+          "sentiment_score": 0.120119,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -286,7 +337,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.418694,
+          "sentiment_score": 0.406023,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -298,7 +349,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.909833
+          "relevance_score": 0.9342
         },
         {
           "topic": "financial_markets",
@@ -310,7 +361,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.636151
+          "relevance_score": 0.636176
         }
       ],
       "articles": [
@@ -1100,57 +1151,6 @@
           "headline": "Man Group plc Acquires Shares of 1,475,345 Otis Worldwide Corporation $OTIS",
           "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-shares-of-1475345-otis-worldwide-corporation-otis-2026-08-26/",
           "published_at": "2026-08-26T10:45:05"
-        }
-      ]
-    },
-    {
-      "event_id": 464,
-      "title": "Man Group plc Acquires New Shares in VICI Properties Inc. $VICI",
-      "summary": "Man Group plc has acquired a new stake in VICI Properties Inc. (NYSE:VICI), purchasing over 11.9 million shares valued at approximately $318.2 million. This acquisition makes Man Group plc one of many institutional investors increasing their positions in VICI Properties, which now sees 97.71% of its stock owned by institutional investors. The article also details VICI Properties' recent financial performance, dividend announcements, and current analyst ratings.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-26T10:37:32",
-      "first_seen_at": "2026-08-26T12:00:03.406855",
-      "assets": [
-        {
-          "symbol": "VICI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.287473,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.908896
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.834491
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.719965
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.637756
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 486,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Man Group plc Acquires New Shares in VICI Properties Inc. $VICI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-shares-in-vici-properties-inc-vici-2026-08-26/",
-          "published_at": "2026-08-26T10:37:32"
         }
       ]
     }
