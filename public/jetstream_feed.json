@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 525,
+      "title": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
+      "summary": "Palo Duro Investment Partners LP has acquired 663,389 shares of Enphase Energy, Inc. (NASDAQ:ENPH), valued at approximately $32.7 million, making it 6.3% of their portfolio. Institutional ownership of Enphase remains high at 72.12%, with other major investors also modifying their holdings. Despite reporting earnings per share slightly below estimates, Enphase's revenue exceeded forecasts, and analysts maintain a consensus \"Hold\" rating with an average price target of $45.79.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-27T10:41:48",
+      "first_seen_at": "2026-08-27T18:00:02.892877",
+      "assets": [
+        {
+          "symbol": "ENPH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.0559,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933941
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831461
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.739443
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.601177
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 567,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-palo-duro-investment-partners-lp-acquires-shares-of-663389-enphase-energy-inc-enph-2026-08-27/",
+          "published_at": "2026-08-27T10:41:48"
+        }
+      ]
+    },
+    {
       "event_id": 507,
       "title": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
       "summary": "Stonebridge Capital Management Inc. has acquired a new stake in Amgen Inc., purchasing 4,736 shares valued at approximately $1.7 million in the second quarter. This move comes as other institutional investors have also adjusted their positions in the medical research company. Amgen recently reported strong financial results, exceeding analyst estimates for EPS and revenue, and announced a quarterly dividend of $2.52 per share.",
@@ -20,7 +71,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.304134,
+          "sentiment_score": 0.32218,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +79,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.946725
+          "relevance_score": 0.947875
         },
         {
           "topic": "life_sciences",
@@ -40,7 +91,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.630088
+          "relevance_score": 0.630283
         }
       ],
       "articles": [
@@ -71,7 +122,7 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.023324,
+          "sentiment_score": 0.023894,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -79,7 +130,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 0.624622,
-          "sentiment_score": 0.142391,
+          "sentiment_score": 0.11404,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -87,7 +138,7 @@
           "symbol": "MGM",
           "asset_class": null,
           "relevance_score": 0.620054,
-          "sentiment_score": 0.114043,
+          "sentiment_score": 0.100588,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -134,7 +185,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.489581,
+          "sentiment_score": 0.473999,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -142,7 +193,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.945848
+          "relevance_score": 0.946144
         },
         {
           "topic": "financial_markets",
@@ -183,6 +234,65 @@
       ]
     },
     {
+      "event_id": 529,
+      "title": "Legal & General Group Plc Acquires Shares of 1,394,143 PPG Industries, Inc. $PPG",
+      "summary": "Legal & General Group Plc has acquired a significant new stake of 1,394,143 shares in PPG Industries, Inc. (NYSE:PPG) during the second quarter, valued at approximately $169 million. This acquisition makes Legal & General Group Plc a notable institutional investor, holding about 0.63% of PPG Industries. The article also highlights other institutional investments, analyst forecasts, and recent financial performance, including PPG Industries' increased dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-27T09:21:26",
+      "first_seen_at": "2026-08-27T18:00:03.870345",
+      "assets": [
+        {
+          "symbol": "PPG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.322716,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SHW",
+          "asset_class": null,
+          "relevance_score": 0.745667,
+          "sentiment_score": 0.201884,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935953
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.837904
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.7382
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.649961
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 571,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Legal & General Group Plc Acquires Shares of 1,394,143 PPG Industries, Inc. $PPG",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-acquires-shares-of-1394143-ppg-industries-inc-ppg-2026-08-27/",
+          "published_at": "2026-08-27T09:21:26"
+        }
+      ]
+    },
+    {
       "event_id": 487,
       "title": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
       "summary": "The Zacks Building Products - Home Builders industry is poised for long-term growth in 2026 due to tight housing supply, steady demand, and easing mortgage rates, benefiting companies like PulteGroup, M/I Homes, and Century Communities. Despite near-term challenges such as affordability issues, high land costs, and reliance on sales incentives, the industry's structural housing shortage and favorable demographics support future demand. Builders are adapting through build-to-order models, community expansion, disciplined inventory management, and technology adoption to navigate these challenges and capitalize on growth opportunities.",
@@ -198,7 +308,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.284286,
+          "sentiment_score": 0.262765,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -230,6 +340,53 @@
       ]
     },
     {
+      "event_id": 531,
+      "title": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
+      "summary": "Enphase Energy's stock moved as the broader energy sector firmed due to strengthening crude prices, highlighting renewed interest in home-solar demand. The company, known for its microinverters and home-battery systems, benefits from themes of energy security and self-reliance, especially as residential electricity consumption continues to rise. Enphase positions itself at the forefront of distributed home energy systems, leveraging its integrated hardware and software to offer resilient and intelligent power solutions amidst competitive market dynamics.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-27T08:41:48",
+      "first_seen_at": "2026-08-27T18:00:04.326282",
+      "assets": [
+        {
+          "symbol": "ENPH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.422618,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928642
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.834884
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.707054
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 573,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
+          "url": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-stock-moves-as-home-solar-demand-stays-in-view",
+          "published_at": "2026-08-27T08:41:48"
+        }
+      ]
+    },
+    {
       "event_id": 488,
       "title": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
       "summary": "The Canada Pension Plan Investment Board has made a new investment of $130.77 million in Marathon Petroleum Corporation, acquiring 511,495 shares. This move makes the board a significant institutional holder, owning 0.18% of the company's stock. Other major institutional investors have also adjusted their stakes in Marathon Petroleum, alongside recent insider selling activity and updated analyst price targets for the company.",
@@ -245,7 +402,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.334469,
+          "sentiment_score": 0.306562,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -253,23 +410,23 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.747462,
-          "sentiment_score": 0.200802,
+          "sentiment_score": 0.243551,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "L",
+          "asset_class": null,
+          "relevance_score": 0.643259,
+          "sentiment_score": 0.135236,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.641984,
-          "sentiment_score": 0.148916,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "L",
-          "asset_class": null,
-          "relevance_score": 0.635447,
-          "sentiment_score": 0.134075,
+          "sentiment_score": 0.120763,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -277,7 +434,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.632238,
-          "sentiment_score": 0.11265,
+          "sentiment_score": 0.133943,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -994,175 +1151,6 @@
           "headline": "Starbucks stock holds above $105 as guidance raised and turnaround gains momentum",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-holds-above-105-as-guidance-raised-and-turnaround-gains/70003709",
           "published_at": "2026-08-26T11:23:14"
-        }
-      ]
-    },
-    {
-      "event_id": 470,
-      "title": "Sempra stock attracts fresh institutional buying as shares trade in the mid-$80s",
-      "summary": "Sempra stock is drawing renewed interest from large institutional investors, trading in the mid-$80s, driven by a significant $65 billion utilities capital plan and an analyst consensus price target of $103.62, implying over 20% upside. The company is also strategically reallocating resources, focusing 95% of its capital plan on regulated North American infrastructure while divesting non-core assets like a natural gas company in Mexico. This strategy, combined with steady institutional buying, suggests confidence in predictable cash flows and earnings growth from its regulated asset base.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-08-26T11:18:22",
-      "first_seen_at": "2026-08-26T13:00:03.957648",
-      "assets": [
-        {
-          "symbol": "SRE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460297,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918305
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.842793
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.82026
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 493,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Sempra stock attracts fresh institutional buying as shares trade in the mid-$80s",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-attracts-fresh-institutional-buying-as-shares-trade-in-the/70003691",
-          "published_at": "2026-08-26T11:18:22"
-        }
-      ]
-    },
-    {
-      "event_id": 461,
-      "title": "Keurig Dr Pepper stock holds steady as Q2 2026 earnings beat and 2026 guidance is reaffirmed",
-      "summary": "Keurig Dr Pepper (KDP) stock held steady in late August 2026 after the company reported Q2 2026 adjusted diluted EPS of $0.57, exceeding analyst expectations of $0.54, and reaffirmed its full-year 2026 guidance for net sales between $25.9 billion and $26.4 billion and low double-digit EPS growth. The company's performance was boosted by growth in soft drinks and energy drinks, which offset weaknesses in its coffee segment, expected to improve in the second half of 2026. KDP also highlighted its commitment to deleveraging, aiming for a management leverage of 4.1 times by year-end 2026, and continuous product innovation with launches like Mott's Zero Sugar.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-26T10:59:23",
-      "first_seen_at": "2026-08-26T12:00:02.610789",
-      "assets": [
-        {
-          "symbol": "KDP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.479494,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906285
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 483,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Keurig Dr Pepper stock holds steady as Q2 2026 earnings beat and 2026 guidance is reaffirmed",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keurig-dr-pepper-stock-holds-steady-as-q2-2026-earnings-beat-and-2026/70003601",
-          "published_at": "2026-08-26T10:59:23"
-        }
-      ]
-    },
-    {
-      "event_id": 462,
-      "title": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Odyssean LLC has acquired a new stake of 2,775 shares in Advanced Micro Devices (AMD), valued at approximately $1.6 million, during the second quarter. This move comes as institutional investors now hold 71.34% of AMD's stock. Analysts generally maintain a bullish outlook on AMD, with Raymond James upgrading the stock to \"Strong Buy\" and a consensus \"Moderate Buy\" rating, supported by AMD's reported 50.1% year-over-year revenue growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-26T10:55:07",
-      "first_seen_at": "2026-08-26T12:00:02.857370",
-      "assets": [
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.257227,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.810563,
-          "sentiment_score": 0.091748,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.640735,
-          "sentiment_score": 0.116465,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.579775,
-          "sentiment_score": 0.103057,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.579713,
-          "sentiment_score": 0.131367,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924108
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.905737
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.811514
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 484,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-odyssean-llc-buys-new-shares-in-advanced-micro-devices-inc-amd-2026-08-26/",
-          "published_at": "2026-08-26T10:55:07"
         }
       ]
     }
