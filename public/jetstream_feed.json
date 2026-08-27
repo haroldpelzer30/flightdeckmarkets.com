@@ -20,7 +20,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.281079,
+          "sentiment_score": 0.288714,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.712901
+          "relevance_score": 0.717286
         }
       ],
       "articles": [
@@ -67,7 +67,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.096355,
+          "sentiment_score": 0.066326,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -75,11 +75,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.933941
+          "relevance_score": 0.934279
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.831461
+          "relevance_score": 0.848966
         },
         {
           "topic": "technology",
@@ -87,7 +87,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.619297
+          "relevance_score": 0.633395
         }
       ],
       "articles": [
@@ -118,7 +118,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.343105,
+          "sentiment_score": 0.317389,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -169,23 +169,23 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.029175,
+          "sentiment_score": 0.03834,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MGM",
           "asset_class": null,
-          "relevance_score": 0.63737,
-          "sentiment_score": 0.124023,
+          "relevance_score": 0.639277,
+          "sentiment_score": 0.133916,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "LVS",
           "asset_class": null,
-          "relevance_score": 0.624622,
-          "sentiment_score": 0.102744,
+          "relevance_score": 0.626405,
+          "sentiment_score": 0.103668,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -197,7 +197,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.8186
+          "relevance_score": 0.836816
         },
         {
           "topic": "finance",
@@ -232,7 +232,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.465541,
+          "sentiment_score": 0.457483,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -296,7 +296,7 @@
           "symbol": "PPG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.340266,
+          "sentiment_score": 0.303086,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -304,7 +304,7 @@
           "symbol": "SHW",
           "asset_class": null,
           "relevance_score": 0.746699,
-          "sentiment_score": 0.209107,
+          "sentiment_score": 0.228686,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -316,7 +316,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.837904
+          "relevance_score": 0.840848
         },
         {
           "topic": "finance",
@@ -355,7 +355,7 @@
           "symbol": "PHM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.279037,
+          "sentiment_score": 0.275915,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -371,7 +371,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.837879
+          "relevance_score": 0.846149
         }
       ],
       "articles": [
@@ -402,7 +402,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.425313,
+          "sentiment_score": 0.405996,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
