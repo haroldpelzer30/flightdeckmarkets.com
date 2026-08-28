@@ -20,7 +20,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.320493,
+          "sentiment_score": -0.333432,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.996332,
-          "sentiment_score": -0.280842,
+          "sentiment_score": -0.259658,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -40,11 +40,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.930353
+          "relevance_score": 0.941514
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.609819
+          "relevance_score": 0.644623
         }
       ],
       "articles": [
