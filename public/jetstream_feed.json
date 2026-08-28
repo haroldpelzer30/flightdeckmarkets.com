@@ -5,6 +5,214 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 585,
+      "title": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
+      "summary": "Amcor's stock remained stable in the mid-$40s after reporting strong Q3 FY26 results, including higher revenue of $5.91 billion and a net profit of $278 million, surpassing analyst expectations. The company's focus on sustainable packaging solutions, such as seaweed-based coatings, and investments in healthcare packaging automation are seen as key drivers for long-term growth. Despite broader market volatility, Amcor's operational execution and strategic initiatives continue to support its competitive position in defensive end markets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-08-28T12:07:53",
+      "first_seen_at": "2026-08-28T17:00:01.746877",
+      "assets": [
+        {
+          "symbol": "AMCR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.420243,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.927577
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.818561
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.640292
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 628,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-amcor-stock-steadies-after-q3-fy26-earnings-beat-and-new/70014665",
+          "published_at": "2026-08-28T12:07:53"
+        }
+      ]
+    },
+    {
+      "event_id": 586,
+      "title": "L2 Asset Management LLC Acquires New Position in Bank of America Corporation $BAC",
+      "summary": "L2 Asset Management LLC has acquired a new position in Bank of America Corporation (NYSE:BAC) by purchasing 37,808 shares valued at approximately $2,154,000 during the second quarter. This move is part of a broader trend of institutional investors modifying their holdings in BAC, with Norges Bank and Capital International Investors also making significant new investments. The article also highlights recent analyst ratings, Bank of America's financial performance, and key headlines impacting the company, including its dividend increase and potential risks from an SEC probe.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-28T09:39:12",
+      "first_seen_at": "2026-08-28T17:00:02.025617",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.332225,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.637076,
+          "sentiment_score": -0.326065,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.636945,
+          "sentiment_score": -0.313531,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.634179,
+          "sentiment_score": -0.311193,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.625196,
+          "sentiment_score": 0.346193,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.622283,
+          "sentiment_score": -0.107466,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.566301,
+          "sentiment_score": 0.223799,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940696
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.9353
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.649517
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.627858
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 634,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Cooper Haims Advisors LLC Makes New Investment in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-cooper-haims-advisors-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T07:39:12"
+        },
+        {
+          "article_id": 635,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Brandywine Trust Co. Takes Position in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-brandywine-trust-co-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T07:39:12"
+        },
+        {
+          "article_id": 633,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Cetera Trust Company N.A Purchases New Stake in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-cetera-trust-company-na-purchases-new-stake-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T08:39:12"
+        },
+        {
+          "article_id": 629,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "L2 Asset Management LLC Acquires New Position in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-l2-asset-management-llc-acquires-new-position-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T09:39:12"
+        },
+        {
+          "article_id": 630,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "PDT Partners LLC Takes $1.67 Million Position in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-pdt-partners-llc-takes-167-million-position-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T09:39:12"
+        },
+        {
+          "article_id": 631,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Primecap Management Co. CA Takes Position in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-primecap-management-co-ca-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T09:39:12"
+        },
+        {
+          "article_id": 632,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Stanley Capital Management LLC Takes Position in Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-stanley-capital-management-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
+          "published_at": "2026-08-28T09:39:12"
+        }
+      ]
+    },
+    {
       "event_id": 583,
       "title": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
       "summary": "Legal & General Group Plc has acquired a new stake of 649,113 shares in First Solar, Inc. (NASDAQ:FSLR), valued at approximately $153.17 million. This purchase makes Legal & General Group Plc the owner of about 0.60% of First Solar's stock. The article also highlights other institutional investments in First Solar and recent analyst ratings and price targets, indicating a generally positive outlook despite some caution.",
@@ -20,7 +228,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.283084,
+          "sentiment_score": 0.299998,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,15 +244,15 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.812848
+          "relevance_score": 0.818732
         },
         {
           "topic": "finance",
-          "relevance_score": 0.704086
+          "relevance_score": 0.709151
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.629582
+          "relevance_score": 0.644158
         }
       ],
       "articles": [
@@ -1070,131 +1278,6 @@
           "headline": "8,918 Shares in Marathon Petroleum Corporation $MPC Bought by Ancora Advisors LLC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-8918-shares-in-marathon-petroleum-corporation-mpc-bought-by-ancora-advisors-llc-2026-08-27/",
           "published_at": "2026-08-27T07:33:40"
-        }
-      ]
-    },
-    {
-      "event_id": 492,
-      "title": "McKesson Acquires Precision Medicine Group",
-      "summary": "McKesson has signed a definitive agreement to acquire Precision Medicine Group for approximately $2.25 billion in an all-cash transaction. This acquisition aims to strengthen McKesson's oncology and multispecialty strategy by enhancing its clinical research and commercialization services. Precision Medicine Group provides integrated services and technology-enabled products supporting drug development and commercialization for biotechnology and pharmaceutical companies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-26T21:16:04",
-      "first_seen_at": "2026-08-27T12:00:04.620295",
-      "assets": [
-        {
-          "symbol": "MCK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.446932,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "life_sciences",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.743911
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 520,
-          "provider": "ALPHA_VANTAGE",
-          "source": "BioXconomy",
-          "source_domain": "BioXconomy",
-          "headline": "McKesson Acquires Precision Medicine Group",
-          "url": "https://www.bioxconomy.com/access-and-channel/mckesson-to-acquire-precision-medicine-group-for-225b-to-boost-oncology-clinical-research-services",
-          "published_at": "2026-08-26T21:16:04"
-        }
-      ]
-    },
-    {
-      "event_id": 491,
-      "title": "AMETEK Completes $5 Billion Acquisition of Indicor Instrumentation",
-      "summary": "AMETEK has finalized its $5 billion cash acquisition of Indicor Instrumentation, aiming to significantly enhance its market position and integrate Indicor's businesses into its Electronic Instruments Group and Electromechanical Group. This acquisition is expected to contribute approximately $350 million to AMETEK's sales in 2026 and strengthen its presence in attractive niche markets. The strategic move aligns with AMETEK's growth strategies and leverages its operational model for increased efficiency and value creation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-08-26T21:07:59",
-      "first_seen_at": "2026-08-27T12:00:04.228633",
-      "assets": [
-        {
-          "symbol": "AME",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.490857,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935702
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.834855
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.748154
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 517,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "AMETEK completes $5 billion Indicor Instrumentation acquisition",
-          "url": "https://www.investing.com/news/company-news/ametek-completes-5-billion-indicor-instrumentation-acquisition-93CH-4877910",
-          "published_at": "2026-08-26T21:07:59"
-        },
-        {
-          "article_id": 518,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "AMETEK completes $5.0B acquisition of Indicor Instrumentation",
-          "url": "https://www.tradingview.com/news/tradingview:3ef54a4b1ea82:0-ametek-completes-5-0b-acquisition-of-indicor-instrumentation/",
-          "published_at": "2026-08-26T21:07:59"
-        },
-        {
-          "article_id": 519,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Intellectia AI",
-          "source_domain": "Intellectia AI",
-          "headline": "AMETEK Completes $5 Billion Acquisition of Indicor Instrumentation",
-          "url": "https://intellectia.ai/news/stock/ametek-completes-5-billion-acquisition-of-indicor-instrumentation",
-          "published_at": "2026-08-26T21:07:59"
-        },
-        {
-          "article_id": 516,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "AMETEK completes $5B acquisition of Indicor Instrumentation, boosting 2026 sales and earnings.",
-          "url": "https://pluang.com/en/news-feed/ametek-selesaikan-akuisisi-indicor-instrumentation",
-          "published_at": "2026-08-26T23:07:59"
         }
       ]
     }
