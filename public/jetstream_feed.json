@@ -20,7 +20,7 @@
           "symbol": "CHRW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.487436,
+          "sentiment_score": 0.453449,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +28,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.939334
+          "relevance_score": 0.943437
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.802246
+          "relevance_score": 0.8089
         },
         {
           "topic": "technology",
@@ -40,7 +40,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.611805
+          "relevance_score": 0.645547
         }
       ],
       "articles": [
@@ -71,7 +71,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.433464,
+          "sentiment_score": 0.444433,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -107,6 +107,106 @@
       ]
     },
     {
+      "event_id": 594,
+      "title": "Glenview Trust Co Acquires Shares of 48,695 American Express Company $AXP",
+      "summary": "Glenview Trust Co. recently acquired 48,695 shares of American Express Company (AXP) in the second quarter, valued at approximately $14.7 million. This move is part of broader institutional investment, with other major firms also adjusting their stakes in AXP. American Express reported strong quarterly results, beating EPS estimates and showing a 10% revenue increase, while analysts maintain a \"Moderate Buy\" consensus for the stock.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-28T10:41:31",
+      "first_seen_at": "2026-08-28T19:00:03.509931",
+      "assets": [
+        {
+          "symbol": "AXP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.44621,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.63971,
+          "sentiment_score": 0.347834,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.584232,
+          "sentiment_score": 0.324274,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "IBM",
+          "asset_class": null,
+          "relevance_score": 0.57984,
+          "sentiment_score": 0.204899,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.562282,
+          "sentiment_score": 0.214732,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COF",
+          "asset_class": null,
+          "relevance_score": 0.552868,
+          "sentiment_score": -0.103656,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927049
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828539
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.72033
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620753
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 652,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Glenview Trust Co Acquires Shares of 48,695 American Express Company $AXP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-acquires-shares-of-48695-american-express-company-axp-2026-08-28/",
+          "published_at": "2026-08-28T10:41:31"
+        },
+        {
+          "article_id": 651,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Glenview Trust Co Buys 10,051 Shares of American Express Company $AXP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-buys-10051-shares-of-american-express-company-axp-2026-08-28/",
+          "published_at": "2026-08-28T11:41:31"
+        }
+      ]
+    },
+    {
       "event_id": 586,
       "title": "L2 Asset Management LLC Acquires New Position in Bank of America Corporation $BAC",
       "summary": "L2 Asset Management LLC has acquired a new position in Bank of America Corporation (NYSE:BAC) by purchasing 37,808 shares valued at approximately $2,154,000 during the second quarter. This move is part of a broader trend of institutional investors modifying their holdings in BAC, with Norges Bank and Capital International Investors also making significant new investments. The article also highlights recent analyst ratings, Bank of America's financial performance, and key headlines impacting the company, including its dividend increase and potential risks from an SEC probe.",
@@ -122,55 +222,55 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.349417,
+          "sentiment_score": 0.332085,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GS",
           "asset_class": null,
-          "relevance_score": 0.648262,
-          "sentiment_score": -0.344234,
+          "relevance_score": 0.649074,
+          "sentiment_score": -0.314302,
           "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.645902,
+          "sentiment_score": -0.115731,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.644815,
-          "sentiment_score": -0.333052,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.636945,
-          "sentiment_score": -0.321576,
+          "sentiment_score": -0.325941,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "WFC",
           "asset_class": null,
-          "relevance_score": 0.625196,
-          "sentiment_score": 0.326514,
+          "relevance_score": 0.641913,
+          "sentiment_score": 0.308239,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
-          "symbol": "MS",
+          "symbol": "C",
           "asset_class": null,
-          "relevance_score": 0.62244,
-          "sentiment_score": -0.102835,
-          "sentiment_label": "Neutral",
+          "relevance_score": 0.636945,
+          "sentiment_score": -0.327205,
+          "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.586418,
-          "sentiment_score": 0.211875,
+          "sentiment_score": 0.21528,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -194,7 +294,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.631049
+          "relevance_score": 0.636937
         }
       ],
       "articles": [
@@ -279,7 +379,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.252761,
+          "sentiment_score": 0.286861,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -299,11 +399,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.709151
+          "relevance_score": 0.743303
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.644158
+          "relevance_score": 0.646709
         }
       ],
       "articles": [
@@ -1206,74 +1306,6 @@
           "headline": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-makes-new-13077-million-investment-in-marathon-petroleum-corporation-mpc-2026-08-27/",
           "published_at": "2026-08-27T08:33:40"
-        }
-      ]
-    },
-    {
-      "event_id": 489,
-      "title": "Cibc World Market Inc. Acquires Shares of 16,785 Cincinnati Financial Corporation $CINF",
-      "summary": "Cibc World Market Inc. recently acquired 16,785 shares of Cincinnati Financial Corporation (NASDAQ:CINF) valued at $3.1 million in the second quarter. Institutional investors now own 65.24% of the company's stock, and analysts maintain a \"Moderate Buy\" consensus rating despite recent price target adjustments. Cincinnati Financial reported Q2 earnings of $1.43 per share, missing estimates, and announced a quarterly dividend of $0.94, representing a 2.2% annualized yield.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-27T08:26:11",
-      "first_seen_at": "2026-08-27T12:00:03.671499",
-      "assets": [
-        {
-          "symbol": "CINF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.132693,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.649447,
-          "sentiment_score": 0.11915,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946503
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.848042
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.843608
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.645936
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 514,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Cibc World Market Inc. Acquires Shares of 16,785 Cincinnati Financial Corporation $CINF",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-cibc-world-market-inc-acquires-shares-of-16785-cincinnati-financial-corporation-cinf-2026-08-27/",
-          "published_at": "2026-08-27T08:26:11"
-        },
-        {
-          "article_id": 513,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Bank of Nova Scotia Buys Shares of 16,324 Cincinnati Financial Corporation $CINF",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-nova-scotia-buys-shares-of-16324-cincinnati-financial-corporation-cinf-2026-08-27/",
-          "published_at": "2026-08-27T08:26:12"
         }
       ]
     }
