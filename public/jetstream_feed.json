@@ -20,7 +20,7 @@
           "symbol": "CHRW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.453449,
+          "sentiment_score": 0.492828,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +32,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.8089
+          "relevance_score": 0.826586
         },
         {
           "topic": "technology",
-          "relevance_score": 0.725144
+          "relevance_score": 0.734826
         },
         {
           "topic": "energy_transportation",
@@ -56,6 +56,53 @@
       ]
     },
     {
+      "event_id": 598,
+      "title": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
+      "summary": "TJX Companies, Inc. (TJX) reported strong Q2 fiscal 2027 results with net sales up 5% to $15.2 billion and diluted EPS of $1.36, a significant increase from $1.10 in the prior year. The improved profitability was largely driven by a net benefit of $219 million from IEEPA tariff refunds, which contributed $0.14 to EPS, though these refunds are noted as a non-recurring factor. The company also demonstrated robust operating cash flow and returned $1.3 billion to shareholders through repurchases and dividends, while increasing its long-term global store target to 7,500 locations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-28T14:54:27",
+      "first_seen_at": "2026-08-28T20:00:01.981648",
+      "assets": [
+        {
+          "symbol": "TJX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.623401,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.841072
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.617717
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 663,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
+          "url": "https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-16eaf617142b.html",
+          "published_at": "2026-08-28T14:54:27"
+        }
+      ]
+    },
+    {
       "event_id": 585,
       "title": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
       "summary": "Amcor's stock remained stable in the mid-$40s after reporting strong Q3 FY26 results, including higher revenue of $5.91 billion and a net profit of $278 million, surpassing analyst expectations. The company's focus on sustainable packaging solutions, such as seaweed-based coatings, and investments in healthcare packaging automation are seen as key drivers for long-term growth. Despite broader market volatility, Amcor's operational execution and strategic initiatives continue to support its competitive position in defensive end markets.",
@@ -71,7 +118,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.444433,
+          "sentiment_score": 0.404921,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -87,7 +134,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.840602
+          "relevance_score": 0.846378
         },
         {
           "topic": "life_sciences",
@@ -122,7 +169,7 @@
           "symbol": "AXP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.44621,
+          "sentiment_score": 0.404103,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -130,15 +177,23 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.63971,
-          "sentiment_score": 0.347834,
+          "sentiment_score": 0.344504,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COF",
+          "asset_class": null,
+          "relevance_score": 0.584498,
+          "sentiment_score": -0.107845,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 0.584232,
-          "sentiment_score": 0.324274,
+          "sentiment_score": 0.322458,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -146,7 +201,7 @@
           "symbol": "IBM",
           "asset_class": null,
           "relevance_score": 0.57984,
-          "sentiment_score": 0.204899,
+          "sentiment_score": 0.228016,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -154,35 +209,27 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.562282,
-          "sentiment_score": 0.214732,
+          "sentiment_score": 0.248096,
           "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COF",
-          "asset_class": null,
-          "relevance_score": 0.552868,
-          "sentiment_score": -0.103656,
-          "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.927049
+          "relevance_score": 0.936694
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.828539
+          "relevance_score": 0.844123
         },
         {
           "topic": "finance",
-          "relevance_score": 0.72033
+          "relevance_score": 0.747679
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.620753
+          "relevance_score": 0.634732
         }
       ],
       "articles": [
@@ -222,7 +269,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.332085,
+          "sentiment_score": 0.317021,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -230,7 +277,15 @@
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 0.649074,
-          "sentiment_score": -0.314302,
+          "sentiment_score": -0.318385,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.648625,
+          "sentiment_score": -0.33108,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -238,7 +293,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.645902,
-          "sentiment_score": -0.115731,
+          "sentiment_score": -0.14176,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -246,7 +301,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.644815,
-          "sentiment_score": -0.325941,
+          "sentiment_score": -0.31696,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -254,23 +309,15 @@
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.641913,
-          "sentiment_score": 0.308239,
+          "sentiment_score": 0.339048,
           "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.636945,
-          "sentiment_score": -0.327205,
-          "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.586418,
-          "sentiment_score": 0.21528,
+          "sentiment_score": 0.245933,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -282,7 +329,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.945949
+          "relevance_score": 0.949971
         },
         {
           "topic": "financial_markets",
@@ -294,7 +341,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.636937
+          "relevance_score": 0.643162
         }
       ],
       "articles": [
@@ -379,7 +426,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.286861,
+          "sentiment_score": 0.265769,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -391,11 +438,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.916882
+          "relevance_score": 0.922204
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.833144
+          "relevance_score": 0.835801
         },
         {
           "topic": "finance",
@@ -1219,93 +1266,6 @@
           "headline": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
           "url": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-stock-moves-as-home-solar-demand-stays-in-view",
           "published_at": "2026-08-27T08:41:48"
-        }
-      ]
-    },
-    {
-      "event_id": 488,
-      "title": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
-      "summary": "The Canada Pension Plan Investment Board has made a new investment of $130.77 million in Marathon Petroleum Corporation, acquiring 511,495 shares. This move makes the board a significant institutional holder, owning 0.18% of the company's stock. Other major institutional investors have also adjusted their stakes in Marathon Petroleum, alongside recent insider selling activity and updated analyst price targets for the company.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-27T08:33:40",
-      "first_seen_at": "2026-08-27T12:00:03.338023",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.306562,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.747462,
-          "sentiment_score": 0.243551,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "L",
-          "asset_class": null,
-          "relevance_score": 0.643259,
-          "sentiment_score": 0.135236,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.641984,
-          "sentiment_score": 0.120763,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.632238,
-          "sentiment_score": 0.133943,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944635
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928885
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.843259
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.744233
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637374
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 512,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Canada Pension Plan Investment Board Makes New $130.77 Million Investment in Marathon Petroleum Corporation $MPC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-makes-new-13077-million-investment-in-marathon-petroleum-corporation-mpc-2026-08-27/",
-          "published_at": "2026-08-27T08:33:40"
         }
       ]
     }
