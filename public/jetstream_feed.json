@@ -20,15 +20,15 @@
           "symbol": "DLTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.446621,
+          "sentiment_score": 0.441495,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DG",
           "asset_class": null,
-          "relevance_score": 0.937477,
-          "sentiment_score": 0.314814,
+          "relevance_score": 0.941551,
+          "sentiment_score": 0.304055,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "WMT",
           "asset_class": null,
           "relevance_score": 0.74508,
-          "sentiment_score": 0.114116,
+          "sentiment_score": 0.110387,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,7 +44,7 @@
           "symbol": "TGT",
           "asset_class": null,
           "relevance_score": 0.644064,
-          "sentiment_score": 0.129507,
+          "sentiment_score": 0.144576,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,7 +52,7 @@
           "symbol": "HD",
           "asset_class": null,
           "relevance_score": 0.643276,
-          "sentiment_score": 0.146329,
+          "sentiment_score": 0.121618,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -68,11 +68,11 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.828284
+          "relevance_score": 0.846182
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.742609
+          "relevance_score": 0.74387
         }
       ],
       "articles": [
@@ -103,7 +103,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.293535,
+          "sentiment_score": 0.26386,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -111,7 +111,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.915465
+          "relevance_score": 0.947926
         },
         {
           "topic": "technology",
@@ -140,9 +140,9 @@
       "summary": "Southwest Airlines is introducing premium services like extra legroom, preferred seating, and new checked bag fees to boost profitability and potentially restore historical returns. This strategic shift aims to improve pricing without compromising its value reputation, with an estimated earnings power of US$6.00 per share. The success of these initiatives hinges on customer reaction and effective execution amidst demand uncertainty and cost pressures.",
       "event_type": "EARNINGS",
       "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
+      "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 50,
+      "intelligence_score": 54,
       "published_at": "2026-08-27T16:03:08",
       "first_seen_at": "2026-08-27T23:00:02.945677",
       "assets": [
@@ -150,23 +150,23 @@
           "symbol": "LUV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.26571,
+          "sentiment_score": 0.262021,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BA",
           "asset_class": null,
-          "relevance_score": 0.725131,
-          "sentiment_score": 0.039456,
+          "relevance_score": 0.732579,
+          "sentiment_score": 0.027267,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "UAL",
           "asset_class": null,
-          "relevance_score": 0.63907,
-          "sentiment_score": 0.135285,
+          "relevance_score": 0.641782,
+          "sentiment_score": 0.109087,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -186,7 +186,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.601075
+          "relevance_score": 0.647676
         }
       ],
       "articles": [
@@ -217,7 +217,7 @@
           "symbol": "DLTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.89791,
+          "sentiment_score": 0.887626,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -225,7 +225,7 @@
           "symbol": "DG",
           "asset_class": null,
           "relevance_score": 0.68331,
-          "sentiment_score": 0.722306,
+          "sentiment_score": 0.705789,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -233,19 +233,19 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.934904
+          "relevance_score": 0.946328
         },
         {
           "topic": "retail_wholesale",
           "relevance_score": 0.83979
         },
         {
-          "topic": "finance",
-          "relevance_score": 0.629204
+          "topic": "economy_fiscal",
+          "relevance_score": 0.63793
         },
         {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.6176
+          "topic": "finance",
+          "relevance_score": 0.63695
         }
       ],
       "articles": [
@@ -276,7 +276,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.705824,
+          "sentiment_score": 0.703805,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -284,15 +284,15 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.921494
+          "relevance_score": 0.929598
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.734007
+          "relevance_score": 0.742853
         },
         {
           "topic": "technology",
-          "relevance_score": 0.625363
+          "relevance_score": 0.647251
         }
       ],
       "articles": [
@@ -323,7 +323,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.092133,
+          "sentiment_score": 0.079165,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -374,7 +374,7 @@
           "symbol": "AMGN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.32749,
+          "sentiment_score": 0.323669,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -390,7 +390,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.741927
+          "relevance_score": 0.742569
         },
         {
           "topic": "finance",
