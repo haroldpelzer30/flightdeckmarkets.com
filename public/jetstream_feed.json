@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 588,
+      "title": "C.H. Robinson stock holds high after Q2 2026 earnings beat",
+      "summary": "C.H. Robinson stock is trading near recent highs after reporting a strong Q2 2026 earnings beat, driven by efficiency gains from AI integration into its logistics network. The company's use of AI for improved decision-making and routing has led to cost discipline and better asset utilization, boosting profitability above analyst expectations. This performance has supported a significant single-day gain and consolidation of the stock price, with insider trading activity also reflecting confidence in the company's technology-driven strategy.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-28T15:58:47",
+      "first_seen_at": "2026-08-28T18:00:02.302875",
+      "assets": [
+        {
+          "symbol": "CHRW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487436,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939334
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802246
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.725144
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.611805
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 638,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "C.H. Robinson stock holds high after Q2 2026 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/c-h-robinson-stock-holds-high-after-q2-2026-earnings-beat/70015989",
+          "published_at": "2026-08-28T15:58:47"
+        }
+      ]
+    },
+    {
       "event_id": 585,
       "title": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
       "summary": "Amcor's stock remained stable in the mid-$40s after reporting strong Q3 FY26 results, including higher revenue of $5.91 billion and a net profit of $278 million, surpassing analyst expectations. The company's focus on sustainable packaging solutions, such as seaweed-based coatings, and investments in healthcare packaging automation are seen as key drivers for long-term growth. Despite broader market volatility, Amcor's operational execution and strategic initiatives continue to support its competitive position in defensive end markets.",
@@ -20,7 +71,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.420243,
+          "sentiment_score": 0.433464,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,7 +87,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.818561
+          "relevance_score": 0.840602
         },
         {
           "topic": "life_sciences",
@@ -71,15 +122,23 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.332225,
+          "sentiment_score": 0.349417,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GS",
           "asset_class": null,
-          "relevance_score": 0.637076,
-          "sentiment_score": -0.326065,
+          "relevance_score": 0.648262,
+          "sentiment_score": -0.344234,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.644815,
+          "sentiment_score": -0.333052,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -87,15 +146,7 @@
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.636945,
-          "sentiment_score": -0.313531,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.634179,
-          "sentiment_score": -0.311193,
+          "sentiment_score": -0.321576,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -103,23 +154,23 @@
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.625196,
-          "sentiment_score": 0.346193,
+          "sentiment_score": 0.326514,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
-          "relevance_score": 0.622283,
-          "sentiment_score": -0.107466,
+          "relevance_score": 0.62244,
+          "sentiment_score": -0.102835,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BLK",
           "asset_class": null,
-          "relevance_score": 0.566301,
-          "sentiment_score": 0.223799,
+          "relevance_score": 0.586418,
+          "sentiment_score": 0.211875,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -131,7 +182,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.940696
+          "relevance_score": 0.945949
         },
         {
           "topic": "financial_markets",
@@ -143,7 +194,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.627858
+          "relevance_score": 0.631049
         }
       ],
       "articles": [
@@ -228,7 +279,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.299998,
+          "sentiment_score": 0.252761,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -240,11 +291,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.914936
+          "relevance_score": 0.916882
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.818732
+          "relevance_score": 0.833144
         },
         {
           "topic": "finance",
@@ -1223,61 +1274,6 @@
           "headline": "Bank of Nova Scotia Buys Shares of 16,324 Cincinnati Financial Corporation $CINF",
           "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-nova-scotia-buys-shares-of-16324-cincinnati-financial-corporation-cinf-2026-08-27/",
           "published_at": "2026-08-27T08:26:12"
-        }
-      ]
-    },
-    {
-      "event_id": 490,
-      "title": "8,918 Shares in Marathon Petroleum Corporation $MPC Bought by Ancora Advisors LLC",
-      "summary": "Ancora Advisors LLC purchased a new position of 8,918 shares in Marathon Petroleum Corporation (NYSE:MPC) during the second quarter, valued at approximately $2.28 million. This comes as other institutional investors have also adjusted their holdings in MPC. Marathon Petroleum recently announced a quarterly dividend of $1.00 per share, payable on September 10th.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-27T07:33:40",
-      "first_seen_at": "2026-08-27T12:00:03.985414",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.406023,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.937488
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.9342
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83091
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.744428
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.636176
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 515,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "8,918 Shares in Marathon Petroleum Corporation $MPC Bought by Ancora Advisors LLC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-8918-shares-in-marathon-petroleum-corporation-mpc-bought-by-ancora-advisors-llc-2026-08-27/",
-          "published_at": "2026-08-27T07:33:40"
         }
       ]
     }
