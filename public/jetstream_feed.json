@@ -5,6 +5,70 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 583,
+      "title": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
+      "summary": "Legal & General Group Plc has acquired a new stake of 649,113 shares in First Solar, Inc. (NASDAQ:FSLR), valued at approximately $153.17 million. This purchase makes Legal & General Group Plc the owner of about 0.60% of First Solar's stock. The article also highlights other institutional investments in First Solar and recent analyst ratings and price targets, indicating a generally positive outlook despite some caution.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-28T09:29:18",
+      "first_seen_at": "2026-08-28T16:00:03.267344",
+      "assets": [
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.283084,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.942403
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.914936
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.812848
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.704086
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.629582
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 626,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "6,072 Shares in First Solar, Inc. $FSLR Bought by Formula Growth Ltd.",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-6072-shares-in-first-solar-inc-fslr-bought-by-formula-growth-ltd-2026-08-28/",
+          "published_at": "2026-08-28T08:29:18"
+        },
+        {
+          "article_id": 625,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-649113-shares-in-first-solar-inc-fslr-purchased-by-legal-general-group-plc-2026-08-28/",
+          "published_at": "2026-08-28T09:29:18"
+        }
+      ]
+    },
+    {
       "event_id": 579,
       "title": "Political pushback to the NextEra-Dominion deal has spread to New England",
       "summary": "The proposed $67-billion merger between NextEra and Dominion Energy, which would create the world's largest regulated utility, is facing increasing political opposition beyond Virginia, spreading to New England states. Governors from Connecticut, Maine, Massachusetts, Rhode Island, and Vermont have voiced concerns about the unprecedented concentration of leverage and its potential impact on regional energy markets and ratepayers. This pushback is partly fueled by NextEra's past attempts to block a major transmission line in Maine, raising questions about the deal's ultimate approval despite company assurances of a \"win-win\" scenario.",
@@ -20,7 +84,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.318016,
+          "sentiment_score": -0.344857,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -28,7 +92,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.996332,
-          "sentiment_score": -0.293396,
+          "sentiment_score": -0.292689,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -1131,57 +1195,6 @@
           "headline": "AMETEK completes $5B acquisition of Indicor Instrumentation, boosting 2026 sales and earnings.",
           "url": "https://pluang.com/en/news-feed/ametek-selesaikan-akuisisi-indicor-instrumentation",
           "published_at": "2026-08-26T23:07:59"
-        }
-      ]
-    },
-    {
-      "event_id": 475,
-      "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
-      "summary": "Morgan Stanley predicts a significant increase in dividends from Thai refiners, expecting them to rise three times in 2026. This is attributed to companies distributing excess profits after reducing debt and a positive outlook on the durability of the refining cycle. The bank anticipates stronger cash generation due to sustained high annual refining margins and improving balance sheets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-26T16:16:14",
-      "first_seen_at": "2026-08-26T18:00:02.582444",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.945269,
-          "sentiment_score": 0.380035,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.939928
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.846088
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.749339
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648336
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 498,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Morgan Stanley sees Thai refiners boosting dividends sharply",
-          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-thai-refiners-boosting-dividends-sharply-93CH-4877623",
-          "published_at": "2026-08-26T16:16:14"
         }
       ]
     }
