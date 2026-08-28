@@ -20,7 +20,7 @@
           "symbol": "CHRW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.492828,
+          "sentiment_score": 0.482017,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,15 +32,15 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.826586
+          "relevance_score": 0.84461
         },
         {
           "topic": "technology",
-          "relevance_score": 0.734826
+          "relevance_score": 0.745478
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.645547
+          "relevance_score": 0.649747
         }
       ],
       "articles": [
@@ -71,7 +71,7 @@
           "symbol": "TJX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.623401,
+          "sentiment_score": 0.629799,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -87,7 +87,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.617717
+          "relevance_score": 0.629964
         }
       ],
       "articles": [
@@ -118,7 +118,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404921,
+          "sentiment_score": 0.415825,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -169,7 +169,7 @@
           "symbol": "AXP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404103,
+          "sentiment_score": 0.428347,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -177,7 +177,7 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.63971,
-          "sentiment_score": 0.344504,
+          "sentiment_score": 0.332207,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -185,7 +185,7 @@
           "symbol": "COF",
           "asset_class": null,
           "relevance_score": 0.584498,
-          "sentiment_score": -0.107845,
+          "sentiment_score": -0.118171,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -193,7 +193,7 @@
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 0.584232,
-          "sentiment_score": 0.322458,
+          "sentiment_score": 0.31164,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -201,7 +201,7 @@
           "symbol": "IBM",
           "asset_class": null,
           "relevance_score": 0.57984,
-          "sentiment_score": 0.228016,
+          "sentiment_score": 0.24304,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -209,7 +209,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.562282,
-          "sentiment_score": 0.248096,
+          "sentiment_score": 0.221333,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -225,7 +225,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.747679
+          "relevance_score": 0.748672
         },
         {
           "topic": "economy_macro",
@@ -269,31 +269,31 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.317021,
-          "sentiment_label": "Somewhat-Bullish",
+          "sentiment_score": 0.129644,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 0.649074,
-          "sentiment_score": -0.318385,
-          "sentiment_label": "Somewhat-Bearish",
+          "sentiment_score": -0.120903,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.648625,
-          "sentiment_score": -0.33108,
-          "sentiment_label": "Somewhat-Bearish",
+          "sentiment_score": -0.132446,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.645902,
-          "sentiment_score": -0.14176,
+          "sentiment_score": -0.118691,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -301,15 +301,15 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.644815,
-          "sentiment_score": -0.31696,
-          "sentiment_label": "Somewhat-Bearish",
+          "sentiment_score": -0.13171,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.641913,
-          "sentiment_score": 0.339048,
+          "sentiment_score": 0.304534,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -426,8 +426,8 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.265769,
-          "sentiment_label": "Somewhat-Bullish",
+          "sentiment_score": 0.384002,
+          "sentiment_label": "Bullish",
           "relationship_type": null
         }
       ],
