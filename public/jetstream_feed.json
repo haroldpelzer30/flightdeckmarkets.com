@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 620,
+      "title": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
+      "summary": "CSX stock is trading above $51 after the company reported a strong Q2 2026, exceeding earnings and revenue expectations. The railroad operator also raised its full-year 2026 guidance, driven by robust intermodal demand and cost efficiency. Institutional interest and a consistent dividend further bolster the investment case for CSX.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-08-28T19:44:25",
+      "first_seen_at": "2026-08-29T00:00:02.341672",
+      "assets": [
+        {
+          "symbol": "CSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456673,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.943609
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.827358
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 704,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Ad-hoc-news.de",
+          "source_domain": "Ad-hoc-news.de",
+          "headline": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/csx-stock-holds-above-51-as-q2-2026-beat-and-higher-guidance-support/70017121",
+          "published_at": "2026-08-28T19:44:25"
+        }
+      ]
+    },
+    {
       "event_id": 588,
       "title": "C.H. Robinson stock holds high after Q2 2026 earnings beat",
       "summary": "C.H. Robinson stock is trading near recent highs after reporting a strong Q2 2026 earnings beat, driven by efficiency gains from AI integration into its logistics network. The company's use of AI for improved decision-making and routing has led to cost discipline and better asset utilization, boosting profitability above analyst expectations. This performance has supported a significant single-day gain and consolidation of the stock price, with insider trading activity also reflecting confidence in the company's technology-driven strategy.",
@@ -20,7 +67,7 @@
           "symbol": "CHRW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.479396,
+          "sentiment_score": 0.483351,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -71,7 +118,7 @@
           "symbol": "TJX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.621376,
+          "sentiment_score": 0.615352,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -118,7 +165,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.448285,
+          "sentiment_score": 0.445752,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -130,7 +177,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.927577
+          "relevance_score": 0.942632
         },
         {
           "topic": "manufacturing",
@@ -169,7 +216,7 @@
           "symbol": "AXP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.427084,
+          "sentiment_score": 0.410972,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -177,7 +224,7 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.63971,
-          "sentiment_score": 0.312694,
+          "sentiment_score": 0.304231,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -185,7 +232,7 @@
           "symbol": "COF",
           "asset_class": null,
           "relevance_score": 0.587718,
-          "sentiment_score": -0.126924,
+          "sentiment_score": -0.104884,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -193,7 +240,7 @@
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 0.587712,
-          "sentiment_score": 0.327296,
+          "sentiment_score": 0.324856,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -201,15 +248,15 @@
           "symbol": "IBM",
           "asset_class": null,
           "relevance_score": 0.58373,
-          "sentiment_score": 0.238971,
+          "sentiment_score": 0.210368,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
-          "relevance_score": 0.566063,
-          "sentiment_score": 0.223622,
+          "relevance_score": 0.583498,
+          "sentiment_score": 0.22032,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1219,53 +1266,6 @@
           "headline": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
           "url": "https://uk.finance.yahoo.com/news/zacks-industry-outlook-pultegroup-m-082300032.html",
           "published_at": "2026-08-27T08:51:35"
-        }
-      ]
-    },
-    {
-      "event_id": 531,
-      "title": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
-      "summary": "Enphase Energy's stock moved as the broader energy sector firmed due to strengthening crude prices, highlighting renewed interest in home-solar demand. The company, known for its microinverters and home-battery systems, benefits from themes of energy security and self-reliance, especially as residential electricity consumption continues to rise. Enphase positions itself at the forefront of distributed home energy systems, leveraging its integrated hardware and software to offer resilient and intelligent power solutions amidst competitive market dynamics.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-27T08:41:48",
-      "first_seen_at": "2026-08-27T18:00:04.326282",
-      "assets": [
-        {
-          "symbol": "ENPH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.405996,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.928642
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847337
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.738864
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 573,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
-          "url": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-stock-moves-as-home-solar-demand-stays-in-view",
-          "published_at": "2026-08-27T08:41:48"
         }
       ]
     }
