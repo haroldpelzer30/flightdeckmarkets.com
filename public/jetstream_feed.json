@@ -20,7 +20,7 @@
           "symbol": "PCAR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.274554,
+          "sentiment_score": 0.265948,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +28,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.900032
+          "relevance_score": 0.916806
         },
         {
           "topic": "financial_markets",
@@ -36,15 +36,15 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.707878
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.616217
+          "relevance_score": 0.716438
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.612616
+          "relevance_score": 0.635031
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.620509
         }
       ],
       "articles": [
@@ -75,7 +75,7 @@
           "symbol": "CSCO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.613214,
+          "sentiment_score": 0.64618,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +83,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.907196
+          "relevance_score": 0.931913
         },
         {
           "topic": "technology",
@@ -91,7 +91,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.718828
+          "relevance_score": 0.722328
         }
       ],
       "articles": [
