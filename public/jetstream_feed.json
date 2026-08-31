@@ -5,6 +5,140 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 632,
+      "title": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
+      "summary": "UBS has reiterated its Neutral rating and $108 price target for ONEOK Inc. following the company's acquisition of Brazos Midstream’s Permian Midland Basin assets for $4.4 billion. This acquisition is expected to significantly increase ONEOK's Permian processing capacity and enhance its Permian franchise, despite the stock currently trading near its 52-week high. Separately, ONEOK reported strong Q2 2026 earnings, beating EPS estimates and raising its full-year outlook, leading Freedom Broker to upgrade the stock to Buy.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-08-31T12:28:39",
+      "first_seen_at": "2026-08-31T15:00:02.496194",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.206087,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.605705,
+          "sentiment_score": 0.109854,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936057
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.801654
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.738954
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 717,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
+          "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-neutral-on-oneok-stock-after-permian-acquisition-93CH-4882625",
+          "published_at": "2026-08-31T12:28:39"
+        }
+      ]
+    },
+    {
+      "event_id": 633,
+      "title": "Oneok Bets $4.425 Billion on Brazos Assets To Expand Permian Operations",
+      "summary": "Oneok, Inc. announced its plan to acquire Brazos Midstream's Permian Midland Basin",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-08-31T12:18:39",
+      "first_seen_at": "2026-08-31T15:00:02.764261",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 0.960941,
+          "sentiment_score": 0.459359,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.727175,
+          "sentiment_score": 0.328183,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.635006,
+          "sentiment_score": 0.229505,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.563573,
+          "sentiment_score": 0.225849,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.937575
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839019
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.717255
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 718,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Oneok Bets $4.425 Billion on Brazos Assets To Expand Permian Operations",
+          "url": "https://www.benzinga.com/m-a/26/08/61518449/oneok-bets-4-425-billion-on-brazos-assets-to-expand-permian-operations",
+          "published_at": "2026-08-31T12:18:39"
+        }
+      ]
+    },
+    {
       "event_id": 629,
       "title": "Garmin stock gains on tariff refunds and higher guidance",
       "summary": "Garmin's stock has gained attention following a report that $21 million in tariff refunds boosted margins in the last quarter and led management to raise full-year guidance. Strong demand for Garmin's fitness products also contributed to the positive results, highlighting the company's strong earnings power beyond just unit growth. The company's high-end fenix series watches continue to keep the brand visible, while investors focus on the earnings update to justify a potentially higher stock range.",
@@ -20,7 +154,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.500367,
+          "sentiment_score": 0.541048,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +162,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.904483
+          "relevance_score": 0.905401
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.819639
+          "relevance_score": 0.839421
         },
         {
           "topic": "retail_wholesale",
@@ -44,7 +178,7 @@
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.611
+          "relevance_score": 0.636595
         }
       ],
       "articles": [
@@ -75,7 +209,7 @@
           "symbol": "PCAR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.282259,
+          "sentiment_score": 0.28388,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -87,11 +221,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.813837
+          "relevance_score": 0.836962
         },
         {
           "topic": "finance",
-          "relevance_score": 0.720526
+          "relevance_score": 0.72348
         },
         {
           "topic": "manufacturing",
@@ -130,7 +264,7 @@
           "symbol": "CSCO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.638645,
+          "sentiment_score": 0.634383,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -138,7 +272,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.931913
+          "relevance_score": 0.942184
         },
         {
           "topic": "technology",
@@ -146,7 +280,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.722328
+          "relevance_score": 0.749383
         }
       ],
       "articles": [
@@ -158,6 +292,99 @@
           "headline": "Cisco Systems stock steady after earnings beat and upbeat guidance",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cisco-systems-stock-steady-after-earnings-beat-and-upbeat-guidance/70026714",
           "published_at": "2026-08-31T04:26:53"
+        }
+      ]
+    },
+    {
+      "event_id": 634,
+      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
+      "summary": "ONEOK, Inc. announced a definitive agreement to acquire Brazos Midstream's Permian Midland Basin assets for $4.425 billion. This acquisition will be funded by a $9 billion nonvoting minority equity investment from Apollo funds, with $5 billion used to reduce ONEOK's existing debt. The deal is expected to be immediately accretive to earnings and free cash flow per share, accelerating ONEOK's deleveraging and growth in the Permian Midland Basin.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-08-30T20:18:39",
+      "first_seen_at": "2026-08-31T15:00:03.097576",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.474016,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.873646,
+          "sentiment_score": 0.329995,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.626727,
+          "sentiment_score": 0.191373,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.626027,
+          "sentiment_score": 0.15792,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.936478
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.818892
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.601329
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 721,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ONEOK, Inc.",
+          "source_domain": "ONEOK, Inc.",
+          "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
+          "url": "https://ir.oneok.com/news-and-events/press-releases/2026/08-30-2026-214020927",
+          "published_at": "2026-08-30T20:18:39"
+        },
+        {
+          "article_id": 720,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ChemAnalyst",
+          "source_domain": "ChemAnalyst",
+          "headline": "ONEOK to Acquire Brazos Midland Assets for $4.425 Billion",
+          "url": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/oneok-to-acquire-brazos-midland-assets-for-4425-billion-44172",
+          "published_at": "2026-08-31T06:18:39"
+        },
+        {
+          "article_id": 719,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets in $4.43 Billion Deal",
+          "url": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midstream-apos-111431738.html",
+          "published_at": "2026-08-31T11:18:39"
         }
       ]
     },
@@ -1084,175 +1311,6 @@
           "headline": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
           "url": "https://www.marketbeat.com/instant-alerts/filing-palo-duro-investment-partners-lp-acquires-shares-of-663389-enphase-energy-inc-enph-2026-08-27/",
           "published_at": "2026-08-27T10:41:48"
-        }
-      ]
-    },
-    {
-      "event_id": 507,
-      "title": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
-      "summary": "Stonebridge Capital Management Inc. has acquired a new stake in Amgen Inc., purchasing 4,736 shares valued at approximately $1.7 million in the second quarter. This move comes as other institutional investors have also adjusted their positions in the medical research company. Amgen recently reported strong financial results, exceeding analyst estimates for EPS and revenue, and announced a quarterly dividend of $2.52 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-27T10:41:06",
-      "first_seen_at": "2026-08-27T15:00:02.255940",
-      "assets": [
-        {
-          "symbol": "AMGN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.323669,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947875
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.842827
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.742569
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.649877
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 545,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Stonebridge Capital Management Inc. Acquires New Stake in Amgen Inc. $AMGN",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-stonebridge-capital-management-inc-acquires-new-stake-in-amgen-inc-amgn-2026-08-27/",
-          "published_at": "2026-08-27T10:41:06"
-        }
-      ]
-    },
-    {
-      "event_id": 514,
-      "title": "Man Group plc Acquires New Stake in Caesars Entertainment, Inc. $CZR",
-      "summary": "Man Group plc initiated a new position in Caesars Entertainment, Inc. by acquiring 1.09 million shares, valued at approximately $33.0 million, representing a 0.54% stake. This comes as institutional investors and hedge funds own a significant portion of Caesars stock, while company insiders have been selling shares. Analysts generally maintain a \"Hold\" rating on Caesars Entertainment, with the company recently missing quarterly earnings expectations despite a modest revenue increase.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-27T10:13:40",
-      "first_seen_at": "2026-08-27T16:00:02.768353",
-      "assets": [
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.005337,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 0.646819,
-          "sentiment_score": 0.127451,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LVS",
-          "asset_class": null,
-          "relevance_score": 0.626405,
-          "sentiment_score": 0.140866,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941698
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843163
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.74575
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 554,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Man Group plc Acquires New Stake in Caesars Entertainment, Inc. $CZR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-acquires-new-stake-in-caesars-entertainment-inc-czr-2026-08-27/",
-          "published_at": "2026-08-27T10:13:40"
-        }
-      ]
-    },
-    {
-      "event_id": 563,
-      "title": "Magnolia Capital Advisors LLC Purchases Shares of 5,441 Diamondback Energy, Inc. $FANG",
-      "summary": "Magnolia Capital Advisors LLC has acquired 5,441 shares of Diamondback Energy, Inc. (FANG) valued at approximately $956,000, establishing a new position in the company. Institutional investors now own 90.01% of Diamondback Energy, which holds a \"Moderate Buy\" consensus rating with an average price target of $222.21. The company recently reported strong quarterly earnings of $6.48 per share, exceeding estimates, and paid a quarterly dividend of $1.10 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-27T09:58:29",
-      "first_seen_at": "2026-08-27T22:00:04.015317",
-      "assets": [
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.475103,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.924366
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.844611
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.717367
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.629455
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 605,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Magnolia Capital Advisors LLC Purchases Shares of 5,441 Diamondback Energy, Inc. $FANG",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-magnolia-capital-advisors-llc-purchases-shares-of-5441-diamondback-energy-inc-fang-2026-08-27/",
-          "published_at": "2026-08-27T09:58:29"
         }
       ]
     }
