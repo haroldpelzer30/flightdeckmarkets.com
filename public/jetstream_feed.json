@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 625,
+      "title": "Hennessy Advisors Inc. Acquires Shares of 21,636 PACCAR Inc. $PCAR",
+      "summary": "Hennessy Advisors Inc. recently acquired 21,636 shares of PACCAR Inc. (NASDAQ:PCAR) in the second quarter, representing an investment of approximately $2.6 million. Despite institutional investors owning 64.9% of the company, analysts maintain a cautious \"Hold\" rating with an average price target of $131.70. PACCAR exceeded quarterly earnings expectations, reporting $1.43 EPS and $7.55 billion in revenue, and declared a quarterly dividend of $0.35 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-08-31T08:19:03",
+      "first_seen_at": "2026-08-31T12:00:03.646463",
+      "assets": [
+        {
+          "symbol": "PCAR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.274554,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900032
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813837
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.707878
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.616217
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.612616
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 710,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Hennessy Advisors Inc. Acquires Shares of 21,636 PACCAR Inc. $PCAR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-hennessy-advisors-inc-acquires-shares-of-21636-paccar-inc-pcar-2026-08-31/",
+          "published_at": "2026-08-31T08:19:03"
+        }
+      ]
+    },
+    {
+      "event_id": 626,
+      "title": "Cisco Systems stock steady after earnings beat and upbeat guidance",
+      "summary": "Cisco Systems stock remained steady at around $109 after the company reported double-digit revenue growth and an EPS beat in its latest quarter, exceeding consensus estimates. The networking giant also provided upbeat guidance for fiscal year 2027, projecting strong earnings growth and a positive outlook for the first quarter. Analysts maintain a \"moderate buy\" consensus rating with an average price target implying significant upside, supported by Cisco's strong margins, dividend payments, and strategic positioning in the AI and cloud infrastructure markets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-08-31T04:26:53",
+      "first_seen_at": "2026-08-31T12:00:03.990446",
+      "assets": [
+        {
+          "symbol": "CSCO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.613214,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907196
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.801991
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.718828
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 711,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Cisco Systems stock steady after earnings beat and upbeat guidance",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cisco-systems-stock-steady-after-earnings-beat-and-upbeat-guidance/70026714",
+          "published_at": "2026-08-31T04:26:53"
+        }
+      ]
+    },
+    {
       "event_id": 620,
       "title": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
       "summary": "CSX stock is trading above $51 after the company reported a strong Q2 2026, exceeding earnings and revenue expectations. The railroad operator also raised its full-year 2026 guidance, driven by robust intermodal demand and cost efficiency. Institutional interest and a consistent dividend further bolster the investment case for CSX.",
@@ -1160,112 +1262,6 @@
           "headline": "The Manufacturers Life Insurance Company Acquires New Shares in Marathon Petroleum Corporation $MPC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-acquires-new-shares-in-marathon-petroleum-corporation-mpc-2026-08-27/",
           "published_at": "2026-08-27T09:28:40"
-        }
-      ]
-    },
-    {
-      "event_id": 529,
-      "title": "Legal & General Group Plc Acquires Shares of 1,394,143 PPG Industries, Inc. $PPG",
-      "summary": "Legal & General Group Plc has acquired a significant new stake of 1,394,143 shares in PPG Industries, Inc. (NYSE:PPG) during the second quarter, valued at approximately $169 million. This acquisition makes Legal & General Group Plc a notable institutional investor, holding about 0.63% of PPG Industries. The article also highlights other institutional investments, analyst forecasts, and recent financial performance, including PPG Industries' increased dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-27T09:21:26",
-      "first_seen_at": "2026-08-27T18:00:03.870345",
-      "assets": [
-        {
-          "symbol": "PPG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.303086,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SHW",
-          "asset_class": null,
-          "relevance_score": 0.746699,
-          "sentiment_score": 0.228686,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938732
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840848
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.739413
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.649961
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 571,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Legal & General Group Plc Acquires Shares of 1,394,143 PPG Industries, Inc. $PPG",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-acquires-shares-of-1394143-ppg-industries-inc-ppg-2026-08-27/",
-          "published_at": "2026-08-27T09:21:26"
-        }
-      ]
-    },
-    {
-      "event_id": 487,
-      "title": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
-      "summary": "The Zacks Building Products - Home Builders industry is poised for long-term growth in 2026 due to tight housing supply, steady demand, and easing mortgage rates, benefiting companies like PulteGroup, M/I Homes, and Century Communities. Despite near-term challenges such as affordability issues, high land costs, and reliance on sales incentives, the industry's structural housing shortage and favorable demographics support future demand. Builders are adapting through build-to-order models, community expansion, disciplined inventory management, and technology adoption to navigate these challenges and capitalize on growth opportunities.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-08-27T08:51:35",
-      "first_seen_at": "2026-08-27T12:00:03.016630",
-      "assets": [
-        {
-          "symbol": "PHM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.275915,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947145
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.846149
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 511,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "Zacks Industry Outlook PulteGroup, M/I Homes and Century",
-          "url": "https://uk.finance.yahoo.com/news/zacks-industry-outlook-pultegroup-m-082300032.html",
-          "published_at": "2026-08-27T08:51:35"
         }
       ]
     }
