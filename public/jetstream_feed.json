@@ -20,7 +20,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.213593,
+          "sentiment_score": 0.220848,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.638759,
-          "sentiment_score": 0.144559,
+          "sentiment_score": 0.106466,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,7 +44,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.8329
+          "relevance_score": 0.835118
         },
         {
           "topic": "financial_markets",
@@ -79,7 +79,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 0.995645,
-          "sentiment_score": 0.463425,
+          "sentiment_score": 0.486303,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,7 +87,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.736035,
-          "sentiment_score": 0.315244,
+          "sentiment_score": 0.328573,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -95,7 +95,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.245402,
+          "sentiment_score": 0.216971,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -103,7 +103,7 @@
           "symbol": "FANG",
           "asset_class": null,
           "relevance_score": 0.578916,
-          "sentiment_score": 0.202485,
+          "sentiment_score": 0.213259,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -123,7 +123,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.726861
+          "relevance_score": 0.732411
         }
       ],
       "articles": [
@@ -154,7 +154,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.410205,
+          "sentiment_score": 0.400414,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -274,7 +274,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.536133,
+          "sentiment_score": 0.541343,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -286,7 +286,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.839421
+          "relevance_score": 0.846971
         },
         {
           "topic": "economy_fiscal",
@@ -329,7 +329,7 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.503193,
+          "sentiment_score": 0.540625,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -337,7 +337,7 @@
           "symbol": "WELL",
           "asset_class": null,
           "relevance_score": 0.639621,
-          "sentiment_score": 0.312294,
+          "sentiment_score": 0.339678,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
