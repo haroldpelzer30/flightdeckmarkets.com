@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 669,
+      "title": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
+      "summary": "This article compares Constellation Energy (CEG) and NextEra Energy (NEE) as potential utility stock investments for 2026, highlighting their different strengths in energy production. Constellation Energy is a nuclear power leader catering to data centers, while NextEra Energy dominates renewables and operates a large regulated utility. The choice between them depends on an investor's preference for growth, income, and risk tolerance, with NextEra being more conservative and income-focused, and Constellation offering higher growth potential with increased volatility.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-31T18:38:07",
+      "first_seen_at": "2026-08-31T21:00:02.291029",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.278977,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 0.959185,
+          "sentiment_score": 0.246515,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.61846,
+          "sentiment_score": 0.325085,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.582369,
+          "sentiment_score": -0.121411,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.554237,
+          "sentiment_score": 0.3449,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941219
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.911392
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.841355
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 757,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4359821/constellation-energy-vs-nextera-energy-which-utilities-stock-is-a-better-investment-in-2026/",
+          "published_at": "2026-08-31T18:38:07"
+        }
+      ]
+    },
+    {
       "event_id": 632,
       "title": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
       "summary": "UBS has reiterated its Neutral rating and $108 price target for ONEOK Inc. following the company's acquisition of Brazos Midstream’s Permian Midland Basin assets for $4.4 billion. This acquisition is expected to significantly increase ONEOK's Permian processing capacity and enhance its Permian franchise, despite the stock currently trading near its 52-week high. Separately, ONEOK reported strong Q2 2026 earnings, beating EPS estimates and raising its full-year outlook, leading Freedom Broker to upgrade the stock to Buy.",
@@ -20,15 +99,15 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.220848,
+          "sentiment_score": 0.248803,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
-          "relevance_score": 0.638759,
-          "sentiment_score": 0.106466,
+          "relevance_score": 0.643502,
+          "sentiment_score": 0.107893,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -79,7 +158,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 0.995645,
-          "sentiment_score": 0.486303,
+          "sentiment_score": 0.457234,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,7 +166,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.736035,
-          "sentiment_score": 0.328573,
+          "sentiment_score": 0.310545,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -95,15 +174,15 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.216971,
+          "sentiment_score": 0.244459,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FANG",
           "asset_class": null,
-          "relevance_score": 0.578916,
-          "sentiment_score": 0.213259,
+          "relevance_score": 0.598233,
+          "sentiment_score": 0.2307,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -123,7 +202,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.732411
+          "relevance_score": 0.739322
         }
       ],
       "articles": [
@@ -154,7 +233,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.400414,
+          "sentiment_score": 0.413411,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -195,7 +274,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.402912,
+          "sentiment_score": 0.40095,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -203,23 +282,23 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 0.924702,
-          "sentiment_score": 0.449155,
+          "sentiment_score": 0.419879,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "EQIX",
           "asset_class": null,
-          "relevance_score": 0.622441,
-          "sentiment_score": 0.299699,
+          "relevance_score": 0.632093,
+          "sentiment_score": 0.278032,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DLR",
           "asset_class": null,
-          "relevance_score": 0.553787,
-          "sentiment_score": 0.287761,
+          "relevance_score": 0.599246,
+          "sentiment_score": 0.281819,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -235,7 +314,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.719941
+          "relevance_score": 0.736783
         },
         {
           "topic": "energy_transportation",
@@ -243,7 +322,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.608383
+          "relevance_score": 0.616238
         }
       ],
       "articles": [
@@ -274,7 +353,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541343,
+          "sentiment_score": 0.501476,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -282,7 +361,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.927476
+          "relevance_score": 0.939273
         },
         {
           "topic": "financial_markets",
@@ -294,7 +373,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.647451
+          "relevance_score": 0.648038
         },
         {
           "topic": "technology",
@@ -329,7 +408,7 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.540625,
+          "sentiment_score": 0.524827,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -337,7 +416,7 @@
           "symbol": "WELL",
           "asset_class": null,
           "relevance_score": 0.639621,
-          "sentiment_score": 0.339678,
+          "sentiment_score": 0.300281,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -345,7 +424,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.933812
+          "relevance_score": 0.940202
         },
         {
           "topic": "earnings",
@@ -1270,53 +1349,6 @@
           "headline": "Americans of All Incomes Head to Dollar Stores to Stay Frugal",
           "url": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
           "published_at": "2026-08-27T18:42:19"
-        }
-      ]
-    },
-    {
-      "event_id": 533,
-      "title": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
-      "summary": "Alphabet Class C stock trades in the high $330s as of late August 2026, demonstrating resilience despite negative free cash flow from aggressive AI infrastructure investments. The company reported strong Q2 2026 earnings, with revenue up 24.23% and Google Cloud revenue surging 82%, alongside an expansion in cloud operating margin. While facing a $692 billion market value reduction due to AI execution risk concerns, Alphabet has initiated a dividend and authorized an $85 billion stock issuance to finance future growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-27T16:54:13",
-      "first_seen_at": "2026-08-27T19:00:03.866718",
-      "assets": [
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.26386,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947926
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.835103
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.742719
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 575,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-alphabet-c-stock-weathers-heavy-ai-capex-after-q2-2026-earnings/70009954",
-          "published_at": "2026-08-27T16:54:13"
         }
       ]
     }
