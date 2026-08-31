@@ -20,39 +20,39 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.278977,
+          "sentiment_score": 0.287029,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CEG",
           "asset_class": null,
-          "relevance_score": 0.959185,
-          "sentiment_score": 0.246515,
+          "relevance_score": 0.973612,
+          "sentiment_score": 0.2029,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MSFT",
           "asset_class": null,
-          "relevance_score": 0.61846,
-          "sentiment_score": 0.325085,
+          "relevance_score": 0.649842,
+          "sentiment_score": 0.318779,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "D",
           "asset_class": null,
-          "relevance_score": 0.582369,
-          "sentiment_score": -0.121411,
+          "relevance_score": 0.595939,
+          "sentiment_score": -0.130508,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "NFLX",
           "asset_class": null,
-          "relevance_score": 0.554237,
-          "sentiment_score": 0.3449,
+          "relevance_score": 0.584906,
+          "sentiment_score": 0.305274,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -84,6 +84,77 @@
       ]
     },
     {
+      "event_id": 677,
+      "title": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
+      "summary": "Bernstein SocGen Group has reiterated its Market Perform rating and $55.00 price target for PayPal Holdings Inc. (NASDAQ:PYPL) after the collapse of acquisition talks with Stripe and Advent International. Despite the failed deal, InvestingPro analysis suggests PayPal is significantly undervalued, with strong fundamentals including growing buy now, pay later and Venmo businesses, and revenue of $34.1 billion. The stock is currently trading lower after the deal's collapse, but analysts suggest it would likely remain in the low to mid-50s even without a deal premium.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-31T14:19:38",
+      "first_seen_at": "2026-08-31T22:00:02.625198",
+      "assets": [
+        {
+          "symbol": "PYPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.13188,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MA",
+          "asset_class": null,
+          "relevance_score": 0.648714,
+          "sentiment_score": 0.136223,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "V",
+          "asset_class": null,
+          "relevance_score": 0.621899,
+          "sentiment_score": 0.124725,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921104
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.816249
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.734928
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.635213
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 765,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
+          "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-paypal-stock-rating-after-stripe-deal-collapse-93CH-4882947",
+          "published_at": "2026-08-31T14:19:38"
+        }
+      ]
+    },
+    {
       "event_id": 632,
       "title": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
       "summary": "UBS has reiterated its Neutral rating and $108 price target for ONEOK Inc. following the company's acquisition of Brazos Midstream’s Permian Midland Basin assets for $4.4 billion. This acquisition is expected to significantly increase ONEOK's Permian processing capacity and enhance its Permian franchise, despite the stock currently trading near its 52-week high. Separately, ONEOK reported strong Q2 2026 earnings, beating EPS estimates and raising its full-year outlook, leading Freedom Broker to upgrade the stock to Buy.",
@@ -99,7 +170,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.248803,
+          "sentiment_score": 0.239456,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -107,7 +178,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.643502,
-          "sentiment_score": 0.107893,
+          "sentiment_score": 0.100562,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -158,7 +229,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 0.995645,
-          "sentiment_score": 0.457234,
+          "sentiment_score": 0.454666,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -166,7 +237,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.736035,
-          "sentiment_score": 0.310545,
+          "sentiment_score": 0.332228,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -174,15 +245,15 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.244459,
+          "sentiment_score": 0.235558,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FANG",
           "asset_class": null,
-          "relevance_score": 0.598233,
-          "sentiment_score": 0.2307,
+          "relevance_score": 0.598906,
+          "sentiment_score": 0.244167,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -202,7 +273,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.739322
+          "relevance_score": 0.744704
         }
       ],
       "articles": [
@@ -233,7 +304,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.413411,
+          "sentiment_score": 0.416856,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -274,7 +345,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.40095,
+          "sentiment_score": 0.425666,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -282,7 +353,7 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 0.924702,
-          "sentiment_score": 0.419879,
+          "sentiment_score": 0.448794,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -290,7 +361,7 @@
           "symbol": "EQIX",
           "asset_class": null,
           "relevance_score": 0.632093,
-          "sentiment_score": 0.278032,
+          "sentiment_score": 0.273027,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -298,7 +369,7 @@
           "symbol": "DLR",
           "asset_class": null,
           "relevance_score": 0.599246,
-          "sentiment_score": 0.281819,
+          "sentiment_score": 0.2668,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -317,12 +388,12 @@
           "relevance_score": 0.736783
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.630908
+          "topic": "manufacturing",
+          "relevance_score": 0.632351
         },
         {
-          "topic": "manufacturing",
-          "relevance_score": 0.616238
+          "topic": "energy_transportation",
+          "relevance_score": 0.630908
         }
       ],
       "articles": [
@@ -353,7 +424,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.501476,
+          "sentiment_score": 0.541101,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -393,6 +464,61 @@
       ]
     },
     {
+      "event_id": 683,
+      "title": "PayPal: An Abandoned Buyout Offer Likely To Make The Investment Case Stronger (PYPL)",
+      "summary": "PayPal is rated a Strong Buy, with the author arguing it's deeply undervalued despite strong fundamentals and a turnaround under new leadership. The reportedly abandoned $60.50/share buyout offer by Stripe-Advent highlights this undervaluation, suggesting significant re-rating potential. While macro and competitive risks exist, the current valuation is seen as compensating, offering long-term investors asymmetric upside.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-31T10:37:00",
+      "first_seen_at": "2026-08-31T22:00:04.247542",
+      "assets": [
+        {
+          "symbol": "PYPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.404335,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906699
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.814115
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811471
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.742141
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.63113
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 771,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "PayPal: An Abandoned Buyout Offer Likely To Make The Investment Case Stronger (PYPL)",
+          "url": "https://seekingalpha.com/article/4941778-paypal-stock-abandoned-buyout-likely-make-investment-case-stronger",
+          "published_at": "2026-08-31T10:37:00"
+        }
+      ]
+    },
+    {
       "event_id": 649,
       "title": "Van ECK Associates Corp Acquires 30,535 Shares of Ventas, Inc. $VTR",
       "summary": "Van ECK Associates Corp increased its stake in Ventas, Inc. by 10.2% during the second quarter, acquiring an additional 30,535 shares. This brings their total holding to 331,350 shares valued at approximately $29.4 million. Other institutional investors also adjusted their positions in Ventas, and a company director purchased 2,500 shares. Analysts generally maintain a \"Moderate Buy\" rating for Ventas with an average price target of $98.00.",
@@ -408,7 +534,7 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.524827,
+          "sentiment_score": 0.538187,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -416,7 +542,7 @@
           "symbol": "WELL",
           "asset_class": null,
           "relevance_score": 0.639621,
-          "sentiment_score": 0.300281,
+          "sentiment_score": 0.322809,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1211,144 +1337,6 @@
           "headline": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
           "url": "https://www.marketbeat.com/instant-alerts/filing-649113-shares-in-first-solar-inc-fslr-purchased-by-legal-general-group-plc-2026-08-28/",
           "published_at": "2026-08-28T09:29:18"
-        }
-      ]
-    },
-    {
-      "event_id": 579,
-      "title": "Political pushback to the NextEra-Dominion deal has spread to New England",
-      "summary": "The proposed $67-billion merger between NextEra and Dominion Energy, which would create the world's largest regulated utility, is facing increasing political opposition beyond Virginia, spreading to New England states. Governors from Connecticut, Maine, Massachusetts, Rhode Island, and Vermont have voiced concerns about the unprecedented concentration of leverage and its potential impact on regional energy markets and ratepayers. This pushback is partly fueled by NextEra's past attempts to block a major transmission line in Maine, raising questions about the deal's ultimate approval despite company assurances of a \"win-win\" scenario.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-08-27T20:32:35",
-      "first_seen_at": "2026-08-28T12:00:02.488126",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.344857,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.996332,
-          "sentiment_score": -0.292689,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.948918
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.644623
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 621,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Latitude Media",
-          "source_domain": "Latitude Media",
-          "headline": "Political pushback to the NextEra-Dominion deal has spread to New England",
-          "url": "https://www.latitudemedia.com/news/political-pushback-to-the-nextera-dominion-deal-has-spread-to-new-england/",
-          "published_at": "2026-08-27T20:32:35"
-        }
-      ]
-    },
-    {
-      "event_id": 557,
-      "title": "Americans of All Incomes Head to Dollar Stores to Stay Frugal",
-      "summary": "Dollar General and Dollar Tree have reported significant sales gains and increased store traffic, driven by shoppers seeking value amidst economic uncertainty and higher gas prices. Both companies noted that while their core customers remain financially constrained, higher-income shoppers are also increasingly visiting their stores, highlighting a broader shift towards frugality. This trend comes as other major retailers like Walmart and Target are also focusing on price reductions to attract cost-conscious consumers.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-27T18:42:19",
-      "first_seen_at": "2026-08-27T22:00:02.348704",
-      "assets": [
-        {
-          "symbol": "DLTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.441495,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 0.941551,
-          "sentiment_score": 0.304055,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 0.74508,
-          "sentiment_score": 0.110387,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 0.644064,
-          "sentiment_score": 0.144576,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HD",
-          "asset_class": null,
-          "relevance_score": 0.643276,
-          "sentiment_score": 0.121618,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.915656
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.846182
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.74387
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 599,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The New York Times",
-          "source_domain": "The New York Times",
-          "headline": "Americans of All Incomes Head to Dollar Stores to Stay Frugal",
-          "url": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
-          "published_at": "2026-08-27T18:42:19"
         }
       ]
     }
