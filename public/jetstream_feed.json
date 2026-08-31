@@ -20,7 +20,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.206022,
+          "sentiment_score": 0.215274,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.638759,
-          "sentiment_score": 0.137429,
+          "sentiment_score": 0.111511,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -78,8 +78,8 @@
         {
           "symbol": "OKE",
           "asset_class": null,
-          "relevance_score": 0.962508,
-          "sentiment_score": 0.46956,
+          "relevance_score": 0.964788,
+          "sentiment_score": 0.481071,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,23 +87,23 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.727175,
-          "sentiment_score": 0.331515,
+          "sentiment_score": 0.3329,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "XOM",
           "asset_class": null,
-          "relevance_score": 0.642214,
-          "sentiment_score": 0.242895,
+          "relevance_score": 0.647629,
+          "sentiment_score": 0.219922,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FANG",
           "asset_class": null,
-          "relevance_score": 0.563573,
-          "sentiment_score": 0.220672,
+          "relevance_score": 0.565946,
+          "sentiment_score": 0.20262,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -123,7 +123,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.717255
+          "relevance_score": 0.726861
         }
       ],
       "articles": [
@@ -154,8 +154,8 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.003403,
-          "sentiment_label": "Neutral",
+          "sentiment_score": 0.443452,
+          "sentiment_label": "Bullish",
           "relationship_type": null
         }
       ],
@@ -166,7 +166,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.928052
+          "relevance_score": 0.943509
         },
         {
           "topic": "financial_markets",
@@ -195,7 +195,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541185,
+          "sentiment_score": 0.541041,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -210,16 +210,16 @@
           "relevance_score": 0.839421
         },
         {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.649788
+        },
+        {
           "topic": "retail_wholesale",
           "relevance_score": 0.647451
         },
         {
           "topic": "technology",
           "relevance_score": 0.644935
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.636595
         }
       ],
       "articles": [
@@ -231,6 +231,65 @@
           "headline": "Garmin stock gains on tariff refunds and higher guidance",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/garmin-stock-gains-on-tariff-refunds-and-higher-guidance/70029014",
           "published_at": "2026-08-31T10:46:29"
+        }
+      ]
+    },
+    {
+      "event_id": 649,
+      "title": "Van ECK Associates Corp Acquires 30,535 Shares of Ventas, Inc. $VTR",
+      "summary": "Van ECK Associates Corp increased its stake in Ventas, Inc. by 10.2% during the second quarter, acquiring an additional 30,535 shares. This brings their total holding to 331,350 shares valued at approximately $29.4 million. Other institutional investors also adjusted their positions in Ventas, and a company director purchased 2,500 shares. Analysts generally maintain a \"Moderate Buy\" rating for Ventas with an average price target of $98.00.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-08-31T10:20:50",
+      "first_seen_at": "2026-08-31T17:00:03.913888",
+      "assets": [
+        {
+          "symbol": "VTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.528366,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WELL",
+          "asset_class": null,
+          "relevance_score": 0.618513,
+          "sentiment_score": 0.329606,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907231
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.8453
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.703384
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.63091
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 737,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Van ECK Associates Corp Acquires 30,535 Shares of Ventas, Inc. $VTR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-van-eck-associates-corp-acquires-30535-shares-of-ventas-inc-vtr-2026-08-31/",
+          "published_at": "2026-08-31T10:20:50"
         }
       ]
     },
@@ -250,7 +309,7 @@
           "symbol": "SYY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.324172,
+          "sentiment_score": 0.320537,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -258,7 +317,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.921961
+          "relevance_score": 0.938319
         },
         {
           "topic": "finance",
@@ -266,7 +325,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.719733
+          "relevance_score": 0.721264
         },
         {
           "topic": "financial_markets",
@@ -301,7 +360,7 @@
           "symbol": "PCAR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.280001,
+          "sentiment_score": 0.2599,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1246,65 +1305,6 @@
           "headline": "Will Southwest’s New Premium Perks and Bag Fees Change Southwest Airlines' (LUV) Narrative?",
           "url": "https://simplywall.st/stocks/us/transportation/nyse-luv/southwest-airlines/news/will-southwests-new-premium-perks-and-bag-fees-change-southw",
           "published_at": "2026-08-27T16:03:08"
-        }
-      ]
-    },
-    {
-      "event_id": 559,
-      "title": "Tariff refunds boost Dollar Tree earnings; sales rise 7%",
-      "summary": "Dollar Tree Inc. reported strong second-quarter earnings, significantly boosted by tariff refunds and comparable store sales gains. The company's earnings per share reached $2.70, surpassing analyst expectations, and net sales increased by 7.0% to $4.9 billion. Dollar Tree also updated its full fiscal year 2026 guidance, projecting higher adjusted earnings per share due to the tariff refunds while maintaining sales expectations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-27T14:42:19",
-      "first_seen_at": "2026-08-27T22:00:02.952290",
-      "assets": [
-        {
-          "symbol": "DLTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.887626,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 0.68331,
-          "sentiment_score": 0.705789,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946328
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.83979
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.63793
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.63695
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 601,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Chain Store Age",
-          "source_domain": "Chain Store Age",
-          "headline": "Tariff refunds boost Dollar Tree earnings; sales rise 7%",
-          "url": "https://chainstoreage.com/tariff-refunds-boost-dollar-tree-earnings-sales-rise-7",
-          "published_at": "2026-08-27T14:42:19"
         }
       ]
     }
