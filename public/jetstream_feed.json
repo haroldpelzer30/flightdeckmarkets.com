@@ -20,15 +20,15 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.287029,
+          "sentiment_score": 0.271866,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CEG",
           "asset_class": null,
-          "relevance_score": 0.973612,
-          "sentiment_score": 0.2029,
+          "relevance_score": 0.988588,
+          "sentiment_score": 0.205808,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.649842,
-          "sentiment_score": 0.318779,
+          "sentiment_score": 0.33661,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +44,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.595939,
-          "sentiment_score": -0.130508,
+          "sentiment_score": -0.133732,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,7 +52,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 0.584906,
-          "sentiment_score": 0.305274,
+          "sentiment_score": 0.309856,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -63,12 +63,12 @@
           "relevance_score": 0.941219
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.911392
+          "topic": "financial_markets",
+          "relevance_score": 0.921922
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.841355
+          "topic": "energy_transportation",
+          "relevance_score": 0.911392
         }
       ],
       "articles": [
@@ -80,6 +80,15 @@
           "headline": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
           "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4359821/constellation-energy-vs-nextera-energy-which-utilities-stock-is-a-better-investment-in-2026/",
           "published_at": "2026-08-31T18:38:07"
+        },
+        {
+          "article_id": 773,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4359821/constellation-energy-vs-nextera-energy-which-utilities-stock-is-a-better-investment-in-2026/",
+          "published_at": "2026-08-31T18:49:39"
         }
       ]
     },
@@ -99,7 +108,7 @@
           "symbol": "PYPL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.13188,
+          "sentiment_score": 0.136386,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -107,7 +116,7 @@
           "symbol": "MA",
           "asset_class": null,
           "relevance_score": 0.648714,
-          "sentiment_score": 0.136223,
+          "sentiment_score": 0.114775,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -115,7 +124,7 @@
           "symbol": "V",
           "asset_class": null,
           "relevance_score": 0.621899,
-          "sentiment_score": 0.124725,
+          "sentiment_score": 0.110479,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -131,11 +140,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.816249
+          "relevance_score": 0.831017
         },
         {
           "topic": "finance",
-          "relevance_score": 0.734928
+          "relevance_score": 0.742267
         },
         {
           "topic": "technology",
@@ -170,15 +179,15 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.239456,
+          "sentiment_score": 0.205581,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
-          "relevance_score": 0.643502,
-          "sentiment_score": 0.100562,
+          "relevance_score": 0.644463,
+          "sentiment_score": 0.140326,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -194,7 +203,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.835118
+          "relevance_score": 0.849853
         },
         {
           "topic": "financial_markets",
@@ -229,7 +238,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 0.995645,
-          "sentiment_score": 0.454666,
+          "sentiment_score": 0.467623,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -237,7 +246,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.736035,
-          "sentiment_score": 0.332228,
+          "sentiment_score": 0.310649,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -245,7 +254,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.235558,
+          "sentiment_score": 0.211694,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -253,7 +262,7 @@
           "symbol": "FANG",
           "asset_class": null,
           "relevance_score": 0.598906,
-          "sentiment_score": 0.244167,
+          "sentiment_score": 0.244384,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -304,7 +313,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416856,
+          "sentiment_score": 0.417151,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -409,6 +418,61 @@
       ]
     },
     {
+      "event_id": 690,
+      "title": "NextEra’s Texas and Pennsylvania Gas Hubs Just Got Funded. Here’s Where the Stock Could Go.",
+      "summary": "NextEra Energy (NEE) has secured funding for up to 10 gigawatts of natural gas generation in Texas and Pennsylvania, with a first tranche of $3.3 billion, moving its growth plan forward. Despite this positive development and strengthening operational story, the stock remains subdued due to market uncertainty surrounding its proposed acquisition of Dominion Energy. Analysts see significant upside potential if the merger resolves favorably and the gas hubs proceed as planned, but regulatory challenges pose a considerable risk.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-08-31T10:49:39",
+      "first_seen_at": "2026-08-31T23:00:04.522524",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.281066,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.71381,
+          "sentiment_score": 0.028022,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.943423
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.928142
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.80303
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 779,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TIKR.com",
+          "source_domain": "TIKR.com",
+          "headline": "NextEra’s Texas and Pennsylvania Gas Hubs Just Got Funded. Here’s Where the Stock Could Go.",
+          "url": "https://www.tikr.com/blog/nexteras-texas-and-pennsylvania-gas-hubs-just-got-funded-heres-where-the-stock-could-go",
+          "published_at": "2026-08-31T10:49:39"
+        }
+      ]
+    },
+    {
       "event_id": 629,
       "title": "Garmin stock gains on tariff refunds and higher guidance",
       "summary": "Garmin's stock has gained attention following a report that $21 million in tariff refunds boosted margins in the last quarter and led management to raise full-year guidance. Strong demand for Garmin's fitness products also contributed to the positive results, highlighting the company's strong earnings power beyond just unit growth. The company's high-end fenix series watches continue to keep the brand visible, while investors focus on the earnings update to justify a potentially higher stock range.",
@@ -424,7 +488,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541101,
+          "sentiment_score": 0.533555,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -479,7 +543,7 @@
           "symbol": "PYPL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404335,
+          "sentiment_score": 0.449336,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -487,23 +551,23 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.906699
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.814115
+          "relevance_score": 0.923342
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.811471
+          "relevance_score": 0.833507
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.82004
         },
         {
           "topic": "finance",
-          "relevance_score": 0.742141
+          "relevance_score": 0.742728
         },
         {
           "topic": "technology",
-          "relevance_score": 0.63113
+          "relevance_score": 0.633849
         }
       ],
       "articles": [
@@ -534,7 +598,7 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.538187,
+          "sentiment_score": 0.511389,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -542,7 +606,7 @@
           "symbol": "WELL",
           "asset_class": null,
           "relevance_score": 0.639621,
-          "sentiment_score": 0.322809,
+          "sentiment_score": 0.326177,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -562,7 +626,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.63091
+          "relevance_score": 0.649581
         }
       ],
       "articles": [
@@ -1273,70 +1337,6 @@
           "headline": "Stanley Capital Management LLC Takes Position in Bank of America Corporation $BAC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-stanley-capital-management-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
           "published_at": "2026-08-28T09:39:12"
-        }
-      ]
-    },
-    {
-      "event_id": 583,
-      "title": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
-      "summary": "Legal & General Group Plc has acquired a new stake of 649,113 shares in First Solar, Inc. (NASDAQ:FSLR), valued at approximately $153.17 million. This purchase makes Legal & General Group Plc the owner of about 0.60% of First Solar's stock. The article also highlights other institutional investments in First Solar and recent analyst ratings and price targets, indicating a generally positive outlook despite some caution.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-28T09:29:18",
-      "first_seen_at": "2026-08-28T16:00:03.267344",
-      "assets": [
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.401726,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.942403
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.922204
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835801
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.745911
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646709
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 626,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "6,072 Shares in First Solar, Inc. $FSLR Bought by Formula Growth Ltd.",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-6072-shares-in-first-solar-inc-fslr-bought-by-formula-growth-ltd-2026-08-28/",
-          "published_at": "2026-08-28T08:29:18"
-        },
-        {
-          "article_id": 625,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "649,113 Shares in First Solar, Inc. $FSLR Purchased by Legal & General Group Plc",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-649113-shares-in-first-solar-inc-fslr-purchased-by-legal-general-group-plc-2026-08-28/",
-          "published_at": "2026-08-28T09:29:18"
         }
       ]
     }
