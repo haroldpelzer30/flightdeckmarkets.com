@@ -20,7 +20,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.215274,
+          "sentiment_score": 0.233769,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.638759,
-          "sentiment_score": 0.111511,
+          "sentiment_score": 0.124977,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,15 +40,15 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.936057
+          "relevance_score": 0.937476
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.823271
+          "relevance_score": 0.8329
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.738954
+          "relevance_score": 0.745515
         }
       ],
       "articles": [
@@ -78,8 +78,8 @@
         {
           "symbol": "OKE",
           "asset_class": null,
-          "relevance_score": 0.964788,
-          "sentiment_score": 0.481071,
+          "relevance_score": 0.977066,
+          "sentiment_score": 0.480191,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,7 +87,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.727175,
-          "sentiment_score": 0.3329,
+          "sentiment_score": 0.316769,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -95,15 +95,15 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.219922,
+          "sentiment_score": 0.230951,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FANG",
           "asset_class": null,
-          "relevance_score": 0.565946,
-          "sentiment_score": 0.20262,
+          "relevance_score": 0.572034,
+          "sentiment_score": 0.209108,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -154,7 +154,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.443452,
+          "sentiment_score": 0.436694,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -195,7 +195,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541041,
+          "sentiment_score": 0.502066,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -250,15 +250,15 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.528366,
+          "sentiment_score": 0.513947,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "WELL",
           "asset_class": null,
-          "relevance_score": 0.618513,
-          "sentiment_score": 0.329606,
+          "relevance_score": 0.63665,
+          "sentiment_score": 0.335363,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -266,7 +266,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.907231
+          "relevance_score": 0.933812
         },
         {
           "topic": "earnings",
@@ -274,7 +274,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.703384
+          "relevance_score": 0.748782
         },
         {
           "topic": "finance",
@@ -309,7 +309,7 @@
           "symbol": "SYY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.320537,
+          "sentiment_score": 0.313997,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -325,7 +325,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.721264
+          "relevance_score": 0.749406
         },
         {
           "topic": "financial_markets",
