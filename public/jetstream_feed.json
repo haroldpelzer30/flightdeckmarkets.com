@@ -20,15 +20,15 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.206087,
+          "sentiment_score": 0.206022,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
-          "relevance_score": 0.605705,
-          "sentiment_score": 0.109854,
+          "relevance_score": 0.638759,
+          "sentiment_score": 0.137429,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,7 +44,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.801654
+          "relevance_score": 0.823271
         },
         {
           "topic": "financial_markets",
@@ -78,8 +78,8 @@
         {
           "symbol": "OKE",
           "asset_class": null,
-          "relevance_score": 0.960941,
-          "sentiment_score": 0.459359,
+          "relevance_score": 0.962508,
+          "sentiment_score": 0.46956,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,15 +87,15 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.727175,
-          "sentiment_score": 0.328183,
+          "sentiment_score": 0.331515,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "XOM",
           "asset_class": null,
-          "relevance_score": 0.635006,
-          "sentiment_score": 0.229505,
+          "relevance_score": 0.642214,
+          "sentiment_score": 0.242895,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -103,7 +103,7 @@
           "symbol": "FANG",
           "asset_class": null,
           "relevance_score": 0.563573,
-          "sentiment_score": 0.225849,
+          "sentiment_score": 0.220672,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -115,11 +115,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.937575
+          "relevance_score": 0.947034
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.839019
+          "relevance_score": 0.842494
         },
         {
           "topic": "finance",
@@ -139,6 +139,47 @@
       ]
     },
     {
+      "event_id": 640,
+      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets in $4.43 Billion Deal",
+      "summary": "ONEOK (OKE) has agreed to acquire Brazos Midstream's natural gas gathering and processing assets located in the Permian Midland Basin. The deal is valued at $4.43 billion. This acquisition will expand ONEOK's presence and capabilities in a key energy production region.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-08-31T11:18:39",
+      "first_seen_at": "2026-08-31T16:00:03.087888",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.003403,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928052
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.614279
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.612073
+        }
+      ],
+      "articles": []
+    },
+    {
       "event_id": 629,
       "title": "Garmin stock gains on tariff refunds and higher guidance",
       "summary": "Garmin's stock has gained attention following a report that $21 million in tariff refunds boosted margins in the last quarter and led management to raise full-year guidance. Strong demand for Garmin's fitness products also contributed to the positive results, highlighting the company's strong earnings power beyond just unit growth. The company's high-end fenix series watches continue to keep the brand visible, while investors focus on the earnings update to justify a potentially higher stock range.",
@@ -154,7 +195,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541048,
+          "sentiment_score": 0.541185,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -162,7 +203,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.905401
+          "relevance_score": 0.923083
         },
         {
           "topic": "financial_markets",
@@ -194,6 +235,57 @@
       ]
     },
     {
+      "event_id": 642,
+      "title": "Public Employees Retirement System of Ohio Acquires Shares of 145,166 Sysco Corporation $SYY",
+      "summary": "The Public Employees Retirement System of Ohio purchased 145,166 shares of Sysco Corporation (SYY) in the second quarter, valued at approximately $12.1 million. Institutional investors now own 83.41% of the company's stock. Sysco reported strong quarterly earnings and revenue, exceeding analyst expectations, and declared a quarterly dividend of $0.55 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-08-31T08:52:39",
+      "first_seen_at": "2026-08-31T16:00:03.613545",
+      "assets": [
+        {
+          "symbol": "SYY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.324172,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921961
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.836887
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.719733
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.637802
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 730,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Public Employees Retirement System of Ohio Acquires Shares of 145,166 Sysco Corporation $SYY",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-public-employees-retirement-system-of-ohio-acquires-shares-of-145166-sysco-corporation-syy-2026-08-31/",
+          "published_at": "2026-08-31T08:52:39"
+        }
+      ]
+    },
+    {
       "event_id": 625,
       "title": "Hennessy Advisors Inc. Acquires Shares of 21,636 PACCAR Inc. $PCAR",
       "summary": "Hennessy Advisors Inc. recently acquired 21,636 shares of PACCAR Inc. (NASDAQ:PCAR) in the second quarter, representing an investment of approximately $2.6 million. Despite institutional investors owning 64.9% of the company, analysts maintain a cautious \"Hold\" rating with an average price target of $131.70. PACCAR exceeded quarterly earnings expectations, reporting $1.43 EPS and $7.55 billion in revenue, and declared a quarterly dividend of $0.35 per share.",
@@ -209,7 +301,7 @@
           "symbol": "PCAR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.28388,
+          "sentiment_score": 0.280001,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -225,15 +317,15 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.72348
+          "relevance_score": 0.730625
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.643918
         },
         {
           "topic": "manufacturing",
           "relevance_score": 0.643186
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.620509
         }
       ],
       "articles": [
@@ -264,7 +356,7 @@
           "symbol": "CSCO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.634383,
+          "sentiment_score": 0.622399,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -276,7 +368,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.804799
+          "relevance_score": 0.814195
         },
         {
           "topic": "financial_markets",
@@ -1213,104 +1305,6 @@
           "headline": "Tariff refunds boost Dollar Tree earnings; sales rise 7%",
           "url": "https://chainstoreage.com/tariff-refunds-boost-dollar-tree-earnings-sales-rise-7",
           "published_at": "2026-08-27T14:42:19"
-        }
-      ]
-    },
-    {
-      "event_id": 568,
-      "title": "ADP stock holds firm after a July 29 earnings beat.",
-      "summary": "Automatic Data Processing (ADP) stock remained firm at $281.39 after its July 29, 2026, earnings beat, reporting $5.47 billion in revenue and $2.64 EPS, surpassing estimates. The company showed 6.8% year-over-year revenue growth and a strong 20.11% net margin, with forward guidance for FY 2027 EPS ranging from $12.12 to $12.34. ADP's core business of payroll and human capital management continues to drive its $111.79 billion market value.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-27T12:16:00",
-      "first_seen_at": "2026-08-27T23:00:03.495855",
-      "assets": [
-        {
-          "symbol": "ADP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.703805,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929598
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.742853
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.647251
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 610,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "ADP stock holds firm after a July 29 earnings beat.",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/adp-stock-holds-firm-after-a-july-29-earnings-beat/70008056",
-          "published_at": "2026-08-27T12:16:00"
-        }
-      ]
-    },
-    {
-      "event_id": 525,
-      "title": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
-      "summary": "Palo Duro Investment Partners LP has acquired 663,389 shares of Enphase Energy, Inc. (NASDAQ:ENPH), valued at approximately $32.7 million, making it 6.3% of their portfolio. Institutional ownership of Enphase remains high at 72.12%, with other major investors also modifying their holdings. Despite reporting earnings per share slightly below estimates, Enphase's revenue exceeded forecasts, and analysts maintain a consensus \"Hold\" rating with an average price target of $45.79.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-27T10:41:48",
-      "first_seen_at": "2026-08-27T18:00:02.892877",
-      "assets": [
-        {
-          "symbol": "ENPH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.079165,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946493
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.848966
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.739443
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.633395
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 567,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Palo Duro Investment Partners LP Acquires Shares of 663,389 Enphase Energy, Inc. $ENPH",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-palo-duro-investment-partners-lp-acquires-shares-of-663389-enphase-energy-inc-enph-2026-08-27/",
-          "published_at": "2026-08-27T10:41:48"
         }
       ]
     }
