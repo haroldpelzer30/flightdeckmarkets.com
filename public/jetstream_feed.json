@@ -20,7 +20,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.233769,
+          "sentiment_score": 0.213593,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.638759,
-          "sentiment_score": 0.124977,
+          "sentiment_score": 0.144559,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,7 +40,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.937476
+          "relevance_score": 0.944155
         },
         {
           "topic": "energy_transportation",
@@ -78,16 +78,16 @@
         {
           "symbol": "OKE",
           "asset_class": null,
-          "relevance_score": 0.977066,
-          "sentiment_score": 0.480191,
+          "relevance_score": 0.995645,
+          "sentiment_score": 0.463425,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
-          "relevance_score": 0.727175,
-          "sentiment_score": 0.316769,
+          "relevance_score": 0.736035,
+          "sentiment_score": 0.315244,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -95,15 +95,15 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.230951,
+          "sentiment_score": 0.245402,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FANG",
           "asset_class": null,
-          "relevance_score": 0.572034,
-          "sentiment_score": 0.209108,
+          "relevance_score": 0.578916,
+          "sentiment_score": 0.202485,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -154,7 +154,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.436694,
+          "sentiment_score": 0.410205,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -180,6 +180,85 @@
       "articles": []
     },
     {
+      "event_id": 661,
+      "title": "Apollo Funds Agree to Sell Kelvion, a Global Leader in Cooling Solutions for Data Centers and Diversified Industrials, to SLB for $4.1 billion",
+      "summary": "Apollo Funds announced a definitive agreement to sell Kelvion, a global leader in thermal management solutions, to SLB for approximately $3.4 billion in cash and the assumption of $0.7 billion in debt, totaling $4.1 billion. Kelvion, majority-owned by Apollo-managed funds, has significantly grown its focus on data centers with Apollo's support. This acquisition will strengthen SLB's data center solutions business by integrating Kelvion's critical thermal management technologies, expanding its market presence in the rapidly growing AI infrastructure sector.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-08-31T10:54:10",
+      "first_seen_at": "2026-08-31T19:00:02.745902",
+      "assets": [
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.402912,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.924702,
+          "sentiment_score": 0.449155,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQIX",
+          "asset_class": null,
+          "relevance_score": 0.622441,
+          "sentiment_score": 0.299699,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DLR",
+          "asset_class": null,
+          "relevance_score": 0.553787,
+          "sentiment_score": 0.287761,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.821058
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.719941
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.630908
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.608383
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 749,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Apollo Global Management",
+          "source_domain": "Apollo Global Management",
+          "headline": "Apollo Funds Agree to Sell Kelvion, a Global Leader in Cooling Solutions for Data Centers and Diversified Industrials, to SLB for $4.1 billion",
+          "url": "https://ir.apollo.com/news-events/press-releases/detail/645/apollo-funds-agree-to-sell-kelvion-a-global-leader-in",
+          "published_at": "2026-08-31T10:54:10"
+        }
+      ]
+    },
+    {
       "event_id": 629,
       "title": "Garmin stock gains on tariff refunds and higher guidance",
       "summary": "Garmin's stock has gained attention following a report that $21 million in tariff refunds boosted margins in the last quarter and led management to raise full-year guidance. Strong demand for Garmin's fitness products also contributed to the positive results, highlighting the company's strong earnings power beyond just unit growth. The company's high-end fenix series watches continue to keep the brand visible, while investors focus on the earnings update to justify a potentially higher stock range.",
@@ -195,7 +274,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.502066,
+          "sentiment_score": 0.536133,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -203,7 +282,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.923083
+          "relevance_score": 0.927476
         },
         {
           "topic": "financial_markets",
@@ -250,15 +329,15 @@
           "symbol": "VTR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.513947,
+          "sentiment_score": 0.503193,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "WELL",
           "asset_class": null,
-          "relevance_score": 0.63665,
-          "sentiment_score": 0.335363,
+          "relevance_score": 0.639621,
+          "sentiment_score": 0.312294,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1238,73 +1317,6 @@
           "headline": "Resilient Alphabet C stock weathers heavy AI capex after Q2 2026 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-alphabet-c-stock-weathers-heavy-ai-capex-after-q2-2026-earnings/70009954",
           "published_at": "2026-08-27T16:54:13"
-        }
-      ]
-    },
-    {
-      "event_id": 566,
-      "title": "Will Southwest’s New Premium Perks and Bag Fees Change Southwest Airlines' (LUV) Narrative?",
-      "summary": "Southwest Airlines is introducing premium services like extra legroom, preferred seating, and new checked bag fees to boost profitability and potentially restore historical returns. This strategic shift aims to improve pricing without compromising its value reputation, with an estimated earnings power of US$6.00 per share. The success of these initiatives hinges on customer reaction and effective execution amidst demand uncertainty and cost pressures.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-27T16:03:08",
-      "first_seen_at": "2026-08-27T23:00:02.945677",
-      "assets": [
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.262021,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.732579,
-          "sentiment_score": 0.027267,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 0.641782,
-          "sentiment_score": 0.109087,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946242
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.91666
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.834299
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.647676
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 608,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Will Southwest’s New Premium Perks and Bag Fees Change Southwest Airlines' (LUV) Narrative?",
-          "url": "https://simplywall.st/stocks/us/transportation/nyse-luv/southwest-airlines/news/will-southwests-new-premium-perks-and-bag-fees-change-southw",
-          "published_at": "2026-08-27T16:03:08"
         }
       ]
     }
