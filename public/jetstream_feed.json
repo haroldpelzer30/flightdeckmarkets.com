@@ -5,6 +5,74 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 729,
+      "title": "L.I.A. Pure Capital Acquires 19.35% Activist Stake in Evogene (NASDAQ: EVGN)",
+      "summary": "L.I.A. Pure Capital has acquired a 19.35% activist stake in Evogene (NASDAQ: EVGN), holding 3,057,488 ordinary shares. Alongside Invest Pro, L.I.A. Pure Capital is urging shareholders to support their board nominees due to concerns about Evogene's performance, governance, and board structure. Both investment firms have disclosed their beneficial ownership and are actively campaigning for changes at the upcoming annual meeting.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-01T18:00:46",
+      "first_seen_at": "2026-09-01T20:00:01.981018",
+      "assets": [
+        {
+          "symbol": "EVGN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.251994,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "T",
+          "asset_class": null,
+          "relevance_score": 0.648594,
+          "sentiment_score": 0.319369,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.940995
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913092
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.804408
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.624171
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 824,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "L.I.A. Pure Capital Takes 19.35% Activist Stake in Evogene (NASDAQ: EVGN), Pushes for Board Changes",
+          "url": "https://kalkinemedia.com/us/news/announcements/lia-pure-capital-takes-1935-activist-stake-in-evogene-nasdaq-evgn-pushes-for-board-changes",
+          "published_at": "2026-09-01T18:00:46"
+        },
+        {
+          "article_id": 825,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "L.I.A. Pure Capital Acquires 19.35% Activist Stake in Evogene (NASDAQ: EVGN)",
+          "url": "https://kalkinemedia.com/us/news/announcements/lia-pure-capital-acquires-1935-activist-stake-in-evogene-nasdaq-evgn",
+          "published_at": "2026-09-01T18:00:46"
+        }
+      ]
+    },
+    {
       "event_id": 723,
       "title": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
       "summary": "ConocoPhillips stock has reached a new 52-week high of $135.89, showcasing robust performance with a 37.14% 1-year change and a 44.65% year-to-date return. InvestingPro analysis suggests the stock is undervalued, with 10 analysts revising earnings upwards. The company also reported strong Q2 2026 adjusted earnings and production, and UBS raised its price target to $153.",
@@ -20,7 +88,7 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.41915,
+          "sentiment_score": 0.414726,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +96,7 @@
           "symbol": "APA",
           "asset_class": null,
           "relevance_score": 0.747655,
-          "sentiment_score": 0.23897,
+          "sentiment_score": 0.337799,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -44,7 +112,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.917722
+          "relevance_score": 0.923097
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -1191,81 +1259,6 @@
           "headline": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
           "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-neutral-on-oneok-stock-after-permian-acquisition-93CH-4882625",
           "published_at": "2026-08-31T12:28:39"
-        }
-      ]
-    },
-    {
-      "event_id": 633,
-      "title": "Oneok Bets $4.425 Billion on Brazos Assets To Expand Permian Operations",
-      "summary": "Oneok, Inc. announced its plan to acquire Brazos Midstream's Permian Midland Basin",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-08-31T12:18:39",
-      "first_seen_at": "2026-08-31T15:00:02.764261",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 0.995645,
-          "sentiment_score": 0.455078,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 0.736035,
-          "sentiment_score": 0.344672,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.647629,
-          "sentiment_score": 0.206536,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.598906,
-          "sentiment_score": 0.216545,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.947034
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849271
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.744704
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 718,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Oneok Bets $4.425 Billion on Brazos Assets To Expand Permian Operations",
-          "url": "https://www.benzinga.com/m-a/26/08/61518449/oneok-bets-4-425-billion-on-brazos-assets-to-expand-permian-operations",
-          "published_at": "2026-08-31T12:18:39"
         }
       ]
     }
