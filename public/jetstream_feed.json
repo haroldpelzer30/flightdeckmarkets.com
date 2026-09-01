@@ -20,7 +20,7 @@
           "symbol": "RMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.120575,
+          "sentiment_score": 0.14869,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -52,6 +52,73 @@
       ]
     },
     {
+      "event_id": 712,
+      "title": "Microsoft, Apple and Oracle Face Rising Rate Pressure",
+      "summary": "Microsoft, Apple, and Oracle are facing rising rate pressure, impacting their stock performance. Technical analysis shows Microsoft in an uptrend with pullbacks as buying opportunities, Apple demonstrating resilience above its 50-day EMA, and Oracle consolidating near its 50-day EMA after a sharp drop. All three companies are navigating a macroeconomic environment where rising rates present challenges for sustained growth.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-09-01T12:51:24",
+      "first_seen_at": "2026-09-01T15:00:02.909818",
+      "assets": [
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.098626,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.904795,
+          "sentiment_score": 0.280577,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 0.807827,
+          "sentiment_score": -0.115008,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.922425
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.836074
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.720212
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 803,
+          "provider": "ALPHA_VANTAGE",
+          "source": "FXEmpire",
+          "source_domain": "FXEmpire",
+          "headline": "Microsoft, Apple and Oracle Face Rising Rate Pressure",
+          "url": "https://www.fxempire.com/forecasts/article/microsoft-apple-and-oracle-face-rising-rate-pressure-1621074",
+          "published_at": "2026-09-01T12:51:24"
+        }
+      ]
+    },
+    {
       "event_id": 709,
       "title": "MatrixCare software serves more than 15,000 providers. Frazier completes the acquisition.",
       "summary": "Frazier Healthcare Partners has completed its acquisition of MatrixCare from ResMed, a leading provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings. Concurrent with the acquisition, Jonathan Lujan has been appointed as the new Chief Executive Officer of MatrixCare. The acquisition aims to further invest in product innovation and capabilities for MatrixCare's customers, who include skilled nursing, senior living, home health, and hospice providers.",
@@ -67,7 +134,7 @@
           "symbol": "RMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.11877,
+          "sentiment_score": -0.126044,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -79,15 +146,15 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.931523
+          "relevance_score": 0.948767
         },
         {
           "topic": "technology",
-          "relevance_score": 0.809437
+          "relevance_score": 0.817299
         },
         {
           "topic": "finance",
-          "relevance_score": 0.716892
+          "relevance_score": 0.729916
         }
       ],
       "articles": [
@@ -118,7 +185,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.248661,
+          "sentiment_score": 0.227222,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -126,15 +193,15 @@
           "symbol": "TTWO",
           "asset_class": null,
           "relevance_score": 0.640561,
-          "sentiment_score": 0.119151,
+          "sentiment_score": 0.141869,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GOOGL",
           "asset_class": null,
-          "relevance_score": 0.568724,
-          "sentiment_score": -0.135504,
+          "relevance_score": 0.5964,
+          "sentiment_score": -0.107217,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1147,53 +1214,6 @@
           "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets in $4.43 Billion Deal",
           "url": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midstream-apos-111431738.html",
           "published_at": "2026-08-31T11:18:39"
-        }
-      ]
-    },
-    {
-      "event_id": 620,
-      "title": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
-      "summary": "CSX stock is trading above $51 after the company reported a strong Q2 2026, exceeding earnings and revenue expectations. The railroad operator also raised its full-year 2026 guidance, driven by robust intermodal demand and cost efficiency. Institutional interest and a consistent dividend further bolster the investment case for CSX.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-08-28T19:44:25",
-      "first_seen_at": "2026-08-29T00:00:02.341672",
-      "assets": [
-        {
-          "symbol": "CSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.456673,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943609
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.827358
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 704,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/csx-stock-holds-above-51-as-q2-2026-beat-and-higher-guidance-support/70017121",
-          "published_at": "2026-08-28T19:44:25"
         }
       ]
     }
