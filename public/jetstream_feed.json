@@ -5,6 +5,179 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 732,
+      "title": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
+      "summary": "CVB Financial Director Mike Maddox has acquired 10,000 shares of CVB Financial Corp common stock at $22.03 per share on August 31, 2026. This open-market purchase, revealed in a Form 4 filed with the SEC, increases Maddox's direct beneficial ownership to 13,138 common shares. The transaction indicates a director's increased stake in the company.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-01T22:21:52",
+      "first_seen_at": "2026-09-01T23:00:02.334599",
+      "assets": [
+        {
+          "symbol": "CVBF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.415324,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.646183,
+          "sentiment_score": 0.003481,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.616923,
+          "sentiment_score": 0.044256,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.609917,
+          "sentiment_score": 0.03153,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.9396
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.733543
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 828,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
+          "url": "https://kalkinemedia.com/us/news/announcements/cvb-financial-director-mike-maddox-acquires-10000-shares-at-2203-each",
+          "published_at": "2026-09-01T22:21:52"
+        }
+      ]
+    },
+    {
+      "event_id": 733,
+      "title": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know",
+      "summary": "Several semiconductor-related stocks, including Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation, experienced declines after surging crude oil prices and rising Treasury yields sparked inflation concerns and increased corporate borrowing costs. The market reaction was attributed to the U.S. military striking Iranian targets, leading to higher oil prices and a climb in the 10-year Treasury yield, which negatively impacts the cost of capital and profit margins in the chip supply chain. Despite the current dip, some of these stocks, like Teradyne, have shown significant gains year-to-date.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-01T21:55:18",
+      "first_seen_at": "2026-09-01T23:00:02.624850",
+      "assets": [
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 0.947611,
+          "sentiment_score": 0.009552,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KLAC",
+          "asset_class": null,
+          "relevance_score": 0.841361,
+          "sentiment_score": 0.040846,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TER",
+          "asset_class": null,
+          "relevance_score": 0.824429,
+          "sentiment_score": 0.019617,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920915
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.823848
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.712262
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 829,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know",
+          "url": "https://ca.finance.yahoo.com/news/entegris-penguin-solutions-teradyne-applied-215420890.html",
+          "published_at": "2026-09-01T21:55:18"
+        }
+      ]
+    },
+    {
+      "event_id": 734,
+      "title": "Prosperity Bancshares Submits Amended 8-K Detailing Financials for Stellar Bancorp Acquisition",
+      "summary": "Prosperity Bancshares, Inc. (NYSE:PB) filed an amended Form 8-K/A to include the financial statements of Stellar Bancorp, Inc. and pro forma financial data following their merger. The acquisition of Stellar Bancorp was finalized on July 1, 2026, with Stellar merging into Prosperity. The amendment provides audited financials for Stellar up to December 31, 2025, and unaudited interim financials as of March 31, 2026, along with pro forma statements reflecting the combined entity.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-01T21:00:00",
+      "first_seen_at": "2026-09-01T23:00:02.887468",
+      "assets": [
+        {
+          "symbol": "PB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.116589,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.830893
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 830,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Prosperity Bancshares Submits Amended 8-K Detailing Financials for Stellar Bancorp Acquisition",
+          "url": "https://kalkinemedia.com/us/news/announcements/prosperity-bancshares-submits-amended-8-k-detailing-financials-for-stellar-bancorp-acquisition",
+          "published_at": "2026-09-01T21:00:00"
+        }
+      ]
+    },
+    {
       "event_id": 731,
       "title": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
       "summary": "Lianyi Holding Limited has acquired 1,034,483 iOThree Ordinary Shares for $900,000, establishing a 34.12% beneficial ownership stake. The shares were purchased at $0.87 each using personal funds from Yu Chen, who controls Lianyi. No proposals or agreements regarding corporate actions have been made, and Yu Chen is considered the indirect owner through Lianyi.",
@@ -1029,220 +1202,6 @@
           "headline": "Molina Healthcare stock holds near $200 after July earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/molina-healthcare-stock-holds-near-200-after-july-earnings-beat/70032856",
           "published_at": "2026-08-31T22:59:00"
-        }
-      ]
-    },
-    {
-      "event_id": 669,
-      "title": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
-      "summary": "This article compares Constellation Energy (CEG) and NextEra Energy (NEE) as potential utility stock investments for 2026, highlighting their different strengths in energy production. Constellation Energy is a nuclear power leader catering to data centers, while NextEra Energy dominates renewables and operates a large regulated utility. The choice between them depends on an investor's preference for growth, income, and risk tolerance, with NextEra being more conservative and income-focused, and Constellation offering higher growth potential with increased volatility.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-31T18:38:07",
-      "first_seen_at": "2026-08-31T21:00:02.291029",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.28894,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.988588,
-          "sentiment_score": 0.244535,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.649842,
-          "sentiment_score": 0.342716,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.595939,
-          "sentiment_score": -0.117971,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 0.584906,
-          "sentiment_score": 0.305932,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944197
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943458
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.9324
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 757,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4359821/constellation-energy-vs-nextera-energy-which-utilities-stock-is-a-better-investment-in-2026/",
-          "published_at": "2026-08-31T18:38:07"
-        },
-        {
-          "article_id": 773,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4359821/constellation-energy-vs-nextera-energy-which-utilities-stock-is-a-better-investment-in-2026/",
-          "published_at": "2026-08-31T18:49:39"
-        }
-      ]
-    },
-    {
-      "event_id": 695,
-      "title": "CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors?",
-      "summary": "This article compares Constellation Energy Corporation (CEG) and Vistra Corp. (VST), two major U.S. power producers with significant nuclear energy exposure, to determine which offers a better investment opportunity. While both companies are well-positioned for the growing demand for nuclear power, the analysis suggests Vistra Corp. is currently more attractive due to stronger earnings estimate movements, higher return on equity, cheaper valuation, and healthier net margin, despite Constellation Energy using less debt.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-08-31T16:55:54",
-      "first_seen_at": "2026-09-01T00:00:03.209010",
-      "assets": [
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.976741,
-          "sentiment_score": 0.252759,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.94028,
-          "sentiment_score": 0.346873,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.925187
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906314
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826462
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 785,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingView",
-          "source_domain": "TradingView",
-          "headline": "CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors?",
-          "url": "https://www.tradingview.com/news/zacks:5411432c7094b:0-ceg-vs-vst-which-nuclear-utility-stock-stands-out-for-investors/",
-          "published_at": "2026-08-31T16:55:54"
-        }
-      ]
-    },
-    {
-      "event_id": 677,
-      "title": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
-      "summary": "Bernstein SocGen Group has reiterated its Market Perform rating and $55.00 price target for PayPal Holdings Inc. (NASDAQ:PYPL) after the collapse of acquisition talks with Stripe and Advent International. Despite the failed deal, InvestingPro analysis suggests PayPal is significantly undervalued, with strong fundamentals including growing buy now, pay later and Venmo businesses, and revenue of $34.1 billion. The stock is currently trading lower after the deal's collapse, but analysts suggest it would likely remain in the low to mid-50s even without a deal premium.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-31T14:19:38",
-      "first_seen_at": "2026-08-31T22:00:02.625198",
-      "assets": [
-        {
-          "symbol": "PYPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.146275,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MA",
-          "asset_class": null,
-          "relevance_score": 0.648714,
-          "sentiment_score": 0.118369,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "V",
-          "asset_class": null,
-          "relevance_score": 0.621899,
-          "sentiment_score": 0.124671,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93296
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831017
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.742267
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.635213
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 765,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
-          "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-paypal-stock-rating-after-stripe-deal-collapse-93CH-4882947",
-          "published_at": "2026-08-31T14:19:38"
         }
       ]
     }
