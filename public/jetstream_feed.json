@@ -5,6 +5,203 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 715,
+      "title": "4 Legendary REITs With Dividends Built to Weather Every Market Storm",
+      "summary": "This article highlights four legendary REITs—Realty Income (O), Federal Realty Investment Trust (FRT), NNN REIT (NNN), and W. P. Carey (WPC)—that have consistently raised their dividends through major economic downturns like the 2008 financial crisis and the 2020 pandemic. These REITs offer robust dividend yields and strong financial health, making them attractive options for income-focused investors amidst fluctuating interest rates. The piece details each company's financial performance, dividend history, and investment merits, alongside potential caveats.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-01T16:06:26",
+      "first_seen_at": "2026-09-01T17:00:02.385631",
+      "assets": [
+        {
+          "symbol": "FRT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.450412,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "O",
+          "asset_class": null,
+          "relevance_score": 0.94412,
+          "sentiment_score": 0.410015,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928095
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.840266
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.738716
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.619374
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 806,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "4 Legendary REITs With Dividends Built to Weather Every Market Storm",
+          "url": "https://247wallst.com/investing/2026/08/31/4-legendary-reits-with-dividends-built-to-weather-every-market-storm/",
+          "published_at": "2026-09-01T16:06:26"
+        }
+      ]
+    },
+    {
+      "event_id": 716,
+      "title": "Agnico Eagle (NYSE:AEM) in Focus As Gold’s Rally Reshapes Miners",
+      "summary": "Agnico Eagle Mines (NYSE:AEM) is gaining significant attention due to elevated gold prices and strong demand for hard assets. The company's diversified operations in established mining regions and its operational discipline position it well to capitalize on the sustained strength in bullion. While macroeconomic risks exist, Agnico Eagle's ability to convert favorable gold prices into consistent production and cash generation will be crucial for its future performance.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-01T15:52:39",
+      "first_seen_at": "2026-09-01T17:00:02.673751",
+      "assets": [
+        {
+          "symbol": "AEM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.481612,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 0.629775,
+          "sentiment_score": 0.300972,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910942
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.817307
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710217
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.628418
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 807,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Agnico Eagle (NYSE:AEM) in Focus As Gold’s Rally Reshapes Miners",
+          "url": "https://kalkinemedia.com/us/stocks/gold/agnico-eagle-nyseaem-in-focus-as-golds-rally-reshapes-miners",
+          "published_at": "2026-09-01T15:52:39"
+        }
+      ]
+    },
+    {
+      "event_id": 717,
+      "title": "Dominion Energy (NYSE:D) Merger Filing Puts Valuation In Focus",
+      "summary": "Dominion Energy's recent regulatory filing with the Federal Energy Regulatory Commission regarding its proposed merger with NextEra Energy has brought the company's valuation into sharp focus. The transaction, if approved, aims to create a larger regulated utility platform, benefiting from increased scale and efficiency to meet rising electricity demand driven by data centers and industrial growth. However, regulatory approval remains the primary uncertainty, with the potential to significantly impact the merger's economics and Dominion's long-term financial profile.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 78,
+      "published_at": "2026-09-01T15:20:39",
+      "first_seen_at": "2026-09-01T17:00:02.944722",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.281458,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.728472,
+          "sentiment_score": 0.217141,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.599042,
+          "sentiment_score": 0.121422,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 0.58341,
+          "sentiment_score": 0.125145,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.944416
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.913477
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820626
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.731872
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 808,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Dominion Energy (NYSE:D) Merger Filing Puts Valuation In Focus",
+          "url": "https://kalkinemedia.com/us/stocks/utility/dominion-energy-nysed-merger-filing-puts-valuation-in-focus",
+          "published_at": "2026-09-01T15:20:39"
+        }
+      ]
+    },
+    {
       "event_id": 708,
       "title": "Frazier Healthcare completes acquisition of MatrixCare from ResMed By Investing.com",
       "summary": "Frazier Healthcare Partners has announced the completion of its acquisition of MatrixCare from ResMed. MatrixCare is a provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings, serving over 15,000 providers. Jonathan Lujan has been appointed CEO of MatrixCare following the acquisition, the financial terms of which were not disclosed.",
@@ -1019,201 +1216,6 @@
           "headline": "Public Employees Retirement System of Ohio Acquires Shares of 145,166 Sysco Corporation $SYY",
           "url": "https://www.marketbeat.com/instant-alerts/filing-public-employees-retirement-system-of-ohio-acquires-shares-of-145166-sysco-corporation-syy-2026-08-31/",
           "published_at": "2026-08-31T08:52:39"
-        }
-      ]
-    },
-    {
-      "event_id": 625,
-      "title": "Hennessy Advisors Inc. Acquires Shares of 21,636 PACCAR Inc. $PCAR",
-      "summary": "Hennessy Advisors Inc. recently acquired 21,636 shares of PACCAR Inc. (NASDAQ:PCAR) in the second quarter, representing an investment of approximately $2.6 million. Despite institutional investors owning 64.9% of the company, analysts maintain a cautious \"Hold\" rating with an average price target of $131.70. PACCAR exceeded quarterly earnings expectations, reporting $1.43 EPS and $7.55 billion in revenue, and declared a quarterly dividend of $0.35 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-31T08:19:03",
-      "first_seen_at": "2026-08-31T12:00:03.646463",
-      "assets": [
-        {
-          "symbol": "PCAR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.2599,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93499
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836962
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730625
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.643918
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.643186
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 710,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Hennessy Advisors Inc. Acquires Shares of 21,636 PACCAR Inc. $PCAR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-hennessy-advisors-inc-acquires-shares-of-21636-paccar-inc-pcar-2026-08-31/",
-          "published_at": "2026-08-31T08:19:03"
-        }
-      ]
-    },
-    {
-      "event_id": 626,
-      "title": "Cisco Systems stock steady after earnings beat and upbeat guidance",
-      "summary": "Cisco Systems stock remained steady at around $109 after the company reported double-digit revenue growth and an EPS beat in its latest quarter, exceeding consensus estimates. The networking giant also provided upbeat guidance for fiscal year 2027, projecting strong earnings growth and a positive outlook for the first quarter. Analysts maintain a \"moderate buy\" consensus rating with an average price target implying significant upside, supported by Cisco's strong margins, dividend payments, and strategic positioning in the AI and cloud infrastructure markets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-31T04:26:53",
-      "first_seen_at": "2026-08-31T12:00:03.990446",
-      "assets": [
-        {
-          "symbol": "CSCO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.622399,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.942184
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.814195
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.749383
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 711,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Cisco Systems stock steady after earnings beat and upbeat guidance",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cisco-systems-stock-steady-after-earnings-beat-and-upbeat-guidance/70026714",
-          "published_at": "2026-08-31T04:26:53"
-        }
-      ]
-    },
-    {
-      "event_id": 634,
-      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
-      "summary": "ONEOK, Inc. announced a definitive agreement to acquire Brazos Midstream's Permian Midland Basin assets for $4.425 billion. This acquisition will be funded by a $9 billion nonvoting minority equity investment from Apollo funds, with $5 billion used to reduce ONEOK's existing debt. The deal is expected to be immediately accretive to earnings and free cash flow per share, accelerating ONEOK's deleveraging and growth in the Permian Midland Basin.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-30T20:18:39",
-      "first_seen_at": "2026-08-31T15:00:03.097576",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.474016,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 0.873646,
-          "sentiment_score": 0.329995,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.626727,
-          "sentiment_score": 0.191373,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.626027,
-          "sentiment_score": 0.15792,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.936478
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.818892
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.601329
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 721,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ONEOK, Inc.",
-          "source_domain": "ONEOK, Inc.",
-          "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
-          "url": "https://ir.oneok.com/news-and-events/press-releases/2026/08-30-2026-214020927",
-          "published_at": "2026-08-30T20:18:39"
-        },
-        {
-          "article_id": 720,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ChemAnalyst",
-          "source_domain": "ChemAnalyst",
-          "headline": "ONEOK to Acquire Brazos Midland Assets for $4.425 Billion",
-          "url": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/oneok-to-acquire-brazos-midland-assets-for-4425-billion-44172",
-          "published_at": "2026-08-31T06:18:39"
-        },
-        {
-          "article_id": 719,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets in $4.43 Billion Deal",
-          "url": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midstream-apos-111431738.html",
-          "published_at": "2026-08-31T11:18:39"
         }
       ]
     }
