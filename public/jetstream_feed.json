@@ -20,7 +20,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.271866,
+          "sentiment_score": 0.250372,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "CEG",
           "asset_class": null,
           "relevance_score": 0.988588,
-          "sentiment_score": 0.205808,
+          "sentiment_score": 0.231858,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.649842,
-          "sentiment_score": 0.33661,
+          "sentiment_score": 0.324492,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +44,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.595939,
-          "sentiment_score": -0.133732,
+          "sentiment_score": -0.137458,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,23 +52,23 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 0.584906,
-          "sentiment_score": 0.309856,
+          "sentiment_score": 0.321267,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.944197
+        },
+        {
           "topic": "earnings",
           "relevance_score": 0.941219
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.921922
-        },
-        {
           "topic": "energy_transportation",
-          "relevance_score": 0.911392
+          "relevance_score": 0.9324
         }
       ],
       "articles": [
@@ -93,6 +93,61 @@
       ]
     },
     {
+      "event_id": 695,
+      "title": "CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors?",
+      "summary": "This article compares Constellation Energy Corporation (CEG) and Vistra Corp. (VST), two major U.S. power producers with significant nuclear energy exposure, to determine which offers a better investment opportunity. While both companies are well-positioned for the growing demand for nuclear power, the analysis suggests Vistra Corp. is currently more attractive due to stronger earnings estimate movements, higher return on equity, cheaper valuation, and healthier net margin, despite Constellation Energy using less debt.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-08-31T16:55:54",
+      "first_seen_at": "2026-09-01T00:00:03.209010",
+      "assets": [
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 0.976741,
+          "sentiment_score": 0.252759,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 0.94028,
+          "sentiment_score": 0.346873,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.925187
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906314
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826462
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 785,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors?",
+          "url": "https://www.tradingview.com/news/zacks:5411432c7094b:0-ceg-vs-vst-which-nuclear-utility-stock-stands-out-for-investors/",
+          "published_at": "2026-08-31T16:55:54"
+        }
+      ]
+    },
+    {
       "event_id": 677,
       "title": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
       "summary": "Bernstein SocGen Group has reiterated its Market Perform rating and $55.00 price target for PayPal Holdings Inc. (NASDAQ:PYPL) after the collapse of acquisition talks with Stripe and Advent International. Despite the failed deal, InvestingPro analysis suggests PayPal is significantly undervalued, with strong fundamentals including growing buy now, pay later and Venmo businesses, and revenue of $34.1 billion. The stock is currently trading lower after the deal's collapse, but analysts suggest it would likely remain in the low to mid-50s even without a deal premium.",
@@ -108,7 +163,7 @@
           "symbol": "PYPL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.136386,
+          "sentiment_score": 0.146275,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -116,7 +171,7 @@
           "symbol": "MA",
           "asset_class": null,
           "relevance_score": 0.648714,
-          "sentiment_score": 0.114775,
+          "sentiment_score": 0.118369,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -124,7 +179,7 @@
           "symbol": "V",
           "asset_class": null,
           "relevance_score": 0.621899,
-          "sentiment_score": 0.110479,
+          "sentiment_score": 0.124671,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -136,7 +191,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.921104
+          "relevance_score": 0.93296
         },
         {
           "topic": "financial_markets",
@@ -179,15 +234,15 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.205581,
+          "sentiment_score": 0.20391,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
-          "relevance_score": 0.644463,
-          "sentiment_score": 0.140326,
+          "relevance_score": 0.646904,
+          "sentiment_score": 0.112653,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -238,7 +293,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 0.995645,
-          "sentiment_score": 0.467623,
+          "sentiment_score": 0.455078,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -246,7 +301,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.736035,
-          "sentiment_score": 0.310649,
+          "sentiment_score": 0.344672,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -254,7 +309,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.647629,
-          "sentiment_score": 0.211694,
+          "sentiment_score": 0.206536,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -262,7 +317,7 @@
           "symbol": "FANG",
           "asset_class": null,
           "relevance_score": 0.598906,
-          "sentiment_score": 0.244384,
+          "sentiment_score": 0.216545,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -278,7 +333,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.842494
+          "relevance_score": 0.849271
         },
         {
           "topic": "finance",
@@ -313,7 +368,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.417151,
+          "sentiment_score": 0.447423,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -433,15 +488,15 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.281066,
+          "sentiment_score": 0.263813,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "D",
           "asset_class": null,
-          "relevance_score": 0.71381,
-          "sentiment_score": 0.028022,
+          "relevance_score": 0.745277,
+          "sentiment_score": 0.02699,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -453,11 +508,11 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.928142
+          "relevance_score": 0.933904
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.80303
+          "relevance_score": 0.821428
         }
       ],
       "articles": [
@@ -488,7 +543,7 @@
           "symbol": "GRMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.533555,
+          "sentiment_score": 0.549216,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -543,7 +598,7 @@
           "symbol": "PYPL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.449336,
+          "sentiment_score": 0.413435,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -551,7 +606,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.923342
+          "relevance_score": 0.92759
         },
         {
           "topic": "financial_markets",
@@ -1180,163 +1235,6 @@
           "headline": "Glenview Trust Co Buys 10,051 Shares of American Express Company $AXP",
           "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-buys-10051-shares-of-american-express-company-axp-2026-08-28/",
           "published_at": "2026-08-28T11:41:31"
-        }
-      ]
-    },
-    {
-      "event_id": 586,
-      "title": "L2 Asset Management LLC Acquires New Position in Bank of America Corporation $BAC",
-      "summary": "L2 Asset Management LLC has acquired a new position in Bank of America Corporation (NYSE:BAC) by purchasing 37,808 shares valued at approximately $2,154,000 during the second quarter. This move is part of a broader trend of institutional investors modifying their holdings in BAC, with Norges Bank and Capital International Investors also making significant new investments. The article also highlights recent analyst ratings, Bank of America's financial performance, and key headlines impacting the company, including its dividend increase and potential risks from an SEC probe.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-28T09:39:12",
-      "first_seen_at": "2026-08-28T17:00:02.025617",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.126576,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.649074,
-          "sentiment_score": -0.10162,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.648625,
-          "sentiment_score": -0.12808,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.645902,
-          "sentiment_score": 0.311979,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.644815,
-          "sentiment_score": 0.346129,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.641913,
-          "sentiment_score": 0.344866,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.586418,
-          "sentiment_score": 0.245933,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949971
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.9353
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.649517
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.643162
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 634,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Cooper Haims Advisors LLC Makes New Investment in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-cooper-haims-advisors-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T07:39:12"
-        },
-        {
-          "article_id": 635,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Brandywine Trust Co. Takes Position in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-brandywine-trust-co-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T07:39:12"
-        },
-        {
-          "article_id": 633,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Cetera Trust Company N.A Purchases New Stake in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-cetera-trust-company-na-purchases-new-stake-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T08:39:12"
-        },
-        {
-          "article_id": 629,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "L2 Asset Management LLC Acquires New Position in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-l2-asset-management-llc-acquires-new-position-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T09:39:12"
-        },
-        {
-          "article_id": 630,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "PDT Partners LLC Takes $1.67 Million Position in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-pdt-partners-llc-takes-167-million-position-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T09:39:12"
-        },
-        {
-          "article_id": 631,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Primecap Management Co. CA Takes Position in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-primecap-management-co-ca-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T09:39:12"
-        },
-        {
-          "article_id": 632,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Stanley Capital Management LLC Takes Position in Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-stanley-capital-management-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-28/",
-          "published_at": "2026-08-28T09:39:12"
         }
       ]
     }
