@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 731,
+      "title": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
+      "summary": "Lianyi Holding Limited has acquired 1,034,483 iOThree Ordinary Shares for $900,000, establishing a 34.12% beneficial ownership stake. The shares were purchased at $0.87 each using personal funds from Yu Chen, who controls Lianyi. No proposals or agreements regarding corporate actions have been made, and Yu Chen is considered the indirect owner through Lianyi.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-01T18:15:28",
+      "first_seen_at": "2026-09-01T21:00:02.640712",
+      "assets": [
+        {
+          "symbol": "IOTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.445293,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922813
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.829418
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 827,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
+          "url": "https://kalkinemedia.com/us/news/announcements/iothree-nasdaq-iotr-sees-3412-beneficial-ownership-following-900000-share-acquisition-by-lianyi-holding-limited",
+          "published_at": "2026-09-01T18:15:28"
+        }
+      ]
+    },
+    {
       "event_id": 729,
       "title": "L.I.A. Pure Capital Acquires 19.35% Activist Stake in Evogene (NASDAQ: EVGN)",
       "summary": "L.I.A. Pure Capital has acquired a 19.35% activist stake in Evogene (NASDAQ: EVGN), holding 3,057,488 ordinary shares. Alongside Invest Pro, L.I.A. Pure Capital is urging shareholders to support their board nominees due to concerns about Evogene's performance, governance, and board structure. Both investment firms have disclosed their beneficial ownership and are actively campaigning for changes at the upcoming annual meeting.",
@@ -1200,65 +1243,6 @@
           "headline": "Bernstein reiterates PayPal stock rating after Stripe deal collapse",
           "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-paypal-stock-rating-after-stripe-deal-collapse-93CH-4882947",
           "published_at": "2026-08-31T14:19:38"
-        }
-      ]
-    },
-    {
-      "event_id": 632,
-      "title": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
-      "summary": "UBS has reiterated its Neutral rating and $108 price target for ONEOK Inc. following the company's acquisition of Brazos Midstream’s Permian Midland Basin assets for $4.4 billion. This acquisition is expected to significantly increase ONEOK's Permian processing capacity and enhance its Permian franchise, despite the stock currently trading near its 52-week high. Separately, ONEOK reported strong Q2 2026 earnings, beating EPS estimates and raising its full-year outlook, leading Freedom Broker to upgrade the stock to Buy.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-08-31T12:28:39",
-      "first_seen_at": "2026-08-31T15:00:02.496194",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.20391,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 0.646904,
-          "sentiment_score": 0.112653,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944155
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.849853
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.745515
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 717,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "UBS reiterates Neutral on ONEOK stock after Permian acquisition",
-          "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-neutral-on-oneok-stock-after-permian-acquisition-93CH-4882625",
-          "published_at": "2026-08-31T12:28:39"
         }
       ]
     }
