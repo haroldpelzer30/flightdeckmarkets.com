@@ -5,6 +5,310 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 723,
+      "title": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
+      "summary": "ConocoPhillips stock has reached a new 52-week high of $135.89, showcasing robust performance with a 37.14% 1-year change and a 44.65% year-to-date return. InvestingPro analysis suggests the stock is undervalued, with 10 analysts revising earnings upwards. The company also reported strong Q2 2026 adjusted earnings and production, and UBS raised its price target to $153.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-01T17:48:02",
+      "first_seen_at": "2026-09-01T19:00:02.998986",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.41915,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.747655,
+          "sentiment_score": 0.23897,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.935465
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.935307
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.917722
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.646886
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 815,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/conocophillips-stock-hits-52week-high-at-13589-usd-93CH-4854299",
+          "published_at": "2026-09-01T17:43:04"
+        },
+        {
+          "article_id": 814,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/conocophillips-stock-hits-52week-high-at-13589-usd-93CH-4824390",
+          "published_at": "2026-09-01T17:48:02"
+        }
+      ]
+    },
+    {
+      "event_id": 725,
+      "title": "Apollo to repackage $9 billion ONEOK stake into debt deal",
+      "summary": "Apollo Global Management is reportedly seeking to repackage its $9 billion equity stake in ONEOK into investment-grade debt. This strategy allows ONEOK to fund its $4.4 billion acquisition of Brazos Midstream without taking on conventional debt or risking credit rating downgrades. Apollo aims to structure the deal to achieve investment-grade ratings, leveraging its Capital Solutions business and Athene's balance sheet, and has executed over $100 billion in similar transactions previously.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-01T17:33:52",
+      "first_seen_at": "2026-09-01T19:00:03.719561",
+      "assets": [
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.924652,
+          "sentiment_score": 0.349281,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 0.850297,
+          "sentiment_score": 0.255217,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.648724,
+          "sentiment_score": 0.129745,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.586443,
+          "sentiment_score": 0.060239,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.914591
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.84717
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 820,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Journal Record",
+          "source_domain": "The Journal Record",
+          "headline": "Apollo to repackage $9 billion ONEOK stake into debt deal",
+          "url": "https://journalrecord.com/2026/09/01/apollo-oneok-9-billion-equity-investment-debt-tulsa/",
+          "published_at": "2026-09-01T17:33:52"
+        }
+      ]
+    },
+    {
+      "event_id": 726,
+      "title": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+      "summary": "On September 1, 2026, major stock indexes, including the Nasdaq Composite, Dow Jones Industrial Average, and S&P 500, experienced declines despite a 3% jump in Apple's stock. The market's downturn was primarily influenced by macroeconomic factors such as rising oil prices, intensifying conflict in Iran, and increasing 10-year Treasury yields, which hit 4.8%. Federal Reserve officials' hawkish remarks about potential rate hikes further fueled investor concerns, shifting focus to Friday's upcoming jobs report for market direction.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-01T17:04:08",
+      "first_seen_at": "2026-09-01T19:00:03.976716",
+      "assets": [
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443154,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.63569,
+          "sentiment_score": -0.230725,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.634083,
+          "sentiment_score": -0.238114,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.603684,
+          "sentiment_score": -0.103187,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.600788,
+          "sentiment_score": -0.244492,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945897
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.82106
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.738149
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.64452
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.639676
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 821,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-rising-yields-oil-170338212.html",
+          "published_at": "2026-09-01T17:04:08"
+        }
+      ]
+    },
+    {
+      "event_id": 724,
+      "title": "Duke Energy stock hits 52-week low at 21.8 USD",
+      "summary": "Duke Energy's preferred stock (DUKB) has fallen to a 52-week low of $21.80, representing a 14% decline from its peak and a 1-year total return of -5.78%. This drop is attributed to broader energy sector challenges and cautious investor sentiment, despite the security's low beta of 0.37. InvestingPro rates Duke Energy's financial health as \"Fair,\" reflecting the ongoing market volatility the company is experiencing.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-01T17:03:41",
+      "first_seen_at": "2026-09-01T19:00:03.327345",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.411713,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93376
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.830714
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.742872
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.644006
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 819,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
+          "url": "https://in.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-5578429",
+          "published_at": "2026-09-01T16:45:22"
+        },
+        {
+          "article_id": 818,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Duke Energy stock hits 52-week low at 21.8 USD By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4824352",
+          "published_at": "2026-09-01T16:47:36"
+        },
+        {
+          "article_id": 817,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
+          "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4884400",
+          "published_at": "2026-09-01T17:03:41"
+        },
+        {
+          "article_id": 816,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
+          "url": "https://uk.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4854263",
+          "published_at": "2026-09-01T17:42:00"
+        }
+      ]
+    },
+    {
       "event_id": 718,
       "title": "Avista seeks 11.5% natural gas rate cut in Washington state",
       "summary": "Avista Corp. has filed requests with the Washington Utilities and Transportation Commission to reduce natural gas rates by approximately 11.5%, while electric rates would remain nearly unchanged. This reduction is primarily driven by an adjustment tied to Washington's Climate Commitment Act and lower wholesale natural gas prices. If approved, a typical residential natural gas customer would see a monthly bill decrease of about $7.38.",
@@ -20,7 +324,7 @@
           "symbol": "AVA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.137082,
+          "sentiment_score": 0.132267,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -32,7 +336,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.726357
+          "relevance_score": 0.736142
         }
       ],
       "articles": [
@@ -44,6 +348,57 @@
           "headline": "Avista seeks 11.5% natural gas rate cut in Washington state",
           "url": "https://www.streetinsider.com/Corporate+News/Avista+seeks+11.5%25+natural+gas+rate+cut+in+Washington+state/27005627.html",
           "published_at": "2026-09-01T16:58:24"
+        }
+      ]
+    },
+    {
+      "event_id": 728,
+      "title": "Monster Beverage (NASDAQ:MNST) Earnings Beat Puts Growth In Focus",
+      "summary": "Monster Beverage (NASDAQ:MNST) is experiencing renewed market attention following stronger-than-expected quarterly financial results. The company's growth story is driven by its established energy drink franchise, product innovation, and significant international expansion. While strong performance has historically supported a premium valuation, future growth will depend on managing competitive pressures and input costs.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-01T16:48:00",
+      "first_seen_at": "2026-09-01T19:00:04.475303",
+      "assets": [
+        {
+          "symbol": "MNST",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.600595,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849949
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.625387
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.617262
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 823,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Monster Beverage (NASDAQ:MNST) Earnings Beat Puts Growth In Focus",
+          "url": "https://kalkinemedia.com/us/stocks/consumer/monster-beverage-nasdaqmnst-earnings-beat-puts-growth-in-focus",
+          "published_at": "2026-09-01T16:48:00"
         }
       ]
     },
@@ -911,291 +1266,6 @@
           "headline": "Oneok Bets $4.425 Billion on Brazos Assets To Expand Permian Operations",
           "url": "https://www.benzinga.com/m-a/26/08/61518449/oneok-bets-4-425-billion-on-brazos-assets-to-expand-permian-operations",
           "published_at": "2026-08-31T12:18:39"
-        }
-      ]
-    },
-    {
-      "event_id": 640,
-      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets in $4.43 Billion Deal",
-      "summary": "ONEOK (OKE) has agreed to acquire Brazos Midstream's natural gas gathering and processing assets located in the Permian Midland Basin. The deal is valued at $4.43 billion. This acquisition will expand ONEOK's presence and capabilities in a key energy production region.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-08-31T11:18:39",
-      "first_seen_at": "2026-08-31T16:00:03.087888",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.447423,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943509
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.614279
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.612073
-        }
-      ],
-      "articles": []
-    },
-    {
-      "event_id": 661,
-      "title": "Apollo Funds Agree to Sell Kelvion, a Global Leader in Cooling Solutions for Data Centers and Diversified Industrials, to SLB for $4.1 billion",
-      "summary": "Apollo Funds announced a definitive agreement to sell Kelvion, a global leader in thermal management solutions, to SLB for approximately $3.4 billion in cash and the assumption of $0.7 billion in debt, totaling $4.1 billion. Kelvion, majority-owned by Apollo-managed funds, has significantly grown its focus on data centers with Apollo's support. This acquisition will strengthen SLB's data center solutions business by integrating Kelvion's critical thermal management technologies, expanding its market presence in the rapidly growing AI infrastructure sector.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-08-31T10:54:10",
-      "first_seen_at": "2026-08-31T19:00:02.745902",
-      "assets": [
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425666,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.924702,
-          "sentiment_score": 0.448794,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQIX",
-          "asset_class": null,
-          "relevance_score": 0.632093,
-          "sentiment_score": 0.273027,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DLR",
-          "asset_class": null,
-          "relevance_score": 0.599246,
-          "sentiment_score": 0.2668,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.821058
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.736783
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.632351
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.630908
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 749,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Apollo Global Management",
-          "source_domain": "Apollo Global Management",
-          "headline": "Apollo Funds Agree to Sell Kelvion, a Global Leader in Cooling Solutions for Data Centers and Diversified Industrials, to SLB for $4.1 billion",
-          "url": "https://ir.apollo.com/news-events/press-releases/detail/645/apollo-funds-agree-to-sell-kelvion-a-global-leader-in",
-          "published_at": "2026-08-31T10:54:10"
-        }
-      ]
-    },
-    {
-      "event_id": 690,
-      "title": "NextEra’s Texas and Pennsylvania Gas Hubs Just Got Funded. Here’s Where the Stock Could Go.",
-      "summary": "NextEra Energy (NEE) has secured funding for up to 10 gigawatts of natural gas generation in Texas and Pennsylvania, with a first tranche of $3.3 billion, moving its growth plan forward. Despite this positive development and strengthening operational story, the stock remains subdued due to market uncertainty surrounding its proposed acquisition of Dominion Energy. Analysts see significant upside potential if the merger resolves favorably and the gas hubs proceed as planned, but regulatory challenges pose a considerable risk.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-08-31T10:49:39",
-      "first_seen_at": "2026-08-31T23:00:04.522524",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.263813,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.745277,
-          "sentiment_score": 0.02699,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943423
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.933904
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.821428
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 779,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TIKR.com",
-          "source_domain": "TIKR.com",
-          "headline": "NextEra’s Texas and Pennsylvania Gas Hubs Just Got Funded. Here’s Where the Stock Could Go.",
-          "url": "https://www.tikr.com/blog/nexteras-texas-and-pennsylvania-gas-hubs-just-got-funded-heres-where-the-stock-could-go",
-          "published_at": "2026-08-31T10:49:39"
-        }
-      ]
-    },
-    {
-      "event_id": 629,
-      "title": "Garmin stock gains on tariff refunds and higher guidance",
-      "summary": "Garmin's stock has gained attention following a report that $21 million in tariff refunds boosted margins in the last quarter and led management to raise full-year guidance. Strong demand for Garmin's fitness products also contributed to the positive results, highlighting the company's strong earnings power beyond just unit growth. The company's high-end fenix series watches continue to keep the brand visible, while investors focus on the earnings update to justify a potentially higher stock range.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-08-31T10:46:29",
-      "first_seen_at": "2026-08-31T14:00:02.150254",
-      "assets": [
-        {
-          "symbol": "GRMN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.549216,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939273
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.846971
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.649788
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.648038
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.644935
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 714,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Garmin stock gains on tariff refunds and higher guidance",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/garmin-stock-gains-on-tariff-refunds-and-higher-guidance/70029014",
-          "published_at": "2026-08-31T10:46:29"
-        }
-      ]
-    },
-    {
-      "event_id": 683,
-      "title": "PayPal: An Abandoned Buyout Offer Likely To Make The Investment Case Stronger (PYPL)",
-      "summary": "PayPal is rated a Strong Buy, with the author arguing it's deeply undervalued despite strong fundamentals and a turnaround under new leadership. The reportedly abandoned $60.50/share buyout offer by Stripe-Advent highlights this undervaluation, suggesting significant re-rating potential. While macro and competitive risks exist, the current valuation is seen as compensating, offering long-term investors asymmetric upside.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-08-31T10:37:00",
-      "first_seen_at": "2026-08-31T22:00:04.247542",
-      "assets": [
-        {
-          "symbol": "PYPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413435,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92759
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.833507
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.82004
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.742728
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.633849
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 771,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "PayPal: An Abandoned Buyout Offer Likely To Make The Investment Case Stronger (PYPL)",
-          "url": "https://seekingalpha.com/article/4941778-paypal-stock-abandoned-buyout-likely-make-investment-case-stronger",
-          "published_at": "2026-08-31T10:37:00"
         }
       ]
     }
