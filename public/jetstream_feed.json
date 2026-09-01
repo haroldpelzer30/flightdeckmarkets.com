@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 703,
+      "title": "Two Sigma Securities LLC Acquires Shares of 48,597 Netflix, Inc. $NFLX",
+      "summary": "Two Sigma Securities LLC initiated a new position in Netflix (NASDAQ:NFLX) during the second quarter, acquiring 48,597 shares valued at approximately $3.47 million. Other institutional investors also increased their holdings, with hedge funds and institutions collectively owning 80.93% of Netflix stock. The article notes both positive and negative sentiments surrounding Netflix, including its growing advertising business and strong analyst ratings, contrasted with moderating growth concerns and recent insider selling.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-01T09:47:13",
+      "first_seen_at": "2026-09-01T12:00:02.388069",
+      "assets": [
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.243694,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TTWO",
+          "asset_class": null,
+          "relevance_score": 0.640561,
+          "sentiment_score": 0.11855,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.550913,
+          "sentiment_score": -0.13077,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.910975
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810675
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.734861
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 793,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Two Sigma Securities LLC Acquires Shares of 48,597 Netflix, Inc. $NFLX",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-two-sigma-securities-llc-acquires-shares-of-48597-netflix-inc-nflx-2026-08-31/",
+          "published_at": "2026-09-01T09:47:13"
+        }
+      ]
+    },
+    {
+      "event_id": 704,
+      "title": "Molina Healthcare stock holds near $200 after July earnings beat",
+      "summary": "Molina Healthcare stock maintained its position near $200 on August 31, 2026, following its July 22 earnings report which surpassed analyst expectations for both EPS and revenue. Despite beating estimates, the company experienced a year-over-year revenue decline of 4.8% and a negative net margin. The stock currently trades in the middle of its 52-week range, with analysts anticipating $5.29 EPS for the full year.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-08-31T22:59:00",
+      "first_seen_at": "2026-09-01T12:00:02.770310",
+      "assets": [
+        {
+          "symbol": "MOH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.123779,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928486
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83463
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.709429
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 794,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Molina Healthcare stock holds near $200 after July earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/molina-healthcare-stock-holds-near-200-after-july-earnings-beat/70032856",
+          "published_at": "2026-08-31T22:59:00"
+        }
+      ]
+    },
+    {
       "event_id": 669,
       "title": "Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Investment in 2026?",
       "summary": "This article compares Constellation Energy (CEG) and NextEra Energy (NEE) as potential utility stock investments for 2026, highlighting their different strengths in energy production. Constellation Energy is a nuclear power leader catering to data centers, while NextEra Energy dominates renewables and operates a large regulated utility. The choice between them depends on an investor's preference for growth, income, and risk tolerance, with NextEra being more conservative and income-focused, and Constellation offering higher growth potential with increased volatility.",
@@ -20,7 +130,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.250372,
+          "sentiment_score": 0.28894,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +138,7 @@
           "symbol": "CEG",
           "asset_class": null,
           "relevance_score": 0.988588,
-          "sentiment_score": 0.231858,
+          "sentiment_score": 0.244535,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +146,7 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.649842,
-          "sentiment_score": 0.324492,
+          "sentiment_score": 0.342716,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +154,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.595939,
-          "sentiment_score": -0.137458,
+          "sentiment_score": -0.117971,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,7 +162,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 0.584906,
-          "sentiment_score": 0.321267,
+          "sentiment_score": 0.305932,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -64,7 +174,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.941219
+          "relevance_score": 0.943458
         },
         {
           "topic": "energy_transportation",
@@ -1084,157 +1194,6 @@
           "headline": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
           "url": "https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-16eaf617142b.html",
           "published_at": "2026-08-28T14:54:27"
-        }
-      ]
-    },
-    {
-      "event_id": 585,
-      "title": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
-      "summary": "Amcor's stock remained stable in the mid-$40s after reporting strong Q3 FY26 results, including higher revenue of $5.91 billion and a net profit of $278 million, surpassing analyst expectations. The company's focus on sustainable packaging solutions, such as seaweed-based coatings, and investments in healthcare packaging automation are seen as key drivers for long-term growth. Despite broader market volatility, Amcor's operational execution and strategic initiatives continue to support its competitive position in defensive end markets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-08-28T12:07:53",
-      "first_seen_at": "2026-08-28T17:00:01.746877",
-      "assets": [
-        {
-          "symbol": "AMCR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.445752,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942632
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.846378
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.640292
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 628,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "Resilient Amcor stock steadies after Q3 FY26 earnings beat and new packaging moves",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-amcor-stock-steadies-after-q3-fy26-earnings-beat-and-new/70014665",
-          "published_at": "2026-08-28T12:07:53"
-        }
-      ]
-    },
-    {
-      "event_id": 594,
-      "title": "Glenview Trust Co Acquires Shares of 48,695 American Express Company $AXP",
-      "summary": "Glenview Trust Co. recently acquired 48,695 shares of American Express Company (AXP) in the second quarter, valued at approximately $14.7 million. This move is part of broader institutional investment, with other major firms also adjusting their stakes in AXP. American Express reported strong quarterly results, beating EPS estimates and showing a 10% revenue increase, while analysts maintain a \"Moderate Buy\" consensus for the stock.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-28T10:41:31",
-      "first_seen_at": "2026-08-28T19:00:03.509931",
-      "assets": [
-        {
-          "symbol": "AXP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410972,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.63971,
-          "sentiment_score": 0.304231,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COF",
-          "asset_class": null,
-          "relevance_score": 0.587718,
-          "sentiment_score": -0.104884,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.587712,
-          "sentiment_score": 0.324856,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "IBM",
-          "asset_class": null,
-          "relevance_score": 0.58373,
-          "sentiment_score": 0.210368,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.583498,
-          "sentiment_score": 0.22032,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936793
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844123
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.748672
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637685
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 652,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Glenview Trust Co Acquires Shares of 48,695 American Express Company $AXP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-acquires-shares-of-48695-american-express-company-axp-2026-08-28/",
-          "published_at": "2026-08-28T10:41:31"
-        },
-        {
-          "article_id": 651,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Glenview Trust Co Buys 10,051 Shares of American Express Company $AXP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-buys-10051-shares-of-american-express-company-axp-2026-08-28/",
-          "published_at": "2026-08-28T11:41:31"
         }
       ]
     }
