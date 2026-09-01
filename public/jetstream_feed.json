@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 708,
+      "title": "Frazier Healthcare completes acquisition of MatrixCare from ResMed By Investing.com",
+      "summary": "Frazier Healthcare Partners has announced the completion of its acquisition of MatrixCare from ResMed. MatrixCare is a provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings, serving over 15,000 providers. Jonathan Lujan has been appointed CEO of MatrixCare following the acquisition, the financial terms of which were not disclosed.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-01T12:51:52",
+      "first_seen_at": "2026-09-01T14:00:02.387224",
+      "assets": [
+        {
+          "symbol": "RMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.120575,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.846295
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.738354
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 799,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Frazier Healthcare completes acquisition of MatrixCare from ResMed By Investing.com",
+          "url": "https://in.investing.com/news/stock-market-news/frazier-healthcare-completes-acquisition-of-matrixcare-from-resmed-93CH-5578160",
+          "published_at": "2026-09-01T12:51:52"
+        }
+      ]
+    },
+    {
+      "event_id": 709,
+      "title": "MatrixCare software serves more than 15,000 providers. Frazier completes the acquisition.",
+      "summary": "Frazier Healthcare Partners has completed its acquisition of MatrixCare from ResMed, a leading provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings. Concurrent with the acquisition, Jonathan Lujan has been appointed as the new Chief Executive Officer of MatrixCare. The acquisition aims to further invest in product innovation and capabilities for MatrixCare's customers, who include skilled nursing, senior living, home health, and hospice providers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-01T12:29:52",
+      "first_seen_at": "2026-09-01T14:00:02.619663",
+      "assets": [
+        {
+          "symbol": "RMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.11877,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.931523
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.809437
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.716892
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 800,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "MatrixCare software serves more than 15,000 providers. Frazier completes the acquisition.",
+          "url": "https://www.stocktitan.net/news/RMD/frazier-healthcare-partners-completes-acquisition-of-matrix-care-dgjstjg28vb7.html",
+          "published_at": "2026-09-01T12:29:52"
+        }
+      ]
+    },
+    {
       "event_id": 703,
       "title": "Two Sigma Securities LLC Acquires Shares of 48,597 Netflix, Inc. $NFLX",
       "summary": "Two Sigma Securities LLC initiated a new position in Netflix (NASDAQ:NFLX) during the second quarter, acquiring 48,597 shares valued at approximately $3.47 million. Other institutional investors also increased their holdings, with hedge funds and institutions collectively owning 80.93% of Netflix stock. The article notes both positive and negative sentiments surrounding Netflix, including its growing advertising business and strong analyst ratings, contrasted with moderating growth concerns and recent insider selling.",
@@ -20,7 +118,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.23646,
+          "sentiment_score": 0.248661,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +126,7 @@
           "symbol": "TTWO",
           "asset_class": null,
           "relevance_score": 0.640561,
-          "sentiment_score": 0.100773,
+          "sentiment_score": 0.119151,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +134,7 @@
           "symbol": "GOOGL",
           "asset_class": null,
           "relevance_score": 0.568724,
-          "sentiment_score": -0.111727,
+          "sentiment_score": -0.135504,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1096,104 +1194,6 @@
           "headline": "CSX stock holds above $51 as Q2 2026 beat and higher guidance support outlook",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/csx-stock-holds-above-51-as-q2-2026-beat-and-higher-guidance-support/70017121",
           "published_at": "2026-08-28T19:44:25"
-        }
-      ]
-    },
-    {
-      "event_id": 588,
-      "title": "C.H. Robinson stock holds high after Q2 2026 earnings beat",
-      "summary": "C.H. Robinson stock is trading near recent highs after reporting a strong Q2 2026 earnings beat, driven by efficiency gains from AI integration into its logistics network. The company's use of AI for improved decision-making and routing has led to cost discipline and better asset utilization, boosting profitability above analyst expectations. This performance has supported a significant single-day gain and consolidation of the stock price, with insider trading activity also reflecting confidence in the company's technology-driven strategy.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-08-28T15:58:47",
-      "first_seen_at": "2026-08-28T18:00:02.302875",
-      "assets": [
-        {
-          "symbol": "CHRW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.483351,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945809
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845759
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.745478
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.649747
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 638,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Ad-hoc-news.de",
-          "source_domain": "Ad-hoc-news.de",
-          "headline": "C.H. Robinson stock holds high after Q2 2026 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/c-h-robinson-stock-holds-high-after-q2-2026-earnings-beat/70015989",
-          "published_at": "2026-08-28T15:58:47"
-        }
-      ]
-    },
-    {
-      "event_id": 598,
-      "title": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
-      "summary": "TJX Companies, Inc. (TJX) reported strong Q2 fiscal 2027 results with net sales up 5% to $15.2 billion and diluted EPS of $1.36, a significant increase from $1.10 in the prior year. The improved profitability was largely driven by a net benefit of $219 million from IEEPA tariff refunds, which contributed $0.14 to EPS, though these refunds are noted as a non-recurring factor. The company also demonstrated robust operating cash flow and returned $1.3 billion to shareholders through repurchases and dividends, while increasing its long-term global store target to 7,500 locations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-08-28T14:54:27",
-      "first_seen_at": "2026-08-28T20:00:01.981648",
-      "assets": [
-        {
-          "symbol": "TJX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.615352,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.849488
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.629964
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 663,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
-          "url": "https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-16eaf617142b.html",
-          "published_at": "2026-08-28T14:54:27"
         }
       ]
     }
