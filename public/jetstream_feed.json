@@ -20,7 +20,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.243694,
+          "sentiment_score": 0.23646,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,15 +28,15 @@
           "symbol": "TTWO",
           "asset_class": null,
           "relevance_score": 0.640561,
-          "sentiment_score": 0.11855,
+          "sentiment_score": 0.100773,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GOOGL",
           "asset_class": null,
-          "relevance_score": 0.550913,
-          "sentiment_score": -0.13077,
+          "relevance_score": 0.568724,
+          "sentiment_score": -0.111727,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,11 +44,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.910975
+          "relevance_score": 0.943232
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.810675
+          "relevance_score": 0.846409
         },
         {
           "topic": "technology",
@@ -83,7 +83,7 @@
           "symbol": "MOH",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.123779,
+          "sentiment_score": 0.137042,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -99,7 +99,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.709429
+          "relevance_score": 0.719672
         }
       ],
       "articles": [
