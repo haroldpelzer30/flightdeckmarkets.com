@@ -20,7 +20,7 @@
           "symbol": "HPQ",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.435105,
+          "sentiment_score": 0.418811,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -63,7 +63,7 @@
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 54,
+      "intelligence_score": 50,
       "published_at": "2026-09-02T15:17:30",
       "first_seen_at": "2026-09-02T17:00:02.275798",
       "assets": [
@@ -71,7 +71,7 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.541512,
+          "sentiment_score": 0.549978,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -79,7 +79,7 @@
           "symbol": "META",
           "asset_class": null,
           "relevance_score": 0.643663,
-          "sentiment_score": 0.331241,
+          "sentiment_score": 0.306987,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -87,7 +87,15 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.640455,
-          "sentiment_score": 0.303569,
+          "sentiment_score": 0.312289,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRWD",
+          "asset_class": null,
+          "relevance_score": 0.636597,
+          "sentiment_score": 0.323734,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -95,15 +103,7 @@
           "symbol": "AVGO",
           "asset_class": null,
           "relevance_score": 0.635286,
-          "sentiment_score": 0.34798,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRWD",
-          "asset_class": null,
-          "relevance_score": 0.634105,
-          "sentiment_score": 0.310225,
+          "sentiment_score": 0.346087,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -119,7 +119,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.820312
+          "relevance_score": 0.827896
         }
       ],
       "articles": [
