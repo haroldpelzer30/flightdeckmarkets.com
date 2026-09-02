@@ -5,6 +5,250 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 761,
+      "title": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
+      "summary": "Chevron CEO Mike Wirth stated that strong legal terms are now in place, making it safer to invest in Venezuela. The company plans to invest $7 billion in the country over the next five years to boost oil production. Wirth's comments suggest an increased confidence in the stability and security of investments in Venezuela.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-02T14:55:07",
+      "first_seen_at": "2026-09-02T16:00:03.413297",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424183,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.920539
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.841421
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.704292
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.603082
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 858,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
+          "url": "https://www.marketscreener.com/news/chevron-ceo-says-it-s-now-safer-to-invest-in-venezuela-ce7858d3d889ff25",
+          "published_at": "2026-09-02T14:55:07"
+        }
+      ]
+    },
+    {
+      "event_id": 762,
+      "title": "XLE Tops August Sector Rankings as Energy Stocks Surge",
+      "summary": "The State Street Energy Select Sector SPDR ETF (XLE) was the top-performing S&P 500 sector fund in August, gaining 7.4% due to a rebound in oil and gas stocks. This rally was fueled by renewed U.S.-Iran tensions, which re-introduced a risk premium into oil prices. Despite the strong performance, Morningstar suggests the North American energy sector is now fairly valued, with lingering geopolitical risks potentially influencing future oil prices.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-02T14:15:49",
+      "first_seen_at": "2026-09-02T16:00:03.691248",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.517838,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.873404,
+          "sentiment_score": 0.585562,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.80984,
+          "sentiment_score": 0.535197,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.716935,
+          "sentiment_score": 0.539174,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.901579
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811606
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 859,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ETF Database",
+          "source_domain": "ETF Database",
+          "headline": "XLE Tops August Sector Rankings as Energy Stocks Surge",
+          "url": "https://etfdb.com/sector-investing-content-hub/xle-tops-august-sector-rankings/",
+          "published_at": "2026-09-02T14:15:49"
+        }
+      ]
+    },
+    {
+      "event_id": 763,
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "summary": "Adobe has acquired Rilo, an India-based marketing intelligence startup, in a deal that includes licensing and the acquisition of its six-member team. Rilo's technology, which focuses on automating marketing workflows, is expected to enhance Adobe's existing products, particularly for larger customers. This marks Adobe's second acquisition from India, following Rephrase.ai in 2023, as the company continues to bolster its AI-powered marketing capabilities.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T14:04:59",
+      "first_seen_at": "2026-09-02T16:00:03.966313",
+      "assets": [
+        {
+          "symbol": "ADBE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443976,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.630011,
+          "sentiment_score": 0.102405,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.628579,
+          "sentiment_score": 0.114777,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.62454,
+          "sentiment_score": 0.135375,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.609409,
+          "sentiment_score": 0.123342,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.9263
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.723317
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 860,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TechCrunch",
+          "source_domain": "TechCrunch",
+          "headline": "Adobe acquires Indian market intelligence startup Rilo",
+          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+          "published_at": "2026-09-02T14:04:59"
+        }
+      ]
+    },
+    {
+      "event_id": 764,
+      "title": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+      "summary": "Palo Alto Networks exceeded fiscal fourth-quarter estimates and provided a strong outlook for the new fiscal year, with CEO Nikesh Arora highlighting a need to modernize roughly $1 trillion in outdated cybersecurity infrastructure against AI-powered threats. Arora emphasized that robust cybersecurity is essential for successful AI deployment, a sentiment that has shifted market thinking previously concerned about AI making security software obsolete. The company has also launched an AI Critical Defense Program to help organizations identify and address vulnerabilities.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T13:51:49",
+      "first_seen_at": "2026-09-02T16:00:04.237039",
+      "assets": [
+        {
+          "symbol": "PANW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.478724,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.917057
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.820438
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.638548
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 861,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+          "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-earnings-beat-133854549.html",
+          "published_at": "2026-09-02T13:51:49"
+        }
+      ]
+    },
+    {
       "event_id": 757,
       "title": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
       "summary": "The ADP National Employment Report for August 2026 indicates a gain of 38,000 private-sector jobs, marking the slowest pace of job creation since January. Alongside this, ADP's new Pay Insights report reveals that base pay for all private-sector workers increased by 3.2% year-over-year, while gross pay rose by 4.7%. The report also provides detailed analytics on pay trends for job-stayers and job-changers, highlighting that pay growth has been decelerating for the past four years, particularly among lower-paid workers.",
@@ -20,7 +264,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.318153,
+          "sentiment_score": 0.313886,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +272,7 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.910777
+          "relevance_score": 0.928258
         }
       ],
       "articles": [
@@ -59,7 +303,7 @@
           "symbol": "EQIX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.894217,
+          "sentiment_score": 0.427463,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -838,300 +1082,6 @@
           "headline": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
           "url": "https://kalkinemedia.com/us/news/announcements/iothree-nasdaq-iotr-sees-3412-beneficial-ownership-following-900000-share-acquisition-by-lianyi-holding-limited",
           "published_at": "2026-09-01T18:15:28"
-        }
-      ]
-    },
-    {
-      "event_id": 729,
-      "title": "L.I.A. Pure Capital Acquires 19.35% Activist Stake in Evogene (NASDAQ: EVGN)",
-      "summary": "L.I.A. Pure Capital has acquired a 19.35% activist stake in Evogene (NASDAQ: EVGN), holding 3,057,488 ordinary shares. Alongside Invest Pro, L.I.A. Pure Capital is urging shareholders to support their board nominees due to concerns about Evogene's performance, governance, and board structure. Both investment firms have disclosed their beneficial ownership and are actively campaigning for changes at the upcoming annual meeting.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-01T18:00:46",
-      "first_seen_at": "2026-09-01T20:00:01.981018",
-      "assets": [
-        {
-          "symbol": "EVGN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.251994,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "T",
-          "asset_class": null,
-          "relevance_score": 0.648594,
-          "sentiment_score": 0.319369,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.940995
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913092
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.804408
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.624171
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 824,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "L.I.A. Pure Capital Takes 19.35% Activist Stake in Evogene (NASDAQ: EVGN), Pushes for Board Changes",
-          "url": "https://kalkinemedia.com/us/news/announcements/lia-pure-capital-takes-1935-activist-stake-in-evogene-nasdaq-evgn-pushes-for-board-changes",
-          "published_at": "2026-09-01T18:00:46"
-        },
-        {
-          "article_id": 825,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "L.I.A. Pure Capital Acquires 19.35% Activist Stake in Evogene (NASDAQ: EVGN)",
-          "url": "https://kalkinemedia.com/us/news/announcements/lia-pure-capital-acquires-1935-activist-stake-in-evogene-nasdaq-evgn",
-          "published_at": "2026-09-01T18:00:46"
-        }
-      ]
-    },
-    {
-      "event_id": 723,
-      "title": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
-      "summary": "ConocoPhillips stock has reached a new 52-week high of $135.89, showcasing robust performance with a 37.14% 1-year change and a 44.65% year-to-date return. InvestingPro analysis suggests the stock is undervalued, with 10 analysts revising earnings upwards. The company also reported strong Q2 2026 adjusted earnings and production, and UBS raised its price target to $153.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-01T17:48:02",
-      "first_seen_at": "2026-09-01T19:00:02.998986",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.414726,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.747655,
-          "sentiment_score": 0.337799,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935465
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935307
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923097
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.646886
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 815,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
-          "url": "https://uk.investing.com/news/stock-market-news/conocophillips-stock-hits-52week-high-at-13589-usd-93CH-4854299",
-          "published_at": "2026-09-01T17:43:04"
-        },
-        {
-          "article_id": 814,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Conocophillips stock hits 52-week high at 135.89 USD By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/conocophillips-stock-hits-52week-high-at-13589-usd-93CH-4824390",
-          "published_at": "2026-09-01T17:48:02"
-        }
-      ]
-    },
-    {
-      "event_id": 725,
-      "title": "Apollo to repackage $9 billion ONEOK stake into debt deal",
-      "summary": "Apollo Global Management is reportedly seeking to repackage its $9 billion equity stake in ONEOK into investment-grade debt. This strategy allows ONEOK to fund its $4.4 billion acquisition of Brazos Midstream without taking on conventional debt or risking credit rating downgrades. Apollo aims to structure the deal to achieve investment-grade ratings, leveraging its Capital Solutions business and Athene's balance sheet, and has executed over $100 billion in similar transactions previously.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-01T17:33:52",
-      "first_seen_at": "2026-09-01T19:00:03.719561",
-      "assets": [
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 0.924652,
-          "sentiment_score": 0.349281,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 0.850297,
-          "sentiment_score": 0.255217,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.648724,
-          "sentiment_score": 0.129745,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.586443,
-          "sentiment_score": 0.060239,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.914591
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84717
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 820,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Journal Record",
-          "source_domain": "The Journal Record",
-          "headline": "Apollo to repackage $9 billion ONEOK stake into debt deal",
-          "url": "https://journalrecord.com/2026/09/01/apollo-oneok-9-billion-equity-investment-debt-tulsa/",
-          "published_at": "2026-09-01T17:33:52"
-        }
-      ]
-    },
-    {
-      "event_id": 726,
-      "title": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
-      "summary": "On September 1, 2026, major stock indexes, including the Nasdaq Composite, Dow Jones Industrial Average, and S&P 500, experienced declines despite a 3% jump in Apple's stock. The market's downturn was primarily influenced by macroeconomic factors such as rising oil prices, intensifying conflict in Iran, and increasing 10-year Treasury yields, which hit 4.8%. Federal Reserve officials' hawkish remarks about potential rate hikes further fueled investor concerns, shifting focus to Friday's upcoming jobs report for market direction.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-01T17:04:08",
-      "first_seen_at": "2026-09-01T19:00:03.976716",
-      "assets": [
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.443154,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.63569,
-          "sentiment_score": -0.230725,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.634083,
-          "sentiment_score": -0.238114,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.603684,
-          "sentiment_score": -0.103187,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.600788,
-          "sentiment_score": -0.244492,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945897
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.82106
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.738149
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.64452
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.639676
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 821,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-rising-yields-oil-170338212.html",
-          "published_at": "2026-09-01T17:04:08"
         }
       ]
     }
