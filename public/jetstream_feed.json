@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 771,
+      "title": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com",
+      "summary": "HP Inc.'s stock reached a 52-week high of $32.19, reflecting an 11.85% increase over the past year and significant gains in recent months. Despite exceeding fiscal third-quarter revenue and EPS estimates, the stock saw a decline in after-hours trading, possibly due to margin pressure, though BofA Securities raised its price target while maintaining an Underperform rating. InvestingPro analysis suggests the stock is currently undervalued with potential for further upside.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-02T17:09:38",
+      "first_seen_at": "2026-09-02T18:00:01.694659",
+      "assets": [
+        {
+          "symbol": "HPQ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.435105,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925717
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923667
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.849714
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.639256
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 868,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com South Africa",
+          "source_domain": "Investing.com South Africa",
+          "headline": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com",
+          "url": "https://za.investing.com/news/stock-market-news/hp-stock-hits-52week-high-reaching-3219-usd-93CH-4452170",
+          "published_at": "2026-09-02T17:09:38"
+        }
+      ]
+    },
+    {
       "event_id": 767,
       "title": "3 Reasons We Love ConocoPhillips (COP)",
       "summary": "ConocoPhillips (COP) has shown strong market performance, rising 15.3% in the past six months, outperforming the S&P 500. The company is praised for its robust long-term revenue growth, significant economies of scale, and excellent free cash flow margin, making it an attractive investment in the energy sector.",
@@ -12,7 +63,7 @@
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 50,
+      "intelligence_score": 54,
       "published_at": "2026-09-02T15:17:30",
       "first_seen_at": "2026-09-02T17:00:02.275798",
       "assets": [
@@ -20,15 +71,23 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.525995,
+          "sentiment_score": 0.541512,
           "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.643663,
+          "sentiment_score": 0.331241,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.640455,
-          "sentiment_score": 0.302191,
+          "sentiment_score": 0.303569,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,23 +95,15 @@
           "symbol": "AVGO",
           "asset_class": null,
           "relevance_score": 0.635286,
-          "sentiment_score": 0.331604,
+          "sentiment_score": 0.34798,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CRWD",
           "asset_class": null,
-          "relevance_score": 0.609416,
-          "sentiment_score": 0.33429,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.604502,
-          "sentiment_score": 0.336656,
+          "relevance_score": 0.634105,
+          "sentiment_score": 0.310225,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -60,15 +111,15 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.940136
+          "relevance_score": 0.940516
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.913695
+          "relevance_score": 0.931559
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.806844
+          "relevance_score": 0.820312
         }
       ],
       "articles": [
@@ -99,7 +150,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404594,
+          "sentiment_score": 0.43099,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -115,11 +166,11 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.737488
+          "relevance_score": 0.748484
         },
         {
           "topic": "finance",
-          "relevance_score": 0.622993
+          "relevance_score": 0.638316
         }
       ],
       "articles": [
@@ -1075,49 +1126,6 @@
           "headline": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know",
           "url": "https://ca.finance.yahoo.com/news/entegris-penguin-solutions-teradyne-applied-215420890.html",
           "published_at": "2026-09-01T21:55:18"
-        }
-      ]
-    },
-    {
-      "event_id": 734,
-      "title": "Prosperity Bancshares Submits Amended 8-K Detailing Financials for Stellar Bancorp Acquisition",
-      "summary": "Prosperity Bancshares, Inc. (NYSE:PB) filed an amended Form 8-K/A to include the financial statements of Stellar Bancorp, Inc. and pro forma financial data following their merger. The acquisition of Stellar Bancorp was finalized on July 1, 2026, with Stellar merging into Prosperity. The amendment provides audited financials for Stellar up to December 31, 2025, and unaudited interim financials as of March 31, 2026, along with pro forma statements reflecting the combined entity.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-01T21:00:00",
-      "first_seen_at": "2026-09-01T23:00:02.887468",
-      "assets": [
-        {
-          "symbol": "PB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.116589,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.830893
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 830,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Prosperity Bancshares Submits Amended 8-K Detailing Financials for Stellar Bancorp Acquisition",
-          "url": "https://kalkinemedia.com/us/news/announcements/prosperity-bancshares-submits-amended-8-k-detailing-financials-for-stellar-bancorp-acquisition",
-          "published_at": "2026-09-01T21:00:00"
         }
       ]
     }
