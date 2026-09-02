@@ -5,6 +5,81 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 776,
+      "title": "Goldman Sachs warns investors to expect lower returns over the next year",
+      "summary": "Goldman Sachs' chief global equity strategist Peter Oppenheimer warns investors to expect lower returns for stocks over the next 12 months, in the mid-to-high single-digit percentage range. This comes after a period of phenomenal returns, with the S&P 500 gaining 12% year-to-date in 2026. Oppenheimer attributes this outlook to factors such as a global government bond sell-off and surging crude oil prices, which are pushing yields higher and pressuring stocks.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 92,
+      "published_at": "2026-09-02T17:24:27",
+      "first_seen_at": "2026-09-02T20:00:05.895433",
+      "assets": [
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.2326,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.638018,
+          "sentiment_score": -0.20981,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.632736,
+          "sentiment_score": -0.245669,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.631493,
+          "sentiment_score": 0.106511,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.935524
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.934661
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.823531
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.70665
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 873,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Goldman Sachs warns investors to expect lower returns over the next year",
+          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html",
+          "published_at": "2026-09-02T17:24:27"
+        }
+      ]
+    },
+    {
       "event_id": 771,
       "title": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com",
       "summary": "HP Inc.'s stock reached a 52-week high of $32.19, reflecting an 11.85% increase over the past year and significant gains in recent months. Despite exceeding fiscal third-quarter revenue and EPS estimates, the stock saw a decline in after-hours trading, possibly due to margin pressure, though BofA Securities raised its price target while maintaining an Underperform rating. InvestingPro analysis suggests the stock is currently undervalued with potential for further upside.",
@@ -20,7 +95,7 @@
           "symbol": "HPQ",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.418811,
+          "sentiment_score": 0.404109,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -1063,69 +1138,6 @@
           "headline": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
           "url": "https://kalkinemedia.com/us/news/announcements/cvb-financial-director-mike-maddox-acquires-10000-shares-at-2203-each",
           "published_at": "2026-09-01T22:21:52"
-        }
-      ]
-    },
-    {
-      "event_id": 733,
-      "title": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know",
-      "summary": "Several semiconductor-related stocks, including Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation, experienced declines after surging crude oil prices and rising Treasury yields sparked inflation concerns and increased corporate borrowing costs. The market reaction was attributed to the U.S. military striking Iranian targets, leading to higher oil prices and a climb in the 10-year Treasury yield, which negatively impacts the cost of capital and profit margins in the chip supply chain. Despite the current dip, some of these stocks, like Teradyne, have shown significant gains year-to-date.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-01T21:55:18",
-      "first_seen_at": "2026-09-01T23:00:02.624850",
-      "assets": [
-        {
-          "symbol": "AMAT",
-          "asset_class": null,
-          "relevance_score": 0.947611,
-          "sentiment_score": 0.048862,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TER",
-          "asset_class": null,
-          "relevance_score": 0.843669,
-          "sentiment_score": 0.047067,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 0.841361,
-          "sentiment_score": 0.017963,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920915
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.847771
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.739122
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 829,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know",
-          "url": "https://ca.finance.yahoo.com/news/entegris-penguin-solutions-teradyne-applied-215420890.html",
-          "published_at": "2026-09-01T21:55:18"
         }
       ]
     }
