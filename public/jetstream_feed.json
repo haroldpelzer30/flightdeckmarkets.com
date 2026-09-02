@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 778,
+      "title": "DOJ expands beef antitrust inquiry to Amazon, Walmart, others",
+      "summary": "The U.S. Justice Department has broadened its antitrust investigation into the meatpacking industry by requesting six years of beef pricing and procurement data from eight major retailers, including Amazon, Costco, and Walmart. This inquiry stems from record-high beef prices contributing significantly to food inflation, prompting President Donald Trump to publicly request a probe last year. The department is seeking detailed information on purchasing strategies, retail pricing, profit margins, and market analysis from these grocers to understand the drivers behind the escalating costs.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-02T19:12:35",
+      "first_seen_at": "2026-09-02T21:00:01.925926",
+      "assets": [
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.240911,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.946269,
+          "sentiment_score": -0.244513,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COST",
+          "asset_class": null,
+          "relevance_score": 0.814677,
+          "sentiment_score": -0.203554,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KR",
+          "asset_class": null,
+          "relevance_score": 0.708166,
+          "sentiment_score": -0.207646,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.842326
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.820571
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.737697
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 875,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Transport Topics",
+          "source_domain": "Transport Topics",
+          "headline": "DOJ expands beef antitrust inquiry to Amazon, Walmart, others",
+          "url": "https://www.ttnews.com/articles/doj-beef-antitrust-grocers",
+          "published_at": "2026-09-02T19:12:35"
+        }
+      ]
+    },
+    {
       "event_id": 776,
       "title": "Goldman Sachs warns investors to expect lower returns over the next year",
       "summary": "Goldman Sachs' chief global equity strategist Peter Oppenheimer warns investors to expect lower returns for stocks over the next 12 months, in the mid-to-high single-digit percentage range. This comes after a period of phenomenal returns, with the S&P 500 gaining 12% year-to-date in 2026. Oppenheimer attributes this outlook to factors such as a global government bond sell-off and surging crude oil prices, which are pushing yields higher and pressuring stocks.",
@@ -20,15 +91,23 @@
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.2326,
+          "sentiment_score": -0.230126,
           "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.648659,
+          "sentiment_score": 0.118166,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.638018,
-          "sentiment_score": -0.20981,
+          "sentiment_score": -0.246434,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -36,35 +115,27 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.632736,
-          "sentiment_score": -0.245669,
+          "sentiment_score": -0.216482,
           "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.631493,
-          "sentiment_score": 0.106511,
-          "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.945341
+        },
+        {
           "topic": "economy_macro",
           "relevance_score": 0.935524
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.934661
-        },
-        {
           "topic": "economy_monetary",
-          "relevance_score": 0.823531
+          "relevance_score": 0.827443
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.70665
+          "relevance_score": 0.706948
         }
       ],
       "articles": [
@@ -95,19 +166,19 @@
           "symbol": "HPQ",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404109,
+          "sentiment_score": 0.425265,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.925717
+          "topic": "earnings",
+          "relevance_score": 0.948981
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.923667
+          "topic": "financial_markets",
+          "relevance_score": 0.927223
         },
         {
           "topic": "technology",
@@ -1071,73 +1142,6 @@
           "headline": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 1,213,390 Shares of Mid-America Apartment Communities, Inc. $MAA",
           "url": "https://www.marketbeat.com/instant-alerts/filing-ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-acquires-1213390-shares-of-mid-america-apartment-communities-inc-maa-2026-09-02/",
           "published_at": "2026-09-02T09:13:03"
-        }
-      ]
-    },
-    {
-      "event_id": 732,
-      "title": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
-      "summary": "CVB Financial Director Mike Maddox has acquired 10,000 shares of CVB Financial Corp common stock at $22.03 per share on August 31, 2026. This open-market purchase, revealed in a Form 4 filed with the SEC, increases Maddox's direct beneficial ownership to 13,138 common shares. The transaction indicates a director's increased stake in the company.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-01T22:21:52",
-      "first_seen_at": "2026-09-01T23:00:02.334599",
-      "assets": [
-        {
-          "symbol": "CVBF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.394562,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.646183,
-          "sentiment_score": 0.015698,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.629636,
-          "sentiment_score": 0.025911,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.620119,
-          "sentiment_score": 0.043187,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945916
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733543
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 828,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
-          "url": "https://kalkinemedia.com/us/news/announcements/cvb-financial-director-mike-maddox-acquires-10000-shares-at-2203-each",
-          "published_at": "2026-09-01T22:21:52"
         }
       ]
     }
