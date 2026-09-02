@@ -20,7 +20,7 @@
           "symbol": "CVBF",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.415324,
+          "sentiment_score": 0.394562,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,23 +28,23 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 0.646183,
-          "sentiment_score": 0.003481,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.616923,
-          "sentiment_score": 0.044256,
+          "sentiment_score": 0.015698,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GM",
           "asset_class": null,
-          "relevance_score": 0.609917,
-          "sentiment_score": 0.03153,
+          "relevance_score": 0.629636,
+          "sentiment_score": 0.025911,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.620119,
+          "sentiment_score": 0.043187,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -52,7 +52,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.9396
+          "relevance_score": 0.945916
         },
         {
           "topic": "finance",
@@ -87,7 +87,15 @@
           "symbol": "AMAT",
           "asset_class": null,
           "relevance_score": 0.947611,
-          "sentiment_score": 0.009552,
+          "sentiment_score": 0.048862,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TER",
+          "asset_class": null,
+          "relevance_score": 0.843669,
+          "sentiment_score": 0.047067,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -95,15 +103,7 @@
           "symbol": "KLAC",
           "asset_class": null,
           "relevance_score": 0.841361,
-          "sentiment_score": 0.040846,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TER",
-          "asset_class": null,
-          "relevance_score": 0.824429,
-          "sentiment_score": 0.019617,
+          "sentiment_score": 0.017963,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -115,11 +115,11 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.823848
+          "relevance_score": 0.847771
         },
         {
           "topic": "technology",
-          "relevance_score": 0.712262
+          "relevance_score": 0.739122
         }
       ],
       "articles": [
