@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 767,
+      "title": "3 Reasons We Love ConocoPhillips (COP)",
+      "summary": "ConocoPhillips (COP) has shown strong market performance, rising 15.3% in the past six months, outperforming the S&P 500. The company is praised for its robust long-term revenue growth, significant economies of scale, and excellent free cash flow margin, making it an attractive investment in the energy sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T15:17:30",
+      "first_seen_at": "2026-09-02T17:00:02.275798",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.525995,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.640455,
+          "sentiment_score": 0.302191,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 0.635286,
+          "sentiment_score": 0.331604,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRWD",
+          "asset_class": null,
+          "relevance_score": 0.609416,
+          "sentiment_score": 0.33429,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.604502,
+          "sentiment_score": 0.336656,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.940136
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913695
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.806844
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 864,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "3 Reasons We Love ConocoPhillips (COP)",
+          "url": "https://uk.finance.yahoo.com/news/3-reasons-love-conocophillips-cop-151623942.html",
+          "published_at": "2026-09-02T15:17:30"
+        }
+      ]
+    },
+    {
       "event_id": 761,
       "title": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
       "summary": "Chevron CEO Mike Wirth stated that strong legal terms are now in place, making it safer to invest in Venezuela. The company plans to invest $7 billion in the country over the next five years to boost oil production. Wirth's comments suggest an increased confidence in the stability and security of investments in Venezuela.",
@@ -20,7 +99,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.424183,
+          "sentiment_score": 0.404594,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,7 +107,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.920539
+          "relevance_score": 0.94572
         },
         {
           "topic": "financial_markets",
@@ -36,11 +115,11 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.704292
+          "relevance_score": 0.737488
         },
         {
           "topic": "finance",
-          "relevance_score": 0.603082
+          "relevance_score": 0.622993
         }
       ],
       "articles": [
@@ -71,31 +150,31 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.517838,
+          "sentiment_score": 0.542381,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "SLB",
           "asset_class": null,
-          "relevance_score": 0.873404,
-          "sentiment_score": 0.585562,
+          "relevance_score": 0.888601,
+          "sentiment_score": 0.592178,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "PSX",
           "asset_class": null,
-          "relevance_score": 0.80984,
-          "sentiment_score": 0.535197,
+          "relevance_score": 0.839111,
+          "sentiment_score": 0.536764,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APA",
           "asset_class": null,
-          "relevance_score": 0.716935,
-          "sentiment_score": 0.539174,
+          "relevance_score": 0.726833,
+          "sentiment_score": 0.530687,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -103,7 +182,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.901579
+          "relevance_score": 0.90311
         },
         {
           "topic": "financial_markets",
@@ -138,39 +217,39 @@
           "symbol": "ADBE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.443976,
+          "sentiment_score": 0.432035,
           "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.631304,
+          "sentiment_score": 0.143209,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "META",
           "asset_class": null,
           "relevance_score": 0.630011,
-          "sentiment_score": 0.102405,
+          "sentiment_score": 0.146252,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "AMZN",
           "asset_class": null,
-          "relevance_score": 0.628579,
-          "sentiment_score": 0.114777,
+          "relevance_score": 0.62875,
+          "sentiment_score": 0.134401,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GOOG",
           "asset_class": null,
-          "relevance_score": 0.62454,
-          "sentiment_score": 0.135375,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.609409,
-          "sentiment_score": 0.123342,
+          "relevance_score": 0.627926,
+          "sentiment_score": 0.127231,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1039,49 +1118,6 @@
           "headline": "Prosperity Bancshares Submits Amended 8-K Detailing Financials for Stellar Bancorp Acquisition",
           "url": "https://kalkinemedia.com/us/news/announcements/prosperity-bancshares-submits-amended-8-k-detailing-financials-for-stellar-bancorp-acquisition",
           "published_at": "2026-09-01T21:00:00"
-        }
-      ]
-    },
-    {
-      "event_id": 731,
-      "title": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
-      "summary": "Lianyi Holding Limited has acquired 1,034,483 iOThree Ordinary Shares for $900,000, establishing a 34.12% beneficial ownership stake. The shares were purchased at $0.87 each using personal funds from Yu Chen, who controls Lianyi. No proposals or agreements regarding corporate actions have been made, and Yu Chen is considered the indirect owner through Lianyi.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-01T18:15:28",
-      "first_seen_at": "2026-09-01T21:00:02.640712",
-      "assets": [
-        {
-          "symbol": "IOTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.445293,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922813
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.829418
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 827,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "iOThree (NASDAQ: IOTR) Sees 34.12% Beneficial Ownership Following $900,000 Share Acquisition by Lianyi Holding Limited",
-          "url": "https://kalkinemedia.com/us/news/announcements/iothree-nasdaq-iotr-sees-3412-beneficial-ownership-following-900000-share-acquisition-by-lianyi-holding-limited",
-          "published_at": "2026-09-01T18:15:28"
         }
       ]
     }
