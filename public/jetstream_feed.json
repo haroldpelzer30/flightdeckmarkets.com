@@ -20,7 +20,7 @@
           "symbol": "NTAP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.40892,
+          "sentiment_score": -0.443632,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -28,7 +28,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.914368
+          "relevance_score": 0.936461
         },
         {
           "topic": "financial_markets",
@@ -48,6 +48,15 @@
           "headline": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway.",
           "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?mod=barronsgooglenews",
           "published_at": "2026-09-02T20:36:41"
+        },
+        {
+          "article_id": 882,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Barron's",
+          "source_domain": "Barron's",
+          "headline": "NetApp Earnings Beat Estimates. The Stock Is Falling Anyway.",
+          "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c",
+          "published_at": "2026-09-02T21:38:48"
         }
       ]
     },
@@ -67,7 +76,7 @@
           "symbol": "TMUS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.258302,
+          "sentiment_score": -0.219889,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -75,18 +84,27 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.900899
+          "relevance_score": 0.923786
         },
         {
           "topic": "technology",
-          "relevance_score": 0.722012
+          "relevance_score": 0.745667
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.636255
+          "relevance_score": 0.700014
         }
       ],
       "articles": [
+        {
+          "article_id": 885,
+          "provider": "ALPHA_VANTAGE",
+          "source": "KELO-AM",
+          "source_domain": "KELO-AM",
+          "headline": "Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports",
+          "url": "https://kelo.com/2026/09/02/elliott-has-built-stake-in-deutsche-telekom-opposes-t-mobile-merger-bloomberg-news-reports/",
+          "published_at": "2026-09-02T20:15:36"
+        },
         {
           "article_id": 879,
           "provider": "ALPHA_VANTAGE",
@@ -95,6 +113,65 @@
           "headline": "Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports",
           "url": "https://wkzo.com/2026/09/02/elliott-has-built-stake-in-deutsche-telekom-opposes-t-mobile-merger-bloomberg-news-reports/",
           "published_at": "2026-09-02T20:29:13"
+        }
+      ]
+    },
+    {
+      "event_id": 787,
+      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+      "summary": "Hewlett Packard Enterprise (HPE) reported strong July-quarter earnings, exceeding revenue and earnings per share expectations. The company attributes this success to increased demand for its AI server and networking portfolio, focusing on enterprise and sovereign customers. This performance mirrors Dell's recent surge, driven by the booming AI server market.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-02T20:25:55",
+      "first_seen_at": "2026-09-02T23:00:02.947145",
+      "assets": [
+        {
+          "symbol": "HPE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.412824,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 0.745063,
+          "sentiment_score": 0.316564,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.633629,
+          "sentiment_score": 0.281317,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.911791
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.83492
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 886,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketWatch",
+          "source_domain": "MarketWatch",
+          "headline": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+          "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea",
+          "published_at": "2026-09-02T20:25:55"
         }
       ]
     },
@@ -1087,57 +1164,6 @@
           "headline": "Michigan AG seeks to cut DTE's proposed 10% rate hike to 2% after back-to-back filings",
           "url": "https://www.yahoo.com/news/politics/articles/michigan-ag-seeks-cut-dtes-100000749.html",
           "published_at": "2026-09-02T09:46:37"
-        }
-      ]
-    },
-    {
-      "event_id": 740,
-      "title": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
-      "summary": "Nwam LLC increased its stake in Merck & Co., Inc. by 93.3% during the second quarter, acquiring an additional 10,124 shares to own a total of 20,971 shares valued at $2.695 million. This move is part of broader institutional interest in MRK, with several other large investors also adjusting their positions. The company has received mixed analyst ratings, with a consensus of \"Moderate Buy\" and a target price of $147.60.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-02T09:35:10",
-      "first_seen_at": "2026-09-02T12:00:03.440104",
-      "assets": [
-        {
-          "symbol": "MRK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.348288,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928121
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.845043
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.739978
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.632716
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 836,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nwam-llc-acquires-10124-shares-of-merck-co-inc-mrk-2026-09-02/",
-          "published_at": "2026-09-02T09:35:10"
         }
       ]
     }
