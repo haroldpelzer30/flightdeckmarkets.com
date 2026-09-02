@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 743,
+      "title": "Australia clears Kimberly-Clark’s acquisition of Kenvue but requires Carefree, Stayfree divestment",
+      "summary": "Australia's competition regulator has approved Kimberly-Clark's proposed $40 billion takeover of Kenvue, but with a significant condition. Kimberly-Clark must divest Kenvue’s Carefree and Stayfree period care brands in Australia to an approved purchaser to prevent a reduction in competition within the period care products market, as both companies are major suppliers. This decision aims to preserve an independent competitor and maintain market competition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-02T11:51:28",
+      "first_seen_at": "2026-09-02T13:00:02.232527",
+      "assets": [
+        {
+          "symbol": "KVUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.315579,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMB",
+          "asset_class": null,
+          "relevance_score": 0.910177,
+          "sentiment_score": 0.339214,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.921788
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.712931
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 839,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WNWN-FM",
+          "source_domain": "WNWN-FM",
+          "headline": "Australia clears Kimberly-Clark’s acquisition of Kenvue but requires Carefree, Stayfree divestment",
+          "url": "https://wincountry.com/2026/09/01/australia-clears-kimberly-clarks-acquisition-of-kenvue-but-requires-carefree-stayfree-divestment/",
+          "published_at": "2026-09-02T11:51:28"
+        }
+      ]
+    },
+    {
+      "event_id": 744,
+      "title": "Can Nucor (NYSE:NUE) Extend Its Rally as Steel Tariffs Stay Firm?",
+      "summary": "Nucor (NYSE:NUE) shares have advanced after U.S.-Canada trade talks collapsed, reinforcing existing steel tariffs that benefit domestic mills. The company is also ramping up new production capacity in West Virginia and Utah and is benefiting from strong demand in sectors like data-center and infrastructure construction. This combination of factors, including tariff protection and diversified demand, positions Nucor favorably in the current market.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-02T11:34:53",
+      "first_seen_at": "2026-09-02T13:00:02.502774",
+      "assets": [
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.416977,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.630932,
+          "sentiment_score": 0.145051,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.61992,
+          "sentiment_score": 0.122117,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.900896
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.84065
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.743376
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.707354
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.63605
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 840,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Can Nucor (NYSE:NUE) Extend Its Rally as Steel Tariffs Stay Firm?",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/can-nucor-nysenue-extend-its-rally-as-steel-tariffs-stay-firm",
+          "published_at": "2026-09-02T11:34:53"
+        }
+      ]
+    },
+    {
+      "event_id": 745,
+      "title": "Can Freeport-McMoRan (NYSE:FCX) Keep Climbing as Copper Blasts to Records?",
+      "summary": "Freeport-McMoRan (NYSE:FCX) shares are gaining attention as both copper and gold prices surge towards record highs, driven by tightening supply, resilient demand, and central bank gold accumulation. The company's dual exposure to these metals, along with the gradual recovery of its Grasberg complex and the ramp-up of its Indonesian smelter, positions it favorably in the current market. Analysts are also raising price targets for metals, reinforcing the positive outlook for FCX amidst ongoing structural demand for copper from electrification and data infrastructure.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-02T11:34:16",
+      "first_seen_at": "2026-09-02T13:00:02.830151",
+      "assets": [
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.459391,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.931496
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.847283
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 841,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Can Freeport-McMoRan (NYSE:FCX) Keep Climbing as Copper Blasts to Records?",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/can-freeport-mcmoran-nysefcx-keep-climbing-as-copper-blasts-to-records",
+          "published_at": "2026-09-02T11:34:16"
+        }
+      ]
+    },
+    {
       "event_id": 737,
       "title": "Hilton Worldwide stock holds firm after Q2 2026 earnings beat and analyst support",
       "summary": "Hilton Worldwide Holdings Inc. (HLT) reported strong Q2 2026 earnings, beating analyst expectations with revenue of $1.38 billion and EPS of $2.29. The stock is trading near recent highs, supported by a \"Moderate Buy\" analyst consensus and an average price target of $353.82, suggesting potential upside for investors. The company's diverse portfolio of brands continues to perform well in the competitive hospitality market.",
@@ -20,7 +185,7 @@
           "symbol": "HLT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.494865,
+          "sentiment_score": 0.497364,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +193,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.91066
+          "relevance_score": 0.94134
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.824111
+          "relevance_score": 0.844047
         },
         {
           "topic": "retail_wholesale",
@@ -71,7 +236,7 @@
           "symbol": "KDP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.431744,
+          "sentiment_score": 0.443386,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +248,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.904274
+          "relevance_score": 0.917942
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -122,23 +287,23 @@
           "symbol": "ADI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.512074,
+          "sentiment_score": 0.508993,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.910053
+          "topic": "earnings",
+          "relevance_score": 0.935148
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.900572
+          "topic": "financial_markets",
+          "relevance_score": 0.914502
         },
         {
           "topic": "finance",
-          "relevance_score": 0.841051
+          "relevance_score": 0.846081
         },
         {
           "topic": "technology",
@@ -162,6 +327,57 @@
       ]
     },
     {
+      "event_id": 749,
+      "title": "Michigan AG seeks to cut DTE's proposed 10% rate hike to 2% after back-to-back filings",
+      "summary": "Michigan Attorney General Dana Nessel is pushing to reduce DTE's proposed 10% electric rate hike for residential customers to approximately 2%. She argues that DTE consistently includes unjustified costs in its requests and is particularly concerned that residential ratepayers might subsidize energy-intensive data centers. Nessel's office recommends establishing clear guidelines, including placing large-load data centers in their own rate category, to protect households from bearing these additional expenses.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T09:46:37",
+      "first_seen_at": "2026-09-02T13:00:03.801954",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.319121,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 0.632166,
+          "sentiment_score": -0.106875,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.949056
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.832545
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 845,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo",
+          "source_domain": "Yahoo",
+          "headline": "Michigan AG seeks to cut DTE's proposed 10% rate hike to 2% after back-to-back filings",
+          "url": "https://www.yahoo.com/news/politics/articles/michigan-ag-seeks-cut-dtes-100000749.html",
+          "published_at": "2026-09-02T09:46:37"
+        }
+      ]
+    },
+    {
       "event_id": 740,
       "title": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
       "summary": "Nwam LLC increased its stake in Merck & Co., Inc. by 93.3% during the second quarter, acquiring an additional 10,124 shares to own a total of 20,971 shares valued at $2.695 million. This move is part of broader institutional interest in MRK, with several other large investors also adjusting their positions. The company has received mixed analyst ratings, with a consensus of \"Moderate Buy\" and a target price of $147.60.",
@@ -177,7 +393,7 @@
           "symbol": "MRK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.328388,
+          "sentiment_score": 0.348288,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -185,7 +401,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.921379
+          "relevance_score": 0.928121
         },
         {
           "topic": "life_sciences",
@@ -938,226 +1154,6 @@
           "headline": "Avista seeks 11.5% natural gas rate cut in Washington state",
           "url": "https://www.streetinsider.com/Corporate+News/Avista+seeks+11.5%25+natural+gas+rate+cut+in+Washington+state/27005627.html",
           "published_at": "2026-09-01T16:58:24"
-        }
-      ]
-    },
-    {
-      "event_id": 728,
-      "title": "Monster Beverage (NASDAQ:MNST) Earnings Beat Puts Growth In Focus",
-      "summary": "Monster Beverage (NASDAQ:MNST) is experiencing renewed market attention following stronger-than-expected quarterly financial results. The company's growth story is driven by its established energy drink franchise, product innovation, and significant international expansion. While strong performance has historically supported a premium valuation, future growth will depend on managing competitive pressures and input costs.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-01T16:48:00",
-      "first_seen_at": "2026-09-01T19:00:04.475303",
-      "assets": [
-        {
-          "symbol": "MNST",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.600595,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849949
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.625387
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.617262
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 823,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Monster Beverage (NASDAQ:MNST) Earnings Beat Puts Growth In Focus",
-          "url": "https://kalkinemedia.com/us/stocks/consumer/monster-beverage-nasdaqmnst-earnings-beat-puts-growth-in-focus",
-          "published_at": "2026-09-01T16:48:00"
-        }
-      ]
-    },
-    {
-      "event_id": 719,
-      "title": "Aon Announces $17 Billion Cash Acquisition of USI Advantage Corp.",
-      "summary": "Aon plc has announced a definitive agreement to acquire USI Advantage Corp. for $17 billion in cash, as revealed in an 8-K filing with the SEC. The merger, signed on August 30, 2026, is subject to regulatory approvals and customary closing conditions, with a potential termination deadline of June 1, 2027, which can be extended. This strategic acquisition is detailed in a press statement and investor presentation released by Aon.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-01T16:33:14",
-      "first_seen_at": "2026-09-01T18:00:02.614473",
-      "assets": [
-        {
-          "symbol": "AON",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.321619,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.80592
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.603412
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 810,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Aon Announces $17 Billion Cash Acquisition of USI Advantage Corp.",
-          "url": "https://kalkinemedia.com/us/news/announcements/aon-announces-17-billion-cash-acquisition-of-usi-advantage-corp",
-          "published_at": "2026-09-01T16:33:14"
-        }
-      ]
-    },
-    {
-      "event_id": 715,
-      "title": "4 Legendary REITs With Dividends Built to Weather Every Market Storm",
-      "summary": "This article highlights four legendary REITs—Realty Income (O), Federal Realty Investment Trust (FRT), NNN REIT (NNN), and W. P. Carey (WPC)—that have consistently raised their dividends through major economic downturns like the 2008 financial crisis and the 2020 pandemic. These REITs offer robust dividend yields and strong financial health, making them attractive options for income-focused investors amidst fluctuating interest rates. The piece details each company's financial performance, dividend history, and investment merits, alongside potential caveats.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-01T16:06:26",
-      "first_seen_at": "2026-09-01T17:00:02.385631",
-      "assets": [
-        {
-          "symbol": "FRT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.478417,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "O",
-          "asset_class": null,
-          "relevance_score": 0.94412,
-          "sentiment_score": 0.41007,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.933604
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840266
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.738716
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.631393
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 806,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "4 Legendary REITs With Dividends Built to Weather Every Market Storm",
-          "url": "https://247wallst.com/investing/2026/08/31/4-legendary-reits-with-dividends-built-to-weather-every-market-storm/",
-          "published_at": "2026-09-01T16:06:26"
-        }
-      ]
-    },
-    {
-      "event_id": 716,
-      "title": "Agnico Eagle (NYSE:AEM) in Focus As Gold’s Rally Reshapes Miners",
-      "summary": "Agnico Eagle Mines (NYSE:AEM) is gaining significant attention due to elevated gold prices and strong demand for hard assets. The company's diversified operations in established mining regions and its operational discipline position it well to capitalize on the sustained strength in bullion. While macroeconomic risks exist, Agnico Eagle's ability to convert favorable gold prices into consistent production and cash generation will be crucial for its future performance.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-01T15:52:39",
-      "first_seen_at": "2026-09-01T17:00:02.673751",
-      "assets": [
-        {
-          "symbol": "AEM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.461178,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 0.630282,
-          "sentiment_score": 0.339435,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936573
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.817307
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.738579
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.636306
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 807,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Agnico Eagle (NYSE:AEM) in Focus As Gold’s Rally Reshapes Miners",
-          "url": "https://kalkinemedia.com/us/stocks/gold/agnico-eagle-nyseaem-in-focus-as-golds-rally-reshapes-miners",
-          "published_at": "2026-09-01T15:52:39"
         }
       ]
     }
