@@ -5,6 +5,312 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 737,
+      "title": "Hilton Worldwide stock holds firm after Q2 2026 earnings beat and analyst support",
+      "summary": "Hilton Worldwide Holdings Inc. (HLT) reported strong Q2 2026 earnings, beating analyst expectations with revenue of $1.38 billion and EPS of $2.29. The stock is trading near recent highs, supported by a \"Moderate Buy\" analyst consensus and an average price target of $353.82, suggesting potential upside for investors. The company's diverse portfolio of brands continues to perform well in the competitive hospitality market.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-02T10:49:51",
+      "first_seen_at": "2026-09-02T12:00:02.527035",
+      "assets": [
+        {
+          "symbol": "HLT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.494865,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91066
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.824111
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.635505
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.634933
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 833,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Hilton Worldwide stock holds firm after Q2 2026 earnings beat and analyst support",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hilton-worldwide-stock-holds-firm-after-q2-2026-earnings-beat-and-analyst/70042685",
+          "published_at": "2026-09-02T10:49:51"
+        }
+      ]
+    },
+    {
+      "event_id": 738,
+      "title": "Keurig Dr Pepper, Inc $KDP Shares Acquired by Lone Peak Global Investors LLC",
+      "summary": "Lone Peak Global Investors LLC increased its stake in Keurig Dr Pepper (KDP) by 6.2% in the second quarter, bringing its total holdings to 1.10 million shares valued at approximately $35.9 million. Analysts maintain a \"Moderate Buy\" rating for KDP with an average price target of $34.94, following the company's strong earnings and revenue performance. Keurig Dr Pepper's plan to sell its Chobani stake and a Pennsylvania manufacturing facility for $925 million is seen as a strategic move to reduce debt and streamline operations ahead of its anticipated business split.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-02T10:01:37",
+      "first_seen_at": "2026-09-02T12:00:02.832816",
+      "assets": [
+        {
+          "symbol": "KDP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.431744,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.939057
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904274
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.848165
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.746496
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 834,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Keurig Dr Pepper, Inc $KDP Shares Acquired by Lone Peak Global Investors LLC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-keurig-dr-pepper-inc-kdp-shares-acquired-by-lone-peak-global-investors-llc-2026-09-02/",
+          "published_at": "2026-09-02T10:01:37"
+        }
+      ]
+    },
+    {
+      "event_id": 739,
+      "title": "Nan Shan Life Insurance Co. Ltd. Buys 55,409 Shares of Analog Devices, Inc. $ADI",
+      "summary": "Nan Shan Life Insurance Co. Ltd. significantly increased its stake in Analog Devices (NASDAQ:ADI) by 804.4% in Q2 2026, purchasing 55,409 additional shares to hold a total of 62,297 shares valued at $24.7 million. Institutional investors now own 86.81% of ADI, and analysts maintain a \"Buy\" rating with an average price target of $454.63. The company reported strong Q2 results with adjusted EPS of $3.45 and revenue of $4.02 billion, a 39.2% year-over-year increase, and announced a quarterly dividend of $1.10 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-02T09:52:40",
+      "first_seen_at": "2026-09-02T12:00:03.113714",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.512074,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910053
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900572
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.841051
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.827446
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.649327
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 835,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nan Shan Life Insurance Co. Ltd. Buys 55,409 Shares of Analog Devices, Inc. $ADI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nan-shan-life-insurance-co-ltd-buys-55409-shares-of-analog-devices-inc-adi-2026-09-02/",
+          "published_at": "2026-09-02T09:52:40"
+        }
+      ]
+    },
+    {
+      "event_id": 740,
+      "title": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
+      "summary": "Nwam LLC increased its stake in Merck & Co., Inc. by 93.3% during the second quarter, acquiring an additional 10,124 shares to own a total of 20,971 shares valued at $2.695 million. This move is part of broader institutional interest in MRK, with several other large investors also adjusting their positions. The company has received mixed analyst ratings, with a consensus of \"Moderate Buy\" and a target price of $147.60.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T09:35:10",
+      "first_seen_at": "2026-09-02T12:00:03.440104",
+      "assets": [
+        {
+          "symbol": "MRK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.328388,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921379
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.845043
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.739978
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.632716
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 836,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nwam-llc-acquires-10124-shares-of-merck-co-inc-mrk-2026-09-02/",
+          "published_at": "2026-09-02T09:35:10"
+        }
+      ]
+    },
+    {
+      "event_id": 741,
+      "title": "Northwestern Mutual Wealth Management Co. Acquires 4,811 Shares of The Goldman Sachs Group, Inc. $GS",
+      "summary": "Northwestern Mutual Wealth Management Co. increased its stake in Goldman Sachs by 5.2% in Q2 2026, acquiring 4,811 shares to bring its total holdings to 97,699 shares valued at $98.81 million. Goldman Sachs reported strong financial results, including EPS of $20.98 and revenue of $20.34 billion, significantly exceeding analyst estimates. The company also raised its quarterly dividend from $4.50 to $5.00 per share, and analysts currently hold a \"Moderate Buy\" consensus rating with an average price target of $1,062.86.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-02T09:15:55",
+      "first_seen_at": "2026-09-02T12:00:03.721702",
+      "assets": [
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.951165,
+          "sentiment_score": 0.498295,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938331
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.809775
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.730788
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 837,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Northwestern Mutual Wealth Management Co. Acquires 4,811 Shares of The Goldman Sachs Group, Inc. $GS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-northwestern-mutual-wealth-management-co-acquires-4811-shares-of-the-goldman-sachs-group-inc-gs-2026-09-02/",
+          "published_at": "2026-09-02T09:15:55"
+        }
+      ]
+    },
+    {
+      "event_id": 742,
+      "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 1,213,390 Shares of Mid-America Apartment Communities, Inc. $MAA",
+      "summary": "UBS AM, a unit of UBS Asset Management Americas LLC, significantly increased its stake in Mid-America Apartment Communities, Inc. (NYSE:MAA) by 15,892.5% in the second quarter, acquiring an additional 1,213,390 shares. This purchase brings their total holdings to 1,221,025 shares, valued at approximately $169.65 million. Other institutional investors also adjusted their positions in MAA, while analysts have given the stock a \"Hold\" average rating with a consensus target price of $144.69.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-02T09:13:03",
+      "first_seen_at": "2026-09-02T12:00:03.937496",
+      "assets": [
+        {
+          "symbol": "MAA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.348494,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92162
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.823027
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.706979
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 838,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 1,213,390 Shares of Mid-America Apartment Communities, Inc. $MAA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-acquires-1213390-shares-of-mid-america-apartment-communities-inc-maa-2026-09-02/",
+          "published_at": "2026-09-02T09:13:03"
+        }
+      ]
+    },
+    {
       "event_id": 732,
       "title": "CVB Financial Director Mike Maddox Acquires 10,000 Shares at $22.03 Each",
       "summary": "CVB Financial Director Mike Maddox has acquired 10,000 shares of CVB Financial Corp common stock at $22.03 per share on August 31, 2026. This open-market purchase, revealed in a Form 4 filed with the SEC, increases Maddox's direct beneficial ownership to 13,138 common shares. The transaction indicates a director's increased stake in the company.",
@@ -852,356 +1158,6 @@
           "headline": "Agnico Eagle (NYSE:AEM) in Focus As Gold’s Rally Reshapes Miners",
           "url": "https://kalkinemedia.com/us/stocks/gold/agnico-eagle-nyseaem-in-focus-as-golds-rally-reshapes-miners",
           "published_at": "2026-09-01T15:52:39"
-        }
-      ]
-    },
-    {
-      "event_id": 717,
-      "title": "Dominion Energy (NYSE:D) Merger Filing Puts Valuation In Focus",
-      "summary": "Dominion Energy's recent regulatory filing with the Federal Energy Regulatory Commission regarding its proposed merger with NextEra Energy has brought the company's valuation into sharp focus. The transaction, if approved, aims to create a larger regulated utility platform, benefiting from increased scale and efficiency to meet rising electricity demand driven by data centers and industrial growth. However, regulatory approval remains the primary uncertainty, with the potential to significantly impact the merger's economics and Dominion's long-term financial profile.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 78,
-      "published_at": "2026-09-01T15:20:39",
-      "first_seen_at": "2026-09-01T17:00:02.944722",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.25303,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.728472,
-          "sentiment_score": 0.229078,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.599042,
-          "sentiment_score": 0.126841,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 0.58341,
-          "sentiment_score": 0.11606,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.944416
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.920929
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.824699
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.73489
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 808,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Dominion Energy (NYSE:D) Merger Filing Puts Valuation In Focus",
-          "url": "https://kalkinemedia.com/us/stocks/utility/dominion-energy-nysed-merger-filing-puts-valuation-in-focus",
-          "published_at": "2026-09-01T15:20:39"
-        }
-      ]
-    },
-    {
-      "event_id": 708,
-      "title": "Frazier Healthcare completes acquisition of MatrixCare from ResMed By Investing.com",
-      "summary": "Frazier Healthcare Partners has announced the completion of its acquisition of MatrixCare from ResMed. MatrixCare is a provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings, serving over 15,000 providers. Jonathan Lujan has been appointed CEO of MatrixCare following the acquisition, the financial terms of which were not disclosed.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-01T12:51:52",
-      "first_seen_at": "2026-09-01T14:00:02.387224",
-      "assets": [
-        {
-          "symbol": "RMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.14869,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.846295
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.738354
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 799,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Frazier Healthcare completes acquisition of MatrixCare from ResMed By Investing.com",
-          "url": "https://in.investing.com/news/stock-market-news/frazier-healthcare-completes-acquisition-of-matrixcare-from-resmed-93CH-5578160",
-          "published_at": "2026-09-01T12:51:52"
-        }
-      ]
-    },
-    {
-      "event_id": 712,
-      "title": "Microsoft, Apple and Oracle Face Rising Rate Pressure",
-      "summary": "Microsoft, Apple, and Oracle are facing rising rate pressure, impacting their stock performance. Technical analysis shows Microsoft in an uptrend with pullbacks as buying opportunities, Apple demonstrating resilience above its 50-day EMA, and Oracle consolidating near its 50-day EMA after a sharp drop. All three companies are navigating a macroeconomic environment where rising rates present challenges for sustained growth.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-09-01T12:51:24",
-      "first_seen_at": "2026-09-01T15:00:02.909818",
-      "assets": [
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.098626,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 0.904795,
-          "sentiment_score": 0.280577,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.807827,
-          "sentiment_score": -0.115008,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.922425
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.836074
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.720212
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 803,
-          "provider": "ALPHA_VANTAGE",
-          "source": "FXEmpire",
-          "source_domain": "FXEmpire",
-          "headline": "Microsoft, Apple and Oracle Face Rising Rate Pressure",
-          "url": "https://www.fxempire.com/forecasts/article/microsoft-apple-and-oracle-face-rising-rate-pressure-1621074",
-          "published_at": "2026-09-01T12:51:24"
-        }
-      ]
-    },
-    {
-      "event_id": 709,
-      "title": "MatrixCare software serves more than 15,000 providers. Frazier completes the acquisition.",
-      "summary": "Frazier Healthcare Partners has completed its acquisition of MatrixCare from ResMed, a leading provider of cloud-based electronic health record and revenue cycle management solutions for out-of-hospital care settings. Concurrent with the acquisition, Jonathan Lujan has been appointed as the new Chief Executive Officer of MatrixCare. The acquisition aims to further invest in product innovation and capabilities for MatrixCare's customers, who include skilled nursing, senior living, home health, and hospice providers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-01T12:29:52",
-      "first_seen_at": "2026-09-01T14:00:02.619663",
-      "assets": [
-        {
-          "symbol": "RMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.126044,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.948767
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.817299
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.729916
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 800,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "MatrixCare software serves more than 15,000 providers. Frazier completes the acquisition.",
-          "url": "https://www.stocktitan.net/news/RMD/frazier-healthcare-partners-completes-acquisition-of-matrix-care-dgjstjg28vb7.html",
-          "published_at": "2026-09-01T12:29:52"
-        }
-      ]
-    },
-    {
-      "event_id": 703,
-      "title": "Two Sigma Securities LLC Acquires Shares of 48,597 Netflix, Inc. $NFLX",
-      "summary": "Two Sigma Securities LLC initiated a new position in Netflix (NASDAQ:NFLX) during the second quarter, acquiring 48,597 shares valued at approximately $3.47 million. Other institutional investors also increased their holdings, with hedge funds and institutions collectively owning 80.93% of Netflix stock. The article notes both positive and negative sentiments surrounding Netflix, including its growing advertising business and strong analyst ratings, contrasted with moderating growth concerns and recent insider selling.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-01T09:47:13",
-      "first_seen_at": "2026-09-01T12:00:02.388069",
-      "assets": [
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.227222,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TTWO",
-          "asset_class": null,
-          "relevance_score": 0.640561,
-          "sentiment_score": 0.141869,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.5964,
-          "sentiment_score": -0.107217,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943232
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.846409
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.734861
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 793,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Two Sigma Securities LLC Acquires Shares of 48,597 Netflix, Inc. $NFLX",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-two-sigma-securities-llc-acquires-shares-of-48597-netflix-inc-nflx-2026-08-31/",
-          "published_at": "2026-09-01T09:47:13"
-        }
-      ]
-    },
-    {
-      "event_id": 704,
-      "title": "Molina Healthcare stock holds near $200 after July earnings beat",
-      "summary": "Molina Healthcare stock maintained its position near $200 on August 31, 2026, following its July 22 earnings report which surpassed analyst expectations for both EPS and revenue. Despite beating estimates, the company experienced a year-over-year revenue decline of 4.8% and a negative net margin. The stock currently trades in the middle of its 52-week range, with analysts anticipating $5.29 EPS for the full year.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-08-31T22:59:00",
-      "first_seen_at": "2026-09-01T12:00:02.770310",
-      "assets": [
-        {
-          "symbol": "MOH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.137042,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928486
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83463
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.719672
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 794,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Molina Healthcare stock holds near $200 after July earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/molina-healthcare-stock-holds-near-200-after-july-earnings-beat/70032856",
-          "published_at": "2026-08-31T22:59:00"
         }
       ]
     }
