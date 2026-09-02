@@ -5,9 +5,48 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 757,
+      "title": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
+      "summary": "The ADP National Employment Report for August 2026 indicates a gain of 38,000 private-sector jobs, marking the slowest pace of job creation since January. Alongside this, ADP's new Pay Insights report reveals that base pay for all private-sector workers increased by 3.2% year-over-year, while gross pay rose by 4.7%. The report also provides detailed analytics on pay trends for job-stayers and job-changers, highlighting that pay growth has been decelerating for the past four years, particularly among lower-paid workers.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-02T12:37:51",
+      "first_seen_at": "2026-09-02T15:00:02.934448",
+      "assets": [
+        {
+          "symbol": "ADP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.318153,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.910777
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 854,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ADP Media Center",
+          "source_domain": "ADP Media Center",
+          "headline": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
+          "url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
+          "published_at": "2026-09-02T12:37:51"
+        }
+      ]
+    },
+    {
       "event_id": 751,
       "title": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
-      "summary": "CPP Investments and Equinix have finalized the acquisition of atNorth, a Nordic data center developer and operator, in a US$4 billion deal. This acquisition strengthens atNorth's capacity to meet the growing demand for AI, cloud, and high-performance computing workloads in the Nordics, supported by renewable energy. atNorth will continue to operate independently, leveraging the expertise and customer relationships of its new shareholders to accelerate its expansion across the region.",
+      "summary": "CPP Investments and Equinix have completed the US$4 billion acquisition of atNorth, a leading Nordic data center developer and operator. This strategic investment aims to support the growth of AI, cloud, and high-performance computing workloads in the Nordics, leveraging atNorth's scalable portfolio and renewable energy integration. Partners Group will also re-invest, holding a 10% stake, while CPP Investments will hold a 51% controlling stake and Equinix 34%.",
       "event_type": "M&A",
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
@@ -20,7 +59,7 @@
           "symbol": "EQIX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.887057,
+          "sentiment_score": 0.894217,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,15 +71,15 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.827284
+          "relevance_score": 0.831896
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.733854
+          "relevance_score": 0.746976
         },
         {
           "topic": "finance",
-          "relevance_score": 0.620358
+          "relevance_score": 0.736538
         }
       ],
       "articles": [
@@ -52,6 +91,15 @@
           "headline": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
           "url": "https://www.marketscreener.com/news/cpp-investments-and-equinix-complete-atnorth-acquisition-to-support-growth-of-leading-nordic-data-ce-ce7858d2d08af325",
           "published_at": "2026-09-02T12:31:36"
+        },
+        {
+          "article_id": 852,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Equinix Newsroom",
+          "source_domain": "Equinix Newsroom",
+          "headline": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
+          "url": "https://newsroom.equinix.com/2026-09-02-CPP-Investments-and-Equinix-Complete-atNorth-Acquisition-to-Support-Growth-of-Leading-Nordic-Data-Center-Platform",
+          "published_at": "2026-09-02T13:00:08"
         }
       ]
     },
@@ -71,15 +119,15 @@
           "symbol": "KVUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.344348,
+          "sentiment_score": 0.319773,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "KMB",
           "asset_class": null,
-          "relevance_score": 0.925632,
-          "sentiment_score": 0.333019,
+          "relevance_score": 0.934725,
+          "sentiment_score": 0.309588,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -122,7 +170,7 @@
           "symbol": "NUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.403028,
+          "sentiment_score": 0.41627,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -130,15 +178,15 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 0.645138,
-          "sentiment_score": 0.116041,
+          "sentiment_score": 0.148851,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "OXY",
           "asset_class": null,
-          "relevance_score": 0.61992,
-          "sentiment_score": 0.133381,
+          "relevance_score": 0.620783,
+          "sentiment_score": 0.13398,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -193,7 +241,7 @@
           "symbol": "FCX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.483872,
+          "sentiment_score": 0.494712,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -1084,84 +1132,6 @@
           "headline": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-rising-yields-oil-170338212.html",
           "published_at": "2026-09-01T17:04:08"
-        }
-      ]
-    },
-    {
-      "event_id": 724,
-      "title": "Duke Energy stock hits 52-week low at 21.8 USD",
-      "summary": "Duke Energy's preferred stock (DUKB) has fallen to a 52-week low of $21.80, representing a 14% decline from its peak and a 1-year total return of -5.78%. This drop is attributed to broader energy sector challenges and cautious investor sentiment, despite the security's low beta of 0.37. InvestingPro rates Duke Energy's financial health as \"Fair,\" reflecting the ongoing market volatility the company is experiencing.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-01T17:03:41",
-      "first_seen_at": "2026-09-01T19:00:03.327345",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.411713,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93376
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.830714
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.742872
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644006
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 819,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
-          "url": "https://in.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-5578429",
-          "published_at": "2026-09-01T16:45:22"
-        },
-        {
-          "article_id": 818,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Duke Energy stock hits 52-week low at 21.8 USD By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4824352",
-          "published_at": "2026-09-01T16:47:36"
-        },
-        {
-          "article_id": 817,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
-          "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4884400",
-          "published_at": "2026-09-01T17:03:41"
-        },
-        {
-          "article_id": 816,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
-          "url": "https://uk.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4854263",
-          "published_at": "2026-09-01T17:42:00"
         }
       ]
     }
