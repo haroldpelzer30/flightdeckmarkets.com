@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 751,
+      "title": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
+      "summary": "CPP Investments and Equinix have finalized the acquisition of atNorth, a Nordic data center developer and operator, in a US$4 billion deal. This acquisition strengthens atNorth's capacity to meet the growing demand for AI, cloud, and high-performance computing workloads in the Nordics, supported by renewable energy. atNorth will continue to operate independently, leveraging the expertise and customer relationships of its new shareholders to accelerate its expansion across the region.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-02T12:31:36",
+      "first_seen_at": "2026-09-02T14:00:02.014736",
+      "assets": [
+        {
+          "symbol": "EQIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.887057,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.827284
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.733854
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.620358
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 847,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.marketscreener.com",
+          "source_domain": "www.marketscreener.com",
+          "headline": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
+          "url": "https://www.marketscreener.com/news/cpp-investments-and-equinix-complete-atnorth-acquisition-to-support-growth-of-leading-nordic-data-ce-ce7858d2d08af325",
+          "published_at": "2026-09-02T12:31:36"
+        }
+      ]
+    },
+    {
       "event_id": 743,
       "title": "Australia clears Kimberly-Clark’s acquisition of Kenvue but requires Carefree, Stayfree divestment",
       "summary": "Australia's competition regulator has approved Kimberly-Clark's proposed $40 billion takeover of Kenvue, but with a significant condition. Kimberly-Clark must divest Kenvue’s Carefree and Stayfree period care brands in Australia to an approved purchaser to prevent a reduction in competition within the period care products market, as both companies are major suppliers. This decision aims to preserve an independent competitor and maintain market competition.",
@@ -20,15 +71,15 @@
           "symbol": "KVUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.315579,
+          "sentiment_score": 0.344348,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "KMB",
           "asset_class": null,
-          "relevance_score": 0.910177,
-          "sentiment_score": 0.339214,
+          "relevance_score": 0.925632,
+          "sentiment_score": 0.333019,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -40,7 +91,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.712931
+          "relevance_score": 0.741049
         }
       ],
       "articles": [
@@ -71,15 +122,15 @@
           "symbol": "NUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416977,
+          "sentiment_score": 0.403028,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "COP",
           "asset_class": null,
-          "relevance_score": 0.630932,
-          "sentiment_score": 0.145051,
+          "relevance_score": 0.645138,
+          "sentiment_score": 0.116041,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -87,7 +138,7 @@
           "symbol": "OXY",
           "asset_class": null,
           "relevance_score": 0.61992,
-          "sentiment_score": 0.122117,
+          "sentiment_score": 0.133381,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -95,19 +146,19 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.900896
+          "relevance_score": 0.948681
         },
         {
           "topic": "manufacturing",
           "relevance_score": 0.84065
         },
         {
-          "topic": "real_estate",
-          "relevance_score": 0.743376
+          "topic": "economy_fiscal",
+          "relevance_score": 0.749601
         },
         {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.707354
+          "topic": "real_estate",
+          "relevance_score": 0.743376
         },
         {
           "topic": "energy_transportation",
@@ -142,7 +193,7 @@
           "symbol": "FCX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.459391,
+          "sentiment_score": 0.483872,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -185,7 +236,7 @@
           "symbol": "HLT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.497364,
+          "sentiment_score": 0.456329,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -193,7 +244,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.94134
+          "relevance_score": 0.949254
         },
         {
           "topic": "financial_markets",
@@ -1111,49 +1162,6 @@
           "headline": "Duke Energy stock hits 52-week low at 21.8 USD",
           "url": "https://uk.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-218-usd-93CH-4854263",
           "published_at": "2026-09-01T17:42:00"
-        }
-      ]
-    },
-    {
-      "event_id": 718,
-      "title": "Avista seeks 11.5% natural gas rate cut in Washington state",
-      "summary": "Avista Corp. has filed requests with the Washington Utilities and Transportation Commission to reduce natural gas rates by approximately 11.5%, while electric rates would remain nearly unchanged. This reduction is primarily driven by an adjustment tied to Washington's Climate Commitment Act and lower wholesale natural gas prices. If approved, a typical residential natural gas customer would see a monthly bill decrease of about $7.38.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 50,
-      "published_at": "2026-09-01T16:58:24",
-      "first_seen_at": "2026-09-01T18:00:02.384884",
-      "assets": [
-        {
-          "symbol": "AVA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.132267,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.934435
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.736142
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 809,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StreetInsider",
-          "source_domain": "StreetInsider",
-          "headline": "Avista seeks 11.5% natural gas rate cut in Washington state",
-          "url": "https://www.streetinsider.com/Corporate+News/Avista+seeks+11.5%25+natural+gas+rate+cut+in+Washington+state/27005627.html",
-          "published_at": "2026-09-01T16:58:24"
         }
       ]
     }
