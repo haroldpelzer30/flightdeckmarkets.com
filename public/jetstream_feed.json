@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 781,
+      "title": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway.",
+      "summary": "NetApp (NTAP) reported stronger-than-expected earnings and raised its fiscal year guidance. Despite the positive financial results, the company's stock experienced a decline in after-hours trading. The article suggests that issues related to cash and inventory drags might be contributing to the slump in shares.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-02T20:36:41",
+      "first_seen_at": "2026-09-02T22:00:01.713218",
+      "assets": [
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.40892,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914368
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.71815
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.627117
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 878,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Barron's",
+          "source_domain": "Barron's",
+          "headline": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway.",
+          "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?mod=barronsgooglenews",
+          "published_at": "2026-09-02T20:36:41"
+        }
+      ]
+    },
+    {
+      "event_id": 782,
+      "title": "Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports",
+      "summary": "Activist investor Elliott Investment Management has reportedly built a significant stake in Deutsche Telekom and is advocating against a potential merger with T-Mobile US. Elliott is urging the German telecom company to explore other avenues for increasing shareholder value, such as larger share buybacks. Deutsche Telekom holds a nearly 54% stake in its American arm, T-Mobile.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-02T20:29:13",
+      "first_seen_at": "2026-09-02T22:00:01.966926",
+      "assets": [
+        {
+          "symbol": "TMUS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.258302,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.900899
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.722012
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.636255
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 879,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WKZO",
+          "source_domain": "WKZO",
+          "headline": "Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports",
+          "url": "https://wkzo.com/2026/09/02/elliott-has-built-stake-in-deutsche-telekom-opposes-t-mobile-merger-bloomberg-news-reports/",
+          "published_at": "2026-09-02T20:29:13"
+        }
+      ]
+    },
+    {
       "event_id": 778,
       "title": "DOJ expands beef antitrust inquiry to Amazon, Walmart, others",
       "summary": "The U.S. Justice Department has broadened its antitrust investigation into the meatpacking industry by requesting six years of beef pricing and procurement data from eight major retailers, including Amazon, Costco, and Walmart. This inquiry stems from record-high beef prices contributing significantly to food inflation, prompting President Donald Trump to publicly request a probe last year. The department is seeking detailed information on purchasing strategies, retail pricing, profit margins, and market analysis from these grocers to understand the drivers behind the escalating costs.",
@@ -20,7 +114,7 @@
           "symbol": "WMT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.240911,
+          "sentiment_score": -0.238304,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -28,23 +122,23 @@
           "symbol": "AMZN",
           "asset_class": null,
           "relevance_score": 0.946269,
-          "sentiment_score": -0.244513,
+          "sentiment_score": -0.207972,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "COST",
           "asset_class": null,
-          "relevance_score": 0.814677,
-          "sentiment_score": -0.203554,
+          "relevance_score": 0.823891,
+          "sentiment_score": -0.241682,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "KR",
           "asset_class": null,
-          "relevance_score": 0.708166,
-          "sentiment_score": -0.207646,
+          "relevance_score": 0.73765,
+          "sentiment_score": -0.227652,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -56,7 +150,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.820571
+          "relevance_score": 0.841636
         },
         {
           "topic": "economy_macro",
@@ -91,7 +185,7 @@
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.230126,
+          "sentiment_score": -0.206279,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -99,23 +193,23 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.648659,
-          "sentiment_score": 0.118166,
+          "sentiment_score": 0.123595,
           "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.638018,
-          "sentiment_score": -0.246434,
-          "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.632736,
-          "sentiment_score": -0.216482,
+          "relevance_score": 0.644168,
+          "sentiment_score": -0.240861,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.643192,
+          "sentiment_score": -0.20413,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -135,7 +229,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.706948
+          "relevance_score": 0.745437
         }
       ],
       "articles": [
@@ -1044,104 +1138,6 @@
           "headline": "Nwam LLC Acquires 10,124 Shares of Merck & Co., Inc. $MRK",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nwam-llc-acquires-10124-shares-of-merck-co-inc-mrk-2026-09-02/",
           "published_at": "2026-09-02T09:35:10"
-        }
-      ]
-    },
-    {
-      "event_id": 741,
-      "title": "Northwestern Mutual Wealth Management Co. Acquires 4,811 Shares of The Goldman Sachs Group, Inc. $GS",
-      "summary": "Northwestern Mutual Wealth Management Co. increased its stake in Goldman Sachs by 5.2% in Q2 2026, acquiring 4,811 shares to bring its total holdings to 97,699 shares valued at $98.81 million. Goldman Sachs reported strong financial results, including EPS of $20.98 and revenue of $20.34 billion, significantly exceeding analyst estimates. The company also raised its quarterly dividend from $4.50 to $5.00 per share, and analysts currently hold a \"Moderate Buy\" consensus rating with an average price target of $1,062.86.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-02T09:15:55",
-      "first_seen_at": "2026-09-02T12:00:03.721702",
-      "assets": [
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.951165,
-          "sentiment_score": 0.498295,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938331
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.809775
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730788
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 837,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Northwestern Mutual Wealth Management Co. Acquires 4,811 Shares of The Goldman Sachs Group, Inc. $GS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-northwestern-mutual-wealth-management-co-acquires-4811-shares-of-the-goldman-sachs-group-inc-gs-2026-09-02/",
-          "published_at": "2026-09-02T09:15:55"
-        }
-      ]
-    },
-    {
-      "event_id": 742,
-      "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 1,213,390 Shares of Mid-America Apartment Communities, Inc. $MAA",
-      "summary": "UBS AM, a unit of UBS Asset Management Americas LLC, significantly increased its stake in Mid-America Apartment Communities, Inc. (NYSE:MAA) by 15,892.5% in the second quarter, acquiring an additional 1,213,390 shares. This purchase brings their total holdings to 1,221,025 shares, valued at approximately $169.65 million. Other institutional investors also adjusted their positions in MAA, while analysts have given the stock a \"Hold\" average rating with a consensus target price of $144.69.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-02T09:13:03",
-      "first_seen_at": "2026-09-02T12:00:03.937496",
-      "assets": [
-        {
-          "symbol": "MAA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.348494,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92162
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.823027
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.706979
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 838,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 1,213,390 Shares of Mid-America Apartment Communities, Inc. $MAA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-acquires-1213390-shares-of-mid-america-apartment-communities-inc-maa-2026-09-02/",
-          "published_at": "2026-09-02T09:13:03"
         }
       ]
     }
