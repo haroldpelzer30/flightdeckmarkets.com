@@ -5,6 +5,132 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 807,
+      "title": "Campbell's forecasts weak year ahead on pressured consumer spending",
+      "summary": "Campbell's has forecast weaker-than-expected annual profit and sales, citing pressured consumer spending and soft demand for its pricier snacks. The company also announced a cut to its quarterly dividend by over a third and plans to save $500 million by fiscal 2030 through cost-cutting measures. CEO Mick Beekhuizen acknowledged the \"unacceptable\" results and indicated the company would adjust prices and take a more aggressive \"self-help stance.\"",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-03T13:42:41",
+      "first_seen_at": "2026-09-03T15:00:02.151190",
+      "assets": [
+        {
+          "symbol": "CPB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.630943,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90753
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.840705
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.734269
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 908,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Campbell's forecasts weak year ahead on pressured consumer spending",
+          "url": "https://www.cnbc.com/2026/09/03/campbells-forecasts-weak-year-ahead-on-pressured-consumer-spending.html",
+          "published_at": "2026-09-03T13:42:41"
+        }
+      ]
+    },
+    {
+      "event_id": 808,
+      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
+      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of interest rates. The discussion also covered various economic and policy topics.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 79,
+      "published_at": "2026-09-03T13:15:20",
+      "first_seen_at": "2026-09-03T15:00:02.461861",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.391821,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.637517,
+          "sentiment_score": 0.109473,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.632066,
+          "sentiment_score": 0.323869,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.613156,
+          "sentiment_score": 0.146065,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.605548,
+          "sentiment_score": 0.14929,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.9076
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.823913
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.722548
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 909,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
+          "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
+          "published_at": "2026-09-03T13:15:20"
+        }
+      ]
+    },
+    {
       "event_id": 801,
       "title": "State Street Real Return ETF (RLY) Touches New 52-Week High",
       "summary": "The State Street Real Return ETF (RLY) has reached a new 52-week high, rising 26% from its low. This performance is attributed to concerns about persistent inflation, easing monetary policy expectations, and geopolitical risks, which have increased demand for real assets. The fund, which invests in inflation-protected securities, real estate, commodities, and natural resource companies, is expected to continue its strong performance.",
@@ -20,7 +146,7 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.745543,
-          "sentiment_score": 0.295034,
+          "sentiment_score": 0.255846,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -32,7 +158,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.836873
+          "relevance_score": 0.849741
         },
         {
           "topic": "economy_macro",
@@ -44,7 +170,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.623326
+          "relevance_score": 0.629999
         }
       ],
       "articles": [
@@ -75,7 +201,7 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.464274,
+          "sentiment_score": 0.460228,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -83,7 +209,7 @@
           "symbol": "IBM",
           "asset_class": null,
           "relevance_score": 0.588844,
-          "sentiment_score": 0.119973,
+          "sentiment_score": 0.117221,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -91,7 +217,15 @@
           "symbol": "DELL",
           "asset_class": null,
           "relevance_score": 0.584728,
-          "sentiment_score": 0.111684,
+          "sentiment_score": 0.125919,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 0.570037,
+          "sentiment_score": 0.106164,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -99,15 +233,7 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.558381,
-          "sentiment_score": 0.143149,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SMCI",
-          "asset_class": null,
-          "relevance_score": 0.555082,
-          "sentiment_score": 0.107215,
+          "sentiment_score": 0.108485,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -119,11 +245,11 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.900366
+          "relevance_score": 0.910073
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.617027
+          "relevance_score": 0.625729
         }
       ],
       "articles": [
@@ -1153,152 +1279,6 @@
           "headline": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
           "url": "https://www.marketscreener.com/news/chevron-ceo-says-it-s-now-safer-to-invest-in-venezuela-ce7858d3d889ff25",
           "published_at": "2026-09-02T14:55:07"
-        }
-      ]
-    },
-    {
-      "event_id": 762,
-      "title": "XLE Tops August Sector Rankings as Energy Stocks Surge",
-      "summary": "The State Street Energy Select Sector SPDR ETF (XLE) was the top-performing S&P 500 sector fund in August, gaining 7.4% due to a rebound in oil and gas stocks. This rally was fueled by renewed U.S.-Iran tensions, which re-introduced a risk premium into oil prices. Despite the strong performance, Morningstar suggests the North American energy sector is now fairly valued, with lingering geopolitical risks potentially influencing future oil prices.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-02T14:15:49",
-      "first_seen_at": "2026-09-02T16:00:03.691248",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.542381,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.888601,
-          "sentiment_score": 0.592178,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 0.839111,
-          "sentiment_score": 0.536764,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.726833,
-          "sentiment_score": 0.530687,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.90311
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811606
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 859,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ETF Database",
-          "source_domain": "ETF Database",
-          "headline": "XLE Tops August Sector Rankings as Energy Stocks Surge",
-          "url": "https://etfdb.com/sector-investing-content-hub/xle-tops-august-sector-rankings/",
-          "published_at": "2026-09-02T14:15:49"
-        }
-      ]
-    },
-    {
-      "event_id": 763,
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "Adobe has acquired Rilo, an India-based marketing intelligence startup, in a deal that includes licensing and the acquisition of its six-member team. Rilo's technology, which focuses on automating marketing workflows, is expected to enhance Adobe's existing products, particularly for larger customers. This marks Adobe's second acquisition from India, following Rephrase.ai in 2023, as the company continues to bolster its AI-powered marketing capabilities.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-02T14:04:59",
-      "first_seen_at": "2026-09-02T16:00:03.966313",
-      "assets": [
-        {
-          "symbol": "ADBE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.432035,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.631304,
-          "sentiment_score": 0.143209,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.630011,
-          "sentiment_score": 0.146252,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.62875,
-          "sentiment_score": 0.134401,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.627926,
-          "sentiment_score": 0.127231,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.9263
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.723317
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 860,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TechCrunch",
-          "source_domain": "TechCrunch",
-          "headline": "Adobe acquires Indian market intelligence startup Rilo",
-          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-          "published_at": "2026-09-02T14:04:59"
         }
       ]
     }
