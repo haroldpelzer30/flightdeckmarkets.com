@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 816,
+      "title": "Lockheed Martin (NYSE:LMT) Faces Pressure Despite Earnings Beat",
+      "summary": "Lockheed Martin (NYSE:LMT) is experiencing technical pressure with its stock falling below key moving averages, despite reporting stronger-than-expected quarterly earnings and maintaining its fiscal year outlook. The aerospace and defense company benefits from resilient government demand and a declared dividend, but its high debt-to-equity ratio and execution risks on large programs are concerns. Market watchers are focused on whether current weakness is a temporary technical setback or indicates deeper issues, with future earnings, contract awards, and cash flow being critical indicators.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-03T16:13:48",
+      "first_seen_at": "2026-09-03T18:00:02.201748",
+      "assets": [
+        {
+          "symbol": "LMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.008795,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.586547,
+          "sentiment_score": 0.246859,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 0.552412,
+          "sentiment_score": -0.136862,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94417
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.825444
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.740741
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 917,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Lockheed Martin (NYSE:LMT) Faces Pressure Despite Earnings Beat",
+          "url": "https://kalkinemedia.com/us/stocks/industrial/lockheed-martin-nyselmt-faces-pressure-despite-earnings-beat",
+          "published_at": "2026-09-03T16:13:48"
+        }
+      ]
+    },
+    {
       "event_id": 814,
       "title": "AbbVie Completes $10.9 Billion Apogee Acquisition, Adds Zumilokibart to AD Pipeline",
       "summary": "AbbVie has finalized its $10.9 billion acquisition of Apogee Therapeutics, significantly bolstering its immunology pipeline with the addition of zumilokibart, an IL-13 antibody for atopic dermatitis, and APG273 for asthma. This strategic move aims to address unmet needs in inflammatory diseases, with zumilokibart showing promising efficacy and potential for convenient, infrequent dosing. While the acquisition is expected to dilute AbbVie's adjusted diluted EPS in 2026 and 2027, the company anticipates accretion starting in 2032.",
@@ -20,7 +83,7 @@
           "symbol": "ABBV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.26124,
+          "sentiment_score": 0.252572,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +99,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.803274
+          "relevance_score": 0.828723
         },
         {
           "topic": "finance",
@@ -71,7 +134,7 @@
           "symbol": "ABBV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416367,
+          "sentiment_score": 0.402748,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +146,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.915619
+          "relevance_score": 0.925068
         },
         {
           "topic": "earnings",
@@ -1196,57 +1259,6 @@
           "headline": "Goldman Sachs warns investors to expect lower returns over the next year",
           "url": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html",
           "published_at": "2026-09-02T17:24:27"
-        }
-      ]
-    },
-    {
-      "event_id": 771,
-      "title": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com",
-      "summary": "HP Inc.'s stock reached a 52-week high of $32.19, reflecting an 11.85% increase over the past year and significant gains in recent months. Despite exceeding fiscal third-quarter revenue and EPS estimates, the stock saw a decline in after-hours trading, possibly due to margin pressure, though BofA Securities raised its price target while maintaining an Underperform rating. InvestingPro analysis suggests the stock is currently undervalued with potential for further upside.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-02T17:09:38",
-      "first_seen_at": "2026-09-02T18:00:01.694659",
-      "assets": [
-        {
-          "symbol": "HPQ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425265,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948981
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.927223
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.849714
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.639256
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 868,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com South Africa",
-          "source_domain": "Investing.com South Africa",
-          "headline": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com",
-          "url": "https://za.investing.com/news/stock-market-news/hp-stock-hits-52week-high-reaching-3219-usd-93CH-4452170",
-          "published_at": "2026-09-02T17:09:38"
         }
       ]
     }
