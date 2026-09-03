@@ -5,6 +5,235 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 795,
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
+      "summary": "This article details Thursday's top Wall Street analyst research calls, including upgrades for Broadcom, Deere & Company, and Dell Technologies, and downgrades for Moderna and PG&E. It also covers new \"Buy\" initiations for Devon Energy, Permian Resources, and Viper Energy, highlighting a bullish outlook on the oil sector. The report provides a market overview, touching on mixed stock futures, bond market dynamics, energy prices, precious metals, and cryptocurrency volatility ahead of the Labor Day weekend.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-03T12:05:39",
+      "first_seen_at": "2026-09-03T13:00:02.099530",
+      "assets": [
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.370332,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 0.902405,
+          "sentiment_score": 0.393579,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 0.876563,
+          "sentiment_score": 0.356361,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MRNA",
+          "asset_class": null,
+          "relevance_score": 0.820116,
+          "sentiment_score": 0.701465,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.797119,
+          "sentiment_score": 0.353453,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.943954
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.833522
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.704655
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.639327
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.628329
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 896,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
+          "url": "https://247wallst.com/investing/2026/09/03/here-are-thursdays-top-wall-street-analyst-research-calls-broadcom-deere-company-dell-technologies-devon-energy-moderna-permian-resources-pge-thermo-fisher-viper-energy-and-more/",
+          "published_at": "2026-09-03T12:05:39"
+        }
+      ]
+    },
+    {
+      "event_id": 796,
+      "title": "What Drove AEP (NASDAQ:AEP) as the Russell 1000 Index Rebounded?",
+      "summary": "American Electric Power (AEP) has remained in focus after its Indiana and Michigan utility proposed a significant customer rate reduction plan, aiming to lower bills despite surging demand driven by industrial and computing needs. While utilities generally lagged in a rebounding market due to rising long-dated Treasury yields, AEP's strategy involves passing on benefits of load growth to customers. The company, which owns the largest electricity transmission network in the U.S., is also repositioning legacy generation sites into energy hubs and expects substantial new load additions from computing campuses, industrial reshoring, and electrification by the end of the decade.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-03T11:41:04",
+      "first_seen_at": "2026-09-03T13:00:02.429339",
+      "assets": [
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.338743,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KHC",
+          "asset_class": null,
+          "relevance_score": 0.645624,
+          "sentiment_score": 0.148045,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EXC",
+          "asset_class": null,
+          "relevance_score": 0.635865,
+          "sentiment_score": 0.24248,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GILD",
+          "asset_class": null,
+          "relevance_score": 0.610518,
+          "sentiment_score": 0.104155,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903363
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.839699
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.730725
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.719075
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 897,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "What Drove AEP (NASDAQ:AEP) as the Russell 1000 Index Rebounded?",
+          "url": "https://kalkinemedia.com/us/stocks/utility/what-drove-aep-nasdaqaep-as-the-russell-1000-index-rebounded",
+          "published_at": "2026-09-03T11:41:04"
+        }
+      ]
+    },
+    {
+      "event_id": 797,
+      "title": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
+      "summary": "SLB's acquisition of Kelvion for $4.1 billion signals a strategic pivot towards data center solutions, aiming for $4.5 billion to $5 billion in revenue for its Data Center Solutions business by 2028. This move provides SLB with crucial thermal-management capabilities for data centers, complementing its existing NVIDIA partnership and potentially diversifying its growth story away from its declining oilfield earnings. The deal is expected to be accretive without share dilution, and while the data center segment is not yet transformative, it positions SLB for a revaluation as two distinct businesses.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-03T11:27:09",
+      "first_seen_at": "2026-09-03T13:00:02.751065",
+      "assets": [
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.419898,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.638533,
+          "sentiment_score": 0.301368,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.945728
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839406
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.707867
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.642882
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 898,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
+          "url": "https://www.marketbeat.com/articles/slbs-kelvion-deal-could-change-how-investors-value-the-oilfield-giant/",
+          "published_at": "2026-09-03T11:27:09"
+        }
+      ]
+    },
+    {
       "event_id": 790,
       "title": "Oracle, Alphabet, Valero Energy And More On CNBC’s ‘Final Trades’",
       "summary": "CNBC's \"Halftime Report Final Trades\" featured investment recommendations including Alphabet Inc. (GOOGL), Oracle Corporation (ORCL), iShares Gold Trust (IAU), and Valero Energy Corporation (VLO). Analysts provided positive ratings and price targets for Alphabet and Valero, while Oracle is set to release its Q1 fiscal year 2027 results soon.",
@@ -19,8 +248,8 @@
         {
           "symbol": "VLO",
           "asset_class": null,
-          "relevance_score": 0.969242,
-          "sentiment_score": 0.336782,
+          "relevance_score": 0.995281,
+          "sentiment_score": 0.325356,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,23 +257,23 @@
           "symbol": "GOOGL",
           "asset_class": null,
           "relevance_score": 0.897763,
-          "sentiment_score": 0.331171,
+          "sentiment_score": 0.345768,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GOOG",
           "asset_class": null,
-          "relevance_score": 0.860092,
-          "sentiment_score": 0.31091,
+          "relevance_score": 0.893464,
+          "sentiment_score": 0.305426,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "ORCL",
           "asset_class": null,
-          "relevance_score": 0.817573,
-          "sentiment_score": 0.281373,
+          "relevance_score": 0.848713,
+          "sentiment_score": 0.282649,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -56,11 +285,11 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.802953
+          "relevance_score": 0.838852
         },
         {
           "topic": "technology",
-          "relevance_score": 0.702857
+          "relevance_score": 0.720695
         },
         {
           "topic": "energy_transportation",
@@ -95,7 +324,7 @@
           "symbol": "TJX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.331467,
+          "sentiment_score": 0.347982,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -103,19 +332,19 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.906176
+          "relevance_score": 0.948636
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.849466
         },
         {
           "topic": "financial_markets",
           "relevance_score": 0.847322
         },
         {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.819963
-        },
-        {
           "topic": "finance",
-          "relevance_score": 0.613417
+          "relevance_score": 0.642027
         }
       ],
       "articles": [
@@ -146,15 +375,15 @@
           "symbol": "RMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.419032,
+          "sentiment_score": 0.386684,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "HCA",
           "asset_class": null,
-          "relevance_score": 0.604008,
-          "sentiment_score": 0.104624,
+          "relevance_score": 0.613753,
+          "sentiment_score": 0.116005,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -162,7 +391,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.90499
+          "relevance_score": 0.921365
         },
         {
           "topic": "financial_markets",
@@ -170,11 +399,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.701588
+          "relevance_score": 0.738088
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.608648
+          "relevance_score": 0.636875
         }
       ],
       "articles": [
@@ -1022,188 +1251,6 @@
           "headline": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
           "url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
           "published_at": "2026-09-02T12:37:51"
-        }
-      ]
-    },
-    {
-      "event_id": 751,
-      "title": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
-      "summary": "CPP Investments and Equinix have completed the US$4 billion acquisition of atNorth, a leading Nordic data center developer and operator. This strategic investment aims to support the growth of AI, cloud, and high-performance computing workloads in the Nordics, leveraging atNorth's scalable portfolio and renewable energy integration. Partners Group will also re-invest, holding a 10% stake, while CPP Investments will hold a 51% controlling stake and Equinix 34%.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-02T12:31:36",
-      "first_seen_at": "2026-09-02T14:00:02.014736",
-      "assets": [
-        {
-          "symbol": "EQIX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.427463,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.831896
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.746976
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.736538
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 847,
-          "provider": "ALPHA_VANTAGE",
-          "source": "www.marketscreener.com",
-          "source_domain": "www.marketscreener.com",
-          "headline": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
-          "url": "https://www.marketscreener.com/news/cpp-investments-and-equinix-complete-atnorth-acquisition-to-support-growth-of-leading-nordic-data-ce-ce7858d2d08af325",
-          "published_at": "2026-09-02T12:31:36"
-        },
-        {
-          "article_id": 852,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Equinix Newsroom",
-          "source_domain": "Equinix Newsroom",
-          "headline": "CPP Investments and Equinix Complete atNorth Acquisition to Support Growth of Leading Nordic Data Center Platform",
-          "url": "https://newsroom.equinix.com/2026-09-02-CPP-Investments-and-Equinix-Complete-atNorth-Acquisition-to-Support-Growth-of-Leading-Nordic-Data-Center-Platform",
-          "published_at": "2026-09-02T13:00:08"
-        }
-      ]
-    },
-    {
-      "event_id": 743,
-      "title": "Australia clears Kimberly-Clark’s acquisition of Kenvue but requires Carefree, Stayfree divestment",
-      "summary": "Australia's competition regulator has approved Kimberly-Clark's proposed $40 billion takeover of Kenvue, but with a significant condition. Kimberly-Clark must divest Kenvue’s Carefree and Stayfree period care brands in Australia to an approved purchaser to prevent a reduction in competition within the period care products market, as both companies are major suppliers. This decision aims to preserve an independent competitor and maintain market competition.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-02T11:51:28",
-      "first_seen_at": "2026-09-02T13:00:02.232527",
-      "assets": [
-        {
-          "symbol": "KVUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.319773,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMB",
-          "asset_class": null,
-          "relevance_score": 0.934725,
-          "sentiment_score": 0.309588,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.921788
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.741049
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 839,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WNWN-FM",
-          "source_domain": "WNWN-FM",
-          "headline": "Australia clears Kimberly-Clark’s acquisition of Kenvue but requires Carefree, Stayfree divestment",
-          "url": "https://wincountry.com/2026/09/01/australia-clears-kimberly-clarks-acquisition-of-kenvue-but-requires-carefree-stayfree-divestment/",
-          "published_at": "2026-09-02T11:51:28"
-        }
-      ]
-    },
-    {
-      "event_id": 744,
-      "title": "Can Nucor (NYSE:NUE) Extend Its Rally as Steel Tariffs Stay Firm?",
-      "summary": "Nucor (NYSE:NUE) shares have advanced after U.S.-Canada trade talks collapsed, reinforcing existing steel tariffs that benefit domestic mills. The company is also ramping up new production capacity in West Virginia and Utah and is benefiting from strong demand in sectors like data-center and infrastructure construction. This combination of factors, including tariff protection and diversified demand, positions Nucor favorably in the current market.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-02T11:34:53",
-      "first_seen_at": "2026-09-02T13:00:02.502774",
-      "assets": [
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.41627,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.645138,
-          "sentiment_score": 0.148851,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 0.620783,
-          "sentiment_score": 0.13398,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948681
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.84065
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.749601
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.743376
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.63605
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 840,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Can Nucor (NYSE:NUE) Extend Its Rally as Steel Tariffs Stay Firm?",
-          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/can-nucor-nysenue-extend-its-rally-as-steel-tariffs-stay-firm",
-          "published_at": "2026-09-02T11:34:53"
         }
       ]
     }
