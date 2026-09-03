@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 836,
+      "title": "Dominion Energy shareholders voted 98% in favor of merging with NextEra",
+      "summary": "Dominion Energy shareholders have overwhelmingly approved a merger with NextEra Energy, with 98% of votes in favor. This is a significant step, though the deal still requires approval from the Virginia State Corporation Commission. The merger faces opposition from some, including a long-time Dominion Energy employee and a Chesterfield County Board of Supervisors member, who express concerns about potential rate increases and loss of local control, despite Dominion's assurances of customer benefits and financial efficiencies.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-03T20:32:00",
+      "first_seen_at": "2026-09-03T22:00:02.398717",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.385631,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.900919,
+          "sentiment_score": 0.410789,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.901609
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.727214
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 939,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WTVR.com",
+          "source_domain": "WTVR.com",
+          "headline": "Dominion Energy shareholders voted 98% in favor of merging with NextEra",
+          "url": "https://www.wtvr.com/news/local-news/dominion-energy-shareholders-voted-98-in-favor-of-merging-with-nextera",
+          "published_at": "2026-09-03T20:32:00"
+        }
+      ]
+    },
+    {
       "event_id": 830,
       "title": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
       "summary": "ServiceNow (NOW) stock has rallied 28% in the past month, trading at $146, yet it remains down 11% year-to-date. This surge is attributed to a sector-wide re-rating of enterprise software, driven by easing concerns about AI impacting seat-based revenue, rather than specific company news. While Salesforce and Palantir saw even larger gains, analysts suggest trimming profits for NOW due to the rally being sentiment-driven.",
@@ -20,23 +71,23 @@
           "symbol": "NOW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.237157,
+          "sentiment_score": 0.205639,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CRM",
           "asset_class": null,
-          "relevance_score": 0.820399,
-          "sentiment_score": 0.419349,
+          "relevance_score": 0.835674,
+          "sentiment_score": 0.418945,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "PLTR",
           "asset_class": null,
-          "relevance_score": 0.711507,
-          "sentiment_score": 0.416429,
+          "relevance_score": 0.745786,
+          "sentiment_score": 0.417518,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -48,11 +99,11 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.91157
+          "relevance_score": 0.939966
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.906486
+          "relevance_score": 0.928686
         }
       ],
       "articles": [
@@ -1204,65 +1255,6 @@
           "headline": "Nykredit A S Acquires Shares of 501,433 The TJX Companies, Inc. $TJX",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-501433-the-tjx-companies-inc-tjx-2026-09-03/",
           "published_at": "2026-09-03T10:17:02"
-        }
-      ]
-    },
-    {
-      "event_id": 792,
-      "title": "Nykredit A S Acquires New Position in ResMed Inc. $RMD",
-      "summary": "Nykredit A S has acquired a new position in ResMed Inc. (NYSE:RMD), purchasing 338,702 shares valued at approximately $66 million during the second quarter, giving it a 0.23% stake. Institutional investors collectively own 54.98% of the company. ResMed exceeded quarterly earnings expectations, reporting $2.95 EPS and $1.46 billion in revenue, and increased its quarterly dividend to $0.66 per share, while analyst sentiment remains mixed with a consensus \"Hold\" rating and an average price target of $240.31.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-03T10:11:41",
-      "first_seen_at": "2026-09-03T12:00:03.558172",
-      "assets": [
-        {
-          "symbol": "RMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.386684,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HCA",
-          "asset_class": null,
-          "relevance_score": 0.613753,
-          "sentiment_score": 0.116005,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921365
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817771
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.738088
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.636875
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 893,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires New Position in ResMed Inc. $RMD",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-resmed-inc-rmd-2026-09-03/",
-          "published_at": "2026-09-03T10:11:41"
         }
       ]
     }
