@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 838,
+      "title": "Missouri American Water completes Neosho system acquisition By Investing.com",
+      "summary": "Missouri American Water has finalized its acquisition of Neosho's water and wastewater systems for $34.5 million, adding approximately 5,400 water and 5,400 wastewater customers. The company also hired 25 previous system employees and plans to invest around $35 million over the next five years for system upgrades, including replacing lead service lines and improving infrastructure. This move aims to ensure long-term, reliable service for Neosho residents and addresses the substantial investment required for system maintenance.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-03T21:48:41",
+      "first_seen_at": "2026-09-03T23:00:02.633661",
+      "assets": [
+        {
+          "symbol": "AWK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.42308,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.728463
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 942,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Missouri American Water completes Neosho system acquisition By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/missouri-american-water-completes-neosho-system-acquisition-93CH-4828237",
+          "published_at": "2026-09-03T21:48:41"
+        }
+      ]
+    },
+    {
       "event_id": 836,
       "title": "Dominion Energy shareholders voted 98% in favor of merging with NextEra",
       "summary": "Dominion Energy shareholders have overwhelmingly approved a merger with NextEra Energy, with 98% of votes in favor. This is a significant step, though the deal still requires approval from the Virginia State Corporation Commission. The merger faces opposition from some, including a long-time Dominion Energy employee and a Chesterfield County Board of Supervisors member, who express concerns about potential rate increases and loss of local control, despite Dominion's assurances of customer benefits and financial efficiencies.",
@@ -20,15 +63,15 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.385631,
+          "sentiment_score": 0.408298,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "D",
           "asset_class": null,
-          "relevance_score": 0.900919,
-          "sentiment_score": 0.410789,
+          "relevance_score": 0.903103,
+          "sentiment_score": 0.381076,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,7 +79,7 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.901609
+          "relevance_score": 0.932111
         },
         {
           "topic": "energy_transportation",
@@ -63,7 +106,7 @@
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 47,
+      "intelligence_score": 51,
       "published_at": "2026-09-03T20:30:36",
       "first_seen_at": "2026-09-03T21:00:02.502349",
       "assets": [
@@ -71,7 +114,7 @@
           "symbol": "NOW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.205639,
+          "sentiment_score": 0.272711,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -79,20 +122,24 @@
           "symbol": "CRM",
           "asset_class": null,
           "relevance_score": 0.835674,
-          "sentiment_score": 0.418945,
-          "sentiment_label": "Bullish",
+          "sentiment_score": 0.316141,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "PLTR",
           "asset_class": null,
           "relevance_score": 0.745786,
-          "sentiment_score": 0.417518,
-          "sentiment_label": "Bullish",
+          "sentiment_score": 0.315406,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.94376
+        },
         {
           "topic": "earnings",
           "relevance_score": 0.941373
@@ -100,10 +147,6 @@
         {
           "topic": "technology",
           "relevance_score": 0.939966
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928686
         }
       ],
       "articles": [
@@ -124,6 +167,61 @@
           "headline": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-just-rallied-28-month-193004936.html",
           "published_at": "2026-09-03T20:30:36"
+        }
+      ]
+    },
+    {
+      "event_id": 841,
+      "title": "Energy bills are up in Virginia. Now some are pushing back as Dominion Energy seeks another rate increase",
+      "summary": "Virginia residents are facing increasing energy bills from Dominion Energy, prompting pushback as the utility seeks yet another rate increase. Aileen Rivera's bill for August reached $419.60 for her 1,400 sq ft home, despite conservation efforts. While Dominion attributes the hikes to inflation and increased material costs, some activists believe data centers are the primary driver, leading to higher costs for residential customers.",
+      "event_type": "M&A",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 76,
+      "published_at": "2026-09-03T20:23:38",
+      "first_seen_at": "2026-09-03T23:00:03.466390",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.432945,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.841569,
+          "sentiment_score": 0.244514,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.940604
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.911826
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.848203
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 946,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WTVR.com",
+          "source_domain": "WTVR.com",
+          "headline": "Energy bills are up in Virginia. Now some are pushing back as Dominion Energy seeks another rate increase",
+          "url": "https://www.wtvr.com/news/local-news/dominion-energy-seeks-rate-increase-sept-3-2026",
+          "published_at": "2026-09-03T20:23:38"
         }
       ]
     },
@@ -1129,132 +1227,6 @@
           "headline": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
           "url": "https://www.marketbeat.com/articles/slbs-kelvion-deal-could-change-how-investors-value-the-oilfield-giant/",
           "published_at": "2026-09-03T11:27:09"
-        }
-      ]
-    },
-    {
-      "event_id": 790,
-      "title": "Oracle, Alphabet, Valero Energy And More On CNBC’s ‘Final Trades’",
-      "summary": "CNBC's \"Halftime Report Final Trades\" featured investment recommendations including Alphabet Inc. (GOOGL), Oracle Corporation (ORCL), iShares Gold Trust (IAU), and Valero Energy Corporation (VLO). Analysts provided positive ratings and price targets for Alphabet and Valero, while Oracle is set to release its Q1 fiscal year 2027 results soon.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-03T11:08:23",
-      "first_seen_at": "2026-09-03T12:00:03.028141",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.995281,
-          "sentiment_score": 0.328894,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.897763,
-          "sentiment_score": 0.332145,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.893464,
-          "sentiment_score": 0.339219,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.848713,
-          "sentiment_score": 0.254387,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923617
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.838852
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.720695
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.64791
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 891,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Oracle, Alphabet, Valero Energy And More On CNBC’s ‘Final Trades’",
-          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61597617/oracle-alphabet-valero-energy-and-more-on-cnbc-final-trades",
-          "published_at": "2026-09-03T11:08:23"
-        }
-      ]
-    },
-    {
-      "event_id": 791,
-      "title": "Nykredit A S Acquires Shares of 501,433 The TJX Companies, Inc. $TJX",
-      "summary": "Nykredit A/S acquired 501,433 shares of The TJX Companies, Inc. (NYSE:TJX) valued at $75.97 million during the second quarter, increasing institutional ownership to 91.09%. TJX reported strong quarterly earnings, beating analyst estimates, and declared a $0.48 quarterly dividend. Despite some insider selling and the stock opening near its 12-month low, analysts maintain a \"Moderate Buy\" consensus with an average price target of $171.63.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-03T10:17:02",
-      "first_seen_at": "2026-09-03T12:00:03.323774",
-      "assets": [
-        {
-          "symbol": "TJX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.347982,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948636
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.849466
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847322
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.642027
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 892,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires Shares of 501,433 The TJX Companies, Inc. $TJX",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-501433-the-tjx-companies-inc-tjx-2026-09-03/",
-          "published_at": "2026-09-03T10:17:02"
         }
       ]
     }
