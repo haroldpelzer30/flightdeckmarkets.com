@@ -5,6 +5,140 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 801,
+      "title": "State Street Real Return ETF (RLY) Touches New 52-Week High",
+      "summary": "The State Street Real Return ETF (RLY) has reached a new 52-week high, rising 26% from its low. This performance is attributed to concerns about persistent inflation, easing monetary policy expectations, and geopolitical risks, which have increased demand for real assets. The fund, which invests in inflation-protected securities, real estate, commodities, and natural resource companies, is expected to continue its strong performance.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-03T12:22:09",
+      "first_seen_at": "2026-09-03T14:00:01.933629",
+      "assets": [
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.745543,
+          "sentiment_score": 0.295034,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913411
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.836873
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.73738
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.646837
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.623326
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 902,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "State Street Real Return ETF (RLY) Touches New 52-Week High",
+          "url": "https://uk.finance.yahoo.com/news/state-street-real-return-etf-122200145.html",
+          "published_at": "2026-09-03T12:22:09"
+        }
+      ]
+    },
+    {
+      "event_id": 802,
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "summary": "Nvidia has agreed to acquire open-source AI platform Hugging Face for $12.9 billion, marking its second-largest acquisition. Hugging Face CEO Clément Delangue initiated contact with Nvidia CEO Jensen Huang over the summer, seeking more resources and scale for the company amidst a turning point for open-source AI. This acquisition signifies Nvidia's continued expansion beyond hardware and into the broader AI ecosystem, emphasizing the importance of open models despite recent security concerns.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-03T12:11:27",
+      "first_seen_at": "2026-09-03T14:00:02.267860",
+      "assets": [
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.464274,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "IBM",
+          "asset_class": null,
+          "relevance_score": 0.588844,
+          "sentiment_score": 0.119973,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 0.584728,
+          "sentiment_score": 0.111684,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.558381,
+          "sentiment_score": 0.143149,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 0.555082,
+          "sentiment_score": 0.107215,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.900366
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.617027
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 903,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "published_at": "2026-09-03T12:11:27"
+        }
+      ]
+    },
+    {
       "event_id": 795,
       "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
       "summary": "This article details Thursday's top Wall Street analyst research calls, including upgrades for Broadcom, Deere & Company, and Dell Technologies, and downgrades for Moderna and PG&E. It also covers new \"Buy\" initiations for Devon Energy, Permian Resources, and Viper Energy, highlighting a bullish outlook on the oil sector. The report provides a market overview, touching on mixed stock futures, bond market dynamics, energy prices, precious metals, and cryptocurrency volatility ahead of the Labor Day weekend.",
@@ -20,15 +154,15 @@
           "symbol": "DE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.370332,
+          "sentiment_score": 0.391276,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AVGO",
           "asset_class": null,
-          "relevance_score": 0.902405,
-          "sentiment_score": 0.393579,
+          "relevance_score": 0.927409,
+          "sentiment_score": 0.350945,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -36,15 +170,15 @@
           "symbol": "DELL",
           "asset_class": null,
           "relevance_score": 0.876563,
-          "sentiment_score": 0.356361,
+          "sentiment_score": 0.384191,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MRNA",
           "asset_class": null,
-          "relevance_score": 0.820116,
-          "sentiment_score": 0.701465,
+          "relevance_score": 0.824015,
+          "sentiment_score": 0.726317,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -52,7 +186,7 @@
           "symbol": "DVN",
           "asset_class": null,
           "relevance_score": 0.797119,
-          "sentiment_score": 0.353453,
+          "sentiment_score": 0.376126,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -60,7 +194,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.943954
+          "relevance_score": 0.947313
         },
         {
           "topic": "technology",
@@ -68,7 +202,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.704655
+          "relevance_score": 0.724608
         },
         {
           "topic": "energy_transportation",
@@ -76,7 +210,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.628329
+          "relevance_score": 0.633868
         }
       ],
       "articles": [
@@ -107,7 +241,7 @@
           "symbol": "AEP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.338743,
+          "sentiment_score": 0.327587,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -115,7 +249,15 @@
           "symbol": "KHC",
           "asset_class": null,
           "relevance_score": 0.645624,
-          "sentiment_score": 0.148045,
+          "sentiment_score": 0.146389,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GILD",
+          "asset_class": null,
+          "relevance_score": 0.641322,
+          "sentiment_score": 0.102674,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -123,16 +265,8 @@
           "symbol": "EXC",
           "asset_class": null,
           "relevance_score": 0.635865,
-          "sentiment_score": 0.24248,
+          "sentiment_score": 0.21014,
           "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GILD",
-          "asset_class": null,
-          "relevance_score": 0.610518,
-          "sentiment_score": 0.104155,
-          "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
@@ -143,7 +277,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.903363
+          "relevance_score": 0.90915
         },
         {
           "topic": "earnings",
@@ -155,7 +289,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.719075
+          "relevance_score": 0.725973
         }
       ],
       "articles": [
@@ -186,15 +320,15 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.419898,
+          "sentiment_score": 0.447129,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
-          "relevance_score": 0.638533,
-          "sentiment_score": 0.301368,
+          "relevance_score": 0.642413,
+          "sentiment_score": 0.307078,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -249,7 +383,7 @@
           "symbol": "VLO",
           "asset_class": null,
           "relevance_score": 0.995281,
-          "sentiment_score": 0.325356,
+          "sentiment_score": 0.328894,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -257,7 +391,7 @@
           "symbol": "GOOGL",
           "asset_class": null,
           "relevance_score": 0.897763,
-          "sentiment_score": 0.345768,
+          "sentiment_score": 0.332145,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -265,7 +399,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 0.893464,
-          "sentiment_score": 0.305426,
+          "sentiment_score": 0.339219,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -273,7 +407,7 @@
           "symbol": "ORCL",
           "asset_class": null,
           "relevance_score": 0.848713,
-          "sentiment_score": 0.282649,
+          "sentiment_score": 0.254387,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1165,92 +1299,6 @@
           "headline": "Adobe acquires Indian market intelligence startup Rilo",
           "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
           "published_at": "2026-09-02T14:04:59"
-        }
-      ]
-    },
-    {
-      "event_id": 764,
-      "title": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
-      "summary": "Palo Alto Networks exceeded fiscal fourth-quarter estimates and provided a strong outlook for the new fiscal year, with CEO Nikesh Arora highlighting a need to modernize roughly $1 trillion in outdated cybersecurity infrastructure against AI-powered threats. Arora emphasized that robust cybersecurity is essential for successful AI deployment, a sentiment that has shifted market thinking previously concerned about AI making security software obsolete. The company has also launched an AI Critical Defense Program to help organizations identify and address vulnerabilities.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-02T13:51:49",
-      "first_seen_at": "2026-09-02T16:00:04.237039",
-      "assets": [
-        {
-          "symbol": "PANW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.478724,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.917057
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.820438
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.638548
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 861,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
-          "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-earnings-beat-133854549.html",
-          "published_at": "2026-09-02T13:51:49"
-        }
-      ]
-    },
-    {
-      "event_id": 757,
-      "title": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
-      "summary": "The ADP National Employment Report for August 2026 indicates a gain of 38,000 private-sector jobs, marking the slowest pace of job creation since January. Alongside this, ADP's new Pay Insights report reveals that base pay for all private-sector workers increased by 3.2% year-over-year, while gross pay rose by 4.7%. The report also provides detailed analytics on pay trends for job-stayers and job-changers, highlighting that pay growth has been decelerating for the past four years, particularly among lower-paid workers.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-02T12:37:51",
-      "first_seen_at": "2026-09-02T15:00:02.934448",
-      "assets": [
-        {
-          "symbol": "ADP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.313886,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.928258
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 854,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ADP Media Center",
-          "source_domain": "ADP Media Center",
-          "headline": "ADP National Employment Report: Private-Sector Employment Increased by 38,000 Jobs in August",
-          "url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
-          "published_at": "2026-09-02T12:37:51"
         }
       ]
     }
