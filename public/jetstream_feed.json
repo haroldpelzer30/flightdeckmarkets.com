@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 811,
+      "title": "AbbVie Completes Acquisition of Apogee Therapeutics",
+      "summary": "AbbVie (NYSE: ABBV) has completed its acquisition of Apogee Therapeutics (NASDAQ: APGE) for approximately $10.9 billion, paying $135.11 per share in cash. This acquisition significantly strengthens AbbVie's immunology pipeline, adding diverse assets like zumilokibart for atopic dermatitis and APG273 for asthma, which target inflammatory and immunological diseases. The deal is expected to negatively impact AbbVie's adjusted diluted EPS by $0.14 in 2026 and $0.46 in 2027, with accretion anticipated to begin in 2032.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-03T14:59:45",
+      "first_seen_at": "2026-09-03T16:00:02.161023",
+      "assets": [
+        {
+          "symbol": "ABBV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.439241,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.907159
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.844897
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 912,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing News Network",
+          "source_domain": "Investing News Network",
+          "headline": "AbbVie Completes Acquisition of Apogee Therapeutics",
+          "url": "https://investingnews.com/abbvie-completes-acquisition-of-apogee-therapeutics/",
+          "published_at": "2026-09-03T14:59:45"
+        }
+      ]
+    },
+    {
       "event_id": 807,
       "title": "Campbell's forecasts weak year ahead on pressured consumer spending",
       "summary": "Campbell's has forecast weaker-than-expected annual profit and sales, citing pressured consumer spending and soft demand for its pricier snacks. The company also announced a cut to its quarterly dividend by over a third and plans to save $500 million by fiscal 2030 through cost-cutting measures. CEO Mick Beekhuizen acknowledged the \"unacceptable\" results and indicated the company would adjust prices and take a more aggressive \"self-help stance.\"",
@@ -20,7 +67,7 @@
           "symbol": "CPB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.630943,
+          "sentiment_score": -0.631462,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -28,7 +75,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.90753
+          "relevance_score": 0.919451
         },
         {
           "topic": "economy_macro",
@@ -67,39 +114,39 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.391821,
+          "sentiment_score": 0.376593,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
-          "symbol": "JPM",
+          "symbol": "WFC",
           "asset_class": null,
-          "relevance_score": 0.637517,
-          "sentiment_score": 0.109473,
+          "relevance_score": 0.639697,
+          "sentiment_score": 0.109726,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
-          "relevance_score": 0.632066,
-          "sentiment_score": 0.323869,
+          "relevance_score": 0.639671,
+          "sentiment_score": 0.347237,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.637517,
+          "sentiment_score": 0.109498,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.613156,
-          "sentiment_score": 0.146065,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.605548,
-          "sentiment_score": 0.14929,
+          "sentiment_score": 0.126855,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -107,15 +154,15 @@
       "topics": [
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.9076
+          "relevance_score": 0.927921
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.823913
+          "relevance_score": 0.823937
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.722548
+          "relevance_score": 0.743459
         }
       ],
       "articles": [
@@ -1228,57 +1275,6 @@
           "headline": "3 Reasons We Love ConocoPhillips (COP)",
           "url": "https://uk.finance.yahoo.com/news/3-reasons-love-conocophillips-cop-151623942.html",
           "published_at": "2026-09-02T15:17:30"
-        }
-      ]
-    },
-    {
-      "event_id": 761,
-      "title": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
-      "summary": "Chevron CEO Mike Wirth stated that strong legal terms are now in place, making it safer to invest in Venezuela. The company plans to invest $7 billion in the country over the next five years to boost oil production. Wirth's comments suggest an increased confidence in the stability and security of investments in Venezuela.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-02T14:55:07",
-      "first_seen_at": "2026-09-02T16:00:03.413297",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.43099,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.94572
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.841421
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.748484
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.638316
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 858,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Chevron CEO Says It's Now Safer to Invest in Venezuela",
-          "url": "https://www.marketscreener.com/news/chevron-ceo-says-it-s-now-safer-to-invest-in-venezuela-ce7858d3d889ff25",
-          "published_at": "2026-09-02T14:55:07"
         }
       ]
     }
