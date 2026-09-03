@@ -20,7 +20,7 @@
           "symbol": "NTAP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.443632,
+          "sentiment_score": -0.429904,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.627117
+          "relevance_score": 0.637353
         }
       ],
       "articles": [
@@ -76,7 +76,7 @@
           "symbol": "TMUS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.219889,
+          "sentiment_score": -0.221945,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -92,7 +92,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.700014
+          "relevance_score": 0.730501
         }
       ],
       "articles": [
