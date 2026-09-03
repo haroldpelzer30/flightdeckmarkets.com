@@ -5,6 +5,129 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 830,
+      "title": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
+      "summary": "ServiceNow (NOW) stock has rallied 28% in the past month, trading at $146, yet it remains down 11% year-to-date. This surge is attributed to a sector-wide re-rating of enterprise software, driven by easing concerns about AI impacting seat-based revenue, rather than specific company news. While Salesforce and Palantir saw even larger gains, analysts suggest trimming profits for NOW due to the rally being sentiment-driven.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-03T20:30:36",
+      "first_seen_at": "2026-09-03T21:00:02.502349",
+      "assets": [
+        {
+          "symbol": "NOW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.237157,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.820399,
+          "sentiment_score": 0.419349,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.711507,
+          "sentiment_score": 0.416429,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941373
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.91157
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906486
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 931,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
+          "url": "https://247wallst.com/investing/2026/09/03/servicenow-just-rallied-28-in-a-month-take-profits-or-buy-more/",
+          "published_at": "2026-09-03T20:30:36"
+        },
+        {
+          "article_id": 932,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-just-rallied-28-month-193004936.html",
+          "published_at": "2026-09-03T20:30:36"
+        }
+      ]
+    },
+    {
+      "event_id": 831,
+      "title": "Bogotá, Antioquia and Valle del Cauca Concentrate Half of Colombia’s Regional Economy, Bancolombia Data Shows",
+      "summary": "An analysis by Bancolombia reveals that Bogotá, Antioquia, and Valle del Cauca together accounted for over 50% of Colombia's national GDP in 2025, highlighting significant regional economic disparities. While these regions show diversified economies and strong growth, many other departments are highly specialized in commodities like mining, making them more vulnerable to industry cycles. The report emphasizes that national GDP figures mask crucial differences in regional economic resilience and growth drivers, which is important for investors, businesses, and policymakers.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-03T18:30:43",
+      "first_seen_at": "2026-09-03T21:00:02.903639",
+      "assets": [
+        {
+          "symbol": "CIB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.228838,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.942105
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.732525
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.605568
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.600819
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 933,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Finance Colombia",
+          "source_domain": "Finance Colombia",
+          "headline": "Bogotá, Antioquia and Valle del Cauca Concentrate Half of Colombia’s Regional Economy, Bancolombia Data Shows",
+          "url": "https://www.financecolombia.com/bogota-antioquia-and-valle-del-cauca-concentrate-half-of-colombias-regional-economy-bancolombia-data-shows/",
+          "published_at": "2026-09-03T18:30:43"
+        }
+      ]
+    },
+    {
       "event_id": 819,
       "title": "Final Trades: Capital One, ServiceNow, Nvidia and Spotify",
       "summary": "The Investment Committee presented their top stock picks, including Capital One, ServiceNow, Nvidia, and Spotify, for the latter half of the year. The article highlights these companies as key stocks to watch based on expert analysis.",
@@ -20,15 +143,15 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.945676,
-          "sentiment_score": 0.422081,
+          "sentiment_score": 0.41005,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NOW",
           "asset_class": null,
-          "relevance_score": 0.83075,
-          "sentiment_score": 0.109116,
+          "relevance_score": 0.848144,
+          "sentiment_score": 0.148508,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +159,7 @@
           "symbol": "COF",
           "asset_class": null,
           "relevance_score": 0.747023,
-          "sentiment_score": 0.140589,
+          "sentiment_score": 0.136054,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -48,7 +171,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.821067
+          "relevance_score": 0.842346
         },
         {
           "topic": "financial_markets",
@@ -60,7 +183,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.627521
+          "relevance_score": 0.638367
         }
       ],
       "articles": [
@@ -72,6 +195,82 @@
           "headline": "Final Trades: Capital One, ServiceNow, Nvidia and Spotify",
           "url": "https://www.cnbc.com/video/2026/09/03/final-trades-capital-one-servicenow-nvidia-and-spotify.html",
           "published_at": "2026-09-03T17:32:21"
+        }
+      ]
+    },
+    {
+      "event_id": 832,
+      "title": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
+      "summary": "Campbell's stock dropped 9% after the company announced a 36% dividend cut and provided fiscal guidance well below Wall Street expectations, citing underperformance and a need to accelerate debt reduction. This news caused ripple effects across the packaged-food sector, with General Mills falling 4% and Kraft Heinz dropping 3% in sympathy, as the market reacted to concerns about inflation and weakness in salty snacks within the center-store food category. The broader market and staples sector remained stable, indicating a specific downturn for these food companies.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-03T17:23:06",
+      "first_seen_at": "2026-09-03T21:00:03.158300",
+      "assets": [
+        {
+          "symbol": "CPB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.440581,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GIS",
+          "asset_class": null,
+          "relevance_score": 0.998498,
+          "sentiment_score": -0.320005,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KHC",
+          "asset_class": null,
+          "relevance_score": 0.938964,
+          "sentiment_score": -0.342438,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936009
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832611
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.648825
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.639678
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 935,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
+          "url": "https://247wallst.com/investing/2026/09/03/campbells-slides-9-on-36-dividend-cut-general-mills-falls-4-kraft-heinz-drops-3/",
+          "published_at": "2026-09-03T17:23:06"
+        },
+        {
+          "article_id": 934,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/campbell-slides-9-36-dividend-172557698.html",
+          "published_at": "2026-09-03T18:20:30"
         }
       ]
     },
@@ -91,15 +290,15 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.12931,
+          "sentiment_score": -0.119783,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "NEE",
           "asset_class": null,
-          "relevance_score": 0.939369,
-          "sentiment_score": -0.140973,
+          "relevance_score": 0.939547,
+          "sentiment_score": -0.106262,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -142,7 +341,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.222214,
+          "sentiment_score": 0.213139,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -150,7 +349,7 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.940518
+          "relevance_score": 0.941134
         },
         {
           "topic": "economy_monetary",
@@ -1064,168 +1263,6 @@
           "headline": "Nykredit A S Acquires New Position in ResMed Inc. $RMD",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-resmed-inc-rmd-2026-09-03/",
           "published_at": "2026-09-03T10:11:41"
-        }
-      ]
-    },
-    {
-      "event_id": 793,
-      "title": "Nykredit A S Acquires Shares of 167,202 The Goldman Sachs Group, Inc. $GS",
-      "summary": "Nykredit A/S has acquired 167,202 shares of The Goldman Sachs Group, Inc. (GS) worth approximately $169.1 million, representing a 0.06% stake in the company. This comes as institutional investors collectively own 71.21% of GS, and analysts maintain a \"Moderate Buy\" rating with an average price target of $1,062.86. Goldman Sachs recently reported strong quarterly earnings, beating estimates with a 39.4% year-over-year revenue increase and a raised quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-03T09:56:05",
-      "first_seen_at": "2026-09-03T12:00:03.800783",
-      "assets": [
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.990812,
-          "sentiment_score": 0.328211,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909286
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.841757
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.81201
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.641112
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 894,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires Shares of 167,202 The Goldman Sachs Group, Inc. $GS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-167202-the-goldman-sachs-group-inc-gs-2026-09-03/",
-          "published_at": "2026-09-03T09:56:05"
-        }
-      ]
-    },
-    {
-      "event_id": 794,
-      "title": "US Futures Steady as Oil Prices Ease and Markets Assess Broadcom Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
-      "summary": "US stock futures remained broadly unchanged as investors reacted to developments in the US-Iran conflict, the interest-rate outlook, and corporate updates ahead of Friday's US labor market report. Oil prices eased after three sessions of gains, influenced by comments from US President Donald Trump and reports of energy flow recovery through the Strait of Hormuz. Broadcom's fiscal fourth-quarter revenue guidance came in below Wall Street forecasts, though its AI chip sales projections exceeded expectations.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 100,
-      "published_at": "2026-09-03T09:15:50",
-      "first_seen_at": "2026-09-03T12:00:04.024920",
-      "assets": [
-        {
-          "symbol": "AVGO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.269614,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.939732
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.918041
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.837877
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.829047
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 895,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "US Futures Steady as Oil Prices Ease and Markets Assess Broadcom Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
-          "url": "https://finance.yahoo.com/markets/articles/us-futures-steady-oil-prices-094239509.html",
-          "published_at": "2026-09-03T09:15:50"
-        }
-      ]
-    },
-    {
-      "event_id": 781,
-      "title": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway.",
-      "summary": "NetApp (NTAP) reported stronger-than-expected earnings and raised its fiscal year guidance. Despite the positive financial results, the company's stock experienced a decline in after-hours trading. The article suggests that issues related to cash and inventory drags might be contributing to the slump in shares.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-02T20:36:41",
-      "first_seen_at": "2026-09-02T22:00:01.713218",
-      "assets": [
-        {
-          "symbol": "NTAP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.429904,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936461
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.71815
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.637353
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 878,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barron's",
-          "source_domain": "Barron's",
-          "headline": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway.",
-          "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?mod=barronsgooglenews",
-          "published_at": "2026-09-02T20:36:41"
-        },
-        {
-          "article_id": 882,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Barron's",
-          "source_domain": "Barron's",
-          "headline": "NetApp Earnings Beat Estimates. The Stock Is Falling Anyway.",
-          "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c",
-          "published_at": "2026-09-02T21:38:48"
         }
       ]
     }
