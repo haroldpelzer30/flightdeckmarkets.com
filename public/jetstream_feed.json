@@ -5,6 +5,81 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 849,
+      "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate",
+      "summary": "The Zacks Analyst Blog recommends five stocks with a Zacks Rank #1 (Strong Buy) to mitigate risks in September, historically the worst-performing month for U.S. equities. These include Archer-Daniels-Midland Co. (ADM), The Travelers Companies Inc. (TRV), Virtu Financial Inc. (VIRT), Paycom Software Inc. (PAYC), and The Allstate Corp. (ALL), all identified as low-beta, high-yielding stocks. The article notes increased market volatility due to rising crude oil prices, sticky inflation concerns, and higher global bond yields, emphasizing the importance of defensive investments.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-04T13:22:15",
+      "first_seen_at": "2026-09-04T15:00:02.563360",
+      "assets": [
+        {
+          "symbol": "ADM",
+          "asset_class": null,
+          "relevance_score": 0.971883,
+          "sentiment_score": 0.413314,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRV",
+          "asset_class": null,
+          "relevance_score": 0.898392,
+          "sentiment_score": 0.327722,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PAYC",
+          "asset_class": null,
+          "relevance_score": 0.751651,
+          "sentiment_score": 0.35841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ALL",
+          "asset_class": null,
+          "relevance_score": 0.701073,
+          "sentiment_score": 0.322755,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903618
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.820034
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.711831
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604774
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 954,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-archer-132100350.html",
+          "published_at": "2026-09-04T13:22:15"
+        }
+      ]
+    },
+    {
       "event_id": 844,
       "title": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
       "summary": "PYA Waltman Capital LLC increased its stake in PepsiCo, Inc. (NASDAQ:PEP) by 28.1% during the second quarter, acquiring an additional 8,682 shares and bringing their total holdings to 39,563 shares valued at $5.36 million. Other hedge funds also made significant investments in PepsiCo. The article also provides a financial overview of PepsiCo, including its stock performance, dividend information, recent earnings, and various analyst ratings and news sentiments affecting the company.",
@@ -1124,53 +1199,6 @@
           "headline": "AbbVie Completes Acquisition of Apogee Therapeutics",
           "url": "https://investingnews.com/abbvie-completes-acquisition-of-apogee-therapeutics/",
           "published_at": "2026-09-03T14:59:45"
-        }
-      ]
-    },
-    {
-      "event_id": 807,
-      "title": "Campbell's forecasts weak year ahead on pressured consumer spending",
-      "summary": "Campbell's has forecast weaker-than-expected annual profit and sales, citing pressured consumer spending and soft demand for its pricier snacks. The company also announced a cut to its quarterly dividend by over a third and plans to save $500 million by fiscal 2030 through cost-cutting measures. CEO Mick Beekhuizen acknowledged the \"unacceptable\" results and indicated the company would adjust prices and take a more aggressive \"self-help stance.\"",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-03T13:42:41",
-      "first_seen_at": "2026-09-03T15:00:02.151190",
-      "assets": [
-        {
-          "symbol": "CPB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.631462,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.919451
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.840705
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.734269
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 908,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Campbell's forecasts weak year ahead on pressured consumer spending",
-          "url": "https://www.cnbc.com/2026/09/03/campbells-forecasts-weak-year-ahead-on-pressured-consumer-spending.html",
-          "published_at": "2026-09-03T13:42:41"
         }
       ]
     }
