@@ -20,7 +20,7 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.116846,
+          "sentiment_score": 0.13744,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.741705,
-          "sentiment_score": 0.123957,
+          "sentiment_score": 0.141914,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.627671,
-          "sentiment_score": 0.001936,
+          "sentiment_score": 0.041591,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
