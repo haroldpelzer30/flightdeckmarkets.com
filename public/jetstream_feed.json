@@ -20,15 +20,15 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.13744,
-          "sentiment_label": "Neutral",
+          "sentiment_score": 0.183974,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "APO",
           "asset_class": null,
           "relevance_score": 0.741705,
-          "sentiment_score": 0.141914,
+          "sentiment_score": 0.147737,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.627671,
-          "sentiment_score": 0.041591,
+          "sentiment_score": 0.034797,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -60,7 +60,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.629442
+          "relevance_score": 0.640092
         }
       ],
       "articles": [
