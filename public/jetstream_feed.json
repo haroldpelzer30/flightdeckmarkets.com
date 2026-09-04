@@ -20,7 +20,7 @@
           "symbol": "AWK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.42308,
+          "sentiment_score": 0.41647,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -44,6 +44,61 @@
           "headline": "Missouri American Water completes Neosho system acquisition By Investing.com",
           "url": "https://ca.investing.com/news/stock-market-news/missouri-american-water-completes-neosho-system-acquisition-93CH-4828237",
           "published_at": "2026-09-03T21:48:41"
+        }
+      ]
+    },
+    {
+      "event_id": 843,
+      "title": "Why Is Oracle Stock Up Today?",
+      "summary": "Oracle (ORCL) stock rose 5.7% after a Federal Reserve Governor indicated a preference for holding interest rates steady, easing market concerns about further rate hikes. This news is particularly impactful for Oracle due to its substantial $43 billion debt load, which makes it highly sensitive to interest rate fluctuations as it funds its AI data center expansion. While the general market reacted positively, The Motley Fool's Stock Advisor did not include Oracle among its top 10 recommended long-term growth stocks.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-03T21:10:17",
+      "first_seen_at": "2026-09-04T00:00:02.716482",
+      "assets": [
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.108623,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.623757,
+          "sentiment_score": 0.341186,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.926915
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910662
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.828426
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 948,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Currently.com",
+          "source_domain": "Currently.com",
+          "headline": "Why Is Oracle Stock Up Today?",
+          "url": "https://currently.att.yahoo.com/att/why-oracle-stock-today-212008025.html",
+          "published_at": "2026-09-03T21:10:17"
         }
       ]
     },
@@ -1164,69 +1219,6 @@
           "headline": "What Drove AEP (NASDAQ:AEP) as the Russell 1000 Index Rebounded?",
           "url": "https://kalkinemedia.com/us/stocks/utility/what-drove-aep-nasdaqaep-as-the-russell-1000-index-rebounded",
           "published_at": "2026-09-03T11:41:04"
-        }
-      ]
-    },
-    {
-      "event_id": 797,
-      "title": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
-      "summary": "SLB's acquisition of Kelvion for $4.1 billion signals a strategic pivot towards data center solutions, aiming for $4.5 billion to $5 billion in revenue for its Data Center Solutions business by 2028. This move provides SLB with crucial thermal-management capabilities for data centers, complementing its existing NVIDIA partnership and potentially diversifying its growth story away from its declining oilfield earnings. The deal is expected to be accretive without share dilution, and while the data center segment is not yet transformative, it positions SLB for a revaluation as two distinct businesses.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-03T11:27:09",
-      "first_seen_at": "2026-09-03T13:00:02.751065",
-      "assets": [
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.447129,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.642413,
-          "sentiment_score": 0.307078,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.945728
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839406
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.707867
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.642882
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 898,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
-          "url": "https://www.marketbeat.com/articles/slbs-kelvion-deal-could-change-how-investors-value-the-oilfield-giant/",
-          "published_at": "2026-09-03T11:27:09"
         }
       ]
     }
