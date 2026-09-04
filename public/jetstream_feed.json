@@ -5,6 +5,132 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 850,
+      "title": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
+      "summary": "ONEOK (OKE) is acquiring Brazos Midstream's Permian Midland Basin assets for $4.425 billion, funded by a $9 billion nonvoting minority equity investment from Apollo-managed funds. This investment is structured with a 7% capped internal rate of return (IRR) for nine years. The article analyzes the bull and bear cases for this financing structure, concluding that the attractive return for ONEOK depends on rapid cash generation, successful integration of the acquired assets, and the entire portfolio's ability to exceed the minority return while funding capital needs and shareholder distributions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-04T15:03:00",
+      "first_seen_at": "2026-09-04T16:00:03.203204",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.130803,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.944182
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.803554
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.706072
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.629442
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.624749
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 955,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
+          "url": "https://ca.finance.yahoo.com/news/oneok-oke-funding-4-4b-150349706.html",
+          "published_at": "2026-09-04T15:03:00"
+        }
+      ]
+    },
+    {
+      "event_id": 851,
+      "title": "Is Marathon Petroleum Stock Still a Buy After More Than Doubling YTD?",
+      "summary": "Marathon Petroleum (MPC) has seen a 138.6% return year-to-date, outperforming peers and securing a spot as a top S&P 500 performer, driven by strong operational execution and strategic investments. Despite potential risks like cyclical refining margins and a premium valuation, the company's robust cash flow, shareholder returns, and positive earnings momentum make it an attractive investment, meriting a Zacks Rank #2 (Buy). Investors should consider its strong fundamentals against commodity-driven risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-04T14:08:39",
+      "first_seen_at": "2026-09-04T16:00:03.454025",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.478239,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.800196,
+          "sentiment_score": 0.27796,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 0.737992,
+          "sentiment_score": 0.220859,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925551
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.84984
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.749903
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.618387
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 956,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Is Marathon Petroleum Stock Still a Buy After More Than Doubling YTD?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-still-buy-135200356.html",
+          "published_at": "2026-09-04T14:08:39"
+        }
+      ]
+    },
+    {
       "event_id": 849,
       "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate",
       "summary": "The Zacks Analyst Blog recommends five stocks with a Zacks Rank #1 (Strong Buy) to mitigate risks in September, historically the worst-performing month for U.S. equities. These include Archer-Daniels-Midland Co. (ADM), The Travelers Companies Inc. (TRV), Virtu Financial Inc. (VIRT), Paycom Software Inc. (PAYC), and The Allstate Corp. (ALL), all identified as low-beta, high-yielding stocks. The article notes increased market volatility due to rising crude oil prices, sticky inflation concerns, and higher global bond yields, emphasizing the importance of defensive investments.",
@@ -12,15 +138,15 @@
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 50,
+      "intelligence_score": 54,
       "published_at": "2026-09-04T13:22:15",
       "first_seen_at": "2026-09-04T15:00:02.563360",
       "assets": [
         {
           "symbol": "ADM",
           "asset_class": null,
-          "relevance_score": 0.971883,
-          "sentiment_score": 0.413314,
+          "relevance_score": 0.982838,
+          "sentiment_score": 0.405433,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,23 +154,23 @@
           "symbol": "TRV",
           "asset_class": null,
           "relevance_score": 0.898392,
-          "sentiment_score": 0.327722,
+          "sentiment_score": 0.322227,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "PAYC",
           "asset_class": null,
-          "relevance_score": 0.751651,
-          "sentiment_score": 0.35841,
+          "relevance_score": 0.777312,
+          "sentiment_score": 0.366724,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "ALL",
           "asset_class": null,
-          "relevance_score": 0.701073,
-          "sentiment_score": 0.322755,
+          "relevance_score": 0.739801,
+          "sentiment_score": 0.337434,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -52,19 +178,19 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.903618
+          "relevance_score": 0.920476
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.820034
+          "relevance_score": 0.834167
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.711831
+          "relevance_score": 0.718121
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.604774
+          "relevance_score": 0.646627
         }
       ],
       "articles": [
@@ -1101,104 +1227,6 @@
           "headline": "Lockheed Martin (NYSE:LMT) Faces Pressure Despite Earnings Beat",
           "url": "https://kalkinemedia.com/us/stocks/industrial/lockheed-martin-nyselmt-faces-pressure-despite-earnings-beat",
           "published_at": "2026-09-03T16:13:48"
-        }
-      ]
-    },
-    {
-      "event_id": 814,
-      "title": "AbbVie Completes $10.9 Billion Apogee Acquisition, Adds Zumilokibart to AD Pipeline",
-      "summary": "AbbVie has finalized its $10.9 billion acquisition of Apogee Therapeutics, significantly bolstering its immunology pipeline with the addition of zumilokibart, an IL-13 antibody for atopic dermatitis, and APG273 for asthma. This strategic move aims to address unmet needs in inflammatory diseases, with zumilokibart showing promising efficacy and potential for convenient, infrequent dosing. While the acquisition is expected to dilute AbbVie's adjusted diluted EPS in 2026 and 2027, the company anticipates accretion starting in 2032.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-03T16:02:37",
-      "first_seen_at": "2026-09-03T17:00:02.333675",
-      "assets": [
-        {
-          "symbol": "ABBV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.276398,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "life_sciences",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.839508
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.648358
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 915,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Dermatology Times",
-          "source_domain": "Dermatology Times",
-          "headline": "AbbVie Completes $10.9 Billion Apogee Acquisition, Adds Zumilokibart to AD Pipeline",
-          "url": "https://www.dermatologytimes.com/view/abbvie-completes-10-9-billion-apogee-acquisition-adds-zumilokibart-to-ad-pipeline",
-          "published_at": "2026-09-03T16:02:37"
-        }
-      ]
-    },
-    {
-      "event_id": 811,
-      "title": "AbbVie Completes Acquisition of Apogee Therapeutics",
-      "summary": "AbbVie (NYSE: ABBV) has completed its acquisition of Apogee Therapeutics (NASDAQ: APGE) for approximately $10.9 billion, paying $135.11 per share in cash. This acquisition significantly strengthens AbbVie's immunology pipeline, adding diverse assets like zumilokibart for atopic dermatitis and APG273 for asthma, which target inflammatory and immunological diseases. The deal is expected to negatively impact AbbVie's adjusted diluted EPS by $0.14 in 2026 and $0.46 in 2027, with accretion anticipated to begin in 2032.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-03T14:59:45",
-      "first_seen_at": "2026-09-03T16:00:02.161023",
-      "assets": [
-        {
-          "symbol": "ABBV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.402748,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.925068
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.844897
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 912,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing News Network",
-          "source_domain": "Investing News Network",
-          "headline": "AbbVie Completes Acquisition of Apogee Therapeutics",
-          "url": "https://investingnews.com/abbvie-completes-acquisition-of-apogee-therapeutics/",
-          "published_at": "2026-09-03T14:59:45"
         }
       ]
     }
