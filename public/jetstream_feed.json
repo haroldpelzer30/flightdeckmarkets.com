@@ -7,12 +7,12 @@
     {
       "event_id": 850,
       "title": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
-      "summary": "ONEOK (OKE) is acquiring Brazos Midstream's Permian Midland Basin assets for $4.425 billion, funded by a $9 billion nonvoting minority equity investment from Apollo-managed funds. This investment is structured with a 7% capped internal rate of return (IRR) for nine years. The article analyzes the bull and bear cases for this financing structure, concluding that the attractive return for ONEOK depends on rapid cash generation, successful integration of the acquired assets, and the entire portfolio's ability to exceed the minority return while funding capital needs and shareholder distributions.",
+      "summary": "ONEOK (OKE) is acquiring Brazos Midstream's Permian Midland Basin assets for $4.425 billion, funded by a $9 billion nonvoting minority equity investment from Apollo-managed funds. This investment has an internal rate of return (IRR) capped at 7.0% for nine years. The article discusses the financial structure, potential benefits like reduced debt and EPS accretion, and potential risks such as the competing claim on cash flow and the reliance on aggressive growth forecasts for the acquired assets.",
       "event_type": "M&A",
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "NEUTRAL",
       "importance": "MEDIUM",
-      "intelligence_score": 59,
+      "intelligence_score": 74,
       "published_at": "2026-09-04T15:03:00",
       "first_seen_at": "2026-09-04T16:00:03.203204",
       "assets": [
@@ -20,7 +20,23 @@
           "symbol": "OKE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.130803,
+          "sentiment_score": 0.116846,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.741705,
+          "sentiment_score": 0.123957,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.627671,
+          "sentiment_score": 0.001936,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -28,23 +44,23 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.944182
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.934242
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.803554
+          "relevance_score": 0.843374
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.706072
+          "relevance_score": 0.816889
         },
         {
           "topic": "finance",
           "relevance_score": 0.629442
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.624749
         }
       ],
       "articles": [
@@ -56,6 +72,15 @@
           "headline": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
           "url": "https://ca.finance.yahoo.com/news/oneok-oke-funding-4-4b-150349706.html",
           "published_at": "2026-09-04T15:03:00"
+        },
+        {
+          "article_id": 958,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-funding-4-4b-150349706.html",
+          "published_at": "2026-09-04T15:13:30"
         }
       ]
     },
@@ -67,7 +92,7 @@
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
       "importance": "MEDIUM",
-      "intelligence_score": 64,
+      "intelligence_score": 57,
       "published_at": "2026-09-04T14:08:39",
       "first_seen_at": "2026-09-04T16:00:03.454025",
       "assets": [
@@ -75,7 +100,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.478239,
+          "sentiment_score": 0.467539,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -83,15 +108,15 @@
           "symbol": "VLO",
           "asset_class": null,
           "relevance_score": 0.800196,
-          "sentiment_score": 0.27796,
+          "sentiment_score": 0.253636,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "PSX",
           "asset_class": null,
-          "relevance_score": 0.737992,
-          "sentiment_score": 0.220859,
+          "relevance_score": 0.74454,
+          "sentiment_score": 0.246488,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -107,7 +132,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.84984
+          "relevance_score": 0.849844
         },
         {
           "topic": "finance",
