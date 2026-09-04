@@ -5,6 +5,337 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 844,
+      "title": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
+      "summary": "PYA Waltman Capital LLC increased its stake in PepsiCo, Inc. (NASDAQ:PEP) by 28.1% during the second quarter, acquiring an additional 8,682 shares and bringing their total holdings to 39,563 shares valued at $5.36 million. Other hedge funds also made significant investments in PepsiCo. The article also provides a financial overview of PepsiCo, including its stock performance, dividend information, recent earnings, and various analyst ratings and news sentiments affecting the company.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-04T10:10:29",
+      "first_seen_at": "2026-09-04T12:00:02.370189",
+      "assets": [
+        {
+          "symbol": "PEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.173951,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PG",
+          "asset_class": null,
+          "relevance_score": 0.646029,
+          "sentiment_score": 0.330878,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OMC",
+          "asset_class": null,
+          "relevance_score": 0.613123,
+          "sentiment_score": 0.025736,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KO",
+          "asset_class": null,
+          "relevance_score": 0.600387,
+          "sentiment_score": 0.308602,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935782
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.8151
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 949,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-pya-waltman-capital-llc-acquires-8682-shares-of-pepsico-inc-pep-2026-09-04/",
+          "published_at": "2026-09-04T10:10:29"
+        }
+      ]
+    },
+    {
+      "event_id": 845,
+      "title": "Nykredit A S Acquires Shares of 83,672 Moody's Corporation $MCO",
+      "summary": "Nykredit A S has acquired a new stake in Moody's Corporation (NYSE:MCO), purchasing 83,672 shares valued at approximately $37.9 million during the second quarter. This move is part of broader institutional investment trends, with other hedge funds also adjusting their positions in Moody's. The article also notes recent insider selling by CEO Robert Fauber and details the company's financial performance, stock metrics, and recent analyst ratings.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-04T10:10:22",
+      "first_seen_at": "2026-09-04T12:00:02.655798",
+      "assets": [
+        {
+          "symbol": "MCO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.417,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.93744
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.817846
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.739951
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 950,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nykredit A S Acquires Shares of 83,672 Moody's Corporation $MCO",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-83672-moodys-corporation-mco-2026-09-04/",
+          "published_at": "2026-09-04T10:10:22"
+        }
+      ]
+    },
+    {
+      "event_id": 846,
+      "title": "Nykredit A S Purchases Shares of 152,520 Targa Resources, Inc. $TRGP",
+      "summary": "Nykredit A S recently acquired a new stake of 152,520 shares in Targa Resources, Inc. (NYSE:TRGP) valued at approximately $40.9 million during the second quarter. Other institutional investors like BlackRock Inc., State Street Corp, and Geode Capital Management LLC also adjusted their holdings in the pipeline company. Targa Resources reported strong quarterly earnings, beating analyst estimates, and announced a quarterly dividend of $1.25 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-04T10:10:16",
+      "first_seen_at": "2026-09-04T12:00:02.922378",
+      "assets": [
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.460999,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.633508,
+          "sentiment_score": 0.329089,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.582644,
+          "sentiment_score": 0.33806,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.572324,
+          "sentiment_score": 0.337938,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94002
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913315
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.84073
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.613368
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 951,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nykredit A S Purchases Shares of 152,520 Targa Resources, Inc. $TRGP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-purchases-shares-of-152520-targa-resources-inc-trgp-2026-09-04/",
+          "published_at": "2026-09-04T10:10:16"
+        }
+      ]
+    },
+    {
+      "event_id": 847,
+      "title": "Nykredit A S Acquires Shares of 351,390 General Motors Company $GM",
+      "summary": "Nykredit A S has acquired a new stake of 351,390 shares in General Motors Company, valued at approximately $27.085 million, during the second quarter. This move is part of broader institutional investor activity, with several other hedge funds also modifying their holdings in GM. The article also provides a financial overview of General Motors, including recent earnings, dividend announcements, analyst ratings, and insider trading activity, alongside a summary of recent news affecting the company.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-04T10:09:31",
+      "first_seen_at": "2026-09-04T12:00:03.263754",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.313846,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.578877,
+          "sentiment_score": -0.119361,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BEN",
+          "asset_class": null,
+          "relevance_score": 0.528995,
+          "sentiment_score": 0.218979,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.523217,
+          "sentiment_score": 0.218564,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.51745,
+          "sentiment_score": 0.014055,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936888
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80117
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.741428
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.609279
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 952,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nykredit A S Acquires Shares of 351,390 General Motors Company $GM",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-351390-general-motors-company-gm-2026-09-04/",
+          "published_at": "2026-09-04T10:09:31"
+        }
+      ]
+    },
+    {
+      "event_id": 848,
+      "title": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
+      "summary": "Nykredit A S recently acquired a new position in Colgate-Palmolive Company, purchasing 273,665 shares valued at approximately $25.09 million during the second quarter. This move comes as other institutional investors have also adjusted their holdings in the consumer goods giant. Insider transactions show recent stock sales by Colgate-Palmolive's COO and CEO, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $99.00.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-04T10:08:41",
+      "first_seen_at": "2026-09-04T12:00:03.613973",
+      "assets": [
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.951406,
+          "sentiment_score": 0.052832,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.622282,
+          "sentiment_score": 0.328519,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.943281
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.823047
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.718201
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.618693
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 953,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-colgate-palmolive-company-cl-2026-09-04/",
+          "published_at": "2026-09-04T10:08:41"
+        }
+      ]
+    },
+    {
       "event_id": 838,
       "title": "Missouri American Water completes Neosho system acquisition By Investing.com",
       "summary": "Missouri American Water has finalized its acquisition of Neosho's water and wastewater systems for $34.5 million, adding approximately 5,400 water and 5,400 wastewater customers. The company also hired 25 previous system employees and plans to invest around $35 million over the next five years for system upgrades, including replacing lead service lines and improving infrastructure. This move aims to ensure long-term, reliable service for Neosho residents and addresses the substantial investment required for system maintenance.",
@@ -840,385 +1171,6 @@
           "headline": "Campbell's forecasts weak year ahead on pressured consumer spending",
           "url": "https://www.cnbc.com/2026/09/03/campbells-forecasts-weak-year-ahead-on-pressured-consumer-spending.html",
           "published_at": "2026-09-03T13:42:41"
-        }
-      ]
-    },
-    {
-      "event_id": 808,
-      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
-      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of interest rates. The discussion also covered various economic and policy topics.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 79,
-      "published_at": "2026-09-03T13:15:20",
-      "first_seen_at": "2026-09-03T15:00:02.461861",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.376593,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.639697,
-          "sentiment_score": 0.109726,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.639671,
-          "sentiment_score": 0.347237,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.637517,
-          "sentiment_score": 0.109498,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.613156,
-          "sentiment_score": 0.126855,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.927921
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.823937
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.743459
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 909,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
-          "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
-          "published_at": "2026-09-03T13:15:20"
-        }
-      ]
-    },
-    {
-      "event_id": 801,
-      "title": "State Street Real Return ETF (RLY) Touches New 52-Week High",
-      "summary": "The State Street Real Return ETF (RLY) has reached a new 52-week high, rising 26% from its low. This performance is attributed to concerns about persistent inflation, easing monetary policy expectations, and geopolitical risks, which have increased demand for real assets. The fund, which invests in inflation-protected securities, real estate, commodities, and natural resource companies, is expected to continue its strong performance.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-03T12:22:09",
-      "first_seen_at": "2026-09-03T14:00:01.933629",
-      "assets": [
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.745543,
-          "sentiment_score": 0.255846,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913411
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.849741
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.73738
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.646837
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.629999
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 902,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "State Street Real Return ETF (RLY) Touches New 52-Week High",
-          "url": "https://uk.finance.yahoo.com/news/state-street-real-return-etf-122200145.html",
-          "published_at": "2026-09-03T12:22:09"
-        }
-      ]
-    },
-    {
-      "event_id": 802,
-      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "summary": "Nvidia has agreed to acquire open-source AI platform Hugging Face for $12.9 billion, marking its second-largest acquisition. Hugging Face CEO Clément Delangue initiated contact with Nvidia CEO Jensen Huang over the summer, seeking more resources and scale for the company amidst a turning point for open-source AI. This acquisition signifies Nvidia's continued expansion beyond hardware and into the broader AI ecosystem, emphasizing the importance of open models despite recent security concerns.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-03T12:11:27",
-      "first_seen_at": "2026-09-03T14:00:02.267860",
-      "assets": [
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460228,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "IBM",
-          "asset_class": null,
-          "relevance_score": 0.588844,
-          "sentiment_score": 0.117221,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DELL",
-          "asset_class": null,
-          "relevance_score": 0.584728,
-          "sentiment_score": 0.125919,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SMCI",
-          "asset_class": null,
-          "relevance_score": 0.570037,
-          "sentiment_score": 0.106164,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.558381,
-          "sentiment_score": 0.108485,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.910073
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.625729
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 903,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "published_at": "2026-09-03T12:11:27"
-        }
-      ]
-    },
-    {
-      "event_id": 795,
-      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
-      "summary": "This article details Thursday's top Wall Street analyst research calls, including upgrades for Broadcom, Deere & Company, and Dell Technologies, and downgrades for Moderna and PG&E. It also covers new \"Buy\" initiations for Devon Energy, Permian Resources, and Viper Energy, highlighting a bullish outlook on the oil sector. The report provides a market overview, touching on mixed stock futures, bond market dynamics, energy prices, precious metals, and cryptocurrency volatility ahead of the Labor Day weekend.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-03T12:05:39",
-      "first_seen_at": "2026-09-03T13:00:02.099530",
-      "assets": [
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.391276,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AVGO",
-          "asset_class": null,
-          "relevance_score": 0.927409,
-          "sentiment_score": 0.350945,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DELL",
-          "asset_class": null,
-          "relevance_score": 0.876563,
-          "sentiment_score": 0.384191,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MRNA",
-          "asset_class": null,
-          "relevance_score": 0.824015,
-          "sentiment_score": 0.726317,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.797119,
-          "sentiment_score": 0.376126,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947313
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.833522
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.724608
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.639327
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.633868
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 896,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
-          "url": "https://247wallst.com/investing/2026/09/03/here-are-thursdays-top-wall-street-analyst-research-calls-broadcom-deere-company-dell-technologies-devon-energy-moderna-permian-resources-pge-thermo-fisher-viper-energy-and-more/",
-          "published_at": "2026-09-03T12:05:39"
-        }
-      ]
-    },
-    {
-      "event_id": 796,
-      "title": "What Drove AEP (NASDAQ:AEP) as the Russell 1000 Index Rebounded?",
-      "summary": "American Electric Power (AEP) has remained in focus after its Indiana and Michigan utility proposed a significant customer rate reduction plan, aiming to lower bills despite surging demand driven by industrial and computing needs. While utilities generally lagged in a rebounding market due to rising long-dated Treasury yields, AEP's strategy involves passing on benefits of load growth to customers. The company, which owns the largest electricity transmission network in the U.S., is also repositioning legacy generation sites into energy hubs and expects substantial new load additions from computing campuses, industrial reshoring, and electrification by the end of the decade.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-03T11:41:04",
-      "first_seen_at": "2026-09-03T13:00:02.429339",
-      "assets": [
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.327587,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KHC",
-          "asset_class": null,
-          "relevance_score": 0.645624,
-          "sentiment_score": 0.146389,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GILD",
-          "asset_class": null,
-          "relevance_score": 0.641322,
-          "sentiment_score": 0.102674,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EXC",
-          "asset_class": null,
-          "relevance_score": 0.635865,
-          "sentiment_score": 0.21014,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90915
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.839699
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730725
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.725973
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 897,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What Drove AEP (NASDAQ:AEP) as the Russell 1000 Index Rebounded?",
-          "url": "https://kalkinemedia.com/us/stocks/utility/what-drove-aep-nasdaqaep-as-the-russell-1000-index-rebounded",
-          "published_at": "2026-09-03T11:41:04"
         }
       ]
     }
