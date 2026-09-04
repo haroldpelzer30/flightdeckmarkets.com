@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 858,
+      "title": "Fair Isaac, Equifax, TransUnion Shares Fall After FHFA Director Bill Pulte's Criticism on Credit Bureaus",
+      "summary": "Shares of Fair Isaac, Equifax, and TransUnion declined following criticism from FHFA Director Bill Pulte regarding credit bureaus. Pulte's remarks highlighted concerns about the industry, leading to a negative market reaction for these companies. This article was published on September 4, 2026, at 03:18 pm EDT according to MT Newswires.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-04T19:19:48",
+      "first_seen_at": "2026-09-04T21:00:02.453634",
+      "assets": [
+        {
+          "symbol": "EFX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.615921,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FICO",
+          "asset_class": null,
+          "relevance_score": 0.81672,
+          "sentiment_score": -0.621818,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901421
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.825091
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.724306
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 966,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "Fair Isaac, Equifax, TransUnion Shares Fall After FHFA Director Bill Pulte's Criticism on Credit Bureaus",
+          "url": "https://www.marketscreener.com/news/fair-isaac-equifax-transunion-shares-fall-after-fhfa-director-bill-pulte-s-criticism-on-credit-bur-ce785bdbd980f520",
+          "published_at": "2026-09-04T19:19:48"
+        }
+      ]
+    },
+    {
       "event_id": 857,
       "title": "Isman Adrian Acquires 10 Shares of Bunge Global SA at $119.25 Each on September 1, 2026",
       "summary": "Isman Adrian, a director of Bunge Global SA, acquired 10 shares of the company on September 1, 2026, at a price of $119.25 per share. This transaction increased his total holding to 3,330 shares. The acquisition was classified under SEC code A, indicating it was an award.",
@@ -20,7 +75,15 @@
           "symbol": "BG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.011701,
+          "sentiment_score": 0.018739,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.639547,
+          "sentiment_score": 0.118173,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,15 +91,7 @@
           "symbol": "XEL",
           "asset_class": null,
           "relevance_score": 0.6369,
-          "sentiment_score": 0.142901,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.622538,
-          "sentiment_score": 0.148005,
+          "sentiment_score": 0.128156,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1190,69 +1245,6 @@
           "headline": "Even in a tough economy it pays to change jobs, according to new data about Canadian wages",
           "url": "https://financialpost.com/wealth/it-can-pay-change-jobs-data-canadian-wages",
           "published_at": "2026-09-03T17:21:53"
-        }
-      ]
-    },
-    {
-      "event_id": 827,
-      "title": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
-      "summary": "Ciena's stock dropped 10% despite a record earnings beat, as its in-line Q4 guidance failed to impress investors who had priced the stock for accelerated growth. The company's high customer concentration and elevated valuation contributed to the specific sell-off, while networking peers Arista Networks and Cisco Systems held firm or gained, indicating that the AI networking demand remains strong but Ciena's issue is company-specific. The market will now focus on Ciena's December Q4 report for the next significant stock inflection point.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-03T16:37:28",
-      "first_seen_at": "2026-09-03T20:00:03.226735",
-      "assets": [
-        {
-          "symbol": "CIEN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.426711,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ANET",
-          "asset_class": null,
-          "relevance_score": 0.82077,
-          "sentiment_score": 0.207121,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CSCO",
-          "asset_class": null,
-          "relevance_score": 0.707267,
-          "sentiment_score": 0.039776,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940167
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.841601
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.723777
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 928,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
-          "url": "https://247wallst.com/investing/2026/09/03/ciena-corporation-tumbles-10-as-in-line-guidance-overshadows-earnings-beat-arista-edges-higher/",
-          "published_at": "2026-09-03T16:37:28"
         }
       ]
     }
