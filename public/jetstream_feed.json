@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 864,
+      "title": "Attention, Floridians: Brussels is coming for your cruise industry",
+      "summary": "The European Union's emissions trading rules are significantly increasing operating costs for Florida's cruise industry, with Carnival Cruise Line alone projecting costs of $170 million in 2026. These new regulations, which require cruise ships calling at EU ports to purchase allowances for greenhouse gas emissions, affect companies regardless of their registration or headquarters. This financial pressure is expected to influence cruise ship deployment, route attractiveness, and investments in more efficient vessels, impacting Florida-based cruise companies like Carnival, Royal Caribbean, and Norwegian Cruise Line.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-09-04T19:41:54",
+      "first_seen_at": "2026-09-04T23:00:02.174095",
+      "assets": [
+        {
+          "symbol": "CCL",
+          "asset_class": null,
+          "relevance_score": 0.936133,
+          "sentiment_score": -0.259862,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "RCL",
+          "asset_class": null,
+          "relevance_score": 0.801633,
+          "sentiment_score": -0.23016,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NCLH",
+          "asset_class": null,
+          "relevance_score": 0.644632,
+          "sentiment_score": -0.197593,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.949097
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.812952
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.73381
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 974,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Florida Politics",
+          "source_domain": "Florida Politics",
+          "headline": "Attention, Floridians: Brussels is coming for your cruise industry",
+          "url": "https://floridapolitics.com/archives/818605-attention-floridians-brussels-is-coming-for-your-cruise-industry/",
+          "published_at": "2026-09-04T19:41:54"
+        }
+      ]
+    },
+    {
       "event_id": 860,
       "title": "Why is Ballard Power stock gaining today? By Investing.com",
       "summary": "Ballard Power Systems stock is up 2.2% today due to market anticipation of its imminent acquisition of GeoPura, a UK hydrogen power solutions specialist. This gain is supported by Ballard's strong Q2 2026 results, which showed 15% revenue growth and improved margins, and a strategic shift towards an Energy-as-a-Service model. Analyst sentiment has become more constructive, and positive insider activity further contributes to the stock's performance, suggesting potential for further re-rating upon deal confirmation.",
@@ -20,7 +83,7 @@
           "symbol": "BLDP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.44121,
+          "sentiment_score": 0.400428,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +95,11 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.900662
+          "relevance_score": 0.928821
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.828453
+          "relevance_score": 0.83257
         },
         {
           "topic": "energy_transportation",
@@ -71,15 +134,15 @@
           "symbol": "EFX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.620734,
+          "sentiment_score": -0.629026,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "FICO",
           "asset_class": null,
-          "relevance_score": 0.81672,
-          "sentiment_score": -0.644738,
+          "relevance_score": 0.819849,
+          "sentiment_score": -0.604312,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -95,7 +158,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.724306
+          "relevance_score": 0.728758
         }
       ],
       "articles": [
@@ -126,15 +189,15 @@
           "symbol": "BG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.033768,
+          "sentiment_score": 0.029434,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "AMD",
           "asset_class": null,
-          "relevance_score": 0.644081,
-          "sentiment_score": 0.131266,
+          "relevance_score": 0.645302,
+          "sentiment_score": 0.135106,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -142,7 +205,7 @@
           "symbol": "XEL",
           "asset_class": null,
           "relevance_score": 0.6369,
-          "sentiment_score": 0.113304,
+          "sentiment_score": 0.104273,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -189,8 +252,8 @@
         {
           "symbol": "BLNK",
           "asset_class": null,
-          "relevance_score": 0.911334,
-          "sentiment_score": -0.05729,
+          "relevance_score": 0.93752,
+          "sentiment_score": -0.095447,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -202,7 +265,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.925111
+          "relevance_score": 0.940473
         },
         {
           "topic": "energy_transportation",
@@ -1173,82 +1236,6 @@
           "headline": "Final Trades: Capital One, ServiceNow, Nvidia and Spotify",
           "url": "https://www.cnbc.com/video/2026/09/03/final-trades-capital-one-servicenow-nvidia-and-spotify.html",
           "published_at": "2026-09-03T17:32:21"
-        }
-      ]
-    },
-    {
-      "event_id": 832,
-      "title": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
-      "summary": "Campbell's stock dropped 9% after the company announced a 36% dividend cut and provided fiscal guidance well below Wall Street expectations, citing underperformance and a need to accelerate debt reduction. This news caused ripple effects across the packaged-food sector, with General Mills falling 4% and Kraft Heinz dropping 3% in sympathy, as the market reacted to concerns about inflation and weakness in salty snacks within the center-store food category. The broader market and staples sector remained stable, indicating a specific downturn for these food companies.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-03T17:23:06",
-      "first_seen_at": "2026-09-03T21:00:03.158300",
-      "assets": [
-        {
-          "symbol": "CPB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.440581,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GIS",
-          "asset_class": null,
-          "relevance_score": 0.998498,
-          "sentiment_score": -0.320005,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KHC",
-          "asset_class": null,
-          "relevance_score": 0.938964,
-          "sentiment_score": -0.342438,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936009
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832611
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.648825
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.639678
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 935,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
-          "url": "https://247wallst.com/investing/2026/09/03/campbells-slides-9-on-36-dividend-cut-general-mills-falls-4-kraft-heinz-drops-3/",
-          "published_at": "2026-09-03T17:23:06"
-        },
-        {
-          "article_id": 934,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/campbell-slides-9-36-dividend-172557698.html",
-          "published_at": "2026-09-03T18:20:30"
         }
       ]
     }
