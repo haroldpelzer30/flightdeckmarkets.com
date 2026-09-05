@@ -20,15 +20,15 @@
           "symbol": "CCL",
           "asset_class": null,
           "relevance_score": 0.936133,
-          "sentiment_score": -0.259862,
+          "sentiment_score": -0.279703,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "RCL",
           "asset_class": null,
-          "relevance_score": 0.801633,
-          "sentiment_score": -0.23016,
+          "relevance_score": 0.821242,
+          "sentiment_score": -0.218695,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "NCLH",
           "asset_class": null,
           "relevance_score": 0.644632,
-          "sentiment_score": -0.197593,
+          "sentiment_score": -0.204975,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -48,7 +48,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.812952
+          "relevance_score": 0.833771
         },
         {
           "topic": "finance",
