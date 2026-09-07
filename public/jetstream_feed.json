@@ -5,6 +5,244 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 872,
+      "title": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
+      "summary": "APA Corporation (NASDAQ:APA) is under observation as Nasdaq trading resumes after the Labor Day holiday, primarily due to renewed tensions in the Strait of Hormuz which have kept crude oil markets elevated. The article highlights APA's focus on oil and natural-gas exploration and production, noting that its performance will be influenced by confirmed company and sector facts rather than speculative holiday-period price movements, with fresh inflation data expected this week. The company's positioning, competitive landscape, and balance-sheet flexibility will be key factors determining its performance upon market reopening.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 73,
+      "published_at": "2026-09-07T11:05:51",
+      "first_seen_at": "2026-09-07T13:00:03.007236",
+      "assets": [
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.133773,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.716759,
+          "sentiment_score": 0.139686,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.623554,
+          "sentiment_score": 0.107932,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.612618,
+          "sentiment_score": 0.130493,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.60395,
+          "sentiment_score": 0.125613,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.935659
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906347
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.814383
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.742992
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.64403
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 983,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
+          "url": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-apa-nasdaqapa-watched-as-nasdaq-trading-resumes",
+          "published_at": "2026-09-07T11:05:51"
+        }
+      ]
+    },
+    {
+      "event_id": 873,
+      "title": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
+      "summary": "With 10-year Treasury notes yielding around 4.8%, this article highlights three high-yielding dividend stocks that offer superior returns for income-oriented investors, especially in the context of inflation. The stocks discussed are AGNC Investment (13.5% yield), Energy Transfer (6.3% yield), and Verizon Communications (5.6% yield), each offering specific reasons for their investment appeal beyond their high payouts. These companies are presented as strong options for investors seeking to outpace Treasury yields and inflation.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-07T10:43:00",
+      "first_seen_at": "2026-09-07T13:00:03.321516",
+      "assets": [
+        {
+          "symbol": "VZ",
+          "asset_class": null,
+          "relevance_score": 0.829603,
+          "sentiment_score": 0.413277,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.635744,
+          "sentiment_score": 0.326508,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AGNCZ",
+          "asset_class": null,
+          "relevance_score": 0.321651,
+          "sentiment_score": 0.018859,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942832
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.84462
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.735158
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.706735
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.639027
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 984,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Currently.com",
+          "source_domain": "Currently.com",
+          "headline": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
+          "url": "https://currently.att.yahoo.com/att/10-treasuries-yield-4-8-104300905.html",
+          "published_at": "2026-09-07T10:43:00"
+        }
+      ]
+    },
+    {
+      "event_id": 874,
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 880,569 Bank of America Corporation $BAC",
+      "summary": "The Virginia Retirement Systems purchased 880,569 shares of Bank of America (NYSE:BAC) valued at approximately $50.175 million during the second quarter. This move comes as institutional investors collectively own 70.71% of BAC, and Bank of America reported strong quarterly earnings, surpassing analyst expectations with $1.21 EPS and $31.56 billion in revenue. The bank also increased its quarterly dividend from $0.28 to $0.32 per share, reflecting an annualized yield of 2.0%.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-07T10:17:39",
+      "first_seen_at": "2026-09-07T13:00:03.593155",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.485066,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.601254,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.63825,
+          "sentiment_score": 0.243712,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944485
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.931318
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.61265
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.605429
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 986,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 880,569 Bank of America Corporation $BAC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-shares-of-880569-bank-of-america-corporation-bac-2026-09-07/",
+          "published_at": "2026-09-07T10:17:39"
+        },
+        {
+          "article_id": 985,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 141,280 General Dynamics Corporation $GD",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-shares-of-141280-general-dynamics-corporation-gd-2026-09-07/",
+          "published_at": "2026-09-07T10:22:47"
+        }
+      ]
+    },
+    {
       "event_id": 870,
       "title": "195,800 Shares in Old Dominion Freight Line, Inc. $ODFL Acquired by VIRGINIA RETIREMENT SYSTEMS ET Al",
       "summary": "Virginia Retirement Systems acquired 195,800 shares of Old Dominion Freight Line (NASDAQ:ODFL) worth approximately $42.4 million in the second quarter. Institutional investors collectively own 77.82% of the company, which recently reported strong quarterly earnings and declared a dividend. Analysts currently hold a consensus \"Hold\" rating for ODFL with an average price target of $226.55.",
@@ -1042,184 +1280,6 @@
           "headline": "Why Is Oracle Stock Up Today?",
           "url": "https://currently.att.yahoo.com/att/why-oracle-stock-today-212008025.html",
           "published_at": "2026-09-03T21:10:17"
-        }
-      ]
-    },
-    {
-      "event_id": 836,
-      "title": "Dominion Energy shareholders voted 98% in favor of merging with NextEra",
-      "summary": "Dominion Energy shareholders have overwhelmingly approved a merger with NextEra Energy, with 98% of votes in favor. This is a significant step, though the deal still requires approval from the Virginia State Corporation Commission. The merger faces opposition from some, including a long-time Dominion Energy employee and a Chesterfield County Board of Supervisors member, who express concerns about potential rate increases and loss of local control, despite Dominion's assurances of customer benefits and financial efficiencies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-03T20:32:00",
-      "first_seen_at": "2026-09-03T22:00:02.398717",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408298,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.903103,
-          "sentiment_score": 0.381076,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.932111
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.727214
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 939,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WTVR.com",
-          "source_domain": "WTVR.com",
-          "headline": "Dominion Energy shareholders voted 98% in favor of merging with NextEra",
-          "url": "https://www.wtvr.com/news/local-news/dominion-energy-shareholders-voted-98-in-favor-of-merging-with-nextera",
-          "published_at": "2026-09-03T20:32:00"
-        }
-      ]
-    },
-    {
-      "event_id": 830,
-      "title": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
-      "summary": "ServiceNow (NOW) stock has rallied 28% in the past month, trading at $146, yet it remains down 11% year-to-date. This surge is attributed to a sector-wide re-rating of enterprise software, driven by easing concerns about AI impacting seat-based revenue, rather than specific company news. While Salesforce and Palantir saw even larger gains, analysts suggest trimming profits for NOW due to the rally being sentiment-driven.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-03T20:30:36",
-      "first_seen_at": "2026-09-03T21:00:02.502349",
-      "assets": [
-        {
-          "symbol": "NOW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.272711,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.835674,
-          "sentiment_score": 0.316141,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PLTR",
-          "asset_class": null,
-          "relevance_score": 0.745786,
-          "sentiment_score": 0.315406,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94376
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941373
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.939966
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 931,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
-          "url": "https://247wallst.com/investing/2026/09/03/servicenow-just-rallied-28-in-a-month-take-profits-or-buy-more/",
-          "published_at": "2026-09-03T20:30:36"
-        },
-        {
-          "article_id": 932,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-just-rallied-28-month-193004936.html",
-          "published_at": "2026-09-03T20:30:36"
-        }
-      ]
-    },
-    {
-      "event_id": 841,
-      "title": "Energy bills are up in Virginia. Now some are pushing back as Dominion Energy seeks another rate increase",
-      "summary": "Virginia residents are facing increasing energy bills from Dominion Energy, prompting pushback as the utility seeks yet another rate increase. Aileen Rivera's bill for August reached $419.60 for her 1,400 sq ft home, despite conservation efforts. While Dominion attributes the hikes to inflation and increased material costs, some activists believe data centers are the primary driver, leading to higher costs for residential customers.",
-      "event_type": "M&A",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 76,
-      "published_at": "2026-09-03T20:23:38",
-      "first_seen_at": "2026-09-03T23:00:03.466390",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.432945,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.841569,
-          "sentiment_score": 0.244514,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.940604
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.911826
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.848203
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 946,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WTVR.com",
-          "source_domain": "WTVR.com",
-          "headline": "Energy bills are up in Virginia. Now some are pushing back as Dominion Energy seeks another rate increase",
-          "url": "https://www.wtvr.com/news/local-news/dominion-energy-seeks-rate-increase-sept-3-2026",
-          "published_at": "2026-09-03T20:23:38"
         }
       ]
     }
