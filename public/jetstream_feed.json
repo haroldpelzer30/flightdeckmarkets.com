@@ -20,23 +20,31 @@
           "symbol": "APA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.133773,
+          "sentiment_score": 0.129949,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MPC",
           "asset_class": null,
-          "relevance_score": 0.716759,
-          "sentiment_score": 0.139686,
+          "relevance_score": 0.739291,
+          "sentiment_score": 0.11891,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.637791,
+          "sentiment_score": 0.118929,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "SLB",
           "asset_class": null,
-          "relevance_score": 0.623554,
-          "sentiment_score": 0.107932,
+          "relevance_score": 0.633987,
+          "sentiment_score": 0.110983,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,31 +52,23 @@
           "symbol": "OXY",
           "asset_class": null,
           "relevance_score": 0.612618,
-          "sentiment_score": 0.130493,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.60395,
-          "sentiment_score": 0.125613,
+          "sentiment_score": 0.117914,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.938972
+        },
+        {
           "topic": "energy_transportation",
           "relevance_score": 0.935659
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.906347
-        },
-        {
           "topic": "economy_monetary",
-          "relevance_score": 0.814383
+          "relevance_score": 0.823054
         },
         {
           "topic": "economy_macro",
@@ -106,8 +106,8 @@
         {
           "symbol": "VZ",
           "asset_class": null,
-          "relevance_score": 0.829603,
-          "sentiment_score": 0.413277,
+          "relevance_score": 0.841023,
+          "sentiment_score": 0.408118,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -115,15 +115,15 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.635744,
-          "sentiment_score": 0.326508,
+          "sentiment_score": 0.316201,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AGNCZ",
           "asset_class": null,
-          "relevance_score": 0.321651,
-          "sentiment_score": 0.018859,
+          "relevance_score": 0.330207,
+          "sentiment_score": 0.042554,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -131,19 +131,19 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.942832
+          "relevance_score": 0.948287
         },
         {
           "topic": "economy_monetary",
           "relevance_score": 0.84462
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.735158
+          "topic": "real_estate",
+          "relevance_score": 0.747239
         },
         {
-          "topic": "real_estate",
-          "relevance_score": 0.706735
+          "topic": "energy_transportation",
+          "relevance_score": 0.735158
         },
         {
           "topic": "finance",
