@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 924,
+      "title": "Illinois Tool Works (NYSE:ITW): Is the Next Move About Demand?",
+      "summary": "With U.S. equity markets closed for Labor Day, attention for Illinois Tool Works (NYSE:ITW) shifts to order activity, factory demand, automation, and infrastructure spending ahead of upcoming inflation data. The company's performance is closely tied to its specialized industrial products and equipment across manufacturing and service end markets. The article emphasizes that business fundamentals, operating quality, and balance sheet flexibility will be key drivers, especially as the macroeconomic environment with rates and inflation continues to evolve.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 76,
+      "published_at": "2026-09-07T21:15:31",
+      "first_seen_at": "2026-09-07T23:00:02.580007",
+      "assets": [
+        {
+          "symbol": "ITW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.094871,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.912644
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911907
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.834859
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825902
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1036,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Illinois Tool Works (NYSE:ITW): Is the Next Move About Demand?",
+          "url": "https://kalkinemedia.com/us/stocks/industrial/illinois-tool-works-nyseitw-is-the-next-move-about-demand",
+          "published_at": "2026-09-07T21:15:31"
+        }
+      ]
+    },
+    {
       "event_id": 915,
       "title": "Thermo Fisher Scientific (NYSE:TMO): Can Demand Outweigh Macro Risks?",
       "summary": "This article examines Thermo Fisher Scientific's (NYSE:TMO) position in the healthcare market, particularly its reliance on laboratory instruments, life science tools, diagnostics, and research services. It discusses how demand for these offerings might fare against broader macroeconomic challenges like inflation and changing interest rates. The piece emphasizes the importance of company execution, demand quality, and balance sheet flexibility in navigating these economic shifts.",
@@ -20,7 +71,7 @@
           "symbol": "TMO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.135878,
+          "sentiment_score": 0.146194,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -36,7 +87,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.90382
+          "relevance_score": 0.924361
         },
         {
           "topic": "finance",
@@ -75,31 +126,31 @@
           "symbol": "ADM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.209312,
+          "sentiment_score": 0.216236,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 0.647262,
+          "sentiment_score": 0.12702,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BKR",
           "asset_class": null,
           "relevance_score": 0.641498,
-          "sentiment_score": 0.102132,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 0.627142,
-          "sentiment_score": 0.147686,
+          "sentiment_score": 0.100046,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BK",
           "asset_class": null,
-          "relevance_score": 0.623474,
-          "sentiment_score": -0.106816,
+          "relevance_score": 0.636479,
+          "sentiment_score": -0.101306,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -107,7 +158,7 @@
           "symbol": "USB",
           "asset_class": null,
           "relevance_score": 0.608261,
-          "sentiment_score": -0.116974,
+          "sentiment_score": -0.144592,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -123,11 +174,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.73337
+          "relevance_score": 0.741515
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.63581
+          "relevance_score": 0.637763
         }
       ],
       "articles": [
@@ -158,15 +209,15 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.115801,
+          "sentiment_score": 0.125432,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "USB",
           "asset_class": null,
-          "relevance_score": 0.635775,
-          "sentiment_score": -0.135804,
+          "relevance_score": 0.643162,
+          "sentiment_score": -0.109639,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -174,7 +225,7 @@
           "symbol": "BK",
           "asset_class": null,
           "relevance_score": 0.630834,
-          "sentiment_score": -0.106237,
+          "sentiment_score": -0.142018,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -182,11 +233,11 @@
       "topics": [
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.911814
+          "relevance_score": 0.919074
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.808405
+          "relevance_score": 0.810125
         },
         {
           "topic": "finance",
@@ -221,7 +272,7 @@
           "symbol": "LYV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.063392,
+          "sentiment_score": 0.096642,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -229,7 +280,7 @@
           "symbol": "CMCSA",
           "asset_class": null,
           "relevance_score": 0.587645,
-          "sentiment_score": -0.083164,
+          "sentiment_score": -0.07134,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -237,15 +288,15 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.918177
+          "relevance_score": 0.928374
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.833297
+          "relevance_score": 0.844147
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.712353
+          "relevance_score": 0.727572
         }
       ],
       "articles": [
@@ -276,7 +327,7 @@
           "symbol": "IMCC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.008927,
+          "sentiment_score": 0.02054,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -284,11 +335,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.916156
+          "relevance_score": 0.931179
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.80024
+          "relevance_score": 0.843597
         },
         {
           "topic": "economy_macro",
@@ -296,7 +347,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.609762
+          "relevance_score": 0.644823
         },
         {
           "topic": "life_sciences",
@@ -331,7 +382,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 0.340783,
-          "sentiment_score": 0.04307,
+          "sentiment_score": 0.017964,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -363,6 +414,93 @@
       ]
     },
     {
+      "event_id": 931,
+      "title": "General Motors stock gains on institutional buying and solid Q2 earnings",
+      "summary": "General Motors stock is performing strongly, trading near its 52-week high, driven by significant institutional buying and better-than-expected Q2 2026 earnings. The company reported EPS of $3.57, surpassing analyst estimates, and robust revenue, leading to a \"Moderate Buy\" consensus rating from analysts with substantial upside potential. Key factors include strategic investments in EVs, managing regulatory considerations for in-cabin technology, and favorable union agreements.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-07T17:14:40",
+      "first_seen_at": "2026-09-07T23:00:04.291248",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.458002,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.566584,
+          "sentiment_score": 0.130405,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.562318,
+          "sentiment_score": 0.14572,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.561821,
+          "sentiment_score": 0.126483,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.554235,
+          "sentiment_score": 0.115881,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.931943
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.737302
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.627418
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.608934
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1043,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "General Motors stock gains on institutional buying and solid Q2 earnings",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-gains-on-institutional-buying-and-solid-q2-earnings/70065103",
+          "published_at": "2026-09-07T17:14:40"
+        }
+      ]
+    },
+    {
       "event_id": 902,
       "title": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
       "summary": "Ross Gerber, CEO of Gerber Kawasaki, believes that a merger between Tesla and SpaceX is inevitable and would create a \"must-have\" investment. He stated that he sees stronger long-term potential in SpaceX than in Tesla due to challenges with Tesla's autonomous driving technology and its focus on Robotaxi. JPMorgan also suggests a merger is strategically coherent and more financially practical now due to SpaceX's higher valuation.",
@@ -378,7 +516,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.11949,
+          "sentiment_score": 0.142292,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -398,7 +536,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.733665
+          "relevance_score": 0.744933
         },
         {
           "topic": "finance",
@@ -433,7 +571,7 @@
           "symbol": "PSX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.408071,
+          "sentiment_score": 0.411436,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -1140,112 +1278,6 @@
           "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 141,280 General Dynamics Corporation $GD",
           "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-shares-of-141280-general-dynamics-corporation-gd-2026-09-07/",
           "published_at": "2026-09-07T10:22:47"
-        }
-      ]
-    },
-    {
-      "event_id": 870,
-      "title": "195,800 Shares in Old Dominion Freight Line, Inc. $ODFL Acquired by VIRGINIA RETIREMENT SYSTEMS ET Al",
-      "summary": "Virginia Retirement Systems acquired 195,800 shares of Old Dominion Freight Line (NASDAQ:ODFL) worth approximately $42.4 million in the second quarter. Institutional investors collectively own 77.82% of the company, which recently reported strong quarterly earnings and declared a dividend. Analysts currently hold a consensus \"Hold\" rating for ODFL with an average price target of $226.55.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-07T10:12:25",
-      "first_seen_at": "2026-09-07T12:00:02.666019",
-      "assets": [
-        {
-          "symbol": "ODFL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.339595,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91972
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914983
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.824553
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.745275
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 981,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "195,800 Shares in Old Dominion Freight Line, Inc. $ODFL Acquired by VIRGINIA RETIREMENT SYSTEMS ET Al",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-195800-shares-in-old-dominion-freight-line-inc-odfl-acquired-by-virginia-retirement-systems-et-al-2026-09-07/",
-          "published_at": "2026-09-07T10:12:25"
-        }
-      ]
-    },
-    {
-      "event_id": 871,
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 700,251 Walmart Inc. $WMT",
-      "summary": "Virginia Retirement Systems acquired over 700,000 shares of Walmart stock, valued at approximately $79.3 million, during the second quarter. This move is part of broader institutional interest, with several other major funds also increasing their positions, bringing institutional ownership to 26.76% of Walmart’s stock. Despite some insider selling, Walmart maintains a \"Moderate Buy\" consensus rating from analysts and exceeded recent earnings and revenue estimates.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-07T10:06:37",
-      "first_seen_at": "2026-09-07T12:00:02.995230",
-      "assets": [
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.195256,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949717
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.808973
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.717036
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.609174
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.60825
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 982,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 700,251 Walmart Inc. $WMT",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-shares-of-700251-walmart-inc-wmt-2026-09-07/",
-          "published_at": "2026-09-07T10:06:37"
         }
       ]
     }
