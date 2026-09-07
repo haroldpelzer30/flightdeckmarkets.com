@@ -5,6 +5,168 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 877,
+      "title": "What Does Friday’s Close Mean for Consolidated Edison (NYSE:ED)?",
+      "summary": "This article examines the implications of Consolidated Edison's (NYSE:ED) Friday close, considering the market holiday for Labor Day. It focuses on the utility stock sector's sensitivity to interest rates and rising power demand, emphasizing that Consolidated Edison's performance is tied to its regulated electric and gas networks in New York. The piece highlights the importance of company-specific factors like demand durability and balance sheet flexibility over broader market movements once trading resumes.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-07T12:47:13",
+      "first_seen_at": "2026-09-07T15:00:01.778694",
+      "assets": [
+        {
+          "symbol": "ED",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.116866,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SRE",
+          "asset_class": null,
+          "relevance_score": 0.646126,
+          "sentiment_score": 0.12739,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WEC",
+          "asset_class": null,
+          "relevance_score": 0.636317,
+          "sentiment_score": 0.112828,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 0.63184,
+          "sentiment_score": 0.102404,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 0.618013,
+          "sentiment_score": 0.134781,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930683
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.812582
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.70451
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.641262
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 989,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "What Does Friday’s Close Mean for Consolidated Edison (NYSE:ED)?",
+          "url": "https://kalkinemedia.com/us/stocks/utility/what-does-fridays-close-mean-for-consolidated-edison-nyseed",
+          "published_at": "2026-09-07T12:47:13"
+        }
+      ]
+    },
+    {
+      "event_id": 878,
+      "title": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
+      "summary": "South Korean chipmakers Samsung Electronics and SK hynix saw their stocks surge following OpenAI's launch of its new AI model, Astra, and its declaration of the AGI era, fueling investor optimism for high-capacity memory demand. Additionally, LG Electronics shares rose significantly due to expectations of securing orders for robot actuators from global Big Tech companies. The rally extended to semiconductor materials, components, and equipment stocks, driven by the anticipated increased demand for high-performance AI models.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-07T11:56:51",
+      "first_seen_at": "2026-09-07T15:00:02.122795",
+      "assets": [
+        {
+          "symbol": "SKHY",
+          "asset_class": null,
+          "relevance_score": 0.9816,
+          "sentiment_score": 0.726204,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.800011,
+          "sentiment_score": 0.72375,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STX",
+          "asset_class": null,
+          "relevance_score": 0.786201,
+          "sentiment_score": 0.742,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WDC",
+          "asset_class": null,
+          "relevance_score": 0.777453,
+          "sentiment_score": 0.712093,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 0.675074,
+          "sentiment_score": 0.344741,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 0.904683
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901818
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640494
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 990,
+          "provider": "ALPHA_VANTAGE",
+          "source": "매일경제",
+          "source_domain": "매일경제",
+          "headline": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
+          "url": "https://pulse.mk.co.kr/news/english/12145890",
+          "published_at": "2026-09-07T11:56:51"
+        }
+      ]
+    },
+    {
       "event_id": 872,
       "title": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
       "summary": "APA Corporation (NASDAQ:APA) is under observation as Nasdaq trading resumes after the Labor Day holiday, primarily due to renewed tensions in the Strait of Hormuz which have kept crude oil markets elevated. The article highlights APA's focus on oil and natural-gas exploration and production, noting that its performance will be influenced by confirmed company and sector facts rather than speculative holiday-period price movements, with fresh inflation data expected this week. The company's positioning, competitive landscape, and balance-sheet flexibility will be key factors determining its performance upon market reopening.",
@@ -20,15 +182,15 @@
           "symbol": "APA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.129949,
+          "sentiment_score": 0.115415,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MPC",
           "asset_class": null,
-          "relevance_score": 0.739291,
-          "sentiment_score": 0.11891,
+          "relevance_score": 0.74025,
+          "sentiment_score": 0.107455,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +198,7 @@
           "symbol": "DVN",
           "asset_class": null,
           "relevance_score": 0.637791,
-          "sentiment_score": 0.118929,
+          "sentiment_score": 0.120959,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,15 +206,15 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 0.633987,
-          "sentiment_score": 0.110983,
+          "sentiment_score": 0.127051,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "OXY",
           "asset_class": null,
-          "relevance_score": 0.612618,
-          "sentiment_score": 0.117914,
+          "relevance_score": 0.631777,
+          "sentiment_score": 0.121939,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -107,7 +269,7 @@
           "symbol": "VZ",
           "asset_class": null,
           "relevance_score": 0.841023,
-          "sentiment_score": 0.408118,
+          "sentiment_score": 0.430601,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -115,7 +277,7 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.635744,
-          "sentiment_score": 0.316201,
+          "sentiment_score": 0.312717,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -123,7 +285,7 @@
           "symbol": "AGNCZ",
           "asset_class": null,
           "relevance_score": 0.330207,
-          "sentiment_score": 0.042554,
+          "sentiment_score": 0.030078,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -135,7 +297,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.84462
+          "relevance_score": 0.845091
         },
         {
           "topic": "real_estate",
@@ -147,7 +309,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.639027
+          "relevance_score": 0.64881
         }
       ],
       "articles": [
@@ -1182,104 +1344,6 @@
           "headline": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-colgate-palmolive-company-cl-2026-09-04/",
           "published_at": "2026-09-04T10:08:41"
-        }
-      ]
-    },
-    {
-      "event_id": 838,
-      "title": "Missouri American Water completes Neosho system acquisition By Investing.com",
-      "summary": "Missouri American Water has finalized its acquisition of Neosho's water and wastewater systems for $34.5 million, adding approximately 5,400 water and 5,400 wastewater customers. The company also hired 25 previous system employees and plans to invest around $35 million over the next five years for system upgrades, including replacing lead service lines and improving infrastructure. This move aims to ensure long-term, reliable service for Neosho residents and addresses the substantial investment required for system maintenance.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-03T21:48:41",
-      "first_seen_at": "2026-09-03T23:00:02.633661",
-      "assets": [
-        {
-          "symbol": "AWK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.41647,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.728463
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 942,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Missouri American Water completes Neosho system acquisition By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/missouri-american-water-completes-neosho-system-acquisition-93CH-4828237",
-          "published_at": "2026-09-03T21:48:41"
-        }
-      ]
-    },
-    {
-      "event_id": 843,
-      "title": "Why Is Oracle Stock Up Today?",
-      "summary": "Oracle (ORCL) stock rose 5.7% after a Federal Reserve Governor indicated a preference for holding interest rates steady, easing market concerns about further rate hikes. This news is particularly impactful for Oracle due to its substantial $43 billion debt load, which makes it highly sensitive to interest rate fluctuations as it funds its AI data center expansion. While the general market reacted positively, The Motley Fool's Stock Advisor did not include Oracle among its top 10 recommended long-term growth stocks.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-03T21:10:17",
-      "first_seen_at": "2026-09-04T00:00:02.716482",
-      "assets": [
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.108623,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.623757,
-          "sentiment_score": 0.341186,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.926915
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.910662
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.828426
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 948,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Currently.com",
-          "source_domain": "Currently.com",
-          "headline": "Why Is Oracle Stock Up Today?",
-          "url": "https://currently.att.yahoo.com/att/why-oracle-stock-today-212008025.html",
-          "published_at": "2026-09-03T21:10:17"
         }
       ]
     }
