@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 891,
+      "title": "High Gas Prices Aren't Budging—Here Are 3 Stocks That Benefit",
+      "summary": "Despite high gas prices, the article identifies opportunities in the energy sector beyond just oil producers, focusing on refiners, fuel distributors, and convenience store companies. It highlights Phillips 66 (PSX), HF Sinclair (DINO), and CrossAmerica Partners (CAPL) as stocks poised to profit from elevated margins and strong fuel demand. Each company offers a distinct way to benefit, from diversified refining operations to retail-focused fuel distribution, providing investment options for various risk appetites.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-09-07T16:13:49",
+      "first_seen_at": "2026-09-07T18:00:02.192950",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.440707,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920222
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.819697
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.711924
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.634296
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1003,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "High Gas Prices Aren't Budging—Here Are 3 Stocks That Benefit",
+          "url": "https://www.marketbeat.com/articles/high-gas-prices-arent-budginghere-are-3-stocks-that-benefit/",
+          "published_at": "2026-09-07T16:13:49"
+        }
+      ]
+    },
+    {
       "event_id": 885,
       "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
       "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
@@ -20,7 +75,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.28621,
+          "sentiment_score": 0.251667,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -40,7 +95,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.640759
+          "relevance_score": 0.647819
         },
         {
           "topic": "economy_macro",
@@ -74,16 +129,16 @@
         {
           "symbol": "FSLR",
           "asset_class": null,
-          "relevance_score": 0.96278,
-          "sentiment_score": -0.383476,
+          "relevance_score": 0.982442,
+          "sentiment_score": -0.392549,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "ENPH",
           "asset_class": null,
-          "relevance_score": 0.821781,
-          "sentiment_score": 0.293279,
+          "relevance_score": 0.851486,
+          "sentiment_score": 0.266806,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -99,11 +154,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.81582
+          "relevance_score": 0.819431
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.715305
+          "relevance_score": 0.71721
         }
       ],
       "articles": [
@@ -134,7 +189,7 @@
           "symbol": "ED",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.130816,
+          "sentiment_score": 0.117982,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -142,7 +197,7 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 0.646126,
-          "sentiment_score": 0.140461,
+          "sentiment_score": 0.117728,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -150,7 +205,7 @@
           "symbol": "WEC",
           "asset_class": null,
           "relevance_score": 0.645722,
-          "sentiment_score": 0.108247,
+          "sentiment_score": 0.147292,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -158,7 +213,7 @@
           "symbol": "AEP",
           "asset_class": null,
           "relevance_score": 0.637362,
-          "sentiment_score": 0.108839,
+          "sentiment_score": 0.146785,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -166,7 +221,7 @@
           "symbol": "XEL",
           "asset_class": null,
           "relevance_score": 0.63184,
-          "sentiment_score": 0.148876,
+          "sentiment_score": 0.104923,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -178,7 +233,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.812582
+          "relevance_score": 0.830052
         },
         {
           "topic": "economy_macro",
@@ -217,7 +272,7 @@
           "symbol": "GEV",
           "asset_class": null,
           "relevance_score": 0.941424,
-          "sentiment_score": 0.420803,
+          "sentiment_score": 0.402935,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -225,7 +280,7 @@
           "symbol": "AES",
           "asset_class": null,
           "relevance_score": 0.89193,
-          "sentiment_score": 0.290648,
+          "sentiment_score": 0.291146,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -233,15 +288,15 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 0.841062,
-          "sentiment_score": 0.223854,
+          "sentiment_score": 0.242534,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "FSLR",
           "asset_class": null,
-          "relevance_score": 0.770453,
-          "sentiment_score": -0.277276,
+          "relevance_score": 0.79383,
+          "sentiment_score": -0.277502,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -284,7 +339,7 @@
           "symbol": "SKHY",
           "asset_class": null,
           "relevance_score": 0.9816,
-          "sentiment_score": 0.701792,
+          "sentiment_score": 0.728955,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -292,7 +347,15 @@
           "symbol": "MU",
           "asset_class": null,
           "relevance_score": 0.833962,
-          "sentiment_score": 0.721246,
+          "sentiment_score": 0.739642,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STX",
+          "asset_class": null,
+          "relevance_score": 0.789901,
+          "sentiment_score": 0.700704,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -300,23 +363,15 @@
           "symbol": "WDC",
           "asset_class": null,
           "relevance_score": 0.787286,
-          "sentiment_score": 0.740287,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STX",
-          "asset_class": null,
-          "relevance_score": 0.786201,
-          "sentiment_score": 0.744407,
+          "sentiment_score": 0.708513,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AMAT",
           "asset_class": null,
-          "relevance_score": 0.675074,
-          "sentiment_score": 0.333754,
+          "relevance_score": 0.69546,
+          "sentiment_score": 0.323629,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -332,7 +387,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.640494
+          "relevance_score": 0.643885
         }
       ],
       "articles": [
@@ -1241,73 +1296,6 @@
           "headline": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-archer-132100350.html",
           "published_at": "2026-09-04T13:22:15"
-        }
-      ]
-    },
-    {
-      "event_id": 844,
-      "title": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
-      "summary": "PYA Waltman Capital LLC increased its stake in PepsiCo, Inc. (NASDAQ:PEP) by 28.1% during the second quarter, acquiring an additional 8,682 shares and bringing their total holdings to 39,563 shares valued at $5.36 million. Other hedge funds also made significant investments in PepsiCo. The article also provides a financial overview of PepsiCo, including its stock performance, dividend information, recent earnings, and various analyst ratings and news sentiments affecting the company.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-04T10:10:29",
-      "first_seen_at": "2026-09-04T12:00:02.370189",
-      "assets": [
-        {
-          "symbol": "PEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.173951,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PG",
-          "asset_class": null,
-          "relevance_score": 0.646029,
-          "sentiment_score": 0.330878,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OMC",
-          "asset_class": null,
-          "relevance_score": 0.613123,
-          "sentiment_score": 0.025736,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KO",
-          "asset_class": null,
-          "relevance_score": 0.600387,
-          "sentiment_score": 0.308602,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935782
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.8151
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 949,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-pya-waltman-capital-llc-acquires-8682-shares-of-pepsico-inc-pep-2026-09-04/",
-          "published_at": "2026-09-04T10:10:29"
         }
       ]
     }
