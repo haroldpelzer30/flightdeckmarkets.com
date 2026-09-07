@@ -20,7 +20,7 @@
           "symbol": "PSX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.440707,
+          "sentiment_score": 0.413422,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +32,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.920222
+          "relevance_score": 0.920459
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.819697
+          "relevance_score": 0.825426
         },
         {
           "topic": "retail_wholesale",
@@ -75,7 +75,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.251667,
+          "sentiment_score": 0.293917,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -87,7 +87,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.931314
+          "relevance_score": 0.933049
         },
         {
           "topic": "financial_markets",
@@ -99,7 +99,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.637772
+          "relevance_score": 0.643789
         }
       ],
       "articles": [
@@ -130,15 +130,15 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 0.982442,
-          "sentiment_score": -0.392549,
+          "sentiment_score": -0.399637,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "ENPH",
           "asset_class": null,
-          "relevance_score": 0.851486,
-          "sentiment_score": 0.266806,
+          "relevance_score": 0.8618,
+          "sentiment_score": 0.276087,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -146,7 +146,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.931233
+          "relevance_score": 0.932865
         },
         {
           "topic": "financial_markets",
@@ -154,11 +154,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.819431
+          "relevance_score": 0.824949
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.71721
+          "relevance_score": 0.745524
         }
       ],
       "articles": [
