@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 915,
+      "title": "Thermo Fisher Scientific (NYSE:TMO): Can Demand Outweigh Macro Risks?",
+      "summary": "This article examines Thermo Fisher Scientific's (NYSE:TMO) position in the healthcare market, particularly its reliance on laboratory instruments, life science tools, diagnostics, and research services. It discusses how demand for these offerings might fare against broader macroeconomic challenges like inflation and changing interest rates. The piece emphasizes the importance of company execution, demand quality, and balance sheet flexibility in navigating these economic shifts.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-07T20:37:39",
+      "first_seen_at": "2026-09-07T22:00:02.651986",
+      "assets": [
+        {
+          "symbol": "TMO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.135878,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933103
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.90382
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.742764
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.646608
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1027,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Thermo Fisher Scientific (NYSE:TMO): Can Demand Outweigh Macro Risks?",
+          "url": "https://kalkinemedia.com/us/stocks/healthcare/thermo-fisher-scientific-nysetmo-can-demand-outweigh-macro-risks",
+          "published_at": "2026-09-07T20:37:39"
+        }
+      ]
+    },
+    {
       "event_id": 906,
       "title": "Archer-Daniels-Midland (NYSE:ADM): Can Its Dividend Strength Endure?",
       "summary": "Archer-Daniels-Midland (NYSE: ADM) enters the post-Labor Day trading session with a focus on its mature business models and recurring cash generation within agricultural processing and commodity supply chains. The article discusses how inflation data and changing rate expectations will influence the stock, emphasizing the importance of company execution, customer demand, and operational discipline in an uneven market. ADM's ability to maintain consistent customer activity and manage competitive pressures will determine its dividend strength moving forward.",
@@ -20,15 +75,23 @@
           "symbol": "ADM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.238606,
+          "sentiment_score": 0.209312,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.641498,
+          "sentiment_score": 0.102132,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "TRGP",
           "asset_class": null,
           "relevance_score": 0.627142,
-          "sentiment_score": 0.133378,
+          "sentiment_score": 0.147686,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,23 +99,15 @@
           "symbol": "BK",
           "asset_class": null,
           "relevance_score": 0.623474,
-          "sentiment_score": -0.124173,
+          "sentiment_score": -0.106816,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "USB",
           "asset_class": null,
-          "relevance_score": 0.604409,
-          "sentiment_score": -0.132314,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKR",
-          "asset_class": null,
-          "relevance_score": 0.603878,
-          "sentiment_score": 0.145098,
+          "relevance_score": 0.608261,
+          "sentiment_score": -0.116974,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -64,15 +119,15 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.828288
+          "relevance_score": 0.83872
         },
         {
           "topic": "finance",
-          "relevance_score": 0.711141
+          "relevance_score": 0.73337
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.607082
+          "relevance_score": 0.63581
         }
       ],
       "articles": [
@@ -103,7 +158,7 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.111824,
+          "sentiment_score": 0.115801,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -111,15 +166,15 @@
           "symbol": "USB",
           "asset_class": null,
           "relevance_score": 0.635775,
-          "sentiment_score": -0.136688,
+          "sentiment_score": -0.135804,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "BK",
           "asset_class": null,
-          "relevance_score": 0.600164,
-          "sentiment_score": -0.118951,
+          "relevance_score": 0.630834,
+          "sentiment_score": -0.106237,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -131,7 +186,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.801272
+          "relevance_score": 0.808405
         },
         {
           "topic": "finance",
@@ -166,7 +221,7 @@
           "symbol": "LYV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.067357,
+          "sentiment_score": 0.063392,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -174,7 +229,7 @@
           "symbol": "CMCSA",
           "asset_class": null,
           "relevance_score": 0.587645,
-          "sentiment_score": -0.061153,
+          "sentiment_score": -0.083164,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -182,11 +237,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.914808
+          "relevance_score": 0.918177
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.832288
+          "relevance_score": 0.833297
         },
         {
           "topic": "economy_macro",
@@ -206,6 +261,61 @@
       ]
     },
     {
+      "event_id": 919,
+      "title": "IM Cannabis (NASDAQ:IMCC): What Matters When Trading Resumes?",
+      "summary": "As U.S. equity markets reopen after Labor Day, IM Cannabis (NASDAQ:IMCC) faces scrutiny regarding regulation, financing access, and operational discipline, particularly within its focus on European and Israeli medical cannabis markets. The company's performance will be heavily influenced by broader economic factors like inflation and interest rates, as well as its ability to maintain consistent customer activity amidst uneven sector conditions. Investors will be watching for how sector sentiment and company execution interact to shape its stock performance.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-07T18:27:00",
+      "first_seen_at": "2026-09-07T22:00:03.686188",
+      "assets": [
+        {
+          "symbol": "IMCC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.008927,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.916156
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.80024
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.716399
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.609762
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.603108
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1031,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "IM Cannabis (NASDAQ:IMCC): What Matters When Trading Resumes?",
+          "url": "https://kalkinemedia.com/us/stocks/cannabis/im-cannabis-nasdaqimcc-what-matters-when-trading-resumes",
+          "published_at": "2026-09-07T18:27:00"
+        }
+      ]
+    },
+    {
       "event_id": 901,
       "title": "ADP employment data and consumer credit among releases due Tuesday",
       "summary": "Tuesday, September 8, 2026, will be a pivotal day for financial markets with several key economic data releases scheduled. These include the ADP Employment Change Weekly report, providing insight into private sector job growth, and the Consumer Credit report, offering a perspective on household borrowing trends. Additionally, Treasury auctions will gauge investor demand for government debt, all of which are crucial for assessing the health of the U.S. economy and the trajectory of monetary policy.",
@@ -220,8 +330,8 @@
         {
           "symbol": "ADP",
           "asset_class": null,
-          "relevance_score": 0.321823,
-          "sentiment_score": 0.005473,
+          "relevance_score": 0.340783,
+          "sentiment_score": 0.04307,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -229,7 +339,7 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.913887
+          "relevance_score": 0.919826
         },
         {
           "topic": "financial_markets",
@@ -268,7 +378,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.11464,
+          "sentiment_score": 0.11949,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -280,7 +390,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.926243
+          "relevance_score": 0.94552
         },
         {
           "topic": "technology",
@@ -288,7 +398,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.714589
+          "relevance_score": 0.733665
         },
         {
           "topic": "finance",
@@ -323,7 +433,7 @@
           "symbol": "PSX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.441639,
+          "sentiment_score": 0.408071,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -378,7 +488,7 @@
           "symbol": "EVI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.446414,
+          "sentiment_score": 0.442036,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -386,11 +496,11 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.919331
+          "relevance_score": 0.920627
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.741568
+          "relevance_score": 0.74937
         }
       ],
       "articles": [
@@ -1136,120 +1246,6 @@
           "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 700,251 Walmart Inc. $WMT",
           "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-shares-of-700251-walmart-inc-wmt-2026-09-07/",
           "published_at": "2026-09-07T10:06:37"
-        }
-      ]
-    },
-    {
-      "event_id": 864,
-      "title": "Attention, Floridians: Brussels is coming for your cruise industry",
-      "summary": "The European Union's emissions trading rules are significantly increasing operating costs for Florida's cruise industry, with Carnival Cruise Line alone projecting costs of $170 million in 2026. These new regulations, which require cruise ships calling at EU ports to purchase allowances for greenhouse gas emissions, affect companies regardless of their registration or headquarters. This financial pressure is expected to influence cruise ship deployment, route attractiveness, and investments in more efficient vessels, impacting Florida-based cruise companies like Carnival, Royal Caribbean, and Norwegian Cruise Line.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-09-04T19:41:54",
-      "first_seen_at": "2026-09-04T23:00:02.174095",
-      "assets": [
-        {
-          "symbol": "CCL",
-          "asset_class": null,
-          "relevance_score": 0.936133,
-          "sentiment_score": -0.279703,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "RCL",
-          "asset_class": null,
-          "relevance_score": 0.821242,
-          "sentiment_score": -0.218695,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NCLH",
-          "asset_class": null,
-          "relevance_score": 0.644632,
-          "sentiment_score": -0.204975,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.949097
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.833771
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.73381
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 974,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Florida Politics",
-          "source_domain": "Florida Politics",
-          "headline": "Attention, Floridians: Brussels is coming for your cruise industry",
-          "url": "https://floridapolitics.com/archives/818605-attention-floridians-brussels-is-coming-for-your-cruise-industry/",
-          "published_at": "2026-09-04T19:41:54"
-        }
-      ]
-    },
-    {
-      "event_id": 860,
-      "title": "Why is Ballard Power stock gaining today? By Investing.com",
-      "summary": "Ballard Power Systems stock is up 2.2% today due to market anticipation of its imminent acquisition of GeoPura, a UK hydrogen power solutions specialist. This gain is supported by Ballard's strong Q2 2026 results, which showed 15% revenue growth and improved margins, and a strategic shift towards an Energy-as-a-Service model. Analyst sentiment has become more constructive, and positive insider activity further contributes to the stock's performance, suggesting potential for further re-rating upon deal confirmation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-04T19:23:13",
-      "first_seen_at": "2026-09-04T22:00:02.512544",
-      "assets": [
-        {
-          "symbol": "BLDP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.400428,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.931625
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928821
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.83257
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.742192
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 969,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Why is Ballard Power stock gaining today? By Investing.com",
-          "url": "https://in.investing.com/news/stock-market-news/why-is-ballard-power-stock-gaining-today-93CH-5583172",
-          "published_at": "2026-09-04T19:23:13"
         }
       ]
     }
