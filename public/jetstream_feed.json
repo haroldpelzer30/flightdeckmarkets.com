@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 885,
+      "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
+      "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-07T14:53:48",
+      "first_seen_at": "2026-09-07T17:00:02.402883",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.28621,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.946488
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931314
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.847867
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.640759
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.637772
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 997,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
+          "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
+          "published_at": "2026-09-07T14:53:48"
+        }
+      ]
+    },
+    {
+      "event_id": 886,
+      "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+      "summary": "In 2026, SolarEdge Technologies outperformed its peers, surging 19%, while Enphase Energy rose 13%, and First Solar, despite being the most profitable, dropped 22%. This divergence was driven by policy changes like the expiration of the Section 25D residential clean energy credit, which negatively impacted residential demand and affected Enphase and SolarEdge. SolarEdge's recovery from depressed levels and its commercial/industrial market share contributed to its success, whereas First Solar faced challenges from securities litigation and policy uncertainties.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-07T14:48:20",
+      "first_seen_at": "2026-09-07T17:00:02.688168",
+      "assets": [
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 0.96278,
+          "sentiment_score": -0.383476,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ENPH",
+          "asset_class": null,
+          "relevance_score": 0.821781,
+          "sentiment_score": 0.293279,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931233
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925407
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.81582
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.715305
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 998,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+          "url": "https://247wallst.com/investing/2026/09/07/which-solar-stock-has-dominated-in-2026-solaredge-enphase-energy-or-first-solar/",
+          "published_at": "2026-09-07T14:48:20"
+        }
+      ]
+    },
+    {
       "event_id": 877,
       "title": "What Does Friday’s Close Mean for Consolidated Edison (NYSE:ED)?",
       "summary": "This article examines the implications of Consolidated Edison's (NYSE:ED) Friday close, considering the market holiday for Labor Day. It focuses on the utility stock sector's sensitivity to interest rates and rising power demand, emphasizing that Consolidated Edison's performance is tied to its regulated electric and gas networks in New York. The piece highlights the importance of company-specific factors like demand durability and balance sheet flexibility over broader market movements once trading resumes.",
@@ -20,7 +134,7 @@
           "symbol": "ED",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.110643,
+          "sentiment_score": 0.130816,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,15 +142,15 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 0.646126,
-          "sentiment_score": 0.117685,
+          "sentiment_score": 0.140461,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "WEC",
           "asset_class": null,
-          "relevance_score": 0.639912,
-          "sentiment_score": 0.116873,
+          "relevance_score": 0.645722,
+          "sentiment_score": 0.108247,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,7 +158,7 @@
           "symbol": "AEP",
           "asset_class": null,
           "relevance_score": 0.637362,
-          "sentiment_score": 0.144531,
+          "sentiment_score": 0.108839,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,7 +166,7 @@
           "symbol": "XEL",
           "asset_class": null,
           "relevance_score": 0.63184,
-          "sentiment_score": 0.108478,
+          "sentiment_score": 0.148876,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -88,6 +202,73 @@
       ]
     },
     {
+      "event_id": 888,
+      "title": "Solar Stocks Are Splitting Into Two Different Trades",
+      "summary": "The solar energy sector is currently experiencing a divergence, with cap-weighted indices showing gains while the average stock in the group is declining. This split indicates a market preference for companies involved in grid expansion and regulated utility cash flows (e.g., GE Vernova, NextEra Energy, AES Corp) over pure-play solar panel and hardware manufacturers (e.g., First Solar, NextPower Inc). The article highlights that strong fundamentals and profitability in hardware companies are not protecting them from de-rating, making solar a relative-value discussion rather than a uniform directional trade.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-07T12:10:01",
+      "first_seen_at": "2026-09-07T17:00:03.340159",
+      "assets": [
+        {
+          "symbol": "GEV",
+          "asset_class": null,
+          "relevance_score": 0.941424,
+          "sentiment_score": 0.420803,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AES",
+          "asset_class": null,
+          "relevance_score": 0.89193,
+          "sentiment_score": 0.290648,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.841062,
+          "sentiment_score": 0.223854,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 0.770453,
+          "sentiment_score": -0.277276,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.948201
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.84213
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1000,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ChartMill",
+          "source_domain": "ChartMill",
+          "headline": "Solar Stocks Are Splitting Into Two Different Trades",
+          "url": "https://www.chartmill.com/news/NXT/Chartmill-54476-Solar-Stocks-Are-Splitting-Into-Two-Different-Trades",
+          "published_at": "2026-09-07T12:10:01"
+        }
+      ]
+    },
+    {
       "event_id": 878,
       "title": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
       "summary": "South Korean chipmakers Samsung Electronics and SK hynix saw their stocks surge following OpenAI's launch of its new AI model, Astra, and its declaration of the AGI era, fueling investor optimism for high-capacity memory demand. Additionally, LG Electronics shares rose significantly due to expectations of securing orders for robot actuators from global Big Tech companies. The rally extended to semiconductor materials, components, and equipment stocks, driven by the anticipated increased demand for high-performance AI models.",
@@ -103,7 +284,7 @@
           "symbol": "SKHY",
           "asset_class": null,
           "relevance_score": 0.9816,
-          "sentiment_score": 0.74166,
+          "sentiment_score": 0.701792,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -111,7 +292,7 @@
           "symbol": "MU",
           "asset_class": null,
           "relevance_score": 0.833962,
-          "sentiment_score": 0.733063,
+          "sentiment_score": 0.721246,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -119,7 +300,7 @@
           "symbol": "WDC",
           "asset_class": null,
           "relevance_score": 0.787286,
-          "sentiment_score": 0.731722,
+          "sentiment_score": 0.740287,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -127,7 +308,7 @@
           "symbol": "STX",
           "asset_class": null,
           "relevance_score": 0.786201,
-          "sentiment_score": 0.714545,
+          "sentiment_score": 0.744407,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -135,7 +316,7 @@
           "symbol": "AMAT",
           "asset_class": null,
           "relevance_score": 0.675074,
-          "sentiment_score": 0.341079,
+          "sentiment_score": 0.333754,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -182,7 +363,7 @@
           "symbol": "VFS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.317537,
+          "sentiment_score": 0.335313,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -190,7 +371,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.930442
+          "relevance_score": 0.933835
         },
         {
           "topic": "economy_macro",
@@ -1127,211 +1308,6 @@
           "headline": "PYA Waltman Capital LLC Acquires 8,682 Shares of PepsiCo, Inc. $PEP",
           "url": "https://www.marketbeat.com/instant-alerts/filing-pya-waltman-capital-llc-acquires-8682-shares-of-pepsico-inc-pep-2026-09-04/",
           "published_at": "2026-09-04T10:10:29"
-        }
-      ]
-    },
-    {
-      "event_id": 845,
-      "title": "Nykredit A S Acquires Shares of 83,672 Moody's Corporation $MCO",
-      "summary": "Nykredit A S has acquired a new stake in Moody's Corporation (NYSE:MCO), purchasing 83,672 shares valued at approximately $37.9 million during the second quarter. This move is part of broader institutional investment trends, with other hedge funds also adjusting their positions in Moody's. The article also notes recent insider selling by CEO Robert Fauber and details the company's financial performance, stock metrics, and recent analyst ratings.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-04T10:10:22",
-      "first_seen_at": "2026-09-04T12:00:02.655798",
-      "assets": [
-        {
-          "symbol": "MCO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.417,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93744
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817846
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.739951
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 950,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires Shares of 83,672 Moody's Corporation $MCO",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-83672-moodys-corporation-mco-2026-09-04/",
-          "published_at": "2026-09-04T10:10:22"
-        }
-      ]
-    },
-    {
-      "event_id": 846,
-      "title": "Nykredit A S Purchases Shares of 152,520 Targa Resources, Inc. $TRGP",
-      "summary": "Nykredit A S recently acquired a new stake of 152,520 shares in Targa Resources, Inc. (NYSE:TRGP) valued at approximately $40.9 million during the second quarter. Other institutional investors like BlackRock Inc., State Street Corp, and Geode Capital Management LLC also adjusted their holdings in the pipeline company. Targa Resources reported strong quarterly earnings, beating analyst estimates, and announced a quarterly dividend of $1.25 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-04T10:10:16",
-      "first_seen_at": "2026-09-04T12:00:02.922378",
-      "assets": [
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460999,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.633508,
-          "sentiment_score": 0.329089,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.582644,
-          "sentiment_score": 0.33806,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.572324,
-          "sentiment_score": 0.337938,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94002
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913315
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84073
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.613368
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 951,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Purchases Shares of 152,520 Targa Resources, Inc. $TRGP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-purchases-shares-of-152520-targa-resources-inc-trgp-2026-09-04/",
-          "published_at": "2026-09-04T10:10:16"
-        }
-      ]
-    },
-    {
-      "event_id": 847,
-      "title": "Nykredit A S Acquires Shares of 351,390 General Motors Company $GM",
-      "summary": "Nykredit A S has acquired a new stake of 351,390 shares in General Motors Company, valued at approximately $27.085 million, during the second quarter. This move is part of broader institutional investor activity, with several other hedge funds also modifying their holdings in GM. The article also provides a financial overview of General Motors, including recent earnings, dividend announcements, analyst ratings, and insider trading activity, alongside a summary of recent news affecting the company.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-04T10:09:31",
-      "first_seen_at": "2026-09-04T12:00:03.263754",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.313846,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.578877,
-          "sentiment_score": -0.119361,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BEN",
-          "asset_class": null,
-          "relevance_score": 0.528995,
-          "sentiment_score": 0.218979,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.523217,
-          "sentiment_score": 0.218564,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.51745,
-          "sentiment_score": 0.014055,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936888
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80117
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.741428
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.609279
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 952,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires Shares of 351,390 General Motors Company $GM",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-351390-general-motors-company-gm-2026-09-04/",
-          "published_at": "2026-09-04T10:09:31"
         }
       ]
     }
