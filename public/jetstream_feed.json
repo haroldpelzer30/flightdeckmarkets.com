@@ -20,7 +20,7 @@
           "symbol": "ED",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.116866,
+          "sentiment_score": 0.110643,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,15 +28,23 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 0.646126,
-          "sentiment_score": 0.12739,
+          "sentiment_score": 0.117685,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "WEC",
           "asset_class": null,
-          "relevance_score": 0.636317,
-          "sentiment_score": 0.112828,
+          "relevance_score": 0.639912,
+          "sentiment_score": 0.116873,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 0.637362,
+          "sentiment_score": 0.144531,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,15 +52,7 @@
           "symbol": "XEL",
           "asset_class": null,
           "relevance_score": 0.63184,
-          "sentiment_score": 0.102404,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 0.618013,
-          "sentiment_score": 0.134781,
+          "sentiment_score": 0.108478,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -60,7 +60,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.930683
+          "relevance_score": 0.940478
         },
         {
           "topic": "economy_monetary",
@@ -68,7 +68,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.70451
+          "relevance_score": 0.731828
         },
         {
           "topic": "energy_transportation",
@@ -103,15 +103,23 @@
           "symbol": "SKHY",
           "asset_class": null,
           "relevance_score": 0.9816,
-          "sentiment_score": 0.726204,
+          "sentiment_score": 0.74166,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MU",
           "asset_class": null,
-          "relevance_score": 0.800011,
-          "sentiment_score": 0.72375,
+          "relevance_score": 0.833962,
+          "sentiment_score": 0.733063,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WDC",
+          "asset_class": null,
+          "relevance_score": 0.787286,
+          "sentiment_score": 0.731722,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -119,15 +127,7 @@
           "symbol": "STX",
           "asset_class": null,
           "relevance_score": 0.786201,
-          "sentiment_score": 0.742,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WDC",
-          "asset_class": null,
-          "relevance_score": 0.777453,
-          "sentiment_score": 0.712093,
+          "sentiment_score": 0.714545,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -135,19 +135,19 @@
           "symbol": "AMAT",
           "asset_class": null,
           "relevance_score": 0.675074,
-          "sentiment_score": 0.344741,
+          "sentiment_score": 0.341079,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "technology",
-          "relevance_score": 0.904683
+          "topic": "financial_markets",
+          "relevance_score": 0.948951
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.901818
+          "topic": "technology",
+          "relevance_score": 0.920322
         },
         {
           "topic": "economy_macro",
@@ -167,6 +167,53 @@
       ]
     },
     {
+      "event_id": 883,
+      "title": "VinFast's Latest EV Signals the Return of the Microcar",
+      "summary": "The article discusses the resurgence of microcars, exemplified by VinFast's new VF 2 electric vehicle. It highlights how electric powertrains and rising car costs are making smaller, more efficient urban vehicles attractive again globally. The VF 2 is presented as an affordable and practical solution for city commuting, reflecting a broader shift in personal vehicle needs.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-07T11:27:20",
+      "first_seen_at": "2026-09-07T16:00:03.235778",
+      "assets": [
+        {
+          "symbol": "VFS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.317537,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.930442
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.821526
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.734443
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 995,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing News Network",
+          "source_domain": "Investing News Network",
+          "headline": "VinFast's Latest EV Signals the Return of the Microcar",
+          "url": "https://investingnews.com/vinfast-s-latest-ev-signals-the-return-of-the-microcar/",
+          "published_at": "2026-09-07T11:27:20"
+        }
+      ]
+    },
+    {
       "event_id": 872,
       "title": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
       "summary": "APA Corporation (NASDAQ:APA) is under observation as Nasdaq trading resumes after the Labor Day holiday, primarily due to renewed tensions in the Strait of Hormuz which have kept crude oil markets elevated. The article highlights APA's focus on oil and natural-gas exploration and production, noting that its performance will be influenced by confirmed company and sector facts rather than speculative holiday-period price movements, with fresh inflation data expected this week. The company's positioning, competitive landscape, and balance-sheet flexibility will be key factors determining its performance upon market reopening.",
@@ -182,7 +229,7 @@
           "symbol": "APA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.115415,
+          "sentiment_score": 0.124916,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -190,15 +237,23 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 0.74025,
-          "sentiment_score": 0.107455,
+          "sentiment_score": 0.121171,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.64883,
+          "sentiment_score": 0.106878,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "DVN",
           "asset_class": null,
-          "relevance_score": 0.637791,
-          "sentiment_score": 0.120959,
+          "relevance_score": 0.645127,
+          "sentiment_score": 0.1154,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -206,15 +261,7 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 0.633987,
-          "sentiment_score": 0.127051,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 0.631777,
-          "sentiment_score": 0.121939,
+          "sentiment_score": 0.146225,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -222,7 +269,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.938972
+          "relevance_score": 0.94193
         },
         {
           "topic": "energy_transportation",
@@ -230,11 +277,11 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.823054
+          "relevance_score": 0.826206
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.742992
+          "relevance_score": 0.747925
         },
         {
           "topic": "finance",
@@ -1285,65 +1332,6 @@
           "headline": "Nykredit A S Acquires Shares of 351,390 General Motors Company $GM",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-shares-of-351390-general-motors-company-gm-2026-09-04/",
           "published_at": "2026-09-04T10:09:31"
-        }
-      ]
-    },
-    {
-      "event_id": 848,
-      "title": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
-      "summary": "Nykredit A S recently acquired a new position in Colgate-Palmolive Company, purchasing 273,665 shares valued at approximately $25.09 million during the second quarter. This move comes as other institutional investors have also adjusted their holdings in the consumer goods giant. Insider transactions show recent stock sales by Colgate-Palmolive's COO and CEO, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $99.00.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-04T10:08:41",
-      "first_seen_at": "2026-09-04T12:00:03.613973",
-      "assets": [
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.951406,
-          "sentiment_score": 0.052832,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.622282,
-          "sentiment_score": 0.328519,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943281
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.823047
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.718201
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.618693
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 953,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-colgate-palmolive-company-cl-2026-09-04/",
-          "published_at": "2026-09-04T10:08:41"
         }
       ]
     }
