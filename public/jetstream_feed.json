@@ -5,6 +5,152 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 906,
+      "title": "Archer-Daniels-Midland (NYSE:ADM): Can Its Dividend Strength Endure?",
+      "summary": "Archer-Daniels-Midland (NYSE: ADM) enters the post-Labor Day trading session with a focus on its mature business models and recurring cash generation within agricultural processing and commodity supply chains. The article discusses how inflation data and changing rate expectations will influence the stock, emphasizing the importance of company execution, customer demand, and operational discipline in an uneven market. ADM's ability to maintain consistent customer activity and manage competitive pressures will determine its dividend strength moving forward.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-07T19:48:54",
+      "first_seen_at": "2026-09-07T21:00:02.345206",
+      "assets": [
+        {
+          "symbol": "ADM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.238606,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 0.627142,
+          "sentiment_score": 0.133378,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BK",
+          "asset_class": null,
+          "relevance_score": 0.623474,
+          "sentiment_score": -0.124173,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "USB",
+          "asset_class": null,
+          "relevance_score": 0.604409,
+          "sentiment_score": -0.132314,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.603878,
+          "sentiment_score": 0.145098,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922698
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.828288
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.711141
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.607082
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1018,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Archer-Daniels-Midland (NYSE:ADM): Can Its Dividend Strength Endure?",
+          "url": "https://kalkinemedia.com/us/stocks/dividend/archer-daniels-midland-nyseadm-can-its-dividend-strength-endure",
+          "published_at": "2026-09-07T19:48:54"
+        }
+      ]
+    },
+    {
+      "event_id": 907,
+      "title": "PNC Financial Services (NYSE:PNC): Will Inflation Reshape Demand?",
+      "summary": "PNC Financial Services (NYSE:PNC) is entering a post-Labor Day session focusing on its mature business model and recurring cash generation, with upcoming inflation data expected to reshape demand for established dividend names. The company's performance is tied to banking services like deposits, lending, payments, treasury services, and wealth services, and its ability to maintain consistent customer activity will be tested amidst uneven sector conditions and changing interest rates. The article emphasizes the importance of strong operational quality, demand resilience, and cost discipline for PNC in a market highly sensitive to inflation and bond yields.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "CRITICAL",
+      "intelligence_score": 71,
+      "published_at": "2026-09-07T19:46:07",
+      "first_seen_at": "2026-09-07T21:00:02.698008",
+      "assets": [
+        {
+          "symbol": "PNC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.111824,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "USB",
+          "asset_class": null,
+          "relevance_score": 0.635775,
+          "sentiment_score": -0.136688,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BK",
+          "asset_class": null,
+          "relevance_score": 0.600164,
+          "sentiment_score": -0.118951,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.911814
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801272
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.730185
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1019,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "PNC Financial Services (NYSE:PNC): Will Inflation Reshape Demand?",
+          "url": "https://kalkinemedia.com/us/stocks/dividend/pnc-financial-services-nysepnc-will-inflation-reshape-demand",
+          "published_at": "2026-09-07T19:46:07"
+        }
+      ]
+    },
+    {
       "event_id": 900,
       "title": "Live Nation Entertainment (NYSE:LYV): Is Demand Resilience the Key Test?",
       "summary": "This article examines Live Nation Entertainment (NYSE:LYV) as US markets reopen after Labor Day, focusing on how the company's performance in concert promotion, live events, venues, sponsorship, and ticketing services will be tested against a backdrop of changing interest rates, inflation, and audience engagement. It emphasizes that operational quality and demand resilience will be crucial drivers for the stock, rather than short-lived headlines, as the market balances company-specific execution with broader economic conditions. The article also touches on risk management, competition, economic impacts, and areas for improvement and cost savings for LYV.",
@@ -20,7 +166,7 @@
           "symbol": "LYV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.098612,
+          "sentiment_score": 0.067357,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,7 +174,7 @@
           "symbol": "CMCSA",
           "asset_class": null,
           "relevance_score": 0.587645,
-          "sentiment_score": -0.08972,
+          "sentiment_score": -0.061153,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,7 +190,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.705128
+          "relevance_score": 0.712353
         }
       ],
       "articles": [
@@ -75,7 +221,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 0.321823,
-          "sentiment_score": 0.029142,
+          "sentiment_score": 0.005473,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -122,7 +268,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.120999,
+          "sentiment_score": 0.11464,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -138,11 +284,11 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.81508
+          "relevance_score": 0.827539
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.70246
+          "relevance_score": 0.714589
         },
         {
           "topic": "finance",
@@ -177,7 +323,7 @@
           "symbol": "PSX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.433983,
+          "sentiment_score": 0.441639,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -189,7 +335,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.920459
+          "relevance_score": 0.945419
         },
         {
           "topic": "earnings",
@@ -217,6 +363,49 @@
       ]
     },
     {
+      "event_id": 912,
+      "title": "EVI Industries Completes Acquisition of Sudsies, Inc.",
+      "summary": "EVI Industries has completed its acquisition of Sudsies, Inc., a Miami-based garment care business, establishing its new consumer garment care services division. This acquisition marks EVI's first expansion beyond commercial laundry since 2016, aiming to build a national-scale consumer garment care enterprise while preserving Sudsies' brand and leadership. EVI has grown significantly since 2016, acquiring 32 commercial laundry businesses and increasing its annual revenue to nearly $435 million.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-07T15:21:33",
+      "first_seen_at": "2026-09-07T21:00:03.937944",
+      "assets": [
+        {
+          "symbol": "EVI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.446414,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.919331
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.741568
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1024,
+          "provider": "ALPHA_VANTAGE",
+          "source": "American Drycleaner",
+          "source_domain": "American Drycleaner",
+          "headline": "EVI Industries Completes Acquisition of Sudsies, Inc.",
+          "url": "https://americandrycleaner.com/articles/evi-industries-completes-acquisition-sudsies-inc",
+          "published_at": "2026-09-07T15:21:33"
+        }
+      ]
+    },
+    {
       "event_id": 885,
       "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
       "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
@@ -232,7 +421,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.265176,
+          "sentiment_score": 0.283492,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -287,7 +476,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 0.996645,
-          "sentiment_score": -0.385234,
+          "sentiment_score": -0.418679,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
@@ -295,7 +484,7 @@
           "symbol": "ENPH",
           "asset_class": null,
           "relevance_score": 0.8618,
-          "sentiment_score": 0.250871,
+          "sentiment_score": 0.286661,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -307,7 +496,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.932865
+          "relevance_score": 0.94203
         },
         {
           "topic": "energy_transportation",
@@ -1061,172 +1250,6 @@
           "headline": "Why is Ballard Power stock gaining today? By Investing.com",
           "url": "https://in.investing.com/news/stock-market-news/why-is-ballard-power-stock-gaining-today-93CH-5583172",
           "published_at": "2026-09-04T19:23:13"
-        }
-      ]
-    },
-    {
-      "event_id": 858,
-      "title": "Fair Isaac, Equifax, TransUnion Shares Fall After FHFA Director Bill Pulte's Criticism on Credit Bureaus",
-      "summary": "Shares of Fair Isaac, Equifax, and TransUnion declined following criticism from FHFA Director Bill Pulte regarding credit bureaus. Pulte's remarks highlighted concerns about the industry, leading to a negative market reaction for these companies. This article was published on September 4, 2026, at 03:18 pm EDT according to MT Newswires.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-04T19:19:48",
-      "first_seen_at": "2026-09-04T21:00:02.453634",
-      "assets": [
-        {
-          "symbol": "EFX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.629026,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FICO",
-          "asset_class": null,
-          "relevance_score": 0.819849,
-          "sentiment_score": -0.604312,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945655
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.844733
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.728758
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 966,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Fair Isaac, Equifax, TransUnion Shares Fall After FHFA Director Bill Pulte's Criticism on Credit Bureaus",
-          "url": "https://www.marketscreener.com/news/fair-isaac-equifax-transunion-shares-fall-after-fhfa-director-bill-pulte-s-criticism-on-credit-bur-ce785bdbd980f520",
-          "published_at": "2026-09-04T19:19:48"
-        }
-      ]
-    },
-    {
-      "event_id": 857,
-      "title": "Isman Adrian Acquires 10 Shares of Bunge Global SA at $119.25 Each on September 1, 2026",
-      "summary": "Isman Adrian, a director of Bunge Global SA, acquired 10 shares of the company on September 1, 2026, at a price of $119.25 per share. This transaction increased his total holding to 3,330 shares. The acquisition was classified under SEC code A, indicating it was an award.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-04T18:32:08",
-      "first_seen_at": "2026-09-04T20:00:01.851938",
-      "assets": [
-        {
-          "symbol": "BG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.029434,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.645302,
-          "sentiment_score": 0.135106,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 0.6369,
-          "sentiment_score": 0.104273,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941396
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 964,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Isman Adrian Acquires 10 Shares of Bunge Global SA at $119.25 Each on September 1, 2026",
-          "url": "https://kalkinemedia.com/us/news/announcements/isman-adrian-acquires-10-shares-of-bunge-global-sa-at-11925-each-on-september-1-2026",
-          "published_at": "2026-09-04T18:32:08"
-        },
-        {
-          "article_id": 965,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Jensen Anne Acquires 10 Shares of Bunge Global SA at $119.25 Each on September 1, 2026",
-          "url": "https://kalkinemedia.com/us/news/announcements/jensen-anne-acquires-10-shares-of-bunge-global-sa-at-11925-each-on-september-1-2026",
-          "published_at": "2026-09-04T18:32:08"
-        }
-      ]
-    },
-    {
-      "event_id": 863,
-      "title": "ChargePoint Climbs 7% as CEO Says Rally Is 'the Beginning of the Momentum'; EVgo Ticks Up, Blink Charging Holds Flat",
-      "summary": "ChargePoint's stock surged 7% after its CEO, Rick Wilmer, described the two-day rally as \"the beginning of the momentum\" for the company. This comes after ChargePoint reported strong Q2 FY2027 earnings, exceeding revenue guidance and achieving a record 38% gross margin (including a one-time tariff refund). While ChargePoint's shares showed significant gains, competing EV charging companies like EVgo saw only a modest increase and Blink Charging remained flat, indicating a company-specific reappraisal rather than a broader sector rotation.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-04T18:21:37",
-      "first_seen_at": "2026-09-04T22:00:03.337665",
-      "assets": [
-        {
-          "symbol": "BLNK",
-          "asset_class": null,
-          "relevance_score": 0.93752,
-          "sentiment_score": -0.095447,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940473
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84967
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 973,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "ChargePoint Climbs 7% as CEO Says Rally Is 'the Beginning of the Momentum'; EVgo Ticks Up, Blink Charging Holds Flat",
-          "url": "https://247wallst.com/investing/2026/09/04/chargepoint-climbs-7-as-ceo-says-rally-is-the-beginning-of-the-momentum-evgo-ticks-up-blink-charging-holds-flat/",
-          "published_at": "2026-09-04T18:21:37"
         }
       ]
     }
