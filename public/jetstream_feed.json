@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 870,
+      "title": "195,800 Shares in Old Dominion Freight Line, Inc. $ODFL Acquired by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "summary": "Virginia Retirement Systems acquired 195,800 shares of Old Dominion Freight Line (NASDAQ:ODFL) worth approximately $42.4 million in the second quarter. Institutional investors collectively own 77.82% of the company, which recently reported strong quarterly earnings and declared a dividend. Analysts currently hold a consensus \"Hold\" rating for ODFL with an average price target of $226.55.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-07T10:12:25",
+      "first_seen_at": "2026-09-07T12:00:02.666019",
+      "assets": [
+        {
+          "symbol": "ODFL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.339595,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.91972
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914983
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.824553
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.745275
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 981,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "195,800 Shares in Old Dominion Freight Line, Inc. $ODFL Acquired by VIRGINIA RETIREMENT SYSTEMS ET Al",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-195800-shares-in-old-dominion-freight-line-inc-odfl-acquired-by-virginia-retirement-systems-et-al-2026-09-07/",
+          "published_at": "2026-09-07T10:12:25"
+        }
+      ]
+    },
+    {
+      "event_id": 871,
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 700,251 Walmart Inc. $WMT",
+      "summary": "Virginia Retirement Systems acquired over 700,000 shares of Walmart stock, valued at approximately $79.3 million, during the second quarter. This move is part of broader institutional interest, with several other major funds also increasing their positions, bringing institutional ownership to 26.76% of Walmart’s stock. Despite some insider selling, Walmart maintains a \"Moderate Buy\" consensus rating from analysts and exceeded recent earnings and revenue estimates.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-07T10:06:37",
+      "first_seen_at": "2026-09-07T12:00:02.995230",
+      "assets": [
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.195256,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949717
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.808973
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.717036
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.609174
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60825
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 982,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 700,251 Walmart Inc. $WMT",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-shares-of-700251-walmart-inc-wmt-2026-09-07/",
+          "published_at": "2026-09-07T10:06:37"
+        }
+      ]
+    },
+    {
       "event_id": 864,
       "title": "Attention, Floridians: Brussels is coming for your cruise industry",
       "summary": "The European Union's emissions trading rules are significantly increasing operating costs for Florida's cruise industry, with Carnival Cruise Line alone projecting costs of $170 million in 2026. These new regulations, which require cruise ships calling at EU ports to purchase allowances for greenhouse gas emissions, affect companies regardless of their registration or headquarters. This financial pressure is expected to influence cruise ship deployment, route attractiveness, and investments in more efficient vessels, impacting Florida-based cruise companies like Carnival, Royal Caribbean, and Norwegian Cruise Line.",
@@ -1114,128 +1220,6 @@
           "headline": "Energy bills are up in Virginia. Now some are pushing back as Dominion Energy seeks another rate increase",
           "url": "https://www.wtvr.com/news/local-news/dominion-energy-seeks-rate-increase-sept-3-2026",
           "published_at": "2026-09-03T20:23:38"
-        }
-      ]
-    },
-    {
-      "event_id": 831,
-      "title": "Bogotá, Antioquia and Valle del Cauca Concentrate Half of Colombia’s Regional Economy, Bancolombia Data Shows",
-      "summary": "An analysis by Bancolombia reveals that Bogotá, Antioquia, and Valle del Cauca together accounted for over 50% of Colombia's national GDP in 2025, highlighting significant regional economic disparities. While these regions show diversified economies and strong growth, many other departments are highly specialized in commodities like mining, making them more vulnerable to industry cycles. The report emphasizes that national GDP figures mask crucial differences in regional economic resilience and growth drivers, which is important for investors, businesses, and policymakers.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-03T18:30:43",
-      "first_seen_at": "2026-09-03T21:00:02.903639",
-      "assets": [
-        {
-          "symbol": "CIB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.228838,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.942105
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.732525
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.605568
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.600819
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 933,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Finance Colombia",
-          "source_domain": "Finance Colombia",
-          "headline": "Bogotá, Antioquia and Valle del Cauca Concentrate Half of Colombia’s Regional Economy, Bancolombia Data Shows",
-          "url": "https://www.financecolombia.com/bogota-antioquia-and-valle-del-cauca-concentrate-half-of-colombias-regional-economy-bancolombia-data-shows/",
-          "published_at": "2026-09-03T18:30:43"
-        }
-      ]
-    },
-    {
-      "event_id": 819,
-      "title": "Final Trades: Capital One, ServiceNow, Nvidia and Spotify",
-      "summary": "The Investment Committee presented their top stock picks, including Capital One, ServiceNow, Nvidia, and Spotify, for the latter half of the year. The article highlights these companies as key stocks to watch based on expert analysis.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-03T17:32:21",
-      "first_seen_at": "2026-09-03T19:00:03.770584",
-      "assets": [
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.945676,
-          "sentiment_score": 0.41005,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOW",
-          "asset_class": null,
-          "relevance_score": 0.848144,
-          "sentiment_score": 0.148508,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COF",
-          "asset_class": null,
-          "relevance_score": 0.747023,
-          "sentiment_score": 0.136054,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.945945
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.842346
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.728555
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.646902
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.638367
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 920,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Final Trades: Capital One, ServiceNow, Nvidia and Spotify",
-          "url": "https://www.cnbc.com/video/2026/09/03/final-trades-capital-one-servicenow-nvidia-and-spotify.html",
-          "published_at": "2026-09-03T17:32:21"
         }
       ]
     }
