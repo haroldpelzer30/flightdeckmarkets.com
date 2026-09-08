@@ -5,6 +5,341 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 953,
+      "title": "Labcorp acquires MLM Medical Labs to expand global network",
+      "summary": "Labcorp has acquired MLM Medical Labs, a central and specialty laboratory provider with operations in the United States, Germany, and South Africa. This acquisition expands Labcorp's global network, making it the only central laboratory provider with a wholly owned laboratory network across four continents. The deal enhances Labcorp's clinical research capabilities and adds biomarker and specialty testing, supporting multinational clinical trials.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-08T13:12:17",
+      "first_seen_at": "2026-09-08T14:00:02.386935",
+      "assets": [
+        {
+          "symbol": "LH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.438208,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.924783
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.729734
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1065,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Labcorp acquires MLM Medical Labs to expand global network",
+          "url": "https://www.investing.com/news/company-news/labcorp-acquires-mlm-medical-labs-to-expand-global-network-93CH-4891767",
+          "published_at": "2026-09-08T13:12:17"
+        }
+      ]
+    },
+    {
+      "event_id": 954,
+      "title": "CMS Energy (NYSE:CMS) faces a fresh market test as trading resumes today",
+      "summary": "CMS Energy (NYSE:CMS) is under market scrutiny as U.S. equities reopen after Labor Day, with inflation expectations and interest rates influencing utility stocks. The company, which focuses on regulated electric and natural-gas utility operations in Michigan, will be evaluated based on grid spending, power demand, and reliability programs. Traders will be looking for company-specific execution to differentiate performance amidst broader macroeconomic trends and global market moves.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-08T12:39:18",
+      "first_seen_at": "2026-09-08T14:00:02.647723",
+      "assets": [
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.035736,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 0.636533,
+          "sentiment_score": 0.017754,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ES",
+          "asset_class": null,
+          "relevance_score": 0.605502,
+          "sentiment_score": 0.024798,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MOS",
+          "asset_class": null,
+          "relevance_score": 0.600553,
+          "sentiment_score": 0.033441,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907737
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.816351
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.720656
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.709514
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1066,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "CMS Energy (NYSE:CMS) faces a fresh market test as trading resumes today",
+          "url": "https://kalkinemedia.com/us/stocks/utility/cms-energy-nysecms-faces-a-fresh-market-test-as-trading-resumes-today",
+          "published_at": "2026-09-08T12:39:18"
+        }
+      ]
+    },
+    {
+      "event_id": 955,
+      "title": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
+      "summary": "Chevron's stock has surged over 42% this year, nearing a record high, but 24/7 Wall St. maintains a \"Hold\" recommendation with a target implying slight downside. While strong Q2 FY26 results, operational efficiencies, and a significant power purchase agreement with Microsoft present a bullish case, the stock's high P/E ratio compared to peers and potential oil price fluctuations suggest caution. The long-term projections depend on continued execution and market conditions.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-08T12:29:59",
+      "first_seen_at": "2026-09-08T14:00:02.935537",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.299685,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.748112,
+          "sentiment_score": -0.13126,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.70248,
+          "sentiment_score": 0.245759,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.646611,
+          "sentiment_score": -0.109217,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.911973
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903417
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.822242
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741923
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.61534
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1067,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
+          "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
+          "published_at": "2026-09-08T12:29:59"
+        }
+      ]
+    },
+    {
+      "event_id": 956,
+      "title": "Nucor Corp stock faces tariff headwinds as valuation stretches",
+      "summary": "Nucor Corp's stock is currently trading at a 39.8% premium to its estimated intrinsic value, according to one valuation model, and faces new Canadian tariffs on U.S. steel and aluminum. These tariffs, ranging from 15% to 50% on approximately USD 20 billion of U.S. imports, could increase costs and reduce Nucor's competitiveness in the Canadian market. Additionally, insider selling totaling about USD 57 million over the past year, with no insider purchases, further complicates the investment outlook despite analysts generally remaining positive on the company's long-term prospects.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-08T12:08:28",
+      "first_seen_at": "2026-09-08T14:00:03.211901",
+      "assets": [
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.275571,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906689
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.832843
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.733617
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.615543
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1068,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Nucor Corp stock faces tariff headwinds as valuation stretches",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-corp-stock-faces-tariff-headwinds-as-valuation-stretches/70068931",
+          "published_at": "2026-09-08T12:08:28"
+        }
+      ]
+    },
+    {
+      "event_id": 957,
+      "title": "Why is Matador Resources (NYSE:MTDR) stock in focus as Wall Street reopens today?",
+      "summary": "Matador Resources (NYSE:MTDR) is in focus as Wall Street reopens after Labor Day, with crude markets elevated due to conflict around the Strait of Hormuz. The company, which specializes in oil and natural-gas development in the Permian Basin, is being watched in the context of broader energy market conditions, geopolitical supply concerns, inflation, and interest rate expectations. The article emphasizes that investors should carefully assess business fundamentals as market dynamics interact with the company's operating model, competitive position, and capital needs.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 94,
+      "published_at": "2026-09-08T10:59:47",
+      "first_seen_at": "2026-09-08T14:00:03.443945",
+      "assets": [
+        {
+          "symbol": "MTDR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.107407,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.649849,
+          "sentiment_score": 0.136501,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.631265,
+          "sentiment_score": 0.116635,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.626215,
+          "sentiment_score": 0.119435,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.607252,
+          "sentiment_score": 0.140262,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926952
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.908939
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.834437
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.803235
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1069,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why is Matador Resources (NYSE:MTDR) stock in focus as Wall Street reopens today?",
+          "url": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-matador-resources-nysemtdr-stock-in-focus-as-wall-street-reopens-today",
+          "published_at": "2026-09-08T10:59:47"
+        }
+      ]
+    },
+    {
       "event_id": 946,
       "title": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
       "summary": "Bloom Energy, Everpure, and Illumina are slated to be added to the S&P 500 index during its September rebalance. The article, published by MT Newswires, indicates this significant change for the companies involved. Full details are reserved for members of the platform.",
@@ -850,273 +1185,6 @@
           "headline": "General Motors stock gains on institutional buying and solid Q2 earnings",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-gains-on-institutional-buying-and-solid-q2-earnings/70065103",
           "published_at": "2026-09-07T17:14:40"
-        }
-      ]
-    },
-    {
-      "event_id": 902,
-      "title": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
-      "summary": "Ross Gerber, CEO of Gerber Kawasaki, believes that a merger between Tesla and SpaceX is inevitable and would create a \"must-have\" investment. He stated that he sees stronger long-term potential in SpaceX than in Tesla due to challenges with Tesla's autonomous driving technology and its focus on Robotaxi. JPMorgan also suggests a merger is strategically coherent and more financially practical now due to SpaceX's higher valuation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-07T16:44:37",
-      "first_seen_at": "2026-09-07T20:00:02.529812",
-      "assets": [
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.14201,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94552
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.832042
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.744933
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.645076
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1014,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-plus-spacex-could-become-170020766.html",
-          "published_at": "2026-09-07T16:44:37"
-        }
-      ]
-    },
-    {
-      "event_id": 891,
-      "title": "High Gas Prices Aren't Budging—Here Are 3 Stocks That Benefit",
-      "summary": "Despite high gas prices, the article identifies opportunities in the energy sector beyond just oil producers, focusing on refiners, fuel distributors, and convenience store companies. It highlights Phillips 66 (PSX), HF Sinclair (DINO), and CrossAmerica Partners (CAPL) as stocks poised to profit from elevated margins and strong fuel demand. Each company offers a distinct way to benefit, from diversified refining operations to retail-focused fuel distribution, providing investment options for various risk appetites.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-09-07T16:13:49",
-      "first_seen_at": "2026-09-07T18:00:02.192950",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.411436,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945419
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.847602
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.74288
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.634296
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1003,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "High Gas Prices Aren't Budging—Here Are 3 Stocks That Benefit",
-          "url": "https://www.marketbeat.com/articles/high-gas-prices-arent-budginghere-are-3-stocks-that-benefit/",
-          "published_at": "2026-09-07T16:13:49"
-        }
-      ]
-    },
-    {
-      "event_id": 912,
-      "title": "EVI Industries Completes Acquisition of Sudsies, Inc.",
-      "summary": "EVI Industries has completed its acquisition of Sudsies, Inc., a Miami-based garment care business, establishing its new consumer garment care services division. This acquisition marks EVI's first expansion beyond commercial laundry since 2016, aiming to build a national-scale consumer garment care enterprise while preserving Sudsies' brand and leadership. EVI has grown significantly since 2016, acquiring 32 commercial laundry businesses and increasing its annual revenue to nearly $435 million.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-07T15:21:33",
-      "first_seen_at": "2026-09-07T21:00:03.937944",
-      "assets": [
-        {
-          "symbol": "EVI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.442036,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.920627
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.74937
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1024,
-          "provider": "ALPHA_VANTAGE",
-          "source": "American Drycleaner",
-          "source_domain": "American Drycleaner",
-          "headline": "EVI Industries Completes Acquisition of Sudsies, Inc.",
-          "url": "https://americandrycleaner.com/articles/evi-industries-completes-acquisition-sudsies-inc",
-          "published_at": "2026-09-07T15:21:33"
-        }
-      ]
-    },
-    {
-      "event_id": 885,
-      "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
-      "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-07T14:53:48",
-      "first_seen_at": "2026-09-07T17:00:02.402883",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.283492,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946488
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945848
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847867
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.647819
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.643789
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 997,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
-          "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
-          "published_at": "2026-09-07T14:53:48"
-        }
-      ]
-    },
-    {
-      "event_id": 886,
-      "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
-      "summary": "In 2026, SolarEdge Technologies outperformed its peers, surging 19%, while Enphase Energy rose 13%, and First Solar, despite being the most profitable, dropped 22%. This divergence was driven by policy changes like the expiration of the Section 25D residential clean energy credit, which negatively impacted residential demand and affected Enphase and SolarEdge. SolarEdge's recovery from depressed levels and its commercial/industrial market share contributed to its success, whereas First Solar faced challenges from securities litigation and policy uncertainties.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-09-07T14:48:20",
-      "first_seen_at": "2026-09-07T17:00:02.688168",
-      "assets": [
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 0.996645,
-          "sentiment_score": -0.418679,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ENPH",
-          "asset_class": null,
-          "relevance_score": 0.8618,
-          "sentiment_score": 0.286661,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945324
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94203
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.82893
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.745524
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 998,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
-          "url": "https://247wallst.com/investing/2026/09/07/which-solar-stock-has-dominated-in-2026-solaredge-enphase-energy-or-first-solar/",
-          "published_at": "2026-09-07T14:48:20"
         }
       ]
     }
