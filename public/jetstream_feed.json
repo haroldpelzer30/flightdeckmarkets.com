@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 934,
+      "title": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
+      "summary": "PG&E (PCG) and Edison (EIX) shares plunged after California lawmakers introduced a bill updating wildfire response that failed to shift liability away from publicly traded utilities, omitting Governor Gavin Newsom's proposal to prevent insurers from suing utilities. This omission led to analyst downgrades and PG&E announcing a strategic review and a $2 billion cut to its 2027 capital investment plan. While future legislative reforms could offer a rebound, unresolved wildfire liabilities are expected to remain a significant challenge for both companies.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-07T22:19:44",
+      "first_seen_at": "2026-09-08T00:00:01.947858",
+      "assets": [
+        {
+          "symbol": "EIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.701759,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PCG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.745074,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.609961,
+          "sentiment_score": 0.123457,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942179
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.815804
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.726904
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1046,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-pcg-edison-eix-221941185.html",
+          "published_at": "2026-09-07T22:19:44"
+        }
+      ]
+    },
+    {
+      "event_id": 935,
+      "title": "How Is Bank of Montreal (TSX:BMO) Navigating Market Changes?",
+      "summary": "Bank of Montreal (TSX:BMO) is navigating market changes by leveraging its strong commercial and corporate banking operations. The bank benefits from commercial lending, which expands with business growth and rising interest rates, and its investment banking and capital markets services provide diverse revenue streams. BMO's diversified revenue and prudent risk management are key to its resilience in the evolving Canadian financial landscape.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-07T21:57:01",
+      "first_seen_at": "2026-09-08T00:00:02.217441",
+      "assets": [
+        {
+          "symbol": "TPEI",
+          "asset_class": null,
+          "relevance_score": 0.313742,
+          "sentiment_score": 0.011909,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941629
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.806666
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.711624
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1047,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "How Is Bank of Montreal (TSX:BMO) Navigating Market Changes?",
+          "url": "https://kalkinemedia.com/ca/stocks/financial/how-is-bank-of-montreal-tsxbmo-navigating-market-changes",
+          "published_at": "2026-09-07T21:57:01"
+        }
+      ]
+    },
+    {
+      "event_id": 936,
+      "title": "Ulta Beauty (NASDAQ:ULTA): Can Beauty Demand Defy Inflation?",
+      "summary": "Ulta Beauty (NASDAQ:ULTA) faces a market where consumer demand for beauty products and services will be tested against rising inflation and changing interest rates. As U.S. equity markets were closed for Labor Day, the company's next active trading session will highlight execution, demand quality, and balance-sheet flexibility. The article emphasizes that Ulta's operating model, which combines cosmetics, skincare, hair care, fragrance, and salon services, must support consistent customer activity despite uneven broader sector conditions and increased consumer selectivity.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 61,
+      "published_at": "2026-09-07T21:47:00",
+      "first_seen_at": "2026-09-08T00:00:02.471576",
+      "assets": [
+        {
+          "symbol": "ULTA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.118299,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.90152
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.830449
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.704876
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.637369
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1048,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Ulta Beauty (NASDAQ:ULTA): Can Beauty Demand Defy Inflation?",
+          "url": "https://kalkinemedia.com/us/stocks/retail/ulta-beauty-nasdaqulta-can-beauty-demand-defy-inflation",
+          "published_at": "2026-09-07T21:47:00"
+        }
+      ]
+    },
+    {
       "event_id": 924,
       "title": "Illinois Tool Works (NYSE:ITW): Is the Next Move About Demand?",
       "summary": "With U.S. equity markets closed for Labor Day, attention for Illinois Tool Works (NYSE:ITW) shifts to order activity, factory demand, automation, and infrastructure spending ahead of upcoming inflation data. The company's performance is closely tied to its specialized industrial products and equipment across manufacturing and service end markets. The article emphasizes that business fundamentals, operating quality, and balance sheet flexibility will be key drivers, especially as the macroeconomic environment with rates and inflation continues to evolve.",
@@ -20,27 +185,27 @@
           "symbol": "ITW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.094871,
+          "sentiment_score": 0.062938,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.933707
+        },
+        {
           "topic": "manufacturing",
           "relevance_score": 0.912644
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.911907
+          "topic": "economy_macro",
+          "relevance_score": 0.83874
         },
         {
           "topic": "economy_monetary",
           "relevance_score": 0.834859
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825902
         }
       ],
       "articles": [
@@ -71,7 +236,7 @@
           "symbol": "TMO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.146194,
+          "sentiment_score": 0.130998,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -91,7 +256,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.742764
+          "relevance_score": 0.742906
         },
         {
           "topic": "economy_monetary",
@@ -126,7 +291,7 @@
           "symbol": "ADM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.216236,
+          "sentiment_score": 0.229065,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -134,7 +299,7 @@
           "symbol": "TRGP",
           "asset_class": null,
           "relevance_score": 0.647262,
-          "sentiment_score": 0.12702,
+          "sentiment_score": 0.108267,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -142,7 +307,7 @@
           "symbol": "BKR",
           "asset_class": null,
           "relevance_score": 0.641498,
-          "sentiment_score": 0.100046,
+          "sentiment_score": 0.138093,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -150,15 +315,15 @@
           "symbol": "BK",
           "asset_class": null,
           "relevance_score": 0.636479,
-          "sentiment_score": -0.101306,
+          "sentiment_score": -0.131833,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "USB",
           "asset_class": null,
-          "relevance_score": 0.608261,
-          "sentiment_score": -0.144592,
+          "relevance_score": 0.628036,
+          "sentiment_score": -0.133167,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -166,7 +331,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.922698
+          "relevance_score": 0.943418
         },
         {
           "topic": "economy_macro",
@@ -209,7 +374,7 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.125432,
+          "sentiment_score": 0.129827,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -217,7 +382,7 @@
           "symbol": "USB",
           "asset_class": null,
           "relevance_score": 0.643162,
-          "sentiment_score": -0.109639,
+          "sentiment_score": -0.124878,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -225,7 +390,7 @@
           "symbol": "BK",
           "asset_class": null,
           "relevance_score": 0.630834,
-          "sentiment_score": -0.142018,
+          "sentiment_score": -0.13233,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -233,7 +398,7 @@
       "topics": [
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.919074
+          "relevance_score": 0.93831
         },
         {
           "topic": "financial_markets",
@@ -241,7 +406,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.730185
+          "relevance_score": 0.731444
         }
       ],
       "articles": [
@@ -272,7 +437,7 @@
           "symbol": "LYV",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.096642,
+          "sentiment_score": 0.063116,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -280,7 +445,7 @@
           "symbol": "CMCSA",
           "asset_class": null,
           "relevance_score": 0.587645,
-          "sentiment_score": -0.07134,
+          "sentiment_score": -0.054579,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -327,7 +492,7 @@
           "symbol": "IMCC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.02054,
+          "sentiment_score": 0.036934,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -335,7 +500,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.931179
+          "relevance_score": 0.949768
         },
         {
           "topic": "economy_monetary",
@@ -343,7 +508,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.716399
+          "relevance_score": 0.745545
         },
         {
           "topic": "finance",
@@ -351,7 +516,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.603108
+          "relevance_score": 0.622216
         }
       ],
       "articles": [
@@ -382,7 +547,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 0.340783,
-          "sentiment_score": 0.017964,
+          "sentiment_score": 0.049875,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -390,7 +555,7 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.919826
+          "relevance_score": 0.937492
         },
         {
           "topic": "financial_markets",
@@ -398,7 +563,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.704871
+          "relevance_score": 0.732252
         }
       ],
       "articles": [
@@ -429,39 +594,39 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.458002,
+          "sentiment_score": 0.454559,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
-          "relevance_score": 0.566584,
-          "sentiment_score": 0.130405,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.562318,
-          "sentiment_score": 0.14572,
+          "relevance_score": 0.585618,
+          "sentiment_score": 0.129112,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.561821,
-          "sentiment_score": 0.126483,
+          "relevance_score": 0.582725,
+          "sentiment_score": 0.126359,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
-          "relevance_score": 0.554235,
-          "sentiment_score": 0.115881,
+          "relevance_score": 0.574837,
+          "sentiment_score": 0.102338,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.564369,
+          "sentiment_score": 0.13947,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -473,11 +638,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.931943
+          "relevance_score": 0.949728
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.737302
+          "relevance_score": 0.740841
         },
         {
           "topic": "manufacturing",
@@ -516,7 +681,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.142292,
+          "sentiment_score": 0.14201,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -532,7 +697,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.827539
+          "relevance_score": 0.832042
         },
         {
           "topic": "energy_transportation",
@@ -1040,244 +1205,6 @@
           "headline": "VinFast's Latest EV Signals the Return of the Microcar",
           "url": "https://investingnews.com/vinfast-s-latest-ev-signals-the-return-of-the-microcar/",
           "published_at": "2026-09-07T11:27:20"
-        }
-      ]
-    },
-    {
-      "event_id": 872,
-      "title": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
-      "summary": "APA Corporation (NASDAQ:APA) is under observation as Nasdaq trading resumes after the Labor Day holiday, primarily due to renewed tensions in the Strait of Hormuz which have kept crude oil markets elevated. The article highlights APA's focus on oil and natural-gas exploration and production, noting that its performance will be influenced by confirmed company and sector facts rather than speculative holiday-period price movements, with fresh inflation data expected this week. The company's positioning, competitive landscape, and balance-sheet flexibility will be key factors determining its performance upon market reopening.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 73,
-      "published_at": "2026-09-07T11:05:51",
-      "first_seen_at": "2026-09-07T13:00:03.007236",
-      "assets": [
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.124916,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.74025,
-          "sentiment_score": 0.121171,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 0.64883,
-          "sentiment_score": 0.106878,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.645127,
-          "sentiment_score": 0.1154,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.633987,
-          "sentiment_score": 0.146225,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94193
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935659
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.826206
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.747925
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.64403
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 983,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Is APA (NASDAQ:APA) Watched as Nasdaq Trading Resumes?",
-          "url": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-apa-nasdaqapa-watched-as-nasdaq-trading-resumes",
-          "published_at": "2026-09-07T11:05:51"
-        }
-      ]
-    },
-    {
-      "event_id": 873,
-      "title": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
-      "summary": "With 10-year Treasury notes yielding around 4.8%, this article highlights three high-yielding dividend stocks that offer superior returns for income-oriented investors, especially in the context of inflation. The stocks discussed are AGNC Investment (13.5% yield), Energy Transfer (6.3% yield), and Verizon Communications (5.6% yield), each offering specific reasons for their investment appeal beyond their high payouts. These companies are presented as strong options for investors seeking to outpace Treasury yields and inflation.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-07T10:43:00",
-      "first_seen_at": "2026-09-07T13:00:03.321516",
-      "assets": [
-        {
-          "symbol": "VZ",
-          "asset_class": null,
-          "relevance_score": 0.841023,
-          "sentiment_score": 0.430601,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.635744,
-          "sentiment_score": 0.312717,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AGNCZ",
-          "asset_class": null,
-          "relevance_score": 0.330207,
-          "sentiment_score": 0.030078,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948287
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.845091
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.747239
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.735158
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.64881
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 984,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Currently.com",
-          "source_domain": "Currently.com",
-          "headline": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
-          "url": "https://currently.att.yahoo.com/att/10-treasuries-yield-4-8-104300905.html",
-          "published_at": "2026-09-07T10:43:00"
-        }
-      ]
-    },
-    {
-      "event_id": 874,
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 880,569 Bank of America Corporation $BAC",
-      "summary": "The Virginia Retirement Systems purchased 880,569 shares of Bank of America (NYSE:BAC) valued at approximately $50.175 million during the second quarter. This move comes as institutional investors collectively own 70.71% of BAC, and Bank of America reported strong quarterly earnings, surpassing analyst expectations with $1.21 EPS and $31.56 billion in revenue. The bank also increased its quarterly dividend from $0.28 to $0.32 per share, reflecting an annualized yield of 2.0%.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-07T10:17:39",
-      "first_seen_at": "2026-09-07T13:00:03.593155",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.485066,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.601254,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.63825,
-          "sentiment_score": 0.243712,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944485
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.931318
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.61265
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.605429
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 986,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 880,569 Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-shares-of-880569-bank-of-america-corporation-bac-2026-09-07/",
-          "published_at": "2026-09-07T10:17:39"
-        },
-        {
-          "article_id": 985,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys Shares of 141,280 General Dynamics Corporation $GD",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-shares-of-141280-general-dynamics-corporation-gd-2026-09-07/",
-          "published_at": "2026-09-07T10:22:47"
         }
       ]
     }
