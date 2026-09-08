@@ -20,7 +20,7 @@
           "symbol": "ILMN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.4025,
+          "sentiment_score": 0.421821,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,7 +32,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.818909
+          "relevance_score": 0.848119
         },
         {
           "topic": "life_sciences",
@@ -67,7 +67,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.834376,
+          "sentiment_score": 0.826645,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +83,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.814891
+          "relevance_score": 0.828887
         }
       ],
       "articles": [
@@ -114,7 +114,7 @@
           "symbol": "ESS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.41172,
+          "sentiment_score": 0.4003,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -126,7 +126,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.902641
+          "relevance_score": 0.918269
         },
         {
           "topic": "financial_markets",
