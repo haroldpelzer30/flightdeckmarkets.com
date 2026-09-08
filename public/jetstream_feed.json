@@ -20,7 +20,7 @@
           "symbol": "NUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.327021,
+          "sentiment_score": 0.330487,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "STLD",
           "asset_class": null,
           "relevance_score": 0.72667,
-          "sentiment_score": 0.291102,
+          "sentiment_score": 0.280527,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.586298,
-          "sentiment_score": -0.139532,
+          "sentiment_score": -0.10719,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,8 +44,8 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 0.544527,
-          "sentiment_score": -0.150183,
-          "sentiment_label": "Somewhat-Bearish",
+          "sentiment_score": -0.143782,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
@@ -98,8 +98,8 @@
         {
           "symbol": "BAC",
           "asset_class": null,
-          "relevance_score": 0.958205,
-          "sentiment_score": 0.084974,
+          "relevance_score": 0.958232,
+          "sentiment_score": 0.080644,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -111,7 +111,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.822858
+          "relevance_score": 0.836284
         },
         {
           "topic": "economy_monetary",
@@ -119,7 +119,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.705987
+          "relevance_score": 0.707233
         },
         {
           "topic": "blockchain",
