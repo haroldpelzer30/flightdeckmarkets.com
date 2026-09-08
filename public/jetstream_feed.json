@@ -20,7 +20,7 @@
           "symbol": "NUE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.340618,
+          "sentiment_score": 0.327021,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "STLD",
           "asset_class": null,
           "relevance_score": 0.72667,
-          "sentiment_score": 0.25685,
+          "sentiment_score": 0.291102,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +36,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.586298,
-          "sentiment_score": -0.109484,
+          "sentiment_score": -0.139532,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,8 +44,8 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 0.544527,
-          "sentiment_score": -0.147612,
-          "sentiment_label": "Neutral",
+          "sentiment_score": -0.150183,
+          "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
       ],
@@ -60,7 +60,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.734945
+          "relevance_score": 0.748721
         },
         {
           "topic": "real_estate",
@@ -68,7 +68,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.622959
+          "relevance_score": 0.635135
         }
       ],
       "articles": [
@@ -80,6 +80,61 @@
           "headline": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
           "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/why-is-nucor-nysenue-swinging-on-tariff-headlines",
           "published_at": "2026-09-08T19:43:43"
+        }
+      ]
+    },
+    {
+      "event_id": 978,
+      "title": "Bank of America (NYSE:BAC): Can Deposit Strength Beat Rate Pressure?",
+      "summary": "Bank of America (NYSE:BAC) shares eased after a stronger-than-expected jobs report lifted Federal Reserve rate-hike expectations, pressuring the broader financial sector. The bank's deposit strength and net interest revenue are being evaluated against rising expenses as it approaches its next quarterly results. Additionally, Bank of America is participating in a joint venture with other global banks to issue a dollar-linked digital settlement instrument, broadening its digital asset involvement.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-08T19:18:14",
+      "first_seen_at": "2026-09-08T22:00:02.321862",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.958205,
+          "sentiment_score": 0.084974,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.934501
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.822858
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.817272
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.705987
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": 0.639609
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1090,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Bank of America (NYSE:BAC): Can Deposit Strength Beat Rate Pressure?",
+          "url": "https://kalkinemedia.com/us/stocks/financial/bank-of-america-nysebac-can-deposit-strength-beat-rate-pressure",
+          "published_at": "2026-09-08T19:18:14"
         }
       ]
     },
@@ -99,7 +154,7 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.425077,
+          "sentiment_score": 0.425464,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -111,7 +166,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.922808
+          "relevance_score": 0.939007
         },
         {
           "topic": "financial_markets",
@@ -1098,57 +1153,6 @@
           "headline": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-pcg-edison-eix-221941185.html",
           "published_at": "2026-09-07T22:19:44"
-        }
-      ]
-    },
-    {
-      "event_id": 935,
-      "title": "How Is Bank of Montreal (TSX:BMO) Navigating Market Changes?",
-      "summary": "Bank of Montreal (TSX:BMO) is navigating market changes by leveraging its strong commercial and corporate banking operations. The bank benefits from commercial lending, which expands with business growth and rising interest rates, and its investment banking and capital markets services provide diverse revenue streams. BMO's diversified revenue and prudent risk management are key to its resilience in the evolving Canadian financial landscape.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-07T21:57:01",
-      "first_seen_at": "2026-09-08T00:00:02.217441",
-      "assets": [
-        {
-          "symbol": "TPEI",
-          "asset_class": null,
-          "relevance_score": 0.313742,
-          "sentiment_score": 0.011909,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941629
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.806666
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.711624
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1047,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "How Is Bank of Montreal (TSX:BMO) Navigating Market Changes?",
-          "url": "https://kalkinemedia.com/ca/stocks/financial/how-is-bank-of-montreal-tsxbmo-navigating-market-changes",
-          "published_at": "2026-09-07T21:57:01"
         }
       ]
     }
