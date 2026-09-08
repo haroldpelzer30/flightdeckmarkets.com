@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 975,
+      "title": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
+      "summary": "Nucor (NYSE:NUE) shares recently experienced volatility due to headlines surrounding potential tariff changes on Canadian steel and aluminum, ultimately rebounding when trade talks between Washington and Ottawa stalled. The domestic steelmaker's stock is highly sensitive to tariff negotiations, which influence pricing power by limiting foreign competition. Nucor's electric-arc-furnace model, widespread mill network, and diversified product lines position it to manage demand swings and capitalize on growing steel demand from construction, energy infrastructure, and reshoring manufacturing trends.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-08T19:43:43",
+      "first_seen_at": "2026-09-08T21:00:02.108241",
+      "assets": [
+        {
+          "symbol": "NUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.340618,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STLD",
+          "asset_class": null,
+          "relevance_score": 0.72667,
+          "sentiment_score": 0.25685,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.586298,
+          "sentiment_score": -0.109484,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.544527,
+          "sentiment_score": -0.147612,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93275
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.846355
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.734945
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.645652
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.622959
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1087,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/why-is-nucor-nysenue-swinging-on-tariff-headlines",
+          "published_at": "2026-09-08T19:43:43"
+        }
+      ]
+    },
+    {
       "event_id": 974,
       "title": "Sempra stock gains attention as NYSE bell rings and capital plan grows",
       "summary": "Sempra stock is drawing investor attention due to its USD 65 billion capital plan and a recent NYSE opening-bell event, alongside steady quarterly figures. The company's defensive profile and consistent, albeit modest, growth in revenue and net income support its valuation. Investors are evaluating the balance between its significant investment in infrastructure and the associated debt levels.",
@@ -20,7 +99,7 @@
           "symbol": "SRE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416677,
+          "sentiment_score": 0.425077,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,7 +111,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.920844
+          "relevance_score": 0.922808
         },
         {
           "topic": "financial_markets",
@@ -40,7 +119,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.707942
+          "relevance_score": 0.741761
         }
       ],
       "articles": [
@@ -1070,57 +1149,6 @@
           "headline": "How Is Bank of Montreal (TSX:BMO) Navigating Market Changes?",
           "url": "https://kalkinemedia.com/ca/stocks/financial/how-is-bank-of-montreal-tsxbmo-navigating-market-changes",
           "published_at": "2026-09-07T21:57:01"
-        }
-      ]
-    },
-    {
-      "event_id": 936,
-      "title": "Ulta Beauty (NASDAQ:ULTA): Can Beauty Demand Defy Inflation?",
-      "summary": "Ulta Beauty (NASDAQ:ULTA) faces a market where consumer demand for beauty products and services will be tested against rising inflation and changing interest rates. As U.S. equity markets were closed for Labor Day, the company's next active trading session will highlight execution, demand quality, and balance-sheet flexibility. The article emphasizes that Ulta's operating model, which combines cosmetics, skincare, hair care, fragrance, and salon services, must support consistent customer activity despite uneven broader sector conditions and increased consumer selectivity.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 61,
-      "published_at": "2026-09-07T21:47:00",
-      "first_seen_at": "2026-09-08T00:00:02.471576",
-      "assets": [
-        {
-          "symbol": "ULTA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.118299,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.90152
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.830449
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.704876
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.637369
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1048,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Ulta Beauty (NASDAQ:ULTA): Can Beauty Demand Defy Inflation?",
-          "url": "https://kalkinemedia.com/us/stocks/retail/ulta-beauty-nasdaqulta-can-beauty-demand-defy-inflation",
-          "published_at": "2026-09-07T21:47:00"
         }
       ]
     }
