@@ -5,6 +5,194 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 946,
+      "title": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
+      "summary": "Bloom Energy, Everpure, and Illumina are slated to be added to the S&P 500 index during its September rebalance. The article, published by MT Newswires, indicates this significant change for the companies involved. Full details are reserved for members of the platform.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-08T10:27:04",
+      "first_seen_at": "2026-09-08T12:00:02.250460",
+      "assets": [
+        {
+          "symbol": "ILMN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.4025,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.818909
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.736516
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1058,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
+          "url": "https://www.marketscreener.com/news/bloom-energy-everpure-illumina-to-join-s-p-500-in-september-rebalance-ce785bd8dd89f221",
+          "published_at": "2026-09-08T10:27:04"
+        }
+      ]
+    },
+    {
+      "event_id": 947,
+      "title": "Bull of the Day: Marathon Petroleum (MPC)",
+      "summary": "Marathon Petroleum (MPC) has been identified as a \"Strong Buy\" due to an anticipated 341% year-over-year earnings growth, driven by record-high crack spreads in the refining industry. The company reported strong Q2 2026 results, beating analyst expectations, and is returning significant cash to shareholders through repurchases and dividends. Despite a 125% increase in share price year-to-date, MPC remains undervalued with a low P/E ratio and strong Zacks Style Scores for Value, Momentum, and Growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-08T10:14:03",
+      "first_seen_at": "2026-09-08T12:00:02.516680",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.834376,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.93212
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.919783
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.814891
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1059,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "Bull of the Day: Marathon Petroleum (MPC)",
+          "url": "https://sg.finance.yahoo.com/news/bull-day-marathon-petroleum-mpc-101400320.html",
+          "published_at": "2026-09-08T10:14:03"
+        }
+      ]
+    },
+    {
+      "event_id": 948,
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Essex Property Trust, Inc. $ESS",
+      "summary": "Virginia Retirement Systems acquired 107,012 shares of Essex Property Trust, Inc. (ESS) worth approximately $31.2 million in the second quarter, increasing institutional ownership to 96.51%. Essex Property Trust reported strong quarterly earnings, beating analyst estimates, and provided positive guidance for the third quarter and full year 2026. The company also declared a quarterly dividend of $2.59 per share, representing a 3.7% yield, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $304.79.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-08T09:46:07",
+      "first_seen_at": "2026-09-08T12:00:02.801482",
+      "assets": [
+        {
+          "symbol": "ESS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.41172,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.902641
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.82635
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1060,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Essex Property Trust, Inc. $ESS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-new-shares-in-essex-property-trust-inc-ess-2026-09-08/",
+          "published_at": "2026-09-08T09:46:07"
+        }
+      ]
+    },
+    {
+      "event_id": 949,
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI",
+      "summary": "Virginia Retirement Systems acquired 40,660 shares of Analog Devices (NASDAQ:ADI) worth approximately $16.1 million in Q2, contributing to institutional investors owning 86.81% of the company. Analog Devices reported strong Q2 earnings, beating estimates with $3.45 EPS and a 39.2% year-over-year revenue increase to $4.02 billion. Analysts maintain a \"Buy\" rating with an average price target of $454.63, significantly above the current share price of $362.25.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-08T09:30:10",
+      "first_seen_at": "2026-09-08T12:00:03.050554",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.500247,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917254
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.815121
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1061,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-new-shares-in-analog-devices-inc-adi-2026-09-08/",
+          "published_at": "2026-09-08T09:30:10"
+        }
+      ]
+    },
+    {
       "event_id": 934,
       "title": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
       "summary": "PG&E (PCG) and Edison (EIX) shares plunged after California lawmakers introduced a bill updating wildfire response that failed to shift liability away from publicly traded utilities, omitting Governor Gavin Newsom's proposal to prevent insurers from suing utilities. This omission led to analyst downgrades and PG&E announcing a strategic review and a $2 billion cut to its 2027 capital investment plan. While future legislative reforms could offer a rebound, unresolved wildfire liabilities are expected to remain a significant challenge for both companies.",
@@ -929,282 +1117,6 @@
           "headline": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
           "url": "https://247wallst.com/investing/2026/09/07/which-solar-stock-has-dominated-in-2026-solaredge-enphase-energy-or-first-solar/",
           "published_at": "2026-09-07T14:48:20"
-        }
-      ]
-    },
-    {
-      "event_id": 877,
-      "title": "What Does Friday’s Close Mean for Consolidated Edison (NYSE:ED)?",
-      "summary": "This article examines the implications of Consolidated Edison's (NYSE:ED) Friday close, considering the market holiday for Labor Day. It focuses on the utility stock sector's sensitivity to interest rates and rising power demand, emphasizing that Consolidated Edison's performance is tied to its regulated electric and gas networks in New York. The piece highlights the importance of company-specific factors like demand durability and balance sheet flexibility over broader market movements once trading resumes.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-07T12:47:13",
-      "first_seen_at": "2026-09-07T15:00:01.778694",
-      "assets": [
-        {
-          "symbol": "ED",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.117982,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SRE",
-          "asset_class": null,
-          "relevance_score": 0.646126,
-          "sentiment_score": 0.117728,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WEC",
-          "asset_class": null,
-          "relevance_score": 0.645722,
-          "sentiment_score": 0.147292,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 0.637362,
-          "sentiment_score": 0.146785,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 0.63184,
-          "sentiment_score": 0.104923,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940478
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.830052
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.731828
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.641262
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 989,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What Does Friday’s Close Mean for Consolidated Edison (NYSE:ED)?",
-          "url": "https://kalkinemedia.com/us/stocks/utility/what-does-fridays-close-mean-for-consolidated-edison-nyseed",
-          "published_at": "2026-09-07T12:47:13"
-        }
-      ]
-    },
-    {
-      "event_id": 888,
-      "title": "Solar Stocks Are Splitting Into Two Different Trades",
-      "summary": "The solar energy sector is currently experiencing a divergence, with cap-weighted indices showing gains while the average stock in the group is declining. This split indicates a market preference for companies involved in grid expansion and regulated utility cash flows (e.g., GE Vernova, NextEra Energy, AES Corp) over pure-play solar panel and hardware manufacturers (e.g., First Solar, NextPower Inc). The article highlights that strong fundamentals and profitability in hardware companies are not protecting them from de-rating, making solar a relative-value discussion rather than a uniform directional trade.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-07T12:10:01",
-      "first_seen_at": "2026-09-07T17:00:03.340159",
-      "assets": [
-        {
-          "symbol": "GEV",
-          "asset_class": null,
-          "relevance_score": 0.941424,
-          "sentiment_score": 0.402935,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AES",
-          "asset_class": null,
-          "relevance_score": 0.89193,
-          "sentiment_score": 0.291146,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.841062,
-          "sentiment_score": 0.242534,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 0.79383,
-          "sentiment_score": -0.277502,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948201
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84213
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1000,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ChartMill",
-          "source_domain": "ChartMill",
-          "headline": "Solar Stocks Are Splitting Into Two Different Trades",
-          "url": "https://www.chartmill.com/news/NXT/Chartmill-54476-Solar-Stocks-Are-Splitting-Into-Two-Different-Trades",
-          "published_at": "2026-09-07T12:10:01"
-        }
-      ]
-    },
-    {
-      "event_id": 878,
-      "title": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
-      "summary": "South Korean chipmakers Samsung Electronics and SK hynix saw their stocks surge following OpenAI's launch of its new AI model, Astra, and its declaration of the AGI era, fueling investor optimism for high-capacity memory demand. Additionally, LG Electronics shares rose significantly due to expectations of securing orders for robot actuators from global Big Tech companies. The rally extended to semiconductor materials, components, and equipment stocks, driven by the anticipated increased demand for high-performance AI models.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-07T11:56:51",
-      "first_seen_at": "2026-09-07T15:00:02.122795",
-      "assets": [
-        {
-          "symbol": "SKHY",
-          "asset_class": null,
-          "relevance_score": 0.9816,
-          "sentiment_score": 0.728955,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.833962,
-          "sentiment_score": 0.739642,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STX",
-          "asset_class": null,
-          "relevance_score": 0.789901,
-          "sentiment_score": 0.700704,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WDC",
-          "asset_class": null,
-          "relevance_score": 0.787286,
-          "sentiment_score": 0.708513,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMAT",
-          "asset_class": null,
-          "relevance_score": 0.69546,
-          "sentiment_score": 0.323629,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948951
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.920322
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.643885
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 990,
-          "provider": "ALPHA_VANTAGE",
-          "source": "매일경제",
-          "source_domain": "매일경제",
-          "headline": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
-          "url": "https://pulse.mk.co.kr/news/english/12145890",
-          "published_at": "2026-09-07T11:56:51"
-        }
-      ]
-    },
-    {
-      "event_id": 883,
-      "title": "VinFast's Latest EV Signals the Return of the Microcar",
-      "summary": "The article discusses the resurgence of microcars, exemplified by VinFast's new VF 2 electric vehicle. It highlights how electric powertrains and rising car costs are making smaller, more efficient urban vehicles attractive again globally. The VF 2 is presented as an affordable and practical solution for city commuting, reflecting a broader shift in personal vehicle needs.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-07T11:27:20",
-      "first_seen_at": "2026-09-07T16:00:03.235778",
-      "assets": [
-        {
-          "symbol": "VFS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.335313,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.933835
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.821526
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.734443
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 995,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing News Network",
-          "source_domain": "Investing News Network",
-          "headline": "VinFast's Latest EV Signals the Return of the Microcar",
-          "url": "https://investingnews.com/vinfast-s-latest-ev-signals-the-return-of-the-microcar/",
-          "published_at": "2026-09-07T11:27:20"
         }
       ]
     }
