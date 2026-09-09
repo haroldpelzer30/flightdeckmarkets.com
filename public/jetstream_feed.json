@@ -5,6 +5,144 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 982,
+      "title": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
+      "summary": "ServiceNow has acquired Sweep, an Israel-based software company specializing in agentic AI capabilities for enterprise systems. This acquisition is aimed at bolstering ServiceNow's burgeoning CRM push against Salesforce, by enhancing its ability to build AI agents and accelerate enterprise application deployments. The move underscores ServiceNow's strategy to expand its AI-based NOW platform into the CRM market, where it has seen significant growth in its CRM business.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-08T21:50:56",
+      "first_seen_at": "2026-09-09T00:00:02.074882",
+      "assets": [
+        {
+          "symbol": "NOW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.477033,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.876377,
+          "sentiment_score": -0.214446,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.590032,
+          "sentiment_score": 0.090916,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.946828
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.805067
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1094,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CRN",
+          "source_domain": "CRN",
+          "headline": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
+          "url": "https://www.crn.com/news/ai/2026/servicenow-sharpens-its-salesforce-attack-with-sweep-acquisition",
+          "published_at": "2026-09-08T21:50:56"
+        }
+      ]
+    },
+    {
+      "event_id": 983,
+      "title": "The Fed will stay on hold through end of year, says Morgan Stanley's Dan Skelly",
+      "summary": "Dan Skelly, a portfolio manager at Morgan Stanley, believes that the Federal Reserve will maintain its current policy stance for the remainder of the year. He discussed this outlook on \"Fast Money,\" addressing the impact of rising energy prices on inflation and the overall health of the U.S. economy. Skelly also shared his insights on the future direction of the markets.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 75,
+      "published_at": "2026-09-08T21:47:13",
+      "first_seen_at": "2026-09-09T00:00:02.348381",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.147142,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VZ",
+          "asset_class": null,
+          "relevance_score": 0.647922,
+          "sentiment_score": 0.143087,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.63768,
+          "sentiment_score": 0.137146,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.617526,
+          "sentiment_score": 0.145455,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GLW",
+          "asset_class": null,
+          "relevance_score": 0.608742,
+          "sentiment_score": 0.12861,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.913872
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.848983
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.748537
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1095,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "The Fed will stay on hold through end of year, says Morgan Stanley's Dan Skelly",
+          "url": "https://www.cnbc.com/video/2026/09/08/the-fed-will-stay-on-hold-through-end-of-year-says-morgan-stanleys-dan-skelly.html",
+          "published_at": "2026-09-08T21:47:13"
+        }
+      ]
+    },
+    {
       "event_id": 975,
       "title": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
       "summary": "Nucor (NYSE:NUE) shares recently experienced volatility due to headlines surrounding potential tariff changes on Canadian steel and aluminum, ultimately rebounding when trade talks between Washington and Ottawa stalled. The domestic steelmaker's stock is highly sensitive to tariff negotiations, which influence pricing power by limiting foreign competition. Nucor's electric-arc-furnace model, widespread mill network, and diversified product lines position it to manage demand swings and capitalize on growing steel demand from construction, energy infrastructure, and reshoring manufacturing trends.",
@@ -1043,116 +1181,6 @@
           "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Essex Property Trust, Inc. $ESS",
           "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-new-shares-in-essex-property-trust-inc-ess-2026-09-08/",
           "published_at": "2026-09-08T09:46:07"
-        }
-      ]
-    },
-    {
-      "event_id": 949,
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI",
-      "summary": "Virginia Retirement Systems acquired 40,660 shares of Analog Devices (NASDAQ:ADI) worth approximately $16.1 million in Q2, contributing to institutional investors owning 86.81% of the company. Analog Devices reported strong Q2 earnings, beating estimates with $3.45 EPS and a 39.2% year-over-year revenue increase to $4.02 billion. Analysts maintain a \"Buy\" rating with an average price target of $454.63, significantly above the current share price of $362.25.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-08T09:30:10",
-      "first_seen_at": "2026-09-08T12:00:03.050554",
-      "assets": [
-        {
-          "symbol": "ADI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.500247,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917254
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.815121
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1061,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-new-shares-in-analog-devices-inc-adi-2026-09-08/",
-          "published_at": "2026-09-08T09:30:10"
-        }
-      ]
-    },
-    {
-      "event_id": 934,
-      "title": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
-      "summary": "PG&E (PCG) and Edison (EIX) shares plunged after California lawmakers introduced a bill updating wildfire response that failed to shift liability away from publicly traded utilities, omitting Governor Gavin Newsom's proposal to prevent insurers from suing utilities. This omission led to analyst downgrades and PG&E announcing a strategic review and a $2 billion cut to its 2027 capital investment plan. While future legislative reforms could offer a rebound, unresolved wildfire liabilities are expected to remain a significant challenge for both companies.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-07T22:19:44",
-      "first_seen_at": "2026-09-08T00:00:01.947858",
-      "assets": [
-        {
-          "symbol": "EIX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.701759,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PCG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.745074,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.609961,
-          "sentiment_score": 0.123457,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942179
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.815804
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.726904
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1046,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-pcg-edison-eix-221941185.html",
-          "published_at": "2026-09-07T22:19:44"
         }
       ]
     }
