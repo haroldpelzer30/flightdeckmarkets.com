@@ -5,6 +5,245 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 993,
+      "title": "CASCADE INVESTMENT LLC's Recent Buy: Acquires $164.70M In Republic Services Stock",
+      "summary": "CASCADE INVESTMENT LLC, a 10% owner of Republic Services (NYSE: RSG), recently purchased 735,303 shares for $164.70 million, signaling confidence in the company. Republic Services, the second-largest waste management company, reported a 4.6% revenue growth, a 42.14% gross margin, and an EPS of 1.84, though it has a higher debt-to-equity ratio and its P/S ratio indicates potential overvaluation. This insider transaction highlights a belief in the stock's future rise, despite mixed financial metrics.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-09T15:02:16",
+      "first_seen_at": "2026-09-09T16:00:03.007831",
+      "assets": [
+        {
+          "symbol": "RSG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.31857,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91437
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906552
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1106,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "CASCADE INVESTMENT LLC's Recent Buy: Acquires $164.70M In Republic Services Stock",
+          "url": "https://www.benzinga.com/news/26/09/61690534/cascade-investment-llc-s-recent-buy-acquires-164-70m-republic-services-stock",
+          "published_at": "2026-09-09T15:02:16"
+        }
+      ]
+    },
+    {
+      "event_id": 994,
+      "title": "Las Vegas Sands stock hits 52-week low at $43.35",
+      "summary": "Las Vegas Sands Corporation (LVS) stock has fallen to a 52-week low of $43.35, marking a 38% decrease from its high and a 31% year-to-date decline. Despite strong gross profit margins and a low PEG ratio suggesting undervaluation, the company recently missed second-quarter earnings expectations, leading to analyst downgrades and reduced price targets from Argus, Mizuho, and Stifel, citing economic challenges in China and a slow recovery in Singapore.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-09T14:54:54",
+      "first_seen_at": "2026-09-09T16:00:03.274374",
+      "assets": [
+        {
+          "symbol": "LVS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.448501,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944844
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926118
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.716127
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.643768
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.620609
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1107,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Las Vegas Sands stock hits 52-week low at $43.35",
+          "url": "https://www.investing.com/news/company-news/las-vegas-sands-stock-hits-52week-low-at-4335-93CH-4894042",
+          "published_at": "2026-09-09T14:54:54"
+        }
+      ]
+    },
+    {
+      "event_id": 995,
+      "title": "Valero Energy Corporation stock hits all-time high at 385.11 USD",
+      "summary": "Valero Energy Corporation's stock has hit an all-time high of $385.11, currently trading at $386.82, and showing a 141.55% increase over the past year. This significant surge follows impressive second-quarter results, with adjusted earnings and revenue surpassing Wall Street estimates, and strong performance in refining, renewable diesel, and ethanol sectors. Analyst ratings from UBS and TD Cowen reflect continued confidence, with UBS raising its price target to $450.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-09T13:59:11",
+      "first_seen_at": "2026-09-09T16:00:03.598006",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.880011,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.616488,
+          "sentiment_score": 0.335214,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949805
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.931126
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.80887
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1108,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Valero Energy Corporation stock hits all-time high at 385.11 USD",
+          "url": "https://www.investing.com/news/company-news/valero-energy-corporation-stock-hits-alltime-high-at-38511-usd-93CH-4893786",
+          "published_at": "2026-09-09T13:59:11"
+        }
+      ]
+    },
+    {
+      "event_id": 996,
+      "title": "Fifth Third-Comerica merger leaves some customers angry over glitches",
+      "summary": "The merger between Fifth Third Bancorp and Comerica Bank has resulted in significant online banking glitches and customer frustration following its technical conversion. Despite assurances of a smooth transition, many customers, including Robert Erlandson and David Boike, reported being unable to access accounts, encountering issues with bill payment data migration, and facing long wait times for support. Fifth Third acknowledged the challenges, stating it was the \"largest and most complex undertaking\" for both companies and apologized for the inconvenience, promising full engagement from their teams to assist customers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-09T13:58:53",
+      "first_seen_at": "2026-09-09T16:00:03.892964",
+      "assets": [
+        {
+          "symbol": "FITB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.330344,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.929912
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1109,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Detroit Free Press",
+          "source_domain": "Detroit Free Press",
+          "headline": "Fifth Third-Comerica merger leaves some customers angry over glitches",
+          "url": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/09/09/fifth-third-comerica-merger-account-problems/91664480007/",
+          "published_at": "2026-09-09T13:58:53"
+        }
+      ]
+    },
+    {
+      "event_id": 997,
+      "title": "Helios Technologies' Enovation Controls Acquires Radio Sound Assets",
+      "summary": "Helios Technologies' subsidiary, Enovation Controls, has acquired the assets of Radio Sound. This acquisition expands Helios Technologies' offerings, particularly in the Electronics segment, which designs and manufactures customized electronic control systems. The company's stock, HLIO, was trading at $71.53, up 0.15% at the time of the article.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-09T13:45:03",
+      "first_seen_at": "2026-09-09T16:00:04.111555",
+      "assets": [
+        {
+          "symbol": "HLIO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403385,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.919851
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.626668
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1110,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "Helios Technologies' Enovation Controls Acquires Radio Sound Assets",
+          "url": "https://www.marketscreener.com/news/helios-technologies-enovation-controls-acquires-radio-sound-assets-ce785bd9de8df72d",
+          "published_at": "2026-09-09T13:45:03"
+        }
+      ]
+    },
+    {
       "event_id": 990,
       "title": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
       "summary": "Chevron's stock has reached an all-time high of $214.85 USD, currently trading at $215.17, giving the company a market capitalization of $417 billion. The stock has seen a 35.64% increase over the past year and 41.5% year-to-date, reflecting strong financial health and investor confidence. InvestingPro analysis suggests Chevron is undervalued and highlights its consistent dividend increases for 38 consecutive years.",
@@ -20,7 +259,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.821995,
+          "sentiment_score": 0.818513,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +267,7 @@
           "symbol": "CL",
           "asset_class": null,
           "relevance_score": 0.591907,
-          "sentiment_score": 0.329816,
+          "sentiment_score": 0.307972,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +275,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.922093
+          "relevance_score": 0.941101
         },
         {
           "topic": "earnings",
@@ -44,11 +283,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.721911
+          "relevance_score": 0.746274
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.716014
+          "relevance_score": 0.72181
         }
       ],
       "articles": [
@@ -60,6 +299,65 @@
           "headline": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
           "url": "https://ca.investing.com/news/stock-market-news/chevron-stock-hits-alltime-high-at-21485-usd-93CH-4832825",
           "published_at": "2026-09-09T13:43:02"
+        }
+      ]
+    },
+    {
+      "event_id": 999,
+      "title": "Conocophillips stock hits 52-week high at 137.57 USD",
+      "summary": "Conocophillips (COP) stock reached a 52-week high of $137.57, reflecting a robust 45.27% increase over the past year and a 51.64% total return. This performance is attributed to favorable market conditions and strong operational execution, with analysts suggesting the stock remains undervalued despite recent gains. The company also reported strong Q2 2026 earnings, exceeding analyst estimates, and announced strategic initiatives like a revised price target from UBS and an acquisition by Aker BP involving ConocoPhillips Skandinavia assets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-09T13:42:28",
+      "first_seen_at": "2026-09-09T16:00:04.554420",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.464577,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.702678,
+          "sentiment_score": 0.201203,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916305
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903146
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.832171
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.737194
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1112,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Conocophillips stock hits 52-week high at 137.57 USD",
+          "url": "https://www.investing.com/news/company-news/conocophillips-stock-hits-52week-high-at-13757-usd-93CH-4893822",
+          "published_at": "2026-09-09T13:42:28"
         }
       ]
     },
@@ -788,328 +1086,6 @@
           "headline": "The EU has cleared the acquisition of a real estate asset by Prologis and NBIM",
           "url": "https://www.marketscreener.com/news/the-eu-has-cleared-the-acquisition-of-a-real-estate-asset-by-prologis-and-nbim-ce785bd8de8bf72d",
           "published_at": "2026-09-08T14:57:44"
-        }
-      ]
-    },
-    {
-      "event_id": 972,
-      "title": "Boeing, Gulfstream and West Star detail big aerospace investments in St. Louis region.",
-      "summary": "Boeing, Gulfstream Aerospace Corp., and West Star Aviation are making significant investments in facilities, technology, and workforce development in the St. Louis region, solidifying its role as a major aerospace hub. These investments include Boeing's expansion for defense programs, Gulfstream's growth in aircraft completions, and West Star Aviation's MRO facility improvements. All three companies emphasize the critical need for workforce development and collaborative efforts to sustain the region's aerospace momentum.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-08T14:47:19",
-      "first_seen_at": "2026-09-08T18:00:03.186389",
-      "assets": [
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421907,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.81742
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.707328
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1084,
-          "provider": "ALPHA_VANTAGE",
-          "source": "REJournals",
-          "source_domain": "REJournals",
-          "headline": "Boeing, Gulfstream and West Star detail big aerospace investments in St. Louis region.",
-          "url": "https://rejournals.com/boeing-gulfstream-and-west-star-detail-big-aerospace-investments-in-st-louis-region/",
-          "published_at": "2026-09-08T14:47:19"
-        }
-      ]
-    },
-    {
-      "event_id": 961,
-      "title": "Freeport-McMoRan shares surge as copper hits record $14,694/ton",
-      "summary": "Freeport-McMoRan shares surged after copper hit a new all-time high of $14,694 per ton on the LME, driven by supply pressures including accelerated US-bound metal flows and reduced production from Chile. This price surge significantly boosts Freeport-McMoRan's potential EBITDA, with management projecting higher earnings at elevated copper prices. The copper rally's continuation hinges on upcoming economic data, specifically the European Central Bank meeting and US inflation figures.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 73,
-      "published_at": "2026-09-08T14:34:45",
-      "first_seen_at": "2026-09-08T16:00:03.118446",
-      "assets": [
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.462928,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929852
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91359
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.844729
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.738469
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1073,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Freeport-McMoRan shares surge as copper hits record $14,694/ton",
-          "url": "https://www.investing.com/news/stock-market-news/freeportmcmoran-shares-surge-as-copper-hits-record-14694ton-4891969",
-          "published_at": "2026-09-08T14:34:45"
-        }
-      ]
-    },
-    {
-      "event_id": 962,
-      "title": "Why investors may want to ignore some market headlines",
-      "summary": "Invesco's Chief Global Market Strategist suggests that investors should look beyond market headlines concerning oil prices, interest rates, and Federal Reserve actions. He argues that current market concerns are often overblown when viewed in context and that underlying fundamentals like resilient corporate earnings and significant AI investments are more critical drivers of market performance. Levitt advises focusing on these deeper economic supports rather than headline-driven pessimism.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-08T14:15:50",
-      "first_seen_at": "2026-09-08T16:00:03.391056",
-      "assets": [
-        {
-          "symbol": "IVZ",
-          "asset_class": null,
-          "relevance_score": 0.827258,
-          "sentiment_score": -0.124325,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.645936,
-          "sentiment_score": 0.329897,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.643548,
-          "sentiment_score": 0.227031,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.625522,
-          "sentiment_score": 0.213115,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MMM",
-          "asset_class": null,
-          "relevance_score": 0.620325,
-          "sentiment_score": -0.131913,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930264
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.832558
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.739889
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.721755
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.706383
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1074,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Invesco",
-          "source_domain": "Invesco",
-          "headline": "Why investors may want to ignore some market headlines",
-          "url": "https://www.invesco.com/us/en/insights/why-investors-may-want-to-ignore-some-market-headlines.html",
-          "published_at": "2026-09-08T14:15:50"
-        }
-      ]
-    },
-    {
-      "event_id": 963,
-      "title": "Marathon Petroleum Corp stock hits all-time high at $398.68 USD",
-      "summary": "Marathon Petroleum Corp (MPC) stock reached an all-time high of $398.68, reflecting strong investor confidence and a 117.44% increase over the past year. Despite appearing overvalued by InvestingPro analysis, the company reported strong Q2 2026 results, surpassing Wall Street expectations with earnings of $17.73 per share and $52.34 billion in revenue. Analysts from Freedom Broker and UBS upgraded their ratings and raised price targets, citing robust refining margins and operational execution.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-08T14:08:33",
-      "first_seen_at": "2026-09-08T16:00:03.700012",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.709313,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948124
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924279
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.829075
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1075,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Marathon Petroleum Corp stock hits all-time high at $398.68 USD",
-          "url": "https://www.investing.com/news/company-news/marathon-petroleum-corp-stock-hits-alltime-high-at-39868-usd-93CH-4891895",
-          "published_at": "2026-09-08T14:08:33"
-        }
-      ]
-    },
-    {
-      "event_id": 964,
-      "title": "Virginia groups push for in-person hearings, longer review of Dominion-NextEra merger",
-      "summary": "A coalition of nine Virginia advocacy groups has called for in-person public hearings and an extended review period for the proposed Dominion Energy-NextEra merger. While not opposing the merger itself, the groups want the Virginia State Corporation Commission to hold at least four hearings and plan to ask Gov. Abigail Spanberger to call a special session to extend the current 180-day review deadline.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-08T13:20:39",
-      "first_seen_at": "2026-09-08T16:00:03.926491",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.319074,
-          "sentiment_score": 0.024247,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.846802
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1076,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WJLA",
-          "source_domain": "WJLA",
-          "headline": "Virginia groups push for in-person hearings, longer review of Dominion-NextEra merger",
-          "url": "https://wjla.com/news/local/virginia-groups-push-for-in-person-hearings-longer-review-of-dominion-nextera-merger-abigail-spanberger-loudoun-county-special-session-deadline-extension",
-          "published_at": "2026-09-08T13:20:39"
-        }
-      ]
-    },
-    {
-      "event_id": 953,
-      "title": "Labcorp acquires MLM Medical Labs to expand global network",
-      "summary": "Labcorp has acquired MLM Medical Labs, a central and specialty laboratory provider with operations in the United States, Germany, and South Africa. This acquisition expands Labcorp's global network, making it the only central laboratory provider with a wholly owned laboratory network across four continents. The deal enhances Labcorp's clinical research capabilities and adds biomarker and specialty testing, supporting multinational clinical trials.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-08T13:12:17",
-      "first_seen_at": "2026-09-08T14:00:02.386935",
-      "assets": [
-        {
-          "symbol": "LH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.412898,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.924783
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.747822
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1065,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Labcorp acquires MLM Medical Labs to expand global network",
-          "url": "https://www.investing.com/news/company-news/labcorp-acquires-mlm-medical-labs-to-expand-global-network-93CH-4891767",
-          "published_at": "2026-09-08T13:12:17"
         }
       ]
     }
