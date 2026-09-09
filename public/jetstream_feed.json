@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 987,
+      "title": "ExxonMobil at Barclays energy-power conference: growth through disruption",
+      "summary": "ExxonMobil CFO Neil Hansen highlighted the company's scale, technology, and project discipline as key to navigating volatile energy markets at the Barclays 40th Annual Energy-Power Conference. Hansen detailed how ExxonMobil is leveraging its integrated model, strong balance sheet, and long-term investment strategy to drive growth and shareholder value, pointing to successful Pioneer acquisition synergies and accelerated Guyana cost recovery. The company also emphasized its focus on new growth areas like LNG, advanced resins, and graphite battery materials, alongside continued frontier exploration, projecting significant earnings and cash flow growth through 2030 and beyond.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-09T12:55:05",
+      "first_seen_at": "2026-09-09T14:00:02.809667",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.46402,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92501
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.905324
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832818
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.710314
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1100,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "ExxonMobil at Barclays energy-power conference: growth through disruption",
+          "url": "https://www.investing.com/news/transcripts/exxonmobil-at-barclays-energypower-conference-growth-through-disruption-93CH-4893590",
+          "published_at": "2026-09-09T12:55:05"
+        }
+      ]
+    },
+    {
+      "event_id": 988,
+      "title": "Booking loses Etraveli acquisition appeal",
+      "summary": "European lawmakers have denied Booking Holdings' appeal regarding its acquisition of Etraveli Group, upholding the European Commission's decision that the deal would boost Booking's dominant position and increase barriers to entry. The online travel giant initially announced the €1.6 billion acquisition in late 2021, but the EC barred it three years ago, leading to Booking's unsuccessful appeal. Booking Holdings stated disagreement with the outcome and is considering an appeal to the European Court of Justice.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-09T12:31:52",
+      "first_seen_at": "2026-09-09T14:00:03.068026",
+      "assets": [
+        {
+          "symbol": "BKNG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.711234,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.903557
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.732977
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1101,
+          "provider": "ALPHA_VANTAGE",
+          "source": "PhocusWire",
+          "source_domain": "PhocusWire",
+          "headline": "Booking loses Etraveli acquisition appeal",
+          "url": "https://www.phocuswire.com/news/online/booking-holdings-etraveli-acquisition-general-court-europe-decision",
+          "published_at": "2026-09-09T12:31:52"
+        }
+      ]
+    },
+    {
+      "event_id": 989,
+      "title": "BRP Inc. (TSX:DOO) Drops 6.47% as Tariff Risks, Margin Pressure and Profit-Taking Weigh on Momentum",
+      "summary": "BRP Inc. (TSX:DOO) shares fell 6.47% on September 8th despite a positive quarterly update, indicating profit-taking, valuation reassessment, and concerns over tariffs and inflation. The company's business model relies on powersports and marine product sales, but its discretionary nature makes it susceptible to economic uncertainties. Key risks include trade policy, consumer cyclicality, competitive pressures, and geopolitical instability.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-09T11:23:07",
+      "first_seen_at": "2026-09-09T14:00:03.277920",
+      "assets": [
+        {
+          "symbol": "DOO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.443669,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912455
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.846568
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.722645
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.642853
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.61692
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1102,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "BRP Inc. (TSX:DOO) Drops 6.47% as Tariff Risks, Margin Pressure and Profit-Taking Weigh on Momentum",
+          "url": "https://kalkine.ca/news/industrials/brp-inc-tsxdoo-drops-647-as-tariff-risks-margin-pressure-and-profit-taking-weigh-on-momentum",
+          "published_at": "2026-09-09T11:23:07"
+        }
+      ]
+    },
+    {
       "event_id": 986,
       "title": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
       "summary": "Independence Realty Trust and Centerspace have agreed to an $8.1 billion merger, including debt, to form a large middle-market apartment real-estate investment trust. This deal will combine Independence Realty's multifamily properties in the Sunbelt with Centerspace's portfolio in the Midwest and Mountain West.",
@@ -977,219 +1126,6 @@
           "headline": "CMS Energy (NYSE:CMS) faces a fresh market test as trading resumes today",
           "url": "https://kalkinemedia.com/us/stocks/utility/cms-energy-nysecms-faces-a-fresh-market-test-as-trading-resumes-today",
           "published_at": "2026-09-08T12:39:18"
-        }
-      ]
-    },
-    {
-      "event_id": 955,
-      "title": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
-      "summary": "Chevron's stock has surged over 42% this year, nearing a record high, but 24/7 Wall St. maintains a \"Hold\" recommendation with a target implying slight downside. While strong Q2 FY26 results, operational efficiencies, and a significant power purchase agreement with Microsoft present a bullish case, the stock's high P/E ratio compared to peers and potential oil price fluctuations suggest caution. The long-term projections depend on continued execution and market conditions.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-08T12:29:59",
-      "first_seen_at": "2026-09-08T14:00:02.935537",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.261898,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.748737,
-          "sentiment_score": -0.110896,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.723308,
-          "sentiment_score": 0.239638,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.646611,
-          "sentiment_score": -0.146123,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939478
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922034
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.824276
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741923
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.638459
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1067,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
-          "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
-          "published_at": "2026-09-08T12:29:59"
-        }
-      ]
-    },
-    {
-      "event_id": 956,
-      "title": "Nucor Corp stock faces tariff headwinds as valuation stretches",
-      "summary": "Nucor Corp's stock is currently trading at a 39.8% premium to its estimated intrinsic value, according to one valuation model, and faces new Canadian tariffs on U.S. steel and aluminum. These tariffs, ranging from 15% to 50% on approximately USD 20 billion of U.S. imports, could increase costs and reduce Nucor's competitiveness in the Canadian market. Additionally, insider selling totaling about USD 57 million over the past year, with no insider purchases, further complicates the investment outlook despite analysts generally remaining positive on the company's long-term prospects.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-08T12:08:28",
-      "first_seen_at": "2026-09-08T14:00:03.211901",
-      "assets": [
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.275571,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906689
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.832843
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.733617
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.615543
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1068,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Nucor Corp stock faces tariff headwinds as valuation stretches",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-corp-stock-faces-tariff-headwinds-as-valuation-stretches/70068931",
-          "published_at": "2026-09-08T12:08:28"
-        }
-      ]
-    },
-    {
-      "event_id": 957,
-      "title": "Why is Matador Resources (NYSE:MTDR) stock in focus as Wall Street reopens today?",
-      "summary": "Matador Resources (NYSE:MTDR) is in focus as Wall Street reopens after Labor Day, with crude markets elevated due to conflict around the Strait of Hormuz. The company, which specializes in oil and natural-gas development in the Permian Basin, is being watched in the context of broader energy market conditions, geopolitical supply concerns, inflation, and interest rate expectations. The article emphasizes that investors should carefully assess business fundamentals as market dynamics interact with the company's operating model, competitive position, and capital needs.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 94,
-      "published_at": "2026-09-08T10:59:47",
-      "first_seen_at": "2026-09-08T14:00:03.443945",
-      "assets": [
-        {
-          "symbol": "MTDR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.107407,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.649849,
-          "sentiment_score": 0.136501,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.631265,
-          "sentiment_score": 0.116635,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.626215,
-          "sentiment_score": 0.119435,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.607252,
-          "sentiment_score": 0.140262,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.926952
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.908939
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.834437
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.803235
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1069,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why is Matador Resources (NYSE:MTDR) stock in focus as Wall Street reopens today?",
-          "url": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-matador-resources-nysemtdr-stock-in-focus-as-wall-street-reopens-today",
-          "published_at": "2026-09-08T10:59:47"
         }
       ]
     }
