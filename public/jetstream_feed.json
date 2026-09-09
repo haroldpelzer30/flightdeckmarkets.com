@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 984,
+      "title": "NewEdge Advisors LLC Acquires 9,282 Shares of The Boeing Company $BA",
+      "summary": "NewEdge Advisors LLC increased its stake in The Boeing Company by 2.8% during the second quarter, acquiring an additional 9,282 shares, bringing their total holdings to 340,198 shares valued at $73.6 million. Despite Boeing reporting an 8% year-over-year revenue increase to $24.56 billion, its adjusted loss of $0.76 per share missed analyst expectations. Analysts maintain a \"Moderate Buy\" rating for Boeing with an average price target of $272.58, significantly higher than its reported price of $210.80, and institutional investors own 64.82% of the shares.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-09T09:59:15",
+      "first_seen_at": "2026-09-09T12:00:03.214380",
+      "assets": [
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.040759,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.934901
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813552
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.747707
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640306
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1096,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "NewEdge Advisors LLC Acquires 9,282 Shares of The Boeing Company $BA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-acquires-9282-shares-of-the-boeing-company-ba-2026-09-09/",
+          "published_at": "2026-09-09T09:59:15"
+        }
+      ]
+    },
+    {
+      "event_id": 985,
+      "title": "Waverly Advisors LLC Acquires 48,638 Shares of Cincinnati Financial Corporation $CINF",
+      "summary": "Waverly Advisors LLC significantly increased its stake in Cincinnati Financial Corporation (NASDAQ:CINF) by 56.9% in the second quarter, acquiring 48,638 additional shares, bringing its total holdings to 134,084 shares valued at $24.8 million. This move is part of broader institutional investor activity, with major firms like Goldman Sachs also modifying their positions. Cincinnati Financial recently reported quarterly EPS of $1.43, missing analyst estimates, and declared a quarterly dividend of $0.94 per share, while analysts maintain a \"Moderate Buy\" rating with an average price target of $195.40.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-09T09:24:06",
+      "first_seen_at": "2026-09-09T12:00:03.536882",
+      "assets": [
+        {
+          "symbol": "CINF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.135929,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91047
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.81366
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.703077
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1097,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Waverly Advisors LLC Acquires 48,638 Shares of Cincinnati Financial Corporation $CINF",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-waverly-advisors-llc-acquires-48638-shares-of-cincinnati-financial-corporation-cinf-2026-09-09/",
+          "published_at": "2026-09-09T09:24:06"
+        }
+      ]
+    },
+    {
       "event_id": 982,
       "title": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
       "summary": "ServiceNow has acquired Sweep, an Israel-based software company specializing in agentic AI capabilities for enterprise systems. This acquisition is aimed at bolstering ServiceNow's burgeoning CRM push against Salesforce, by enhancing its ability to build AI agents and accelerate enterprise application deployments. The move underscores ServiceNow's strategy to expand its AI-based NOW platform into the CRM market, where it has seen significant growth in its CRM business.",
@@ -1087,100 +1185,6 @@
           "headline": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
           "url": "https://www.marketscreener.com/news/bloom-energy-everpure-illumina-to-join-s-p-500-in-september-rebalance-ce785bd8dd89f221",
           "published_at": "2026-09-08T10:27:04"
-        }
-      ]
-    },
-    {
-      "event_id": 947,
-      "title": "Bull of the Day: Marathon Petroleum (MPC)",
-      "summary": "Marathon Petroleum (MPC) has been identified as a \"Strong Buy\" due to an anticipated 341% year-over-year earnings growth, driven by record-high crack spreads in the refining industry. The company reported strong Q2 2026 results, beating analyst expectations, and is returning significant cash to shareholders through repurchases and dividends. Despite a 125% increase in share price year-to-date, MPC remains undervalued with a low P/E ratio and strong Zacks Style Scores for Value, Momentum, and Growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-08T10:14:03",
-      "first_seen_at": "2026-09-08T12:00:02.516680",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.826645,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.93212
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.919783
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.828887
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1059,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "Bull of the Day: Marathon Petroleum (MPC)",
-          "url": "https://sg.finance.yahoo.com/news/bull-day-marathon-petroleum-mpc-101400320.html",
-          "published_at": "2026-09-08T10:14:03"
-        }
-      ]
-    },
-    {
-      "event_id": 948,
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Essex Property Trust, Inc. $ESS",
-      "summary": "Virginia Retirement Systems acquired 107,012 shares of Essex Property Trust, Inc. (ESS) worth approximately $31.2 million in the second quarter, increasing institutional ownership to 96.51%. Essex Property Trust reported strong quarterly earnings, beating analyst estimates, and provided positive guidance for the third quarter and full year 2026. The company also declared a quarterly dividend of $2.59 per share, representing a 3.7% yield, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $304.79.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-08T09:46:07",
-      "first_seen_at": "2026-09-08T12:00:02.801482",
-      "assets": [
-        {
-          "symbol": "ESS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.4003,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.918269
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.82635
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1060,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Essex Property Trust, Inc. $ESS",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-new-shares-in-essex-property-trust-inc-ess-2026-09-08/",
-          "published_at": "2026-09-08T09:46:07"
         }
       ]
     }
