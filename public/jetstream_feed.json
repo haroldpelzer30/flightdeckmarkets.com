@@ -5,6 +5,65 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 990,
+      "title": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
+      "summary": "Chevron's stock has reached an all-time high of $214.85 USD, currently trading at $215.17, giving the company a market capitalization of $417 billion. The stock has seen a 35.64% increase over the past year and 41.5% year-to-date, reflecting strong financial health and investor confidence. InvestingPro analysis suggests Chevron is undervalued and highlights its consistent dividend increases for 38 consecutive years.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-09T13:43:02",
+      "first_seen_at": "2026-09-09T15:00:02.144808",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.821995,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.591907,
+          "sentiment_score": 0.329816,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922093
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.836917
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.721911
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.716014
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1103,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/chevron-stock-hits-alltime-high-at-21485-usd-93CH-4832825",
+          "published_at": "2026-09-09T13:43:02"
+        }
+      ]
+    },
+    {
       "event_id": 987,
       "title": "ExxonMobil at Barclays energy-power conference: growth through disruption",
       "summary": "ExxonMobil CFO Neil Hansen highlighted the company's scale, technology, and project discipline as key to navigating volatile energy markets at the Barclays 40th Annual Energy-Power Conference. Hansen detailed how ExxonMobil is leveraging its integrated model, strong balance sheet, and long-term investment strategy to drive growth and shareholder value, pointing to successful Pioneer acquisition synergies and accelerated Guyana cost recovery. The company also emphasized its focus on new growth areas like LNG, advanced resins, and graphite battery materials, alongside continued frontier exploration, projecting significant earnings and cash flow growth through 2030 and beyond.",
@@ -20,7 +79,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.46402,
+          "sentiment_score": 0.457144,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +87,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.92501
+          "relevance_score": 0.948707
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.905324
+          "relevance_score": 0.935905
         },
         {
           "topic": "financial_markets",
@@ -40,7 +99,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.710314
+          "relevance_score": 0.738708
         }
       ],
       "articles": [
@@ -71,7 +130,7 @@
           "symbol": "BKNG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.711234,
+          "sentiment_score": -0.713497,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -79,11 +138,11 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.903557
+          "relevance_score": 0.93713
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.732977
+          "relevance_score": 0.742047
         }
       ],
       "articles": [
@@ -1051,81 +1110,6 @@
           "headline": "Labcorp acquires MLM Medical Labs to expand global network",
           "url": "https://www.investing.com/news/company-news/labcorp-acquires-mlm-medical-labs-to-expand-global-network-93CH-4891767",
           "published_at": "2026-09-08T13:12:17"
-        }
-      ]
-    },
-    {
-      "event_id": 954,
-      "title": "CMS Energy (NYSE:CMS) faces a fresh market test as trading resumes today",
-      "summary": "CMS Energy (NYSE:CMS) is under market scrutiny as U.S. equities reopen after Labor Day, with inflation expectations and interest rates influencing utility stocks. The company, which focuses on regulated electric and natural-gas utility operations in Michigan, will be evaluated based on grid spending, power demand, and reliability programs. Traders will be looking for company-specific execution to differentiate performance amidst broader macroeconomic trends and global market moves.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-08T12:39:18",
-      "first_seen_at": "2026-09-08T14:00:02.647723",
-      "assets": [
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.037018,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DTE",
-          "asset_class": null,
-          "relevance_score": 0.636533,
-          "sentiment_score": 0.038286,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MOS",
-          "asset_class": null,
-          "relevance_score": 0.623261,
-          "sentiment_score": 0.048787,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ES",
-          "asset_class": null,
-          "relevance_score": 0.605502,
-          "sentiment_score": 0.012947,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.939207
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.821021
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.744672
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.742428
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1066,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "CMS Energy (NYSE:CMS) faces a fresh market test as trading resumes today",
-          "url": "https://kalkinemedia.com/us/stocks/utility/cms-energy-nysecms-faces-a-fresh-market-test-as-trading-resumes-today",
-          "published_at": "2026-09-08T12:39:18"
         }
       ]
     }
