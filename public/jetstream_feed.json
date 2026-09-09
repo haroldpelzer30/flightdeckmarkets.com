@@ -20,19 +20,19 @@
           "symbol": "RSG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.31857,
+          "sentiment_score": 0.301731,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "earnings",
-          "relevance_score": 0.91437
+          "topic": "financial_markets",
+          "relevance_score": 0.944458
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.906552
+          "topic": "earnings",
+          "relevance_score": 0.91437
         }
       ],
       "articles": [
@@ -63,31 +63,31 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.448501,
+          "sentiment_score": -0.447032,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.949236
+        },
+        {
           "topic": "earnings",
           "relevance_score": 0.944844
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.926118
+          "topic": "economy_macro",
+          "relevance_score": 0.720344
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.716127
+          "topic": "finance",
+          "relevance_score": 0.644598
         },
         {
           "topic": "retail_wholesale",
           "relevance_score": 0.643768
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.620609
         }
       ],
       "articles": [
@@ -118,7 +118,7 @@
           "symbol": "VLO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.880011,
+          "sentiment_score": 0.856073,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -126,7 +126,7 @@
           "symbol": "CL",
           "asset_class": null,
           "relevance_score": 0.616488,
-          "sentiment_score": 0.335214,
+          "sentiment_score": 0.341773,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -138,11 +138,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.931126
+          "relevance_score": 0.936101
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.80887
+          "relevance_score": 0.818161
         }
       ],
       "articles": [
@@ -173,7 +173,7 @@
           "symbol": "FITB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.330344,
+          "sentiment_score": -0.316298,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
