@@ -5,6 +5,58 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 986,
+      "title": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
+      "summary": "Independence Realty Trust and Centerspace have agreed to an $8.1 billion merger, including debt, to form a large middle-market apartment real-estate investment trust. This deal will combine Independence Realty's multifamily properties in the Sunbelt with Centerspace's portfolio in the Midwest and Mountain West.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-09T11:03:18",
+      "first_seen_at": "2026-09-09T13:00:02.903597",
+      "assets": [
+        {
+          "symbol": "CSR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.624114,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.945574
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1099,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WSJ",
+          "source_domain": "WSJ",
+          "headline": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
+          "url": "https://www.wsj.com/business/deals/independence-realty-trust-and-centerspace-agree-to-8-1-billion-merger-f495671b",
+          "published_at": "2026-09-09T11:03:18"
+        },
+        {
+          "article_id": 1098,
+          "provider": "ALPHA_VANTAGE",
+          "source": "IPE Real Assets",
+          "source_domain": "IPE Real Assets",
+          "headline": "Independence Realty Trust merges with Centerspace in $8bn deal",
+          "url": "https://realassets.ipe.com/news/independence-realty-trust-merges-with-centerspace-in-8bn-deal/10138391.article",
+          "published_at": "2026-09-09T11:39:18"
+        }
+      ]
+    },
+    {
       "event_id": 984,
       "title": "NewEdge Advisors LLC Acquires 9,282 Shares of The Boeing Company $BA",
       "summary": "NewEdge Advisors LLC increased its stake in The Boeing Company by 2.8% during the second quarter, acquiring an additional 9,282 shares, bringing their total holdings to 340,198 shares valued at $73.6 million. Despite Boeing reporting an 8% year-over-year revenue increase to $24.56 billion, its adjusted loss of $0.76 per share missed analyst expectations. Analysts maintain a \"Moderate Buy\" rating for Boeing with an average price target of $272.58, significantly higher than its reported price of $210.80, and institutional investors own 64.82% of the shares.",
@@ -1138,53 +1190,6 @@
           "headline": "Why is Matador Resources (NYSE:MTDR) stock in focus as Wall Street reopens today?",
           "url": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-matador-resources-nysemtdr-stock-in-focus-as-wall-street-reopens-today",
           "published_at": "2026-09-08T10:59:47"
-        }
-      ]
-    },
-    {
-      "event_id": 946,
-      "title": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
-      "summary": "Bloom Energy, Everpure, and Illumina are slated to be added to the S&P 500 index during its September rebalance. The article, published by MT Newswires, indicates this significant change for the companies involved. Full details are reserved for members of the platform.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-08T10:27:04",
-      "first_seen_at": "2026-09-08T12:00:02.250460",
-      "assets": [
-        {
-          "symbol": "ILMN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.421821,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.848119
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.736516
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1058,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Bloom Energy, Everpure, Illumina to Join S&P 500 in September Rebalance",
-          "url": "https://www.marketscreener.com/news/bloom-energy-everpure-illumina-to-join-s-p-500-in-september-rebalance-ce785bd8dd89f221",
-          "published_at": "2026-09-08T10:27:04"
         }
       ]
     }
