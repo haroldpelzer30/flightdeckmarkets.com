@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1004,
+      "title": "AI is fueling copper demand. Kevin Simpson thinks this volatile miner is worth the risk",
+      "summary": "Kevin Simpson has added Freeport McMoRan Inc. to his dividend income portfolio, viewing it as a calculated risk given copper's strong long-term supply-demand story, driven by AI and data center needs. Despite the stock's volatility and recent price run-up, he believes the valuation becomes more attractive when considering 2027 earnings projections, and the company offers direct exposure to rising copper demand and limited new supply. Key catalysts include recovering production from the Grasberg mine and the significant leverage Freeport provides to higher copper prices.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 68,
+      "published_at": "2026-09-09T16:22:08",
+      "first_seen_at": "2026-09-09T18:00:01.716637",
+      "assets": [
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.484841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901285
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.846029
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.805767
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.740055
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1117,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "AI is fueling copper demand. Kevin Simpson thinks this volatile miner is worth the risk",
+          "url": "https://www.cnbc.com/2026/09/09/kevin-simpson-buying-freeport-mcmoran.html",
+          "published_at": "2026-09-09T16:22:08"
+        }
+      ]
+    },
+    {
       "event_id": 993,
       "title": "CASCADE INVESTMENT LLC's Recent Buy: Acquires $164.70M In Republic Services Stock",
       "summary": "CASCADE INVESTMENT LLC, a 10% owner of Republic Services (NYSE: RSG), recently purchased 735,303 shares for $164.70 million, signaling confidence in the company. Republic Services, the second-largest waste management company, reported a 4.6% revenue growth, a 42.14% gross margin, and an EPS of 1.84, though it has a higher debt-to-equity ratio and its P/S ratio indicates potential overvaluation. This insider transaction highlights a belief in the stock's future rise, despite mixed financial metrics.",
@@ -20,19 +71,19 @@
           "symbol": "RSG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.301731,
+          "sentiment_score": 0.328021,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.944458
+          "topic": "earnings",
+          "relevance_score": 0.945169
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.91437
+          "topic": "financial_markets",
+          "relevance_score": 0.944458
         }
       ],
       "articles": [
@@ -63,7 +114,7 @@
           "symbol": "LVS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.447032,
+          "sentiment_score": -0.42494,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -71,7 +122,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.949236
+          "relevance_score": 0.949541
         },
         {
           "topic": "earnings",
@@ -79,7 +130,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.720344
+          "relevance_score": 0.72836
         },
         {
           "topic": "finance",
@@ -1035,57 +1086,6 @@
           "headline": "Huntington Bank: What Will the Federal Reserve Do Next?",
           "url": "https://rvbusiness.com/huntington-bank-what-will-the-federal-reserve-do-next/?utm_source=rss&utm_medium=rss&utm_campaign=huntington-bank-what-will-the-federal-reserve-do-next",
           "published_at": "2026-09-08T15:48:27"
-        }
-      ]
-    },
-    {
-      "event_id": 966,
-      "title": "The EU has cleared the acquisition of a real estate asset by Prologis and NBIM",
-      "summary": "The European Commission has approved the acquisition of joint control of a logistics real estate asset in Hamburg by Prologis (United States) and NBIM Nerva (Norway). The transaction, which concerns the operation and management of industrial real estate, was reviewed under a simplified merger control procedure. The Commission concluded that the acquisition would not raise competition concerns due to the companies' limited market positions post-transaction.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-08T14:57:44",
-      "first_seen_at": "2026-09-08T17:00:03.064562",
-      "assets": [
-        {
-          "symbol": "PLD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.44431,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.92308
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.744407
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.634251
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1078,
-          "provider": "ALPHA_VANTAGE",
-          "source": "www.marketscreener.com",
-          "source_domain": "www.marketscreener.com",
-          "headline": "The EU has cleared the acquisition of a real estate asset by Prologis and NBIM",
-          "url": "https://www.marketscreener.com/news/the-eu-has-cleared-the-acquisition-of-a-real-estate-asset-by-prologis-and-nbim-ce785bd8de8bf72d",
-          "published_at": "2026-09-08T14:57:44"
         }
       ]
     }
