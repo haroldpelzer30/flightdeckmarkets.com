@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1011,
+      "title": "SC utility buyout cleared by Dominion and NextEra shareholders",
+      "summary": "Shareholders of Dominion Energy and NextEra Energy have approved a $67 billion deal to combine the utilities, with NextEra as the owner, clearing an early hurdle for what would become the world's largest regulated power utility by stock market value. The all-stock deal, announced on May 18, faces scrutiny from consumer groups and politicians but is expected to close in the second half of next year if approved by state and federal agencies. The acquisition aims to address growing power demands, especially from data centers, and promises a $2.25 billion billing credit for Dominion's South Carolina ratepayers over two years.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-09T17:59:28",
+      "first_seen_at": "2026-09-09T20:00:02.070655",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.981611,
+          "sentiment_score": 0.327987,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.945501,
+          "sentiment_score": 0.346722,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.621264,
+          "sentiment_score": 0.102406,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.61219,
+          "sentiment_score": 0.118895,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.847725
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.611433
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1124,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Post and Courier",
+          "source_domain": "Post and Courier",
+          "headline": "SC utility buyout cleared by Dominion and NextEra shareholders",
+          "url": "https://www.postandcourier.com/business/sc-electric-utility-dominion-energy-nextera/article_59329254-7d39-4ee3-b78a-9becbce7b99e.html",
+          "published_at": "2026-09-09T17:59:28"
+        }
+      ]
+    },
+    {
       "event_id": 1007,
       "title": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
       "summary": "Quantum computing stocks, including IonQ, Rigetti, and D-Wave, experienced a sharp decline as increasing odds of a Federal Reserve rate hike made speculative growth stocks less attractive. This market movement is attributed to the expectation of higher interest rates, which increases discount rates for future cash flows, particularly impacting pre-revenue companies. Despite broader market stability, quantum pure plays saw significant drops, highlighting their sensitivity to changes in monetary policy.",
@@ -20,7 +91,7 @@
           "symbol": "QUBT",
           "asset_class": null,
           "relevance_score": 0.926068,
-          "sentiment_score": -0.211985,
+          "sentiment_score": -0.205332,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -67,7 +138,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.011382,
+          "sentiment_score": 0.011866,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -75,7 +146,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 0.973996,
-          "sentiment_score": 0.034589,
+          "sentiment_score": 0.010617,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -87,11 +158,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.81805
+          "relevance_score": 0.838269
         },
         {
           "topic": "economy_fiscal",
-          "relevance_score": 0.713457
+          "relevance_score": 0.717542
         }
       ],
       "articles": [
@@ -999,85 +1070,6 @@
           "headline": "The Fed will stay on hold through end of year, says Morgan Stanley's Dan Skelly",
           "url": "https://www.cnbc.com/video/2026/09/08/the-fed-will-stay-on-hold-through-end-of-year-says-morgan-stanleys-dan-skelly.html",
           "published_at": "2026-09-08T21:47:13"
-        }
-      ]
-    },
-    {
-      "event_id": 975,
-      "title": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
-      "summary": "Nucor (NYSE:NUE) shares recently experienced volatility due to headlines surrounding potential tariff changes on Canadian steel and aluminum, ultimately rebounding when trade talks between Washington and Ottawa stalled. The domestic steelmaker's stock is highly sensitive to tariff negotiations, which influence pricing power by limiting foreign competition. Nucor's electric-arc-furnace model, widespread mill network, and diversified product lines position it to manage demand swings and capitalize on growing steel demand from construction, energy infrastructure, and reshoring manufacturing trends.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-08T19:43:43",
-      "first_seen_at": "2026-09-08T21:00:02.108241",
-      "assets": [
-        {
-          "symbol": "NUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.330487,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STLD",
-          "asset_class": null,
-          "relevance_score": 0.72667,
-          "sentiment_score": 0.280527,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.586298,
-          "sentiment_score": -0.10719,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.544527,
-          "sentiment_score": -0.143782,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93275
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.846355
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.748721
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.645652
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.635135
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1087,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Is Nucor (NYSE:NUE) Swinging on Tariff Headlines?",
-          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/why-is-nucor-nysenue-swinging-on-tariff-headlines",
-          "published_at": "2026-09-08T19:43:43"
         }
       ]
     }
