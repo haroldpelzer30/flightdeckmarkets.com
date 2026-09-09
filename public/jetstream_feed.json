@@ -19,8 +19,8 @@
         {
           "symbol": "D",
           "asset_class": null,
-          "relevance_score": 0.961337,
-          "sentiment_score": -0.344529,
+          "relevance_score": 0.994429,
+          "sentiment_score": -0.304742,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -28,8 +28,8 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 0.923698,
-          "sentiment_score": -0.36427,
-          "sentiment_label": "Bearish",
+          "sentiment_score": -0.325723,
+          "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
       ],
