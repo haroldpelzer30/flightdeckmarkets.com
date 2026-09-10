@@ -5,6 +5,160 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1031,
+      "title": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
+      "summary": "Stifel Nicolaus has initiated coverage on Occidental Petroleum (NYSE:OXY) with a \"hold\" rating and a $68 price target, suggesting an 11.62% upside. This new coverage aligns with the overall cautious analyst sentiment, with a consensus \"hold\" rating and an average price target of $64.96. The company recently exceeded quarterly earnings expectations, reporting $2.40 EPS against an estimated $1.83, and revenue of $8.06 billion, a 53.4% increase year-over-year.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-10T14:09:50",
+      "first_seen_at": "2026-09-10T16:00:02.660926",
+      "assets": [
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.228407,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.595114,
+          "sentiment_score": -0.11747,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.593748,
+          "sentiment_score": 0.128538,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.593491,
+          "sentiment_score": -0.10392,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92893
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.904533
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.848545
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1144,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-occidental-petroleum-nyse-oxy-coverage-initiated-by-analysts-at-stifel-nicolaus-2026-09-10/",
+          "published_at": "2026-09-10T14:09:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1032,
+      "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+      "summary": "Memory stocks, including SK Hynix, Western Digital, and Micron, experienced significant declines despite JPMorgan initiating an \"Overweight\" rating on SK Hynix with a strong price target. This market downturn is primarily attributed to surging 10-year Treasury yields and rising oil prices, overshadowing positive analyst calls and the strong underlying demand for memory chips driven by AI. Investors are now closely watching upcoming consumer price data and the Federal Reserve meeting for potential interest rate hikes.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 70,
+      "published_at": "2026-09-10T13:40:51",
+      "first_seen_at": "2026-09-10T16:00:02.980604",
+      "assets": [
+        {
+          "symbol": "WDC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.322755,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.913162,
+          "sentiment_score": -0.3267,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 0.642003,
+          "sentiment_score": -0.541569,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.620577,
+          "sentiment_score": -0.538567,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.606242,
+          "sentiment_score": -0.539475,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906582
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.841016
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.816615
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.62983
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1145,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+          "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+          "published_at": "2026-09-10T13:40:51"
+        }
+      ]
+    },
+    {
       "event_id": 1024,
       "title": "Targa Resources (NYSE:TRGP) Receives Buy Rating from Stifel Nicolaus",
       "summary": "Stifel Nicolaus reaffirmed its \"buy\" rating for Targa Resources (NYSE:TRGP), setting a price target of $340, which suggests a 16.66% upside. Despite beating EPS estimates, the company's revenue for the quarter fell short of forecasts. Institutional investors hold a significant portion of the company's stock, while insiders have recently sold shares.",
@@ -991,92 +1145,6 @@
           "headline": "Valero Energy Corporation stock hits all-time high at 385.11 USD",
           "url": "https://www.investing.com/news/company-news/valero-energy-corporation-stock-hits-alltime-high-at-38511-usd-93CH-4893786",
           "published_at": "2026-09-09T13:59:11"
-        }
-      ]
-    },
-    {
-      "event_id": 996,
-      "title": "Fifth Third-Comerica merger leaves some customers angry over glitches",
-      "summary": "The merger between Fifth Third Bancorp and Comerica Bank has resulted in significant online banking glitches and customer frustration following its technical conversion. Despite assurances of a smooth transition, many customers, including Robert Erlandson and David Boike, reported being unable to access accounts, encountering issues with bill payment data migration, and facing long wait times for support. Fifth Third acknowledged the challenges, stating it was the \"largest and most complex undertaking\" for both companies and apologized for the inconvenience, promising full engagement from their teams to assist customers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-09T13:58:53",
-      "first_seen_at": "2026-09-09T16:00:03.892964",
-      "assets": [
-        {
-          "symbol": "FITB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.316298,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.929912
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1109,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Detroit Free Press",
-          "source_domain": "Detroit Free Press",
-          "headline": "Fifth Third-Comerica merger leaves some customers angry over glitches",
-          "url": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/09/09/fifth-third-comerica-merger-account-problems/91664480007/",
-          "published_at": "2026-09-09T13:58:53"
-        }
-      ]
-    },
-    {
-      "event_id": 997,
-      "title": "Helios Technologies' Enovation Controls Acquires Radio Sound Assets",
-      "summary": "Helios Technologies' subsidiary, Enovation Controls, has acquired the assets of Radio Sound. This acquisition expands Helios Technologies' offerings, particularly in the Electronics segment, which designs and manufactures customized electronic control systems. The company's stock, HLIO, was trading at $71.53, up 0.15% at the time of the article.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-09T13:45:03",
-      "first_seen_at": "2026-09-09T16:00:04.111555",
-      "assets": [
-        {
-          "symbol": "HLIO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.403385,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.919851
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.626668
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1110,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Helios Technologies' Enovation Controls Acquires Radio Sound Assets",
-          "url": "https://www.marketscreener.com/news/helios-technologies-enovation-controls-acquires-radio-sound-assets-ce785bd9de8df72d",
-          "published_at": "2026-09-09T13:45:03"
         }
       ]
     }
