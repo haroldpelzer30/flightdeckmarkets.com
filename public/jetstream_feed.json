@@ -5,6 +5,234 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1017,
+      "title": "Scotiabank Adjusts PT on Targa Resources to $314 From $257, Keeps Sector Outperform Rating",
+      "summary": "Scotiabank has increased its price target for Targa Resources (TRGP) to $314 from $257, while maintaining a \"Sector Outperform\" rating on the stock. This adjustment reflects the bank's continued positive outlook on the company's performance within its sector. The report from MT Newswires indicates a positive reassessment of Targa Resources' valuation by Scotiabank.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-10T10:32:43",
+      "first_seen_at": "2026-09-10T12:00:02.964844",
+      "assets": [
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.488617,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922287
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.900408
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.84423
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713241
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1130,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "Scotiabank Adjusts PT on Targa Resources to $314 From $257, Keeps Sector Outperform Rating",
+          "url": "https://www.marketscreener.com/news/scotiabank-adjusts-pt-on-targa-resources-to-314-from-257-keeps-sector-outperform-rating-ce785bdedd8ef726",
+          "published_at": "2026-09-10T10:32:43"
+        }
+      ]
+    },
+    {
+      "event_id": 1018,
+      "title": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
+      "summary": "IPG Investment Advisors LLC has acquired a new stake of 4,840 shares in Analog Devices, Inc. (NASDAQ:ADI) valued at approximately $1.92 million. Analog Devices reported strong Q2 earnings, beating analyst estimates with an EPS of $3.45 and revenue of $4.02 billion, and declared a quarterly dividend of $1.10. The company maintains a \"Buy\" rating from analysts with an average price target of $457.97.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-10T10:17:39",
+      "first_seen_at": "2026-09-10T12:00:03.306334",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.310981,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ALB",
+          "asset_class": null,
+          "relevance_score": 0.608218,
+          "sentiment_score": 0.138374,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.602012,
+          "sentiment_score": 0.112601,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932057
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.801646
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.703574
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.646474
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1131,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-position-in-analog-devices-inc-adi-2026-09-10/",
+          "published_at": "2026-09-10T10:17:39"
+        }
+      ]
+    },
+    {
+      "event_id": 1019,
+      "title": "IPG Investment Advisors LLC Acquires New Stake in Match Group Inc. $MTCH",
+      "summary": "IPG Investment Advisors LLC has acquired a new stake of 49,437 shares in Match Group Inc. (NASDAQ:MTCH) during the second quarter, valued at approximately $1.88 million. Institutional investors now collectively own 94.05% of the company. Match Group reported strong quarterly EPS of $0.70, beating estimates, and declared a quarterly dividend of $0.20 per share, while analysts maintain a \"Moderate Buy\" rating with an average price target of $42.46.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-10T10:17:14",
+      "first_seen_at": "2026-09-10T12:00:03.620875",
+      "assets": [
+        {
+          "symbol": "MTCH",
+          "asset_class": null,
+          "relevance_score": 0.997457,
+          "sentiment_score": 0.273908,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.902663
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.844597
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.727793
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1132,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "IPG Investment Advisors LLC Acquires New Stake in Match Group Inc. $MTCH",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-stake-in-match-group-inc-mtch-2026-09-10/",
+          "published_at": "2026-09-10T10:17:14"
+        }
+      ]
+    },
+    {
+      "event_id": 1020,
+      "title": "WINTON GROUP Ltd Acquires Shares of 78,260 Dollar Tree, Inc. $DLTR",
+      "summary": "WINTON GROUP Ltd purchased 78,260 shares of Dollar Tree, Inc. (NASDAQ:DLTR) in the second quarter, valued at approximately $9.466 million. Other institutional investors also adjusted their holdings in DLTR, with institutional investors and hedge funds collectively owning 97.40% of the company's stock. Analysts have an average \"Hold\" rating and a target price of $131.68 for Dollar Tree, which recently authorized a $2.50 billion share buyback plan.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-10T10:16:46",
+      "first_seen_at": "2026-09-10T12:00:03.875721",
+      "assets": [
+        {
+          "symbol": "DLTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.282647,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DG",
+          "asset_class": null,
+          "relevance_score": 0.633702,
+          "sentiment_score": 0.116677,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91381
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826422
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.739208
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648585
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.636178
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1133,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "WINTON GROUP Ltd Acquires Shares of 78,260 Dollar Tree, Inc. $DLTR",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-shares-of-78260-dollar-tree-inc-dltr-2026-09-10/",
+          "published_at": "2026-09-10T10:16:46"
+        }
+      ]
+    },
+    {
       "event_id": 1014,
       "title": "‘The clock is ticking’: Hashmi talks with Hampton Roads residents about Dominion Energy merger",
       "summary": "Lt. Gov. Ghazala Hashmi held a listening tour in Hampton Roads, gathering concerns from residents about the proposed $67 billion merger between Dominion Energy and NextEra Energy. Residents expressed worries over potential bill increases, grid reliability, and job losses, particularly given NextEra's track record in Florida. While Hashmi has not taken a stance, she emphasized that the merger's approval by the Virginia State Corporation Commission should hinge on its proven benefits for Virginians, especially regarding affordability and service.",
@@ -837,215 +1065,6 @@
           "headline": "BRP Inc. (TSX:DOO) Drops 6.47% as Tariff Risks, Margin Pressure and Profit-Taking Weigh on Momentum",
           "url": "https://kalkine.ca/news/industrials/brp-inc-tsxdoo-drops-647-as-tariff-risks-margin-pressure-and-profit-taking-weigh-on-momentum",
           "published_at": "2026-09-09T11:23:07"
-        }
-      ]
-    },
-    {
-      "event_id": 986,
-      "title": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
-      "summary": "Independence Realty Trust and Centerspace have agreed to an $8.1 billion merger, including debt, to form a large middle-market apartment real-estate investment trust. This deal will combine Independence Realty's multifamily properties in the Sunbelt with Centerspace's portfolio in the Midwest and Mountain West.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-09T11:03:18",
-      "first_seen_at": "2026-09-09T13:00:02.903597",
-      "assets": [
-        {
-          "symbol": "CSR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.624114,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.945574
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1099,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WSJ",
-          "source_domain": "WSJ",
-          "headline": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
-          "url": "https://www.wsj.com/business/deals/independence-realty-trust-and-centerspace-agree-to-8-1-billion-merger-f495671b",
-          "published_at": "2026-09-09T11:03:18"
-        },
-        {
-          "article_id": 1098,
-          "provider": "ALPHA_VANTAGE",
-          "source": "IPE Real Assets",
-          "source_domain": "IPE Real Assets",
-          "headline": "Independence Realty Trust merges with Centerspace in $8bn deal",
-          "url": "https://realassets.ipe.com/news/independence-realty-trust-merges-with-centerspace-in-8bn-deal/10138391.article",
-          "published_at": "2026-09-09T11:39:18"
-        }
-      ]
-    },
-    {
-      "event_id": 984,
-      "title": "NewEdge Advisors LLC Acquires 9,282 Shares of The Boeing Company $BA",
-      "summary": "NewEdge Advisors LLC increased its stake in The Boeing Company by 2.8% during the second quarter, acquiring an additional 9,282 shares, bringing their total holdings to 340,198 shares valued at $73.6 million. Despite Boeing reporting an 8% year-over-year revenue increase to $24.56 billion, its adjusted loss of $0.76 per share missed analyst expectations. Analysts maintain a \"Moderate Buy\" rating for Boeing with an average price target of $272.58, significantly higher than its reported price of $210.80, and institutional investors own 64.82% of the shares.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-09T09:59:15",
-      "first_seen_at": "2026-09-09T12:00:03.214380",
-      "assets": [
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.040759,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.934901
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.813552
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.747707
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.640306
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1096,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "NewEdge Advisors LLC Acquires 9,282 Shares of The Boeing Company $BA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-acquires-9282-shares-of-the-boeing-company-ba-2026-09-09/",
-          "published_at": "2026-09-09T09:59:15"
-        }
-      ]
-    },
-    {
-      "event_id": 985,
-      "title": "Waverly Advisors LLC Acquires 48,638 Shares of Cincinnati Financial Corporation $CINF",
-      "summary": "Waverly Advisors LLC significantly increased its stake in Cincinnati Financial Corporation (NASDAQ:CINF) by 56.9% in the second quarter, acquiring 48,638 additional shares, bringing its total holdings to 134,084 shares valued at $24.8 million. This move is part of broader institutional investor activity, with major firms like Goldman Sachs also modifying their positions. Cincinnati Financial recently reported quarterly EPS of $1.43, missing analyst estimates, and declared a quarterly dividend of $0.94 per share, while analysts maintain a \"Moderate Buy\" rating with an average price target of $195.40.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-09T09:24:06",
-      "first_seen_at": "2026-09-09T12:00:03.536882",
-      "assets": [
-        {
-          "symbol": "CINF",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.135929,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.91047
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.81366
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.703077
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1097,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Waverly Advisors LLC Acquires 48,638 Shares of Cincinnati Financial Corporation $CINF",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-waverly-advisors-llc-acquires-48638-shares-of-cincinnati-financial-corporation-cinf-2026-09-09/",
-          "published_at": "2026-09-09T09:24:06"
-        }
-      ]
-    },
-    {
-      "event_id": 982,
-      "title": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
-      "summary": "ServiceNow has acquired Sweep, an Israel-based software company specializing in agentic AI capabilities for enterprise systems. This acquisition is aimed at bolstering ServiceNow's burgeoning CRM push against Salesforce, by enhancing its ability to build AI agents and accelerate enterprise application deployments. The move underscores ServiceNow's strategy to expand its AI-based NOW platform into the CRM market, where it has seen significant growth in its CRM business.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-09-08T21:50:56",
-      "first_seen_at": "2026-09-09T00:00:02.074882",
-      "assets": [
-        {
-          "symbol": "NOW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.477033,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.876377,
-          "sentiment_score": -0.214446,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.590032,
-          "sentiment_score": 0.090916,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.946828
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.805067
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1094,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CRN",
-          "source_domain": "CRN",
-          "headline": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
-          "url": "https://www.crn.com/news/ai/2026/servicenow-sharpens-its-salesforce-attack-with-sweep-acquisition",
-          "published_at": "2026-09-08T21:50:56"
         }
       ]
     }
