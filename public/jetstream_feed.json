@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1033,
+      "title": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver Acquires 753 Shares",
+      "summary": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver recently acquired 753 shares of the company's stock for $24,992.07, increasing his total ownership to 753 shares. The company's shares traded up 1.1% to $32.95, while institutional investors like Jane Street Group and Cetera Investment Advisers also significantly increased their stakes. Destiny Tech100 focuses on investing in high-growth technology businesses, offering investors diversified exposure to the sector.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-10T15:10:49",
+      "first_seen_at": "2026-09-10T17:00:02.102878",
+      "assets": [
+        {
+          "symbol": "DXYZ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.325514,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930173
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.831895
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1146,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver Acquires 753 Shares",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-destiny-tech100-nyse-dxyz-coo-ethan-silver-acquires-753-shares-2026-09-10/",
+          "published_at": "2026-09-10T15:10:49"
+        }
+      ]
+    },
+    {
       "event_id": 1031,
       "title": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
       "summary": "Stifel Nicolaus has initiated coverage on Occidental Petroleum (NYSE:OXY) with a \"hold\" rating and a $68 price target, suggesting an 11.62% upside. This new coverage aligns with the overall cautious analyst sentiment, with a consensus \"hold\" rating and an average price target of $64.96. The company recently exceeded quarterly earnings expectations, reporting $2.40 EPS against an estimated $1.83, and revenue of $8.06 billion, a 53.4% increase year-over-year.",
@@ -1090,61 +1133,6 @@
           "headline": "Las Vegas Sands stock hits 52-week low at $43.35",
           "url": "https://www.investing.com/news/company-news/las-vegas-sands-stock-hits-52week-low-at-4335-93CH-4894042",
           "published_at": "2026-09-09T14:54:54"
-        }
-      ]
-    },
-    {
-      "event_id": 995,
-      "title": "Valero Energy Corporation stock hits all-time high at 385.11 USD",
-      "summary": "Valero Energy Corporation's stock has hit an all-time high of $385.11, currently trading at $386.82, and showing a 141.55% increase over the past year. This significant surge follows impressive second-quarter results, with adjusted earnings and revenue surpassing Wall Street estimates, and strong performance in refining, renewable diesel, and ethanol sectors. Analyst ratings from UBS and TD Cowen reflect continued confidence, with UBS raising its price target to $450.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-09T13:59:11",
-      "first_seen_at": "2026-09-09T16:00:03.598006",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.856073,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.616488,
-          "sentiment_score": 0.341773,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949805
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936101
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.818161
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1108,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Valero Energy Corporation stock hits all-time high at 385.11 USD",
-          "url": "https://www.investing.com/news/company-news/valero-energy-corporation-stock-hits-alltime-high-at-38511-usd-93CH-4893786",
-          "published_at": "2026-09-09T13:59:11"
         }
       ]
     }
