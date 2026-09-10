@@ -20,7 +20,7 @@
           "symbol": "TRGP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.536208,
+          "sentiment_score": 0.53207,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +32,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.910431
+          "relevance_score": 0.92204
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.823925
+          "relevance_score": 0.842054
         }
       ],
       "articles": [
@@ -67,23 +67,23 @@
           "symbol": "VST",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.361965,
+          "sentiment_score": 0.379023,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "META",
           "asset_class": null,
-          "relevance_score": 0.818831,
-          "sentiment_score": 0.283735,
+          "relevance_score": 0.821195,
+          "sentiment_score": 0.285071,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
-          "relevance_score": 0.620901,
-          "sentiment_score": 0.214267,
+          "relevance_score": 0.625783,
+          "sentiment_score": 0.2058,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -91,7 +91,7 @@
           "symbol": "KKR",
           "asset_class": null,
           "relevance_score": 0.553574,
-          "sentiment_score": 0.229164,
+          "sentiment_score": 0.208041,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -103,19 +103,19 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.913539
+          "relevance_score": 0.932999
         },
         {
           "topic": "technology",
-          "relevance_score": 0.807871
+          "relevance_score": 0.839081
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.644668
         },
         {
           "topic": "finance",
           "relevance_score": 0.624575
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.608707
         }
       ],
       "articles": [
@@ -145,8 +145,8 @@
         {
           "symbol": "ACCS",
           "asset_class": null,
-          "relevance_score": 0.307136,
-          "sentiment_score": 0.003507,
+          "relevance_score": 0.34475,
+          "sentiment_score": 0.009813,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -158,7 +158,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.828648
+          "relevance_score": 0.84906
         }
       ],
       "articles": [
