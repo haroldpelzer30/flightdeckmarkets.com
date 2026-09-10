@@ -5,6 +5,187 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1034,
+      "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
+      "summary": "Skyworks Solutions (SWKS) and Qorvo (QRVO) saw significant stock surges of 10% and 6% respectively, while the broader semiconductor market experienced a decline. This divergence suggests that the market is pricing in increased optimism for their proposed merger, as Skyworks' CEO Phil Brace previously indicated the China review had entered its final phase with a target close by year-end. Investors are closely watching for formal regulatory decisions or merger-completion disclosures as the transaction appears to be nearing its conclusion.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 68,
+      "published_at": "2026-09-10T16:47:46",
+      "first_seen_at": "2026-09-10T18:00:02.558817",
+      "assets": [
+        {
+          "symbol": "SWKS",
+          "asset_class": null,
+          "relevance_score": 0.998547,
+          "sentiment_score": 0.428015,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.618376,
+          "sentiment_score": 0.129963,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "QCOM",
+          "asset_class": null,
+          "relevance_score": 0.57956,
+          "sentiment_score": 0.221995,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917644
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.847362
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.700676
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1147,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
+          "url": "https://247wallst.com/investing/2026/09/10/skyworks-solutions-surges-10-qorvo-climbs-6-while-chip-stocks-fall-is-the-merger-finally-clearing/",
+          "published_at": "2026-09-10T16:47:46"
+        }
+      ]
+    },
+    {
+      "event_id": 1035,
+      "title": "Bank of America flags a $163B risk hanging over stocks",
+      "summary": "Bank of America has identified a significant $163 billion risk to the stock market, stemming from an imbalance in systematic funds' buying power versus potential forced selling. With systematic strategies having rebuilt exposure to near-capacity levels, there is a large disparity favoring sellers if prices decline. This situation, supported by data from Deutsche Bank and Goldman Sachs, suggests that a modest market downturn could escalate significantly due to exhausted buying capacity and reduced downside protection.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-10T16:03:16",
+      "first_seen_at": "2026-09-10T18:00:02.864097",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.434573,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.730984,
+          "sentiment_score": -0.240113,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.641757,
+          "sentiment_score": -0.139541,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938575
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.814528
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725946
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.623443
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1148,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Bank of America flags a $163B risk hanging over stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-163b-risk-160300808.html",
+          "published_at": "2026-09-10T16:03:16"
+        }
+      ]
+    },
+    {
+      "event_id": 1036,
+      "title": "BofA Names Top MENA Oil Stocks for Late 2026",
+      "summary": "Bank of America has identified its top picks in the MENA oil sector for late 2026: ADNOC L&S, Luberef, and ADNOC Gas. These companies are chosen for their strong growth potential and near-term catalysts. ADNOC Gas is expected to see significant EBITDA growth by 2030, ADNOC L&S anticipates strong EBITDA and net income growth in 2026 due to shipping rates, and Luberef benefits from elevated base oil crack spreads and expansion projects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-10T15:53:16",
+      "first_seen_at": "2026-09-10T18:00:03.217336",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.8984,
+          "sentiment_score": 0.396884,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.938568
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.903089
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.847429
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1149,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "BofA Names Top MENA Oil Stocks for Late 2026",
+          "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-mena-oil-stocks-for-late-2026-93CH-4896464",
+          "published_at": "2026-09-10T15:53:16"
+        }
+      ]
+    },
+    {
       "event_id": 1033,
       "title": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver Acquires 753 Shares",
       "summary": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver recently acquired 753 shares of the company's stock for $24,992.07, increasing his total ownership to 753 shares. The company's shares traded up 1.1% to $32.95, while institutional investors like Jane Street Group and Cetera Investment Advisers also significantly increased their stakes. Destiny Tech100 focuses on investing in high-growth technology businesses, offering investors diversified exposure to the sector.",
@@ -20,7 +201,7 @@
           "symbol": "DXYZ",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.325514,
+          "sentiment_score": 0.302362,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,11 +209,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.930173
+          "relevance_score": 0.940063
         },
         {
           "topic": "technology",
-          "relevance_score": 0.831895
+          "relevance_score": 0.834727
         }
       ],
       "articles": [
@@ -984,155 +1165,6 @@
           "headline": "AI is fueling copper demand. Kevin Simpson thinks this volatile miner is worth the risk",
           "url": "https://www.cnbc.com/2026/09/09/kevin-simpson-buying-freeport-mcmoran.html",
           "published_at": "2026-09-09T16:22:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1010,
-      "title": "Is Earnings Beat Altering The Investment Case For Texas Instruments Stock (TXN)?",
-      "summary": "Texas Instruments (TXN) has seen strong recent earnings and revenue beats, supporting its investment case tied to resilient industrial and automotive chip demand. The company is investing heavily in manufacturing capacity, and current financial strength helps absorb depreciation, though analysts anticipate ongoing execution tests. Despite positive forecasts and a projected 25% upside to its fair value, the long-term investment narrative remains centered on careful management of capacity and competitive pressures.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-09T15:37:23",
-      "first_seen_at": "2026-09-09T19:00:03.338462",
-      "assets": [
-        {
-          "symbol": "TXN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.439851,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.900375
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.846355
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.704467
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.624848
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1123,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Is Earnings Beat Altering The Investment Case For Texas Instruments Stock (TXN)?",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-txn/texas-instruments/news/is-earnings-beat-altering-the-investment-case-for-texas-inst",
-          "published_at": "2026-09-09T15:37:23"
-        }
-      ]
-    },
-    {
-      "event_id": 993,
-      "title": "CASCADE INVESTMENT LLC's Recent Buy: Acquires $164.70M In Republic Services Stock",
-      "summary": "CASCADE INVESTMENT LLC, a 10% owner of Republic Services (NYSE: RSG), recently purchased 735,303 shares for $164.70 million, signaling confidence in the company. Republic Services, the second-largest waste management company, reported a 4.6% revenue growth, a 42.14% gross margin, and an EPS of 1.84, though it has a higher debt-to-equity ratio and its P/S ratio indicates potential overvaluation. This insider transaction highlights a belief in the stock's future rise, despite mixed financial metrics.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-09T15:02:16",
-      "first_seen_at": "2026-09-09T16:00:03.007831",
-      "assets": [
-        {
-          "symbol": "RSG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.328021,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945169
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944458
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1106,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "CASCADE INVESTMENT LLC's Recent Buy: Acquires $164.70M In Republic Services Stock",
-          "url": "https://www.benzinga.com/news/26/09/61690534/cascade-investment-llc-s-recent-buy-acquires-164-70m-republic-services-stock",
-          "published_at": "2026-09-09T15:02:16"
-        }
-      ]
-    },
-    {
-      "event_id": 994,
-      "title": "Las Vegas Sands stock hits 52-week low at $43.35",
-      "summary": "Las Vegas Sands Corporation (LVS) stock has fallen to a 52-week low of $43.35, marking a 38% decrease from its high and a 31% year-to-date decline. Despite strong gross profit margins and a low PEG ratio suggesting undervaluation, the company recently missed second-quarter earnings expectations, leading to analyst downgrades and reduced price targets from Argus, Mizuho, and Stifel, citing economic challenges in China and a slow recovery in Singapore.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-09T14:54:54",
-      "first_seen_at": "2026-09-09T16:00:03.274374",
-      "assets": [
-        {
-          "symbol": "LVS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.42494,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.949541
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944844
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.72836
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.644598
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.643768
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1107,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Las Vegas Sands stock hits 52-week low at $43.35",
-          "url": "https://www.investing.com/news/company-news/las-vegas-sands-stock-hits-52week-low-at-4335-93CH-4894042",
-          "published_at": "2026-09-09T14:54:54"
         }
       ]
     }
