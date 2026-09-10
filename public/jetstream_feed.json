@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1043,
+      "title": "Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks",
+      "summary": "Quanta (NYSE:PWR) outperformed in Q2 energy products and services earnings, reporting significantly higher revenues and adjusted diluted earnings per share than expected, leading to a stock increase of 11.8%. Other companies like Ameresco also beat revenue expectations, while FTAI Infrastructure and MDU Resources reported softer quarters with missed estimates. The overall sector saw mixed results, with revenues beating consensus estimates by 4%.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-10T19:17:00",
+      "first_seen_at": "2026-09-10T20:00:01.683883",
+      "assets": [
+        {
+          "symbol": "PWR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.731693,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.641418,
+          "sentiment_score": 0.032323,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928754
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909137
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849722
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.718734
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.644979
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1156,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks",
+          "url": "https://finance.yahoo.com/energy/articles/q2-energy-products-services-earnings-181704456.html",
+          "published_at": "2026-09-10T19:17:00"
+        }
+      ]
+    },
+    {
       "event_id": 1038,
       "title": "Union Pacific Hypes Rail Merger at Republican Midterm Convention",
       "summary": "Union Pacific is actively promoting its proposed merger with Norfolk Southern Corp. at the Republican midterm convention in Dallas. The company is using ads featuring a farmer advocating for the merger's benefits, such as cheaper and faster shipping, and is also highlighting labor union support. This push aims to garner political and public backing for creating the nation's first coast-to-coast freight network.",
@@ -20,7 +83,7 @@
           "symbol": "UNP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.307393,
+          "sentiment_score": 0.333825,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +91,7 @@
           "symbol": "NSC",
           "asset_class": null,
           "relevance_score": 0.83668,
-          "sentiment_score": 0.344335,
+          "sentiment_score": 0.339599,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -71,7 +134,7 @@
           "symbol": "PANW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.109023,
+          "sentiment_score": 0.100011,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -79,7 +142,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.637774,
-          "sentiment_score": 0.029059,
+          "sentiment_score": 0.037426,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -87,15 +150,15 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.912739
+          "relevance_score": 0.917552
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.834685
+          "relevance_score": 0.846758
         },
         {
           "topic": "technology",
-          "relevance_score": 0.820813
+          "relevance_score": 0.828894
         },
         {
           "topic": "finance",
@@ -134,7 +197,7 @@
           "symbol": "SWKS",
           "asset_class": null,
           "relevance_score": 0.998547,
-          "sentiment_score": 0.443758,
+          "sentiment_score": 0.435247,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -142,7 +205,7 @@
           "symbol": "AAPL",
           "asset_class": null,
           "relevance_score": 0.629495,
-          "sentiment_score": 0.125839,
+          "sentiment_score": 0.102417,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -150,7 +213,7 @@
           "symbol": "QCOM",
           "asset_class": null,
           "relevance_score": 0.58268,
-          "sentiment_score": 0.232531,
+          "sentiment_score": 0.212072,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -170,7 +233,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.734671
+          "relevance_score": 0.741144
         }
       ],
       "articles": [
@@ -1126,53 +1189,6 @@
           "headline": "SC utility buyout cleared by Dominion and NextEra shareholders",
           "url": "https://www.postandcourier.com/business/sc-electric-utility-dominion-energy-nextera/article_59329254-7d39-4ee3-b78a-9becbce7b99e.html",
           "published_at": "2026-09-09T17:59:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1007,
-      "title": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-      "summary": "Quantum computing stocks, including IonQ, Rigetti, and D-Wave, experienced a sharp decline as increasing odds of a Federal Reserve rate hike made speculative growth stocks less attractive. This market movement is attributed to the expectation of higher interest rates, which increases discount rates for future cash flows, particularly impacting pre-revenue companies. Despite broader market stability, quantum pure plays saw significant drops, highlighting their sensitivity to changes in monetary policy.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-09T17:00:41",
-      "first_seen_at": "2026-09-09T19:00:02.582219",
-      "assets": [
-        {
-          "symbol": "QUBT",
-          "asset_class": null,
-          "relevance_score": 0.926068,
-          "sentiment_score": -0.205332,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938099
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.844599
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.747188
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1120,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-          "url": "https://247wallst.com/investing/2026/09/09/quantum-stocks-fall-as-rate-hike-odds-climb-ionq-sinks-4-rigetti-and-d-wave-pull-back/",
-          "published_at": "2026-09-09T17:00:41"
         }
       ]
     }
