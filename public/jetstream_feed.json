@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1053,
+      "title": "Republic Services (NYSE:RSG) Major Shareholder Acquires $90,700,155.00 in Stock",
+      "summary": "Cascade Investment, L.L.C., a major shareholder in Republic Services (NYSE:RSG), recently acquired 409,500 shares of the company's stock for over $90.7 million. This purchase, made on September 8th, increased Cascade Investment's direct ownership to 116,166,330 shares, valued at approximately $25.7 billion. The article also details several other significant stock purchases made by Cascade Investment in late August and early September, highlighting substantial insider confidence in Republic Services.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-10T21:12:37",
+      "first_seen_at": "2026-09-10T22:00:02.305328",
+      "assets": [
+        {
+          "symbol": "RSG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.483243,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922837
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.836385
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.728837
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1167,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Republic Services (NYSE:RSG) Major Shareholder Acquires $90,700,155.00 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-republic-services-nyse-rsg-major-shareholder-acquires-9070015500-in-stock-2026-09-10/",
+          "published_at": "2026-09-10T21:12:37"
+        }
+      ]
+    },
+    {
+      "event_id": 1054,
+      "title": "Prologis Acquires 69 Acres For 1M SF Facility",
+      "summary": "Prologis has acquired 69 acres in Minooka, Illinois, to develop Minooka Exchange, a 1 million square-foot industrial logistics facility. This project will add significant modern logistics space to Chicago's supply-constrained market, breaking ground in the coming weeks. This acquisition follows another recent purchase in Glendale Heights for two Class-A logistics facilities, further expanding Prologis's substantial portfolio in the Chicago area.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-10T20:11:05",
+      "first_seen_at": "2026-09-10T22:00:02.569426",
+      "assets": [
+        {
+          "symbol": "PLD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.447275,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.923049
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.839462
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.647747
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.601453
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1168,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bisnow",
+          "source_domain": "Bisnow",
+          "headline": "Prologis Acquires 69 Acres For 1M SF Facility",
+          "url": "https://www.bisnow.com/news/chicago/industrial/prologis-acquires-69-acres-1m-sf-minooka-industrial-development",
+          "published_at": "2026-09-10T20:11:05"
+        }
+      ]
+    },
+    {
       "event_id": 1047,
       "title": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
       "summary": "Ford Motor Co. plans to invest $1 billion in a new paint shop at its Kentucky Truck Plant in Louisville, with groundbreaking expected by year-end. This announcement builds on Ford's previous investments in Kentucky, including a $2 billion transformation of the Louisville Assembly Plant for its Universal EV Platform. Governor Andy Beshear highlighted Ford's long-standing commitment to the state and its workforce, emphasizing the importance of American manufacturing.",
@@ -20,7 +118,7 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.399772,
+          "sentiment_score": 0.408303,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +130,11 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.826966
+          "relevance_score": 0.836328
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.821147
+          "relevance_score": 0.835155
         }
       ],
       "articles": [
@@ -155,7 +253,7 @@
           "symbol": "INOD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.381366,
+          "sentiment_score": -0.395413,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -167,7 +265,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.909876
+          "relevance_score": 0.929732
         },
         {
           "topic": "technology",
@@ -175,7 +273,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.705557
+          "relevance_score": 0.743499
         },
         {
           "topic": "economy_macro",
@@ -210,7 +308,7 @@
           "symbol": "PWR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.722598,
+          "sentiment_score": 0.707173,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -218,7 +316,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.641418,
-          "sentiment_score": 0.026822,
+          "sentiment_score": 0.042921,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -226,7 +324,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.928754
+          "relevance_score": 0.947083
         },
         {
           "topic": "earnings",
@@ -238,7 +336,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.72089
+          "relevance_score": 0.724045
         },
         {
           "topic": "real_estate",
@@ -1076,120 +1174,6 @@
           "headline": "Scotiabank Adjusts PT on Targa Resources to $314 From $257, Keeps Sector Outperform Rating",
           "url": "https://www.marketscreener.com/news/scotiabank-adjusts-pt-on-targa-resources-to-314-from-257-keeps-sector-outperform-rating-ce785bdedd8ef726",
           "published_at": "2026-09-10T10:32:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1018,
-      "title": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
-      "summary": "IPG Investment Advisors LLC has acquired a new stake of 4,840 shares in Analog Devices, Inc. (NASDAQ:ADI) valued at approximately $1.92 million. Analog Devices reported strong Q2 earnings, beating analyst estimates with an EPS of $3.45 and revenue of $4.02 billion, and declared a quarterly dividend of $1.10. The company maintains a \"Buy\" rating from analysts with an average price target of $457.97.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-10T10:17:39",
-      "first_seen_at": "2026-09-10T12:00:03.306334",
-      "assets": [
-        {
-          "symbol": "ADI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.310981,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ALB",
-          "asset_class": null,
-          "relevance_score": 0.608218,
-          "sentiment_score": 0.138374,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.602012,
-          "sentiment_score": 0.112601,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932057
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.801646
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.703574
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.646474
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1131,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-position-in-analog-devices-inc-adi-2026-09-10/",
-          "published_at": "2026-09-10T10:17:39"
-        }
-      ]
-    },
-    {
-      "event_id": 1019,
-      "title": "IPG Investment Advisors LLC Acquires New Stake in Match Group Inc. $MTCH",
-      "summary": "IPG Investment Advisors LLC has acquired a new stake of 49,437 shares in Match Group Inc. (NASDAQ:MTCH) during the second quarter, valued at approximately $1.88 million. Institutional investors now collectively own 94.05% of the company. Match Group reported strong quarterly EPS of $0.70, beating estimates, and declared a quarterly dividend of $0.20 per share, while analysts maintain a \"Moderate Buy\" rating with an average price target of $42.46.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-10T10:17:14",
-      "first_seen_at": "2026-09-10T12:00:03.620875",
-      "assets": [
-        {
-          "symbol": "MTCH",
-          "asset_class": null,
-          "relevance_score": 0.997457,
-          "sentiment_score": 0.273908,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.902663
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844597
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.727793
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1132,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "IPG Investment Advisors LLC Acquires New Stake in Match Group Inc. $MTCH",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-stake-in-match-group-inc-mtch-2026-09-10/",
-          "published_at": "2026-09-10T10:17:14"
         }
       ]
     }
