@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1038,
+      "title": "Union Pacific Hypes Rail Merger at Republican Midterm Convention",
+      "summary": "Union Pacific is actively promoting its proposed merger with Norfolk Southern Corp. at the Republican midterm convention in Dallas. The company is using ads featuring a farmer advocating for the merger's benefits, such as cheaper and faster shipping, and is also highlighting labor union support. This push aims to garner political and public backing for creating the nation's first coast-to-coast freight network.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-09-10T17:31:03",
+      "first_seen_at": "2026-09-10T19:00:02.312012",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.307393,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.83668,
+          "sentiment_score": 0.344335,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.91365
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.83061
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1151,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg Government News",
+          "source_domain": "Bloomberg Government News",
+          "headline": "Union Pacific Hypes Rail Merger at Republican Midterm Convention",
+          "url": "https://news.bgov.com/bloomberg-government-news/union-pacific-hypes-rail-merger-at-republican-midterm-convention",
+          "published_at": "2026-09-10T17:31:03"
+        }
+      ]
+    },
+    {
+      "event_id": 1039,
+      "title": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
+      "summary": "Palo Alto Networks reported strong fiscal fourth-quarter revenue growth and a 63% increase in Next-Generation Security ARR, alongside a significant GAAP net loss of $282 million attributed to acquisition costs and share-based compensation. While commercial indicators and cash generation are strong, the company's ability to achieve durable GAAP profitability depends on whether integration costs and amortization become smaller relative to revenue. The report also notes increased hedge fund sentiment towards PANW before the latest financial results.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-10T17:31:00",
+      "first_seen_at": "2026-09-10T19:00:02.620936",
+      "assets": [
+        {
+          "symbol": "PANW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.109023,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.637774,
+          "sentiment_score": 0.029059,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912739
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.834685
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.820813
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.624903
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.622819
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1152,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-panw-reports-63-173118350.html",
+          "published_at": "2026-09-10T17:31:00"
+        }
+      ]
+    },
+    {
       "event_id": 1034,
       "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
       "summary": "Skyworks Solutions (SWKS) and Qorvo (QRVO) saw significant stock surges of 10% and 6% respectively, while the broader semiconductor market experienced a decline. This divergence suggests that the market is pricing in increased optimism for their proposed merger, as Skyworks' CEO Phil Brace previously indicated the China review had entered its final phase with a target close by year-end. Investors are closely watching for formal regulatory decisions or merger-completion disclosures as the transaction appears to be nearing its conclusion.",
@@ -20,23 +134,23 @@
           "symbol": "SWKS",
           "asset_class": null,
           "relevance_score": 0.998547,
-          "sentiment_score": 0.428015,
+          "sentiment_score": 0.443758,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AAPL",
           "asset_class": null,
-          "relevance_score": 0.618376,
-          "sentiment_score": 0.129963,
+          "relevance_score": 0.629495,
+          "sentiment_score": 0.125839,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "QCOM",
           "asset_class": null,
-          "relevance_score": 0.57956,
-          "sentiment_score": 0.221995,
+          "relevance_score": 0.58268,
+          "sentiment_score": 0.232531,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -56,7 +170,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.700676
+          "relevance_score": 0.734671
         }
       ],
       "articles": [
@@ -87,7 +201,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.434573,
+          "sentiment_score": -0.410755,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
@@ -95,7 +209,7 @@
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 0.730984,
-          "sentiment_score": -0.240113,
+          "sentiment_score": -0.211393,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -103,7 +217,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.641757,
-          "sentiment_score": -0.139541,
+          "sentiment_score": -0.141204,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -111,19 +225,19 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.938575
+          "relevance_score": 0.938836
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.814528
+          "relevance_score": 0.825042
         },
         {
           "topic": "finance",
-          "relevance_score": 0.725946
+          "relevance_score": 0.742207
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.623443
+          "relevance_score": 0.647607
         }
       ],
       "articles": [
@@ -154,19 +268,19 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.8984,
-          "sentiment_score": 0.396884,
+          "sentiment_score": 0.395351,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.938568
+          "topic": "earnings",
+          "relevance_score": 0.94748
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.903089
+          "topic": "energy_transportation",
+          "relevance_score": 0.938568
         },
         {
           "topic": "financial_markets",
@@ -1059,112 +1173,6 @@
           "headline": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
           "url": "https://247wallst.com/investing/2026/09/09/quantum-stocks-fall-as-rate-hike-odds-climb-ionq-sinks-4-rigetti-and-d-wave-pull-back/",
           "published_at": "2026-09-09T17:00:41"
-        }
-      ]
-    },
-    {
-      "event_id": 1008,
-      "title": "Data center community advocacy groups seek local public hearings on Dominion-NextEra merger",
-      "summary": "A coalition of nine Virginia community advocacy groups, including Protect Stafford and Safeguard Spotsy, is advocating for increased transparency and public participation in the review of the proposed $67 billion Dominion Energy-NextEra Energy merger. They are requesting in-person regional public hearings across Dominion's service territory and a reconsideration of the statutory timeframe for the State Corporation Commission's decision, which they deem inadequate for such a complex transaction. Delegate Joshua Cole also opposes the merger, citing concerns about monopoly creation and the ability to meet energy demands for data centers, and suggests state lawmakers could address the issue in a current special session.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-09T16:51:49",
-      "first_seen_at": "2026-09-09T19:00:02.840616",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.011866,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.973996,
-          "sentiment_score": 0.010617,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.838269
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.717542
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1121,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Fredericksburg Free Press",
-          "source_domain": "Fredericksburg Free Press",
-          "headline": "Data center community advocacy groups seek local public hearings on Dominion-NextEra merger",
-          "url": "https://www.fredericksburgfreepress.com/2026/09/09/data-center-community-advocacy-groups-seek-local-public-hearings-on-dominion-nextera-merger/",
-          "published_at": "2026-09-09T16:51:49"
-        }
-      ]
-    },
-    {
-      "event_id": 1004,
-      "title": "AI is fueling copper demand. Kevin Simpson thinks this volatile miner is worth the risk",
-      "summary": "Kevin Simpson has added Freeport McMoRan Inc. to his dividend income portfolio, viewing it as a calculated risk given copper's strong long-term supply-demand story, driven by AI and data center needs. Despite the stock's volatility and recent price run-up, he believes the valuation becomes more attractive when considering 2027 earnings projections, and the company offers direct exposure to rising copper demand and limited new supply. Key catalysts include recovering production from the Grasberg mine and the significant leverage Freeport provides to higher copper prices.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 68,
-      "published_at": "2026-09-09T16:22:08",
-      "first_seen_at": "2026-09-09T18:00:01.716637",
-      "assets": [
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.496112,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918486
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.848488
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.846029
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.743117
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1117,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "AI is fueling copper demand. Kevin Simpson thinks this volatile miner is worth the risk",
-          "url": "https://www.cnbc.com/2026/09/09/kevin-simpson-buying-freeport-mcmoran.html",
-          "published_at": "2026-09-09T16:22:08"
         }
       ]
     }
