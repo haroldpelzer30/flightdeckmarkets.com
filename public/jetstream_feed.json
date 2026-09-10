@@ -5,6 +5,175 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1024,
+      "title": "Targa Resources (NYSE:TRGP) Receives Buy Rating from Stifel Nicolaus",
+      "summary": "Stifel Nicolaus reaffirmed its \"buy\" rating for Targa Resources (NYSE:TRGP), setting a price target of $340, which suggests a 16.66% upside. Despite beating EPS estimates, the company's revenue for the quarter fell short of forecasts. Institutional investors hold a significant portion of the company's stock, while insiders have recently sold shares.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-10T12:10:15",
+      "first_seen_at": "2026-09-10T14:00:01.913776",
+      "assets": [
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.536208,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939777
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910431
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.823925
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1137,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Targa Resources (NYSE:TRGP) Receives Buy Rating from Stifel Nicolaus",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-targa-resources-nyse-trgp-receives-buy-rating-from-stifel-nicolaus-2026-09-10/",
+          "published_at": "2026-09-10T12:10:15"
+        }
+      ]
+    },
+    {
+      "event_id": 1025,
+      "title": "Beyond Meta and Nuclear: Inside Vistra’s Real Power Play",
+      "summary": "Vistra is transforming into a multi-asset, hyperscaler-anchored power platform, driven by CEO Jim Burke's strategy. The company has secured long-term nuclear power deals with Meta and AWS, acquired significant natural gas generation assets, and invested $1 billion in an AI venture with NVIDIA and KKR. This aggressive expansion positions Vistra as a key power provider for the growing AI data center market, despite the company's current debt load and integration risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-10T12:00:34",
+      "first_seen_at": "2026-09-10T14:00:02.248956",
+      "assets": [
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.361965,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.818831,
+          "sentiment_score": 0.283735,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.620901,
+          "sentiment_score": 0.214267,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KKR",
+          "asset_class": null,
+          "relevance_score": 0.553574,
+          "sentiment_score": 0.229164,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.93613
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.913539
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.807871
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.624575
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.608707
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1138,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Beyond Meta and Nuclear: Inside Vistra’s Real Power Play",
+          "url": "https://247wallst.com/investing/2026/09/10/beyond-meta-and-nuclear-inside-vistras-real-power-play/",
+          "published_at": "2026-09-10T12:00:34"
+        }
+      ]
+    },
+    {
+      "event_id": 1026,
+      "title": "Orogen Royalties Acquires the Serpent Gold Project in Nevada",
+      "summary": "Orogen Royalties Inc. has acquired the Serpent gold project in Nevada, a district-scale, low-sulphidation epithermal gold target with highly anomalous gold in rock samples and no prior drilling. The project features an eight-kilometer trend of alteration and gold-bearing structures, showing potential for significant epithermal mineralization at depth. Orogen plans to showcase the project at its upcoming Project Generator Day on September 16th, making it available for option or sale.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-10T11:51:50",
+      "first_seen_at": "2026-09-10T14:00:02.573676",
+      "assets": [
+        {
+          "symbol": "ACCS",
+          "asset_class": null,
+          "relevance_score": 0.307136,
+          "sentiment_score": 0.003507,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.930142
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828648
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1139,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ACCESS Newswire",
+          "source_domain": "ACCESS Newswire",
+          "headline": "Orogen Royalties Acquires the Serpent Gold Project in Nevada",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/orogen-royalties-acquires-the-serpent-gold-project-in-nevada-1218983",
+          "published_at": "2026-09-10T11:51:50"
+        }
+      ]
+    },
+    {
       "event_id": 1021,
       "title": "Junto Capital Management LP Acquires Shares of 412,747 UMB Financial Corporation $UMBF",
       "summary": "Junto Capital Management LP has acquired 412,747 shares of UMB Financial Corporation (NASDAQ: UMBF), valued at approximately $58.9 million, giving the firm a 0.54% stake in the company. Institutional investors now collectively own 87.78% of UMB Financial. Analysts have a \"Moderate Buy\" rating with an average price target of $168.92, while the company also reported strong quarterly earnings and increased its quarterly dividend.",
@@ -20,7 +189,7 @@
           "symbol": "UMBF",
           "asset_class": null,
           "relevance_score": 0.998228,
-          "sentiment_score": 0.650646,
+          "sentiment_score": 0.660628,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +197,7 @@
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.649478,
-          "sentiment_score": 0.120719,
+          "sentiment_score": 0.116722,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -36,15 +205,15 @@
       "topics": [
         {
           "topic": "finance",
-          "relevance_score": 0.911238
+          "relevance_score": 0.948601
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.81355
+          "relevance_score": 0.822522
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.707616
+          "relevance_score": 0.738524
         }
       ],
       "articles": [
@@ -908,175 +1077,6 @@
           "headline": "Helios Technologies' Enovation Controls Acquires Radio Sound Assets",
           "url": "https://www.marketscreener.com/news/helios-technologies-enovation-controls-acquires-radio-sound-assets-ce785bd9de8df72d",
           "published_at": "2026-09-09T13:45:03"
-        }
-      ]
-    },
-    {
-      "event_id": 990,
-      "title": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
-      "summary": "Chevron's stock has reached an all-time high of $214.85 USD, currently trading at $215.17, giving the company a market capitalization of $417 billion. The stock has seen a 35.64% increase over the past year and 41.5% year-to-date, reflecting strong financial health and investor confidence. InvestingPro analysis suggests Chevron is undervalued and highlights its consistent dividend increases for 38 consecutive years.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-09T13:43:02",
-      "first_seen_at": "2026-09-09T15:00:02.144808",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.818513,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.591907,
-          "sentiment_score": 0.307972,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941101
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.836917
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.746274
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.72181
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1103,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Chevron stock hits all-time high at 214.85 USD By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/chevron-stock-hits-alltime-high-at-21485-usd-93CH-4832825",
-          "published_at": "2026-09-09T13:43:02"
-        }
-      ]
-    },
-    {
-      "event_id": 999,
-      "title": "Conocophillips stock hits 52-week high at 137.57 USD",
-      "summary": "Conocophillips (COP) stock reached a 52-week high of $137.57, reflecting a robust 45.27% increase over the past year and a 51.64% total return. This performance is attributed to favorable market conditions and strong operational execution, with analysts suggesting the stock remains undervalued despite recent gains. The company also reported strong Q2 2026 earnings, exceeding analyst estimates, and announced strategic initiatives like a revised price target from UBS and an acquisition by Aker BP involving ConocoPhillips Skandinavia assets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-09T13:42:28",
-      "first_seen_at": "2026-09-09T16:00:04.554420",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.464577,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.702678,
-          "sentiment_score": 0.201203,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916305
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.903146
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.832171
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.737194
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1112,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Conocophillips stock hits 52-week high at 137.57 USD",
-          "url": "https://www.investing.com/news/company-news/conocophillips-stock-hits-52week-high-at-13757-usd-93CH-4893822",
-          "published_at": "2026-09-09T13:42:28"
-        }
-      ]
-    },
-    {
-      "event_id": 987,
-      "title": "ExxonMobil at Barclays energy-power conference: growth through disruption",
-      "summary": "ExxonMobil CFO Neil Hansen highlighted the company's scale, technology, and project discipline as key to navigating volatile energy markets at the Barclays 40th Annual Energy-Power Conference. Hansen detailed how ExxonMobil is leveraging its integrated model, strong balance sheet, and long-term investment strategy to drive growth and shareholder value, pointing to successful Pioneer acquisition synergies and accelerated Guyana cost recovery. The company also emphasized its focus on new growth areas like LNG, advanced resins, and graphite battery materials, alongside continued frontier exploration, projecting significant earnings and cash flow growth through 2030 and beyond.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-09T12:55:05",
-      "first_seen_at": "2026-09-09T14:00:02.809667",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.457144,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948707
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935905
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832818
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.738708
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1100,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "ExxonMobil at Barclays energy-power conference: growth through disruption",
-          "url": "https://www.investing.com/news/transcripts/exxonmobil-at-barclays-energypower-conference-growth-through-disruption-93CH-4893590",
-          "published_at": "2026-09-09T12:55:05"
         }
       ]
     }
