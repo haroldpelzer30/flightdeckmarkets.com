@@ -20,7 +20,7 @@
           "symbol": "RSG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.483243,
+          "sentiment_score": 0.458227,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -67,7 +67,7 @@
           "symbol": "PLD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.447275,
+          "sentiment_score": 0.434015,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -75,7 +75,7 @@
       "topics": [
         {
           "topic": "real_estate",
-          "relevance_score": 0.923049
+          "relevance_score": 0.936829
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -87,7 +87,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.601453
+          "relevance_score": 0.620537
         }
       ],
       "articles": [
@@ -118,7 +118,7 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.408303,
+          "sentiment_score": 0.612332,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
