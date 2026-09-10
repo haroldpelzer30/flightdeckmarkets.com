@@ -5,6 +5,196 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1047,
+      "title": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
+      "summary": "Ford Motor Co. plans to invest $1 billion in a new paint shop at its Kentucky Truck Plant in Louisville, with groundbreaking expected by year-end. This announcement builds on Ford's previous investments in Kentucky, including a $2 billion transformation of the Louisville Assembly Plant for its Universal EV Platform. Governor Andy Beshear highlighted Ford's long-standing commitment to the state and its workforce, emphasizing the importance of American manufacturing.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-10T20:00:27",
+      "first_seen_at": "2026-09-10T21:00:02.584945",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.399772,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.826966
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.821147
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1161,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Detroit News",
+          "source_domain": "The Detroit News",
+          "headline": "Ford to invest $1B for new paint shop at Kentucky Truck Plant",
+          "url": "https://eu.detroitnews.com/story/business/autos/ford/2026/09/10/ford-kentucky-truck-plant-paint-shop/91691315007/",
+          "published_at": "2026-09-10T18:18:59"
+        },
+        {
+          "article_id": 1160,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WCLU Radio",
+          "source_domain": "WCLU Radio",
+          "headline": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
+          "url": "https://www.wcluradio.com/2026/09/10/ford-to-invest-1-b-in-new-paint-shop-at-the-kentucky-truck-plant-in-louisville/",
+          "published_at": "2026-09-10T20:00:27"
+        }
+      ]
+    },
+    {
+      "event_id": 1048,
+      "title": "Halliburton (NYSE:HAL) Gains As Oil Shock Meets Global Expansion",
+      "summary": "Halliburton (NYSE:HAL) shares gained as crude oil prices surged past the century mark due to Middle East supply concerns, boosting demand for oilfield services. The company's recent contracts for integrated well construction offshore Suriname and Brazil highlight its strong international project pipeline and strategic focus on global expansion and margin growth, counteracting geopolitical disruptions. Halliburton's performance reflects its role as a key indicator for exploration and production spending in a tightening crude market.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-10T19:49:05",
+      "first_seen_at": "2026-09-10T21:00:02.867907",
+      "assets": [
+        {
+          "symbol": "HAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.479377,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMB",
+          "asset_class": null,
+          "relevance_score": 0.640114,
+          "sentiment_score": 0.349054,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.629768,
+          "sentiment_score": 0.330467,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMI",
+          "asset_class": null,
+          "relevance_score": 0.623917,
+          "sentiment_score": 0.337997,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.580089,
+          "sentiment_score": 0.269041,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.929692
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.82996
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.729478
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1162,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Halliburton (NYSE:HAL) Gains As Oil Shock Meets Global Expansion",
+          "url": "https://kalkinemedia.com/us/stocks/energy/halliburton-nysehal-gains-as-oil-shock-meets-global-expansion",
+          "published_at": "2026-09-10T19:49:05"
+        }
+      ]
+    },
+    {
+      "event_id": 1049,
+      "title": "Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2",
+      "summary": "Prosper Stars & Stripes, a long/short equity fund, reported a strong net return of +30.1% in Q2 2026, outperforming major indices. Despite the overall positive performance, Innodata Inc. (INOD) was the largest detractor in their short book, leading the fund to cover its position. The fund expressed concerns about Innodata's business model, including customer concentration, narrow moat, project-based revenue, and the threat of AI self-improvement, even as Innodata reported an exceptional quarter.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-10T19:31:24",
+      "first_seen_at": "2026-09-10T21:00:03.132384",
+      "assets": [
+        {
+          "symbol": "INOD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.381366,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.947874
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909876
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.81951
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.705557
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.609231
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1163,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prosper-stars-stripes-covered-innodata-131934072.html",
+          "published_at": "2026-09-10T19:31:24"
+        }
+      ]
+    },
+    {
       "event_id": 1043,
       "title": "Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks",
       "summary": "Quanta (NYSE:PWR) outperformed in Q2 energy products and services earnings, reporting significantly higher revenues and adjusted diluted earnings per share than expected, leading to a stock increase of 11.8%. Other companies like Ameresco also beat revenue expectations, while FTAI Infrastructure and MDU Resources reported softer quarters with missed estimates. The overall sector saw mixed results, with revenues beating consensus estimates by 4%.",
@@ -20,7 +210,7 @@
           "symbol": "PWR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.731693,
+          "sentiment_score": 0.722598,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +218,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.641418,
-          "sentiment_score": 0.032323,
+          "sentiment_score": 0.026822,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,7 +230,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.909137
+          "relevance_score": 0.912316
         },
         {
           "topic": "financial_markets",
@@ -48,7 +238,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.718734
+          "relevance_score": 0.72089
         },
         {
           "topic": "real_estate",
@@ -83,7 +273,7 @@
           "symbol": "UNP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.333825,
+          "sentiment_score": 0.332037,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -91,7 +281,7 @@
           "symbol": "NSC",
           "asset_class": null,
           "relevance_score": 0.83668,
-          "sentiment_score": 0.339599,
+          "sentiment_score": 0.334132,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -99,7 +289,7 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.91365
+          "relevance_score": 0.924009
         },
         {
           "topic": "energy_transportation",
@@ -134,7 +324,7 @@
           "symbol": "PANW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.100011,
+          "sentiment_score": 0.145085,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -142,7 +332,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.637774,
-          "sentiment_score": 0.037426,
+          "sentiment_score": 0.027907,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -150,7 +340,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.917552
+          "relevance_score": 0.931785
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -161,12 +351,12 @@
           "relevance_score": 0.828894
         },
         {
-          "topic": "finance",
-          "relevance_score": 0.624903
+          "topic": "financial_markets",
+          "relevance_score": 0.633238
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.622819
+          "topic": "finance",
+          "relevance_score": 0.624903
         }
       ],
       "articles": [
@@ -1000,195 +1190,6 @@
           "headline": "IPG Investment Advisors LLC Acquires New Stake in Match Group Inc. $MTCH",
           "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-stake-in-match-group-inc-mtch-2026-09-10/",
           "published_at": "2026-09-10T10:17:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1020,
-      "title": "WINTON GROUP Ltd Acquires Shares of 78,260 Dollar Tree, Inc. $DLTR",
-      "summary": "WINTON GROUP Ltd purchased 78,260 shares of Dollar Tree, Inc. (NASDAQ:DLTR) in the second quarter, valued at approximately $9.466 million. Other institutional investors also adjusted their holdings in DLTR, with institutional investors and hedge funds collectively owning 97.40% of the company's stock. Analysts have an average \"Hold\" rating and a target price of $131.68 for Dollar Tree, which recently authorized a $2.50 billion share buyback plan.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-10T10:16:46",
-      "first_seen_at": "2026-09-10T12:00:03.875721",
-      "assets": [
-        {
-          "symbol": "DLTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.282647,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 0.633702,
-          "sentiment_score": 0.116677,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.91381
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826422
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.739208
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648585
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.636178
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1133,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "WINTON GROUP Ltd Acquires Shares of 78,260 Dollar Tree, Inc. $DLTR",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-shares-of-78260-dollar-tree-inc-dltr-2026-09-10/",
-          "published_at": "2026-09-10T10:16:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1014,
-      "title": "‘The clock is ticking’: Hashmi talks with Hampton Roads residents about Dominion Energy merger",
-      "summary": "Lt. Gov. Ghazala Hashmi held a listening tour in Hampton Roads, gathering concerns from residents about the proposed $67 billion merger between Dominion Energy and NextEra Energy. Residents expressed worries over potential bill increases, grid reliability, and job losses, particularly given NextEra's track record in Florida. While Hashmi has not taken a stance, she emphasized that the merger's approval by the Virginia State Corporation Commission should hinge on its proven benefits for Virginians, especially regarding affordability and service.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 83,
-      "published_at": "2026-09-09T18:35:41",
-      "first_seen_at": "2026-09-09T21:00:02.561506",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.994429,
-          "sentiment_score": -0.304742,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.923698,
-          "sentiment_score": -0.325723,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.929838
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.749821
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1127,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WHRO",
-          "source_domain": "WHRO",
-          "headline": "‘The clock is ticking’: Hashmi talks with Hampton Roads residents about Dominion Energy merger",
-          "url": "https://www.whro.org/business-growth/2026-09-09/the-clock-is-ticking-hashmi-talks-with-hampton-roads-residents-about-dominion-energy-merger",
-          "published_at": "2026-09-09T18:35:41"
-        }
-      ]
-    },
-    {
-      "event_id": 1011,
-      "title": "SC utility buyout cleared by Dominion and NextEra shareholders",
-      "summary": "Shareholders of Dominion Energy and NextEra Energy have approved a $67 billion deal to combine the utilities, with NextEra as the owner, clearing an early hurdle for what would become the world's largest regulated power utility by stock market value. The all-stock deal, announced on May 18, faces scrutiny from consumer groups and politicians but is expected to close in the second half of next year if approved by state and federal agencies. The acquisition aims to address growing power demands, especially from data centers, and promises a $2.25 billion billing credit for Dominion's South Carolina ratepayers over two years.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-09T17:59:28",
-      "first_seen_at": "2026-09-09T20:00:02.070655",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.981611,
-          "sentiment_score": 0.304182,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.945501,
-          "sentiment_score": 0.321512,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.64951,
-          "sentiment_score": 0.101977,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.617159,
-          "sentiment_score": 0.14655,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.847725
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.622386
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1124,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Post and Courier",
-          "source_domain": "Post and Courier",
-          "headline": "SC utility buyout cleared by Dominion and NextEra shareholders",
-          "url": "https://www.postandcourier.com/business/sc-electric-utility-dominion-energy-nextera/article_59329254-7d39-4ee3-b78a-9becbce7b99e.html",
-          "published_at": "2026-09-09T17:59:28"
         }
       ]
     }
