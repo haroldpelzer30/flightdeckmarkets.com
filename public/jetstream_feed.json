@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1064,
+      "title": "What is moving American Tower (NYSE:AMT) shares in today's market?",
+      "summary": "American Tower (NYSE:AMT) shares are currently influenced by a challenging macro environment characterized by higher energy costs, elevated bond yields, and inflation concerns. The market is increasingly scrutinizing companies' operating execution, demand quality, and cost control, particularly within the Infrastructure and Real Estate sector where American Tower operates. Investors are focusing on how well the company can convert demand into cash flow without relying on external funding, rather than any specific company announcement.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-11T11:09:59",
+      "first_seen_at": "2026-09-11T14:00:02.985209",
+      "assets": [
+        {
+          "symbol": "AMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.076844,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.599441,
+          "sentiment_score": 0.030986,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.583586,
+          "sentiment_score": 0.003982,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.575752,
+          "sentiment_score": 0.047459,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.935617
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912799
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825904
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.728289
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.615444
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1179,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "What is moving American Tower (NYSE:AMT) shares in today's market?",
+          "url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/what-is-moving-american-tower-nyseamt-shares-in-todays-market",
+          "published_at": "2026-09-11T11:09:59"
+        }
+      ]
+    },
+    {
       "event_id": 1063,
       "title": "WINTON GROUP Ltd Acquires New Position in CenterPoint Energy, Inc. $CNP",
       "summary": "WINTON GROUP Ltd has acquired a new position in CenterPoint Energy, Inc. (NYSE:CNP) during the second quarter, purchasing 78,786 shares valued at approximately $3.47 million. CenterPoint Energy reported strong quarterly results, beating EPS and revenue estimates, and reaffirmed its FY 2026 EPS guidance while also raising its quarterly dividend. Analysts currently rate the stock as a \"Moderate Buy\" with an average price target of $45.36.",
@@ -1127,61 +1206,6 @@
           "headline": "Orogen Royalties Acquires the Serpent Gold Project in Nevada",
           "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/orogen-royalties-acquires-the-serpent-gold-project-in-nevada-1218983",
           "published_at": "2026-09-10T11:51:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1021,
-      "title": "Junto Capital Management LP Acquires Shares of 412,747 UMB Financial Corporation $UMBF",
-      "summary": "Junto Capital Management LP has acquired 412,747 shares of UMB Financial Corporation (NASDAQ: UMBF), valued at approximately $58.9 million, giving the firm a 0.54% stake in the company. Institutional investors now collectively own 87.78% of UMB Financial. Analysts have a \"Moderate Buy\" rating with an average price target of $168.92, while the company also reported strong quarterly earnings and increased its quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-10T10:56:49",
-      "first_seen_at": "2026-09-10T13:00:02.990421",
-      "assets": [
-        {
-          "symbol": "UMBF",
-          "asset_class": null,
-          "relevance_score": 0.998228,
-          "sentiment_score": 0.660628,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.649478,
-          "sentiment_score": 0.116722,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.948601
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.822522
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.738524
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1134,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Junto Capital Management LP Acquires Shares of 412,747 UMB Financial Corporation $UMBF",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-acquires-shares-of-412747-umb-financial-corporation-umbf-2026-09-10/",
-          "published_at": "2026-09-10T10:56:49"
         }
       ]
     }
