@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1061,
+      "title": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
+      "summary": "American Electric Power (AEP) saw its stock advance as utility companies outperformed the broader market. This gain is attributed to surging crude prices, increased demand from data centers and industrial expansion driving capital planning for AEP's transmission network, and the defensive nature of utility stocks attracting investors during geopolitical unease. The company's regulated model and extensive transmission infrastructure are key differentiators supporting predictable earnings growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-10T22:45:16",
+      "first_seen_at": "2026-09-11T00:00:02.245659",
+      "assets": [
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405472,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.638402,
+          "sentiment_score": 0.248542,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 0.619758,
+          "sentiment_score": 0.244256,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93918
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.926992
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.822715
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1176,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
+          "url": "https://kalkinemedia.com/us/stocks/utility/american-electric-power-nasdaqaep-gains-as-utilities-outperform-broader-market",
+          "published_at": "2026-09-10T22:45:16"
+        }
+      ]
+    },
+    {
       "event_id": 1053,
       "title": "Republic Services (NYSE:RSG) Major Shareholder Acquires $90,700,155.00 in Stock",
       "summary": "Cascade Investment, L.L.C., a major shareholder in Republic Services (NYSE:RSG), recently acquired 409,500 shares of the company's stock for over $90.7 million. This purchase, made on September 8th, increased Cascade Investment's direct ownership to 116,166,330 shares, valued at approximately $25.7 billion. The article also details several other significant stock purchases made by Cascade Investment in late August and early September, highlighting substantial insider confidence in Republic Services.",
@@ -20,7 +83,7 @@
           "symbol": "RSG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.458227,
+          "sentiment_score": 0.460777,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,7 +91,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.922837
+          "relevance_score": 0.935439
         },
         {
           "topic": "financial_markets",
@@ -36,7 +99,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.728837
+          "relevance_score": 0.730386
         }
       ],
       "articles": [
@@ -1123,57 +1186,6 @@
           "headline": "Junto Capital Management LP Acquires Shares of 1,232,323 Bank of America Corporation $BAC",
           "url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-acquires-shares-of-1232323-bank-of-america-corporation-bac-2026-09-10/",
           "published_at": "2026-09-10T10:44:23"
-        }
-      ]
-    },
-    {
-      "event_id": 1017,
-      "title": "Scotiabank Adjusts PT on Targa Resources to $314 From $257, Keeps Sector Outperform Rating",
-      "summary": "Scotiabank has increased its price target for Targa Resources (TRGP) to $314 from $257, while maintaining a \"Sector Outperform\" rating on the stock. This adjustment reflects the bank's continued positive outlook on the company's performance within its sector. The report from MT Newswires indicates a positive reassessment of Targa Resources' valuation by Scotiabank.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-10T10:32:43",
-      "first_seen_at": "2026-09-10T12:00:02.964844",
-      "assets": [
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.496271,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930816
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930145
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.84423
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.721116
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1130,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "Scotiabank Adjusts PT on Targa Resources to $314 From $257, Keeps Sector Outperform Rating",
-          "url": "https://www.marketscreener.com/news/scotiabank-adjusts-pt-on-targa-resources-to-314-from-257-keeps-sector-outperform-rating-ce785bdedd8ef726",
-          "published_at": "2026-09-10T10:32:43"
         }
       ]
     }
