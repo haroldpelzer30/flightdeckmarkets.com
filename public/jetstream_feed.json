@@ -5,6 +5,191 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1073,
+      "title": "SMCI or NTAP: Which Is the Better Value Stock Right Now?",
+      "summary": "This article compares Super Micro Computer (SMCI) and NetApp (NTAP) as potential value stock investments, both currently holding a Zacks Rank of #1 (Strong Buy). Analyzing valuation metrics like P/E, PEG, and P/B ratios, the article concludes that SMCI appears to be the superior value option with stronger metrics compared to NTAP.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-11T15:40:00",
+      "first_seen_at": "2026-09-11T17:00:02.540608",
+      "assets": [
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.439093,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 0.947966,
+          "sentiment_score": 0.149824,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.648427,
+          "sentiment_score": 0.013591,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.94665
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913793
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.809904
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1189,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "SMCI or NTAP: Which Is the Better Value Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smci-ntap-better-value-stock-154002078.html",
+          "published_at": "2026-09-11T15:40:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1074,
+      "title": "Bank7 Corp. Boosts Century Financial Acquisition Offer to $88.96 Million After Court Auction",
+      "summary": "Bank7 Corp. has increased its acquisition offer for Century Financial Services Corporation to $88.96 million after winning a court-supervised auction with a $91 million bid. The revised price reflects a $2.04 million break-up fee credit. The deal, which covers approximately 71% of Century's common stock, is contingent on court and regulatory approvals.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-11T15:38:22",
+      "first_seen_at": "2026-09-11T17:00:02.839464",
+      "assets": [
+        {
+          "symbol": "BSVN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.479006,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.94445
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1190,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Bank7 Corp. Boosts Century Financial Acquisition Offer to $88.96 Million After Court Auction",
+          "url": "https://kalkinemedia.com/us/news/announcements/bank7-corp-boosts-century-financial-acquisition-offer-to-8896-million-after-court-auction",
+          "published_at": "2026-09-11T15:38:22"
+        }
+      ]
+    },
+    {
+      "event_id": 1075,
+      "title": "AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
+      "summary": "The article highlights five dividend utility stocks poised to benefit from the massive power demands of AI data centers. Companies like Southern Company, Duke Energy, WEC Energy Group, Xcel Energy, and Consolidated Edison are expanding their infrastructure to meet this growing demand, turning capital expenditures into predictable earnings and steady dividends. Each company offers unique advantages and risks, catering to different investment strategies focused on income durability or growth potential.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-11T15:37:43",
+      "first_seen_at": "2026-09-11T17:00:03.086331",
+      "assets": [
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 0.959751,
+          "sentiment_score": 0.434831,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.910379,
+          "sentiment_score": 0.431735,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WEC",
+          "asset_class": null,
+          "relevance_score": 0.862907,
+          "sentiment_score": 0.399151,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 0.826356,
+          "sentiment_score": 0.343092,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ED",
+          "asset_class": null,
+          "relevance_score": 0.820782,
+          "sentiment_score": 0.474597,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945186
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.820815
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.724472
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1191,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
+          "url": "https://247wallst.com/investing/2026/09/11/ai-data-centers-need-enormous-amounts-of-power-these-5-dividend-stocks-provide-it/",
+          "published_at": "2026-09-11T15:37:43"
+        }
+      ]
+    },
+    {
       "event_id": 1069,
       "title": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
       "summary": "Kroger has lowered its annual sales forecast due to persistent inflation and intense competition in the grocery sector, which are impacting consumer spending. The company expects comparable sales excluding fuel to grow by a maximum of 0.8%, down from a previous estimate of 2%. CEO Greg Foran is implementing strategies like price reductions and improved store services to gain market share amidst a challenging economic environment where consumers are tightening budgets.",
@@ -20,15 +205,15 @@
           "symbol": "KR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.415534,
+          "sentiment_score": -0.429261,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "WMT",
           "asset_class": null,
-          "relevance_score": 0.710322,
-          "sentiment_score": -0.108408,
+          "relevance_score": 0.711968,
+          "sentiment_score": -0.100945,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +221,7 @@
           "symbol": "COST",
           "asset_class": null,
           "relevance_score": 0.648199,
-          "sentiment_score": -0.132289,
+          "sentiment_score": -0.120111,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -48,15 +233,15 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.819253
+          "relevance_score": 0.8275
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.800563
+          "relevance_score": 0.806758
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.730375
+          "relevance_score": 0.739865
         }
       ],
       "articles": [
@@ -68,6 +253,77 @@
           "headline": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
           "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
           "published_at": "2026-09-11T15:08:53"
+        }
+      ]
+    },
+    {
+      "event_id": 1077,
+      "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
+      "summary": "Hewlett Packard Enterprise and Dell stocks surged 11%, and Super Micro Computer climbed 7% following Oracle's announcement of a significant capital spending plan for AI infrastructure. Oracle CFO Hilary Maxson confirmed $90-$95 billion in full-year CapEx, much of which is expected to flow to vendors providing AI rack, cooling, and networking solutions. This Oracle-driven demand is repricing the AI server sector, indicating a strong future for these suppliers.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-11T14:51:47",
+      "first_seen_at": "2026-09-11T17:00:03.624156",
+      "assets": [
+        {
+          "symbol": "HPE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.448211,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 0.986673,
+          "sentiment_score": 0.421684,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 0.910239,
+          "sentiment_score": 0.325689,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 0.828998,
+          "sentiment_score": 0.343981,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.905195
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.808229
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1193,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
+          "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
+          "published_at": "2026-09-11T14:51:47"
         }
       ]
     },
@@ -87,39 +343,39 @@
           "symbol": "EXPD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.402441,
+          "sentiment_score": 0.48655,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "ORCL",
           "asset_class": null,
-          "relevance_score": 0.626309,
-          "sentiment_score": 0.324044,
+          "relevance_score": 0.644229,
+          "sentiment_score": 0.344944,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HPQ",
+          "asset_class": null,
+          "relevance_score": 0.589562,
+          "sentiment_score": 0.510217,
+          "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "HPE",
           "asset_class": null,
           "relevance_score": 0.589003,
-          "sentiment_score": 0.616326,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HPQ",
-          "asset_class": null,
-          "relevance_score": 0.586994,
-          "sentiment_score": 0.525197,
+          "sentiment_score": 0.607262,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DELL",
           "asset_class": null,
-          "relevance_score": 0.573925,
-          "sentiment_score": 0.58329,
+          "relevance_score": 0.588241,
+          "sentiment_score": 0.585954,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -139,7 +395,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.911526
+          "relevance_score": 0.928209
         },
         {
           "topic": "energy_transportation",
@@ -151,7 +407,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.60976
+          "relevance_score": 0.626259
         }
       ],
       "articles": [
@@ -172,6 +428,53 @@
           "headline": "Expeditors International stock hits all-time high of 192.34 USD",
           "url": "https://www.investing.com/news/company-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-4898095",
           "published_at": "2026-09-11T14:38:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1079,
+      "title": "ChampionsGate and Futuremain announce Nasdaq merger agreement",
+      "summary": "ChampionsGate Acquisition Corp. and Futuremain Co., Ltd. have signed a definitive merger agreement to create a combined company listed on the Nasdaq Stock Market. The deal, which values Futuremain at approximately $80 million, is expected to close in 2027. Futuremain plans to leverage the U.S. capital markets access for global expansion and to scale its Physical AI-powered ExRBM diagnostics to a cloud-based subscription model.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-11T14:37:37",
+      "first_seen_at": "2026-09-11T17:00:04.154497",
+      "assets": [
+        {
+          "symbol": "CHPG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.413909,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.92092
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.802282
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1195,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TipRanks",
+          "source_domain": "TipRanks",
+          "headline": "ChampionsGate and Futuremain announce Nasdaq merger agreement",
+          "url": "https://www.tipranks.com/news/company-announcements/championsgate-and-futuremain-announce-nasdaq-merger-agreement",
+          "published_at": "2026-09-11T14:37:37"
         }
       ]
     },
@@ -924,317 +1227,6 @@
           "headline": "Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prosper-stars-stripes-covered-innodata-131934072.html",
           "published_at": "2026-09-10T19:31:24"
-        }
-      ]
-    },
-    {
-      "event_id": 1043,
-      "title": "Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks",
-      "summary": "Quanta (NYSE:PWR) outperformed in Q2 energy products and services earnings, reporting significantly higher revenues and adjusted diluted earnings per share than expected, leading to a stock increase of 11.8%. Other companies like Ameresco also beat revenue expectations, while FTAI Infrastructure and MDU Resources reported softer quarters with missed estimates. The overall sector saw mixed results, with revenues beating consensus estimates by 4%.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-10T19:17:00",
-      "first_seen_at": "2026-09-10T20:00:01.683883",
-      "assets": [
-        {
-          "symbol": "PWR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.707173,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.641418,
-          "sentiment_score": 0.042921,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.947083
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912316
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849722
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.724045
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.644979
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1156,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks",
-          "url": "https://finance.yahoo.com/energy/articles/q2-energy-products-services-earnings-181704456.html",
-          "published_at": "2026-09-10T19:17:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1038,
-      "title": "Union Pacific Hypes Rail Merger at Republican Midterm Convention",
-      "summary": "Union Pacific is actively promoting its proposed merger with Norfolk Southern Corp. at the Republican midterm convention in Dallas. The company is using ads featuring a farmer advocating for the merger's benefits, such as cheaper and faster shipping, and is also highlighting labor union support. This push aims to garner political and public backing for creating the nation's first coast-to-coast freight network.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-09-10T17:31:03",
-      "first_seen_at": "2026-09-10T19:00:02.312012",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.332037,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.83668,
-          "sentiment_score": 0.334132,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.924009
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.83061
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1151,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg Government News",
-          "source_domain": "Bloomberg Government News",
-          "headline": "Union Pacific Hypes Rail Merger at Republican Midterm Convention",
-          "url": "https://news.bgov.com/bloomberg-government-news/union-pacific-hypes-rail-merger-at-republican-midterm-convention",
-          "published_at": "2026-09-10T17:31:03"
-        }
-      ]
-    },
-    {
-      "event_id": 1039,
-      "title": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
-      "summary": "Palo Alto Networks reported strong fiscal fourth-quarter revenue growth and a 63% increase in Next-Generation Security ARR, alongside a significant GAAP net loss of $282 million attributed to acquisition costs and share-based compensation. While commercial indicators and cash generation are strong, the company's ability to achieve durable GAAP profitability depends on whether integration costs and amortization become smaller relative to revenue. The report also notes increased hedge fund sentiment towards PANW before the latest financial results.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-10T17:31:00",
-      "first_seen_at": "2026-09-10T19:00:02.620936",
-      "assets": [
-        {
-          "symbol": "PANW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.145085,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.637774,
-          "sentiment_score": 0.027907,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931785
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.846758
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.828894
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.633238
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.624903
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1152,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-panw-reports-63-173118350.html",
-          "published_at": "2026-09-10T17:31:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1034,
-      "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-      "summary": "Skyworks Solutions (SWKS) and Qorvo (QRVO) saw significant stock surges of 10% and 6% respectively, while the broader semiconductor market experienced a decline. This divergence suggests that the market is pricing in increased optimism for their proposed merger, as Skyworks' CEO Phil Brace previously indicated the China review had entered its final phase with a target close by year-end. Investors are closely watching for formal regulatory decisions or merger-completion disclosures as the transaction appears to be nearing its conclusion.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 68,
-      "published_at": "2026-09-10T16:47:46",
-      "first_seen_at": "2026-09-10T18:00:02.558817",
-      "assets": [
-        {
-          "symbol": "SWKS",
-          "asset_class": null,
-          "relevance_score": 0.998547,
-          "sentiment_score": 0.435247,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 0.629495,
-          "sentiment_score": 0.102417,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "QCOM",
-          "asset_class": null,
-          "relevance_score": 0.58268,
-          "sentiment_score": 0.212072,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917644
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.847362
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.741144
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1147,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-          "url": "https://247wallst.com/investing/2026/09/10/skyworks-solutions-surges-10-qorvo-climbs-6-while-chip-stocks-fall-is-the-merger-finally-clearing/",
-          "published_at": "2026-09-10T16:47:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1035,
-      "title": "Bank of America flags a $163B risk hanging over stocks",
-      "summary": "Bank of America has identified a significant $163 billion risk to the stock market, stemming from an imbalance in systematic funds' buying power versus potential forced selling. With systematic strategies having rebuilt exposure to near-capacity levels, there is a large disparity favoring sellers if prices decline. This situation, supported by data from Deutsche Bank and Goldman Sachs, suggests that a modest market downturn could escalate significantly due to exhausted buying capacity and reduced downside protection.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-10T16:03:16",
-      "first_seen_at": "2026-09-10T18:00:02.864097",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.410755,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.730984,
-          "sentiment_score": -0.211393,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.641757,
-          "sentiment_score": -0.141204,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938836
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825042
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.742207
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.647607
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1148,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Bank of America flags a $163B risk hanging over stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-163b-risk-160300808.html",
-          "published_at": "2026-09-10T16:03:16"
         }
       ]
     }
