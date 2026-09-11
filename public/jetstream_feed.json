@@ -5,6 +5,230 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1065,
+      "title": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
+      "summary": "Surging diesel prices, which have surpassed $6 a gallon, could significantly boost the demand for Tesla's electric semi-trucks, according to Morgan Stanley analysts. An autonomous electric semi is projected to cut costs by 20% per mile and increase annual mileage by 133% compared to human-operated diesel vehicles. This could lead to a dramatic increase in profit per truck, making Tesla's trucking solution more attractive amidst rising fuel costs.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-11T13:40:00",
+      "first_seen_at": "2026-09-11T15:00:02.210393",
+      "assets": [
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.471965,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.927549,
+          "sentiment_score": 0.30603,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.617124,
+          "sentiment_score": 0.107959,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.576574,
+          "sentiment_score": 0.112936,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.929278
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.811805
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.745717
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.63127
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1180,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
+          "url": "https://www.cnbc.com/2026/09/11/6-diesel-should-benefit-teslas-trucking-ambitions-morgan-stanley-says-.html",
+          "published_at": "2026-09-11T13:40:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1066,
+      "title": "Anixa Biosciences CEO Amit Kumar acquires $13,799 in stock",
+      "summary": "Anixa Biosciences CEO Amit Kumar recently purchased 5,000 shares of the company's common stock for $13,799, at a price of $2.76 per share. This transaction increases his direct holdings to 662,000 shares, occurring while the stock is near its 52-week low. Despite the stock appearing overvalued by some analyses, the company maintains a strong balance sheet and is advancing its clinical trials for cancer therapies.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-11T13:11:48",
+      "first_seen_at": "2026-09-11T15:00:02.507576",
+      "assets": [
+        {
+          "symbol": "ANIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.201503,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.904883
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.904571
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.826382
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725978
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1181,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Anixa Biosciences CEO Amit Kumar acquires $13,799 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/anixa-biosciences-ceo-amit-kumar-acquires-13799-in-stock-93CH-4897869",
+          "published_at": "2026-09-11T13:11:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1067,
+      "title": "Amit Kumar Acquires 5,000 Shares of Anixa Biosciences (NASDAQ:ANIX) Stock",
+      "summary": "Anixa Biosciences CEO Amit Kumar recently acquired 5,000 shares of the company's stock for $13,800, increasing his direct ownership to 662,000 shares. This purchase follows several other insider acquisitions in recent months. The company's stock opened at $2.75, down 2.8%, with a market capitalization of $93.6 million, and analysts currently hold a \"Hold\" rating with a $10 average price target.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-11T13:09:48",
+      "first_seen_at": "2026-09-11T15:00:02.802845",
+      "assets": [
+        {
+          "symbol": "ANIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.140769,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941712
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.932435
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.805584
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1182,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Amit Kumar Acquires 5,000 Shares of Anixa Biosciences (NASDAQ:ANIX) Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-amit-kumar-acquires-5000-shares-of-anixa-biosciences-nasdaq-anix-stock-2026-09-11/",
+          "published_at": "2026-09-11T13:09:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1068,
+      "title": "Duke Energy (NYSE:DUK) faces a fresh market test as oil and yields rise",
+      "summary": "Duke Energy (NYSE:DUK) is facing a new market test due to rising oil prices, elevated bond yields, and inflation concerns, which are altering the investment landscape for utility stocks. The article emphasizes that while macro conditions are shifting, company execution, demand quality, and disciplined cost control will be crucial for Duke Energy's performance. The stock's relevance is also tied to broader economic themes like grid spending and data center electricity needs, making it a key focus for investors tracking the utility sector's resilience.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-11T12:18:58",
+      "first_seen_at": "2026-09-11T15:00:03.060642",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.149601,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915914
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.832551
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.703403
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.643748
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1183,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Duke Energy (NYSE:DUK) faces a fresh market test as oil and yields rise",
+          "url": "https://kalkinemedia.com/us/stocks/utility/duke-energy-nyseduk-faces-a-fresh-market-test-as-oil-and-yields-rise",
+          "published_at": "2026-09-11T12:18:58"
+        }
+      ]
+    },
+    {
       "event_id": 1064,
       "title": "What is moving American Tower (NYSE:AMT) shares in today's market?",
       "summary": "American Tower (NYSE:AMT) shares are currently influenced by a challenging macro environment characterized by higher energy costs, elevated bond yields, and inflation concerns. The market is increasingly scrutinizing companies' operating execution, demand quality, and cost control, particularly within the Infrastructure and Real Estate sector where American Tower operates. Investors are focusing on how well the company can convert demand into cash flow without relying on external funding, rather than any specific company announcement.",
@@ -954,258 +1178,6 @@
           "headline": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
           "url": "https://www.marketbeat.com/instant-alerts/analyst-occidental-petroleum-nyse-oxy-coverage-initiated-by-analysts-at-stifel-nicolaus-2026-09-10/",
           "published_at": "2026-09-10T14:09:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1032,
-      "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
-      "summary": "Memory stocks, including SK Hynix, Western Digital, and Micron, experienced significant declines despite JPMorgan initiating an \"Overweight\" rating on SK Hynix with a strong price target. This market downturn is primarily attributed to surging 10-year Treasury yields and rising oil prices, overshadowing positive analyst calls and the strong underlying demand for memory chips driven by AI. Investors are now closely watching upcoming consumer price data and the Federal Reserve meeting for potential interest rate hikes.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 70,
-      "published_at": "2026-09-10T13:40:51",
-      "first_seen_at": "2026-09-10T16:00:02.980604",
-      "assets": [
-        {
-          "symbol": "WDC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.322755,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.913162,
-          "sentiment_score": -0.3267,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 0.642003,
-          "sentiment_score": -0.541569,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.620577,
-          "sentiment_score": -0.538567,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKR",
-          "asset_class": null,
-          "relevance_score": 0.606242,
-          "sentiment_score": -0.539475,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906582
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.841016
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.816615
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.62983
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1145,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
-          "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
-          "published_at": "2026-09-10T13:40:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1024,
-      "title": "Targa Resources (NYSE:TRGP) Receives Buy Rating from Stifel Nicolaus",
-      "summary": "Stifel Nicolaus reaffirmed its \"buy\" rating for Targa Resources (NYSE:TRGP), setting a price target of $340, which suggests a 16.66% upside. Despite beating EPS estimates, the company's revenue for the quarter fell short of forecasts. Institutional investors hold a significant portion of the company's stock, while insiders have recently sold shares.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-10T12:10:15",
-      "first_seen_at": "2026-09-10T14:00:01.913776",
-      "assets": [
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.53207,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939777
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92204
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.842054
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1137,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Targa Resources (NYSE:TRGP) Receives Buy Rating from Stifel Nicolaus",
-          "url": "https://www.marketbeat.com/instant-alerts/analyst-targa-resources-nyse-trgp-receives-buy-rating-from-stifel-nicolaus-2026-09-10/",
-          "published_at": "2026-09-10T12:10:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1025,
-      "title": "Beyond Meta and Nuclear: Inside Vistra’s Real Power Play",
-      "summary": "Vistra is transforming into a multi-asset, hyperscaler-anchored power platform, driven by CEO Jim Burke's strategy. The company has secured long-term nuclear power deals with Meta and AWS, acquired significant natural gas generation assets, and invested $1 billion in an AI venture with NVIDIA and KKR. This aggressive expansion positions Vistra as a key power provider for the growing AI data center market, despite the company's current debt load and integration risks.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-10T12:00:34",
-      "first_seen_at": "2026-09-10T14:00:02.248956",
-      "assets": [
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.379023,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.821195,
-          "sentiment_score": 0.285071,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.625783,
-          "sentiment_score": 0.2058,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KKR",
-          "asset_class": null,
-          "relevance_score": 0.553574,
-          "sentiment_score": 0.208041,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93613
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932999
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.839081
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.644668
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.624575
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1138,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Beyond Meta and Nuclear: Inside Vistra’s Real Power Play",
-          "url": "https://247wallst.com/investing/2026/09/10/beyond-meta-and-nuclear-inside-vistras-real-power-play/",
-          "published_at": "2026-09-10T12:00:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1026,
-      "title": "Orogen Royalties Acquires the Serpent Gold Project in Nevada",
-      "summary": "Orogen Royalties Inc. has acquired the Serpent gold project in Nevada, a district-scale, low-sulphidation epithermal gold target with highly anomalous gold in rock samples and no prior drilling. The project features an eight-kilometer trend of alteration and gold-bearing structures, showing potential for significant epithermal mineralization at depth. Orogen plans to showcase the project at its upcoming Project Generator Day on September 16th, making it available for option or sale.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-10T11:51:50",
-      "first_seen_at": "2026-09-10T14:00:02.573676",
-      "assets": [
-        {
-          "symbol": "ACCS",
-          "asset_class": null,
-          "relevance_score": 0.34475,
-          "sentiment_score": 0.009813,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.930142
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84906
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1139,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ACCESS Newswire",
-          "source_domain": "ACCESS Newswire",
-          "headline": "Orogen Royalties Acquires the Serpent Gold Project in Nevada",
-          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/orogen-royalties-acquires-the-serpent-gold-project-in-nevada-1218983",
-          "published_at": "2026-09-10T11:51:50"
         }
       ]
     }
