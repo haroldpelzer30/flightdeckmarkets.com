@@ -5,6 +5,179 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1090,
+      "title": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
+      "summary": "Chevron CEO Mike Wirth warned that oil prices are likely to remain elevated in the coming months due to the depletion of supply buffers that previously softened the impact of the U.S.-Iran conflict. He stated that the risks to oil prices remain on the upside, with Brent crude having already surged over 50% since the Middle East war began. Chevron plans to invest $7 billion in its Venezuelan operations, aiming to more than double production by 2031, funded by existing ventures in the country.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 69,
+      "published_at": "2026-09-11T18:58:48",
+      "first_seen_at": "2026-09-11T20:00:02.637374",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403969,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 0.634097,
+          "sentiment_score": 0.004034,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "YUM",
+          "asset_class": null,
+          "relevance_score": 0.614643,
+          "sentiment_score": 0.025891,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.604195,
+          "sentiment_score": 0.124393,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.919715
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.834016
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1206,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-mike-wirth-warns-175824297.html",
+          "published_at": "2026-09-11T18:58:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1091,
+      "title": "$100 billion pipeline company Energy Transfer will move stock listing from New York to Dallas",
+      "summary": "Energy Transfer, a $100 billion pipeline company, is moving its primary stock listing from the New York Stock Exchange to the Dallas-based Texas Stock Exchange (TXSE). This move marks a significant win for TXSE, which aims to challenge the virtual duopoly of NYSE and Nasdaq and establish Texas as a global capital markets leader. The company expects to begin trading on TXSE on October 5, aligning its Texas roots with the new exchange's platform.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 73,
+      "published_at": "2026-09-11T18:45:00",
+      "first_seen_at": "2026-09-11T20:00:02.954679",
+      "assets": [
+        {
+          "symbol": "ET",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.431668,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.627312,
+          "sentiment_score": 0.104002,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.94846
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.847609
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1207,
+          "provider": "ALPHA_VANTAGE",
+          "source": "KERA News",
+          "source_domain": "KERA News",
+          "headline": "$100 billion pipeline company Energy Transfer will move stock listing from New York to Dallas",
+          "url": "https://www.keranews.org/business-economy/2026-09-11/energy-transfer-to-move-stock-listing-from-new-york-to-dallas-txse-nyse",
+          "published_at": "2026-09-11T18:45:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1092,
+      "title": "Chevron CEO Mike Wirth warns oil price buffers are depleted",
+      "summary": "Chevron CEO Mike Wirth warned that the buffers against rising oil prices have been depleted, making it more likely that crude prices will increase in the coming months. He noted that countries had released strategic crude stockpiles and the US had lifted restrictions on oil from sanctioned countries, but these measures are now exhausted. Wirth also discussed Chevron's operations near the conflict zone and its planned expansion in Venezuela, while the IEA reported a significant drop in global oil inventories.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-11T18:15:00",
+      "first_seen_at": "2026-09-11T20:00:03.238924",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.416461,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.907792
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.826083
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.748671
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1208,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Chevron CEO Mike Wirth warns oil price buffers are depleted",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-mike-wirth-warns-181509867.html",
+          "published_at": "2026-09-11T18:15:00"
+        }
+      ]
+    },
+    {
       "event_id": 1085,
       "title": "State regulators add in-person hearings in Dominion–NextEra merger",
       "summary": "Virginia's State Corporation Commission has added three in-person public comment hearings for the proposed $67 billion merger between NextEra Energy and Dominion Energy due to significant public interest. While one hearing is scheduled for November 5th in Richmond, the dates and locations for the other two are pending. Judge Samuel Towell noted that although in-person comments won't carry more weight than telephonic or written ones, these hearings are deemed appropriate given the case's broad impact across Dominion's service territory.",
@@ -20,7 +193,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.332757,
-          "sentiment_score": 0.026492,
+          "sentiment_score": 0.017898,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -70,8 +243,8 @@
         {
           "symbol": "IP",
           "asset_class": null,
-          "relevance_score": 0.969486,
-          "sentiment_score": -0.1221,
+          "relevance_score": 0.969571,
+          "sentiment_score": -0.120918,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -79,7 +252,7 @@
           "symbol": "PKG",
           "asset_class": null,
           "relevance_score": 0.942083,
-          "sentiment_score": 0.006988,
+          "sentiment_score": 0.027902,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -87,23 +260,23 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 0.677389,
-          "sentiment_score": 0.097857,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BALL",
-          "asset_class": null,
-          "relevance_score": 0.589817,
-          "sentiment_score": 0.064102,
+          "sentiment_score": 0.050995,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "AVY",
           "asset_class": null,
-          "relevance_score": 0.577305,
-          "sentiment_score": 0.019501,
+          "relevance_score": 0.59691,
+          "sentiment_score": 0.048197,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BALL",
+          "asset_class": null,
+          "relevance_score": 0.593332,
+          "sentiment_score": 0.08225,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -123,7 +296,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.740824
+          "relevance_score": 0.742845
         }
       ],
       "articles": [
@@ -154,7 +327,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.257782,
+          "sentiment_score": 0.258819,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -162,7 +335,7 @@
           "symbol": "DUK",
           "asset_class": null,
           "relevance_score": 0.728587,
-          "sentiment_score": 0.116308,
+          "sentiment_score": 0.131347,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -170,7 +343,7 @@
           "symbol": "SO",
           "asset_class": null,
           "relevance_score": 0.634011,
-          "sentiment_score": 0.118621,
+          "sentiment_score": 0.127216,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -178,35 +351,35 @@
           "symbol": "META",
           "asset_class": null,
           "relevance_score": 0.590809,
-          "sentiment_score": 0.192441,
+          "sentiment_score": 0.171989,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GOOG",
           "asset_class": null,
-          "relevance_score": 0.566009,
-          "sentiment_score": 0.190297,
+          "relevance_score": 0.578874,
+          "sentiment_score": 0.154279,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.927518
+        },
+        {
           "topic": "earnings",
           "relevance_score": 0.927265
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.921737
-        },
-        {
           "topic": "energy_transportation",
-          "relevance_score": 0.826714
+          "relevance_score": 0.844506
         },
         {
           "topic": "finance",
-          "relevance_score": 0.72434
+          "relevance_score": 0.739715
         },
         {
           "topic": "economy_macro",
@@ -241,15 +414,15 @@
           "symbol": "CWT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.411017,
+          "sentiment_score": 0.417761,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AWK",
           "asset_class": null,
-          "relevance_score": 0.80965,
-          "sentiment_score": 0.417927,
+          "relevance_score": 0.828803,
+          "sentiment_score": 0.445215,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -1077,199 +1250,6 @@
           "headline": "Duke Energy (NYSE:DUK) faces a fresh market test as oil and yields rise",
           "url": "https://kalkinemedia.com/us/stocks/utility/duke-energy-nyseduk-faces-a-fresh-market-test-as-oil-and-yields-rise",
           "published_at": "2026-09-11T12:18:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1064,
-      "title": "What is moving American Tower (NYSE:AMT) shares in today's market?",
-      "summary": "American Tower (NYSE:AMT) shares are currently influenced by a challenging macro environment characterized by higher energy costs, elevated bond yields, and inflation concerns. The market is increasingly scrutinizing companies' operating execution, demand quality, and cost control, particularly within the Infrastructure and Real Estate sector where American Tower operates. Investors are focusing on how well the company can convert demand into cash flow without relying on external funding, rather than any specific company announcement.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-11T11:09:59",
-      "first_seen_at": "2026-09-11T14:00:02.985209",
-      "assets": [
-        {
-          "symbol": "AMT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.076844,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.599441,
-          "sentiment_score": 0.030986,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.583586,
-          "sentiment_score": 0.003982,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.575752,
-          "sentiment_score": 0.047459,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.935617
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912799
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825904
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.728289
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.615444
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1179,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What is moving American Tower (NYSE:AMT) shares in today's market?",
-          "url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/what-is-moving-american-tower-nyseamt-shares-in-todays-market",
-          "published_at": "2026-09-11T11:09:59"
-        }
-      ]
-    },
-    {
-      "event_id": 1063,
-      "title": "WINTON GROUP Ltd Acquires New Position in CenterPoint Energy, Inc. $CNP",
-      "summary": "WINTON GROUP Ltd has acquired a new position in CenterPoint Energy, Inc. (NYSE:CNP) during the second quarter, purchasing 78,786 shares valued at approximately $3.47 million. CenterPoint Energy reported strong quarterly results, beating EPS and revenue estimates, and reaffirmed its FY 2026 EPS guidance while also raising its quarterly dividend. Analysts currently rate the stock as a \"Moderate Buy\" with an average price target of $45.36.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-11T09:58:51",
-      "first_seen_at": "2026-09-11T12:00:02.936504",
-      "assets": [
-        {
-          "symbol": "CNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.453427,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941769
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826053
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.701897
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.616054
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1178,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "WINTON GROUP Ltd Acquires New Position in CenterPoint Energy, Inc. $CNP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-position-in-centerpoint-energy-inc-cnp-2026-09-11/",
-          "published_at": "2026-09-11T09:58:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1061,
-      "title": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
-      "summary": "American Electric Power (AEP) saw its stock advance as utility companies outperformed the broader market. This gain is attributed to surging crude prices, increased demand from data centers and industrial expansion driving capital planning for AEP's transmission network, and the defensive nature of utility stocks attracting investors during geopolitical unease. The company's regulated model and extensive transmission infrastructure are key differentiators supporting predictable earnings growth.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-09-10T22:45:16",
-      "first_seen_at": "2026-09-11T00:00:02.245659",
-      "assets": [
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.405472,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.638402,
-          "sentiment_score": 0.248542,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 0.619758,
-          "sentiment_score": 0.244256,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93918
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.926992
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.822715
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1176,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
-          "url": "https://kalkinemedia.com/us/stocks/utility/american-electric-power-nasdaqaep-gains-as-utilities-outperform-broader-market",
-          "published_at": "2026-09-10T22:45:16"
         }
       ]
     }
