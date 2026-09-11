@@ -5,6 +5,176 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1080,
+      "title": "3 paper packaging CEOs talk market volatility, pricing",
+      "summary": "CEOs from Packaging Corporation of America, International Paper, and Graphic Packaging International discussed the significant impact of economic and geopolitical disruptions on the paper and packaging industry, leading to market volatility and cost inflation. Companies are responding with price increases and cost-cutting measures, while also navigating challenges like fluctuating demand and agricultural sector issues. Despite these hurdles, they are focused on optimizing operations and building platforms for future growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-11T17:00:25",
+      "first_seen_at": "2026-09-11T18:00:02.083204",
+      "assets": [
+        {
+          "symbol": "IP",
+          "asset_class": null,
+          "relevance_score": 0.969486,
+          "sentiment_score": -0.104908,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PKG",
+          "asset_class": null,
+          "relevance_score": 0.916743,
+          "sentiment_score": 0.038136,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMCR",
+          "asset_class": null,
+          "relevance_score": 0.677389,
+          "sentiment_score": 0.078431,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BALL",
+          "asset_class": null,
+          "relevance_score": 0.589817,
+          "sentiment_score": 0.079125,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVY",
+          "asset_class": null,
+          "relevance_score": 0.577305,
+          "sentiment_score": 0.012964,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914874
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.829033
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.744632
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.740824
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1196,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Packaging Dive",
+          "source_domain": "Packaging Dive",
+          "headline": "3 paper packaging CEOs talk market volatility, pricing",
+          "url": "https://www.packagingdive.com/news/jefferies-industrials-international-paper-pca-graphic-packaging/830107/",
+          "published_at": "2026-09-11T17:00:25"
+        }
+      ]
+    },
+    {
+      "event_id": 1081,
+      "title": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
+      "summary": "NextEra Energy (NEE) currently trades at a premium valuation compared to its industry peers, driven by strong operational performance and growing demand for its services, particularly in Florida and renewable energy. While the company demonstrates consistent performance, positive earnings estimate revisions, and a solid return on equity, its high valuation suggests that new investors might want to wait for a more favorable entry point. The article outlines factors supporting NEE's growth, such as increasing electricity demand, renewable energy expansion, data center opportunities, and strategic partnerships, alongside its strong capital return program.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-11T16:50:01",
+      "first_seen_at": "2026-09-11T18:00:02.453510",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.298666,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.708225,
+          "sentiment_score": 0.129949,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 0.634011,
+          "sentiment_score": 0.141364,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.590809,
+          "sentiment_score": 0.182535,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.566009,
+          "sentiment_score": 0.198656,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921737
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90304
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.804776
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.712014
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.632968
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1197,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nee-stock-trades-premium-valuation-164900931.html",
+          "published_at": "2026-09-11T16:50:01"
+        }
+      ]
+    },
+    {
       "event_id": 1073,
       "title": "SMCI or NTAP: Which Is the Better Value Stock Right Now?",
       "summary": "This article compares Super Micro Computer (SMCI) and NetApp (NTAP) as potential value stock investments, both currently holding a Zacks Rank of #1 (Strong Buy). Analyzing valuation metrics like P/E, PEG, and P/B ratios, the article concludes that SMCI appears to be the superior value option with stronger metrics compared to NTAP.",
@@ -20,7 +190,7 @@
           "symbol": "SMCI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.439093,
+          "sentiment_score": 0.41561,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +198,7 @@
           "symbol": "NTAP",
           "asset_class": null,
           "relevance_score": 0.947966,
-          "sentiment_score": 0.149824,
+          "sentiment_score": 0.126512,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +206,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.648427,
-          "sentiment_score": 0.013591,
+          "sentiment_score": 0.014355,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -48,11 +218,11 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.913793
+          "relevance_score": 0.938002
         },
         {
           "topic": "technology",
-          "relevance_score": 0.809904
+          "relevance_score": 0.835768
         }
       ],
       "articles": [
@@ -83,7 +253,7 @@
           "symbol": "BSVN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.479006,
+          "sentiment_score": 0.499101,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -125,8 +295,8 @@
         {
           "symbol": "SO",
           "asset_class": null,
-          "relevance_score": 0.959751,
-          "sentiment_score": 0.434831,
+          "relevance_score": 0.98687,
+          "sentiment_score": 0.410068,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -134,23 +304,23 @@
           "symbol": "DUK",
           "asset_class": null,
           "relevance_score": 0.910379,
-          "sentiment_score": 0.431735,
+          "sentiment_score": 0.454203,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "WEC",
           "asset_class": null,
-          "relevance_score": 0.862907,
-          "sentiment_score": 0.399151,
+          "relevance_score": 0.866105,
+          "sentiment_score": 0.427214,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "XEL",
           "asset_class": null,
-          "relevance_score": 0.826356,
-          "sentiment_score": 0.343092,
+          "relevance_score": 0.832574,
+          "sentiment_score": 0.301055,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -158,7 +328,7 @@
           "symbol": "ED",
           "asset_class": null,
           "relevance_score": 0.820782,
-          "sentiment_score": 0.474597,
+          "sentiment_score": 0.464697,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -174,7 +344,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.724472
+          "relevance_score": 0.729562
         }
       ],
       "articles": [
@@ -1093,140 +1263,6 @@
           "headline": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
           "url": "https://www.wcluradio.com/2026/09/10/ford-to-invest-1-b-in-new-paint-shop-at-the-kentucky-truck-plant-in-louisville/",
           "published_at": "2026-09-10T20:00:27"
-        }
-      ]
-    },
-    {
-      "event_id": 1048,
-      "title": "Halliburton (NYSE:HAL) Gains As Oil Shock Meets Global Expansion",
-      "summary": "Halliburton (NYSE:HAL) shares gained as crude oil prices surged past the century mark due to Middle East supply concerns, boosting demand for oilfield services. The company's recent contracts for integrated well construction offshore Suriname and Brazil highlight its strong international project pipeline and strategic focus on global expansion and margin growth, counteracting geopolitical disruptions. Halliburton's performance reflects its role as a key indicator for exploration and production spending in a tightening crude market.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-10T19:49:05",
-      "first_seen_at": "2026-09-10T21:00:02.867907",
-      "assets": [
-        {
-          "symbol": "HAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.479377,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMB",
-          "asset_class": null,
-          "relevance_score": 0.640114,
-          "sentiment_score": 0.349054,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.629768,
-          "sentiment_score": 0.330467,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMI",
-          "asset_class": null,
-          "relevance_score": 0.623917,
-          "sentiment_score": 0.337997,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.580089,
-          "sentiment_score": 0.269041,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.929692
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.82996
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.729478
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1162,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Halliburton (NYSE:HAL) Gains As Oil Shock Meets Global Expansion",
-          "url": "https://kalkinemedia.com/us/stocks/energy/halliburton-nysehal-gains-as-oil-shock-meets-global-expansion",
-          "published_at": "2026-09-10T19:49:05"
-        }
-      ]
-    },
-    {
-      "event_id": 1049,
-      "title": "Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2",
-      "summary": "Prosper Stars & Stripes, a long/short equity fund, reported a strong net return of +30.1% in Q2 2026, outperforming major indices. Despite the overall positive performance, Innodata Inc. (INOD) was the largest detractor in their short book, leading the fund to cover its position. The fund expressed concerns about Innodata's business model, including customer concentration, narrow moat, project-based revenue, and the threat of AI self-improvement, even as Innodata reported an exceptional quarter.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-10T19:31:24",
-      "first_seen_at": "2026-09-10T21:00:03.132384",
-      "assets": [
-        {
-          "symbol": "INOD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.395413,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947874
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929732
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.81951
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.743499
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.609231
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1163,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Prosper Stars & Stripes Covered Innodata (INOD) Short Position in Q2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prosper-stars-stripes-covered-innodata-131934072.html",
-          "published_at": "2026-09-10T19:31:24"
         }
       ]
     }
