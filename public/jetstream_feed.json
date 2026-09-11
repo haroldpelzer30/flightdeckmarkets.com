@@ -5,6 +5,224 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1069,
+      "title": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
+      "summary": "Kroger has lowered its annual sales forecast due to persistent inflation and intense competition in the grocery sector, which are impacting consumer spending. The company expects comparable sales excluding fuel to grow by a maximum of 0.8%, down from a previous estimate of 2%. CEO Greg Foran is implementing strategies like price reductions and improved store services to gain market share amidst a challenging economic environment where consumers are tightening budgets.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 66,
+      "published_at": "2026-09-11T15:08:53",
+      "first_seen_at": "2026-09-11T16:00:02.113549",
+      "assets": [
+        {
+          "symbol": "KR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.415534,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WMT",
+          "asset_class": null,
+          "relevance_score": 0.710322,
+          "sentiment_score": -0.108408,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COST",
+          "asset_class": null,
+          "relevance_score": 0.648199,
+          "sentiment_score": -0.132289,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.947796
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.819253
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.800563
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.730375
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1184,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Los Angeles Times",
+          "source_domain": "Los Angeles Times",
+          "headline": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
+          "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
+          "published_at": "2026-09-11T15:08:53"
+        }
+      ]
+    },
+    {
+      "event_id": 1070,
+      "title": "Expeditors International stock hits all-time high of 192.34 USD",
+      "summary": "Expeditors International of Washington Inc. (EXPD) stock has reached an all-time high of $192.34, marking a 55.11% increase over the past year. This surge reflects strong investor confidence and comes after the company reported robust revenue growth and raised its dividend for 29 consecutive years. Analysts have responded by raising price targets, despite some indicators suggesting the stock may be overvalued.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-11T14:38:12",
+      "first_seen_at": "2026-09-11T16:00:02.429658",
+      "assets": [
+        {
+          "symbol": "EXPD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.402441,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 0.626309,
+          "sentiment_score": 0.324044,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HPE",
+          "asset_class": null,
+          "relevance_score": 0.589003,
+          "sentiment_score": 0.616326,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HPQ",
+          "asset_class": null,
+          "relevance_score": 0.586994,
+          "sentiment_score": 0.525197,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DELL",
+          "asset_class": null,
+          "relevance_score": 0.573925,
+          "sentiment_score": 0.58329,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.55376,
+          "sentiment_score": 0.326402,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939377
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911526
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.731511
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.728534
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60976
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1186,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Expeditors International stock hits all-time high of 192.34 USD",
+          "url": "https://in.investing.com/news/stock-market-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-5590357",
+          "published_at": "2026-09-11T14:04:57"
+        },
+        {
+          "article_id": 1185,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Expeditors International stock hits all-time high of 192.34 USD",
+          "url": "https://www.investing.com/news/company-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-4898095",
+          "published_at": "2026-09-11T14:38:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1071,
+      "title": "BMO targets Canada’s next era of growth with commitment of up to $70 billion for critical economic sectors",
+      "summary": "BMO has announced a commitment to mobilize up to $70 billion in new capital over 10 years for critical Canadian economic sectors such as electricity, energy, transportation infrastructure, mining, AI computing, defence, and oil & gas. This initiative aims to support Canada's economic security, resilience, and long-term growth by financing key projects and businesses. The capital mobilization reinforces BMO's historical role in Canadian development and its ongoing efforts to help the country compete in the global economy.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-11T13:55:30",
+      "first_seen_at": "2026-09-11T16:00:02.829981",
+      "assets": [
+        {
+          "symbol": "BERZ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.445409,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.925458
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.844412
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.745947
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1187,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BMO",
+          "source_domain": "BMO",
+          "headline": "BMO targets Canada’s next era of growth with commitment of up to $70 billion for critical economic sectors",
+          "url": "https://www.bmo.com/en-ca/main/about-bmo/news-insights/blog/bmo-targets-canadas-next-era-of-growth/",
+          "published_at": "2026-09-11T13:55:30"
+        }
+      ]
+    },
+    {
       "event_id": 1065,
       "title": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
       "summary": "Surging diesel prices, which have surpassed $6 a gallon, could significantly boost the demand for Tesla's electric semi-trucks, according to Morgan Stanley analysts. An autonomous electric semi is projected to cut costs by 20% per mile and increase annual mileage by 133% compared to human-operated diesel vehicles. This could lead to a dramatic increase in profit per truck, making Tesla's trucking solution more attractive amidst rising fuel costs.",
@@ -20,7 +238,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.471965,
+          "sentiment_score": 0.458684,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,15 +246,15 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 0.927549,
-          "sentiment_score": 0.30603,
+          "sentiment_score": 0.324086,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
-          "relevance_score": 0.617124,
-          "sentiment_score": 0.107959,
+          "relevance_score": 0.629572,
+          "sentiment_score": 0.138569,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,7 +262,7 @@
           "symbol": "PLTR",
           "asset_class": null,
           "relevance_score": 0.576574,
-          "sentiment_score": 0.112936,
+          "sentiment_score": 0.110511,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1017,167 +1235,6 @@
           "headline": "Bank of America flags a $163B risk hanging over stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-163b-risk-160300808.html",
           "published_at": "2026-09-10T16:03:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1036,
-      "title": "BofA Names Top MENA Oil Stocks for Late 2026",
-      "summary": "Bank of America has identified its top picks in the MENA oil sector for late 2026: ADNOC L&S, Luberef, and ADNOC Gas. These companies are chosen for their strong growth potential and near-term catalysts. ADNOC Gas is expected to see significant EBITDA growth by 2030, ADNOC L&S anticipates strong EBITDA and net income growth in 2026 due to shipping rates, and Luberef benefits from elevated base oil crack spreads and expansion projects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-10T15:53:16",
-      "first_seen_at": "2026-09-10T18:00:03.217336",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.8984,
-          "sentiment_score": 0.395351,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94748
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.938568
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847429
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1149,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "BofA Names Top MENA Oil Stocks for Late 2026",
-          "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-mena-oil-stocks-for-late-2026-93CH-4896464",
-          "published_at": "2026-09-10T15:53:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1033,
-      "title": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver Acquires 753 Shares",
-      "summary": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver recently acquired 753 shares of the company's stock for $24,992.07, increasing his total ownership to 753 shares. The company's shares traded up 1.1% to $32.95, while institutional investors like Jane Street Group and Cetera Investment Advisers also significantly increased their stakes. Destiny Tech100 focuses on investing in high-growth technology businesses, offering investors diversified exposure to the sector.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-10T15:10:49",
-      "first_seen_at": "2026-09-10T17:00:02.102878",
-      "assets": [
-        {
-          "symbol": "DXYZ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.302362,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940063
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.834727
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1146,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Destiny Tech100 (NYSE:DXYZ) COO Ethan Silver Acquires 753 Shares",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-destiny-tech100-nyse-dxyz-coo-ethan-silver-acquires-753-shares-2026-09-10/",
-          "published_at": "2026-09-10T15:10:49"
-        }
-      ]
-    },
-    {
-      "event_id": 1031,
-      "title": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
-      "summary": "Stifel Nicolaus has initiated coverage on Occidental Petroleum (NYSE:OXY) with a \"hold\" rating and a $68 price target, suggesting an 11.62% upside. This new coverage aligns with the overall cautious analyst sentiment, with a consensus \"hold\" rating and an average price target of $64.96. The company recently exceeded quarterly earnings expectations, reporting $2.40 EPS against an estimated $1.83, and revenue of $8.06 billion, a 53.4% increase year-over-year.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-10T14:09:50",
-      "first_seen_at": "2026-09-10T16:00:02.660926",
-      "assets": [
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.228407,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.595114,
-          "sentiment_score": -0.11747,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.593748,
-          "sentiment_score": 0.128538,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.593491,
-          "sentiment_score": -0.10392,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92893
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.904533
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.848545
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1144,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Occidental Petroleum (NYSE:OXY) Coverage Initiated by Analysts at Stifel Nicolaus",
-          "url": "https://www.marketbeat.com/instant-alerts/analyst-occidental-petroleum-nyse-oxy-coverage-initiated-by-analysts-at-stifel-nicolaus-2026-09-10/",
-          "published_at": "2026-09-10T14:09:50"
         }
       ]
     }
