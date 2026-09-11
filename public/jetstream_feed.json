@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1085,
+      "title": "State regulators add in-person hearings in Dominion–NextEra merger",
+      "summary": "Virginia's State Corporation Commission has added three in-person public comment hearings for the proposed $67 billion merger between NextEra Energy and Dominion Energy due to significant public interest. While one hearing is scheduled for November 5th in Richmond, the dates and locations for the other two are pending. Judge Samuel Towell noted that although in-person comments won't carry more weight than telephonic or written ones, these hearings are deemed appropriate given the case's broad impact across Dominion's service territory.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-11T17:49:00",
+      "first_seen_at": "2026-09-11T19:00:01.961849",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.332757,
+          "sentiment_score": 0.026492,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.940499
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.743821
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.639796
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1201,
+          "provider": "ALPHA_VANTAGE",
+          "source": "VPM",
+          "source_domain": "VPM",
+          "headline": "State regulators add in-person hearings in Dominion–NextEra merger",
+          "url": "https://www.vpm.org/news/2026-09-11/dominion-nextera-merger-scc-public-hearings-towell-energy-regulation/",
+          "published_at": "2026-09-11T17:49:00"
+        }
+      ]
+    },
+    {
       "event_id": 1080,
       "title": "3 paper packaging CEOs talk market volatility, pricing",
       "summary": "CEOs from Packaging Corporation of America, International Paper, and Graphic Packaging International discussed the significant impact of economic and geopolitical disruptions on the paper and packaging industry, leading to market volatility and cost inflation. Companies are responding with price increases and cost-cutting measures, while also navigating challenges like fluctuating demand and agricultural sector issues. Despite these hurdles, they are focused on optimizing operations and building platforms for future growth.",
@@ -20,15 +71,15 @@
           "symbol": "IP",
           "asset_class": null,
           "relevance_score": 0.969486,
-          "sentiment_score": -0.104908,
+          "sentiment_score": -0.1221,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "PKG",
           "asset_class": null,
-          "relevance_score": 0.916743,
-          "sentiment_score": 0.038136,
+          "relevance_score": 0.942083,
+          "sentiment_score": 0.006988,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +87,7 @@
           "symbol": "AMCR",
           "asset_class": null,
           "relevance_score": 0.677389,
-          "sentiment_score": 0.078431,
+          "sentiment_score": 0.097857,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,7 +95,7 @@
           "symbol": "BALL",
           "asset_class": null,
           "relevance_score": 0.589817,
-          "sentiment_score": 0.079125,
+          "sentiment_score": 0.064102,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,7 +103,7 @@
           "symbol": "AVY",
           "asset_class": null,
           "relevance_score": 0.577305,
-          "sentiment_score": 0.012964,
+          "sentiment_score": 0.019501,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -64,7 +115,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.829033
+          "relevance_score": 0.829079
         },
         {
           "topic": "economy_monetary",
@@ -103,15 +154,15 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.298666,
+          "sentiment_score": 0.257782,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DUK",
           "asset_class": null,
-          "relevance_score": 0.708225,
-          "sentiment_score": 0.129949,
+          "relevance_score": 0.728587,
+          "sentiment_score": 0.116308,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -119,7 +170,7 @@
           "symbol": "SO",
           "asset_class": null,
           "relevance_score": 0.634011,
-          "sentiment_score": 0.141364,
+          "sentiment_score": 0.118621,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -127,7 +178,7 @@
           "symbol": "META",
           "asset_class": null,
           "relevance_score": 0.590809,
-          "sentiment_score": 0.182535,
+          "sentiment_score": 0.192441,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -135,31 +186,31 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 0.566009,
-          "sentiment_score": 0.198656,
+          "sentiment_score": 0.190297,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "earnings",
+          "relevance_score": 0.927265
+        },
+        {
           "topic": "financial_markets",
           "relevance_score": 0.921737
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.90304
-        },
-        {
           "topic": "energy_transportation",
-          "relevance_score": 0.804776
+          "relevance_score": 0.826714
         },
         {
           "topic": "finance",
-          "relevance_score": 0.712014
+          "relevance_score": 0.72434
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.632968
+          "relevance_score": 0.648297
         }
       ],
       "articles": [
@@ -171,6 +222,116 @@
           "headline": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nee-stock-trades-premium-valuation-164900931.html",
           "published_at": "2026-09-11T16:50:01"
+        }
+      ]
+    },
+    {
+      "event_id": 1088,
+      "title": "CWT Unit Gets Rate Hike Nod to Recover Infrastructure Investments",
+      "summary": "California Water Service Group's (CWT) unit, Washington Water, received approval for new water rates, expected to increase annual revenues by $4.1 million to recover costs from infrastructure investments totaling $26.5 million. This approval highlights CWT's ongoing focus on infrastructure spending and regulatory cost recovery, with the company investing significantly in utility plant and forecasting substantial capital expenditures for 2026. Rate hikes are crucial for utilities to fund capital-intensive operations, maintain and upgrade aging systems, and support reliable service and water quality improvements.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 53,
+      "published_at": "2026-09-11T16:38:00",
+      "first_seen_at": "2026-09-11T19:00:02.900054",
+      "assets": [
+        {
+          "symbol": "CWT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.411017,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AWK",
+          "asset_class": null,
+          "relevance_score": 0.80965,
+          "sentiment_score": 0.417927,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933408
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710947
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1204,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "CWT Unit Gets Rate Hike Nod to Recover Infrastructure Investments",
+          "url": "https://uk.finance.yahoo.com/news/cwt-unit-gets-rate-hike-163800142.html",
+          "published_at": "2026-09-11T16:38:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1089,
+      "title": "Colgate-Palmolive Stock (CL) Dips on Plan to Sell Personal Care Brands",
+      "summary": "Colgate-Palmolive (CL) stock dipped 1% after reports surfaced that the company plans to sell some of its personal care brands, including Softsoap, Irish Spring, and Speed Stick, to raise approximately $1 billion. Despite strong recent financial results, including beating EPS estimates and matching revenue expectations, CL stock has underperformed the broader market over the last five years. Wall Street analysts currently give Colgate-Palmolive a Moderate Buy rating with an average price target implying 14% upside.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-11T16:21:44",
+      "first_seen_at": "2026-09-11T19:00:03.159640",
+      "assets": [
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.19138,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.604877,
+          "sentiment_score": 0.125712,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949389
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.939655
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828847
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.727948
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1205,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TipRanks",
+          "source_domain": "TipRanks",
+          "headline": "Colgate-Palmolive Stock (CL) Dips on Plan to Sell Personal Care Brands",
+          "url": "https://www.tipranks.com/news/colgate-palmolive-stock-cl-dips-on-plan-to-sell-personal-care-brands",
+          "published_at": "2026-09-11T16:21:44"
         }
       ]
     },
@@ -1109,160 +1270,6 @@
           "headline": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
           "url": "https://kalkinemedia.com/us/stocks/utility/american-electric-power-nasdaqaep-gains-as-utilities-outperform-broader-market",
           "published_at": "2026-09-10T22:45:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1053,
-      "title": "Republic Services (NYSE:RSG) Major Shareholder Acquires $90,700,155.00 in Stock",
-      "summary": "Cascade Investment, L.L.C., a major shareholder in Republic Services (NYSE:RSG), recently acquired 409,500 shares of the company's stock for over $90.7 million. This purchase, made on September 8th, increased Cascade Investment's direct ownership to 116,166,330 shares, valued at approximately $25.7 billion. The article also details several other significant stock purchases made by Cascade Investment in late August and early September, highlighting substantial insider confidence in Republic Services.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-10T21:12:37",
-      "first_seen_at": "2026-09-10T22:00:02.305328",
-      "assets": [
-        {
-          "symbol": "RSG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460777,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935439
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836385
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730386
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1167,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Republic Services (NYSE:RSG) Major Shareholder Acquires $90,700,155.00 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-republic-services-nyse-rsg-major-shareholder-acquires-9070015500-in-stock-2026-09-10/",
-          "published_at": "2026-09-10T21:12:37"
-        }
-      ]
-    },
-    {
-      "event_id": 1054,
-      "title": "Prologis Acquires 69 Acres For 1M SF Facility",
-      "summary": "Prologis has acquired 69 acres in Minooka, Illinois, to develop Minooka Exchange, a 1 million square-foot industrial logistics facility. This project will add significant modern logistics space to Chicago's supply-constrained market, breaking ground in the coming weeks. This acquisition follows another recent purchase in Glendale Heights for two Class-A logistics facilities, further expanding Prologis's substantial portfolio in the Chicago area.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-10T20:11:05",
-      "first_seen_at": "2026-09-10T22:00:02.569426",
-      "assets": [
-        {
-          "symbol": "PLD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.434015,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.936829
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.839462
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.647747
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.620537
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1168,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bisnow",
-          "source_domain": "Bisnow",
-          "headline": "Prologis Acquires 69 Acres For 1M SF Facility",
-          "url": "https://www.bisnow.com/news/chicago/industrial/prologis-acquires-69-acres-1m-sf-minooka-industrial-development",
-          "published_at": "2026-09-10T20:11:05"
-        }
-      ]
-    },
-    {
-      "event_id": 1047,
-      "title": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
-      "summary": "Ford Motor Co. plans to invest $1 billion in a new paint shop at its Kentucky Truck Plant in Louisville, with groundbreaking expected by year-end. This announcement builds on Ford's previous investments in Kentucky, including a $2 billion transformation of the Louisville Assembly Plant for its Universal EV Platform. Governor Andy Beshear highlighted Ford's long-standing commitment to the state and its workforce, emphasizing the importance of American manufacturing.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-10T20:00:27",
-      "first_seen_at": "2026-09-10T21:00:02.584945",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.612332,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.836328
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.835155
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1161,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Detroit News",
-          "source_domain": "The Detroit News",
-          "headline": "Ford to invest $1B for new paint shop at Kentucky Truck Plant",
-          "url": "https://eu.detroitnews.com/story/business/autos/ford/2026/09/10/ford-kentucky-truck-plant-paint-shop/91691315007/",
-          "published_at": "2026-09-10T18:18:59"
-        },
-        {
-          "article_id": 1160,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WCLU Radio",
-          "source_domain": "WCLU Radio",
-          "headline": "Ford to invest $1 B in new paint shop at the Kentucky Truck Plant in Louisville",
-          "url": "https://www.wcluradio.com/2026/09/10/ford-to-invest-1-b-in-new-paint-shop-at-the-kentucky-truck-plant-in-louisville/",
-          "published_at": "2026-09-10T20:00:27"
         }
       ]
     }
