@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1063,
+      "title": "WINTON GROUP Ltd Acquires New Position in CenterPoint Energy, Inc. $CNP",
+      "summary": "WINTON GROUP Ltd has acquired a new position in CenterPoint Energy, Inc. (NYSE:CNP) during the second quarter, purchasing 78,786 shares valued at approximately $3.47 million. CenterPoint Energy reported strong quarterly results, beating EPS and revenue estimates, and reaffirmed its FY 2026 EPS guidance while also raising its quarterly dividend. Analysts currently rate the stock as a \"Moderate Buy\" with an average price target of $45.36.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-11T09:58:51",
+      "first_seen_at": "2026-09-11T12:00:02.936504",
+      "assets": [
+        {
+          "symbol": "CNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.453427,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941769
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826053
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.701897
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.616054
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1178,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "WINTON GROUP Ltd Acquires New Position in CenterPoint Energy, Inc. $CNP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-position-in-centerpoint-energy-inc-cnp-2026-09-11/",
+          "published_at": "2026-09-11T09:58:51"
+        }
+      ]
+    },
+    {
       "event_id": 1061,
       "title": "American Electric Power (NASDAQ:AEP) Gains As Utilities Outperform Broader Market",
       "summary": "American Electric Power (AEP) saw its stock advance as utility companies outperformed the broader market. This gain is attributed to surging crude prices, increased demand from data centers and industrial expansion driving capital planning for AEP's transmission network, and the defensive nature of utility stocks attracting investors during geopolitical unease. The company's regulated model and extensive transmission infrastructure are key differentiators supporting predictable earnings growth.",
@@ -1131,61 +1182,6 @@
           "headline": "Junto Capital Management LP Acquires Shares of 412,747 UMB Financial Corporation $UMBF",
           "url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-acquires-shares-of-412747-umb-financial-corporation-umbf-2026-09-10/",
           "published_at": "2026-09-10T10:56:49"
-        }
-      ]
-    },
-    {
-      "event_id": 1022,
-      "title": "Junto Capital Management LP Acquires Shares of 1,232,323 Bank of America Corporation $BAC",
-      "summary": "Junto Capital Management LP recently acquired 1,232,323 shares of Bank of America (NYSE:BAC) during the second quarter, a stake valued at approximately $70.2 million. Institutional investors now collectively own 70.71% of BAC, which maintains a \"Moderate Buy\" consensus rating from analysts with a target price of $64.08. Bank of America also reported strong quarterly earnings, exceeding estimates, and increased its quarterly dividend to $0.32 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-10T10:44:23",
-      "first_seen_at": "2026-09-10T13:00:03.261350",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.417736,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.64342,
-          "sentiment_score": 0.202676,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940512
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831563
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.713581
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1135,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Junto Capital Management LP Acquires Shares of 1,232,323 Bank of America Corporation $BAC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-acquires-shares-of-1232323-bank-of-america-corporation-bac-2026-09-10/",
-          "published_at": "2026-09-10T10:44:23"
         }
       ]
     }
