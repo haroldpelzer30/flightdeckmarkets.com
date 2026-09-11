@@ -5,6 +5,62 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1097,
+      "title": "Cms energy stock hits 52-week low at 67.19 USD",
+      "summary": "CMS Energy Corporation's stock has hit a 52-week low at $67.19, reflecting a 6.24% decline over the past year amidst broader energy sector challenges. Despite this, the company maintains a 3.37% dividend yield and has a long history of dividend increases. Recent developments include Q2 2026 adjusted earnings below expectations, a reaffirmed full-year outlook, and a filed Integrated Resource Plan focusing on clean energy.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-11T19:59:09",
+      "first_seen_at": "2026-09-11T21:00:02.181896",
+      "assets": [
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.284444,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949221
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909139
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.826699
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1213,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Cms Energy stock hits 52-week low at 20.25 USD",
+          "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2025-usd-93CH-4898371",
+          "published_at": "2026-09-11T19:59:09"
+        },
+        {
+          "article_id": 1214,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Cms energy stock hits 52-week low at 67.19 USD",
+          "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6719-usd-93CH-4898370",
+          "published_at": "2026-09-11T19:59:09"
+        }
+      ]
+    },
+    {
       "event_id": 1090,
       "title": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
       "summary": "Chevron CEO Mike Wirth warned that oil prices are likely to remain elevated in the coming months due to the depletion of supply buffers that previously softened the impact of the U.S.-Iran conflict. He stated that the risks to oil prices remain on the upside, with Brent crude having already surged over 50% since the Middle East war began. Chevron plans to invest $7 billion in its Venezuelan operations, aiming to more than double production by 2031, funded by existing ventures in the country.",
@@ -20,7 +76,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.403969,
+          "sentiment_score": 0.41204,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +84,7 @@
           "symbol": "WMT",
           "asset_class": null,
           "relevance_score": 0.634097,
-          "sentiment_score": 0.004034,
+          "sentiment_score": 0.003926,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,15 +92,15 @@
           "symbol": "YUM",
           "asset_class": null,
           "relevance_score": 0.614643,
-          "sentiment_score": 0.025891,
+          "sentiment_score": 0.047269,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "COIN",
           "asset_class": null,
-          "relevance_score": 0.604195,
-          "sentiment_score": 0.124393,
+          "relevance_score": 0.606131,
+          "sentiment_score": 0.141946,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -56,11 +112,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.919715
+          "relevance_score": 0.942322
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.834016
+          "relevance_score": 0.841426
         }
       ],
       "articles": [
@@ -91,15 +147,15 @@
           "symbol": "ET",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.431668,
+          "sentiment_score": 0.422045,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "XOM",
           "asset_class": null,
-          "relevance_score": 0.627312,
-          "sentiment_score": 0.104002,
+          "relevance_score": 0.643781,
+          "sentiment_score": 0.110045,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -146,7 +202,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416461,
+          "sentiment_score": 0.43049,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -154,7 +210,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.907792
+          "relevance_score": 0.939794
         },
         {
           "topic": "economy_macro",
@@ -162,7 +218,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.748671
+          "relevance_score": 0.749557
         }
       ],
       "articles": [
@@ -193,7 +249,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.332757,
-          "sentiment_score": 0.017898,
+          "sentiment_score": 0.042605,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -205,7 +261,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.940499
+          "relevance_score": 0.947647
         },
         {
           "topic": "finance",
@@ -1199,57 +1255,6 @@
           "headline": "Amit Kumar Acquires 5,000 Shares of Anixa Biosciences (NASDAQ:ANIX) Stock",
           "url": "https://www.marketbeat.com/instant-alerts/insider-amit-kumar-acquires-5000-shares-of-anixa-biosciences-nasdaq-anix-stock-2026-09-11/",
           "published_at": "2026-09-11T13:09:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1068,
-      "title": "Duke Energy (NYSE:DUK) faces a fresh market test as oil and yields rise",
-      "summary": "Duke Energy (NYSE:DUK) is facing a new market test due to rising oil prices, elevated bond yields, and inflation concerns, which are altering the investment landscape for utility stocks. The article emphasizes that while macro conditions are shifting, company execution, demand quality, and disciplined cost control will be crucial for Duke Energy's performance. The stock's relevance is also tied to broader economic themes like grid spending and data center electricity needs, making it a key focus for investors tracking the utility sector's resilience.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-11T12:18:58",
-      "first_seen_at": "2026-09-11T15:00:03.060642",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.149601,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.915914
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.832551
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.703403
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.643748
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1183,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Duke Energy (NYSE:DUK) faces a fresh market test as oil and yields rise",
-          "url": "https://kalkinemedia.com/us/stocks/utility/duke-energy-nyseduk-faces-a-fresh-market-test-as-oil-and-yields-rise",
-          "published_at": "2026-09-11T12:18:58"
         }
       ]
     }
