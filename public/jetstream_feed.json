@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1106,
+      "title": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
+      "summary": "This article examines how Rockwell Automation (NYSE:ROK) is navigating a challenging macro environment characterized by rising costs, firm Treasury yields, and inflation concerns. It highlights the importance of company-specific execution in addressing increased operating expenses and maintaining demand momentum, especially given the company's direct ties to capital spending, aerospace and defense demand, automation trends, and supply-chain execution. The piece emphasizes that market attention is currently focused on how businesses like Rockwell Automation absorb higher costs without losing demand, making operational clarity and disciplined resource deployment critical.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-11T21:46:44",
+      "first_seen_at": "2026-09-11T23:00:02.854788",
+      "assets": [
+        {
+          "symbol": "ROK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.147697,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EQT",
+          "asset_class": null,
+          "relevance_score": 0.595536,
+          "sentiment_score": -0.102405,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.577136,
+          "sentiment_score": -0.115166,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940762
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.927829
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.8452
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1224,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
+          "url": "https://kalkinemedia.com/us/stocks/industrial/can-rockwell-automation-nyserok-keep-pace-as-costs-rise",
+          "published_at": "2026-09-11T21:46:44"
+        }
+      ]
+    },
+    {
       "event_id": 1102,
       "title": "Intercontinental Exchange (NYSE:ICE) In Focus As Oil & Yields Drive A Fresh Sector Rotation",
       "summary": "Intercontinental Exchange (NYSE:ICE) is currently a focal point in financial markets due to the impact of elevated oil prices, firm Treasury yields, and renewed inflation concerns driving a sector rotation. The article emphasizes that ICE's performance is being assessed through a changed macro backdrop, highlighting its connection to credit conditions, capital markets activity, deposit competition, and the yield curve shape. It suggests that company-specific execution and operational clarity are crucial for ICE to navigate the current environment of higher costs and uneven demand within the Financial Stocks sector.",
@@ -20,7 +83,7 @@
           "symbol": "ICE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.148316,
+          "sentiment_score": 0.113674,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -28,7 +91,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.911661
+          "relevance_score": 0.948157
         },
         {
           "topic": "economy_monetary",
@@ -36,11 +99,11 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.805944
+          "relevance_score": 0.825151
         },
         {
           "topic": "finance",
-          "relevance_score": 0.724184
+          "relevance_score": 0.747146
         },
         {
           "topic": "energy_transportation",
@@ -75,7 +138,7 @@
           "symbol": "CMS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.038025,
+          "sentiment_score": 0.009941,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -87,11 +150,11 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.909139
+          "relevance_score": 0.936393
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.831666
+          "relevance_score": 0.840972
         }
       ],
       "articles": [
@@ -112,6 +175,89 @@
           "headline": "Cms energy stock hits 52-week low at 67.19 USD",
           "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6719-usd-93CH-4898370",
           "published_at": "2026-09-11T19:59:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1109,
+      "title": "Can High Tide (NASDAQ:HITI) Weather A Tougher Market?",
+      "summary": "This article examines how High Tide (NASDAQ:HITI), a cannabis stock, is navigating the current challenging market environment characterized by elevated energy costs, firm Treasury yields, and renewed inflation concerns. The analysis focuses on how these macro pressures impact the company's regulatory developments, retail demand, brand execution, and balance-sheet discipline. It emphasizes that company-specific execution and operational efficiency are crucial for High Tide to maintain demand momentum and absorb higher costs in a volatile market.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-11T19:40:18",
+      "first_seen_at": "2026-09-11T23:00:03.704014",
+      "assets": [
+        {
+          "symbol": "HITI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.029217,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMGN",
+          "asset_class": null,
+          "relevance_score": 0.646524,
+          "sentiment_score": 0.148302,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ISRG",
+          "asset_class": null,
+          "relevance_score": 0.618816,
+          "sentiment_score": 0.124754,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "REGN",
+          "asset_class": null,
+          "relevance_score": 0.615316,
+          "sentiment_score": 0.11758,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DXCM",
+          "asset_class": null,
+          "relevance_score": 0.612464,
+          "sentiment_score": 0.123703,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922839
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.844708
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.712424
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.607803
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1228,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Can High Tide (NASDAQ:HITI) Weather A Tougher Market?",
+          "url": "https://kalkinemedia.com/us/stocks/cannabis/can-high-tide-nasdaqhiti-weather-a-tougher-market",
+          "published_at": "2026-09-11T19:40:18"
         }
       ]
     },
@@ -1137,132 +1283,6 @@
           "headline": "BMO targets Canada’s next era of growth with commitment of up to $70 billion for critical economic sectors",
           "url": "https://www.bmo.com/en-ca/main/about-bmo/news-insights/blog/bmo-targets-canadas-next-era-of-growth/",
           "published_at": "2026-09-11T13:55:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1065,
-      "title": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
-      "summary": "Surging diesel prices, which have surpassed $6 a gallon, could significantly boost the demand for Tesla's electric semi-trucks, according to Morgan Stanley analysts. An autonomous electric semi is projected to cut costs by 20% per mile and increase annual mileage by 133% compared to human-operated diesel vehicles. This could lead to a dramatic increase in profit per truck, making Tesla's trucking solution more attractive amidst rising fuel costs.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-11T13:40:00",
-      "first_seen_at": "2026-09-11T15:00:02.210393",
-      "assets": [
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.458684,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.927549,
-          "sentiment_score": 0.324086,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.629572,
-          "sentiment_score": 0.138569,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PLTR",
-          "asset_class": null,
-          "relevance_score": 0.576574,
-          "sentiment_score": 0.110511,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.929278
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.811805
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.745717
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.63127
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1180,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
-          "url": "https://www.cnbc.com/2026/09/11/6-diesel-should-benefit-teslas-trucking-ambitions-morgan-stanley-says-.html",
-          "published_at": "2026-09-11T13:40:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1066,
-      "title": "Anixa Biosciences CEO Amit Kumar acquires $13,799 in stock",
-      "summary": "Anixa Biosciences CEO Amit Kumar recently purchased 5,000 shares of the company's common stock for $13,799, at a price of $2.76 per share. This transaction increases his direct holdings to 662,000 shares, occurring while the stock is near its 52-week low. Despite the stock appearing overvalued by some analyses, the company maintains a strong balance sheet and is advancing its clinical trials for cancer therapies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-11T13:11:48",
-      "first_seen_at": "2026-09-11T15:00:02.507576",
-      "assets": [
-        {
-          "symbol": "ANIX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.201503,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.904883
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.904571
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.826382
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.725978
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1181,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Anixa Biosciences CEO Amit Kumar acquires $13,799 in stock",
-          "url": "https://www.investing.com/news/insider-trading-news/anixa-biosciences-ceo-amit-kumar-acquires-13799-in-stock-93CH-4897869",
-          "published_at": "2026-09-11T13:11:48"
         }
       ]
     }
