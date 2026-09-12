@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1110,
+      "title": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
+      "summary": "Smith Chas P & Associates PA Cpas has reduced its stake in Invesco QQQ (NASDAQ:QQQ) by 2.9%, selling 2,302 shares but still holding 78,088 shares valued at approximately $57.5 million. The Invesco QQQ ETF, which tracks the Nasdaq-100 Index, remains the firm's 12th largest holding. The article also notes that QQQ shares recently traded near their 12-month high and the fund increased its quarterly dividend.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-11T23:18:06",
+      "first_seen_at": "2026-09-12T00:00:02.401511",
+      "assets": [
+        {
+          "symbol": "IVZ",
+          "asset_class": null,
+          "relevance_score": 0.681048,
+          "sentiment_score": 0.199655,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.915289
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.827259
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1229,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-smith-chas-p-associates-pa-cpas-sells-2302-shares-of-invesco-qqq-qqq-2026-09-11/",
+          "published_at": "2026-09-11T23:18:06"
+        }
+      ]
+    },
+    {
       "event_id": 1106,
       "title": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
       "summary": "This article examines how Rockwell Automation (NYSE:ROK) is navigating a challenging macro environment characterized by rising costs, firm Treasury yields, and inflation concerns. It highlights the importance of company-specific execution in addressing increased operating expenses and maintaining demand momentum, especially given the company's direct ties to capital spending, aerospace and defense demand, automation trends, and supply-chain execution. The piece emphasizes that market attention is currently focused on how businesses like Rockwell Automation absorb higher costs without losing demand, making operational clarity and disciplined resource deployment critical.",
@@ -20,7 +63,7 @@
           "symbol": "ROK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.147697,
+          "sentiment_score": 0.143223,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -28,27 +71,27 @@
           "symbol": "EQT",
           "asset_class": null,
           "relevance_score": 0.595536,
-          "sentiment_score": -0.102405,
+          "sentiment_score": -0.130274,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "APA",
           "asset_class": null,
-          "relevance_score": 0.577136,
-          "sentiment_score": -0.115166,
+          "relevance_score": 0.580714,
+          "sentiment_score": -0.134751,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.940762
+          "topic": "economy_macro",
+          "relevance_score": 0.949434
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.927829
+          "topic": "financial_markets",
+          "relevance_score": 0.940762
         },
         {
           "topic": "manufacturing",
@@ -83,7 +126,7 @@
           "symbol": "ICE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.113674,
+          "sentiment_score": 0.108373,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -138,7 +181,7 @@
           "symbol": "CMS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.009941,
+          "sentiment_score": 0.032503,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -146,11 +189,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.949221
+          "relevance_score": 0.949912
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.936393
+          "relevance_score": 0.943526
         },
         {
           "topic": "energy_transportation",
@@ -1236,53 +1279,6 @@
           "headline": "ChampionsGate and Futuremain announce Nasdaq merger agreement",
           "url": "https://www.tipranks.com/news/company-announcements/championsgate-and-futuremain-announce-nasdaq-merger-agreement",
           "published_at": "2026-09-11T14:37:37"
-        }
-      ]
-    },
-    {
-      "event_id": 1071,
-      "title": "BMO targets Canada’s next era of growth with commitment of up to $70 billion for critical economic sectors",
-      "summary": "BMO has announced a commitment to mobilize up to $70 billion in new capital over 10 years for critical Canadian economic sectors such as electricity, energy, transportation infrastructure, mining, AI computing, defence, and oil & gas. This initiative aims to support Canada's economic security, resilience, and long-term growth by financing key projects and businesses. The capital mobilization reinforces BMO's historical role in Canadian development and its ongoing efforts to help the country compete in the global economy.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-11T13:55:30",
-      "first_seen_at": "2026-09-11T16:00:02.829981",
-      "assets": [
-        {
-          "symbol": "BERZ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.445409,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.925458
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.844412
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.745947
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1187,
-          "provider": "ALPHA_VANTAGE",
-          "source": "BMO",
-          "source_domain": "BMO",
-          "headline": "BMO targets Canada’s next era of growth with commitment of up to $70 billion for critical economic sectors",
-          "url": "https://www.bmo.com/en-ca/main/about-bmo/news-insights/blog/bmo-targets-canadas-next-era-of-growth/",
-          "published_at": "2026-09-11T13:55:30"
         }
       ]
     }
