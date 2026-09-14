@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1139,
+      "title": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
+      "summary": "McDonald's is promoting an $8 Big Mac meal to attract customers while facing record-high diesel prices, which are driving up supply chain costs for franchisees. This strategy collides with McDonald's Q2 FY2026 earnings showing decelerated global comparable sales and negative U.S. guest counts, leading to a 14% year-to-date stock drop. CEO Chris Kempczinski admitted to execution issues and a slow recovery, noting that about a third of locations didn't follow value pricing recommendations.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 84,
+      "published_at": "2026-09-14T17:44:46",
+      "first_seen_at": "2026-09-14T19:00:02.695160",
+      "assets": [
+        {
+          "symbol": "MCD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.307871,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.943448
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.90427
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.832121
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.82816
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.700933
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1260,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
+          "url": "https://247wallst.com/investing/2026/09/14/they-dont-call-it-an-extra-value-meal-for-nothing-mcdonalds-pitches-8-big-macs-as-diesel-hits-6-23/",
+          "published_at": "2026-09-14T17:44:46"
+        }
+      ]
+    },
+    {
       "event_id": 1134,
       "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
       "summary": "Chip equipment stocks, including Applied Materials, Lam Research, and ASML, experienced significant drops (around 5-6%) after AI CEOs suggested slowing the pace of AI model development. This debate about AI pacing is impacting the equipment order books before affecting current chip shipments, causing the \"tools layer\" of the semiconductor industry to fall harder than the broader market. Despite recent record revenues and strong guidance from these companies, the market is questioning the sustainability of their growth rates given the potential shift in AI capital expenditure.",
@@ -1171,62 +1226,6 @@
           "headline": "Intercontinental Exchange (NYSE:ICE) In Focus As Oil & Yields Drive A Fresh Sector Rotation",
           "url": "https://kalkinemedia.com/us/stocks/financial/intercontinental-exchange-nyseice-in-focus-as-oil-yields-drive-a-fresh-sector-rotation",
           "published_at": "2026-09-11T20:30:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1097,
-      "title": "Cms energy stock hits 52-week low at 67.19 USD",
-      "summary": "CMS Energy Corporation's stock has hit a 52-week low at $67.19, reflecting a 6.24% decline over the past year amidst broader energy sector challenges. Despite this, the company maintains a 3.37% dividend yield and has a long history of dividend increases. Recent developments include Q2 2026 adjusted earnings below expectations, a reaffirmed full-year outlook, and a filed Integrated Resource Plan focusing on clean energy.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-11T19:59:09",
-      "first_seen_at": "2026-09-11T21:00:02.181896",
-      "assets": [
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.032503,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.949912
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943526
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.840972
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1213,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Cms Energy stock hits 52-week low at 20.25 USD",
-          "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2025-usd-93CH-4898371",
-          "published_at": "2026-09-11T19:59:09"
-        },
-        {
-          "article_id": 1214,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Cms energy stock hits 52-week low at 67.19 USD",
-          "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6719-usd-93CH-4898370",
-          "published_at": "2026-09-11T19:59:09"
         }
       ]
     }
