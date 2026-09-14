@@ -5,6 +5,124 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1114,
+      "title": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
+      "summary": "Energy Fuels Inc. (TSX:EFR) saw its shares drop 4.62% on September 11, indicating a period of high volatility and weaker short-term investor sentiment, despite fundamental strengths in uranium production and rare-earth expansion. The decline suggests investors are reassessing valuation and execution risks associated with the company's multi-faceted growth strategy, including recent acquisitions. While the long-term outlook benefits from geopolitical forces strengthening demand for Western critical minerals, investors need to balance strategic opportunities with the complexities of managing multiple initiatives and commodity price volatility.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-09-14T10:32:09",
+      "first_seen_at": "2026-09-14T12:00:02.606336",
+      "assets": [
+        {
+          "symbol": "UUUU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.20226,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.929964
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914847
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.835018
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.831169
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.718361
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1234,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
+          "url": "https://kalkine.ca/news/mining/energy-fuels-inc-tsxefr-drops-462-uranium-stock-faces-correction-risk-as-investors-reassess-growth-expectations",
+          "published_at": "2026-09-14T10:32:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1115,
+      "title": "Best Income Stocks to Buy for September 14th",
+      "summary": "Zacks Equity Research has identified three income stocks with a \"buy\" rank for September 14th: Ternium S.A. (TX), HP Inc. (HPQ), and Takeda Pharmaceutical Company Limited (TAK). These companies exhibit strong income characteristics, including Zacks Rank #1 status and competitive dividend yields, with their current year earnings estimates showing recent increases.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-14T08:59:16",
+      "first_seen_at": "2026-09-14T12:00:03.099205",
+      "assets": [
+        {
+          "symbol": "TX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.43161,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HPQ",
+          "asset_class": null,
+          "relevance_score": 0.914281,
+          "sentiment_score": 0.418841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.845272
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.728163
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.725096
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.641328
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1235,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "Best Income Stocks to Buy for September 14th",
+          "url": "https://uk.finance.yahoo.com/news/best-income-stocks-buy-september-092800104.html",
+          "published_at": "2026-09-14T08:59:16"
+        }
+      ]
+    },
+    {
       "event_id": 1110,
       "title": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
       "summary": "Smith Chas P & Associates PA Cpas has reduced its stake in Invesco QQQ (NASDAQ:QQQ) by 2.9%, selling 2,302 shares but still holding 78,088 shares valued at approximately $57.5 million. The Invesco QQQ ETF, which tracks the Nasdaq-100 Index, remains the firm's 12th largest holding. The article also notes that QQQ shares recently traded near their 12-month high and the fund increased its quarterly dividend.",
@@ -1128,157 +1246,6 @@
           "headline": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
           "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
           "published_at": "2026-09-11T14:51:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1070,
-      "title": "Expeditors International stock hits all-time high of 192.34 USD",
-      "summary": "Expeditors International of Washington Inc. (EXPD) stock has reached an all-time high of $192.34, marking a 55.11% increase over the past year. This surge reflects strong investor confidence and comes after the company reported robust revenue growth and raised its dividend for 29 consecutive years. Analysts have responded by raising price targets, despite some indicators suggesting the stock may be overvalued.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-11T14:38:12",
-      "first_seen_at": "2026-09-11T16:00:02.429658",
-      "assets": [
-        {
-          "symbol": "EXPD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.48655,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.644229,
-          "sentiment_score": 0.344944,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HPQ",
-          "asset_class": null,
-          "relevance_score": 0.589562,
-          "sentiment_score": 0.510217,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HPE",
-          "asset_class": null,
-          "relevance_score": 0.589003,
-          "sentiment_score": 0.607262,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DELL",
-          "asset_class": null,
-          "relevance_score": 0.588241,
-          "sentiment_score": 0.585954,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.55376,
-          "sentiment_score": 0.326402,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939377
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928209
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.731511
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.728534
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.626259
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1186,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Expeditors International stock hits all-time high of 192.34 USD",
-          "url": "https://in.investing.com/news/stock-market-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-5590357",
-          "published_at": "2026-09-11T14:04:57"
-        },
-        {
-          "article_id": 1185,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Expeditors International stock hits all-time high of 192.34 USD",
-          "url": "https://www.investing.com/news/company-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-4898095",
-          "published_at": "2026-09-11T14:38:12"
-        }
-      ]
-    },
-    {
-      "event_id": 1079,
-      "title": "ChampionsGate and Futuremain announce Nasdaq merger agreement",
-      "summary": "ChampionsGate Acquisition Corp. and Futuremain Co., Ltd. have signed a definitive merger agreement to create a combined company listed on the Nasdaq Stock Market. The deal, which values Futuremain at approximately $80 million, is expected to close in 2027. Futuremain plans to leverage the U.S. capital markets access for global expansion and to scale its Physical AI-powered ExRBM diagnostics to a cloud-based subscription model.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-11T14:37:37",
-      "first_seen_at": "2026-09-11T17:00:04.154497",
-      "assets": [
-        {
-          "symbol": "CHPG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413909,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.92092
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.802282
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1195,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TipRanks",
-          "source_domain": "TipRanks",
-          "headline": "ChampionsGate and Futuremain announce Nasdaq merger agreement",
-          "url": "https://www.tipranks.com/news/company-announcements/championsgate-and-futuremain-announce-nasdaq-merger-agreement",
-          "published_at": "2026-09-11T14:37:37"
         }
       ]
     }
