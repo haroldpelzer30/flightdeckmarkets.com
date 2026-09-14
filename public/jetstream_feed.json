@@ -20,7 +20,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416551,
+          "sentiment_score": 0.427844,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.844854,
-          "sentiment_score": 0.336165,
+          "sentiment_score": 0.342797,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.944768
+          "relevance_score": 0.94567
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -44,7 +44,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.704559
+          "relevance_score": 0.730394
         }
       ],
       "articles": [
@@ -75,15 +75,15 @@
           "symbol": "PNW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.106288,
+          "sentiment_score": 0.135248,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "ES",
           "asset_class": null,
-          "relevance_score": 0.617571,
-          "sentiment_score": 0.118815,
+          "relevance_score": 0.632278,
+          "sentiment_score": 0.146784,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -91,7 +91,7 @@
           "symbol": "WEC",
           "asset_class": null,
           "relevance_score": 0.593014,
-          "sentiment_score": 0.109668,
+          "sentiment_score": 0.144713,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -99,7 +99,7 @@
           "symbol": "O",
           "asset_class": null,
           "relevance_score": 0.583312,
-          "sentiment_score": 0.110938,
+          "sentiment_score": 0.149255,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -115,11 +115,11 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.807628
+          "relevance_score": 0.827109
         },
         {
           "topic": "finance",
-          "relevance_score": 0.703286
+          "relevance_score": 0.733525
         }
       ],
       "articles": [
@@ -150,7 +150,7 @@
           "symbol": "UUUU",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.203367,
+          "sentiment_score": -0.209071,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -162,7 +162,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.914847
+          "relevance_score": 0.928589
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -174,7 +174,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.725616
+          "relevance_score": 0.735963
         }
       ],
       "articles": [
