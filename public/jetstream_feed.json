@@ -5,6 +5,136 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1116,
+      "title": "NextEra Energy to meet with investors throughout September and in early October",
+      "summary": "NextEra Energy announced that its senior management team will hold investor meetings throughout September and early October to discuss long-term growth expectations, including the proposed combination with Dominion Energy. The company reaffirms its adjusted earnings per share targets for 2026 and expects continued growth through 2035, with dividends projected to increase annually. The merger with Dominion Energy is anticipated to be immediately accretive to adjusted earnings per share upon closing in the second half of 2027.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-14T11:30:30",
+      "first_seen_at": "2026-09-14T13:00:02.038854",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.416551,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.844854,
+          "sentiment_score": 0.336165,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944768
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.80561
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.704559
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1236,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "NextEra Energy to meet with investors throughout September and in early October",
+          "url": "https://ca.finance.yahoo.com/news/nextera-energy-meet-investors-throughout-113000013.html",
+          "published_at": "2026-09-14T11:30:30"
+        }
+      ]
+    },
+    {
+      "event_id": 1117,
+      "title": "Could Pinnacle West (NYSE:PNW) Drive Fresh NYSE Dividend Focus?",
+      "summary": "Pinnacle West Capital Corporation (NYSE:PNW) is drawing market attention as it navigates lower second-quarter earnings alongside an expanding Arizona infrastructure program and an active utility rate case. The company's situation highlights broader market concerns around financing costs, durable demand, and payout coverage in the context of Federal Reserve actions. Subsequent disclosures on operating progress, customer activity, and cash discipline will be crucial for clarifying the company's trajectory and its impact on the wider sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-14T10:37:55",
+      "first_seen_at": "2026-09-14T13:00:02.282163",
+      "assets": [
+        {
+          "symbol": "PNW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.106288,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ES",
+          "asset_class": null,
+          "relevance_score": 0.617571,
+          "sentiment_score": 0.118815,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WEC",
+          "asset_class": null,
+          "relevance_score": 0.593014,
+          "sentiment_score": 0.109668,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "O",
+          "asset_class": null,
+          "relevance_score": 0.583312,
+          "sentiment_score": 0.110938,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.935331
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.836024
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.807628
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.703286
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1237,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Could Pinnacle West (NYSE:PNW) Drive Fresh NYSE Dividend Focus?",
+          "url": "https://kalkinemedia.com/us/stocks/dividend/could-pinnacle-west-nysepnw-drive-fresh-nyse-dividend-focus",
+          "published_at": "2026-09-14T10:37:55"
+        }
+      ]
+    },
+    {
       "event_id": 1114,
       "title": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
       "summary": "Energy Fuels Inc. (TSX:EFR) saw its shares drop 4.62% on September 11, indicating a period of high volatility and weaker short-term investor sentiment, despite fundamental strengths in uranium production and rare-earth expansion. The decline suggests investors are reassessing valuation and execution risks associated with the company's multi-faceted growth strategy, including recent acquisitions. While the long-term outlook benefits from geopolitical forces strengthening demand for Western critical minerals, investors need to balance strategic opportunities with the complexities of managing multiple initiatives and commodity price volatility.",
@@ -20,7 +150,7 @@
           "symbol": "UUUU",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.20226,
+          "sentiment_score": -0.203367,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -35,16 +165,16 @@
           "relevance_score": 0.914847
         },
         {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.839879
+        },
+        {
           "topic": "earnings",
           "relevance_score": 0.835018
         },
         {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.831169
-        },
-        {
           "topic": "economy_macro",
-          "relevance_score": 0.718361
+          "relevance_score": 0.725616
         }
       ],
       "articles": [
@@ -56,6 +186,57 @@
           "headline": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
           "url": "https://kalkine.ca/news/mining/energy-fuels-inc-tsxefr-drops-462-uranium-stock-faces-correction-risk-as-investors-reassess-growth-expectations",
           "published_at": "2026-09-14T10:32:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1119,
+      "title": "Copart to acquire ACV, CEO says international vehicle purchases expansion will continue",
+      "summary": "Copart announced its acquisition of ACV, a digital automotive marketplace, for $1.9 billion in cash, representing a 45% premium to ACV's unaffected stock price. Copart CEO Jay Adair highlighted the complementary nature of the two companies, combining Copart's physical scale and international buyer base with ACV's digital marketplace and remarketing technology. The acquisition is expected to be accretive to earnings in the first full year, with ACV operating as an independent subsidiary.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-14T09:54:07",
+      "first_seen_at": "2026-09-14T13:00:02.871949",
+      "assets": [
+        {
+          "symbol": "CPRT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.446991,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.934235
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.821317
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.629829
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.604838
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1239,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Repairer Driven News",
+          "source_domain": "Repairer Driven News",
+          "headline": "Copart to acquire ACV, CEO says international vehicle purchases expansion will continue",
+          "url": "https://www.repairerdrivennews.com/2026/09/14/copart-to-acquire-acv-ceo-says-international-vehicle-purchases-expansion-will-continue/",
+          "published_at": "2026-09-14T09:54:07"
         }
       ]
     },
@@ -75,7 +256,7 @@
           "symbol": "TX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.43161,
+          "sentiment_score": 0.422215,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -83,7 +264,7 @@
           "symbol": "HPQ",
           "asset_class": null,
           "relevance_score": 0.914281,
-          "sentiment_score": 0.418841,
+          "sentiment_score": 0.433028,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -98,12 +279,12 @@
           "relevance_score": 0.845272
         },
         {
-          "topic": "life_sciences",
-          "relevance_score": 0.728163
+          "topic": "technology",
+          "relevance_score": 0.733627
         },
         {
-          "topic": "technology",
-          "relevance_score": 0.725096
+          "topic": "life_sciences",
+          "relevance_score": 0.728163
         },
         {
           "topic": "manufacturing",
@@ -1029,223 +1210,6 @@
           "headline": "Bank7 Corp. Boosts Century Financial Acquisition Offer to $88.96 Million After Court Auction",
           "url": "https://kalkinemedia.com/us/news/announcements/bank7-corp-boosts-century-financial-acquisition-offer-to-8896-million-after-court-auction",
           "published_at": "2026-09-11T15:38:22"
-        }
-      ]
-    },
-    {
-      "event_id": 1075,
-      "title": "AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
-      "summary": "The article highlights five dividend utility stocks poised to benefit from the massive power demands of AI data centers. Companies like Southern Company, Duke Energy, WEC Energy Group, Xcel Energy, and Consolidated Edison are expanding their infrastructure to meet this growing demand, turning capital expenditures into predictable earnings and steady dividends. Each company offers unique advantages and risks, catering to different investment strategies focused on income durability or growth potential.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-11T15:37:43",
-      "first_seen_at": "2026-09-11T17:00:03.086331",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 0.98687,
-          "sentiment_score": 0.410068,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.910379,
-          "sentiment_score": 0.454203,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WEC",
-          "asset_class": null,
-          "relevance_score": 0.866105,
-          "sentiment_score": 0.427214,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 0.832574,
-          "sentiment_score": 0.301055,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ED",
-          "asset_class": null,
-          "relevance_score": 0.820782,
-          "sentiment_score": 0.464697,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945186
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.820815
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.729562
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1191,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
-          "url": "https://247wallst.com/investing/2026/09/11/ai-data-centers-need-enormous-amounts-of-power-these-5-dividend-stocks-provide-it/",
-          "published_at": "2026-09-11T15:37:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1069,
-      "title": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
-      "summary": "Kroger has lowered its annual sales forecast due to persistent inflation and intense competition in the grocery sector, which are impacting consumer spending. The company expects comparable sales excluding fuel to grow by a maximum of 0.8%, down from a previous estimate of 2%. CEO Greg Foran is implementing strategies like price reductions and improved store services to gain market share amidst a challenging economic environment where consumers are tightening budgets.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 66,
-      "published_at": "2026-09-11T15:08:53",
-      "first_seen_at": "2026-09-11T16:00:02.113549",
-      "assets": [
-        {
-          "symbol": "KR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.429261,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 0.711968,
-          "sentiment_score": -0.100945,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COST",
-          "asset_class": null,
-          "relevance_score": 0.648199,
-          "sentiment_score": -0.120111,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.947796
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.8275
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.806758
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.739865
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1184,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Los Angeles Times",
-          "source_domain": "Los Angeles Times",
-          "headline": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
-          "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
-          "published_at": "2026-09-11T15:08:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1077,
-      "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-      "summary": "Hewlett Packard Enterprise and Dell stocks surged 11%, and Super Micro Computer climbed 7% following Oracle's announcement of a significant capital spending plan for AI infrastructure. Oracle CFO Hilary Maxson confirmed $90-$95 billion in full-year CapEx, much of which is expected to flow to vendors providing AI rack, cooling, and networking solutions. This Oracle-driven demand is repricing the AI server sector, indicating a strong future for these suppliers.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-11T14:51:47",
-      "first_seen_at": "2026-09-11T17:00:03.624156",
-      "assets": [
-        {
-          "symbol": "HPE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.448211,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DELL",
-          "asset_class": null,
-          "relevance_score": 0.986673,
-          "sentiment_score": 0.421684,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SMCI",
-          "asset_class": null,
-          "relevance_score": 0.910239,
-          "sentiment_score": 0.325689,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.828998,
-          "sentiment_score": 0.343981,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.905195
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.808229
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1193,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-          "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
-          "published_at": "2026-09-11T14:51:47"
         }
       ]
     }
