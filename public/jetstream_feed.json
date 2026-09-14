@@ -20,7 +20,7 @@
           "symbol": "MCD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.307871,
+          "sentiment_score": -0.34992,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -32,19 +32,19 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.90427
+          "relevance_score": 0.935407
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.843604
         },
         {
           "topic": "economy_monetary",
           "relevance_score": 0.832121
         },
         {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.82816
-        },
-        {
           "topic": "energy_transportation",
-          "relevance_score": 0.700933
+          "relevance_score": 0.749899
         }
       ],
       "articles": [
