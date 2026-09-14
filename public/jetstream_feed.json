@@ -5,6 +5,211 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1134,
+      "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
+      "summary": "Chip equipment stocks, including Applied Materials, Lam Research, and ASML, experienced significant drops (around 5-6%) after AI CEOs suggested slowing the pace of AI model development. This debate about AI pacing is impacting the equipment order books before affecting current chip shipments, causing the \"tools layer\" of the semiconductor industry to fall harder than the broader market. Despite recent record revenues and strong guidance from these companies, the market is questioning the sustainability of their growth rates given the potential shift in AI capital expenditure.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-14T15:09:50",
+      "first_seen_at": "2026-09-14T17:00:02.547225",
+      "assets": [
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.73972,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LRCX",
+          "asset_class": null,
+          "relevance_score": 0.826284,
+          "sentiment_score": -0.66361,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.928521
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.825889
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.626875
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1255,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
+          "url": "https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/",
+          "published_at": "2026-09-14T15:09:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1135,
+      "title": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
+      "summary": "Howmet Aerospace (HWM) is facing increased competitive pressure after GE Aerospace's $11.75 billion acquisition of Consolidated Precision Products (CPP). While this move validates the high demand for aerospace castings and engine components, it also raises concerns about GE's vertical integration potentially reducing its reliance on external suppliers like Howmet. Despite initial stock drops, Howmet's CEO remains confident, highlighting the company's strong growth opportunities in expanding markets like commercial aircraft, defense, and data centers, though capacity expansion is a current challenge.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-14T14:47:00",
+      "first_seen_at": "2026-09-14T17:00:02.818213",
+      "assets": [
+        {
+          "symbol": "HWM",
+          "asset_class": null,
+          "relevance_score": 0.953537,
+          "sentiment_score": -0.144125,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 0.897399,
+          "sentiment_score": 0.231934,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.64694,
+          "sentiment_score": 0.030546,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKNG",
+          "asset_class": null,
+          "relevance_score": 0.576032,
+          "sentiment_score": -0.055429,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.9164
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.830065
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.700268
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.611205
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.610394
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1256,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-faces-competitive-144705103.html",
+          "published_at": "2026-09-14T14:47:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1136,
+      "title": "Southern Company offers higher current dividend...",
+      "summary": "The article compares Southern Company (SO) and NextEra Energy (NEE) as dividend investment options for retirement income. Southern Company offers a higher current dividend yield of 3.4% for immediate income, while NextEra Energy provides a lower 2.89% yield but promises faster dividend growth, targeting about 10% annually. The choice depends on whether retirees prioritize stable current cash flow or future dividend growth and total returns.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-14T14:14:19",
+      "first_seen_at": "2026-09-14T17:00:03.108704",
+      "assets": [
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.507904,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.84392,
+          "sentiment_score": 0.329012,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ED",
+          "asset_class": null,
+          "relevance_score": 0.611555,
+          "sentiment_score": 0.389368,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.945171
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.808437
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.708571
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.633077
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1257,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "Southern Company offers higher current dividend...",
+          "url": "https://pluang.com/en/news-feed/so-vs-nee-saham-dividen-terbaik-untuk-pendapatan-pensiun-2026",
+          "published_at": "2026-09-14T14:14:19"
+        }
+      ]
+    },
+    {
       "event_id": 1124,
       "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
       "summary": "Dominion Energy and NextEra Energy have proposed a Virginia supplier program worth up to $1 billion annually for five years, contingent on their merger approval. This program aims to direct spending towards local contractors and suppliers, offering monthly bill credits, financial assistance for low-income households, and a workforce development fund. The merger, valued at $66.8 billion, is driven by increasing power demand and awaits regulatory approvals, expected to close in late 2027.",
@@ -20,7 +225,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.315914,
+          "sentiment_score": 0.316943,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,15 +233,15 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.993479,
-          "sentiment_score": 0.297212,
+          "sentiment_score": 0.284995,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "COIN",
           "asset_class": null,
-          "relevance_score": 0.624698,
-          "sentiment_score": 0.030925,
+          "relevance_score": 0.641358,
+          "sentiment_score": 0.025759,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -48,7 +253,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.935091
+          "relevance_score": 0.935582
         },
         {
           "topic": "finance",
@@ -1022,215 +1227,6 @@
           "headline": "Cms energy stock hits 52-week low at 67.19 USD",
           "url": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6719-usd-93CH-4898370",
           "published_at": "2026-09-11T19:59:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1109,
-      "title": "Can High Tide (NASDAQ:HITI) Weather A Tougher Market?",
-      "summary": "This article examines how High Tide (NASDAQ:HITI), a cannabis stock, is navigating the current challenging market environment characterized by elevated energy costs, firm Treasury yields, and renewed inflation concerns. The analysis focuses on how these macro pressures impact the company's regulatory developments, retail demand, brand execution, and balance-sheet discipline. It emphasizes that company-specific execution and operational efficiency are crucial for High Tide to maintain demand momentum and absorb higher costs in a volatile market.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-11T19:40:18",
-      "first_seen_at": "2026-09-11T23:00:03.704014",
-      "assets": [
-        {
-          "symbol": "HITI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.029217,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMGN",
-          "asset_class": null,
-          "relevance_score": 0.646524,
-          "sentiment_score": 0.148302,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ISRG",
-          "asset_class": null,
-          "relevance_score": 0.618816,
-          "sentiment_score": 0.124754,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "REGN",
-          "asset_class": null,
-          "relevance_score": 0.615316,
-          "sentiment_score": 0.11758,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DXCM",
-          "asset_class": null,
-          "relevance_score": 0.612464,
-          "sentiment_score": 0.123703,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922839
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.844708
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.712424
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.607803
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1228,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Can High Tide (NASDAQ:HITI) Weather A Tougher Market?",
-          "url": "https://kalkinemedia.com/us/stocks/cannabis/can-high-tide-nasdaqhiti-weather-a-tougher-market",
-          "published_at": "2026-09-11T19:40:18"
-        }
-      ]
-    },
-    {
-      "event_id": 1090,
-      "title": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
-      "summary": "Chevron CEO Mike Wirth warned that oil prices are likely to remain elevated in the coming months due to the depletion of supply buffers that previously softened the impact of the U.S.-Iran conflict. He stated that the risks to oil prices remain on the upside, with Brent crude having already surged over 50% since the Middle East war began. Chevron plans to invest $7 billion in its Venezuelan operations, aiming to more than double production by 2031, funded by existing ventures in the country.",
-      "event_type": "GEOPOLITICAL",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 73,
-      "published_at": "2026-09-11T18:58:48",
-      "first_seen_at": "2026-09-11T20:00:02.637374",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426907,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "YUM",
-          "asset_class": null,
-          "relevance_score": 0.648213,
-          "sentiment_score": 0.038166,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WMT",
-          "asset_class": null,
-          "relevance_score": 0.634097,
-          "sentiment_score": 0.020799,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.61249,
-          "sentiment_score": 0.1261,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942322
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.841426
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1206,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-mike-wirth-warns-175824297.html",
-          "published_at": "2026-09-11T18:58:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1091,
-      "title": "$100 billion pipeline company Energy Transfer will move stock listing from New York to Dallas",
-      "summary": "Energy Transfer, a $100 billion pipeline company, is moving its primary stock listing from the New York Stock Exchange to the Dallas-based Texas Stock Exchange (TXSE). This move marks a significant win for TXSE, which aims to challenge the virtual duopoly of NYSE and Nasdaq and establish Texas as a global capital markets leader. The company expects to begin trading on TXSE on October 5, aligning its Texas roots with the new exchange's platform.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 73,
-      "published_at": "2026-09-11T18:45:00",
-      "first_seen_at": "2026-09-11T20:00:02.954679",
-      "assets": [
-        {
-          "symbol": "ET",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.437602,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.64814,
-          "sentiment_score": 0.148458,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.94846
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.847609
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1207,
-          "provider": "ALPHA_VANTAGE",
-          "source": "KERA News",
-          "source_domain": "KERA News",
-          "headline": "$100 billion pipeline company Energy Transfer will move stock listing from New York to Dallas",
-          "url": "https://www.keranews.org/business-economy/2026-09-11/energy-transfer-to-move-stock-listing-from-new-york-to-dallas-txse-nyse",
-          "published_at": "2026-09-11T18:45:00"
         }
       ]
     }
