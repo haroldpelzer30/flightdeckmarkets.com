@@ -20,7 +20,7 @@
           "symbol": "MCD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.34992,
+          "sentiment_score": -0.303278,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.843604
+          "relevance_score": 0.845251
         },
         {
           "topic": "economy_monetary",
