@@ -20,15 +20,15 @@
           "symbol": "AMAT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.73972,
+          "sentiment_score": -0.716451,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "LRCX",
           "asset_class": null,
-          "relevance_score": 0.826284,
-          "sentiment_score": -0.66361,
+          "relevance_score": 0.829075,
+          "sentiment_score": -0.683165,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -40,7 +40,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.928521
+          "relevance_score": 0.945002
         },
         {
           "topic": "earnings",
@@ -48,7 +48,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.626875
+          "relevance_score": 0.634627
         }
       ],
       "articles": [
