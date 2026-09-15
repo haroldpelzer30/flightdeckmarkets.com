@@ -20,7 +20,7 @@
           "symbol": "CURB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.383242,
+          "sentiment_score": 0.421967,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -52,6 +52,141 @@
       ]
     },
     {
+      "event_id": 1166,
+      "title": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
+      "summary": "Marathon Petroleum Corp (MPC) reached an all-time high of $409.63, with its stock currently trading at $410.68, just 1% below its 52-week high, and an impressive year-to-date return of 147%. This surge follows strong Q2 2026 financial results that surpassed Wall Street expectations, attributed to robust operations, favorable market conditions, and effective crude sourcing. Despite being considered overvalued by InvestingPro analysis, the company has received upgrades and increased price targets from analysts, fueled by sustained high refining margins and rising oil prices amidst Middle East tensions.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-15T16:47:48",
+      "first_seen_at": "2026-09-15T19:00:02.491716",
+      "assets": [
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.720185,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.647792,
+          "sentiment_score": 0.335475,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940013
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.918405
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.81184
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1287,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Nigeria",
+          "source_domain": "Investing.com Nigeria",
+          "headline": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-40963-usd-93CH-2697032",
+          "published_at": "2026-09-15T16:47:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1167,
+      "title": "Rollins Inc stock hits 52-week low at 34.34 USD",
+      "summary": "Rollins Inc. (ROL) stock has fallen to a 52-week low of $34.34, representing a 37.81% decrease over the past year. Despite its current P/E ratio of 31.3 and being considered undervalued by InvestingPro, the company faces challenges including weaker-than-expected residential business performance, leading to lowered price targets and downgrades from analysts like Piper Sandler, Wells Fargo, and JPMorgan. Rollins Inc. has maintained dividend payments for 56 consecutive years, showcasing financial stability despite recent downturns.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-15T16:17:09",
+      "first_seen_at": "2026-09-15T19:00:02.759797",
+      "assets": [
+        {
+          "symbol": "ROL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.43145,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.647253,
+          "sentiment_score": -0.317101,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.600286,
+          "sentiment_score": -0.336645,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942559
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907481
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.748556
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.63346
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.609783
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1289,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Rollins Inc stock hits 52-week low at 34.34 USD By Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/rollins-inc-stock-hits-52week-low-at-3434-usd-93CH-4870202",
+          "published_at": "2026-09-15T15:36:22"
+        },
+        {
+          "article_id": 1288,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Rollins Inc stock hits 52-week low at 34.34 USD",
+          "url": "https://www.investing.com/news/company-news/rollins-inc-stock-hits-52week-low-at-3434-usd-93CH-4902217",
+          "published_at": "2026-09-15T16:17:09"
+        }
+      ]
+    },
+    {
       "event_id": 1162,
       "title": "Valero Stock Up 140%, On Track For Best Year In Its History - Valero Energy (NYSE:VLO)",
       "summary": "Valero Energy Corp. (NYSE: VLO) has seen its stock climb 140.6% year-to-date, putting it on track for its best year ever, surpassing 2005's record. This surge is largely attributed to a diesel squeeze, with the ultra-low-sulfur diesel crack spread near $106 a barrel due to disruptions, Russian export bans, and winter restocking. Valero and Marathon Petroleum Corp. (NYSE: MPC) have both doubled refining margins and are among the top-performing S&P 500 stocks.",
@@ -67,15 +202,15 @@
           "symbol": "VLO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.442284,
+          "sentiment_score": 0.446603,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MPC",
           "asset_class": null,
-          "relevance_score": 0.605271,
-          "sentiment_score": 0.336992,
+          "relevance_score": 0.637177,
+          "sentiment_score": 0.312767,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -87,7 +222,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.904154
+          "relevance_score": 0.931989
         },
         {
           "topic": "financial_markets",
@@ -95,7 +230,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.605821
+          "relevance_score": 0.607455
         }
       ],
       "articles": [
@@ -126,15 +261,15 @@
           "symbol": "SWKS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.440648,
+          "sentiment_score": 0.426641,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "QCOM",
           "asset_class": null,
-          "relevance_score": 0.917412,
-          "sentiment_score": 0.286661,
+          "relevance_score": 0.944433,
+          "sentiment_score": 0.28134,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -142,7 +277,7 @@
           "symbol": "ADI",
           "asset_class": null,
           "relevance_score": 0.628908,
-          "sentiment_score": 0.04841,
+          "sentiment_score": 0.027092,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -150,19 +285,19 @@
           "symbol": "NXPI",
           "asset_class": null,
           "relevance_score": 0.627871,
-          "sentiment_score": 0.037065,
+          "sentiment_score": 0.000372,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.918403
+          "topic": "technology",
+          "relevance_score": 0.91862
         },
         {
-          "topic": "technology",
-          "relevance_score": 0.917803
+          "topic": "financial_markets",
+          "relevance_score": 0.918403
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -197,7 +332,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.428003,
+          "sentiment_score": 0.424721,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -205,7 +340,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 0.736426,
-          "sentiment_score": 0.312554,
+          "sentiment_score": 0.30027,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -213,15 +348,15 @@
           "symbol": "APA",
           "asset_class": null,
           "relevance_score": 0.644412,
-          "sentiment_score": 0.228085,
+          "sentiment_score": 0.212067,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "COP",
           "asset_class": null,
-          "relevance_score": 0.616637,
-          "sentiment_score": 0.218769,
+          "relevance_score": 0.625038,
+          "sentiment_score": 0.23144,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -237,7 +372,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.838616
+          "relevance_score": 0.841667
         }
       ],
       "articles": [
@@ -249,6 +384,57 @@
           "headline": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
           "url": "https://247wallst.com/investing/2026/09/15/chevrons-ceo-thinks-the-world-is-out-of-spare-oil-he-is-betting-7-billion-on-being-right/",
           "published_at": "2026-09-15T15:40:34"
+        }
+      ]
+    },
+    {
+      "event_id": 1171,
+      "title": "Moody’s to buy minority stake in PhilRatings",
+      "summary": "Moody's Corp. has announced its agreement to acquire a minority stake in Philippine Rating Services Corp. (PhilRatings). This investment makes Moody’s Ratings the first global credit rating agency to invest in a domestic rating agency in the Philippines, aiming to capitalize on the growing demand for financing and the potential of the domestic bond market. PhilRatings will maintain its independence in operations, management, governance, and credit rating processes following the investment, while benefiting from Moody’s technical support and international best practices.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-15T15:39:09",
+      "first_seen_at": "2026-09-15T19:00:03.800654",
+      "assets": [
+        {
+          "symbol": "MCO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.431041,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.933957
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.82841
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648988
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1293,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Philstar.com",
+          "source_domain": "Philstar.com",
+          "headline": "Moody’s to buy minority stake in PhilRatings",
+          "url": "https://www.philstar.com/business/2026/09/16/2556509/moodys-buy-minority-stake-philratings",
+          "published_at": "2026-09-15T15:39:09"
         }
       ]
     },
@@ -940,219 +1126,6 @@
           "headline": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
           "url": "https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/",
           "published_at": "2026-09-14T15:09:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1135,
-      "title": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
-      "summary": "Howmet Aerospace (HWM) is facing increased competitive pressure after GE Aerospace's $11.75 billion acquisition of Consolidated Precision Products (CPP). While this move validates the high demand for aerospace castings and engine components, it also raises concerns about GE's vertical integration potentially reducing its reliance on external suppliers like Howmet. Despite initial stock drops, Howmet's CEO remains confident, highlighting the company's strong growth opportunities in expanding markets like commercial aircraft, defense, and data centers, though capacity expansion is a current challenge.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-14T14:47:00",
-      "first_seen_at": "2026-09-14T17:00:02.818213",
-      "assets": [
-        {
-          "symbol": "HWM",
-          "asset_class": null,
-          "relevance_score": 0.953537,
-          "sentiment_score": -0.144125,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.897399,
-          "sentiment_score": 0.231934,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.64694,
-          "sentiment_score": 0.030546,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKNG",
-          "asset_class": null,
-          "relevance_score": 0.576032,
-          "sentiment_score": -0.055429,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.9164
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.830065
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.700268
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.611205
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.610394
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1256,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-faces-competitive-144705103.html",
-          "published_at": "2026-09-14T14:47:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1136,
-      "title": "Southern Company offers higher current dividend...",
-      "summary": "The article compares Southern Company (SO) and NextEra Energy (NEE) as dividend investment options for retirement income. Southern Company offers a higher current dividend yield of 3.4% for immediate income, while NextEra Energy provides a lower 2.89% yield but promises faster dividend growth, targeting about 10% annually. The choice depends on whether retirees prioritize stable current cash flow or future dividend growth and total returns.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-14T14:14:19",
-      "first_seen_at": "2026-09-14T17:00:03.108704",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.507904,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.84392,
-          "sentiment_score": 0.329012,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ED",
-          "asset_class": null,
-          "relevance_score": 0.611555,
-          "sentiment_score": 0.389368,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.945171
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.808437
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.708571
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.633077
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1257,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "Southern Company offers higher current dividend...",
-          "url": "https://pluang.com/en/news-feed/so-vs-nee-saham-dividen-terbaik-untuk-pendapatan-pensiun-2026",
-          "published_at": "2026-09-14T14:14:19"
-        }
-      ]
-    },
-    {
-      "event_id": 1124,
-      "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
-      "summary": "Dominion Energy and NextEra Energy have proposed a Virginia supplier program worth up to $1 billion annually for five years, contingent on their merger approval. This program aims to direct spending towards local contractors and suppliers, offering monthly bill credits, financial assistance for low-income households, and a workforce development fund. The merger, valued at $66.8 billion, is driven by increasing power demand and awaits regulatory approvals, expected to close in late 2027.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-14T14:13:43",
-      "first_seen_at": "2026-09-14T15:00:02.215718",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.316943,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.993479,
-          "sentiment_score": 0.284995,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.641358,
-          "sentiment_score": 0.025759,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935582
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.84594
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.630955
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1244,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
-          "url": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
-          "published_at": "2026-09-14T14:13:43"
         }
       ]
     }
