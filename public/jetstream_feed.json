@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1179,
+      "title": "Raymond James Financial Issues Positive Forecast for Enbridge (TSE:ENB) Stock Price",
+      "summary": "Raymond James Financial has increased its price target for Enbridge (TSE:ENB) from C$79.00 to C$80.00, maintaining a \"market perform\" rating and suggesting an 18.55% potential upside. Analyst consensus for Enbridge is a \"Moderate Buy\" with an average price target of C$77.62, despite the stock trading below its 50-day and 200-day moving averages. The company recently reported C$0.63 in quarterly EPS and C$29.32 billion in revenue.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-15T18:42:57",
+      "first_seen_at": "2026-09-15T22:00:02.304909",
+      "assets": [
+        {
+          "symbol": "RJF",
+          "asset_class": null,
+          "relevance_score": 0.847165,
+          "sentiment_score": 0.210074,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.909789
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906497
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839832
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.714561
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1302,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Raymond James Financial Issues Positive Forecast for Enbridge (TSE:ENB) Stock Price",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-raymond-james-financial-issues-positive-forecast-for-enbridge-tse-enb-stock-price-2026-09-15/",
+          "published_at": "2026-09-15T18:42:57"
+        }
+      ]
+    },
+    {
+      "event_id": 1180,
+      "title": "Uber layoffs hit Sunnyvale engineering hub",
+      "summary": "Uber is set to lay off 138 employees at its Sunnyvale engineering campus as part of a larger company-wide restructuring, which will eliminate approximately 3,300 jobs globally. The affected employees are located at offices on Mathilda Place. This move is part of ongoing workforce reductions at the tech giant.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-15T18:39:48",
+      "first_seen_at": "2026-09-15T22:00:02.559035",
+      "assets": [
+        {
+          "symbol": "UBER",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.380632,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.840205
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.714894
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.648564
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1303,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "Uber layoffs hit Sunnyvale engineering hub",
+          "url": "https://www.bizjournals.com/sanjose/news/2026/09/15/uber-layoffs-sunnyvale.html",
+          "published_at": "2026-09-15T18:39:48"
+        }
+      ]
+    },
+    {
       "event_id": 1176,
       "title": "Fortinet stock hits all-time high at 173.92 USD",
       "summary": "Fortinet Inc.'s stock reached an all-time high of $173.92, driven by strong investor confidence and significant growth in the cybersecurity sector, with a 117.74% increase over the past year. The company's recent financial results, including a 26% revenue growth and 33% billings increase, along with strategic acquisitions, have contributed to its market success. Despite appearing overvalued by some analyses, analysts maintain positive ratings, citing increased demand for AI infrastructure.",
@@ -1065,104 +1163,6 @@
           "headline": "Sysco Shares Fall 1.3% After Pricing $1 Billion Stock Offering",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-shares-fall-1-3-104223633.html",
           "published_at": "2026-09-15T10:44:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1144,
-      "title": "Union Pacific stock edges higher as analysts highlight earnings beat and dividend growth",
-      "summary": "Union Pacific's stock is trading near the upper end of its 12-month range following a recent earnings beat and a dividend increase. Analysts maintain a \"Moderate Buy\" rating with an average 12-month price target of approximately $320.89, highlighting the company's double-digit revenue growth and consistent shareholder returns. Institutional ownership remains high, indicating confidence in Union Pacific as a core holding in the U.S. transportation sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-15T10:31:28",
-      "first_seen_at": "2026-09-15T12:00:02.657034",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.550841,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.560631,
-          "sentiment_score": 0.121206,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937269
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829659
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.749527
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1265,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ad-hoc-news.de",
-          "source_domain": "ad-hoc-news.de",
-          "headline": "Union Pacific stock edges higher as analysts highlight earnings beat and dividend growth",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-edges-higher-as-analysts-highlight-earnings-beat-and/70104750",
-          "published_at": "2026-09-15T10:31:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1142,
-      "title": "New offer for consumers proposed in possible Dominion Energy merger",
-      "summary": "Dominion Energy and NextEra have proposed a new offer for consumers as part of their pending $67 billion merger. The updated offer extends a $10 monthly bill credit to four years, removing the previous credit for data centers. Despite the enhancement, consumer advocates argue the changes do not provide long-term protection or address underlying regulatory issues causing bill increases, while state regulators face a mid-January deadline for approval.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-14T21:38:26",
-      "first_seen_at": "2026-09-15T00:00:01.881666",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.305485,
-          "sentiment_score": 0.00859,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.917246
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.820912
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1263,
-          "provider": "ALPHA_VANTAGE",
-          "source": "NBC4 Washington",
-          "source_domain": "NBC4 Washington",
-          "headline": "New offer for consumers proposed in possible Dominion Energy merger",
-          "url": "https://www.nbcwashington.com/news/local/northern-virginia/new-offer-for-consumers-proposed-in-possible-dominion-energy-merger/4154248/",
-          "published_at": "2026-09-14T21:38:26"
         }
       ]
     }
