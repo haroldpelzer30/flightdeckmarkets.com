@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1148,
+      "title": "Brookfield Renewable Partners offers a 4.51% yield—but can that payout keep income investors confident for the long haul?",
+      "summary": "Brookfield Renewable Partners (TSX:BEP.UN) offers a 4.51% dividend yield, appealing to income investors due to its diversified renewable power assets and contracted cash flows. The article analyzes the sustainability of its dividend, highlighting growth drivers like global electrification and strategic acquisitions, while also discussing risks such as rising interest rates and project execution challenges. Despite potential market volatility, the partnership's long-term outlook remains positive for investors seeking exposure to the clean energy transition.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-09-15T13:22:48",
+      "first_seen_at": "2026-09-15T15:00:02.342565",
+      "assets": [
+        {
+          "symbol": "BEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.411206,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912217
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.907978
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.828292
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.645105
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1269,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "Brookfield Renewable Partners offers a 4.51% yield—but can that payout keep income investors confident for the long haul?",
+          "url": "https://kalkine.ca/news/utilities/brookfield-renewable-partners-offers-a-451-yieldbut-can-that-payout-keep-income-investors-confident-for-the-long-haul",
+          "published_at": "2026-09-15T13:22:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1149,
+      "title": "HCA Healthcare completes acquisition of health college CHCP",
+      "summary": "HCA Healthcare Inc. (NYSE:HCA) has announced the completion of its acquisition of The College of Health Care Professions (CHCP). CHCP serves over 8,000 students across 10 campuses in Texas and online, offering more than 20 accredited healthcare programs. This acquisition expands HCA Healthcare's educational offerings, which already include several nursing colleges and over 365 Graduate Medical Education programs.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-15T13:19:57",
+      "first_seen_at": "2026-09-15T15:00:02.625241",
+      "assets": [
+        {
+          "symbol": "HCA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.509976,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.943072
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.832456
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1270,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "HCA Healthcare completes acquisition of health college CHCP",
+          "url": "https://www.investing.com/news/company-news/hca-healthcare-completes-acquisition-of-health-college-chcp-93CH-4901692",
+          "published_at": "2026-09-15T13:19:57"
+        }
+      ]
+    },
+    {
+      "event_id": 1150,
+      "title": "Fixed Income ETFs Surge to All-Time Highs Ahead of Pivotal Fed Decision",
+      "summary": "Fixed income ETFs have experienced record-breaking net inflows of $446 billion in 2026, surpassing all-time annual levels with months remaining in the year. This surge is attributed to wealth managers shifting from mutual funds to ETFs for their liquidity, efficiency, and tax advantages, particularly with ultra-short cash proxies dominating inflows as the Federal Reserve convenes for its September policy meeting. Investors are actively positioning themselves across the yield curve, utilizing ETFs to navigate potential rate hikes and broader market uncertainty.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 75,
+      "published_at": "2026-09-15T13:07:51",
+      "first_seen_at": "2026-09-15T15:00:02.864081",
+      "assets": [
+        {
+          "symbol": "BTOT",
+          "asset_class": null,
+          "relevance_score": 0.330268,
+          "sentiment_score": 0.040698,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.946574
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.925114
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710659
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.61217
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1271,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ETF Database",
+          "source_domain": "ETF Database",
+          "headline": "Fixed Income ETFs Surge to All-Time Highs Ahead of Pivotal Fed Decision",
+          "url": "https://etfdb.com/fixed-income-content-hub/fixed-income-surge-time-highs/",
+          "published_at": "2026-09-15T13:07:51"
+        }
+      ]
+    },
+    {
       "event_id": 1147,
       "title": "ADP National Employment Report Preliminary Estimate for August 29, 2026",
       "summary": "ADP's latest NER Pulse report indicates that U.S. private employers added an average of 16,250 jobs per week for the four weeks ending August 29, 2026, marking the second consecutive week of increased hiring. These preliminary figures, based on high-frequency, seasonally adjusted data, are subject to change as more information becomes available. The report is produced by ADP Research in collaboration with the Stanford Digital Economy Lab.",
@@ -20,7 +169,7 @@
           "symbol": "ADP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.295378,
+          "sentiment_score": 0.292698,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -1009,191 +1158,6 @@
           "headline": "NextEra Energy reaffirms 2026 earnings guidance, merger timeline",
           "url": "https://www.investing.com/news/company-news/nextera-energy-reaffirms-2026-earnings-guidance-merger-timeline-93CH-4899335",
           "published_at": "2026-09-14T12:13:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1116,
-      "title": "NextEra Energy to meet with investors throughout September and in early October",
-      "summary": "NextEra Energy announced that its senior management team will hold investor meetings throughout September and early October to discuss long-term growth expectations, including the proposed combination with Dominion Energy. The company reaffirms its adjusted earnings per share targets for 2026 and expects continued growth through 2035, with dividends projected to increase annually. The merger with Dominion Energy is anticipated to be immediately accretive to adjusted earnings per share upon closing in the second half of 2027.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-14T11:30:30",
-      "first_seen_at": "2026-09-14T13:00:02.038854",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.427844,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.844854,
-          "sentiment_score": 0.342797,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94567
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.80561
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.730394
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1236,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "NextEra Energy to meet with investors throughout September and in early October",
-          "url": "https://ca.finance.yahoo.com/news/nextera-energy-meet-investors-throughout-113000013.html",
-          "published_at": "2026-09-14T11:30:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1117,
-      "title": "Could Pinnacle West (NYSE:PNW) Drive Fresh NYSE Dividend Focus?",
-      "summary": "Pinnacle West Capital Corporation (NYSE:PNW) is drawing market attention as it navigates lower second-quarter earnings alongside an expanding Arizona infrastructure program and an active utility rate case. The company's situation highlights broader market concerns around financing costs, durable demand, and payout coverage in the context of Federal Reserve actions. Subsequent disclosures on operating progress, customer activity, and cash discipline will be crucial for clarifying the company's trajectory and its impact on the wider sector.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-14T10:37:55",
-      "first_seen_at": "2026-09-14T13:00:02.282163",
-      "assets": [
-        {
-          "symbol": "PNW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.135248,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ES",
-          "asset_class": null,
-          "relevance_score": 0.632278,
-          "sentiment_score": 0.146784,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WEC",
-          "asset_class": null,
-          "relevance_score": 0.593014,
-          "sentiment_score": 0.144713,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "O",
-          "asset_class": null,
-          "relevance_score": 0.583312,
-          "sentiment_score": 0.149255,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935331
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.836024
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.827109
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733525
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1237,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Could Pinnacle West (NYSE:PNW) Drive Fresh NYSE Dividend Focus?",
-          "url": "https://kalkinemedia.com/us/stocks/dividend/could-pinnacle-west-nysepnw-drive-fresh-nyse-dividend-focus",
-          "published_at": "2026-09-14T10:37:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1114,
-      "title": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
-      "summary": "Energy Fuels Inc. (TSX:EFR) saw its shares drop 4.62% on September 11, indicating a period of high volatility and weaker short-term investor sentiment, despite fundamental strengths in uranium production and rare-earth expansion. The decline suggests investors are reassessing valuation and execution risks associated with the company's multi-faceted growth strategy, including recent acquisitions. While the long-term outlook benefits from geopolitical forces strengthening demand for Western critical minerals, investors need to balance strategic opportunities with the complexities of managing multiple initiatives and commodity price volatility.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-09-14T10:32:09",
-      "first_seen_at": "2026-09-14T12:00:02.606336",
-      "assets": [
-        {
-          "symbol": "UUUU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.209071,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.929964
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928589
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.839879
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.835018
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.735963
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1234,
-          "provider": "ALPHA_VANTAGE",
-          "source": "kalkine.ca",
-          "source_domain": "kalkine.ca",
-          "headline": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
-          "url": "https://kalkine.ca/news/mining/energy-fuels-inc-tsxefr-drops-462-uranium-stock-faces-correction-risk-as-investors-reassess-growth-expectations",
-          "published_at": "2026-09-14T10:32:09"
         }
       ]
     }
