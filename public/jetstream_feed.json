@@ -5,6 +5,45 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1147,
+      "title": "ADP National Employment Report Preliminary Estimate for August 29, 2026",
+      "summary": "ADP's latest NER Pulse report indicates that U.S. private employers added an average of 16,250 jobs per week for the four weeks ending August 29, 2026, marking the second consecutive week of increased hiring. These preliminary figures, based on high-frequency, seasonally adjusted data, are subject to change as more information becomes available. The report is produced by ADP Research in collaboration with the Stanford Digital Economy Lab.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-15T12:19:11",
+      "first_seen_at": "2026-09-15T14:00:01.862314",
+      "assets": [
+        {
+          "symbol": "ADP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.295378,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 1.0
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1268,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ADP Media Center",
+          "source_domain": "ADP Media Center",
+          "headline": "ADP National Employment Report Preliminary Estimate for August 29, 2026",
+          "url": "https://mediacenter.adp.com/2026-09-15-ADP-National-Employment-Report-Preliminary-Estimate-for-August-29,-2026",
+          "published_at": "2026-09-15T12:19:11"
+        }
+      ]
+    },
+    {
       "event_id": 1145,
       "title": "Sysco Shares Fall 1.3% After Pricing $1 Billion Stock Offering",
       "summary": "Sysco (NYSE:SYY) shares fell 1.3% after pricing a $1 billion common stock offering at a discount to finance its $29.1 billion acquisition of Jetro Restaurant Depot. The offering of 12,345,679 shares at $81 each will result in dilution for existing shareholders and expand Sysco's presence in the cash-and-carry foodservice distribution market. Sysco has also paused its share repurchase program to prioritize debt reduction following the acquisition.",
@@ -1155,57 +1194,6 @@
           "headline": "Energy Fuels Inc. (TSX:EFR) Drops 4.62%: Uranium Stock Faces Correction Risk as Investors Reassess Growth Expectations",
           "url": "https://kalkine.ca/news/mining/energy-fuels-inc-tsxefr-drops-462-uranium-stock-faces-correction-risk-as-investors-reassess-growth-expectations",
           "published_at": "2026-09-14T10:32:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1119,
-      "title": "Copart to acquire ACV, CEO says international vehicle purchases expansion will continue",
-      "summary": "Copart announced its acquisition of ACV, a digital automotive marketplace, for $1.9 billion in cash, representing a 45% premium to ACV's unaffected stock price. Copart CEO Jay Adair highlighted the complementary nature of the two companies, combining Copart's physical scale and international buyer base with ACV's digital marketplace and remarketing technology. The acquisition is expected to be accretive to earnings in the first full year, with ACV operating as an independent subsidiary.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-14T09:54:07",
-      "first_seen_at": "2026-09-14T13:00:02.871949",
-      "assets": [
-        {
-          "symbol": "CPRT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.446991,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.934235
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.821317
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.629829
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604838
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1239,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Repairer Driven News",
-          "source_domain": "Repairer Driven News",
-          "headline": "Copart to acquire ACV, CEO says international vehicle purchases expansion will continue",
-          "url": "https://www.repairerdrivennews.com/2026/09/14/copart-to-acquire-acv-ceo-says-international-vehicle-purchases-expansion-will-continue/",
-          "published_at": "2026-09-14T09:54:07"
         }
       ]
     }
