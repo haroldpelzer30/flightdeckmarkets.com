@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1142,
+      "title": "New offer for consumers proposed in possible Dominion Energy merger",
+      "summary": "Dominion Energy and NextEra have proposed a new offer for consumers as part of their pending $67 billion merger. The updated offer extends a $10 monthly bill credit to four years, removing the previous credit for data centers. Despite the enhancement, consumer advocates argue the changes do not provide long-term protection or address underlying regulatory issues causing bill increases, while state regulators face a mid-January deadline for approval.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-14T21:38:26",
+      "first_seen_at": "2026-09-15T00:00:01.881666",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.305485,
+          "sentiment_score": 0.00859,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.917246
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.820912
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1263,
+          "provider": "ALPHA_VANTAGE",
+          "source": "NBC4 Washington",
+          "source_domain": "NBC4 Washington",
+          "headline": "New offer for consumers proposed in possible Dominion Energy merger",
+          "url": "https://www.nbcwashington.com/news/local/northern-virginia/new-offer-for-consumers-proposed-in-possible-dominion-energy-merger/4154248/",
+          "published_at": "2026-09-14T21:38:26"
+        }
+      ]
+    },
+    {
+      "event_id": 1143,
+      "title": "Bio-Techne issues supplemental merger disclosures amid shareholder lawsuit By Investing.com",
+      "summary": "Bio-Techne has released supplemental disclosures regarding its pending merger with Merck KGaA following a shareholder lawsuit and multiple demand letters alleging misrepresentations or omissions in its proxy statement. The lawsuit seeks to prevent the shareholder vote scheduled for September 23. Despite believing the allegations lack merit, Bio-Techne is voluntarily providing this additional information to mitigate litigation risks and ensure the vote proceeds.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-14T21:08:32",
+      "first_seen_at": "2026-09-15T00:00:02.124462",
+      "assets": [
+        {
+          "symbol": "TECH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.222463,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MRK",
+          "asset_class": null,
+          "relevance_score": 0.616422,
+          "sentiment_score": -0.145429,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.940466
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.707386
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.611324
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1264,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Bio-Techne issues supplemental merger disclosures amid shareholder lawsuit By Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/biotechne-issues-supplemental-merger-disclosures-amid-shareholder-lawsuit-93CH-4868716",
+          "published_at": "2026-09-14T21:08:32"
+        }
+      ]
+    },
+    {
       "event_id": 1139,
       "title": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
       "summary": "McDonald's is promoting an $8 Big Mac meal to attract customers while facing record-high diesel prices, which are driving up supply chain costs for franchisees. This strategy collides with McDonald's Q2 FY2026 earnings showing decelerated global comparable sales and negative U.S. guest counts, leading to a 14% year-to-date stock drop. CEO Chris Kempczinski admitted to execution issues and a slow recovery, noting that about a third of locations didn't follow value pricing recommendations.",
@@ -1108,124 +1206,6 @@
           "headline": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
           "url": "https://www.marketbeat.com/instant-alerts/filing-smith-chas-p-associates-pa-cpas-sells-2302-shares-of-invesco-qqq-qqq-2026-09-11/",
           "published_at": "2026-09-11T23:18:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1106,
-      "title": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
-      "summary": "This article examines how Rockwell Automation (NYSE:ROK) is navigating a challenging macro environment characterized by rising costs, firm Treasury yields, and inflation concerns. It highlights the importance of company-specific execution in addressing increased operating expenses and maintaining demand momentum, especially given the company's direct ties to capital spending, aerospace and defense demand, automation trends, and supply-chain execution. The piece emphasizes that market attention is currently focused on how businesses like Rockwell Automation absorb higher costs without losing demand, making operational clarity and disciplined resource deployment critical.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-11T21:46:44",
-      "first_seen_at": "2026-09-11T23:00:02.854788",
-      "assets": [
-        {
-          "symbol": "ROK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.143223,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 0.595536,
-          "sentiment_score": -0.130274,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.580714,
-          "sentiment_score": -0.134751,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.949434
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940762
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.8452
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1224,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
-          "url": "https://kalkinemedia.com/us/stocks/industrial/can-rockwell-automation-nyserok-keep-pace-as-costs-rise",
-          "published_at": "2026-09-11T21:46:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1102,
-      "title": "Intercontinental Exchange (NYSE:ICE) In Focus As Oil & Yields Drive A Fresh Sector Rotation",
-      "summary": "Intercontinental Exchange (NYSE:ICE) is currently a focal point in financial markets due to the impact of elevated oil prices, firm Treasury yields, and renewed inflation concerns driving a sector rotation. The article emphasizes that ICE's performance is being assessed through a changed macro backdrop, highlighting its connection to credit conditions, capital markets activity, deposit competition, and the yield curve shape. It suggests that company-specific execution and operational clarity are crucial for ICE to navigate the current environment of higher costs and uneven demand within the Financial Stocks sector.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 80,
-      "published_at": "2026-09-11T20:30:00",
-      "first_seen_at": "2026-09-11T22:00:02.563152",
-      "assets": [
-        {
-          "symbol": "ICE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.108373,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948157
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.830463
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825151
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.747146
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.633519
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1219,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Intercontinental Exchange (NYSE:ICE) In Focus As Oil & Yields Drive A Fresh Sector Rotation",
-          "url": "https://kalkinemedia.com/us/stocks/financial/intercontinental-exchange-nyseice-in-focus-as-oil-yields-drive-a-fresh-sector-rotation",
-          "published_at": "2026-09-11T20:30:00"
         }
       ]
     }
