@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1144,
+      "title": "Union Pacific stock edges higher as analysts highlight earnings beat and dividend growth",
+      "summary": "Union Pacific's stock is trading near the upper end of its 12-month range following a recent earnings beat and a dividend increase. Analysts maintain a \"Moderate Buy\" rating with an average 12-month price target of approximately $320.89, highlighting the company's double-digit revenue growth and consistent shareholder returns. Institutional ownership remains high, indicating confidence in Union Pacific as a core holding in the U.S. transportation sector.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-15T10:31:28",
+      "first_seen_at": "2026-09-15T12:00:02.657034",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.551405,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.560631,
+          "sentiment_score": 0.111731,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92359
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802829
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.749527
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1265,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ad-hoc-news.de",
+          "source_domain": "ad-hoc-news.de",
+          "headline": "Union Pacific stock edges higher as analysts highlight earnings beat and dividend growth",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-edges-higher-as-analysts-highlight-earnings-beat-and/70104750",
+          "published_at": "2026-09-15T10:31:28"
+        }
+      ]
+    },
+    {
       "event_id": 1142,
       "title": "New offer for consumers proposed in possible Dominion Energy merger",
       "summary": "Dominion Energy and NextEra have proposed a new offer for consumers as part of their pending $67 billion merger. The updated offer extends a $10 monthly bill credit to four years, removing the previous credit for data centers. Despite the enhancement, consumer advocates argue the changes do not provide long-term protection or address underlying regulatory issues causing bill increases, while state regulators face a mid-January deadline for approval.",
@@ -1163,49 +1218,6 @@
           "headline": "Best Income Stocks to Buy for September 14th",
           "url": "https://uk.finance.yahoo.com/news/best-income-stocks-buy-september-092800104.html",
           "published_at": "2026-09-14T08:59:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1110,
-      "title": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
-      "summary": "Smith Chas P & Associates PA Cpas has reduced its stake in Invesco QQQ (NASDAQ:QQQ) by 2.9%, selling 2,302 shares but still holding 78,088 shares valued at approximately $57.5 million. The Invesco QQQ ETF, which tracks the Nasdaq-100 Index, remains the firm's 12th largest holding. The article also notes that QQQ shares recently traded near their 12-month high and the fund increased its quarterly dividend.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-11T23:18:06",
-      "first_seen_at": "2026-09-12T00:00:02.401511",
-      "assets": [
-        {
-          "symbol": "IVZ",
-          "asset_class": null,
-          "relevance_score": 0.681048,
-          "sentiment_score": 0.199655,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.915289
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.827259
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1229,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Smith Chas P & Associates PA Cpas Sells 2,302 Shares of Invesco QQQ $QQQ",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-smith-chas-p-associates-pa-cpas-sells-2302-shares-of-invesco-qqq-qqq-2026-09-11/",
-          "published_at": "2026-09-11T23:18:06"
         }
       ]
     }
