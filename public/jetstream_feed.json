@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1157,
+      "title": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
+      "summary": "Chevron's CEO, Mike Wirth, believes that the world's emergency oil reserves are depleted and cannot be replenished indefinitely, making crude oil vulnerable to disruptions. To back this conviction, Chevron is investing $7 billion in a Venezuelan expansion project, aiming to more than double output there, funded entirely by in-country cash flow. This strategy allows Chevron to capitalize on potential oil shortages without diverting capital from other key projects, positioning the company favorably amidst rising oil prices and resilient demand.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-15T15:40:34",
+      "first_seen_at": "2026-09-15T17:00:01.851617",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.446529,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.719913,
+          "sentiment_score": 0.348629,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.635451,
+          "sentiment_score": 0.23086,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.616637,
+          "sentiment_score": 0.21768,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.936891
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901022
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.833886
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1278,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
+          "url": "https://247wallst.com/investing/2026/09/15/chevrons-ceo-thinks-the-world-is-out-of-spare-oil-he-is-betting-7-billion-on-being-right/",
+          "published_at": "2026-09-15T15:40:34"
+        }
+      ]
+    },
+    {
       "event_id": 1152,
       "title": "AMD, Skyworks among market cap stock movers on Tuesday By Investing.com",
       "summary": "On Tuesday, several stocks experienced significant movements, with Advanced Micro Devices (AMD) and Skyworks Solutions (SWKS) seeing notable gains. Conversely, Oracle Corp (ORCL) and Enova International Inc (ENVA) were among those experiencing declines. These shifts were attributed to a combination of corporate news and broader market trends, affecting companies across mega-cap, large-cap, mid-cap, and small-cap categories.",
@@ -20,23 +91,23 @@
           "symbol": "SWKS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.404849,
+          "sentiment_score": 0.406527,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AMD",
           "asset_class": null,
-          "relevance_score": 0.927589,
-          "sentiment_score": 0.444069,
+          "relevance_score": 0.943694,
+          "sentiment_score": 0.412925,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "QCOM",
           "asset_class": null,
-          "relevance_score": 0.703108,
-          "sentiment_score": 0.319317,
+          "relevance_score": 0.704388,
+          "sentiment_score": 0.310423,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +115,7 @@
           "symbol": "ORCL",
           "asset_class": null,
           "relevance_score": 0.634717,
-          "sentiment_score": -0.325282,
+          "sentiment_score": -0.328199,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -64,7 +135,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.62463
+          "relevance_score": 0.63527
         }
       ],
       "articles": [
@@ -95,7 +166,7 @@
           "symbol": "KO",
           "asset_class": null,
           "relevance_score": 0.984251,
-          "sentiment_score": 0.450619,
+          "sentiment_score": 0.497222,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -103,7 +174,7 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.903604
+          "relevance_score": 0.915944
         },
         {
           "topic": "retail_wholesale",
@@ -111,7 +182,7 @@
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.712374
+          "relevance_score": 0.735543
         }
       ],
       "articles": [
@@ -142,7 +213,7 @@
           "symbol": "MCO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.022303,
+          "sentiment_score": 0.011631,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -150,7 +221,7 @@
           "symbol": "CBRE",
           "asset_class": null,
           "relevance_score": 0.73019,
-          "sentiment_score": 0.009884,
+          "sentiment_score": 0.040714,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -174,7 +245,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.620086
+          "relevance_score": 0.632985
         }
       ],
       "articles": [
@@ -1102,57 +1173,6 @@
           "headline": "Why Does Edison International (NYSE:EIX) Matter for NYSE Stocks?",
           "url": "https://kalkinemedia.com/us/stocks/utility/why-does-edison-international-nyseeix-matter-for-nyse-stocks",
           "published_at": "2026-09-14T12:45:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1128,
-      "title": "NextEra Energy, Dominion Energy Propose Expanded State Benefits to Support Merger",
-      "summary": "NextEra Energy and Dominion Energy have proposed an expanded state benefits package to regulators to gain approval for their $67 billion merger. The updated filing includes doubling proposed residential bill credits to four years and protecting retail customers from grid costs related to Northern Virginia's AI data centers. The merger is subject to regulatory approval and is expected to close in the second half of 2027.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-09-14T12:27:37",
-      "first_seen_at": "2026-09-14T15:00:03.343019",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.27063,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.915208,
-          "sentiment_score": 0.287216,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.74495
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1249,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WSJ",
-          "source_domain": "WSJ",
-          "headline": "NextEra Energy, Dominion Energy Propose Expanded State Benefits to Support Merger",
-          "url": "https://www.wsj.com/business/energy-oil/nextera-energy-dominion-energy-propose-expanded-state-benefits-to-support-merger-94a4f2d2",
-          "published_at": "2026-09-14T12:27:37"
         }
       ]
     }
