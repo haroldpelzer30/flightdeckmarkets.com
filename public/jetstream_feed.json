@@ -5,6 +5,124 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1176,
+      "title": "Fortinet stock hits all-time high at 173.92 USD",
+      "summary": "Fortinet Inc.'s stock reached an all-time high of $173.92, driven by strong investor confidence and significant growth in the cybersecurity sector, with a 117.74% increase over the past year. The company's recent financial results, including a 26% revenue growth and 33% billings increase, along with strategic acquisitions, have contributed to its market success. Despite appearing overvalued by some analyses, analysts maintain positive ratings, citing increased demand for AI infrastructure.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-15T17:54:23",
+      "first_seen_at": "2026-09-15T21:00:02.550493",
+      "assets": [
+        {
+          "symbol": "FTNT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.642378,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945458
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.941923
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.832755
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.62677
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1299,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Fortinet stock hits all-time high at 173.92 USD",
+          "url": "https://www.investing.com/news/company-news/fortinet-stock-hits-alltime-high-at-17392-usd-93CH-4902385",
+          "published_at": "2026-09-15T17:54:23"
+        }
+      ]
+    },
+    {
+      "event_id": 1177,
+      "title": "Valero Energy Corp Stock (VLO) Moved Up by 3.83% on Sep 15: A Full Analysis",
+      "summary": "Valero Energy Corp (VLO) saw its stock price increase by 3.83% on September 15, driven by widening global refining crack spreads, tight fuel markets, and geopolitical tensions. The company, a pure-play refiner, benefits from its Gulf Coast operations and feedstock flexibility, leading Wall Street firms to raise price targets. Technical indicators show a buy signal, though some market debate exists regarding the duration of peak refining margins.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-09-15T17:46:08",
+      "first_seen_at": "2026-09-15T21:00:02.831223",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.804561,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.648181,
+          "sentiment_score": 0.349743,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.640298,
+          "sentiment_score": 0.332296,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.807629
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.749126
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1300,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Valero Energy Corp Stock (VLO) Moved Up by 3.83% on Sep 15: A Full Analysis",
+          "url": "https://www.tradingkey.com/news/market-movers/262169333-market-movers-vlo-20260915",
+          "published_at": "2026-09-15T17:46:08"
+        }
+      ]
+    },
+    {
       "event_id": 1161,
       "title": "Curbline Properties acquires 62 centers for $715.2 million",
       "summary": "Curbline Properties Corp. announced the acquisition of 62 convenience shopping centers for a total of $715.2 million from January through September 11, 2026. This includes 18 properties purchased for $198.6 million in the third quarter alone, funded by cash on hand and equity settlements. The company's CEO, David R. Lukes, noted a continued strong pipeline of opportunities.",
@@ -20,7 +138,7 @@
           "symbol": "CURB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.392557,
+          "sentiment_score": 0.424449,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,7 +150,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.928169
+          "relevance_score": 0.943237
         },
         {
           "topic": "earnings",
@@ -1045,116 +1163,6 @@
           "headline": "New offer for consumers proposed in possible Dominion Energy merger",
           "url": "https://www.nbcwashington.com/news/local/northern-virginia/new-offer-for-consumers-proposed-in-possible-dominion-energy-merger/4154248/",
           "published_at": "2026-09-14T21:38:26"
-        }
-      ]
-    },
-    {
-      "event_id": 1143,
-      "title": "Bio-Techne issues supplemental merger disclosures amid shareholder lawsuit By Investing.com",
-      "summary": "Bio-Techne has released supplemental disclosures regarding its pending merger with Merck KGaA following a shareholder lawsuit and multiple demand letters alleging misrepresentations or omissions in its proxy statement. The lawsuit seeks to prevent the shareholder vote scheduled for September 23. Despite believing the allegations lack merit, Bio-Techne is voluntarily providing this additional information to mitigate litigation risks and ensure the vote proceeds.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-14T21:08:32",
-      "first_seen_at": "2026-09-15T00:00:02.124462",
-      "assets": [
-        {
-          "symbol": "TECH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.222463,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MRK",
-          "asset_class": null,
-          "relevance_score": 0.616422,
-          "sentiment_score": -0.145429,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.940466
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.707386
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.611324
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1264,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Bio-Techne issues supplemental merger disclosures amid shareholder lawsuit By Investing.com",
-          "url": "https://uk.investing.com/news/stock-market-news/biotechne-issues-supplemental-merger-disclosures-amid-shareholder-lawsuit-93CH-4868716",
-          "published_at": "2026-09-14T21:08:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1139,
-      "title": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
-      "summary": "McDonald's is promoting an $8 Big Mac meal to attract customers while facing record-high diesel prices, which are driving up supply chain costs for franchisees. This strategy collides with McDonald's Q2 FY2026 earnings showing decelerated global comparable sales and negative U.S. guest counts, leading to a 14% year-to-date stock drop. CEO Chris Kempczinski admitted to execution issues and a slow recovery, noting that about a third of locations didn't follow value pricing recommendations.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 84,
-      "published_at": "2026-09-14T17:44:46",
-      "first_seen_at": "2026-09-14T19:00:02.695160",
-      "assets": [
-        {
-          "symbol": "MCD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.303278,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943448
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.935407
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.845251
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.832121
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.749899
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1260,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
-          "url": "https://247wallst.com/investing/2026/09/14/they-dont-call-it-an-extra-value-meal-for-nothing-mcdonalds-pitches-8-big-macs-as-diesel-hits-6-23/",
-          "published_at": "2026-09-14T17:44:46"
         }
       ]
     }
