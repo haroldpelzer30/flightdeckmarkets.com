@@ -20,7 +20,7 @@
           "symbol": "CURB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.421967,
+          "sentiment_score": 0.392557,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -54,12 +54,12 @@
     {
       "event_id": 1166,
       "title": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
-      "summary": "Marathon Petroleum Corp (MPC) reached an all-time high of $409.63, with its stock currently trading at $410.68, just 1% below its 52-week high, and an impressive year-to-date return of 147%. This surge follows strong Q2 2026 financial results that surpassed Wall Street expectations, attributed to robust operations, favorable market conditions, and effective crude sourcing. Despite being considered overvalued by InvestingPro analysis, the company has received upgrades and increased price targets from analysts, fueled by sustained high refining margins and rising oil prices amidst Middle East tensions.",
+      "summary": "Marathon Petroleum Corp (MPC) stock reached an all-time high of $409.63, currently trading at $410.68, and has seen a 147% year-to-date return. This strong performance follows impressive Q2 2026 financial results, which significantly beat Wall Street expectations, and positive analyst upgrades. The stock's rise is also supported by high refining margins and increasing oil prices due to Middle East tensions.",
       "event_type": "EARNINGS",
       "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
       "published_at": "2026-09-15T16:47:48",
       "first_seen_at": "2026-09-15T19:00:02.491716",
       "assets": [
@@ -67,7 +67,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.720185,
+          "sentiment_score": 0.478031,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -75,26 +75,39 @@
           "symbol": "CL",
           "asset_class": null,
           "relevance_score": 0.647792,
-          "sentiment_score": 0.335475,
+          "sentiment_score": 0.318247,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "earnings",
+          "relevance_score": 0.944863
+        },
+        {
           "topic": "financial_markets",
           "relevance_score": 0.940013
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.918405
+          "topic": "energy_transportation",
+          "relevance_score": 0.934408
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.81184
+          "topic": "economy_macro",
+          "relevance_score": 0.63408
         }
       ],
       "articles": [
+        {
+          "article_id": 1296,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-40963-usd-93CH-4840508",
+          "published_at": "2026-09-15T16:38:06"
+        },
         {
           "article_id": 1287,
           "provider": "ALPHA_VANTAGE",
@@ -103,6 +116,81 @@
           "headline": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
           "url": "https://ng.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-40963-usd-93CH-2697032",
           "published_at": "2026-09-15T16:47:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1174,
+      "title": "Trade Tracker: Wells Fargo, Netflix and Delta Air Lines",
+      "summary": "This article features Josh Brown, CEO of Ritholtz Wealth Management, and Stephanie Link, CIO at Hightower, discussing their latest portfolio moves on CNBC's \"Halftime Report.\" The segment highlights their current investment strategies concerning Wells Fargo (WFC), Netflix (NFLX), and Delta Air Lines (DAL).",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-15T16:42:02",
+      "first_seen_at": "2026-09-15T20:00:02.494986",
+      "assets": [
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.118253,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 0.944757,
+          "sentiment_score": 0.113403,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.901713,
+          "sentiment_score": 0.11757,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.70161,
+          "sentiment_score": -0.129476,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.923207
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.811258
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.737407
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.636953
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1297,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Trade Tracker: Wells Fargo, Netflix and Delta Air Lines",
+          "url": "https://www.cnbc.com/video/2026/09/15/trade-tracker-wells-fargo-netflix-and-delta-air-lines.html",
+          "published_at": "2026-09-15T16:42:02"
         }
       ]
     },
@@ -202,15 +290,15 @@
           "symbol": "VLO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.446603,
+          "sentiment_score": 0.408742,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MPC",
           "asset_class": null,
-          "relevance_score": 0.637177,
-          "sentiment_score": 0.312767,
+          "relevance_score": 0.648598,
+          "sentiment_score": 0.339647,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -226,11 +314,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.820595
+          "relevance_score": 0.840966
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.607455
+          "relevance_score": 0.621512
         }
       ],
       "articles": [
@@ -1067,65 +1155,6 @@
           "headline": "'They Don't Call It an Extra Value Meal for Nothing': McDonald's Pitches $8 Big Macs as Diesel Hits $6.23",
           "url": "https://247wallst.com/investing/2026/09/14/they-dont-call-it-an-extra-value-meal-for-nothing-mcdonalds-pitches-8-big-macs-as-diesel-hits-6-23/",
           "published_at": "2026-09-14T17:44:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1134,
-      "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-      "summary": "Chip equipment stocks, including Applied Materials, Lam Research, and ASML, experienced significant drops (around 5-6%) after AI CEOs suggested slowing the pace of AI model development. This debate about AI pacing is impacting the equipment order books before affecting current chip shipments, causing the \"tools layer\" of the semiconductor industry to fall harder than the broader market. Despite recent record revenues and strong guidance from these companies, the market is questioning the sustainability of their growth rates given the potential shift in AI capital expenditure.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-14T15:09:50",
-      "first_seen_at": "2026-09-14T17:00:02.547225",
-      "assets": [
-        {
-          "symbol": "AMAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.716451,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LRCX",
-          "asset_class": null,
-          "relevance_score": 0.829075,
-          "sentiment_score": -0.683165,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945002
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.825889
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.634627
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1255,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-          "url": "https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/",
-          "published_at": "2026-09-14T15:09:50"
         }
       ]
     }
