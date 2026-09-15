@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1145,
+      "title": "Sysco Shares Fall 1.3% After Pricing $1 Billion Stock Offering",
+      "summary": "Sysco (NYSE:SYY) shares fell 1.3% after pricing a $1 billion common stock offering at a discount to finance its $29.1 billion acquisition of Jetro Restaurant Depot. The offering of 12,345,679 shares at $81 each will result in dilution for existing shareholders and expand Sysco's presence in the cash-and-carry foodservice distribution market. Sysco has also paused its share repurchase program to prioritize debt reduction following the acquisition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-15T10:44:35",
+      "first_seen_at": "2026-09-15T13:00:01.779283",
+      "assets": [
+        {
+          "symbol": "SYY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.331159,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.942395
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.928666
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.719423
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.618741
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1266,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Sysco Shares Fall 1.3% After Pricing $1 Billion Stock Offering",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-shares-fall-1-3-104223633.html",
+          "published_at": "2026-09-15T10:44:35"
+        }
+      ]
+    },
+    {
       "event_id": 1144,
       "title": "Union Pacific stock edges higher as analysts highlight earnings beat and dividend growth",
       "summary": "Union Pacific's stock is trading near the upper end of its 12-month range following a recent earnings beat and a dividend increase. Analysts maintain a \"Moderate Buy\" rating with an average 12-month price target of approximately $320.89, highlighting the company's double-digit revenue growth and consistent shareholder returns. Institutional ownership remains high, indicating confidence in Union Pacific as a core holding in the U.S. transportation sector.",
@@ -20,7 +71,7 @@
           "symbol": "UNP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.551405,
+          "sentiment_score": 0.550841,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +79,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.560631,
-          "sentiment_score": 0.111731,
+          "sentiment_score": 0.121206,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -36,11 +87,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.92359
+          "relevance_score": 0.937269
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.802829
+          "relevance_score": 0.829659
         },
         {
           "topic": "energy_transportation",
@@ -1155,69 +1206,6 @@
           "headline": "Copart to acquire ACV, CEO says international vehicle purchases expansion will continue",
           "url": "https://www.repairerdrivennews.com/2026/09/14/copart-to-acquire-acv-ceo-says-international-vehicle-purchases-expansion-will-continue/",
           "published_at": "2026-09-14T09:54:07"
-        }
-      ]
-    },
-    {
-      "event_id": 1115,
-      "title": "Best Income Stocks to Buy for September 14th",
-      "summary": "Zacks Equity Research has identified three income stocks with a \"buy\" rank for September 14th: Ternium S.A. (TX), HP Inc. (HPQ), and Takeda Pharmaceutical Company Limited (TAK). These companies exhibit strong income characteristics, including Zacks Rank #1 status and competitive dividend yields, with their current year earnings estimates showing recent increases.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-14T08:59:16",
-      "first_seen_at": "2026-09-14T12:00:03.099205",
-      "assets": [
-        {
-          "symbol": "TX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.422215,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HPQ",
-          "asset_class": null,
-          "relevance_score": 0.914281,
-          "sentiment_score": 0.433028,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.845272
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.733627
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.728163
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.641328
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1235,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "Best Income Stocks to Buy for September 14th",
-          "url": "https://uk.finance.yahoo.com/news/best-income-stocks-buy-september-092800104.html",
-          "published_at": "2026-09-14T08:59:16"
         }
       ]
     }
