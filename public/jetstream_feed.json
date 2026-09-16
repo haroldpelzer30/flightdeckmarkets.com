@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1197,
+      "title": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
+      "summary": "South Carolina Governor Henry McMaster has sent a letter to the Surface Transportation Board expressing support for the proposed merger between Union Pacific Railroad and Norfolk Southern Railway. McMaster highlighted the importance of a robust freight transportation network for South Carolina's economic growth and believes the merger will strengthen the state's role in commerce. Norfolk Southern's President and CEO, Mark George, thanked McMaster, noting that the merger will expand access to western markets and reinforce South Carolina's position as a global trade gateway.",
+      "event_type": "M&A",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 90,
+      "published_at": "2026-09-16T15:05:21",
+      "first_seen_at": "2026-09-16T17:00:01.820928",
+      "assets": [
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.479793,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 0.877755,
+          "sentiment_score": 0.323195,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.932277
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.840592
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.714763
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1321,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Progressive Railroading",
+          "source_domain": "Progressive Railroading",
+          "headline": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
+          "url": "https://www.progressiverailroading.com/class_is/news/South-Carolina-Gov-McMaster-voices-support-for-UP-NS-merger--77753",
+          "published_at": "2026-09-16T15:05:21"
+        }
+      ]
+    },
+    {
+      "event_id": 1198,
+      "title": "Valero Energy stock hits all-time high at 400.2 USD",
+      "summary": "Valero Energy's stock has reached an all-time high of $400.14, marking a 149.3% increase over the past year. This growth is attributed to strategic initiatives and favorable market conditions, with the company's financial health rated as \"GREAT\" by InvestingPro. Analysts from UBS and TD Cowen have raised their price targets for Valero, reflecting confidence in its refining margins and strong performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-16T14:46:32",
+      "first_seen_at": "2026-09-16T17:00:02.095170",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.480279,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.566306,
+          "sentiment_score": -0.306083,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948605
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.931435
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926242
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.7209
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1322,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Valero Energy stock hits all-time high at 400.2 USD",
+          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-4002-usd-93CH-4904024",
+          "published_at": "2026-09-16T14:46:32"
+        }
+      ]
+    },
+    {
       "event_id": 1196,
       "title": "Arabica Futures Jump to 13-Year Highs Amid Supply Concerns",
       "summary": "Arabica coffee futures have reached 13-year highs, driven by supply concerns due to dry and hot weather forecasts in Brazil's main coffee-growing regions. This surge comes as damage to the 2025-2026 crop is already anticipated, coinciding with high demand for Arabica due to Robusta shortages and rising prices. A softer US dollar is providing additional support, though traders attribute the rally primarily to fundamental supply issues.",
@@ -19,8 +133,8 @@
         {
           "symbol": "ICE",
           "asset_class": null,
-          "relevance_score": 0.852353,
-          "sentiment_score": 0.316201,
+          "relevance_score": 0.860988,
+          "sentiment_score": 0.334064,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +142,7 @@
           "symbol": "SBUX",
           "asset_class": null,
           "relevance_score": 0.648498,
-          "sentiment_score": 0.309339,
+          "sentiment_score": 0.349627,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +150,7 @@
           "symbol": "SNEX",
           "asset_class": null,
           "relevance_score": 0.345542,
-          "sentiment_score": 0.038643,
+          "sentiment_score": 0.004604,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1052,145 +1166,6 @@
           "headline": "Trade Tracker: Wells Fargo, Netflix and Delta Air Lines",
           "url": "https://www.cnbc.com/video/2026/09/15/trade-tracker-wells-fargo-netflix-and-delta-air-lines.html",
           "published_at": "2026-09-15T16:42:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1167,
-      "title": "Rollins Inc stock hits 52-week low at 34.34 USD",
-      "summary": "Rollins Inc. (ROL) stock has fallen to a 52-week low of $34.34, representing a 37.81% decrease over the past year. Despite its current P/E ratio of 31.3 and being considered undervalued by InvestingPro, the company faces challenges including weaker-than-expected residential business performance, leading to lowered price targets and downgrades from analysts like Piper Sandler, Wells Fargo, and JPMorgan. Rollins Inc. has maintained dividend payments for 56 consecutive years, showcasing financial stability despite recent downturns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-15T16:17:09",
-      "first_seen_at": "2026-09-15T19:00:02.759797",
-      "assets": [
-        {
-          "symbol": "ROL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.43145,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.647253,
-          "sentiment_score": -0.317101,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.600286,
-          "sentiment_score": -0.336645,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.942559
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907481
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.748556
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.63346
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.609783
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1289,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Rollins Inc stock hits 52-week low at 34.34 USD By Investing.com",
-          "url": "https://uk.investing.com/news/stock-market-news/rollins-inc-stock-hits-52week-low-at-3434-usd-93CH-4870202",
-          "published_at": "2026-09-15T15:36:22"
-        },
-        {
-          "article_id": 1288,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Rollins Inc stock hits 52-week low at 34.34 USD",
-          "url": "https://www.investing.com/news/company-news/rollins-inc-stock-hits-52week-low-at-3434-usd-93CH-4902217",
-          "published_at": "2026-09-15T16:17:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1162,
-      "title": "Valero Stock Up 140%, On Track For Best Year In Its History - Valero Energy (NYSE:VLO)",
-      "summary": "Valero Energy Corp. (NYSE: VLO) has seen its stock climb 140.6% year-to-date, putting it on track for its best year ever, surpassing 2005's record. This surge is largely attributed to a diesel squeeze, with the ultra-low-sulfur diesel crack spread near $106 a barrel due to disruptions, Russian export bans, and winter restocking. Valero and Marathon Petroleum Corp. (NYSE: MPC) have both doubled refining margins and are among the top-performing S&P 500 stocks.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-15T16:08:59",
-      "first_seen_at": "2026-09-15T18:00:02.107700",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408742,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.648598,
-          "sentiment_score": 0.339647,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931989
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840966
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.621512
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1283,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Valero Stock Up 140%, On Track For Best Year In Its History - Valero Energy (NYSE:VLO)",
-          "url": "https://www.benzinga.com/markets/commodities/26/09/61796458/valero-stock-up-140-percent-best-year-ever-diesel-crack-spread",
-          "published_at": "2026-09-15T16:08:59"
         }
       ]
     }
