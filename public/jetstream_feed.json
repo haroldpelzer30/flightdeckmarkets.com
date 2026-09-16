@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1192,
+      "title": "FG Nexus Board of Directors Approves Affordable Housing Real Estate Acquisition Strategy and $10 Million Investment in FG Communities",
+      "summary": "FG Nexus Inc. has approved a strategy to acquire affordable housing communities and will invest $10 million in FG Communities, a privately held real estate company focused on manufactured housing. This move signifies FG Nexus's transition into a real estate operating company specializing in land-lease affordable housing, with plans to change its name to FG Communities Holdings, Inc. and its stock ticker symbols. The company aims to address a large and fragmented affordable housing market in the U.S., leveraging FG Communities' operating platform.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-16T12:30:41",
+      "first_seen_at": "2026-09-16T14:00:02.418792",
+      "assets": [
+        {
+          "symbol": "FGNX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424753,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.805578
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.703584
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1316,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "FG Nexus Board of Directors Approves Affordable Housing Real Estate Acquisition Strategy and $10 Million Investment in FG Communities",
+          "url": "https://uk.finance.yahoo.com/news/fg-nexus-board-directors-approves-123000185.html",
+          "published_at": "2026-09-16T12:30:41"
+        }
+      ]
+    },
+    {
+      "event_id": 1193,
+      "title": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
+      "summary": "IDEXX Laboratories, a leader in pet healthcare innovation, has acquired CoVetAI Inc., a company specializing in AI-native ambient listening and clinical workflow software for veterinary practices. This acquisition aims to enhance efficiency, clinical decision-making, and diagnostic utilization by integrating CoVet's technology into IDEXX's existing software ecosystem. The move strengthens IDEXX's commitment to leveraging AI to improve veterinary workflow and patient care globally.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-16T10:55:46",
+      "first_seen_at": "2026-09-16T14:00:02.685063",
+      "assets": [
+        {
+          "symbol": "IDXX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.44824,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.938389
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.833211
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1317,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
+          "url": "https://finance.yahoo.com/healthcare/articles/idexx-laboratories-acquires-covetai-advance-110000018.html",
+          "published_at": "2026-09-16T10:55:46"
+        }
+      ]
+    },
+    {
       "event_id": 1186,
       "title": "First Solar to Withdraw Section 337 Complaint After Recent US Section 232 Action on Polysilicon, Derivatives",
       "summary": "First Solar announced its intention to withdraw a Section 337 complaint following recent US Section 232 action on polysilicon and its derivatives. This decision comes after the US Commerce Department finalized steep duties on solar imports from India, Indonesia, and Laos. The article also includes recent analyst ratings and price target adjustments for First Solar.",
@@ -1097,132 +1191,6 @@
           "headline": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
           "url": "https://247wallst.com/investing/2026/09/15/chevrons-ceo-thinks-the-world-is-out-of-spare-oil-he-is-betting-7-billion-on-being-right/",
           "published_at": "2026-09-15T15:40:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1171,
-      "title": "Moody’s to buy minority stake in PhilRatings",
-      "summary": "Moody's Corp. has announced its agreement to acquire a minority stake in Philippine Rating Services Corp. (PhilRatings). This investment makes Moody’s Ratings the first global credit rating agency to invest in a domestic rating agency in the Philippines, aiming to capitalize on the growing demand for financing and the potential of the domestic bond market. PhilRatings will maintain its independence in operations, management, governance, and credit rating processes following the investment, while benefiting from Moody’s technical support and international best practices.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-15T15:39:09",
-      "first_seen_at": "2026-09-15T19:00:03.800654",
-      "assets": [
-        {
-          "symbol": "MCO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.431041,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.933957
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.82841
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648988
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1293,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Philstar.com",
-          "source_domain": "Philstar.com",
-          "headline": "Moody’s to buy minority stake in PhilRatings",
-          "url": "https://www.philstar.com/business/2026/09/16/2556509/moodys-buy-minority-stake-philratings",
-          "published_at": "2026-09-15T15:39:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1152,
-      "title": "AMD, Skyworks among market cap stock movers on Tuesday By Investing.com",
-      "summary": "On Tuesday, several stocks experienced significant movements, with Advanced Micro Devices (AMD) and Skyworks Solutions (SWKS) seeing notable gains. Conversely, Oracle Corp (ORCL) and Enova International Inc (ENVA) were among those experiencing declines. These shifts were attributed to a combination of corporate news and broader market trends, affecting companies across mega-cap, large-cap, mid-cap, and small-cap categories.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-15T14:41:28",
-      "first_seen_at": "2026-09-15T16:00:02.813328",
-      "assets": [
-        {
-          "symbol": "SWKS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.406527,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.943694,
-          "sentiment_score": 0.412925,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "QCOM",
-          "asset_class": null,
-          "relevance_score": 0.704388,
-          "sentiment_score": 0.310423,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.634717,
-          "sentiment_score": -0.328199,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924312
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.841663
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.63527
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1273,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "AMD, Skyworks among market cap stock movers on Tuesday By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/amd-skyworks-among-market-cap-stock-movers-on-tuesday-93CH-4840346",
-          "published_at": "2026-09-15T14:41:28"
         }
       ]
     }
