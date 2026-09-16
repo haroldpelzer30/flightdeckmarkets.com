@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1217,
+      "title": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
+      "summary": "Illinois American Water has completed the acquisition of the City of Venice wastewater collection system for $770,000, adding approximately 500 customers to its Metro East operations. The company plans to invest $2.6 million in capital improvements over the next five years, including rehabilitation of wastewater mains and lift station upgrades. This acquisition follows over 140 years of Illinois American Water providing water services to Venice, now expanding to full wastewater collection, transportation, and treatment services.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-16T21:24:44",
+      "first_seen_at": "2026-09-16T23:00:02.121233",
+      "assets": [
+        {
+          "symbol": "AWK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.421514,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.933205
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.733791
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1345,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/illinois-american-water-completes-venice-wastewater-acquisition-93CH-4842527",
+          "published_at": "2026-09-16T21:24:44"
+        }
+      ]
+    },
+    {
       "event_id": 1214,
       "title": "Flag Ship Acquisition to merge with Bluechip in $400m deal",
       "summary": "Flag Ship Acquisition Corporation announced a merger agreement with Bluechip & Co. Holdings, valuing Bluechip at $400 million. Bluechip, a Cayman Islands company offering insurance-related services, financial education, and AI-driven advertising, will become a wholly-owned subsidiary of the combined entity. The deal involves Bluechip shareholders receiving 40 million ordinary shares and requires approvals from shareholders and regulatory bodies.",
@@ -20,7 +63,7 @@
           "symbol": "FSHPU",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.386163,
+          "sentiment_score": 0.425797,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,7 +75,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.821
+          "relevance_score": 0.821806
         },
         {
           "topic": "finance",
@@ -52,6 +95,65 @@
       ]
     },
     {
+      "event_id": 1219,
+      "title": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
+      "summary": "JPMorgan CEO Jamie Dimon stated he is not convinced inflation has been \"slayed\" yet, despite the Federal Reserve's recent interest rate hike. He warned businesses to prepare for interest rate volatility due to persistent inflation, global deficits, and high demand for capital, but does not foresee an imminent downturn, citing low unemployment and corporate profitability. Dimon emphasized that the labor market is the most critical indicator for broader economic stress.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "CRITICAL",
+      "intelligence_score": 75,
+      "published_at": "2026-09-16T21:08:23",
+      "first_seen_at": "2026-09-16T23:00:02.618694",
+      "assets": [
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.248088,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.62393,
+          "sentiment_score": 0.147324,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.921952
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831384
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.740287
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.70161
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1347,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
+          "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html",
+          "published_at": "2026-09-16T21:08:23"
+        }
+      ]
+    },
+    {
       "event_id": 1215,
       "title": "Huntington tempers outlook due to higher rates, lower yields",
       "summary": "Huntington Bancshares has revised its profitability expectations downwards for 2026 and 2027 due to a challenging operating environment characterized by higher interest rates pushing up deposit costs and fierce competition lowering loan yields. CEO Steve Steinour stated that while the company's long-term prognosis is healthy, near-term turbulence has led to reduced projections for net interest income and revenue growth, and lower earnings per share estimates for 2027. Despite the tempered outlook, Huntington maintains its credit discipline and commitment to risk-adjusted returns, and anticipates long-term benefits from recent acquisitions and market expansion.",
@@ -67,7 +169,7 @@
           "symbol": "HBAN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.212199,
+          "sentiment_score": -0.200385,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -75,7 +177,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.932636
+          "relevance_score": 0.947472
         },
         {
           "topic": "economy_monetary",
@@ -87,7 +189,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.626734
+          "relevance_score": 0.634623
         },
         {
           "topic": "financial_markets",
@@ -1085,120 +1187,6 @@
           "headline": "Dollar General Sees Shopper Pressure Persisting, Bets on Value and Delivery Growth",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
           "published_at": "2026-09-16T10:02:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1190,
-      "title": "Why is Union Pacific stock rallying today?",
-      "summary": "Union Pacific (UNP) stock is rallying today following an upgrade from UBS, which raised its rating from Neutral to Buy and increased its price target to $339 from $310. The upgrade is driven by a compelling volume growth thesis and earnings estimates significantly above Wall Street consensus. Additionally, CEO Jim Vena and CFO Jennifer Hamann are presenting at the Morgan Stanley 14th Annual Laguna Conference, contributing to increased investor attention.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-09-16T09:38:28",
-      "first_seen_at": "2026-09-16T13:00:01.957956",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.390131,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.691601,
-          "sentiment_score": 0.277516,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CSX",
-          "asset_class": null,
-          "relevance_score": 0.649959,
-          "sentiment_score": 0.266143,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923552
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.902193
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.810463
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.645277
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1314,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Why is Union Pacific stock rallying today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-union-pacific-stock-rallying-today-93CH-4903233",
-          "published_at": "2026-09-16T09:38:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1183,
-      "title": "AJB Investment Fund II acquires $17,150 of Jewett Cameron Trading stock By Investing.com",
-      "summary": "AJB Investment Fund II, a 10% owner of Jewett Cameron Trading Co Ltd (NASDAQ:JCTC), recently purchased $17,150 worth of the company's common stock. These transactions, occurring between September 10 and September 14, 2026, increased their beneficial ownership to 491,300 shares. The stock has seen a 66% return over the past six months.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-15T22:59:29",
-      "first_seen_at": "2026-09-16T00:00:03.964452",
-      "assets": [
-        {
-          "symbol": "JCTC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.340416,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93341
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.724051
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1306,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "AJB Investment Fund II acquires $17,150 of Jewett Cameron Trading stock By Investing.com",
-          "url": "https://m.investing.com/news/insider-trading-news/ajb-investment-fund-ii-acquires-17150-of-jewett-cameron-trading-stock-93CH-4900696?ampMode=1",
-          "published_at": "2026-09-15T22:59:29"
         }
       ]
     }
