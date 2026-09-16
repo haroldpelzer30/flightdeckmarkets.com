@@ -5,6 +5,89 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1194,
+      "title": "Why Is Alphabet (NASDAQ:GOOGL) in Focus as Yields Rise?",
+      "summary": "Alphabet (NASDAQ:GOOGL) is under market scrutiny as rising oil costs and Treasury yields, coupled with an impending Federal Reserve decision, influence trading. The company, part of the communication stocks sector, is being evaluated not just on its operational execution and customer demand, but also within the broader context of technology sector pressure versus energy sector gains. The article emphasizes that while macroeconomic factors create market volatility, Alphabet's long-term relevance hinges on its ability to manage competitive landscapes, adapt to changing consumer preferences, and maintain robust operational coordination.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-16T12:56:04",
+      "first_seen_at": "2026-09-16T15:00:02.182094",
+      "assets": [
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.042876,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DIS",
+          "asset_class": null,
+          "relevance_score": 0.64627,
+          "sentiment_score": 0.006905,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMCSA",
+          "asset_class": null,
+          "relevance_score": 0.630122,
+          "sentiment_score": 0.046817,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.614903,
+          "sentiment_score": 0.043549,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.604186,
+          "sentiment_score": 0.017946,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.831894
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.802933
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.747666
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1318,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is Alphabet (NASDAQ:GOOGL) in Focus as Yields Rise?",
+          "url": "https://kalkinemedia.com/us/stocks/communication/why-is-alphabet-nasdaqgoogl-in-focus-as-yields-rise",
+          "published_at": "2026-09-16T12:56:04"
+        }
+      ]
+    },
+    {
       "event_id": 1192,
       "title": "FG Nexus Board of Directors Approves Affordable Housing Real Estate Acquisition Strategy and $10 Million Investment in FG Communities",
       "summary": "FG Nexus Inc. has approved a strategy to acquire affordable housing communities and will invest $10 million in FG Communities, a privately held real estate company focused on manufactured housing. This move signifies FG Nexus's transition into a real estate operating company specializing in land-lease affordable housing, with plans to change its name to FG Communities Holdings, Inc. and its stock ticker symbols. The company aims to address a large and fragmented affordable housing market in the U.S., leveraging FG Communities' operating platform.",
@@ -20,7 +103,7 @@
           "symbol": "FGNX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.424753,
+          "sentiment_score": 0.44879,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +115,11 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.805578
+          "relevance_score": 0.836639
         },
         {
           "topic": "finance",
-          "relevance_score": 0.703584
+          "relevance_score": 0.716231
         }
       ],
       "articles": [
@@ -1120,77 +1203,6 @@
           "headline": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
           "url": "https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/",
           "published_at": "2026-09-15T15:55:21"
-        }
-      ]
-    },
-    {
-      "event_id": 1157,
-      "title": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
-      "summary": "Chevron's CEO, Mike Wirth, believes that the world's emergency oil reserves are depleted and cannot be replenished indefinitely, making crude oil vulnerable to disruptions. To back this conviction, Chevron is investing $7 billion in a Venezuelan expansion project, aiming to more than double output there, funded entirely by in-country cash flow. This strategy allows Chevron to capitalize on potential oil shortages without diverting capital from other key projects, positioning the company favorably amidst rising oil prices and resilient demand.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-15T15:40:34",
-      "first_seen_at": "2026-09-15T17:00:01.851617",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424721,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.736426,
-          "sentiment_score": 0.30027,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.644412,
-          "sentiment_score": 0.212067,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.625038,
-          "sentiment_score": 0.23144,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.938713
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929432
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.841667
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1278,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right.",
-          "url": "https://247wallst.com/investing/2026/09/15/chevrons-ceo-thinks-the-world-is-out-of-spare-oil-he-is-betting-7-billion-on-being-right/",
-          "published_at": "2026-09-15T15:40:34"
         }
       ]
     }
