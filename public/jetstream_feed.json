@@ -5,6 +5,184 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1200,
+      "title": "J.B. Hunt shares fall Wednesday after company warns of third quarter profit decline",
+      "summary": "J.B. Hunt Transport Services Inc. shares dropped 13% after the company warned of a 5% to 10% decline in third-quarter profits due to erratic fuel costs and increased driver expenses. Despite strong demand across segments, particularly in intermodal services, higher diesel costs and driver recruitment bonuses are expected to negatively impact the bottom line. The company noted that fuel surcharges might offset some costs, but rapid fuel price shifts make it difficult for the formula to keep pace.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-16T16:34:36",
+      "first_seen_at": "2026-09-16T18:00:01.907751",
+      "assets": [
+        {
+          "symbol": "JBHT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.405004,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925099
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.82525
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.739361
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1324,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Arkansas Democrat-Gazette",
+          "source_domain": "The Arkansas Democrat-Gazette",
+          "headline": "J.B. Hunt shares fall Wednesday after company warns of third quarter profit decline",
+          "url": "https://www.arkansasonline.com/news/2026/sep/16/jb-hunt-shares-fall-wednesday-after-company-warns/",
+          "published_at": "2026-09-16T16:34:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1201,
+      "title": "NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large",
+      "summary": "NextEra Energy's stock appears fairly priced according to a Dividend Discount Model, which values the company based on its dividend stream. The valuation considers recent dividends, payout ratio, and a projected long-term dividend growth rate of 3.7%, acknowledging the significant impact of the approved US$66.8 billion merger with Dominion Energy on future cash flows and payout capacity. The article also highlights bull and bear cases for NEE's future valuation, focusing on factors like demand growth from AI and data centers versus potential risks from phasing out tax credits and increased regulation.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 70,
+      "published_at": "2026-09-16T16:17:13",
+      "first_seen_at": "2026-09-16T18:00:02.155017",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.922497,
+          "sentiment_score": 0.128817,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94897
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.931083
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831855
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.747829
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.624767
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1325,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-looks-161627191.html",
+          "published_at": "2026-09-16T16:17:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1202,
+      "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+      "summary": "Oil and gas producers, including EOG Resources, ConocoPhillips, and Occidental Petroleum, experienced significant stock drops as crude oil prices retreated. The sector-wide decline is attributed directly to falling crude prices, impacting exploration and production companies that own the barrels they sell, rather than any company-specific news. Despite the recent downturn, ConocoPhillips remains up 7% over the past month, suggesting the current slide is a partial pullback rather than a fundamental shift in business outlook.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-16T16:03:15",
+      "first_seen_at": "2026-09-16T18:00:02.435853",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.237209,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EOG",
+          "asset_class": null,
+          "relevance_score": 0.947418,
+          "sentiment_score": -0.209141,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "OXY",
+          "asset_class": null,
+          "relevance_score": 0.902953,
+          "sentiment_score": 0.034799,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.943949
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910168
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.739425
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1327,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
+          "published_at": "2026-09-16T16:03:00"
+        },
+        {
+          "article_id": 1326,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://247wallst.com/investing/2026/09/16/oil-producers-slide-as-crude-retreats-eog-resources-drops-6-conocophillips-and-occidental-petroleum-fall-5/",
+          "published_at": "2026-09-16T16:03:15"
+        }
+      ]
+    },
+    {
       "event_id": 1197,
       "title": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
       "summary": "South Carolina Governor Henry McMaster has sent a letter to the Surface Transportation Board expressing support for the proposed merger between Union Pacific Railroad and Norfolk Southern Railway. McMaster highlighted the importance of a robust freight transportation network for South Carolina's economic growth and believes the merger will strengthen the state's role in commerce. Norfolk Southern's President and CEO, Mark George, thanked McMaster, noting that the merger will expand access to western markets and reinforce South Carolina's position as a global trade gateway.",
@@ -20,15 +198,15 @@
           "symbol": "NSC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.479793,
+          "sentiment_score": 0.491656,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "UNP",
           "asset_class": null,
-          "relevance_score": 0.877755,
-          "sentiment_score": 0.323195,
+          "relevance_score": 0.896523,
+          "sentiment_score": 0.337168,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -40,11 +218,11 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.840592
+          "relevance_score": 0.841225
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.714763
+          "relevance_score": 0.734671
         }
       ],
       "articles": [
@@ -976,196 +1154,6 @@
           "headline": "Valero Energy Corp Stock (VLO) Moved Up by 3.83% on Sep 15: A Full Analysis",
           "url": "https://www.tradingkey.com/news/market-movers/262169333-market-movers-vlo-20260915",
           "published_at": "2026-09-15T17:46:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1161,
-      "title": "Curbline Properties acquires 62 centers for $715.2 million",
-      "summary": "Curbline Properties Corp. announced the acquisition of 62 convenience shopping centers for a total of $715.2 million from January through September 11, 2026. This includes 18 properties purchased for $198.6 million in the third quarter alone, funded by cash on hand and equity settlements. The company's CEO, David R. Lukes, noted a continued strong pipeline of opportunities.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-15T16:58:38",
-      "first_seen_at": "2026-09-15T18:00:01.857065",
-      "assets": [
-        {
-          "symbol": "CURB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424449,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.943237
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.747319
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1282,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Curbline Properties acquires 62 centers for $715.2 million",
-          "url": "https://www.investing.com/news/company-news/curbline-properties-acquires-62-centers-for-7152-million-93CH-4900337",
-          "published_at": "2026-09-15T16:58:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1166,
-      "title": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
-      "summary": "Marathon Petroleum Corp (MPC) stock reached an all-time high of $409.63, currently trading at $410.68, and has seen a 147% year-to-date return. This strong performance follows impressive Q2 2026 financial results, which significantly beat Wall Street expectations, and positive analyst upgrades. The stock's rise is also supported by high refining margins and increasing oil prices due to Middle East tensions.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-15T16:47:48",
-      "first_seen_at": "2026-09-15T19:00:02.491716",
-      "assets": [
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.478031,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.647792,
-          "sentiment_score": 0.318247,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944863
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940013
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.934408
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.63408
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1296,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-40963-usd-93CH-4840508",
-          "published_at": "2026-09-15T16:38:06"
-        },
-        {
-          "article_id": 1287,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "Marathon Petroleum stock hits all-time high at 409.63 USD By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-40963-usd-93CH-2697032",
-          "published_at": "2026-09-15T16:47:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1174,
-      "title": "Trade Tracker: Wells Fargo, Netflix and Delta Air Lines",
-      "summary": "This article features Josh Brown, CEO of Ritholtz Wealth Management, and Stephanie Link, CIO at Hightower, discussing their latest portfolio moves on CNBC's \"Halftime Report.\" The segment highlights their current investment strategies concerning Wells Fargo (WFC), Netflix (NFLX), and Delta Air Lines (DAL).",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-15T16:42:02",
-      "first_seen_at": "2026-09-15T20:00:02.494986",
-      "assets": [
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.118253,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 0.944757,
-          "sentiment_score": 0.113403,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 0.901713,
-          "sentiment_score": 0.11757,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.70161,
-          "sentiment_score": -0.129476,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923207
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.811258
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.737407
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.636953
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1297,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Trade Tracker: Wells Fargo, Netflix and Delta Air Lines",
-          "url": "https://www.cnbc.com/video/2026/09/15/trade-tracker-wells-fargo-netflix-and-delta-air-lines.html",
-          "published_at": "2026-09-15T16:42:02"
         }
       ]
     }
