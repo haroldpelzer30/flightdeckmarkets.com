@@ -5,6 +5,94 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1212,
+      "title": "KeyCorp raises prime rate after Fed decision",
+      "summary": "Following the Federal Reserve's decision to increase its benchmark interest rate, several top U.S. banks, including JPMorgan, KeyCorp, and BNY, have raised their prime lending rate to 7% from 6.75%. This move, effective Thursday, is expected to increase borrowing costs for both consumers and businesses. Banks generally benefit from rate hikes through increased net interest income, but a tightening cycle could slow the economy and impact loan demand.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 76,
+      "published_at": "2026-09-16T19:49:29",
+      "first_seen_at": "2026-09-16T21:00:02.065200",
+      "assets": [
+        {
+          "symbol": "KEY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.398793,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.841883,
+          "sentiment_score": 0.290519,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BK",
+          "asset_class": null,
+          "relevance_score": 0.760632,
+          "sentiment_score": 0.276045,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.642969,
+          "sentiment_score": 0.2053,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.609706,
+          "sentiment_score": 0.247754,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.920015
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.828143
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.744925
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1339,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Australia",
+          "source_domain": "Yahoo Finance Australia",
+          "headline": "KEYCORP RAISES ITS PRIME LENDING RATE TO 7.00 PERCENT",
+          "url": "https://au.finance.yahoo.com/news/keycorp-raises-prime-lending-rate-190700573.html",
+          "published_at": "2026-09-16T19:07:29"
+        },
+        {
+          "article_id": 1338,
+          "provider": "ALPHA_VANTAGE",
+          "source": "1470 & 100.3 WMBD",
+          "source_domain": "1470 & 100.3 WMBD",
+          "headline": "KeyCorp raises prime rate after Fed decision",
+          "url": "https://wmbdradio.com/2026/09/16/keycorp-raises-prime-rate-after-fed-decision/",
+          "published_at": "2026-09-16T19:49:29"
+        }
+      ]
+    },
+    {
       "event_id": 1204,
       "title": "Can PNC's Record Capital Markets Pace Support Its Fee-Income Outlook?",
       "summary": "PNC Financial Services Group is experiencing strong growth in its fee businesses, especially capital markets, which is on track for a record year due to robust M&A activity and advisory services. The company has expanded its capabilities through acquisitions and cross-selling, leading to an increased outlook for non-interest income growth. Other major banks like Goldman Sachs and JPMorgan are also benefiting from the improved M&A environment.",
@@ -20,7 +108,7 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.484598,
+          "sentiment_score": 0.492799,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,15 +116,15 @@
           "symbol": "GS",
           "asset_class": null,
           "relevance_score": 0.836609,
-          "sentiment_score": 0.324352,
+          "sentiment_score": 0.315406,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.789954,
-          "sentiment_score": 0.288145,
+          "relevance_score": 0.793636,
+          "sentiment_score": 0.270963,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +132,7 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.598108,
-          "sentiment_score": 0.112382,
+          "sentiment_score": 0.120255,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -68,7 +156,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.642126
+          "relevance_score": 0.647247
         }
       ],
       "articles": [
@@ -1119,57 +1207,6 @@
           "headline": "Dominion Energy and NextEra Energy Pledge $1 Billion a Year to Virginia Suppliers",
           "url": "https://energynews.pro/en/dominion-energy-and-nextera-energy-pledge-1-billion-a-year-to-virginia-suppliers",
           "published_at": "2026-09-15T21:07:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1179,
-      "title": "Raymond James Financial Issues Positive Forecast for Enbridge (TSE:ENB) Stock Price",
-      "summary": "Raymond James Financial has increased its price target for Enbridge (TSE:ENB) from C$79.00 to C$80.00, maintaining a \"market perform\" rating and suggesting an 18.55% potential upside. Analyst consensus for Enbridge is a \"Moderate Buy\" with an average price target of C$77.62, despite the stock trading below its 50-day and 200-day moving averages. The company recently reported C$0.63 in quarterly EPS and C$29.32 billion in revenue.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-15T18:42:57",
-      "first_seen_at": "2026-09-15T22:00:02.304909",
-      "assets": [
-        {
-          "symbol": "RJF",
-          "asset_class": null,
-          "relevance_score": 0.847165,
-          "sentiment_score": 0.210074,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.909789
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906497
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839832
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.714561
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1302,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Raymond James Financial Issues Positive Forecast for Enbridge (TSE:ENB) Stock Price",
-          "url": "https://www.marketbeat.com/instant-alerts/analyst-raymond-james-financial-issues-positive-forecast-for-enbridge-tse-enb-stock-price-2026-09-15/",
-          "published_at": "2026-09-15T18:42:57"
         }
       ]
     }
