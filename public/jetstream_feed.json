@@ -20,23 +20,23 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.461088,
+          "sentiment_score": 0.484598,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GS",
           "asset_class": null,
-          "relevance_score": 0.814059,
-          "sentiment_score": 0.341557,
+          "relevance_score": 0.836609,
+          "sentiment_score": 0.324352,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.774038,
-          "sentiment_score": 0.266661,
+          "relevance_score": 0.789954,
+          "sentiment_score": 0.288145,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,23 +44,23 @@
           "symbol": "COIN",
           "asset_class": null,
           "relevance_score": 0.598108,
-          "sentiment_score": 0.11818,
+          "sentiment_score": 0.112382,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "earnings",
+          "relevance_score": 0.949595
+        },
+        {
           "topic": "finance",
           "relevance_score": 0.944784
         },
         {
-          "topic": "earnings",
-          "relevance_score": 0.926299
-        },
-        {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.807319
+          "relevance_score": 0.830907
         },
         {
           "topic": "financial_markets",
@@ -84,6 +84,108 @@
       ]
     },
     {
+      "event_id": 1209,
+      "title": "JPMorgan Sees ‘Nothing Flashing Red’ In US Economy",
+      "summary": "JPMorgan's Commercial & Investment Bank co-president, Doug Petno, stated that the bank anticipates strong third-quarter investment banking fees and markets revenue, with broad-based strength across the division. Petno indicated that JPMorgan sees \"nothing flashing red\" in the U.S. economy, although it monitors some weakness among companies serving lower-income consumers and those vulnerable to AI disruption. He also noted a return to normal for private equity activity, but expressed caution regarding some 2019-2021 vintage investments and the private credit market.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-09-16T16:55:31",
+      "first_seen_at": "2026-09-16T20:00:02.773536",
+      "assets": [
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.514624,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.941084
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.821152
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.740745
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.637903
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.62748
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1335,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "JPMorgan Sees ‘Nothing Flashing Red’ In US Economy",
+          "url": "https://www.benzinga.com/markets/large-cap/26/09/61822864/jpmorgan-sees-nothing-flashing-red-in-us-economy",
+          "published_at": "2026-09-16T16:55:31"
+        }
+      ]
+    },
+    {
+      "event_id": 1210,
+      "title": "ConocoPhillips Stock Falls as Oil Prices Retreat",
+      "summary": "ConocoPhillips (NYSE: COP) shares dropped due to retreating crude prices, driven by eased Saudi supply concerns and a smaller-than-expected drawdown in U.S. crude inventories. Brent and WTI crude prices fell significantly after reports of Saudi Arabia rerouting oil to Asia and the Energy Information Administration disclosing a modest reduction in domestic stockpiles. This combination of factors made ConocoPhillips one of the weakest performers among oil and gas exploration companies.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-16T16:54:33",
+      "first_seen_at": "2026-09-16T20:00:03.061485",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.44927,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925999
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.824493
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.649793
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1336,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "ConocoPhillips Stock Falls as Oil Prices Retreat",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
+          "published_at": "2026-09-16T16:54:33"
+        }
+      ]
+    },
+    {
       "event_id": 1200,
       "title": "J.B. Hunt shares fall Wednesday after company warns of third quarter profit decline",
       "summary": "J.B. Hunt Transport Services Inc. shares dropped 13% after the company warned of a 5% to 10% decline in third-quarter profits due to erratic fuel costs and increased driver expenses. Despite strong demand across segments, particularly in intermodal services, higher diesel costs and driver recruitment bonuses are expected to negatively impact the bottom line. The company noted that fuel surcharges might offset some costs, but rapid fuel price shifts make it difficult for the formula to keep pace.",
@@ -99,7 +201,7 @@
           "symbol": "JBHT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.415253,
+          "sentiment_score": -0.403724,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -115,11 +217,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.82525
+          "relevance_score": 0.846173
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.739361
+          "relevance_score": 0.746049
         }
       ],
       "articles": [
@@ -1068,104 +1170,6 @@
           "headline": "Raymond James Financial Issues Positive Forecast for Enbridge (TSE:ENB) Stock Price",
           "url": "https://www.marketbeat.com/instant-alerts/analyst-raymond-james-financial-issues-positive-forecast-for-enbridge-tse-enb-stock-price-2026-09-15/",
           "published_at": "2026-09-15T18:42:57"
-        }
-      ]
-    },
-    {
-      "event_id": 1180,
-      "title": "Uber layoffs hit Sunnyvale engineering hub",
-      "summary": "Uber is set to lay off 138 employees at its Sunnyvale engineering campus as part of a larger company-wide restructuring, which will eliminate approximately 3,300 jobs globally. The affected employees are located at offices on Mathilda Place. This move is part of ongoing workforce reductions at the tech giant.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-15T18:39:48",
-      "first_seen_at": "2026-09-15T22:00:02.559035",
-      "assets": [
-        {
-          "symbol": "UBER",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.380632,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.840205
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.714894
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.648564
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1303,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Uber layoffs hit Sunnyvale engineering hub",
-          "url": "https://www.bizjournals.com/sanjose/news/2026/09/15/uber-layoffs-sunnyvale.html",
-          "published_at": "2026-09-15T18:39:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1176,
-      "title": "Fortinet stock hits all-time high at 173.92 USD",
-      "summary": "Fortinet Inc.'s stock reached an all-time high of $173.92, driven by strong investor confidence and significant growth in the cybersecurity sector, with a 117.74% increase over the past year. The company's recent financial results, including a 26% revenue growth and 33% billings increase, along with strategic acquisitions, have contributed to its market success. Despite appearing overvalued by some analyses, analysts maintain positive ratings, citing increased demand for AI infrastructure.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-15T17:54:23",
-      "first_seen_at": "2026-09-15T21:00:02.550493",
-      "assets": [
-        {
-          "symbol": "FTNT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.642378,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945458
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.941923
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.832755
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.62677
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1299,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Fortinet stock hits all-time high at 173.92 USD",
-          "url": "https://www.investing.com/news/company-news/fortinet-stock-hits-alltime-high-at-17392-usd-93CH-4902385",
-          "published_at": "2026-09-15T17:54:23"
         }
       ]
     }
