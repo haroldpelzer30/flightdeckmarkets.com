@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1214,
+      "title": "Flag Ship Acquisition to merge with Bluechip in $400m deal",
+      "summary": "Flag Ship Acquisition Corporation announced a merger agreement with Bluechip & Co. Holdings, valuing Bluechip at $400 million. Bluechip, a Cayman Islands company offering insurance-related services, financial education, and AI-driven advertising, will become a wholly-owned subsidiary of the combined entity. The deal involves Bluechip shareholders receiving 40 million ordinary shares and requires approvals from shareholders and regulatory bodies.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-16T21:09:36",
+      "first_seen_at": "2026-09-16T22:00:02.037279",
+      "assets": [
+        {
+          "symbol": "FSHPU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.386163,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.821
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.727125
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1341,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Flag Ship Acquisition to merge with Bluechip in $400m deal",
+          "url": "https://in.investing.com/news/stock-market-news/flag-ship-acquisition-to-merge-with-bluechip-in-400m-deal-93CH-5594222",
+          "published_at": "2026-09-16T21:09:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1215,
+      "title": "Huntington tempers outlook due to higher rates, lower yields",
+      "summary": "Huntington Bancshares has revised its profitability expectations downwards for 2026 and 2027 due to a challenging operating environment characterized by higher interest rates pushing up deposit costs and fierce competition lowering loan yields. CEO Steve Steinour stated that while the company's long-term prognosis is healthy, near-term turbulence has led to reduced projections for net interest income and revenue growth, and lower earnings per share estimates for 2027. Despite the tempered outlook, Huntington maintains its credit discipline and commitment to risk-adjusted returns, and anticipates long-term benefits from recent acquisitions and market expansion.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-16T20:16:07",
+      "first_seen_at": "2026-09-16T22:00:02.291462",
+      "assets": [
+        {
+          "symbol": "HBAN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.212199,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932636
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.845507
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.719286
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.626734
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.623217
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1342,
+          "provider": "ALPHA_VANTAGE",
+          "source": "American Banker",
+          "source_domain": "American Banker",
+          "headline": "Huntington tempers outlook due to higher rates, lower yields",
+          "url": "https://www.americanbanker.com/news/huntington-tempers-outlook-due-to-higher-rates-lower-yields",
+          "published_at": "2026-09-16T20:16:07"
+        }
+      ]
+    },
+    {
       "event_id": 1212,
       "title": "KeyCorp raises prime rate after Fed decision",
       "summary": "Following the Federal Reserve's decision to increase its benchmark interest rate, several top U.S. banks, including JPMorgan, KeyCorp, and BNY, have raised their prime lending rate to 7% from 6.75%. This move, effective Thursday, is expected to increase borrowing costs for both consumers and businesses. Banks generally benefit from rate hikes through increased net interest income, but a tightening cycle could slow the economy and impact loan demand.",
@@ -20,7 +122,7 @@
           "symbol": "KEY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.398793,
+          "sentiment_score": 0.398188,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,15 +130,15 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.841883,
-          "sentiment_score": 0.290519,
+          "sentiment_score": 0.284751,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BK",
           "asset_class": null,
-          "relevance_score": 0.760632,
-          "sentiment_score": 0.276045,
+          "relevance_score": 0.780498,
+          "sentiment_score": 0.276062,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,7 +146,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.642969,
-          "sentiment_score": 0.2053,
+          "sentiment_score": 0.244107,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -52,7 +154,7 @@
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.609706,
-          "sentiment_score": 0.247754,
+          "sentiment_score": 0.222291,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -60,11 +162,11 @@
       "topics": [
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.920015
+          "relevance_score": 0.927891
         },
         {
           "topic": "finance",
-          "relevance_score": 0.828143
+          "relevance_score": 0.848308
         },
         {
           "topic": "financial_markets",
@@ -1097,116 +1199,6 @@
           "headline": "AJB Investment Fund II acquires $17,150 of Jewett Cameron Trading stock By Investing.com",
           "url": "https://m.investing.com/news/insider-trading-news/ajb-investment-fund-ii-acquires-17150-of-jewett-cameron-trading-stock-93CH-4900696?ampMode=1",
           "published_at": "2026-09-15T22:59:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1181,
-      "title": "James Hardie Industries Issues 109 Unquoted Ordinary Shares Linked to AZEK Merger Equity Awards",
-      "summary": "James Hardie Industries PLC has issued 109 unquoted ordinary shares (JHXAM) on September 10, 2026, priced at USD 0.6866, as part of the settlement of equity awards from its merger with The AZEK Company Inc. The merger was completed on July 1, 2025, and these shares are not intended to be quoted on the ASX. ASX granted a waiver from Listing Rule 2.4 for the issuance of these securities.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-15T22:05:06",
-      "first_seen_at": "2026-09-15T23:00:01.959756",
-      "assets": [
-        {
-          "symbol": "JHX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.14402,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.845349
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.74047
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1304,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine",
-          "source_domain": "Kalkine",
-          "headline": "James Hardie Industries Issues 109 Unquoted Ordinary Shares Linked to AZEK Merger Equity Awards",
-          "url": "https://kalkine.com.au/news/announcements/james-hardie-industries-issues-109-unquoted-ordinary-shares-linked-to-azek-merger-equity-awards",
-          "published_at": "2026-09-15T22:05:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1182,
-      "title": "Dominion Energy and NextEra Energy Pledge $1 Billion a Year to Virginia Suppliers",
-      "summary": "Dominion Energy and NextEra Energy have committed to a supplier program worth up to $1 billion annually for Virginia businesses as part of a broader package aimed at easing regulatory review of their proposed merger. The package also includes monthly residential bill credits, a strengthened EnergyShare program for low-income households, and a workforce training fund, alongside commitments to maintain and create jobs in Virginia. These commitments are designed to address concerns raised by Virginia's regulatory bodies and Governor Abigail Spanberger regarding the merger's impact on household bills, employment, and clean energy investments.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-15T21:07:53",
-      "first_seen_at": "2026-09-15T23:00:02.214759",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.315221,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.923789,
-          "sentiment_score": 0.332803,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CNP",
-          "asset_class": null,
-          "relevance_score": 0.631142,
-          "sentiment_score": -0.242563,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946111
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.630026
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1305,
-          "provider": "ALPHA_VANTAGE",
-          "source": "energynews.pro",
-          "source_domain": "energynews.pro",
-          "headline": "Dominion Energy and NextEra Energy Pledge $1 Billion a Year to Virginia Suppliers",
-          "url": "https://energynews.pro/en/dominion-energy-and-nextera-energy-pledge-1-billion-a-year-to-virginia-suppliers",
-          "published_at": "2026-09-15T21:07:53"
         }
       ]
     }
