@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1228,
+      "title": "Multidimensional Energy Pathways; The Resilience Imperative; and Stubborn Inflation",
+      "summary": "This S&P Global daily update discusses the need for multidimensional global energy pathways, emphasizing pragmatism and nationally differentiated approaches in energy and climate discourse. It highlights the \"Resilience Imperative\" in sustainability, noting that ongoing geopolitical events and increased AI-driven power demands are reshaping the balance between energy security, affordability, and sustainability. The article also points to S&P Global PMI data suggesting stubborn inflation may persist into 2027 due to renewed upward price pressures in energy and supply chains, despite a slight cooling in official inflation data.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "CRITICAL",
+      "intelligence_score": 79,
+      "published_at": "2026-09-17T11:02:39",
+      "first_seen_at": "2026-09-17T13:00:01.774360",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.132153,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.934392
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.80284
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.717076
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.634346
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1358,
+          "provider": "ALPHA_VANTAGE",
+          "source": "S&P Global",
+          "source_domain": "S&P Global",
+          "headline": "Multidimensional Energy Pathways; The Resilience Imperative; and Stubborn Inflation",
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-17-2026",
+          "published_at": "2026-09-17T11:02:39"
+        }
+      ]
+    },
+    {
       "event_id": 1227,
       "title": "UK watchdog starts review of Akzo Nobel’s planned Axalta acquisition By Investing.com",
       "summary": "Britain’s Competition and Markets Authority (CMA) has initiated a review of Akzo Nobel’s proposed acquisition of Axalta Coating Systems. The initial review period began on September 17, with a decision on whether to proceed to a more extensive Phase 2 investigation expected by November 11. Shareholders of both companies have already approved the all-stock merger, which is anticipated to be completed in late 2026 to early 2027, pending regulatory approvals.",
@@ -1106,53 +1157,6 @@
           "headline": "Why Is Alphabet (NASDAQ:GOOGL) in Focus as Yields Rise?",
           "url": "https://kalkinemedia.com/us/stocks/communication/why-is-alphabet-nasdaqgoogl-in-focus-as-yields-rise",
           "published_at": "2026-09-16T12:56:04"
-        }
-      ]
-    },
-    {
-      "event_id": 1192,
-      "title": "FG Nexus Board of Directors Approves Affordable Housing Real Estate Acquisition Strategy and $10 Million Investment in FG Communities",
-      "summary": "FG Nexus Inc. has approved a strategy to acquire affordable housing communities and will invest $10 million in FG Communities, a privately held real estate company focused on manufactured housing. This move signifies FG Nexus's transition into a real estate operating company specializing in land-lease affordable housing, with plans to change its name to FG Communities Holdings, Inc. and its stock ticker symbols. The company aims to address a large and fragmented affordable housing market in the U.S., leveraging FG Communities' operating platform.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-16T12:30:41",
-      "first_seen_at": "2026-09-16T14:00:02.418792",
-      "assets": [
-        {
-          "symbol": "FGNX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.44879,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "real_estate",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.836639
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.716231
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1316,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance UK",
-          "source_domain": "Yahoo Finance UK",
-          "headline": "FG Nexus Board of Directors Approves Affordable Housing Real Estate Acquisition Strategy and $10 Million Investment in FG Communities",
-          "url": "https://uk.finance.yahoo.com/news/fg-nexus-board-directors-approves-123000185.html",
-          "published_at": "2026-09-16T12:30:41"
         }
       ]
     }
