@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1244,
+      "title": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
+      "summary": "Gladstone Investment Corporation provided additional capital to its portfolio company Global GRAB Technologies, Inc. to facilitate the acquisition of Barrier1 Systems, LLC. This acquisition expands Global GRAB’s perimeter security product offerings and adds U.S.-based manufacturing capabilities. Barrier1 specializes in anti-ram vehicle barrier systems, complementing Global GRAB's existing solutions for critical infrastructure security.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-17T17:03:35",
+      "first_seen_at": "2026-09-17T18:00:01.814225",
+      "assets": [
+        {
+          "symbol": "GAIN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.448951,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.802436
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.631408
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1376,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
+          "url": "https://www.investing.com/news/company-news/gladstone-investment-backs-global-grabs-barrier1-acquisition-93CH-4904538",
+          "published_at": "2026-09-17T17:03:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1245,
+      "title": "Builders FirstSource stock hits 52-week low at 58.13 USD",
+      "summary": "Builders FirstSource (BLDR) stock has dropped to a 52-week low of $58.13, a 54% decline from its high, placing it on InvestingPro's Most Undervalued list despite management's aggressive share buybacks. The company reported lower-than-expected Q2 2026 earnings due to a weak housing market and increased costs, and recently saw a leadership change with Gayatri Narayan's departure. Citizens initiated coverage with a \"Market Perform\" rating, citing concerns over declining single-family housing starts.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-17T16:27:25",
+      "first_seen_at": "2026-09-17T18:00:02.066707",
+      "assets": [
+        {
+          "symbol": "BLDR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.439168,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949172
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.919345
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.801928
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.744467
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1377,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Builders FirstSource stock hits 52-week low at 58.13 USD",
+          "url": "https://www.investing.com/news/company-news/builders-firstsource-stock-hits-52week-low-at-5813-usd-93CH-4906096",
+          "published_at": "2026-09-17T16:27:25"
+        }
+      ]
+    },
+    {
       "event_id": 1241,
       "title": "Martin Marietta Materials stock hits 52-week low at $491.41",
       "summary": "Martin Marietta Materials Inc. (MLM) stock has dropped to a 52-week low of $491.41, trading 31% below its high despite a low PEG ratio suggesting undervaluation relative to growth. The company has raised its dividend for 10 consecutive years, demonstrating financial resilience, although InvestingPro's Fair Value analysis suggests it may be overvalued. This comes amidst strategic developments, including a $5.5 billion note issuance to finance the acquisition of Lhoist North America, Inc., which has garnered varied analyst ratings ranging from Neutral to Buy.",
@@ -20,7 +118,7 @@
           "symbol": "MLM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.213127,
+          "sentiment_score": -0.229999,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -32,7 +130,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.823613
+          "relevance_score": 0.844215
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -40,7 +138,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.716566
+          "relevance_score": 0.744494
         }
       ],
       "articles": [
@@ -986,149 +1084,6 @@
           "headline": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
           "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html",
           "published_at": "2026-09-16T21:08:23"
-        }
-      ]
-    },
-    {
-      "event_id": 1215,
-      "title": "Huntington tempers outlook due to higher rates, lower yields",
-      "summary": "Huntington Bancshares has revised its profitability expectations downwards for 2026 and 2027 due to a challenging operating environment characterized by higher interest rates pushing up deposit costs and fierce competition lowering loan yields. CEO Steve Steinour stated that while the company's long-term prognosis is healthy, near-term turbulence has led to reduced projections for net interest income and revenue growth, and lower earnings per share estimates for 2027. Despite the tempered outlook, Huntington maintains its credit discipline and commitment to risk-adjusted returns, and anticipates long-term benefits from recent acquisitions and market expansion.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-16T20:16:07",
-      "first_seen_at": "2026-09-16T22:00:02.291462",
-      "assets": [
-        {
-          "symbol": "HBAN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.200385,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947472
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.845507
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.719286
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.634623
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.623217
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1342,
-          "provider": "ALPHA_VANTAGE",
-          "source": "American Banker",
-          "source_domain": "American Banker",
-          "headline": "Huntington tempers outlook due to higher rates, lower yields",
-          "url": "https://www.americanbanker.com/news/huntington-tempers-outlook-due-to-higher-rates-lower-yields",
-          "published_at": "2026-09-16T20:16:07"
-        }
-      ]
-    },
-    {
-      "event_id": 1212,
-      "title": "KeyCorp raises prime rate after Fed decision",
-      "summary": "Following the Federal Reserve's decision to increase its benchmark interest rate, several top U.S. banks, including JPMorgan, KeyCorp, and BNY, have raised their prime lending rate to 7% from 6.75%. This move, effective Thursday, is expected to increase borrowing costs for both consumers and businesses. Banks generally benefit from rate hikes through increased net interest income, but a tightening cycle could slow the economy and impact loan demand.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 76,
-      "published_at": "2026-09-16T19:49:29",
-      "first_seen_at": "2026-09-16T21:00:02.065200",
-      "assets": [
-        {
-          "symbol": "KEY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.398188,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.841883,
-          "sentiment_score": 0.284751,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BK",
-          "asset_class": null,
-          "relevance_score": 0.780498,
-          "sentiment_score": 0.276062,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.642969,
-          "sentiment_score": 0.244107,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.609706,
-          "sentiment_score": 0.222291,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.927891
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.848308
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.744925
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1339,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Australia",
-          "source_domain": "Yahoo Finance Australia",
-          "headline": "KEYCORP RAISES ITS PRIME LENDING RATE TO 7.00 PERCENT",
-          "url": "https://au.finance.yahoo.com/news/keycorp-raises-prime-lending-rate-190700573.html",
-          "published_at": "2026-09-16T19:07:29"
-        },
-        {
-          "article_id": 1338,
-          "provider": "ALPHA_VANTAGE",
-          "source": "1470 & 100.3 WMBD",
-          "source_domain": "1470 & 100.3 WMBD",
-          "headline": "KeyCorp raises prime rate after Fed decision",
-          "url": "https://wmbdradio.com/2026/09/16/keycorp-raises-prime-rate-after-fed-decision/",
-          "published_at": "2026-09-16T19:49:29"
         }
       ]
     }
