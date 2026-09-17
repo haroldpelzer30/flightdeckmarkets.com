@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1257,
+      "title": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
+      "summary": "As consumer confidence declines, investors may seek resilient stocks. Procter & Gamble (PG) is presented as a strong candidate due to its 70-year history of dividend increases, well-funded dividends, and diversified portfolio of essential consumer staples. Its current stock price is down from its 52-week high, making its dividend yield attractive for income-oriented investors.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-17T19:01:14",
+      "first_seen_at": "2026-09-17T21:00:01.730804",
+      "assets": [
+        {
+          "symbol": "PG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.346517,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.642114,
+          "sentiment_score": 0.336288,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.639815,
+          "sentiment_score": 0.339757,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92684
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.810673
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.736255
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.611359
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1389,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Currently.com",
+          "source_domain": "Currently.com",
+          "headline": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
+          "url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190100459.html",
+          "published_at": "2026-09-17T19:01:14"
+        }
+      ]
+    },
+    {
+      "event_id": 1258,
+      "title": "Caesars confirms FTC seeks more merger details, two board members step down",
+      "summary": "Caesars Entertainment announced that two board members, Jesse Lynn and Ted Papapostolou, who were appointed at the request of investor Carl Icahn, have resigned. The company also disclosed that both Caesars and Fertitta Entertainment received a second request for information from the FTC regarding their merger, indicating continued regulatory review. Caesars shareholders are set to vote on Fertitta Entertainment's $17.6 billion takeover bid.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-17T18:55:17",
+      "first_seen_at": "2026-09-17T21:00:01.995890",
+      "assets": [
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.138616,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.817497
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.702065
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1390,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CDC Gaming",
+          "source_domain": "CDC Gaming",
+          "headline": "Caesars confirms FTC seeks more merger details, two board members step down",
+          "url": "https://cdcgaming.com/caesars-confirms-ftc-seeks-more-merger-details-two-board-members-step-down/",
+          "published_at": "2026-09-17T18:55:17"
+        }
+      ]
+    },
+    {
       "event_id": 1252,
       "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
       "summary": "Lockheed Martin has received its first shipment of critical Patriot interceptor components from General Motors, less than a month after the two companies signed a manufacturing agreement. This expedited delivery, which traditionally takes months, highlights the Pentagon's push for faster weapons production amid surging global demand for missile defense systems like the Patriot, especially from Ukraine. Lockheed Martin is also significantly investing to scale up its munitions output across several U.S. sites.",
@@ -20,7 +134,7 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.4448,
+          "sentiment_score": 0.444971,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +142,7 @@
           "symbol": "LMT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.44834,
+          "sentiment_score": 0.400398,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -36,7 +150,7 @@
           "symbol": "GD",
           "asset_class": null,
           "relevance_score": 0.644009,
-          "sentiment_score": 0.316759,
+          "sentiment_score": 0.306754,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -44,11 +158,11 @@
       "topics": [
         {
           "topic": "manufacturing",
-          "relevance_score": 0.934362
+          "relevance_score": 0.941231
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.825546
+          "relevance_score": 0.832271
         },
         {
           "topic": "energy_transportation",
@@ -56,7 +170,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.630498
+          "relevance_score": 0.633232
         }
       ],
       "articles": [
@@ -87,7 +201,7 @@
           "symbol": "UROY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.43187,
+          "sentiment_score": 0.440405,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -95,7 +209,7 @@
           "symbol": "CME",
           "asset_class": null,
           "relevance_score": 0.648794,
-          "sentiment_score": 0.105714,
+          "sentiment_score": 0.104857,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -107,7 +221,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.82085
+          "relevance_score": 0.824195
         }
       ],
       "articles": [
@@ -138,7 +252,7 @@
           "symbol": "GAIN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.41235,
+          "sentiment_score": 0.408003,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -150,7 +264,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.809948
+          "relevance_score": 0.841824
         },
         {
           "topic": "manufacturing",
@@ -185,15 +299,15 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.395366,
+          "sentiment_score": 0.412674,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "F",
           "asset_class": null,
-          "relevance_score": 0.911991,
-          "sentiment_score": 0.4123,
+          "relevance_score": 0.918713,
+          "sentiment_score": 0.403351,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -201,7 +315,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 0.843095,
-          "sentiment_score": 0.326806,
+          "sentiment_score": 0.348927,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -229,6 +343,57 @@
           "headline": "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
           "url": "https://247wallst.com/investing/2026/09/17/automaker-stocks-rally-as-rotation-lifts-cyclicals-general-motors-climbs-4-stellantis-rises-4-ford-gains-3-tesla-adds-2/",
           "published_at": "2026-09-17T17:02:20"
+        }
+      ]
+    },
+    {
+      "event_id": 1263,
+      "title": "Atlantic Coca-Cola Bottling Contributed $753 Million to Iowa Economy",
+      "summary": "A new report reveals that Atlantic Coca-Cola Bottling Company significantly boosted Iowa's economy, contributing $753 million in 2025. The company, one of 61 independent bottlers, operates 10 facilities across five states, employs over 800 people, and has invested more than $40 million in modernizing its operations. Nationally, the Coca-Cola system contributed $85 billion to the U.S. economy and supported nearly one million jobs last year.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-17T16:56:18",
+      "first_seen_at": "2026-09-17T21:00:03.316038",
+      "assets": [
+        {
+          "symbol": "KO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.435945,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906405
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.803504
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.716413
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.646422
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1395,
+          "provider": "ALPHA_VANTAGE",
+          "source": "KSOM",
+          "source_domain": "KSOM",
+          "headline": "Atlantic Coca-Cola Bottling Contributed $753 Million to Iowa Economy",
+          "url": "https://westerniowatoday.com/2026/09/17/atlantic-coca-cola-bottling-contributed-753-million-to-iowa-economy/",
+          "published_at": "2026-09-17T16:56:18"
         }
       ]
     },
@@ -957,165 +1122,6 @@
           "headline": "UK watchdog starts review of Akzo Nobel’s planned Axalta acquisition By Investing.com",
           "url": "https://ca.investing.com/news/stock-market-news/uk-watchdog-starts-review-of-akzo-nobels-planned-axalta-acquisition-93CH-4842805",
           "published_at": "2026-09-17T08:06:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1221,
-      "title": "Pennant Acquires Real Estate of Mainplace Senior Living in Orange, California",
-      "summary": "The Pennant Group, Inc. has acquired the real estate of Mainplace Senior Living in Orange, California, effective September 3, 2026. A Pennant affiliated subsidiary had operated Mainplace under a triple-net lease since 2019. This acquisition is part of Pennant's strategy to deploy capital in senior living real estate at attractive pricing, aiming to capture long-term value and enhance operating stability.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-16T22:57:51",
-      "first_seen_at": "2026-09-17T00:00:02.548860",
-      "assets": [
-        {
-          "symbol": "PNTG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.423222,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.912845
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.717388
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.70561
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1351,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Pennant Group acquires senior living property in California",
-          "url": "https://www.investing.com/news/company-news/pennant-group-acquires-senior-living-property-in-california-93CH-4904536",
-          "published_at": "2026-09-16T20:57:50"
-        },
-        {
-          "article_id": 1350,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Pennant Group acquires senior living property in California By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/pennant-group-acquires-senior-living-property-in-california-93CH-4842475",
-          "published_at": "2026-09-16T20:57:51"
-        },
-        {
-          "article_id": 1349,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Manila Times",
-          "source_domain": "The Manila Times",
-          "headline": "Pennant Acquires Real Estate of Mainplace Senior Living in Orange, California",
-          "url": "https://www.manilatimes.net/2026/09/17/tmt-newswire/globenewswire/pennant-acquiresreal-estate-of-mainplace-senior-living-in-orange-california/2427020/amp",
-          "published_at": "2026-09-16T22:57:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1222,
-      "title": "[U.S. Stocks] Dow Inc falls for third straight session, dropping more than $900 at one point amid concerns over persistent inflation (16th) [Replacement]",
-      "summary": "Dow Inc. experienced its third consecutive session of declines, with shares falling significantly, at one point by over $900. This downturn is attributed to ongoing concerns about persistent inflation. The stock's performance reflects broader market anxieties regarding economic conditions.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 79,
-      "published_at": "2026-09-16T21:54:20",
-      "first_seen_at": "2026-09-17T00:00:02.977088",
-      "assets": [
-        {
-          "symbol": "DOW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.457574,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90945
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.848835
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1352,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Moomoo",
-          "source_domain": "Moomoo",
-          "headline": "[U.S. Stocks] Dow Inc falls for third straight session, dropping more than $900 at one point amid concerns over persistent inflation (16th) [Replacement]",
-          "url": "https://www.moomoo.com/news/post/76361971/us-stocks-dow-inc-falls-for-third-straight-session-dropping",
-          "published_at": "2026-09-16T21:54:20"
-        }
-      ]
-    },
-    {
-      "event_id": 1223,
-      "title": "Citizens Bank raises prime lending rate to 7.00 percent By Investing.com",
-      "summary": "Citizens Bank, N.A. has increased its prime lending rate to 7.00 percent from 6.75 percent, effective Thursday. This 25 basis point rise serves as a benchmark for various consumer and commercial loan products. Citizens Financial Group, Inc. (NYSE:CFG) reported assets of $233.8 billion as of June 30, 2026, operating approximately 1,000 branches across 14 states and the District of Columbia.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-16T21:49:22",
-      "first_seen_at": "2026-09-17T00:00:03.257006",
-      "assets": [
-        {
-          "symbol": "CFG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.129999,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.906323
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.804704
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.601904
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1353,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Citizens Bank raises prime lending rate to 7.00 percent By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/citizens-bank-raises-prime-lending-rate-to-700-percent-93CH-4842546",
-          "published_at": "2026-09-16T21:49:22"
         }
       ]
     }
