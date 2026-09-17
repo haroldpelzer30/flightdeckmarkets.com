@@ -5,6 +5,73 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1252,
+      "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
+      "summary": "Lockheed Martin has received its first shipment of critical Patriot interceptor components from General Motors, less than a month after the two companies signed a manufacturing agreement. This expedited delivery, which traditionally takes months, highlights the Pentagon's push for faster weapons production amid surging global demand for missile defense systems like the Patriot, especially from Ukraine. Lockheed Martin is also significantly investing to scale up its munitions output across several U.S. sites.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-17T18:25:28",
+      "first_seen_at": "2026-09-17T20:00:02.490944",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.4448,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LMT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.44834,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GD",
+          "asset_class": null,
+          "relevance_score": 0.644009,
+          "sentiment_score": 0.316759,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.934362
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825546
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.644583
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.630498
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1384,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WTVB",
+          "source_domain": "WTVB",
+          "headline": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
+          "url": "https://wtvbam.com/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
+          "published_at": "2026-09-17T18:25:28"
+        }
+      ]
+    },
+    {
       "event_id": 1247,
       "title": "Uranium Royalty Corp. (NASDAQ: UROY) Reports 1530% Net Income Increase to $16.3M Following Sweetwater Acquisition",
       "summary": "Uranium Royalty Corp. (NASDAQ: UROY) announced a significant financial upturn, reporting a 1530% increase in net income to $16.3 million for the quarter ending July 31, 2026, with diluted EPS rising 900% to $0.10. This growth is largely attributed to $51.0 million in uranium sales, which partially funded the recent Sweetwater acquisition. The company also highlighted ongoing oil and gas exploration on Sweetwater lands and reaffirmed production guidance from partners like Cameco and Paladin Energy.",
@@ -20,7 +87,7 @@
           "symbol": "UROY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.406468,
+          "sentiment_score": 0.43187,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +95,7 @@
           "symbol": "CME",
           "asset_class": null,
           "relevance_score": 0.648794,
-          "sentiment_score": 0.10743,
+          "sentiment_score": 0.105714,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -36,7 +103,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.922613
+          "relevance_score": 0.934727
         },
         {
           "topic": "mergers_and_acquisitions",
@@ -71,7 +138,7 @@
           "symbol": "GAIN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.449695,
+          "sentiment_score": 0.41235,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +150,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.802436
+          "relevance_score": 0.809948
         },
         {
           "topic": "manufacturing",
@@ -118,7 +185,7 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416973,
+          "sentiment_score": 0.395366,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -126,16 +193,16 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 0.911991,
-          "sentiment_score": 0.38867,
+          "sentiment_score": 0.4123,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "TSLA",
           "asset_class": null,
-          "relevance_score": 0.828566,
-          "sentiment_score": 0.360453,
-          "sentiment_label": "Bullish",
+          "relevance_score": 0.843095,
+          "sentiment_score": 0.326806,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
       ],
@@ -146,7 +213,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.813621
+          "relevance_score": 0.832544
         },
         {
           "topic": "economy_macro",
@@ -181,7 +248,7 @@
           "symbol": "BLDR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.429429,
+          "sentiment_score": -0.413756,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -193,7 +260,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.919345
+          "relevance_score": 0.947531
         },
         {
           "topic": "real_estate",
@@ -1049,49 +1116,6 @@
           "headline": "Citizens Bank raises prime lending rate to 7.00 percent By Investing.com",
           "url": "https://ca.investing.com/news/stock-market-news/citizens-bank-raises-prime-lending-rate-to-700-percent-93CH-4842546",
           "published_at": "2026-09-16T21:49:22"
-        }
-      ]
-    },
-    {
-      "event_id": 1217,
-      "title": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
-      "summary": "Illinois American Water has completed the acquisition of the City of Venice wastewater collection system for $770,000, adding approximately 500 customers to its Metro East operations. The company plans to invest $2.6 million in capital improvements over the next five years, including rehabilitation of wastewater mains and lift station upgrades. This acquisition follows over 140 years of Illinois American Water providing water services to Venice, now expanding to full wastewater collection, transportation, and treatment services.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-16T21:24:44",
-      "first_seen_at": "2026-09-16T23:00:02.121233",
-      "assets": [
-        {
-          "symbol": "AWK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.449548,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.933205
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733791
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1345,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/illinois-american-water-completes-venice-wastewater-acquisition-93CH-4842527",
-          "published_at": "2026-09-16T21:24:44"
         }
       ]
     }
