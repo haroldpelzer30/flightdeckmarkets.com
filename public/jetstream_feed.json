@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1231,
+      "title": "Vivani Medical announces anticipated October closing of Cortigent merger with ClearOne",
+      "summary": "Vivani Medical (NASDAQ:VANI) expects the merger of its subsidiary Cortigent, Inc. with ClearOne, Inc. (NASDAQ:CLRO) to close in October 2026. The transaction will make Cortigent a wholly owned subsidiary of ClearOne. Vivani Medical will receive 12,500,000 shares of ClearOne common stock as part of the merger, which remains subject to customary closing conditions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-17T13:59:55",
+      "first_seen_at": "2026-09-17T15:00:02.204614",
+      "assets": [
+        {
+          "symbol": "CLRO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.292764,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.800167
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.735951
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.625278
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1362,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Vivani Medical announces anticipated October closing of Cortigent merger with ClearOne",
+          "url": "https://www.investing.com/news/sec-filings/vivani-medical-announces-anticipated-october-closing-of-cortigent-merger-with-clearone-93CH-4904504",
+          "published_at": "2026-09-17T13:59:55"
+        }
+      ]
+    },
+    {
+      "event_id": 1232,
+      "title": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
+      "summary": "ExxonMobil's annual energy outlook projects a slower decline in coal use and higher global carbon emissions by 2050 than previously forecast. The company now expects coal to comprise 15% of the world's energy mix by 2050, up from its prior projection, and global energy-related carbon dioxide emissions to reach 30 billion metric tons, significantly above the level needed to limit global temperature increases. This revised outlook, which informs Exxon's investment decisions, does not yet account for the Middle East conflict.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-17T13:04:36",
+      "first_seen_at": "2026-09-17T15:00:02.468088",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.296937,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.909788
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.835119
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1363,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Reuters",
+          "source_domain": "Reuters",
+          "headline": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
+          "url": "https://www.reuters.com/business/energy/exxon-raises-2050-global-emissions-forecast-sees-slower-coal-decline-2026-09-17/",
+          "published_at": "2026-09-17T13:04:36"
+        }
+      ]
+    },
+    {
       "event_id": 1229,
       "title": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
       "summary": "Alphabet's stock performance is increasingly driven by its Google Cloud segment rather than its traditional Search business. Google Cloud saw an 82% revenue growth and holds a $514 billion backlog, surpassing Alphabet's entire 2025 revenue, yet the stock trades at a significantly lower P/E ratio compared to competitors like Microsoft and Amazon. Analysts project a 50% upside for Alphabet, with a price target of $504.76, primarily fueled by the accelerating Cloud growth and its undervalued position in the market.",
@@ -20,7 +114,7 @@
           "symbol": "GOOG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.497678,
+          "sentiment_score": 0.460149,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,15 +122,15 @@
           "symbol": "GOOGL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.019186,
+          "sentiment_score": 0.031453,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "MSFT",
           "asset_class": null,
-          "relevance_score": 0.884,
-          "sentiment_score": 0.330919,
+          "relevance_score": 0.89952,
+          "sentiment_score": 0.339349,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,15 +138,15 @@
           "symbol": "AMZN",
           "asset_class": null,
           "relevance_score": 0.839755,
-          "sentiment_score": 0.339081,
+          "sentiment_score": 0.321053,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AXON",
           "asset_class": null,
-          "relevance_score": 0.562011,
-          "sentiment_score": 0.148668,
+          "relevance_score": 0.563611,
+          "sentiment_score": 0.111134,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -89,6 +183,57 @@
           "headline": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
           "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-catalyst-alphabet-stock-may-123002982.html",
           "published_at": "2026-09-17T12:30:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1234,
+      "title": "Why Did Cenovus Energy (TSX:CVE) Fall 3.599% on 16 September 2026?",
+      "summary": "Cenovus Energy Inc. (TSX:CVE) saw its shares decline by 3.599% on September 16, 2026, closing at C$45.53. This fall reflects the energy sector's sensitivity to crude oil prices, geopolitical events, and global supply-demand expectations. The company's integrated business model offers some diversification, but its performance remains closely tied to commodity market conditions and operational efficiencies.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-17T12:13:05",
+      "first_seen_at": "2026-09-17T15:00:03.096448",
+      "assets": [
+        {
+          "symbol": "CVE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.287693,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922829
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.80193
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.748208
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1366,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "Why Did Cenovus Energy (TSX:CVE) Fall 3.599% on 16 September 2026?",
+          "url": "https://kalkine.ca/news/energy/why-did-cenovus-energy-tsxcve-fall-3599-on-16-september-2026",
+          "published_at": "2026-09-17T12:13:05"
         }
       ]
     },
@@ -989,179 +1134,6 @@
           "headline": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
           "url": "https://247wallst.com/investing/2026/09/16/oil-producers-slide-as-crude-retreats-eog-resources-drops-6-conocophillips-and-occidental-petroleum-fall-5/",
           "published_at": "2026-09-16T16:03:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1197,
-      "title": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
-      "summary": "South Carolina Governor Henry McMaster has sent a letter to the Surface Transportation Board expressing support for the proposed merger between Union Pacific Railroad and Norfolk Southern Railway. McMaster highlighted the importance of a robust freight transportation network for South Carolina's economic growth and believes the merger will strengthen the state's role in commerce. Norfolk Southern's President and CEO, Mark George, thanked McMaster, noting that the merger will expand access to western markets and reinforce South Carolina's position as a global trade gateway.",
-      "event_type": "M&A",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 90,
-      "published_at": "2026-09-16T15:05:21",
-      "first_seen_at": "2026-09-16T17:00:01.820928",
-      "assets": [
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.491656,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 0.896523,
-          "sentiment_score": 0.337168,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.932277
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.841225
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.734671
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1321,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Progressive Railroading",
-          "source_domain": "Progressive Railroading",
-          "headline": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
-          "url": "https://www.progressiverailroading.com/class_is/news/South-Carolina-Gov-McMaster-voices-support-for-UP-NS-merger--77753",
-          "published_at": "2026-09-16T15:05:21"
-        }
-      ]
-    },
-    {
-      "event_id": 1198,
-      "title": "Valero Energy stock hits all-time high at 400.2 USD",
-      "summary": "Valero Energy's stock has reached an all-time high of $400.14, marking a 149.3% increase over the past year. This growth is attributed to strategic initiatives and favorable market conditions, with the company's financial health rated as \"GREAT\" by InvestingPro. Analysts from UBS and TD Cowen have raised their price targets for Valero, reflecting confidence in its refining margins and strong performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-16T14:46:32",
-      "first_seen_at": "2026-09-16T17:00:02.095170",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.480279,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.566306,
-          "sentiment_score": -0.306083,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948605
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.931435
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.926242
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.7209
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1322,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Valero Energy stock hits all-time high at 400.2 USD",
-          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-4002-usd-93CH-4904024",
-          "published_at": "2026-09-16T14:46:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1196,
-      "title": "Arabica Futures Jump to 13-Year Highs Amid Supply Concerns",
-      "summary": "Arabica coffee futures have reached 13-year highs, driven by supply concerns due to dry and hot weather forecasts in Brazil's main coffee-growing regions. This surge comes as damage to the 2025-2026 crop is already anticipated, coinciding with high demand for Arabica due to Robusta shortages and rising prices. A softer US dollar is providing additional support, though traders attribute the rally primarily to fundamental supply issues.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-16T14:35:00",
-      "first_seen_at": "2026-09-16T16:00:02.454370",
-      "assets": [
-        {
-          "symbol": "ICE",
-          "asset_class": null,
-          "relevance_score": 0.860988,
-          "sentiment_score": 0.334064,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SBUX",
-          "asset_class": null,
-          "relevance_score": 0.648498,
-          "sentiment_score": 0.349627,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SNEX",
-          "asset_class": null,
-          "relevance_score": 0.345542,
-          "sentiment_score": 0.004604,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.847733
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1320,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StoneX",
-          "source_domain": "StoneX",
-          "headline": "Arabica Futures Jump to 13-Year Highs Amid Supply Concerns",
-          "url": "https://www.stonex.com/en/insights/arabica-futures-jump-to-13-year-highs-amid-supply-concerns-1522702/",
-          "published_at": "2026-09-16T14:35:00"
         }
       ]
     }
