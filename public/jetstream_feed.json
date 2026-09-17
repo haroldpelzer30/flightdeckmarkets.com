@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1247,
+      "title": "Uranium Royalty Corp. (NASDAQ: UROY) Reports 1530% Net Income Increase to $16.3M Following Sweetwater Acquisition",
+      "summary": "Uranium Royalty Corp. (NASDAQ: UROY) announced a significant financial upturn, reporting a 1530% increase in net income to $16.3 million for the quarter ending July 31, 2026, with diluted EPS rising 900% to $0.10. This growth is largely attributed to $51.0 million in uranium sales, which partially funded the recent Sweetwater acquisition. The company also highlighted ongoing oil and gas exploration on Sweetwater lands and reaffirmed production guidance from partners like Cameco and Paladin Energy.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-17T18:00:18",
+      "first_seen_at": "2026-09-17T19:00:02.442862",
+      "assets": [
+        {
+          "symbol": "UROY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.406468,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CME",
+          "asset_class": null,
+          "relevance_score": 0.648794,
+          "sentiment_score": 0.10743,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922613
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.82085
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1379,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Uranium Royalty Corp. (NASDAQ: UROY) Reports 1530% Net Income Increase to $16.3M Following Sweetwater Acquisition",
+          "url": "https://kalkinemedia.com/us/news/announcements/uranium-royalty-corp-nasdaq-uroy-reports-1530-net-income-increase-to-163m-following-sweetwater-acquisition",
+          "published_at": "2026-09-17T18:00:18"
+        }
+      ]
+    },
+    {
       "event_id": 1244,
       "title": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
       "summary": "Gladstone Investment Corporation provided additional capital to its portfolio company Global GRAB Technologies, Inc. to facilitate the acquisition of Barrier1 Systems, LLC. This acquisition expands Global GRAB’s perimeter security product offerings and adds U.S.-based manufacturing capabilities. Barrier1 specializes in anti-ram vehicle barrier systems, complementing Global GRAB's existing solutions for critical infrastructure security.",
@@ -20,7 +71,7 @@
           "symbol": "GAIN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.448951,
+          "sentiment_score": 0.449695,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -52,6 +103,69 @@
       ]
     },
     {
+      "event_id": 1249,
+      "title": "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+      "summary": "Automaker stocks, including General Motors, Stellantis, Ford, and Tesla, all saw significant gains Thursday morning due to a rotation into cyclical stocks, rather than company-specific news. This movement indicates investors are betting on softer interest rates and steadier consumer confidence, driving capital towards vehicle manufacturers. However, this type of rotation-driven bid can be indifferent to individual company performance and may reverse without a fundamental catalyst.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-17T17:02:20",
+      "first_seen_at": "2026-09-17T19:00:02.951956",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.416973,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.911991,
+          "sentiment_score": 0.38867,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.828566,
+          "sentiment_score": 0.360453,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930255
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.813621
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.632265
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1381,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+          "url": "https://247wallst.com/investing/2026/09/17/automaker-stocks-rally-as-rotation-lifts-cyclicals-general-motors-climbs-4-stellantis-rises-4-ford-gains-3-tesla-adds-2/",
+          "published_at": "2026-09-17T17:02:20"
+        }
+      ]
+    },
+    {
       "event_id": 1245,
       "title": "Builders FirstSource stock hits 52-week low at 58.13 USD",
       "summary": "Builders FirstSource (BLDR) stock has dropped to a 52-week low of $58.13, a 54% decline from its high, placing it on InvestingPro's Most Undervalued list despite management's aggressive share buybacks. The company reported lower-than-expected Q2 2026 earnings due to a weak housing market and increased costs, and recently saw a leadership change with Gayatri Narayan's departure. Citizens initiated coverage with a \"Market Perform\" rating, citing concerns over declining single-family housing starts.",
@@ -67,7 +181,7 @@
           "symbol": "BLDR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.439168,
+          "sentiment_score": -0.429429,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -83,7 +197,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.801928
+          "relevance_score": 0.845263
         },
         {
           "topic": "economy_macro",
@@ -118,7 +232,7 @@
           "symbol": "MLM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.229999,
+          "sentiment_score": -0.192837,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -126,7 +240,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.935803
+          "relevance_score": 0.946921
         },
         {
           "topic": "earnings",
@@ -134,7 +248,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.811248
+          "relevance_score": 0.837326
         },
         {
           "topic": "real_estate",
@@ -978,112 +1092,6 @@
           "headline": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
           "url": "https://ca.investing.com/news/stock-market-news/illinois-american-water-completes-venice-wastewater-acquisition-93CH-4842527",
           "published_at": "2026-09-16T21:24:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1214,
-      "title": "Flag Ship Acquisition to merge with Bluechip in $400m deal",
-      "summary": "Flag Ship Acquisition Corporation announced a merger agreement with Bluechip & Co. Holdings, valuing Bluechip at $400 million. Bluechip, a Cayman Islands company offering insurance-related services, financial education, and AI-driven advertising, will become a wholly-owned subsidiary of the combined entity. The deal involves Bluechip shareholders receiving 40 million ordinary shares and requires approvals from shareholders and regulatory bodies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-16T21:09:36",
-      "first_seen_at": "2026-09-16T22:00:02.037279",
-      "assets": [
-        {
-          "symbol": "FSHPU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.397805,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.821806
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.741216
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1341,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Flag Ship Acquisition to merge with Bluechip in $400m deal",
-          "url": "https://in.investing.com/news/stock-market-news/flag-ship-acquisition-to-merge-with-bluechip-in-400m-deal-93CH-5594222",
-          "published_at": "2026-09-16T21:09:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1219,
-      "title": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
-      "summary": "JPMorgan CEO Jamie Dimon stated he is not convinced inflation has been \"slayed\" yet, despite the Federal Reserve's recent interest rate hike. He warned businesses to prepare for interest rate volatility due to persistent inflation, global deficits, and high demand for capital, but does not foresee an imminent downturn, citing low unemployment and corporate profitability. Dimon emphasized that the labor market is the most critical indicator for broader economic stress.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "CRITICAL",
-      "intelligence_score": 75,
-      "published_at": "2026-09-16T21:08:23",
-      "first_seen_at": "2026-09-16T23:00:02.618694",
-      "assets": [
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.243648,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.633099,
-          "sentiment_score": 0.108343,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.942883
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831384
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.740287
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.725002
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1347,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
-          "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html",
-          "published_at": "2026-09-16T21:08:23"
         }
       ]
     }
