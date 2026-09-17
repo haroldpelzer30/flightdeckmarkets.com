@@ -5,6 +5,165 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1221,
+      "title": "Pennant Acquires Real Estate of Mainplace Senior Living in Orange, California",
+      "summary": "The Pennant Group, Inc. has acquired the real estate of Mainplace Senior Living in Orange, California, effective September 3, 2026. A Pennant affiliated subsidiary had operated Mainplace under a triple-net lease since 2019. This acquisition is part of Pennant's strategy to deploy capital in senior living real estate at attractive pricing, aiming to capture long-term value and enhance operating stability.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-16T22:57:51",
+      "first_seen_at": "2026-09-17T00:00:02.548860",
+      "assets": [
+        {
+          "symbol": "PNTG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.423222,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.912845
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.717388
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.70561
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1351,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Pennant Group acquires senior living property in California",
+          "url": "https://www.investing.com/news/company-news/pennant-group-acquires-senior-living-property-in-california-93CH-4904536",
+          "published_at": "2026-09-16T20:57:50"
+        },
+        {
+          "article_id": 1350,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Pennant Group acquires senior living property in California By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/pennant-group-acquires-senior-living-property-in-california-93CH-4842475",
+          "published_at": "2026-09-16T20:57:51"
+        },
+        {
+          "article_id": 1349,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Manila Times",
+          "source_domain": "The Manila Times",
+          "headline": "Pennant Acquires Real Estate of Mainplace Senior Living in Orange, California",
+          "url": "https://www.manilatimes.net/2026/09/17/tmt-newswire/globenewswire/pennant-acquiresreal-estate-of-mainplace-senior-living-in-orange-california/2427020/amp",
+          "published_at": "2026-09-16T22:57:51"
+        }
+      ]
+    },
+    {
+      "event_id": 1222,
+      "title": "[U.S. Stocks] Dow Inc falls for third straight session, dropping more than $900 at one point amid concerns over persistent inflation (16th) [Replacement]",
+      "summary": "Dow Inc. experienced its third consecutive session of declines, with shares falling significantly, at one point by over $900. This downturn is attributed to ongoing concerns about persistent inflation. The stock's performance reflects broader market anxieties regarding economic conditions.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 79,
+      "published_at": "2026-09-16T21:54:20",
+      "first_seen_at": "2026-09-17T00:00:02.977088",
+      "assets": [
+        {
+          "symbol": "DOW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.457574,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.90945
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.848835
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1352,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Moomoo",
+          "source_domain": "Moomoo",
+          "headline": "[U.S. Stocks] Dow Inc falls for third straight session, dropping more than $900 at one point amid concerns over persistent inflation (16th) [Replacement]",
+          "url": "https://www.moomoo.com/news/post/76361971/us-stocks-dow-inc-falls-for-third-straight-session-dropping",
+          "published_at": "2026-09-16T21:54:20"
+        }
+      ]
+    },
+    {
+      "event_id": 1223,
+      "title": "Citizens Bank raises prime lending rate to 7.00 percent By Investing.com",
+      "summary": "Citizens Bank, N.A. has increased its prime lending rate to 7.00 percent from 6.75 percent, effective Thursday. This 25 basis point rise serves as a benchmark for various consumer and commercial loan products. Citizens Financial Group, Inc. (NYSE:CFG) reported assets of $233.8 billion as of June 30, 2026, operating approximately 1,000 branches across 14 states and the District of Columbia.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-16T21:49:22",
+      "first_seen_at": "2026-09-17T00:00:03.257006",
+      "assets": [
+        {
+          "symbol": "CFG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.129999,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.906323
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.804704
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.601904
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1353,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Citizens Bank raises prime lending rate to 7.00 percent By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/citizens-bank-raises-prime-lending-rate-to-700-percent-93CH-4842546",
+          "published_at": "2026-09-16T21:49:22"
+        }
+      ]
+    },
+    {
       "event_id": 1217,
       "title": "Illinois American Water completes Venice wastewater acquisition By Investing.com",
       "summary": "Illinois American Water has completed the acquisition of the City of Venice wastewater collection system for $770,000, adding approximately 500 customers to its Metro East operations. The company plans to invest $2.6 million in capital improvements over the next five years, including rehabilitation of wastewater mains and lift station upgrades. This acquisition follows over 140 years of Illinois American Water providing water services to Venice, now expanding to full wastewater collection, transportation, and treatment services.",
@@ -20,7 +179,7 @@
           "symbol": "AWK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.421514,
+          "sentiment_score": 0.449548,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -63,7 +222,7 @@
           "symbol": "FSHPU",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.425797,
+          "sentiment_score": 0.397805,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -79,7 +238,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.727125
+          "relevance_score": 0.741216
         }
       ],
       "articles": [
@@ -110,15 +269,15 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.248088,
+          "sentiment_score": -0.243648,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "COIN",
           "asset_class": null,
-          "relevance_score": 0.62393,
-          "sentiment_score": 0.147324,
+          "relevance_score": 0.633099,
+          "sentiment_score": 0.108343,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -126,7 +285,7 @@
       "topics": [
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.921952
+          "relevance_score": 0.942883
         },
         {
           "topic": "financial_markets",
@@ -138,7 +297,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.70161
+          "relevance_score": 0.725002
         }
       ],
       "articles": [
@@ -1002,191 +1161,6 @@
           "headline": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
           "url": "https://finance.yahoo.com/healthcare/articles/idexx-laboratories-acquires-covetai-advance-110000018.html",
           "published_at": "2026-09-16T10:55:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1186,
-      "title": "First Solar to Withdraw Section 337 Complaint After Recent US Section 232 Action on Polysilicon, Derivatives",
-      "summary": "First Solar announced its intention to withdraw a Section 337 complaint following recent US Section 232 action on polysilicon and its derivatives. This decision comes after the US Commerce Department finalized steep duties on solar imports from India, Indonesia, and Laos. The article also includes recent analyst ratings and price target adjustments for First Solar.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-16T10:17:46",
-      "first_seen_at": "2026-09-16T12:00:02.794274",
-      "assets": [
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.336788,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940152
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.938403
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844583
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.710193
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.643007
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1309,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "First Solar to Withdraw Section 337 Complaint After Recent US Section 232 Action on Polysilicon, Derivatives",
-          "url": "https://www.marketscreener.com/news/first-solar-to-withdraw-section-337-complaint-after-recent-us-section-232-action-on-polysilicon-der-ce785bd2da80f120",
-          "published_at": "2026-09-16T10:17:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1187,
-      "title": "Why is Union Pacific stock rallying today? By Investing.com",
-      "summary": "Union Pacific (UNP) stock rallied 2.3% in pre-market trading after UBS upgraded the railroad giant from Neutral to Buy, raising its price target to $339 from $310. The upgrade was driven by expectations of compelling volume growth, particularly in intermodal, and earnings estimates significantly above Wall Street consensus. Additional factors contributing to the rally include an upcoming management presentation at a Morgan Stanley conference and the ongoing proposed merger with Norfolk Southern.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-16T10:04:23",
-      "first_seen_at": "2026-09-16T12:00:03.109663",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.416558,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CSX",
-          "asset_class": null,
-          "relevance_score": 0.634325,
-          "sentiment_score": 0.120791,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.627779,
-          "sentiment_score": 0.135229,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935667
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.818363
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.726702
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.642019
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.613207
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1310,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Why is Union Pacific stock rallying today? By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/why-is-union-pacific-stock-rallying-today-93CH-4841319",
-          "published_at": "2026-09-16T10:04:23"
-        }
-      ]
-    },
-    {
-      "event_id": 1188,
-      "title": "Dollar General Sees Shopper Pressure Persisting, Bets on Value and Delivery Growth",
-      "summary": "Dollar General anticipates continued pressure on shoppers through late 2026 due to inflation and high fuel costs, leading customers to make more frequent but smaller purchases. In response, the company is focusing on value offerings, expanding its delivery services, and aiming for long-term targets of 2-3% same-store sales growth and 6-7% operating margin by 2028. CEO Todd Vasos plans to step down in January 2027, with JJ Fleeman named as his successor.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 68,
-      "published_at": "2026-09-16T10:02:55",
-      "first_seen_at": "2026-09-16T12:00:03.436045",
-      "assets": [
-        {
-          "symbol": "DG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.138642,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DLTR",
-          "asset_class": null,
-          "relevance_score": 0.629811,
-          "sentiment_score": 0.138102,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938267
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.843594
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.816016
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1311,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Dollar General Sees Shopper Pressure Persisting, Bets on Value and Delivery Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
-          "published_at": "2026-09-16T10:02:55"
         }
       ]
     }
