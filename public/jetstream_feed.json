@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1264,
+      "title": "AI cycle will not be slowed by rate hikes, says Morgan Stanley's Lisa Shalett",
+      "summary": "Lisa Shalett, CIO at Morgan Stanley Wealth Management, asserts that the AI cycle will not be hampered by recent interest rate hikes. She discussed this perspective on 'Closing Bell' following the latest Federal Open Market Committee (FOMC) decision, providing insights into the equity markets' direction.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 79,
+      "published_at": "2026-09-17T19:57:05",
+      "first_seen_at": "2026-09-17T22:00:02.364253",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.311066,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS-P-K",
+          "asset_class": null,
+          "relevance_score": 0.310377,
+          "sentiment_score": 0.017234,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.946635
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826787
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.736408
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.638378
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.609444
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1396,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "AI cycle will not be slowed by rate hikes, says Morgan Stanley's Lisa Shalett",
+          "url": "https://www.cnbc.com/video/2026/09/17/ai-cycle-will-not-be-slowed-by-rate-hikes-says-morgan-stanleys-lisa-shalett.html",
+          "published_at": "2026-09-17T19:57:05"
+        }
+      ]
+    },
+    {
       "event_id": 1257,
       "title": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
       "summary": "As consumer confidence declines, investors may seek resilient stocks. Procter & Gamble (PG) is presented as a strong candidate due to its 70-year history of dividend increases, well-funded dividends, and diversified portfolio of essential consumer staples. Its current stock price is down from its 52-week high, making its dividend yield attractive for income-oriented investors.",
@@ -20,7 +83,7 @@
           "symbol": "PG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.346517,
+          "sentiment_score": 0.325519,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +91,7 @@
           "symbol": "NFLX",
           "asset_class": null,
           "relevance_score": 0.642114,
-          "sentiment_score": 0.336288,
+          "sentiment_score": 0.336736,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,7 +99,7 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.639815,
-          "sentiment_score": 0.339757,
+          "sentiment_score": 0.336434,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -48,7 +111,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.810673
+          "relevance_score": 0.841716
         },
         {
           "topic": "retail_wholesale",
@@ -87,7 +150,7 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.138616,
+          "sentiment_score": -0.117379,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -103,7 +166,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.702065
+          "relevance_score": 0.722665
         }
       ],
       "articles": [
@@ -134,7 +197,7 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.444971,
+          "sentiment_score": 0.407544,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -142,7 +205,7 @@
           "symbol": "LMT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.400398,
+          "sentiment_score": 0.413195,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -150,7 +213,7 @@
           "symbol": "GD",
           "asset_class": null,
           "relevance_score": 0.644009,
-          "sentiment_score": 0.306754,
+          "sentiment_score": 0.311387,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -162,7 +225,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.832271
+          "relevance_score": 0.838489
         },
         {
           "topic": "energy_transportation",
@@ -170,7 +233,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.633232
+          "relevance_score": 0.634171
         }
       ],
       "articles": [
@@ -201,7 +264,7 @@
           "symbol": "UROY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.440405,
+          "sentiment_score": 0.436586,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -209,7 +272,7 @@
           "symbol": "CME",
           "asset_class": null,
           "relevance_score": 0.648794,
-          "sentiment_score": 0.104857,
+          "sentiment_score": 0.133433,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -221,7 +284,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.824195
+          "relevance_score": 0.839074
         }
       ],
       "articles": [
@@ -1083,45 +1146,6 @@
           "headline": "Multidimensional Energy Pathways; The Resilience Imperative; and Stubborn Inflation",
           "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-17-2026",
           "published_at": "2026-09-17T11:02:39"
-        }
-      ]
-    },
-    {
-      "event_id": 1227,
-      "title": "UK watchdog starts review of Akzo Nobel’s planned Axalta acquisition By Investing.com",
-      "summary": "Britain’s Competition and Markets Authority (CMA) has initiated a review of Akzo Nobel’s proposed acquisition of Axalta Coating Systems. The initial review period began on September 17, with a decision on whether to proceed to a more extensive Phase 2 investigation expected by November 11. Shareholders of both companies have already approved the all-stock merger, which is anticipated to be completed in late 2026 to early 2027, pending regulatory approvals.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-17T08:06:02",
-      "first_seen_at": "2026-09-17T12:00:03.049074",
-      "assets": [
-        {
-          "symbol": "AXTA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.102054,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1357,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "UK watchdog starts review of Akzo Nobel’s planned Axalta acquisition By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/uk-watchdog-starts-review-of-akzo-nobels-planned-axalta-acquisition-93CH-4842805",
-          "published_at": "2026-09-17T08:06:02"
         }
       ]
     }
