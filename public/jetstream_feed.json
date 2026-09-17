@@ -20,7 +20,7 @@
           "symbol": "CLRO",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.292764,
+          "sentiment_score": 0.258985,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -32,7 +32,7 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.800167
+          "relevance_score": 0.840297
         },
         {
           "topic": "financial_markets",
@@ -56,6 +56,179 @@
       ]
     },
     {
+      "event_id": 1236,
+      "title": "Why Is PepsiCo (NASDAQ:PEP) in Focus Today?",
+      "summary": "PepsiCo (NASDAQ:PEP) is in focus today as markets adjust to a central bank rate increase, shifting the trading landscape to be more selective. The company's performance is being evaluated based on cash distribution consistency, brand durability, pricing discipline, and demand resilience within the dividend stocks category. The article emphasizes that company-level execution and strong demand signals are crucial in this new rate-sensitive environment, rather than broad market narratives.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-17T13:52:03",
+      "first_seen_at": "2026-09-17T16:00:03.310826",
+      "assets": [
+        {
+          "symbol": "PEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.095656,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 0.561057,
+          "sentiment_score": -0.063669,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911922
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.804167
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.704856
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.626918
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1368,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is PepsiCo (NASDAQ:PEP) in Focus Today?",
+          "url": "https://kalkinemedia.com/us/stocks/dividend/why-is-pepsico-nasdaqpep-in-focus-today",
+          "published_at": "2026-09-17T13:52:03"
+        }
+      ]
+    },
+    {
+      "event_id": 1237,
+      "title": "What Is Moving Verizon Communications (NYSE:VZ) Today?",
+      "summary": "Verizon Communications (NYSE:VZ) is in focus today due to a fresh market reset driven by interest rate changes, making the communication stocks sector more selective. The company's performance will depend on market updates confirming steady demand and disciplined execution, with attention on subscriber trends, network quality, pricing, and cash generation. The broader market context emphasizes company-level execution amidst general market weakness and evolving financing conditions.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-17T13:51:12",
+      "first_seen_at": "2026-09-17T16:00:03.558791",
+      "assets": [
+        {
+          "symbol": "VZ",
+          "asset_class": null,
+          "relevance_score": 0.30564,
+          "sentiment_score": 0.021768,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921903
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.825237
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.741125
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1369,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "What Is Moving Verizon Communications (NYSE:VZ) Today?",
+          "url": "https://kalkinemedia.com/us/stocks/communication/what-is-moving-verizon-communications-nysevz-today",
+          "published_at": "2026-09-17T13:51:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1238,
+      "title": "Jim Cramer Says Defense Giant Still Too Expensive, Despite $22.9 Billion Tomahawk Missile Deal",
+      "summary": "Despite RTX (Raytheon Technologies) landing a massive $22.9 billion Tomahawk missile deal and having a $289 billion backlog, Jim Cramer believes the stock is still too expensive. He argues that in a rate-hiking environment, the company's high P/E multiple (around 27x or 34x trailing earnings) needs to compress further, leading to more short-term pain for investors. While acknowledging the strong fundamentals and recent contract wins, Cramer emphasizes that the higher discount rates imposed by the Federal Reserve will continue to pressure the stock's valuation.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-17T13:38:08",
+      "first_seen_at": "2026-09-17T16:00:03.770161",
+      "assets": [
+        {
+          "symbol": "RTX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.303506,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NOC",
+          "asset_class": null,
+          "relevance_score": 0.607962,
+          "sentiment_score": 0.210435,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LMT",
+          "asset_class": null,
+          "relevance_score": 0.606685,
+          "sentiment_score": 0.214909,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921185
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.843011
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.819803
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.609028
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1370,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Jim Cramer Says Defense Giant Still Too Expensive, Despite $22.9 Billion Tomahawk Missile Deal",
+          "url": "https://247wallst.com/investing/2026/09/17/jim-cramer-says-defense-giant-still-too-expensive-despite-22-9-billion-tomahawk-missile-deal/",
+          "published_at": "2026-09-17T13:38:08"
+        }
+      ]
+    },
+    {
       "event_id": 1232,
       "title": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
       "summary": "ExxonMobil's annual energy outlook projects a slower decline in coal use and higher global carbon emissions by 2050 than previously forecast. The company now expects coal to comprise 15% of the world's energy mix by 2050, up from its prior projection, and global energy-related carbon dioxide emissions to reach 30 billion metric tons, significantly above the level needed to limit global temperature increases. This revised outlook, which informs Exxon's investment decisions, does not yet account for the Middle East conflict.",
@@ -71,7 +244,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.296937,
+          "sentiment_score": -0.264983,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -79,7 +252,7 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.909788
+          "relevance_score": 0.930161
         },
         {
           "topic": "economy_macro",
@@ -95,6 +268,53 @@
           "headline": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
           "url": "https://www.reuters.com/business/energy/exxon-raises-2050-global-emissions-forecast-sees-slower-coal-decline-2026-09-17/",
           "published_at": "2026-09-17T13:04:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1240,
+      "title": "Erik Lind Sells 30,000 Shares of DHT (NYSE:DHT) Stock",
+      "summary": "DHT Holdings Director Erik Lind sold 30,000 shares of DHT stock for $673,800, reducing his stake by 18.48%. This sale follows the company's strong quarterly results, with EPS exceeding estimates and revenue increasing significantly. DHT also raised its quarterly dividend, offering an attractive yield despite a high payout ratio.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-17T12:59:37",
+      "first_seen_at": "2026-09-17T16:00:04.229517",
+      "assets": [
+        {
+          "symbol": "DHT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.143745,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945852
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.825971
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1372,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Erik Lind Sells 30,000 Shares of DHT (NYSE:DHT) Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-erik-lind-sells-30000-shares-of-dht-nyse-dht-stock-2026-09-17/",
+          "published_at": "2026-09-17T12:59:37"
         }
       ]
     },
@@ -909,231 +1129,6 @@
           "headline": "JPMorgan Sees ‘Nothing Flashing Red’ In US Economy",
           "url": "https://www.benzinga.com/markets/large-cap/26/09/61822864/jpmorgan-sees-nothing-flashing-red-in-us-economy",
           "published_at": "2026-09-16T16:55:31"
-        }
-      ]
-    },
-    {
-      "event_id": 1210,
-      "title": "ConocoPhillips Stock Falls as Oil Prices Retreat",
-      "summary": "ConocoPhillips (NYSE: COP) shares dropped due to retreating crude prices, driven by eased Saudi supply concerns and a smaller-than-expected drawdown in U.S. crude inventories. Brent and WTI crude prices fell significantly after reports of Saudi Arabia rerouting oil to Asia and the Energy Information Administration disclosing a modest reduction in domestic stockpiles. This combination of factors made ConocoPhillips one of the weakest performers among oil and gas exploration companies.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-16T16:54:33",
-      "first_seen_at": "2026-09-16T20:00:03.061485",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.44927,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.925999
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.824493
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.649793
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1336,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "ConocoPhillips Stock Falls as Oil Prices Retreat",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
-          "published_at": "2026-09-16T16:54:33"
-        }
-      ]
-    },
-    {
-      "event_id": 1200,
-      "title": "J.B. Hunt shares fall Wednesday after company warns of third quarter profit decline",
-      "summary": "J.B. Hunt Transport Services Inc. shares dropped 13% after the company warned of a 5% to 10% decline in third-quarter profits due to erratic fuel costs and increased driver expenses. Despite strong demand across segments, particularly in intermodal services, higher diesel costs and driver recruitment bonuses are expected to negatively impact the bottom line. The company noted that fuel surcharges might offset some costs, but rapid fuel price shifts make it difficult for the formula to keep pace.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-16T16:34:36",
-      "first_seen_at": "2026-09-16T18:00:01.907751",
-      "assets": [
-        {
-          "symbol": "JBHT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.403724,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941912
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.846173
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.746049
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1324,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Arkansas Democrat-Gazette",
-          "source_domain": "The Arkansas Democrat-Gazette",
-          "headline": "J.B. Hunt shares fall Wednesday after company warns of third quarter profit decline",
-          "url": "https://www.arkansasonline.com/news/2026/sep/16/jb-hunt-shares-fall-wednesday-after-company-warns/",
-          "published_at": "2026-09-16T16:34:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1201,
-      "title": "NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large",
-      "summary": "NextEra Energy's stock appears fairly priced according to a Dividend Discount Model, which values the company based on its dividend stream. The valuation considers recent dividends, payout ratio, and a projected long-term dividend growth rate of 3.7%, acknowledging the significant impact of the approved US$66.8 billion merger with Dominion Energy on future cash flows and payout capacity. The article also highlights bull and bear cases for NEE's future valuation, focusing on factors like demand growth from AI and data centers versus potential risks from phasing out tax credits and increased regulation.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 70,
-      "published_at": "2026-09-16T16:17:13",
-      "first_seen_at": "2026-09-16T18:00:02.155017",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.929522,
-          "sentiment_score": 0.139138,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94897
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.931083
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.837372
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.747829
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.624767
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1325,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-looks-161627191.html",
-          "published_at": "2026-09-16T16:17:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1202,
-      "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-      "summary": "Oil and gas producers, including EOG Resources, ConocoPhillips, and Occidental Petroleum, experienced significant stock drops as crude oil prices retreated. The sector-wide decline is attributed directly to falling crude prices, impacting exploration and production companies that own the barrels they sell, rather than any company-specific news. Despite the recent downturn, ConocoPhillips remains up 7% over the past month, suggesting the current slide is a partial pullback rather than a fundamental shift in business outlook.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-16T16:03:15",
-      "first_seen_at": "2026-09-16T18:00:02.435853",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.237743,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EOG",
-          "asset_class": null,
-          "relevance_score": 0.947418,
-          "sentiment_score": -0.214205,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "OXY",
-          "asset_class": null,
-          "relevance_score": 0.926933,
-          "sentiment_score": 0.019665,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94853
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943949
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.739425
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1327,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
-          "published_at": "2026-09-16T16:03:00"
-        },
-        {
-          "article_id": 1326,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://247wallst.com/investing/2026/09/16/oil-producers-slide-as-crude-retreats-eog-resources-drops-6-conocophillips-and-occidental-petroleum-fall-5/",
-          "published_at": "2026-09-16T16:03:15"
         }
       ]
     }
