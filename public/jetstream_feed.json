@@ -20,15 +20,15 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.311066,
+          "sentiment_score": 0.332786,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MS-P-K",
           "asset_class": null,
-          "relevance_score": 0.310377,
-          "sentiment_score": 0.017234,
+          "relevance_score": 0.336904,
+          "sentiment_score": 0.033382,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,11 +40,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.826787
+          "relevance_score": 0.836991
         },
         {
           "topic": "technology",
-          "relevance_score": 0.736408
+          "relevance_score": 0.743433
         },
         {
           "topic": "finance",
