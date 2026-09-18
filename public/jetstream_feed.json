@@ -10,9 +10,9 @@
       "summary": "This S&P Global Daily Update discusses three key topics: the increasing importance of corporate climate adaptation and resilience planning due to extreme weather, the ongoing debate about South Korea's market classification as either developed or emerging, and the intensifying race to develop and commercialize advanced nuclear reactors, driven by AI demand. The article also touches on recent economic trends like rising global goods trade and challenges facing European asset managers.",
       "event_type": "MARKET_NEWS",
       "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
+      "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 47,
+      "intelligence_score": 51,
       "published_at": "2026-09-18T11:02:33",
       "first_seen_at": "2026-09-18T12:00:02.593758",
       "assets": [
@@ -20,39 +20,39 @@
           "symbol": "SPGI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.145146,
+          "sentiment_score": 0.121539,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "CEG",
           "asset_class": null,
-          "relevance_score": 0.627522,
-          "sentiment_score": 0.165819,
+          "relevance_score": 0.632554,
+          "sentiment_score": 0.172378,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.609096,
-          "sentiment_score": 0.149872,
+          "relevance_score": 0.613923,
+          "sentiment_score": 0.144021,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "ENPH",
           "asset_class": null,
-          "relevance_score": 0.608925,
-          "sentiment_score": 0.181725,
+          "relevance_score": 0.611266,
+          "sentiment_score": 0.160666,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
-          "relevance_score": 0.554626,
-          "sentiment_score": 0.10396,
+          "relevance_score": 0.591887,
+          "sentiment_score": 0.146049,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -60,15 +60,15 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.821113
+          "relevance_score": 0.838582
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.819249
+          "relevance_score": 0.824847
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.701272
+          "relevance_score": 0.741886
         }
       ],
       "articles": [
@@ -99,7 +99,7 @@
           "symbol": "PM",
           "asset_class": null,
           "relevance_score": 0.963816,
-          "sentiment_score": 0.278019,
+          "sentiment_score": 0.283253,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -107,15 +107,15 @@
           "symbol": "AMAT",
           "asset_class": null,
           "relevance_score": 0.943405,
-          "sentiment_score": 0.452987,
+          "sentiment_score": 0.468799,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "VLO",
           "asset_class": null,
-          "relevance_score": 0.916011,
-          "sentiment_score": 0.427922,
+          "relevance_score": 0.931662,
+          "sentiment_score": 0.41072,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -127,19 +127,19 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.830325
+          "relevance_score": 0.836726
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.641565
         },
         {
           "topic": "energy_transportation",
           "relevance_score": 0.623969
         },
         {
-          "topic": "technology",
-          "relevance_score": 0.604626
-        },
-        {
           "topic": "economy_macro",
-          "relevance_score": 0.602171
+          "relevance_score": 0.606419
         }
       ],
       "articles": [
@@ -151,6 +151,81 @@
           "headline": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applied-100800550.html",
           "published_at": "2026-09-18T10:12:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1276,
+      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
+      "summary": "Zacks Investment Ideas highlights several stocks including NVIDIA, Advanced Micro Devices, Moderna, Super Micro Computer, and Aya Gold & Silver, noting their resilience despite market uncertainties in 2026. The article argues that while macroeconomic and geopolitical factors have caused fear, investor sentiment is overly negative, and historical data suggests potential for a strong market rally into year-end, especially for AI-related stocks. It emphasizes focusing on price action over news headlines and refutes overblown AI safety concerns.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-18T10:10:58",
+      "first_seen_at": "2026-09-18T13:00:03.185000",
+      "assets": [
+        {
+          "symbol": "SMCI",
+          "asset_class": null,
+          "relevance_score": 0.974508,
+          "sentiment_score": 0.43131,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.931122,
+          "sentiment_score": 0.415948,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.881305,
+          "sentiment_score": 0.372475,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MRNA",
+          "asset_class": null,
+          "relevance_score": 0.751915,
+          "sentiment_score": 0.314586,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917435
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.826292
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.747684
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.633391
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1408,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-101300743.html",
+          "published_at": "2026-09-18T10:10:58"
         }
       ]
     },
@@ -170,23 +245,23 @@
           "symbol": "RJF",
           "asset_class": null,
           "relevance_score": 0.943388,
-          "sentiment_score": 0.299731,
+          "sentiment_score": 0.269764,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DVN",
           "asset_class": null,
-          "relevance_score": 0.824476,
-          "sentiment_score": 0.324776,
+          "relevance_score": 0.840064,
+          "sentiment_score": 0.314733,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NRG",
           "asset_class": null,
-          "relevance_score": 0.756371,
-          "sentiment_score": 0.129773,
+          "relevance_score": 0.797272,
+          "sentiment_score": 0.111065,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -194,7 +269,7 @@
           "symbol": "CTRA",
           "asset_class": null,
           "relevance_score": 0.587122,
-          "sentiment_score": 0.142473,
+          "sentiment_score": 0.102715,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -210,11 +285,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.813602
+          "relevance_score": 0.815116
         },
         {
           "topic": "finance",
-          "relevance_score": 0.71818
+          "relevance_score": 0.732412
         }
       ],
       "articles": [
@@ -1146,49 +1221,6 @@
           "headline": "Jim Cramer Says Defense Giant Still Too Expensive, Despite $22.9 Billion Tomahawk Missile Deal",
           "url": "https://247wallst.com/investing/2026/09/17/jim-cramer-says-defense-giant-still-too-expensive-despite-22-9-billion-tomahawk-missile-deal/",
           "published_at": "2026-09-17T13:38:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1232,
-      "title": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
-      "summary": "ExxonMobil's annual energy outlook projects a slower decline in coal use and higher global carbon emissions by 2050 than previously forecast. The company now expects coal to comprise 15% of the world's energy mix by 2050, up from its prior projection, and global energy-related carbon dioxide emissions to reach 30 billion metric tons, significantly above the level needed to limit global temperature increases. This revised outlook, which informs Exxon's investment decisions, does not yet account for the Middle East conflict.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-17T13:04:36",
-      "first_seen_at": "2026-09-17T15:00:02.468088",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.264983,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930161
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.835119
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1363,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Reuters",
-          "source_domain": "Reuters",
-          "headline": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
-          "url": "https://www.reuters.com/business/energy/exxon-raises-2050-global-emissions-forecast-sees-slower-coal-decline-2026-09-17/",
-          "published_at": "2026-09-17T13:04:36"
         }
       ]
     }
