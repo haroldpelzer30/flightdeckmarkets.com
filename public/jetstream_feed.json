@@ -5,6 +5,128 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1294,
+      "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+      "summary": "Solar stocks, including Enphase Energy, First Solar, and Sunrun, experienced significant drops after the Federal Reserve's first interest rate hike in three years. This increase directly impacts residential solar financing demand, as most home solar systems are financed rather than bought outright. While the broader market remained relatively stable, the concentrated sell-off in the solar sector highlights its sensitivity to borrowing costs and the rate path.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-18T17:01:10",
+      "first_seen_at": "2026-09-18T18:00:02.262879",
+      "assets": [
+        {
+          "symbol": "RUN",
+          "asset_class": null,
+          "relevance_score": 0.315706,
+          "sentiment_score": 0.003905,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.948315
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.81565
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.717772
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1426,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+          "url": "https://247wallst.com/investing/2026/09/18/enphase-energy-drops-5-as-solar-selling-resumes-first-solar-and-sunrun-fall-4/",
+          "published_at": "2026-09-18T17:01:10"
+        }
+      ]
+    },
+    {
+      "event_id": 1295,
+      "title": "Nevada: Las Vegas room rates still soft, survey shows",
+      "summary": "A recent Truist Securities report indicates that Las Vegas hotel room rates continue to be soft, particularly for MGM Resorts International and Caesars Entertainment, while Wynn Resorts is outperforming due to the Las Vegas Grand Prix. The report details significant rate declines for the third quarter and September, especially for midweek stays and lower-tier rooms. Despite some encouraging October numbers tied to NFL games, November advance bookings show a mixed picture, with Wynn strong but MGM and Caesars still struggling.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-18T16:03:04",
+      "first_seen_at": "2026-09-18T18:00:02.511441",
+      "assets": [
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 0.959479,
+          "sentiment_score": -0.276952,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 0.878357,
+          "sentiment_score": -0.302503,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WYNN",
+          "asset_class": null,
+          "relevance_score": 0.802181,
+          "sentiment_score": 0.433724,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TFC",
+          "asset_class": null,
+          "relevance_score": 0.598814,
+          "sentiment_score": 0.079137,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945315
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.840412
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.63369
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.61212
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1427,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CDC Gaming",
+          "source_domain": "CDC Gaming",
+          "headline": "Nevada: Las Vegas room rates still soft, survey shows",
+          "url": "https://cdcgaming.com/nevada-las-vegas-room-rates-still-soft-survey-shows/",
+          "published_at": "2026-09-18T16:03:04"
+        }
+      ]
+    },
+    {
       "event_id": 1285,
       "title": "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
       "summary": "Automaker stocks, including Stellantis, General Motors, and Ford, experienced a reversal on Friday morning, giving back gains from a Thursday rotation rally. Stellantis and GM each fell 4%, while Ford pulled back 2%, as the cyclical trade unwound without any company-specific news. This decline mirrors Thursday's rally in reverse, with all three automakers falling faster than the consumer discretionary sector and the broader market.",
@@ -20,15 +142,15 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.281569,
+          "sentiment_score": -0.287247,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "F",
           "asset_class": null,
-          "relevance_score": 0.91754,
-          "sentiment_score": -0.206682,
+          "relevance_score": 0.93846,
+          "sentiment_score": -0.237206,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -71,7 +193,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.109149,
+          "sentiment_score": 0.13994,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -79,7 +201,7 @@
           "symbol": "XOM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.416979,
+          "sentiment_score": 0.40525,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -87,23 +209,23 @@
           "symbol": "TRGP",
           "asset_class": null,
           "relevance_score": 0.648371,
-          "sentiment_score": 0.304024,
+          "sentiment_score": 0.303834,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AMAT",
           "asset_class": null,
-          "relevance_score": 0.625201,
-          "sentiment_score": 0.334759,
+          "relevance_score": 0.638226,
+          "sentiment_score": 0.324601,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "LRCX",
           "asset_class": null,
-          "relevance_score": 0.614228,
-          "sentiment_score": 0.306479,
+          "relevance_score": 0.637397,
+          "sentiment_score": 0.344793,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -111,11 +233,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.932949
+          "relevance_score": 0.949771
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.904884
+          "relevance_score": 0.944057
         },
         {
           "topic": "financial_markets",
@@ -1111,104 +1233,6 @@
           "headline": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
           "url": "https://wtvbam.com/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
           "published_at": "2026-09-17T18:25:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1247,
-      "title": "Uranium Royalty Corp. (NASDAQ: UROY) Reports 1530% Net Income Increase to $16.3M Following Sweetwater Acquisition",
-      "summary": "Uranium Royalty Corp. (NASDAQ: UROY) announced a significant financial upturn, reporting a 1530% increase in net income to $16.3 million for the quarter ending July 31, 2026, with diluted EPS rising 900% to $0.10. This growth is largely attributed to $51.0 million in uranium sales, which partially funded the recent Sweetwater acquisition. The company also highlighted ongoing oil and gas exploration on Sweetwater lands and reaffirmed production guidance from partners like Cameco and Paladin Energy.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-17T18:00:18",
-      "first_seen_at": "2026-09-17T19:00:02.442862",
-      "assets": [
-        {
-          "symbol": "UROY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.436586,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CME",
-          "asset_class": null,
-          "relevance_score": 0.648794,
-          "sentiment_score": 0.133433,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.934727
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.839074
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1379,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Uranium Royalty Corp. (NASDAQ: UROY) Reports 1530% Net Income Increase to $16.3M Following Sweetwater Acquisition",
-          "url": "https://kalkinemedia.com/us/news/announcements/uranium-royalty-corp-nasdaq-uroy-reports-1530-net-income-increase-to-163m-following-sweetwater-acquisition",
-          "published_at": "2026-09-17T18:00:18"
-        }
-      ]
-    },
-    {
-      "event_id": 1244,
-      "title": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
-      "summary": "Gladstone Investment Corporation provided additional capital to its portfolio company Global GRAB Technologies, Inc. to facilitate the acquisition of Barrier1 Systems, LLC. This acquisition expands Global GRAB’s perimeter security product offerings and adds U.S.-based manufacturing capabilities. Barrier1 specializes in anti-ram vehicle barrier systems, complementing Global GRAB's existing solutions for critical infrastructure security.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-17T17:03:35",
-      "first_seen_at": "2026-09-17T18:00:01.814225",
-      "assets": [
-        {
-          "symbol": "GAIN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408003,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.841824
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.631408
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1376,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
-          "url": "https://www.investing.com/news/company-news/gladstone-investment-backs-global-grabs-barrier1-acquisition-93CH-4904538",
-          "published_at": "2026-09-17T17:03:35"
         }
       ]
     }
