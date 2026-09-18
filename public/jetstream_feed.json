@@ -20,7 +20,7 @@
           "symbol": "GM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.254567,
+          "sentiment_score": -0.281569,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 0.91754,
-          "sentiment_score": -0.234319,
+          "sentiment_score": -0.206682,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -56,6 +56,85 @@
       ]
     },
     {
+      "event_id": 1290,
+      "title": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
+      "summary": "This article compares the dividend durability of oil giants Chevron (CVX) and Exxon Mobil (XOM) for retirement investors. While Chevron currently offers a higher yield, Exxon Mobil is deemed more durable due to its stronger balance sheet, lower leverage, higher interest coverage, and a more integrated business model with significant cash flow from its Guyana assets. Exxon's longer track record of dividend increases through commodity downturns also gives it an edge in sustainability.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-18T14:42:39",
+      "first_seen_at": "2026-09-18T17:00:02.817196",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.109149,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.416979,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TRGP",
+          "asset_class": null,
+          "relevance_score": 0.648371,
+          "sentiment_score": 0.304024,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 0.625201,
+          "sentiment_score": 0.334759,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LRCX",
+          "asset_class": null,
+          "relevance_score": 0.614228,
+          "sentiment_score": 0.306479,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.932949
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.904884
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.842149
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1422,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
+          "url": "https://247wallst.com/investing/2026/09/18/chevron-vs-exxon-which-dividend-survives-the-downturn/",
+          "published_at": "2026-09-18T14:42:39"
+        }
+      ]
+    },
+    {
       "event_id": 1286,
       "title": "M&A Roundup: Lisata Therapeutics Acquires Marea Therapeutics, mAbxience Enters Collaboration with Sandoz",
       "summary": "Lisata Therapeutics has acquired Marea Therapeutics and secured $225 million in financing to advance clinical-stage drug candidates for cardioendocrine diseases. Concurrently, mAbxience and Sandoz have partnered to develop and commercialize an emicizumab biosimilar for hemophilia A, targeting a global market valued at approximately $5.7 billion. These deals aim to push late-stage programs and broaden patient access to biologic medicines.",
@@ -71,7 +150,7 @@
           "symbol": "LSTA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.49573,
+          "sentiment_score": 0.494741,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,11 +162,11 @@
         },
         {
           "topic": "life_sciences",
-          "relevance_score": 0.925586
+          "relevance_score": 0.932085
         },
         {
           "topic": "finance",
-          "relevance_score": 0.624129
+          "relevance_score": 0.639331
         }
       ],
       "articles": [
@@ -118,7 +197,7 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.208555,
+          "sentiment_score": 0.217862,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -126,7 +205,7 @@
           "symbol": "GEV",
           "asset_class": null,
           "relevance_score": 0.951614,
-          "sentiment_score": 0.485173,
+          "sentiment_score": 0.495621,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -134,7 +213,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 0.638993,
-          "sentiment_score": -0.116222,
+          "sentiment_score": -0.132938,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -142,7 +221,7 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.638858,
-          "sentiment_score": 0.144699,
+          "sentiment_score": 0.112134,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -158,11 +237,11 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.743608
+          "relevance_score": 0.74675
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.617821
+          "relevance_score": 0.634316
         },
         {
           "topic": "energy_transportation",
@@ -187,9 +266,9 @@
       "summary": "T-Mobile's substantial debt load is largely insulated from recent Federal Reserve rate hikes because most of its $86.9 billion debt consists of fixed-rate notes, not floating-rate debt. Only about $1 billion of its debt is tied to floating rates, making the common Wall Street calculation of a $212 million increase in annual interest largely misleading. The company's strong free cash flow, projected at $18.4 to $18.8 billion for 2026, further mitigates the impact of any incremental interest costs, positioning T-Mobile more favorably than some analysts suggest.",
       "event_type": "MONETARY_POLICY",
       "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 67,
+      "market_impact": "BULLISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 71,
       "published_at": "2026-09-18T13:36:15",
       "first_seen_at": "2026-09-18T15:00:01.761496",
       "assets": [
@@ -197,23 +276,23 @@
           "symbol": "TMUS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.222669,
+          "sentiment_score": 0.224803,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "T",
           "asset_class": null,
-          "relevance_score": 0.722603,
-          "sentiment_score": 0.115869,
+          "relevance_score": 0.733866,
+          "sentiment_score": 0.103239,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "VZ",
           "asset_class": null,
-          "relevance_score": 0.718355,
-          "sentiment_score": 0.12563,
+          "relevance_score": 0.720879,
+          "sentiment_score": 0.106793,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1130,69 +1209,6 @@
           "headline": "Gladstone Investment backs Global GRAB’s Barrier1 acquisition By Investing.com",
           "url": "https://www.investing.com/news/company-news/gladstone-investment-backs-global-grabs-barrier1-acquisition-93CH-4904538",
           "published_at": "2026-09-17T17:03:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1249,
-      "title": "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-      "summary": "Automaker stocks, including General Motors, Stellantis, Ford, and Tesla, all saw significant gains Thursday morning due to a rotation into cyclical stocks, rather than company-specific news. This movement indicates investors are betting on softer interest rates and steadier consumer confidence, driving capital towards vehicle manufacturers. However, this type of rotation-driven bid can be indifferent to individual company performance and may reverse without a fundamental catalyst.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-17T17:02:20",
-      "first_seen_at": "2026-09-17T19:00:02.951956",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.412674,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.918713,
-          "sentiment_score": 0.403351,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.843095,
-          "sentiment_score": 0.348927,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930255
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.832544
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.632265
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1381,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-          "url": "https://247wallst.com/investing/2026/09/17/automaker-stocks-rally-as-rotation-lifts-cyclicals-general-motors-climbs-4-stellantis-rises-4-ford-gains-3-tesla-adds-2/",
-          "published_at": "2026-09-17T17:02:20"
         }
       ]
     }
