@@ -5,6 +5,132 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1302,
+      "title": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter Acquires 5 Shares at $371.64 Each",
+      "summary": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter acquired 5 shares of the company stock at $371.64 each on September 15, 2026. This purchase increased his total reported holdings to 146,941 shares. The transaction was filed under SEC code P and represented a small fraction of his overall ownership.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-18T18:10:14",
+      "first_seen_at": "2026-09-18T20:00:02.672155",
+      "assets": [
+        {
+          "symbol": "TPL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.196939,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.902051
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.82415
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1434,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter Acquires 5 Shares at $371.64 Each",
+          "url": "https://kalkinemedia.com/us/news/announcements/texas-pacific-land-corp-nyse-tpl-director-doyle-peter-acquires-5-shares-at-37164-each",
+          "published_at": "2026-09-18T18:10:14"
+        }
+      ]
+    },
+    {
+      "event_id": 1303,
+      "title": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
+      "summary": "DTE Energy is positioned as a quiet beneficiary of the AI data center boom, securing significant contracts with hyperscalers like Oracle and Google, totaling 2.4 GW, with more in the pipeline. Despite recent stock pullbacks, management anticipates these deals to drive EPS growth above 8%. The article suggests DTE offers a lower-risk investment in the data center theme compared to others, given its regulated utility status and 3.5% dividend yield, despite potential regulatory and equity issuance challenges.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-18T17:50:26",
+      "first_seen_at": "2026-09-18T20:00:02.902178",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487793,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 0.835596,
+          "sentiment_score": 0.342934,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ORCL",
+          "asset_class": null,
+          "relevance_score": 0.745188,
+          "sentiment_score": 0.29121,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CMS",
+          "asset_class": null,
+          "relevance_score": 0.635972,
+          "sentiment_score": 0.129847,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DTK",
+          "asset_class": null,
+          "relevance_score": 0.347378,
+          "sentiment_score": 0.035946,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92837
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.922015
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810816
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.744478
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1435,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
+          "url": "https://247wallst.com/investing/2026/09/18/dte-could-be-one-of-the-quiet-winners-of-the-data-center-boom/",
+          "published_at": "2026-09-18T17:50:26"
+        }
+      ]
+    },
+    {
       "event_id": 1298,
       "title": "Major US summer sporting events projected to drive more than $537M in visitor spending, Expedia Group and PredictHQ research finds",
       "summary": "New research by Expedia Group and PredictHQ forecasts that major US summer sporting events, including basketball, baseball, tennis, golf, and hockey, were set to generate over $537 million in visitor spending across the United States, attracting more than 4 million attendees. New York was identified as a key destination, with events in the region projected to drive over $423 million in spending, and the research highlighted a growing spillover effect of sports tourism beyond host cities. The findings emphasize that major sporting events are significant drivers of event tourism, creating substantial opportunities for destinations and travel businesses, with many bookings made well in advance.",
@@ -12,7 +138,7 @@
       "market_scope": "BROAD_MARKET",
       "market_impact": "BULLISH",
       "importance": "LOW",
-      "intelligence_score": 49,
+      "intelligence_score": 45,
       "published_at": "2026-09-18T17:42:30",
       "first_seen_at": "2026-09-18T19:00:02.630098",
       "assets": [
@@ -20,23 +146,23 @@
           "symbol": "EXPE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.446463,
+          "sentiment_score": 0.429483,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "ABNB",
           "asset_class": null,
-          "relevance_score": 0.722271,
-          "sentiment_score": 0.348963,
+          "relevance_score": 0.723964,
+          "sentiment_score": 0.334931,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BKNG",
           "asset_class": null,
-          "relevance_score": 0.64265,
-          "sentiment_score": 0.31989,
+          "relevance_score": 0.643514,
+          "sentiment_score": 0.315256,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -44,11 +170,11 @@
       "topics": [
         {
           "topic": "economy_macro",
-          "relevance_score": 0.924724
+          "relevance_score": 0.946171
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.720117
+          "relevance_score": 0.732907
         },
         {
           "topic": "finance",
@@ -83,7 +209,7 @@
           "symbol": "RUN",
           "asset_class": null,
           "relevance_score": 0.33306,
-          "sentiment_score": 0.022346,
+          "sentiment_score": 0.049736,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -95,11 +221,11 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.833567
+          "relevance_score": 0.839902
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.717772
+          "relevance_score": 0.74528
         }
       ],
       "articles": [
@@ -130,7 +256,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.41123,
+          "sentiment_score": 0.426659,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -138,31 +264,31 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.731239,
-          "sentiment_score": 0.003506,
+          "sentiment_score": 0.020345,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GOOGL",
           "asset_class": null,
-          "relevance_score": 0.616049,
-          "sentiment_score": 0.035794,
+          "relevance_score": 0.646547,
+          "sentiment_score": 0.003767,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "COIN",
           "asset_class": null,
-          "relevance_score": 0.611857,
-          "sentiment_score": 0.006642,
+          "relevance_score": 0.646376,
+          "sentiment_score": 0.039126,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "D",
           "asset_class": null,
-          "relevance_score": 0.602579,
-          "sentiment_score": 0.014136,
+          "relevance_score": 0.626835,
+          "sentiment_score": 0.04901,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -170,23 +296,23 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.946403
+          "relevance_score": 0.948933
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.93365
         },
         {
           "topic": "earnings",
           "relevance_score": 0.927245
         },
         {
-          "topic": "finance",
-          "relevance_score": 0.908998
-        },
-        {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.803799
+          "relevance_score": 0.812618
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.618556
+          "relevance_score": 0.626972
         }
       ],
       "articles": [
@@ -216,8 +342,8 @@
         {
           "symbol": "MGM",
           "asset_class": null,
-          "relevance_score": 0.959479,
-          "sentiment_score": -0.266436,
+          "relevance_score": 0.99195,
+          "sentiment_score": -0.273842,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -225,15 +351,15 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 0.878357,
-          "sentiment_score": -0.30281,
+          "sentiment_score": -0.309213,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "WYNN",
           "asset_class": null,
-          "relevance_score": 0.806823,
-          "sentiment_score": 0.41024,
+          "relevance_score": 0.837085,
+          "sentiment_score": 0.429247,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -241,7 +367,7 @@
           "symbol": "TFC",
           "asset_class": null,
           "relevance_score": 0.598814,
-          "sentiment_score": 0.072239,
+          "sentiment_score": 0.08465,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -256,12 +382,12 @@
           "relevance_score": 0.840412
         },
         {
-          "topic": "real_estate",
-          "relevance_score": 0.63369
+          "topic": "financial_markets",
+          "relevance_score": 0.637127
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.61212
+          "topic": "real_estate",
+          "relevance_score": 0.63369
         }
       ],
       "articles": [
@@ -1139,136 +1265,6 @@
           "headline": "The Zacks Analyst Blog Highlights Regency Centers, Phillips Edison & Co, Tanger and Curbline Properties",
           "url": "https://finance.yahoo.com/real-estate/articles/zacks-analyst-blog-highlights-regency-083700896.html",
           "published_at": "2026-09-18T08:37:21"
-        }
-      ]
-    },
-    {
-      "event_id": 1264,
-      "title": "AI cycle will not be slowed by rate hikes, says Morgan Stanley's Lisa Shalett",
-      "summary": "Lisa Shalett, CIO at Morgan Stanley Wealth Management, asserts that the AI cycle will not be hampered by recent interest rate hikes. She discussed this perspective on 'Closing Bell' following the latest Federal Open Market Committee (FOMC) decision, providing insights into the equity markets' direction.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 79,
-      "published_at": "2026-09-17T19:57:05",
-      "first_seen_at": "2026-09-17T22:00:02.364253",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.332786,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS-P-K",
-          "asset_class": null,
-          "relevance_score": 0.336904,
-          "sentiment_score": 0.033382,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.946635
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836991
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.743433
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.638378
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.609444
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1396,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "AI cycle will not be slowed by rate hikes, says Morgan Stanley's Lisa Shalett",
-          "url": "https://www.cnbc.com/video/2026/09/17/ai-cycle-will-not-be-slowed-by-rate-hikes-says-morgan-stanleys-lisa-shalett.html",
-          "published_at": "2026-09-17T19:57:05"
-        }
-      ]
-    },
-    {
-      "event_id": 1257,
-      "title": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
-      "summary": "As consumer confidence declines, investors may seek resilient stocks. Procter & Gamble (PG) is presented as a strong candidate due to its 70-year history of dividend increases, well-funded dividends, and diversified portfolio of essential consumer staples. Its current stock price is down from its 52-week high, making its dividend yield attractive for income-oriented investors.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-17T19:01:14",
-      "first_seen_at": "2026-09-17T21:00:01.730804",
-      "assets": [
-        {
-          "symbol": "PG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.325519,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 0.642114,
-          "sentiment_score": 0.336736,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.639815,
-          "sentiment_score": 0.336434,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92684
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.841716
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.736255
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.611359
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1389,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Currently.com",
-          "source_domain": "Currently.com",
-          "headline": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
-          "url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190100459.html",
-          "published_at": "2026-09-17T19:01:14"
         }
       ]
     }
