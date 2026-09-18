@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1298,
+      "title": "Major US summer sporting events projected to drive more than $537M in visitor spending, Expedia Group and PredictHQ research finds",
+      "summary": "New research by Expedia Group and PredictHQ forecasts that major US summer sporting events, including basketball, baseball, tennis, golf, and hockey, were set to generate over $537 million in visitor spending across the United States, attracting more than 4 million attendees. New York was identified as a key destination, with events in the region projected to drive over $423 million in spending, and the research highlighted a growing spillover effect of sports tourism beyond host cities. The findings emphasize that major sporting events are significant drivers of event tourism, creating substantial opportunities for destinations and travel businesses, with many bookings made well in advance.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-09-18T17:42:30",
+      "first_seen_at": "2026-09-18T19:00:02.630098",
+      "assets": [
+        {
+          "symbol": "EXPE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.446463,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ABNB",
+          "asset_class": null,
+          "relevance_score": 0.722271,
+          "sentiment_score": 0.348963,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKNG",
+          "asset_class": null,
+          "relevance_score": 0.64265,
+          "sentiment_score": 0.31989,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.924724
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.720117
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.625513
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1430,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WebWire",
+          "source_domain": "WebWire",
+          "headline": "Major US summer sporting events projected to drive more than $537M in visitor spending, Expedia Group and PredictHQ research finds",
+          "url": "https://www.webwire.com/ViewPressRel.asp?SESSIONID=&aId=360703",
+          "published_at": "2026-09-18T17:42:30"
+        }
+      ]
+    },
+    {
       "event_id": 1294,
       "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
       "summary": "Solar stocks, including Enphase Energy, First Solar, and Sunrun, experienced significant drops after the Federal Reserve's first interest rate hike in three years. This increase directly impacts residential solar financing demand, as most home solar systems are financed rather than bought outright. While the broader market remained relatively stable, the concentrated sell-off in the solar sector highlights its sensitivity to borrowing costs and the rate path.",
@@ -19,8 +82,8 @@
         {
           "symbol": "RUN",
           "asset_class": null,
-          "relevance_score": 0.315706,
-          "sentiment_score": 0.003905,
+          "relevance_score": 0.33306,
+          "sentiment_score": 0.022346,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -32,7 +95,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.81565
+          "relevance_score": 0.833567
         },
         {
           "topic": "energy_transportation",
@@ -52,6 +115,93 @@
       ]
     },
     {
+      "event_id": 1300,
+      "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+      "summary": "JPMorgan Chase & Co. anticipates a significant rise in investment banking fees and markets revenue for the third quarter, projecting mid-to-high teens percentage growth. This contrasts with Bank of America's expectation of a decline, highlighting JPMorgan's strong pipeline in M&A and robust equity and fixed-income trading performance. However, this growth is sensitive to market activity, volatility, and rising operational expenses, posing potential risks to sustained profitability.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-18T16:19:18",
+      "first_seen_at": "2026-09-18T19:00:03.191062",
+      "assets": [
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.41123,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.731239,
+          "sentiment_score": 0.003506,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.616049,
+          "sentiment_score": 0.035794,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.611857,
+          "sentiment_score": 0.006642,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.602579,
+          "sentiment_score": 0.014136,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.946403
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927245
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.908998
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.803799
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.618556
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1432,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
+          "published_at": "2026-09-18T16:19:18"
+        }
+      ]
+    },
+    {
       "event_id": 1295,
       "title": "Nevada: Las Vegas room rates still soft, survey shows",
       "summary": "A recent Truist Securities report indicates that Las Vegas hotel room rates continue to be soft, particularly for MGM Resorts International and Caesars Entertainment, while Wynn Resorts is outperforming due to the Las Vegas Grand Prix. The report details significant rate declines for the third quarter and September, especially for midweek stays and lower-tier rooms. Despite some encouraging October numbers tied to NFL games, November advance bookings show a mixed picture, with Wynn strong but MGM and Caesars still struggling.",
@@ -67,7 +217,7 @@
           "symbol": "MGM",
           "asset_class": null,
           "relevance_score": 0.959479,
-          "sentiment_score": -0.276952,
+          "sentiment_score": -0.266436,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -75,15 +225,15 @@
           "symbol": "CZR",
           "asset_class": null,
           "relevance_score": 0.878357,
-          "sentiment_score": -0.302503,
+          "sentiment_score": -0.30281,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "WYNN",
           "asset_class": null,
-          "relevance_score": 0.802181,
-          "sentiment_score": 0.433724,
+          "relevance_score": 0.806823,
+          "sentiment_score": 0.41024,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -91,7 +241,7 @@
           "symbol": "TFC",
           "asset_class": null,
           "relevance_score": 0.598814,
-          "sentiment_score": 0.079137,
+          "sentiment_score": 0.072239,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1119,120 +1269,6 @@
           "headline": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
           "url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190100459.html",
           "published_at": "2026-09-17T19:01:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1258,
-      "title": "Caesars confirms FTC seeks more merger details, two board members step down",
-      "summary": "Caesars Entertainment announced that two board members, Jesse Lynn and Ted Papapostolou, who were appointed at the request of investor Carl Icahn, have resigned. The company also disclosed that both Caesars and Fertitta Entertainment received a second request for information from the FTC regarding their merger, indicating continued regulatory review. Caesars shareholders are set to vote on Fertitta Entertainment's $17.6 billion takeover bid.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-17T18:55:17",
-      "first_seen_at": "2026-09-17T21:00:01.995890",
-      "assets": [
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.117379,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.817497
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.722665
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1390,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CDC Gaming",
-          "source_domain": "CDC Gaming",
-          "headline": "Caesars confirms FTC seeks more merger details, two board members step down",
-          "url": "https://cdcgaming.com/caesars-confirms-ftc-seeks-more-merger-details-two-board-members-step-down/",
-          "published_at": "2026-09-17T18:55:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1252,
-      "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
-      "summary": "Lockheed Martin has received its first shipment of critical Patriot interceptor components from General Motors, less than a month after the two companies signed a manufacturing agreement. This expedited delivery, which traditionally takes months, highlights the Pentagon's push for faster weapons production amid surging global demand for missile defense systems like the Patriot, especially from Ukraine. Lockheed Martin is also significantly investing to scale up its munitions output across several U.S. sites.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-17T18:25:28",
-      "first_seen_at": "2026-09-17T20:00:02.490944",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.407544,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LMT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413195,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GD",
-          "asset_class": null,
-          "relevance_score": 0.644009,
-          "sentiment_score": 0.311387,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.941231
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.838489
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.644583
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.634171
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1384,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WTVB",
-          "source_domain": "WTVB",
-          "headline": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
-          "url": "https://wtvbam.com/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
-          "published_at": "2026-09-17T18:25:28"
         }
       ]
     }
