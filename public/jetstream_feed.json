@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1311,
+      "title": "RA Capital Management Acquires Over 9 Million Derivative Securities in Tyra Biosciences (NASDAQ: TYRA)",
+      "summary": "RA Capital Management has significantly increased its stake in Tyra Biosciences (NASDAQ: TYRA) by purchasing over 9 million derivative securities. This acquisition, which took place on September 15, 2026, at $22.03 per share, brings RA Capital's total holdings to over 11.6 million derivative securities, representing approximately 78.1% of their post-transaction position. The transaction is classified as an open-market purchase, underscoring a strong insider acquisition in the biotechnology firm.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-18T18:23:46",
+      "first_seen_at": "2026-09-18T22:00:02.447827",
+      "assets": [
+        {
+          "symbol": "TYRA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405374,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.939578
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.844906
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1443,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "RA Capital Management Acquires Over 9 Million Derivative Securities in Tyra Biosciences (NASDAQ: TYRA)",
+          "url": "https://kalkinemedia.com/us/news/announcements/ra-capital-management-acquires-over-9-million-derivative-securities-in-tyra-biosciences-nasdaq-tyra",
+          "published_at": "2026-09-18T18:23:46"
+        }
+      ]
+    },
+    {
       "event_id": 1302,
       "title": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter Acquires 5 Shares at $371.64 Each",
       "summary": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter acquired 5 shares of the company stock at $371.64 each on September 15, 2026. This purchase increased his total reported holdings to 146,941 shares. The transaction was filed under SEC code P and represented a small fraction of his overall ownership.",
@@ -20,7 +63,7 @@
           "symbol": "TPL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.227593,
+          "sentiment_score": 0.223811,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,7 +71,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.930891
+          "relevance_score": 0.938801
         },
         {
           "topic": "finance",
@@ -1210,61 +1253,6 @@
           "headline": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
           "url": "https://www.investing.com/news/stock-market-news/3-energy-and-utility-stocks-named-top-analyst-favorites-at-raymond-james-93CH-4906890",
           "published_at": "2026-09-18T09:13:04"
-        }
-      ]
-    },
-    {
-      "event_id": 1273,
-      "title": "The Zacks Analyst Blog Highlights Regency Centers, Phillips Edison & Co, Tanger and Curbline Properties",
-      "summary": "Despite the Federal Reserve's rate hike, retail REITs like Regency Centers, Phillips Edison & Co, Tanger, and Curbline Properties are positioned for growth due to strong tenant demand, limited new construction, and financial flexibility. The article details why these four retail REITs merit attention, highlighting their business models, financial health, and growth prospects, particularly their focus on necessity-based and convenience-oriented retail. It emphasizes the importance of strong balance sheets and recurring consumer traffic in the current interest rate environment.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-18T08:37:21",
-      "first_seen_at": "2026-09-18T12:00:03.444767",
-      "assets": [
-        {
-          "symbol": "REG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424017,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917828
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.910842
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.823586
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.800232
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.749532
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1405,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "The Zacks Analyst Blog Highlights Regency Centers, Phillips Edison & Co, Tanger and Curbline Properties",
-          "url": "https://finance.yahoo.com/real-estate/articles/zacks-analyst-blog-highlights-regency-083700896.html",
-          "published_at": "2026-09-18T08:37:21"
         }
       ]
     }
