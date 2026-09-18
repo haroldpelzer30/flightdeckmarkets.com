@@ -5,6 +5,286 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1270,
+      "title": "Corporate Climate Adaptation; South Korea’s Market Classification; and The Race for Advanced Nuclear Reactors",
+      "summary": "This S&P Global Daily Update discusses three key topics: the increasing importance of corporate climate adaptation and resilience planning due to extreme weather, the ongoing debate about South Korea's market classification as either developed or emerging, and the intensifying race to develop and commercialize advanced nuclear reactors, driven by AI demand. The article also touches on recent economic trends like rising global goods trade and challenges facing European asset managers.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-18T11:02:33",
+      "first_seen_at": "2026-09-18T12:00:02.593758",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.145146,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 0.627522,
+          "sentiment_score": 0.165819,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.609096,
+          "sentiment_score": 0.149872,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ENPH",
+          "asset_class": null,
+          "relevance_score": 0.608925,
+          "sentiment_score": 0.181725,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 0.554626,
+          "sentiment_score": 0.10396,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.821113
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.819249
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.701272
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1402,
+          "provider": "ALPHA_VANTAGE",
+          "source": "S&P Global",
+          "source_domain": "S&P Global",
+          "headline": "Corporate Climate Adaptation; South Korea’s Market Classification; and The Race for Advanced Nuclear Reactors",
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-18-2026",
+          "published_at": "2026-09-18T11:02:33"
+        }
+      ]
+    },
+    {
+      "event_id": 1271,
+      "title": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
+      "summary": "The Zacks Analyst Blog features research reports on 16 major stocks, including Applied Materials, Philip Morris International, and Valero Energy, along with micro-cap stocks Crimson Wine Group and Global Self Storage. The reports provide insights into each company's performance, strengths, risks, and outlook. Zacks analysts discuss key drivers like AI investments, pricing power, refining capacity, and market strategies for these highlighted companies.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-18T10:12:13",
+      "first_seen_at": "2026-09-18T12:00:02.888151",
+      "assets": [
+        {
+          "symbol": "PM",
+          "asset_class": null,
+          "relevance_score": 0.963816,
+          "sentiment_score": 0.278019,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMAT",
+          "asset_class": null,
+          "relevance_score": 0.943405,
+          "sentiment_score": 0.452987,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.916011,
+          "sentiment_score": 0.427922,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938777
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.830325
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.623969
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.604626
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.602171
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1403,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applied-100800550.html",
+          "published_at": "2026-09-18T10:12:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1272,
+      "title": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
+      "summary": "Raymond James has released its \"Analyst Current Favorites\" list for the energy and utilities sector, highlighting three companies rated Strong Buy or Outperform. The list includes Cheniere Energy (LNG), recognized for its strong valuation and first-mover advantage in LNG exports; Devon Energy (DVN), noted for strong near-term oil fundamentals and a valuation gap to peers; and NRG Energy (NRG), praised for its retail electricity presence and competitive thermal fleet, with accelerated EPS growth after a recent acquisition.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-18T09:13:04",
+      "first_seen_at": "2026-09-18T12:00:03.172839",
+      "assets": [
+        {
+          "symbol": "RJF",
+          "asset_class": null,
+          "relevance_score": 0.943388,
+          "sentiment_score": 0.299731,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.824476,
+          "sentiment_score": 0.324776,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NRG",
+          "asset_class": null,
+          "relevance_score": 0.756371,
+          "sentiment_score": 0.129773,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CTRA",
+          "asset_class": null,
+          "relevance_score": 0.587122,
+          "sentiment_score": 0.142473,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935708
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928755
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813602
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.71818
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1404,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
+          "url": "https://www.investing.com/news/stock-market-news/3-energy-and-utility-stocks-named-top-analyst-favorites-at-raymond-james-93CH-4906890",
+          "published_at": "2026-09-18T09:13:04"
+        }
+      ]
+    },
+    {
+      "event_id": 1273,
+      "title": "The Zacks Analyst Blog Highlights Regency Centers, Phillips Edison & Co, Tanger and Curbline Properties",
+      "summary": "Despite the Federal Reserve's rate hike, retail REITs like Regency Centers, Phillips Edison & Co, Tanger, and Curbline Properties are positioned for growth due to strong tenant demand, limited new construction, and financial flexibility. The article details why these four retail REITs merit attention, highlighting their business models, financial health, and growth prospects, particularly their focus on necessity-based and convenience-oriented retail. It emphasizes the importance of strong balance sheets and recurring consumer traffic in the current interest rate environment.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-18T08:37:21",
+      "first_seen_at": "2026-09-18T12:00:03.444767",
+      "assets": [
+        {
+          "symbol": "REG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424017,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917828
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.910842
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.823586
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.800232
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.749532
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1405,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "The Zacks Analyst Blog Highlights Regency Centers, Phillips Edison & Co, Tanger and Curbline Properties",
+          "url": "https://finance.yahoo.com/real-estate/articles/zacks-analyst-blog-highlights-regency-083700896.html",
+          "published_at": "2026-09-18T08:37:21"
+        }
+      ]
+    },
+    {
       "event_id": 1264,
       "title": "AI cycle will not be slowed by rate hikes, says Morgan Stanley's Lisa Shalett",
       "summary": "Lisa Shalett, CIO at Morgan Stanley Wealth Management, asserts that the AI cycle will not be hampered by recent interest rate hikes. She discussed this perspective on 'Closing Bell' following the latest Federal Open Market Committee (FOMC) decision, providing insights into the equity markets' direction.",
@@ -909,243 +1189,6 @@
           "headline": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
           "url": "https://www.reuters.com/business/energy/exxon-raises-2050-global-emissions-forecast-sees-slower-coal-decline-2026-09-17/",
           "published_at": "2026-09-17T13:04:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1240,
-      "title": "Erik Lind Sells 30,000 Shares of DHT (NYSE:DHT) Stock",
-      "summary": "DHT Holdings Director Erik Lind sold 30,000 shares of DHT stock for $673,800, reducing his stake by 18.48%. This sale follows the company's strong quarterly results, with EPS exceeding estimates and revenue increasing significantly. DHT also raised its quarterly dividend, offering an attractive yield despite a high payout ratio.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-17T12:59:37",
-      "first_seen_at": "2026-09-17T16:00:04.229517",
-      "assets": [
-        {
-          "symbol": "DHT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.143745,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945852
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.825971
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1372,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Erik Lind Sells 30,000 Shares of DHT (NYSE:DHT) Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-erik-lind-sells-30000-shares-of-dht-nyse-dht-stock-2026-09-17/",
-          "published_at": "2026-09-17T12:59:37"
-        }
-      ]
-    },
-    {
-      "event_id": 1229,
-      "title": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
-      "summary": "Alphabet's stock performance is increasingly driven by its Google Cloud segment rather than its traditional Search business. Google Cloud saw an 82% revenue growth and holds a $514 billion backlog, surpassing Alphabet's entire 2025 revenue, yet the stock trades at a significantly lower P/E ratio compared to competitors like Microsoft and Amazon. Analysts project a 50% upside for Alphabet, with a price target of $504.76, primarily fueled by the accelerating Cloud growth and its undervalued position in the market.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-17T12:30:50",
-      "first_seen_at": "2026-09-17T14:00:02.198104",
-      "assets": [
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.460149,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.031453,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.89952,
-          "sentiment_score": 0.339349,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.839755,
-          "sentiment_score": 0.321053,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AXON",
-          "asset_class": null,
-          "relevance_score": 0.563611,
-          "sentiment_score": 0.111134,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947825
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.910867
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1359,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
-          "url": "https://247wallst.com/investing/2026/09/17/the-biggest-catalyst-for-alphabet-stock-may-not-be-search/",
-          "published_at": "2026-09-17T12:30:50"
-        },
-        {
-          "article_id": 1360,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-catalyst-alphabet-stock-may-123002982.html",
-          "published_at": "2026-09-17T12:30:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1234,
-      "title": "Why Did Cenovus Energy (TSX:CVE) Fall 3.599% on 16 September 2026?",
-      "summary": "Cenovus Energy Inc. (TSX:CVE) saw its shares decline by 3.599% on September 16, 2026, closing at C$45.53. This fall reflects the energy sector's sensitivity to crude oil prices, geopolitical events, and global supply-demand expectations. The company's integrated business model offers some diversification, but its performance remains closely tied to commodity market conditions and operational efficiencies.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-17T12:13:05",
-      "first_seen_at": "2026-09-17T15:00:03.096448",
-      "assets": [
-        {
-          "symbol": "CVE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.287693,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922829
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.80193
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.748208
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1366,
-          "provider": "ALPHA_VANTAGE",
-          "source": "kalkine.ca",
-          "source_domain": "kalkine.ca",
-          "headline": "Why Did Cenovus Energy (TSX:CVE) Fall 3.599% on 16 September 2026?",
-          "url": "https://kalkine.ca/news/energy/why-did-cenovus-energy-tsxcve-fall-3599-on-16-september-2026",
-          "published_at": "2026-09-17T12:13:05"
-        }
-      ]
-    },
-    {
-      "event_id": 1228,
-      "title": "Multidimensional Energy Pathways; The Resilience Imperative; and Stubborn Inflation",
-      "summary": "This S&P Global daily update discusses the need for multidimensional global energy pathways, emphasizing pragmatism and nationally differentiated approaches in energy and climate discourse. It highlights the \"Resilience Imperative\" in sustainability, noting that ongoing geopolitical events and increased AI-driven power demands are reshaping the balance between energy security, affordability, and sustainability. The article also points to S&P Global PMI data suggesting stubborn inflation may persist into 2027 due to renewed upward price pressures in energy and supply chains, despite a slight cooling in official inflation data.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "CRITICAL",
-      "intelligence_score": 79,
-      "published_at": "2026-09-17T11:02:39",
-      "first_seen_at": "2026-09-17T13:00:01.774360",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.136279,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.934392
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.807301
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.717076
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.634346
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1358,
-          "provider": "ALPHA_VANTAGE",
-          "source": "S&P Global",
-          "source_domain": "S&P Global",
-          "headline": "Multidimensional Energy Pathways; The Resilience Imperative; and Stubborn Inflation",
-          "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-17-2026",
-          "published_at": "2026-09-17T11:02:39"
         }
       ]
     }
