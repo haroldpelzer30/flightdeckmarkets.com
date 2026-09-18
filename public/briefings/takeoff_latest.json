@@ -2,8 +2,8 @@
   "type": "takeoff",
   "title": "FlightDeck Takeoff Briefing",
   "tagline": "Turning Market Data Into Market Intelligence",
-  "published_at": "2026-09-17T08:30:13.891695-04:00",
-  "airspace": "SELECTIVE — WAIT FOR CONFIRMATION",
-  "market_weather": "CROSSWINDS — MIXED CONDITIONS",
-  "briefing": "✈ FLIGHTDECK TAKEOFF BRIEFING\nTurning Market Data Into Market Intelligence\n\nThursday, September 17, 2026 — 08:30 AM EDT\n\nAirspace: SELECTIVE — WAIT FOR CONFIRMATION\nMarket Weather: CROSSWINDS — MIXED CONDITIONS\n\nMISSION CLEARANCE\nForex: 3 top-tier\nStocks: 346 top-tier\nETFs: 27 top-tier\nOptions: 0 top-tier\n\nTOP RADAR\nFX: EURUSD, USDCHF, USDCAD\nStocks: LITE, BRK/B, AEP\nETFs: USO, XLC, DIA\n\nCAPTAIN'S ORDERS\n• Prioritize Hall of Fame and Tier 1.\n• Treat stale batches as carry-forward context.\n• Do not force trades when systems disagree.\n\nHigher for hire."
+  "published_at": "2026-09-18T08:30:13.568854-04:00",
+  "airspace": "SELECTIVE RISK ON",
+  "market_weather": "CLEAR SKIES — RISK ON",
+  "briefing": "✈ FLIGHTDECK TAKEOFF BRIEFING\nTurning Market Data Into Market Intelligence\n\nFriday, September 18, 2026 — 08:30 AM EDT\n\nAirspace: SELECTIVE RISK ON\nMarket Weather: CLEAR SKIES — RISK ON\n\nMISSION CLEARANCE\nForex: 0 top-tier\nStocks: 349 top-tier\nETFs: 21 top-tier\nOptions: 0 top-tier\n\nTOP RADAR\nFX: USDCAD, USDJPY\nStocks: KLAC, ARE, ABT\nETFs: QQQ, XLC, DIA\n\nCAPTAIN'S ORDERS\n• Prioritize Hall of Fame and Tier 1.\n• Treat stale batches as carry-forward context.\n• Do not force trades when systems disagree.\n\nHigher for hire."
 }
