@@ -5,14 +5,206 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1278,
+      "title": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
+      "summary": "Jim Cramer highlighted that RTX Corporation (NYSE: RTX) is facing valuation pressure due to rising interest rates, which are causing price-to-earnings multiples to shrink. Despite RTX reporting strong Q2 sales and increased EPS guidance, its high valuation could be problematic if earnings growth doesn't offset the declining multiple. The company is also working to address supply chain constraints to convert its substantial backlog into revenue.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-09-18T12:09:54",
+      "first_seen_at": "2026-09-18T14:00:01.856374",
+      "assets": [
+        {
+          "symbol": "RTX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.23975,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.920767
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.911196
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.805384
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1410,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Insider Monkey",
+          "source_domain": "Insider Monkey",
+          "headline": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
+          "url": "https://www.insidermonkey.com/news/jim-cramer-notes-rtx-faces-valuation-pressure-as-rates-rise-1839599/",
+          "published_at": "2026-09-18T12:09:54"
+        }
+      ]
+    },
+    {
+      "event_id": 1279,
+      "title": "Alan Stewart Acquires 242 Haleon Shares at A33.378619 Through Dividend Reinvestment",
+      "summary": "Alan Stewart, Senior Independent Non-Executive Director at Haleon plc, has acquired 242 ordinary shares through a dividend reinvestment plan. The transaction occurred on September 17, 2026, on the London Stock Exchange at a price of A33.378619 per share. This mandatory disclosure under UK Market Abuse Regulation highlights a routine insider shareholding change for the consumer health company.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-18T11:28:12",
+      "first_seen_at": "2026-09-18T14:00:02.112939",
+      "assets": [
+        {
+          "symbol": "HLN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.179351,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.908249
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.846082
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1411,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Alan Stewart Acquires 242 Haleon Shares at A33.378619 Through Dividend Reinvestment",
+          "url": "https://kalkinemedia.com/uk/news/announcements/haleon-plc-hln-senior-independent-non-executive-director-alan-stewart-purchases-242-shares-via-dividend-reinvestment",
+          "published_at": "2026-09-18T11:28:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1280,
+      "title": "Why Is Crown Castle (NYSE:CCI) in Focus Across S&P 500?",
+      "summary": "Crown Castle (NYSE:CCI) is drawing attention within the S&P 500 due to its position in the infrastructure and real estate sector amidst shifting market conditions. The company's performance is being assessed against broader equity movements, particularly influenced by changes in oil prices, Treasury yields, and the Federal Reserve's rate decisions. The article suggests that Crown Castle's ability to maintain strategic momentum will depend on its execution and how well its business model adapts to a volatile economic landscape, where financing costs, property demand, and inflation pressures play significant roles.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-18T11:21:50",
+      "first_seen_at": "2026-09-18T14:00:02.418114",
+      "assets": [
+        {
+          "symbol": "CCI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.103486,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917069
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.827369
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.822001
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.743504
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1412,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is Crown Castle (NYSE:CCI) in Focus Across S&P 500?",
+          "url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/why-is-crown-castle-nysecci-in-focus-across-sp-500",
+          "published_at": "2026-09-18T11:21:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1281,
+      "title": "Why Is Altria Group (NYSE:MO) in Focus Across NYSE Composite?",
+      "summary": "Altria Group (NYSE:MO), a dividend stock, is under focus due to recent U.S. market dynamics including easing oil prices, lower Treasury yields, and a rebound in equities. The article emphasizes that while broader market conditions provide context, investors should concentrate on company-specific fundamentals, execution, and competitive differentiation to understand Altria's long-term performance. It also highlights the importance of distinguishing between short-term market volatility and genuine changes in business evidence.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-18T11:13:15",
+      "first_seen_at": "2026-09-18T14:00:02.683203",
+      "assets": [
+        {
+          "symbol": "MO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.118074,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912346
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.834284
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.748435
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1413,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Is Altria Group (NYSE:MO) in Focus Across NYSE Composite?",
+          "url": "https://kalkinemedia.com/us/stocks/dividend/why-is-altria-group-nysemo-in-focus-across-nyse-composite",
+          "published_at": "2026-09-18T11:13:15"
+        }
+      ]
+    },
+    {
       "event_id": 1270,
       "title": "Corporate Climate Adaptation; South Korea’s Market Classification; and The Race for Advanced Nuclear Reactors",
       "summary": "This S&P Global Daily Update discusses three key topics: the increasing importance of corporate climate adaptation and resilience planning due to extreme weather, the ongoing debate about South Korea's market classification as either developed or emerging, and the intensifying race to develop and commercialize advanced nuclear reactors, driven by AI demand. The article also touches on recent economic trends like rising global goods trade and challenges facing European asset managers.",
       "event_type": "MARKET_NEWS",
       "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
+      "market_impact": "NEUTRAL",
       "importance": "LOW",
-      "intelligence_score": 51,
+      "intelligence_score": 47,
       "published_at": "2026-09-18T11:02:33",
       "first_seen_at": "2026-09-18T12:00:02.593758",
       "assets": [
@@ -20,15 +212,23 @@
           "symbol": "SPGI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.121539,
+          "sentiment_score": 0.110889,
           "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ENPH",
+          "asset_class": null,
+          "relevance_score": 0.634607,
+          "sentiment_score": 0.168207,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "CEG",
           "asset_class": null,
           "relevance_score": 0.632554,
-          "sentiment_score": 0.172378,
+          "sentiment_score": 0.183843,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -36,23 +236,15 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.613923,
-          "sentiment_score": 0.144021,
+          "sentiment_score": 0.121771,
           "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ENPH",
-          "asset_class": null,
-          "relevance_score": 0.611266,
-          "sentiment_score": 0.160666,
-          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "C",
           "asset_class": null,
           "relevance_score": 0.591887,
-          "sentiment_score": 0.146049,
+          "sentiment_score": 0.113856,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -965,262 +1157,6 @@
           "headline": "Vivani Medical announces anticipated October closing of Cortigent merger with ClearOne",
           "url": "https://www.investing.com/news/sec-filings/vivani-medical-announces-anticipated-october-closing-of-cortigent-merger-with-clearone-93CH-4904504",
           "published_at": "2026-09-17T13:59:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1243,
-      "title": "What Is Moving Caterpillar (NYSE:CAT) Today?",
-      "summary": "Caterpillar (NYSE:CAT) is under market scrutiny today as investors assess its performance amidst a central bank rate increase and a more selective trading environment for industrial stocks. The focus is on the company's execution, demand signals, and operational consistency in a market where financing conditions are tightening and economic activity remains resilient but mixed. Company-specific developments and strong operating models are becoming crucial factors for investor confidence.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-17T13:57:54",
-      "first_seen_at": "2026-09-17T17:00:03.280420",
-      "assets": [
-        {
-          "symbol": "CAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.109159,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.713939,
-          "sentiment_score": 0.11645,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 0.646543,
-          "sentiment_score": 0.138118,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JCI",
-          "asset_class": null,
-          "relevance_score": 0.62464,
-          "sentiment_score": 0.10615,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HON",
-          "asset_class": null,
-          "relevance_score": 0.600284,
-          "sentiment_score": 0.111119,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.944969
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.840039
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.738961
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1375,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What Is Moving Caterpillar (NYSE:CAT) Today?",
-          "url": "https://kalkinemedia.com/us/stocks/industrial/what-is-moving-caterpillar-nysecat-today",
-          "published_at": "2026-09-17T13:57:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1236,
-      "title": "Why Is PepsiCo (NASDAQ:PEP) in Focus Today?",
-      "summary": "PepsiCo (NASDAQ:PEP) is in focus today as markets adjust to a central bank rate increase, shifting the trading landscape to be more selective. The company's performance is being evaluated based on cash distribution consistency, brand durability, pricing discipline, and demand resilience within the dividend stocks category. The article emphasizes that company-level execution and strong demand signals are crucial in this new rate-sensitive environment, rather than broad market narratives.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-17T13:52:03",
-      "first_seen_at": "2026-09-17T16:00:03.310826",
-      "assets": [
-        {
-          "symbol": "PEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.095656,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 0.561057,
-          "sentiment_score": -0.063669,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.911922
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.804167
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.704856
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.626918
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1368,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Is PepsiCo (NASDAQ:PEP) in Focus Today?",
-          "url": "https://kalkinemedia.com/us/stocks/dividend/why-is-pepsico-nasdaqpep-in-focus-today",
-          "published_at": "2026-09-17T13:52:03"
-        }
-      ]
-    },
-    {
-      "event_id": 1237,
-      "title": "What Is Moving Verizon Communications (NYSE:VZ) Today?",
-      "summary": "Verizon Communications (NYSE:VZ) is in focus today due to a fresh market reset driven by interest rate changes, making the communication stocks sector more selective. The company's performance will depend on market updates confirming steady demand and disciplined execution, with attention on subscriber trends, network quality, pricing, and cash generation. The broader market context emphasizes company-level execution amidst general market weakness and evolving financing conditions.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-17T13:51:12",
-      "first_seen_at": "2026-09-17T16:00:03.558791",
-      "assets": [
-        {
-          "symbol": "VZ",
-          "asset_class": null,
-          "relevance_score": 0.30564,
-          "sentiment_score": 0.021768,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.921903
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.825237
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.741125
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1369,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What Is Moving Verizon Communications (NYSE:VZ) Today?",
-          "url": "https://kalkinemedia.com/us/stocks/communication/what-is-moving-verizon-communications-nysevz-today",
-          "published_at": "2026-09-17T13:51:12"
-        }
-      ]
-    },
-    {
-      "event_id": 1238,
-      "title": "Jim Cramer Says Defense Giant Still Too Expensive, Despite $22.9 Billion Tomahawk Missile Deal",
-      "summary": "Despite RTX (Raytheon Technologies) landing a massive $22.9 billion Tomahawk missile deal and having a $289 billion backlog, Jim Cramer believes the stock is still too expensive. He argues that in a rate-hiking environment, the company's high P/E multiple (around 27x or 34x trailing earnings) needs to compress further, leading to more short-term pain for investors. While acknowledging the strong fundamentals and recent contract wins, Cramer emphasizes that the higher discount rates imposed by the Federal Reserve will continue to pressure the stock's valuation.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-17T13:38:08",
-      "first_seen_at": "2026-09-17T16:00:03.770161",
-      "assets": [
-        {
-          "symbol": "RTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.303506,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOC",
-          "asset_class": null,
-          "relevance_score": 0.607962,
-          "sentiment_score": 0.210435,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LMT",
-          "asset_class": null,
-          "relevance_score": 0.606685,
-          "sentiment_score": 0.214909,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921185
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.843011
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.819803
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.609028
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1370,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Jim Cramer Says Defense Giant Still Too Expensive, Despite $22.9 Billion Tomahawk Missile Deal",
-          "url": "https://247wallst.com/investing/2026/09/17/jim-cramer-says-defense-giant-still-too-expensive-despite-22-9-billion-tomahawk-missile-deal/",
-          "published_at": "2026-09-17T13:38:08"
         }
       ]
     }
