@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1313,
+      "title": "Two global health firms plan layoffs in metro Phoenix",
+      "summary": "Two global health firms, West Pharmaceutical Services Inc. and Becton, Dickinson and Co., are planning layoffs in the Phoenix metropolitan area. West Pharmaceutical Services will lay off 98 employees in Scottsdale due to ceasing operations on a product line, while Becton, Dickinson and Co. is moving its manufacturing operations to other facilities.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-18T21:57:53",
+      "first_seen_at": "2026-09-19T00:00:02.913693",
+      "assets": [
+        {
+          "symbol": "WST",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.412875,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BDX",
+          "asset_class": null,
+          "relevance_score": 0.809426,
+          "sentiment_score": -0.336116,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.916633
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.800514
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.741472
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1445,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "Two global health firms plan layoffs in metro Phoenix",
+          "url": "https://www.bizjournals.com/phoenix/news/2026/09/18/two-health-firms-warn-of-layoffs-in-metro-phoenix.html",
+          "published_at": "2026-09-18T21:57:53"
+        }
+      ]
+    },
+    {
+      "event_id": 1314,
+      "title": "Cardinal acquires 73% of GI Alliance for ~$2.8B (SEC)",
+      "summary": "Cardinal Health has acquired approximately 73% ownership in GI Alliance (GIA) for about $2.8 billion in cash. The acquisition was completed on January 30, 2025, and Cardinal Health holds a call right for the remaining equity starting from the third anniversary of the acquisition. This information was disclosed in Cardinal Health's FY2025 Form 10-K.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-18T21:51:34",
+      "first_seen_at": "2026-09-19T00:00:03.185302",
+      "assets": [
+        {
+          "symbol": "CAH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.327757,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.937045
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.728906
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.607756
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1446,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Dealroom",
+          "source_domain": "Dealroom",
+          "headline": "Cardinal acquires 73% of GI Alliance for ~$2.8B (SEC)",
+          "url": "https://app.dealroom.co/news/note/cardinal-acquires-73-of-gi-alliance-for-2-8b-sec",
+          "published_at": "2026-09-18T21:51:34"
+        }
+      ]
+    },
+    {
       "event_id": 1311,
       "title": "RA Capital Management Acquires Over 9 Million Derivative Securities in Tyra Biosciences (NASDAQ: TYRA)",
       "summary": "RA Capital Management has significantly increased its stake in Tyra Biosciences (NASDAQ: TYRA) by purchasing over 9 million derivative securities. This acquisition, which took place on September 15, 2026, at $22.03 per share, brings RA Capital's total holdings to over 11.6 million derivative securities, representing approximately 78.1% of their post-transaction position. The transaction is classified as an open-market purchase, underscoring a strong insider acquisition in the biotechnology firm.",
@@ -1103,156 +1205,6 @@
           "headline": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applied-100800550.html",
           "published_at": "2026-09-18T10:12:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1276,
-      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
-      "summary": "Zacks Investment Ideas highlights several stocks including NVIDIA, Advanced Micro Devices, Moderna, Super Micro Computer, and Aya Gold & Silver, noting their resilience despite market uncertainties in 2026. The article argues that while macroeconomic and geopolitical factors have caused fear, investor sentiment is overly negative, and historical data suggests potential for a strong market rally into year-end, especially for AI-related stocks. It emphasizes focusing on price action over news headlines and refutes overblown AI safety concerns.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-18T10:10:58",
-      "first_seen_at": "2026-09-18T13:00:03.185000",
-      "assets": [
-        {
-          "symbol": "SMCI",
-          "asset_class": null,
-          "relevance_score": 0.974508,
-          "sentiment_score": 0.43131,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.931122,
-          "sentiment_score": 0.415948,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.881305,
-          "sentiment_score": 0.372475,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MRNA",
-          "asset_class": null,
-          "relevance_score": 0.751915,
-          "sentiment_score": 0.314586,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917435
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.826292
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.747684
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.633391
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1408,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-101300743.html",
-          "published_at": "2026-09-18T10:10:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1272,
-      "title": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
-      "summary": "Raymond James has released its \"Analyst Current Favorites\" list for the energy and utilities sector, highlighting three companies rated Strong Buy or Outperform. The list includes Cheniere Energy (LNG), recognized for its strong valuation and first-mover advantage in LNG exports; Devon Energy (DVN), noted for strong near-term oil fundamentals and a valuation gap to peers; and NRG Energy (NRG), praised for its retail electricity presence and competitive thermal fleet, with accelerated EPS growth after a recent acquisition.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-18T09:13:04",
-      "first_seen_at": "2026-09-18T12:00:03.172839",
-      "assets": [
-        {
-          "symbol": "RJF",
-          "asset_class": null,
-          "relevance_score": 0.943388,
-          "sentiment_score": 0.269764,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.840064,
-          "sentiment_score": 0.314733,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NRG",
-          "asset_class": null,
-          "relevance_score": 0.797272,
-          "sentiment_score": 0.111065,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CTRA",
-          "asset_class": null,
-          "relevance_score": 0.587122,
-          "sentiment_score": 0.102715,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935708
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.928755
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.815116
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.732412
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1404,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
-          "url": "https://www.investing.com/news/stock-market-news/3-energy-and-utility-stocks-named-top-analyst-favorites-at-raymond-james-93CH-4906890",
-          "published_at": "2026-09-18T09:13:04"
         }
       ]
     }
