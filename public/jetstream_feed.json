@@ -5,6 +5,175 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1337,
+      "title": "Airline Stocks Unbothered by Ground Stop Delays: UAL Up 5%",
+      "summary": "Airline stocks, including United Airlines, Delta, American Airlines, and Southwest, saw gains despite a significant ground stop at NYC-area airports caused by a telecom circuit failure. Investors viewed lower oil prices as a more impactful positive catalyst for the sector, outweighing concerns about flight delays. While these stocks have generally been weaker over the past three months due to rising oil prices, Delta has performed best year-to-date, with United showing modest gains, and American Airlines lagging.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-21T20:43:30",
+      "first_seen_at": "2026-09-21T22:00:02.261005",
+      "assets": [
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.307199,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.528841,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 0.835318,
+          "sentiment_score": 0.30621,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914785
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.810588
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1469,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Airline Stocks Unbothered by Ground Stop Delays: UAL Up 5%",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61909427/airline-stocks-unbothered-by-ground-stop-delays-ual-up-5",
+          "published_at": "2026-09-21T20:43:30"
+        }
+      ]
+    },
+    {
+      "event_id": 1338,
+      "title": "Enbridge (TSE:ENB) Insider Michele Eva Harradence Acquires 7,105 Shares of Stock",
+      "summary": "Enbridge (TSE:ENB) insider Michele Eva Harradence recently acquired 7,105 shares of the company's stock, investing C$478,024.40 at an average price of C$67.28 per share. This purchase increased her holdings by 8.84% to a total of 87,467 shares. The stock, currently trading below its moving averages, offers a 5.7% annualized dividend yield, and analysts maintain a \"Moderate Buy\" consensus rating with an average price target of C$77.62.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-09-21T19:26:43",
+      "first_seen_at": "2026-09-21T22:00:02.551778",
+      "assets": [
+        {
+          "symbol": "ENB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.412445,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.943742
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.919597
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.84609
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1470,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Enbridge (TSE:ENB) Insider Michele Eva Harradence Acquires 7,105 Shares of Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-enbridge-tse-enb-insider-michele-eva-harradence-acquires-7105-shares-of-stock-2026-09-21/",
+          "published_at": "2026-09-21T19:26:43"
+        }
+      ]
+    },
+    {
+      "event_id": 1339,
+      "title": "AMD joins the $1 trillion club, leaving Intel behind",
+      "summary": "AMD has achieved a $1 trillion market capitalization for the first time, driven by investor enthusiasm for its growing AI and data-center business. This milestone places AMD ahead of longtime rival Intel, whose market value is around $644 billion, though it remains significantly smaller than Nvidia. The company's recent stock rally, with shares up over 180% this year, reflects strong demand for AI hardware and AMD's robust growth in its Data Center segment.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-21T19:18:44",
+      "first_seen_at": "2026-09-21T22:00:02.803933",
+      "assets": [
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.442733,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.844083,
+          "sentiment_score": -0.337954,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.749341,
+          "sentiment_score": 0.345947,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.908286
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901092
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1471,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Notebookcheck",
+          "source_domain": "Notebookcheck",
+          "headline": "AMD joins the $1 trillion club, leaving Intel behind",
+          "url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
+          "published_at": "2026-09-21T19:18:44"
+        }
+      ]
+    },
+    {
       "event_id": 1334,
       "title": "Why Black Hills (NYSE:BKH) Is Back In Focus?",
       "summary": "Black Hills Corporation (NYSE:BKH) is gaining renewed attention in the utilities sector following a recent rating update and its consistent operational performance. The company operates regulated electric and natural gas utilities across several U.S. states, utilizing a diversified energy mix that includes coal, natural gas, and wind. Its integrated business model, extensive infrastructure, and financial results showcasing adjusted per-unit performance above market estimates contribute to its current market focus amidst evolving energy demand and infrastructure requirements.",
@@ -980,195 +1149,6 @@
           "headline": "RA Capital Management Acquires Over 9 Million Derivative Securities in Tyra Biosciences (NASDAQ: TYRA)",
           "url": "https://kalkinemedia.com/us/news/announcements/ra-capital-management-acquires-over-9-million-derivative-securities-in-tyra-biosciences-nasdaq-tyra",
           "published_at": "2026-09-18T18:23:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1302,
-      "title": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter Acquires 5 Shares at $371.64 Each",
-      "summary": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter acquired 5 shares of the company stock at $371.64 each on September 15, 2026. This purchase increased his total reported holdings to 146,941 shares. The transaction was filed under SEC code P and represented a small fraction of his overall ownership.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-18T18:10:14",
-      "first_seen_at": "2026-09-18T20:00:02.672155",
-      "assets": [
-        {
-          "symbol": "TPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.223811,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.938801
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.83657
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1434,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Texas Pacific Land Corp (NYSE: TPL) Director Doyle Peter Acquires 5 Shares at $371.64 Each",
-          "url": "https://kalkinemedia.com/us/news/announcements/texas-pacific-land-corp-nyse-tpl-director-doyle-peter-acquires-5-shares-at-37164-each",
-          "published_at": "2026-09-18T18:10:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1303,
-      "title": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
-      "summary": "DTE Energy is positioned as a quiet beneficiary of the AI data center boom, securing significant contracts with hyperscalers like Oracle and Google, totaling 2.4 GW, with more in the pipeline. Despite recent stock pullbacks, management anticipates these deals to drive EPS growth above 8%. The article suggests DTE offers a lower-risk investment in the data center theme compared to others, given its regulated utility status and 3.5% dividend yield, despite potential regulatory and equity issuance challenges.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-18T17:50:26",
-      "first_seen_at": "2026-09-18T20:00:02.902178",
-      "assets": [
-        {
-          "symbol": "DTE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.486965,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.835596,
-          "sentiment_score": 0.302236,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.745188,
-          "sentiment_score": 0.284695,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 0.645012,
-          "sentiment_score": 0.124463,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DTK",
-          "asset_class": null,
-          "relevance_score": 0.347378,
-          "sentiment_score": 0.01955,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92837
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.922015
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.837188
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.749049
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1435,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
-          "url": "https://247wallst.com/investing/2026/09/18/dte-could-be-one-of-the-quiet-winners-of-the-data-center-boom/",
-          "published_at": "2026-09-18T17:50:26"
-        }
-      ]
-    },
-    {
-      "event_id": 1298,
-      "title": "Major US summer sporting events projected to drive more than $537M in visitor spending, Expedia Group and PredictHQ research finds",
-      "summary": "New research by Expedia Group and PredictHQ forecasts that major US summer sporting events, including basketball, baseball, tennis, golf, and hockey, were set to generate over $537 million in visitor spending across the United States, attracting more than 4 million attendees. New York was identified as a key destination, with events in the region projected to drive over $423 million in spending, and the research highlighted a growing spillover effect of sports tourism beyond host cities. The findings emphasize that major sporting events are significant drivers of event tourism, creating substantial opportunities for destinations and travel businesses, with many bookings made well in advance.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-09-18T17:42:30",
-      "first_seen_at": "2026-09-18T19:00:02.630098",
-      "assets": [
-        {
-          "symbol": "EXPE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.402777,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ABNB",
-          "asset_class": null,
-          "relevance_score": 0.743023,
-          "sentiment_score": 0.315954,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKNG",
-          "asset_class": null,
-          "relevance_score": 0.643514,
-          "sentiment_score": 0.345523,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.946171
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.732907
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.625513
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1430,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WebWire",
-          "source_domain": "WebWire",
-          "headline": "Major US summer sporting events projected to drive more than $537M in visitor spending, Expedia Group and PredictHQ research finds",
-          "url": "https://www.webwire.com/ViewPressRel.asp?SESSIONID=&aId=360703",
-          "published_at": "2026-09-18T17:42:30"
         }
       ]
     }
