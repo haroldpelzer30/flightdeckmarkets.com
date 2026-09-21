@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1330,
+      "title": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
+      "summary": "RBC analysts predict that General Mills (GIS) will likely miss its fiscal first-quarter earnings estimates due to inflationary pressures and shipment timing issues. The article, provided by MT Newswires, suggests that a premium subscription is required to read the full analysis.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 71,
+      "published_at": "2026-09-21T15:50:09",
+      "first_seen_at": "2026-09-21T18:00:02.342254",
+      "assets": [
+        {
+          "symbol": "GIS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.434261,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940403
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.836472
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.742019
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1462,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/general-mills-likely-miss-quarterly-155010022.html",
+          "published_at": "2026-09-21T15:50:09"
+        }
+      ]
+    },
+    {
       "event_id": 1327,
       "title": "Bank of America hikes S&P 500 target after Al trade cracks",
       "summary": "Bank of America has raised its year-end S&P 500 target to 7,400 and its 12-month target to 7,800, citing strengthened earnings and a shift in the AI trade. The bank upgraded Communication Services, dominated by Alphabet and Meta, to marketweight, expecting cloud revenue growth to outpace capital expenditures by 2027. While a sell-off risk remains due to inflation, BofA prefers hyperscalers over the chip trade, though it notes concerns about off-balance sheet commitments and the potential impact of private company IPOs on public markets.",
@@ -20,7 +67,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.25159,
+          "sentiment_score": 0.297776,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,15 +75,15 @@
           "symbol": "GOOGL",
           "asset_class": null,
           "relevance_score": 0.823428,
-          "sentiment_score": 0.292976,
+          "sentiment_score": 0.265448,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "META",
           "asset_class": null,
-          "relevance_score": 0.75136,
-          "sentiment_score": 0.249283,
+          "relevance_score": 0.779108,
+          "sentiment_score": 0.244001,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -44,15 +91,15 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.642544,
-          "sentiment_score": 0.19258,
+          "sentiment_score": 0.161183,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "AMZN",
           "asset_class": null,
-          "relevance_score": 0.555652,
-          "sentiment_score": 0.139904,
+          "relevance_score": 0.589257,
+          "sentiment_score": 0.10156,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -76,7 +123,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.622061
+          "relevance_score": 0.6353
         }
       ],
       "articles": [
@@ -1150,81 +1197,6 @@
           "headline": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
           "published_at": "2026-09-18T16:19:18"
-        }
-      ]
-    },
-    {
-      "event_id": 1295,
-      "title": "Nevada: Las Vegas room rates still soft, survey shows",
-      "summary": "A recent Truist Securities report indicates that Las Vegas hotel room rates continue to be soft, particularly for MGM Resorts International and Caesars Entertainment, while Wynn Resorts is outperforming due to the Las Vegas Grand Prix. The report details significant rate declines for the third quarter and September, especially for midweek stays and lower-tier rooms. Despite some encouraging October numbers tied to NFL games, November advance bookings show a mixed picture, with Wynn strong but MGM and Caesars still struggling.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-18T16:03:04",
-      "first_seen_at": "2026-09-18T18:00:02.511441",
-      "assets": [
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 0.99195,
-          "sentiment_score": -0.273842,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 0.878357,
-          "sentiment_score": -0.309213,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WYNN",
-          "asset_class": null,
-          "relevance_score": 0.837085,
-          "sentiment_score": 0.429247,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TFC",
-          "asset_class": null,
-          "relevance_score": 0.598814,
-          "sentiment_score": 0.08465,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945315
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.840412
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.637127
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.63369
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1427,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CDC Gaming",
-          "source_domain": "CDC Gaming",
-          "headline": "Nevada: Las Vegas room rates still soft, survey shows",
-          "url": "https://cdcgaming.com/nevada-las-vegas-room-rates-still-soft-survey-shows/",
-          "published_at": "2026-09-18T16:03:04"
         }
       ]
     }
