@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1322,
+      "title": "New Era Energy stock surges 16% on Vistra power deal By Investing.com",
+      "summary": "New Era Energy & Digital (NASDAQ:NUAI) shares surged 16% following the announcement of a 20-year power purchase agreement with Luminant, an affiliate of Vistra Corp. (NYSE:VST). This deal secures up to 207 MW of power for Phase 1 of New Era's Texas Critical Data Center project, with power supply expected to commence in Q3 2027. The agreement also includes a development framework for future power expansion and grants Vistra a 5% non-voting interest and rights of first refusal on future development.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-21T11:39:48",
+      "first_seen_at": "2026-09-21T14:00:02.808351",
+      "assets": [
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 0.908192,
+          "sentiment_score": 0.345122,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.813483,
+          "sentiment_score": 0.430736,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.912652
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820284
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1454,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Nigeria",
+          "source_domain": "Investing.com Nigeria",
+          "headline": "New Era Energy stock surges 16% on Vistra power deal By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/new-era-energy-stock-surges-16-on-vistra-power-deal-93CH-2702470",
+          "published_at": "2026-09-21T11:39:48"
+        }
+      ]
+    },
+    {
       "event_id": 1319,
       "title": "No CXMT Jitters? Micron, AMD, SanDisk, Intel, Other Chip Stocks Surge Up To 6% Pre-Market",
       "summary": "Semiconductor chip companies' stock futures surged up to 6% in pre-market trading, continuing their rebound despite China's CXMT announcing mass production of a new memory chip platform. This rally follows a shift in investor focus from AI spending concerns to tight chip supply and strong data-center demand. Shares of major companies like Intel, AMD, Micron, and SanDisk all saw significant gains.",
@@ -20,23 +71,23 @@
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.401906,
+          "sentiment_score": 0.4196,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "INTC",
           "asset_class": null,
-          "relevance_score": 0.808939,
-          "sentiment_score": 0.445811,
+          "relevance_score": 0.818867,
+          "sentiment_score": 0.439101,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MU",
           "asset_class": null,
-          "relevance_score": 0.740716,
-          "sentiment_score": 0.434753,
+          "relevance_score": 0.745729,
+          "sentiment_score": 0.42594,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -44,7 +95,7 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.645486,
-          "sentiment_score": 0.328722,
+          "sentiment_score": 0.336314,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -56,7 +107,7 @@
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.803139
+          "relevance_score": 0.834781
         },
         {
           "topic": "technology",
@@ -64,7 +115,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.601835
+          "relevance_score": 0.641726
         }
       ],
       "articles": [
@@ -1166,53 +1217,6 @@
           "headline": "T-Mobile’s $85 Billion Debt Load Won’t Feel the Fed’s Rate Hike the Way Wall Street Thinks",
           "url": "https://247wallst.com/investing/2026/09/18/t-mobiles-85-billion-debt-load-wont-feel-the-feds-rate-hike-the-way-wall-street-thinks/",
           "published_at": "2026-09-18T13:36:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1278,
-      "title": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
-      "summary": "Jim Cramer highlighted that RTX Corporation (NYSE: RTX) is facing valuation pressure due to rising interest rates, which are causing price-to-earnings multiples to shrink. Despite RTX reporting strong Q2 sales and increased EPS guidance, its high valuation could be problematic if earnings growth doesn't offset the declining multiple. The company is also working to address supply chain constraints to convert its substantial backlog into revenue.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-09-18T12:09:54",
-      "first_seen_at": "2026-09-18T14:00:01.856374",
-      "assets": [
-        {
-          "symbol": "RTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.209247,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.942873
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.911196
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.826754
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1410,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Insider Monkey",
-          "source_domain": "Insider Monkey",
-          "headline": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
-          "url": "https://www.insidermonkey.com/news/jim-cramer-notes-rtx-faces-valuation-pressure-as-rates-rise-1839599/",
-          "published_at": "2026-09-18T12:09:54"
         }
       ]
     }
