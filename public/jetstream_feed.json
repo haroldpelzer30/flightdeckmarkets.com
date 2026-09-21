@@ -5,6 +5,234 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1315,
+      "title": "Mohawk Industries insider sells shares after quarterly earnings beat",
+      "summary": "An insider at Mohawk Industries, Suzanne Helen, sold 800 shares worth $100,496 on September 18, reducing her ownership by 13.05%. This transaction followed the company's stronger-than-expected second-quarter performance, where adjusted earnings and revenue surpassed analyst expectations. Mohawk Industries currently has a \"Hold\" consensus from analysts, with a market capitalization of $8.54 billion.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-21T09:04:34",
+      "first_seen_at": "2026-09-21T12:00:02.178524",
+      "assets": [
+        {
+          "symbol": "MHK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.15037,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924851
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.70887
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1447,
+          "provider": "ALPHA_VANTAGE",
+          "source": "InteriorDaily",
+          "source_domain": "InteriorDaily",
+          "headline": "Mohawk Industries insider sells shares after quarterly earnings beat",
+          "url": "https://www.interiordaily.com/article/9874882/mohawk-industries-insider-sells-shares-after-quarterly-earnings-beat/",
+          "published_at": "2026-09-21T09:04:34"
+        }
+      ]
+    },
+    {
+      "event_id": 1316,
+      "title": "Morgan Stanley’s Wilson Says US Stocks Risk 7% Drop in Near Term",
+      "summary": "Morgan Stanley strategists, led by Michael Wilson, warn that US equities, specifically the S&P 500, could drop as much as 7% in the near term due to increased energy prices and bond market volatility. Despite strong corporate earnings helping to offset higher bond yields, the S&P 500's valuation has declined. Wilson predicts a potential drop to 7,100 points if financial conditions tighten further or energy prices rise, but still anticipates a year-end rally to 8,000 points driven by robust earnings.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-21T08:24:45",
+      "first_seen_at": "2026-09-21T12:00:02.512727",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.244528,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.647895,
+          "sentiment_score": 0.116917,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.611642,
+          "sentiment_score": 0.112279,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.601325,
+          "sentiment_score": 0.125343,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.847797
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.745642
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.61937
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.606469
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1448,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Morgan Stanley’s Wilson Says US Stocks Risk 7% Drop in Near Term",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-us-082353803.html",
+          "published_at": "2026-09-21T08:24:45"
+        }
+      ]
+    },
+    {
+      "event_id": 1317,
+      "title": "Nykredit A S Acquires New Shares in Crown Castle Inc. $CCI",
+      "summary": "Nykredit A/S has acquired a new position of 153,323 shares in Crown Castle Inc. (NYSE:CCI) during the second quarter, valued at approximately $11.6 million. Other institutional investors like BlackRock Inc. and Norges Bank also significantly increased their stakes. Crown Castle reported strong Q2 earnings per share of $0.69, exceeding estimates, despite a 4.9% year-over-year revenue decline, and declared a quarterly dividend of $1.0625 per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-21T08:11:35",
+      "first_seen_at": "2026-09-21T12:00:02.857954",
+      "assets": [
+        {
+          "symbol": "CCI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.109751,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.645458,
+          "sentiment_score": 0.303227,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909401
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820062
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.739113
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.641758
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.640914
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1449,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Nykredit A S Acquires New Shares in Crown Castle Inc. $CCI",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-shares-in-crown-castle-inc-cci-2026-09-21/",
+          "published_at": "2026-09-21T08:11:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1318,
+      "title": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited",
+      "summary": "State Street Corporation and its subsidiaries have acquired a 5.00% voting stake in Sims Limited, an ASX-listed company, as of September 17, 2026. This substantial holding consists of 9,668,706 ordinary shares. Various State Street entities, including State Street Global Advisors, hold relevant interests through investment management, trusteeship, and securities lending arrangements.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-21T07:55:09",
+      "first_seen_at": "2026-09-21T12:00:03.182576",
+      "assets": [
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403311,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.8369
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1450,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited",
+          "url": "https://kalkinemedia.com/au/news/announcements/state-street-corporation-acquires-500-voting-stake-in-sims-limited",
+          "published_at": "2026-09-21T07:55:09"
+        }
+      ]
+    },
+    {
       "event_id": 1313,
       "title": "Two global health firms plan layoffs in metro Phoenix",
       "summary": "Two global health firms, West Pharmaceutical Services Inc. and Becton, Dickinson and Co., are planning layoffs in the Phoenix metropolitan area. West Pharmaceutical Services will lay off 98 employees in Scottsdale due to ceasing operations on a product line, while Becton, Dickinson and Co. is moving its manufacturing operations to other facilities.",
@@ -957,254 +1185,6 @@
           "headline": "Alan Stewart Acquires 242 Haleon Shares at A33.378619 Through Dividend Reinvestment",
           "url": "https://kalkinemedia.com/uk/news/announcements/haleon-plc-hln-senior-independent-non-executive-director-alan-stewart-purchases-242-shares-via-dividend-reinvestment",
           "published_at": "2026-09-18T11:28:12"
-        }
-      ]
-    },
-    {
-      "event_id": 1280,
-      "title": "Why Is Crown Castle (NYSE:CCI) in Focus Across S&P 500?",
-      "summary": "Crown Castle (NYSE:CCI) is drawing attention within the S&P 500 due to its position in the infrastructure and real estate sector amidst shifting market conditions. The company's performance is being assessed against broader equity movements, particularly influenced by changes in oil prices, Treasury yields, and the Federal Reserve's rate decisions. The article suggests that Crown Castle's ability to maintain strategic momentum will depend on its execution and how well its business model adapts to a volatile economic landscape, where financing costs, property demand, and inflation pressures play significant roles.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-18T11:21:50",
-      "first_seen_at": "2026-09-18T14:00:02.418114",
-      "assets": [
-        {
-          "symbol": "CCI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.103486,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917069
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.827369
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.822001
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.743504
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1412,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Is Crown Castle (NYSE:CCI) in Focus Across S&P 500?",
-          "url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/why-is-crown-castle-nysecci-in-focus-across-sp-500",
-          "published_at": "2026-09-18T11:21:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1281,
-      "title": "Why Is Altria Group (NYSE:MO) in Focus Across NYSE Composite?",
-      "summary": "Altria Group (NYSE:MO), a dividend stock, is under focus due to recent U.S. market dynamics including easing oil prices, lower Treasury yields, and a rebound in equities. The article emphasizes that while broader market conditions provide context, investors should concentrate on company-specific fundamentals, execution, and competitive differentiation to understand Altria's long-term performance. It also highlights the importance of distinguishing between short-term market volatility and genuine changes in business evidence.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-18T11:13:15",
-      "first_seen_at": "2026-09-18T14:00:02.683203",
-      "assets": [
-        {
-          "symbol": "MO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.118074,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912346
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.834284
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.748435
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1413,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Is Altria Group (NYSE:MO) in Focus Across NYSE Composite?",
-          "url": "https://kalkinemedia.com/us/stocks/dividend/why-is-altria-group-nysemo-in-focus-across-nyse-composite",
-          "published_at": "2026-09-18T11:13:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1270,
-      "title": "Corporate Climate Adaptation; South Korea’s Market Classification; and The Race for Advanced Nuclear Reactors",
-      "summary": "This S&P Global Daily Update discusses three key topics: the increasing importance of corporate climate adaptation and resilience planning due to extreme weather, the ongoing debate about South Korea's market classification as either developed or emerging, and the intensifying race to develop and commercialize advanced nuclear reactors, driven by AI demand. The article also touches on recent economic trends like rising global goods trade and challenges facing European asset managers.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-18T11:02:33",
-      "first_seen_at": "2026-09-18T12:00:02.593758",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.110889,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ENPH",
-          "asset_class": null,
-          "relevance_score": 0.634607,
-          "sentiment_score": 0.168207,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.632554,
-          "sentiment_score": 0.183843,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.613923,
-          "sentiment_score": 0.121771,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 0.591887,
-          "sentiment_score": 0.113856,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.838582
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.824847
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.741886
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1402,
-          "provider": "ALPHA_VANTAGE",
-          "source": "S&P Global",
-          "source_domain": "S&P Global",
-          "headline": "Corporate Climate Adaptation; South Korea’s Market Classification; and The Race for Advanced Nuclear Reactors",
-          "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-18-2026",
-          "published_at": "2026-09-18T11:02:33"
-        }
-      ]
-    },
-    {
-      "event_id": 1271,
-      "title": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
-      "summary": "The Zacks Analyst Blog features research reports on 16 major stocks, including Applied Materials, Philip Morris International, and Valero Energy, along with micro-cap stocks Crimson Wine Group and Global Self Storage. The reports provide insights into each company's performance, strengths, risks, and outlook. Zacks analysts discuss key drivers like AI investments, pricing power, refining capacity, and market strategies for these highlighted companies.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-18T10:12:13",
-      "first_seen_at": "2026-09-18T12:00:02.888151",
-      "assets": [
-        {
-          "symbol": "PM",
-          "asset_class": null,
-          "relevance_score": 0.963816,
-          "sentiment_score": 0.283253,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMAT",
-          "asset_class": null,
-          "relevance_score": 0.943405,
-          "sentiment_score": 0.468799,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.931662,
-          "sentiment_score": 0.41072,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938777
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836726
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.641565
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.623969
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.606419
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1403,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applied-100800550.html",
-          "published_at": "2026-09-18T10:12:13"
         }
       ]
     }
