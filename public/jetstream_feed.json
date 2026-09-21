@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1325,
+      "title": "Why the bull market has kept defying the bears",
+      "summary": "Despite concerns like rising oil prices, increasing bond yields, and tighter monetary policies, the stock market, represented by the S&P 500 Index, has remained near record highs. This resilience is attributed to strong nominal growth, robust corporate earnings, contained credit spreads, and healthy consumer and corporate balance sheets. The article argues that the economy is less energy-intensive and has largely absorbed interest rate hikes, suggesting that market fundamentals are stronger than current worries.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-21T13:32:57",
+      "first_seen_at": "2026-09-21T16:00:02.490893",
+      "assets": [
+        {
+          "symbol": "IVZ",
+          "asset_class": null,
+          "relevance_score": 0.313477,
+          "sentiment_score": 0.028976,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.931296
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.833704
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.721034
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.705211
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.609739
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1457,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Invesco",
+          "source_domain": "Invesco",
+          "headline": "Why the bull market has kept defying the bears",
+          "url": "https://www.invesco.com/us/en/insights/why-bull-market-kept-defying-bears.html",
+          "published_at": "2026-09-21T13:32:57"
+        }
+      ]
+    },
+    {
       "event_id": 1324,
       "title": "3 Surging Stocks That Don’t Need the AI Boom to Keep Winning",
       "summary": "The article highlights three non-AI stocks—DaVita (DVA), Franklin Resources (BEN), and Archer Daniels Midland (ADM)—that have surged over 30% year-to-date in 2026. DaVita benefits from stable demand for dialysis, improved reimbursement rates, and cost discipline. Franklin Resources has seen moderated investor outflows and stronger-than-expected earnings, while Archer Daniels Midland's agricultural processing operations are profiting from global trends despite geopolitical volatility.",
@@ -20,23 +75,23 @@
           "symbol": "ADM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.264626,
+          "sentiment_score": 0.295732,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "DVA",
           "asset_class": null,
-          "relevance_score": 0.913582,
-          "sentiment_score": 0.332776,
+          "relevance_score": 0.926281,
+          "sentiment_score": 0.327697,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BEN",
           "asset_class": null,
-          "relevance_score": 0.813829,
-          "sentiment_score": 0.243039,
+          "relevance_score": 0.829292,
+          "sentiment_score": 0.215474,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -55,12 +110,12 @@
           "relevance_score": 0.717552
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.618889
+          "topic": "finance",
+          "relevance_score": 0.635356
         },
         {
-          "topic": "finance",
-          "relevance_score": 0.609794
+          "topic": "economy_macro",
+          "relevance_score": 0.618889
         }
       ],
       "articles": [
@@ -1146,85 +1201,6 @@
           "headline": "M&A Roundup: Lisata Therapeutics Acquires Marea Therapeutics, mAbxience Enters Collaboration with Sandoz",
           "url": "https://www.pharmexec.com/view/-lisata-therapeutics-acquires-marea-therapeutics-mabxience-collaboration-sandoz",
           "published_at": "2026-09-18T14:05:39"
-        }
-      ]
-    },
-    {
-      "event_id": 1287,
-      "title": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
-      "summary": "This article compares GE Vernova and NextEra Energy as investment options in the industrials sector for 2026, focusing on their financial health, growth prospects, and risk profiles. While NextEra Energy appears cheaper based on future earnings, the author recommends GE Vernova due to its strong performance, accelerating demand for its products, and clear execution focus, especially compared to NextEra's ongoing complex merger. The piece concludes by suggesting GE Vernova as a cleaner and more focused bet for investors seeking exposure to the energy transition.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-18T14:05:00",
-      "first_seen_at": "2026-09-18T16:00:03.298137",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.217862,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GEV",
-          "asset_class": null,
-          "relevance_score": 0.951614,
-          "sentiment_score": 0.495621,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.638993,
-          "sentiment_score": -0.132938,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.638858,
-          "sentiment_score": 0.112134,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940227
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.837735
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.74675
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.634316
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.617224
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1419,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-140501925.html",
-          "published_at": "2026-09-18T14:05:00"
         }
       ]
     }
