@@ -5,6 +5,81 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1319,
+      "title": "No CXMT Jitters? Micron, AMD, SanDisk, Intel, Other Chip Stocks Surge Up To 6% Pre-Market",
+      "summary": "Semiconductor chip companies' stock futures surged up to 6% in pre-market trading, continuing their rebound despite China's CXMT announcing mass production of a new memory chip platform. This rally follows a shift in investor focus from AI spending concerns to tight chip supply and strong data-center demand. Shares of major companies like Intel, AMD, Micron, and SanDisk all saw significant gains.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-21T11:06:25",
+      "first_seen_at": "2026-09-21T13:00:01.679198",
+      "assets": [
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.401906,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "INTC",
+          "asset_class": null,
+          "relevance_score": 0.808939,
+          "sentiment_score": 0.445811,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.740716,
+          "sentiment_score": 0.434753,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.645486,
+          "sentiment_score": 0.328722,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913455
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.803139
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.738335
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.601835
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1451,
+          "provider": "ALPHA_VANTAGE",
+          "source": "NDTV Profit",
+          "source_domain": "NDTV Profit",
+          "headline": "No CXMT Jitters? Micron, AMD, SanDisk, Intel, Other Chip Stocks Surge Up To 6% Pre-Market",
+          "url": "https://www.ndtvprofit.com/markets/no-cxmt-jitters-micron-amd-sandisk-intel-other-chip-stocks-surge-up-to-6-pre-market-12076206",
+          "published_at": "2026-09-21T11:06:25"
+        }
+      ]
+    },
+    {
       "event_id": 1315,
       "title": "Mohawk Industries insider sells shares after quarterly earnings beat",
       "summary": "An insider at Mohawk Industries, Suzanne Helen, sold 800 shares worth $100,496 on September 18, reducing her ownership by 13.05%. This transaction followed the company's stronger-than-expected second-quarter performance, where adjusted earnings and revenue surpassed analyst expectations. Mohawk Industries currently has a \"Hold\" consensus from analysts, with a market capitalization of $8.54 billion.",
@@ -20,7 +95,7 @@
           "symbol": "MHK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.15037,
+          "sentiment_score": 0.194052,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -28,11 +103,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.924851
+          "relevance_score": 0.931253
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.70887
+          "relevance_score": 0.735588
         }
       ],
       "articles": [
@@ -63,7 +138,7 @@
           "symbol": "MS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.244528,
+          "sentiment_score": -0.204436,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
@@ -71,23 +146,23 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.647895,
-          "sentiment_score": 0.116917,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.611642,
-          "sentiment_score": 0.112279,
+          "sentiment_score": 0.101952,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "GS",
           "asset_class": null,
-          "relevance_score": 0.601325,
-          "sentiment_score": 0.125343,
+          "relevance_score": 0.637077,
+          "sentiment_score": 0.131498,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.61831,
+          "sentiment_score": 0.112888,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -106,12 +181,12 @@
           "relevance_score": 0.745642
         },
         {
-          "topic": "economy_macro",
-          "relevance_score": 0.61937
+          "topic": "energy_transportation",
+          "relevance_score": 0.632344
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.606469
+          "topic": "economy_macro",
+          "relevance_score": 0.628435
         }
       ],
       "articles": [
@@ -1138,53 +1213,6 @@
           "headline": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
           "url": "https://www.insidermonkey.com/news/jim-cramer-notes-rtx-faces-valuation-pressure-as-rates-rise-1839599/",
           "published_at": "2026-09-18T12:09:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1279,
-      "title": "Alan Stewart Acquires 242 Haleon Shares at A33.378619 Through Dividend Reinvestment",
-      "summary": "Alan Stewart, Senior Independent Non-Executive Director at Haleon plc, has acquired 242 ordinary shares through a dividend reinvestment plan. The transaction occurred on September 17, 2026, on the London Stock Exchange at a price of A33.378619 per share. This mandatory disclosure under UK Market Abuse Regulation highlights a routine insider shareholding change for the consumer health company.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-18T11:28:12",
-      "first_seen_at": "2026-09-18T14:00:02.112939",
-      "assets": [
-        {
-          "symbol": "HLN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.179351,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.908249
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.846082
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1411,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Alan Stewart Acquires 242 Haleon Shares at A33.378619 Through Dividend Reinvestment",
-          "url": "https://kalkinemedia.com/uk/news/announcements/haleon-plc-hln-senior-independent-non-executive-director-alan-stewart-purchases-242-shares-via-dividend-reinvestment",
-          "published_at": "2026-09-18T11:28:12"
         }
       ]
     }
