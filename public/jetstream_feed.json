@@ -5,6 +5,207 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1327,
+      "title": "Bank of America hikes S&P 500 target after Al trade cracks",
+      "summary": "Bank of America has raised its year-end S&P 500 target to 7,400 and its 12-month target to 7,800, citing strengthened earnings and a shift in the AI trade. The bank upgraded Communication Services, dominated by Alphabet and Meta, to marketweight, expecting cloud revenue growth to outpace capital expenditures by 2027. While a sell-off risk remains due to inflation, BofA prefers hyperscalers over the chip trade, though it notes concerns about off-balance sheet commitments and the potential impact of private company IPOs on public markets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-21T15:33:42",
+      "first_seen_at": "2026-09-21T17:00:01.995400",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.25159,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.823428,
+          "sentiment_score": 0.292976,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.75136,
+          "sentiment_score": 0.249283,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.642544,
+          "sentiment_score": 0.19258,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.555652,
+          "sentiment_score": 0.139904,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.937562
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.841292
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.72254
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.644551
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.622061
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1459,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Bank of America hikes S&P 500 target after Al trade cracks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hikes-p-500-153300657.html",
+          "published_at": "2026-09-21T15:33:42"
+        }
+      ]
+    },
+    {
+      "event_id": 1328,
+      "title": "‘Probably the most damaging mistake investors make.’ Raymond James CIO on what retirement savers need to know now",
+      "summary": "Larry Adam, CIO of Raymond James, advises retirement savers to establish a three-year cash reserve and invest in high-quality fixed income to safeguard their nest egg against market volatility. He stresses the importance of not making panic-driven decisions based on short-term market fluctuations, which he identifies as a common and damaging mistake for investors. Adam also recommends focusing on shorter-term, high-quality bonds and regularly rebalancing portfolios rather than reacting to dips with funds needed for immediate expenses.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-21T14:39:57",
+      "first_seen_at": "2026-09-21T17:00:02.332316",
+      "assets": [
+        {
+          "symbol": "RJF",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.138024,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925556
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.837495
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.719605
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.604948
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1460,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketWatch",
+          "source_domain": "MarketWatch",
+          "headline": "‘Probably the most damaging mistake investors make.’ Raymond James CIO on what retirement savers need to know now",
+          "url": "https://www.marketwatch.com/picks/probably-the-most-damaging-mistake-investors-make-raymond-james-cio-on-what-retirement-savers-need-to-know-now-dac39ce8",
+          "published_at": "2026-09-21T14:39:57"
+        }
+      ]
+    },
+    {
+      "event_id": 1329,
+      "title": "Can equities withstand higher yields after the Fed's hawkish hike?",
+      "summary": "The Federal Reserve unanimously raised the federal funds target range by 25 basis points to 3.75-4.00%, the first increase in three years, with Chair Kevin Warsh describing economic activity as expanding at a solid pace. Despite the 10-year Treasury yield reaching 5.02%, its highest since 2007, the S&P 500 only modestly declined, suggesting investor focus on resilient growth and corporate profits. UBS expects a shallow tightening cycle with one more 25-basis-point increase in December and robust S&P 500 earnings growth in 2026 and 2027, enabling equities to absorb moderately higher yields.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 88,
+      "published_at": "2026-09-21T13:57:15",
+      "first_seen_at": "2026-09-21T17:00:02.645338",
+      "assets": [
+        {
+          "symbol": "UBS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.251835,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 0.643247,
+          "sentiment_score": 0.284992,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.564122,
+          "sentiment_score": 0.233211,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949816
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.816941
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1461,
+          "provider": "ALPHA_VANTAGE",
+          "source": "UBS",
+          "source_domain": "UBS",
+          "headline": "Can equities withstand higher yields after the Fed's hawkish hike?",
+          "url": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.3775879.html",
+          "published_at": "2026-09-21T13:57:15"
+        }
+      ]
+    },
+    {
       "event_id": 1325,
       "title": "Why the bull market has kept defying the bears",
       "summary": "Despite concerns like rising oil prices, increasing bond yields, and tighter monetary policies, the stock market, represented by the S&P 500 Index, has remained near record highs. This resilience is attributed to strong nominal growth, robust corporate earnings, contained credit spreads, and healthy consumer and corporate balance sheets. The article argues that the economy is less energy-intensive and has largely absorbed interest rate hikes, suggesting that market fundamentals are stronger than current worries.",
@@ -1024,183 +1225,6 @@
           "headline": "Nevada: Las Vegas room rates still soft, survey shows",
           "url": "https://cdcgaming.com/nevada-las-vegas-room-rates-still-soft-survey-shows/",
           "published_at": "2026-09-18T16:03:04"
-        }
-      ]
-    },
-    {
-      "event_id": 1285,
-      "title": "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-      "summary": "Automaker stocks, including Stellantis, General Motors, and Ford, experienced a reversal on Friday morning, giving back gains from a Thursday rotation rally. Stellantis and GM each fell 4%, while Ford pulled back 2%, as the cyclical trade unwound without any company-specific news. This decline mirrors Thursday's rally in reverse, with all three automakers falling faster than the consumer discretionary sector and the broader market.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-18T14:51:17",
-      "first_seen_at": "2026-09-18T16:00:02.757672",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.287247,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.93846,
-          "sentiment_score": -0.237206,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.941068
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1417,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-          "url": "https://247wallst.com/investing/2026/09/18/automaker-stocks-reverse-as-rotation-trade-unwinds-general-motors-and-stellantis-fall-4-ford-pulls-back/",
-          "published_at": "2026-09-18T14:51:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1290,
-      "title": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
-      "summary": "This article compares the dividend durability of oil giants Chevron (CVX) and Exxon Mobil (XOM) for retirement investors. While Chevron currently offers a higher yield, Exxon Mobil is deemed more durable due to its stronger balance sheet, lower leverage, higher interest coverage, and a more integrated business model with significant cash flow from its Guyana assets. Exxon's longer track record of dividend increases through commodity downturns also gives it an edge in sustainability.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-18T14:42:39",
-      "first_seen_at": "2026-09-18T17:00:02.817196",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.13994,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40525,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TRGP",
-          "asset_class": null,
-          "relevance_score": 0.648371,
-          "sentiment_score": 0.303834,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMAT",
-          "asset_class": null,
-          "relevance_score": 0.638226,
-          "sentiment_score": 0.324601,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LRCX",
-          "asset_class": null,
-          "relevance_score": 0.637397,
-          "sentiment_score": 0.344793,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949771
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.944057
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.842149
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1422,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
-          "url": "https://247wallst.com/investing/2026/09/18/chevron-vs-exxon-which-dividend-survives-the-downturn/",
-          "published_at": "2026-09-18T14:42:39"
-        }
-      ]
-    },
-    {
-      "event_id": 1286,
-      "title": "M&A Roundup: Lisata Therapeutics Acquires Marea Therapeutics, mAbxience Enters Collaboration with Sandoz",
-      "summary": "Lisata Therapeutics has acquired Marea Therapeutics and secured $225 million in financing to advance clinical-stage drug candidates for cardioendocrine diseases. Concurrently, mAbxience and Sandoz have partnered to develop and commercialize an emicizumab biosimilar for hemophilia A, targeting a global market valued at approximately $5.7 billion. These deals aim to push late-stage programs and broaden patient access to biologic medicines.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-18T14:05:39",
-      "first_seen_at": "2026-09-18T16:00:03.042847",
-      "assets": [
-        {
-          "symbol": "LSTA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.494741,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.932085
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.639331
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1418,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pharmaceutical Executive",
-          "source_domain": "Pharmaceutical Executive",
-          "headline": "M&A Roundup: Lisata Therapeutics Acquires Marea Therapeutics, mAbxience Enters Collaboration with Sandoz",
-          "url": "https://www.pharmexec.com/view/-lisata-therapeutics-acquires-marea-therapeutics-mabxience-collaboration-sandoz",
-          "published_at": "2026-09-18T14:05:39"
         }
       ]
     }
