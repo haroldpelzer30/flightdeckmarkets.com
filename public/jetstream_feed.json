@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1324,
+      "title": "3 Surging Stocks That Don’t Need the AI Boom to Keep Winning",
+      "summary": "The article highlights three non-AI stocks—DaVita (DVA), Franklin Resources (BEN), and Archer Daniels Midland (ADM)—that have surged over 30% year-to-date in 2026. DaVita benefits from stable demand for dialysis, improved reimbursement rates, and cost discipline. Franklin Resources has seen moderated investor outflows and stronger-than-expected earnings, while Archer Daniels Midland's agricultural processing operations are profiting from global trends despite geopolitical volatility.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-21T13:14:47",
+      "first_seen_at": "2026-09-21T15:00:02.086097",
+      "assets": [
+        {
+          "symbol": "ADM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.264626,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVA",
+          "asset_class": null,
+          "relevance_score": 0.913582,
+          "sentiment_score": 0.332776,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BEN",
+          "asset_class": null,
+          "relevance_score": 0.813829,
+          "sentiment_score": 0.243039,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941476
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.824785
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.717552
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.618889
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.609794
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1456,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "3 Surging Stocks That Don’t Need the AI Boom to Keep Winning",
+          "url": "https://www.marketbeat.com/articles/3-surging-stocks-that-dont-need-the-ai-boom-to-keep-winning/",
+          "published_at": "2026-09-21T13:14:47"
+        }
+      ]
+    },
+    {
       "event_id": 1322,
       "title": "New Era Energy stock surges 16% on Vistra power deal By Investing.com",
       "summary": "New Era Energy & Digital (NASDAQ:NUAI) shares surged 16% following the announcement of a 20-year power purchase agreement with Luminant, an affiliate of Vistra Corp. (NYSE:VST). This deal secures up to 207 MW of power for Phase 1 of New Era's Texas Critical Data Center project, with power supply expected to commence in Q3 2027. The agreement also includes a development framework for future power expansion and grants Vistra a 5% non-voting interest and rights of first refusal on future development.",
@@ -1154,69 +1225,6 @@
           "headline": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-140501925.html",
           "published_at": "2026-09-18T14:05:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1283,
-      "title": "T-Mobile’s $85 Billion Debt Load Won’t Feel the Fed’s Rate Hike the Way Wall Street Thinks",
-      "summary": "T-Mobile's substantial debt load is largely insulated from recent Federal Reserve rate hikes because most of its $86.9 billion debt consists of fixed-rate notes, not floating-rate debt. Only about $1 billion of its debt is tied to floating rates, making the common Wall Street calculation of a $212 million increase in annual interest largely misleading. The company's strong free cash flow, projected at $18.4 to $18.8 billion for 2026, further mitigates the impact of any incremental interest costs, positioning T-Mobile more favorably than some analysts suggest.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 71,
-      "published_at": "2026-09-18T13:36:15",
-      "first_seen_at": "2026-09-18T15:00:01.761496",
-      "assets": [
-        {
-          "symbol": "TMUS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.224803,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "T",
-          "asset_class": null,
-          "relevance_score": 0.733866,
-          "sentiment_score": 0.103239,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VZ",
-          "asset_class": null,
-          "relevance_score": 0.720879,
-          "sentiment_score": 0.106793,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945693
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.826287
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.735821
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1415,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "T-Mobile’s $85 Billion Debt Load Won’t Feel the Fed’s Rate Hike the Way Wall Street Thinks",
-          "url": "https://247wallst.com/investing/2026/09/18/t-mobiles-85-billion-debt-load-wont-feel-the-feds-rate-hike-the-way-wall-street-thinks/",
-          "published_at": "2026-09-18T13:36:15"
         }
       ]
     }
