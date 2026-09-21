@@ -20,7 +20,7 @@
           "symbol": "GIS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.434261,
+          "sentiment_score": -0.43976,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -28,11 +28,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.940403
+          "relevance_score": 0.943266
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.836472
+          "relevance_score": 0.84322
         },
         {
           "topic": "retail_wholesale",
@@ -67,23 +67,23 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.297776,
+          "sentiment_score": 0.268238,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "GOOGL",
           "asset_class": null,
-          "relevance_score": 0.823428,
-          "sentiment_score": 0.265448,
+          "relevance_score": 0.843312,
+          "sentiment_score": 0.287275,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "META",
           "asset_class": null,
-          "relevance_score": 0.779108,
-          "sentiment_score": 0.244001,
+          "relevance_score": 0.799664,
+          "sentiment_score": 0.241558,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -91,7 +91,7 @@
           "symbol": "MSFT",
           "asset_class": null,
           "relevance_score": 0.642544,
-          "sentiment_score": 0.161183,
+          "sentiment_score": 0.151848,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -99,7 +99,7 @@
           "symbol": "AMZN",
           "asset_class": null,
           "relevance_score": 0.589257,
-          "sentiment_score": 0.10156,
+          "sentiment_score": 0.128964,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -107,7 +107,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.937562
+          "relevance_score": 0.939412
         },
         {
           "topic": "earnings",
@@ -115,7 +115,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.72254
+          "relevance_score": 0.730846
         },
         {
           "topic": "economy_macro",
