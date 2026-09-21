@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1334,
+      "title": "Why Black Hills (NYSE:BKH) Is Back In Focus?",
+      "summary": "Black Hills Corporation (NYSE:BKH) is gaining renewed attention in the utilities sector following a recent rating update and its consistent operational performance. The company operates regulated electric and natural gas utilities across several U.S. states, utilizing a diversified energy mix that includes coal, natural gas, and wind. Its integrated business model, extensive infrastructure, and financial results showcasing adjusted per-unit performance above market estimates contribute to its current market focus amidst evolving energy demand and infrastructure requirements.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-21T18:01:11",
+      "first_seen_at": "2026-09-21T20:00:01.650047",
+      "assets": [
+        {
+          "symbol": "BKH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.544505,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.840149
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1466,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Black Hills (NYSE:BKH) Is Back In Focus?",
+          "url": "https://kalkinemedia.com/us/stocks/utility/why-black-hills-nysebkh-is-back-in-focus",
+          "published_at": "2026-09-21T18:01:11"
+        }
+      ]
+    },
+    {
       "event_id": 1330,
       "title": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
       "summary": "RBC analysts predict that General Mills (GIS) will likely miss its fiscal first-quarter earnings estimates due to inflationary pressures and shipment timing issues. The article, provided by MT Newswires, suggests that a premium subscription is required to read the full analysis.",
@@ -1110,93 +1157,6 @@
           "headline": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
           "url": "https://247wallst.com/investing/2026/09/18/enphase-energy-drops-5-as-solar-selling-resumes-first-solar-and-sunrun-fall-4/",
           "published_at": "2026-09-18T17:01:10"
-        }
-      ]
-    },
-    {
-      "event_id": 1300,
-      "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
-      "summary": "JPMorgan Chase & Co. anticipates a significant rise in investment banking fees and markets revenue for the third quarter, projecting mid-to-high teens percentage growth. This contrasts with Bank of America's expectation of a decline, highlighting JPMorgan's strong pipeline in M&A and robust equity and fixed-income trading performance. However, this growth is sensitive to market activity, volatility, and rising operational expenses, posing potential risks to sustained profitability.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-18T16:19:18",
-      "first_seen_at": "2026-09-18T19:00:03.191062",
-      "assets": [
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426659,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.731239,
-          "sentiment_score": 0.020345,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.646547,
-          "sentiment_score": 0.003767,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.646376,
-          "sentiment_score": 0.039126,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.626835,
-          "sentiment_score": 0.04901,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948933
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.93365
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.927245
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.812618
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.626972
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1432,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
-          "published_at": "2026-09-18T16:19:18"
         }
       ]
     }
