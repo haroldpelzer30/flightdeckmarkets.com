@@ -5,6 +5,128 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1373,
+      "title": "Dominion-NextEra merger: SCC hears arguments on Clean Virginia motion to compel",
+      "summary": "The State Corporation Commission (SCC) heard arguments regarding Clean Virginia's motion to compel NextEra to provide more information about its proposed $67 billion merger with Dominion Energy. Clean Virginia seeks documents related to alleged political misconduct and details on NextEra's past failed acquisition attempts, arguing this information is crucial for evaluating the merger's impact on Virginia ratepayers. NextEra claims these requests are irrelevant and would unnecessarily prolong the proceedings, while Clean Virginia insists a thorough examination is necessary before a decision is made.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 71,
+      "published_at": "2026-09-22T21:05:20",
+      "first_seen_at": "2026-09-22T22:00:02.774572",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.957371,
+          "sentiment_score": -0.124629,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.911378,
+          "sentiment_score": 0.086361,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.933338
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.813486
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1516,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WTVR.com",
+          "source_domain": "WTVR.com",
+          "headline": "Dominion-NextEra merger: SCC hears arguments on Clean Virginia motion to compel",
+          "url": "https://www.wtvr.com/news/local-news/dominion-nextera-merger-scc-hears-arguments-on-clean-virginia-motion-to-compel",
+          "published_at": "2026-09-22T21:05:20"
+        }
+      ]
+    },
+    {
+      "event_id": 1374,
+      "title": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
+      "summary": "Several financial stocks including LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus traded down following the Federal Reserve's recent 25 basis point rate hike. The Fed's action, intended to combat inflation, has led to investor concerns about slower loan demand, higher borrowing costs, and potential credit deterioration for financial institutions. Despite the market's overreaction, these price drops could present buying opportunities for high-quality stocks.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-09-22T20:38:43",
+      "first_seen_at": "2026-09-22T22:00:03.040840",
+      "assets": [
+        {
+          "symbol": "AMP",
+          "asset_class": null,
+          "relevance_score": 0.950812,
+          "sentiment_score": -0.342494,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NTRS",
+          "asset_class": null,
+          "relevance_score": 0.862133,
+          "sentiment_score": -0.349519,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.80265,
+          "sentiment_score": -0.306748,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.938863
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.825941
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.716959
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.613326
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1517,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
+          "published_at": "2026-09-22T20:38:43"
+        }
+      ]
+    },
+    {
       "event_id": 1362,
       "title": "SLB Limited $SLB Shares Purchased by State Street Corp",
       "summary": "State Street Corp increased its stake in SLB Limited by 0.8%, purchasing an additional 722,060 shares to own approximately 6.15% of the company. Institutional investors collectively own nearly 82% of SLB, which maintains a \"Moderate Buy\" consensus rating and an average price target of $61.80 from analysts. SLB recently exceeded quarterly earnings and revenue expectations and declared a quarterly dividend of $0.295 per share.",
@@ -1294,112 +1416,6 @@
           "headline": "Teledyne, Varex Imaging filed US premerger notifications Sept. 16",
           "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2528145/teledyne-varex-imaging-filed-us-premerger-notifications-sept-16",
           "published_at": "2026-09-21T21:20:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1337,
-      "title": "Airline Stocks Unbothered by Ground Stop Delays: UAL Up 5%",
-      "summary": "Airline stocks, including United Airlines, Delta, American Airlines, and Southwest, saw gains despite a significant ground stop at NYC-area airports caused by a telecom circuit failure. Investors viewed lower oil prices as a more impactful positive catalyst for the sector, outweighing concerns about flight delays. While these stocks have generally been weaker over the past three months due to rising oil prices, Delta has performed best year-to-date, with United showing modest gains, and American Airlines lagging.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-21T20:43:30",
-      "first_seen_at": "2026-09-21T22:00:02.261005",
-      "assets": [
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.320197,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.538896,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 0.835318,
-          "sentiment_score": 0.308979,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940249
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.849559
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1469,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Airline Stocks Unbothered by Ground Stop Delays: UAL Up 5%",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61909427/airline-stocks-unbothered-by-ground-stop-delays-ual-up-5",
-          "published_at": "2026-09-21T20:43:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1342,
-      "title": "Offshore RMB Bond Pulse",
-      "summary": "The offshore RMB bond market is experiencing significant growth, driven by increasing southbound flows from mainland Chinese investors seeking higher-yielding assets. Issuance reached approximately RMB820 billion by June 2026, with average monthly capital inflows rising substantially. This trend is leading to a demand-supply imbalance and compressed yields, prompting interest in issuer diversification, potentially including Belt and Road countries.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-21T20:39:08",
-      "first_seen_at": "2026-09-21T23:00:02.134370",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.829457,
-          "sentiment_score": -0.143618,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947964
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.846098
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.734562
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1474,
-          "provider": "ALPHA_VANTAGE",
-          "source": "S&P Global",
-          "source_domain": "S&P Global",
-          "headline": "Offshore RMB Bond Pulse",
-          "url": "https://www.spglobal.com/ratings/en/blog/offshore-rmb-bond-pulse",
-          "published_at": "2026-09-21T20:39:08"
         }
       ]
     }
