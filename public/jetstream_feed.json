@@ -20,7 +20,7 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.460869,
+          "sentiment_score": 0.467704,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -36,15 +36,15 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.939113,
-          "sentiment_score": 0.305645,
+          "sentiment_score": 0.320236,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BKR",
           "asset_class": null,
-          "relevance_score": 0.613827,
-          "sentiment_score": 0.315028,
+          "relevance_score": 0.634292,
+          "sentiment_score": 0.32266,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -132,7 +132,7 @@
           "symbol": "AMP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.24338,
+          "sentiment_score": 0.240245,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -140,7 +140,7 @@
           "symbol": "HCA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.409959,
+          "sentiment_score": 0.405165,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -148,15 +148,23 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.734671,
-          "sentiment_score": 0.314738,
+          "sentiment_score": 0.338274,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.641834,
+          "sentiment_score": 0.116176,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "WBD",
           "asset_class": null,
           "relevance_score": 0.638885,
-          "sentiment_score": 0.102329,
+          "sentiment_score": 0.120955,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -164,7 +172,7 @@
           "symbol": "ZTS",
           "asset_class": null,
           "relevance_score": 0.628887,
-          "sentiment_score": 0.1397,
+          "sentiment_score": 0.12074,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -172,7 +180,7 @@
           "symbol": "WFC",
           "asset_class": null,
           "relevance_score": 0.624868,
-          "sentiment_score": 0.10651,
+          "sentiment_score": 0.13038,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -180,15 +188,7 @@
           "symbol": "JPM",
           "asset_class": null,
           "relevance_score": 0.624475,
-          "sentiment_score": 0.11573,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.607726,
-          "sentiment_score": 0.128812,
+          "sentiment_score": 0.110784,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -196,19 +196,19 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.94003
+          "relevance_score": 0.9424
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.84658
         },
         {
           "topic": "financial_markets",
           "relevance_score": 0.845096
         },
         {
-          "topic": "finance",
-          "relevance_score": 0.84067
-        },
-        {
           "topic": "life_sciences",
-          "relevance_score": 0.729204
+          "relevance_score": 0.740563
         }
       ],
       "articles": [
@@ -248,7 +248,7 @@
           "symbol": "AXP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.328218,
+          "sentiment_score": 0.326593,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -256,7 +256,7 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.921149,
-          "sentiment_score": 0.20694,
+          "sentiment_score": 0.246534,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -268,11 +268,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.842614
+          "relevance_score": 0.843451
         },
         {
           "topic": "finance",
-          "relevance_score": 0.720224
+          "relevance_score": 0.735358
         },
         {
           "topic": "economy_macro",
@@ -307,7 +307,7 @@
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.333251,
+          "sentiment_score": 0.321553,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -315,8 +315,8 @@
           "symbol": "HD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.211467,
-          "sentiment_label": "Somewhat-Bullish",
+          "sentiment_score": -0.09418,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
@@ -339,7 +339,7 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.944354,
-          "sentiment_score": 0.343663,
+          "sentiment_score": 0.345021,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -347,7 +347,7 @@
           "symbol": "NVDA",
           "asset_class": null,
           "relevance_score": 0.736582,
-          "sentiment_score": 0.200737,
+          "sentiment_score": 0.215144,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -355,7 +355,7 @@
           "symbol": "BLK",
           "asset_class": null,
           "relevance_score": 0.731406,
-          "sentiment_score": 0.114757,
+          "sentiment_score": 0.133055,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -370,8 +370,8 @@
         {
           "symbol": "BAC",
           "asset_class": null,
-          "relevance_score": 0.627525,
-          "sentiment_score": 0.128969,
+          "relevance_score": 0.631128,
+          "sentiment_score": 0.11229,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -395,19 +395,19 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.931277
+          "relevance_score": 0.94889
         },
         {
           "topic": "financial_markets",
           "relevance_score": 0.920556
         },
         {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.846103
+          "topic": "technology",
+          "relevance_score": 0.847106
         },
         {
-          "topic": "technology",
-          "relevance_score": 0.82456
+          "topic": "retail_wholesale",
+          "relevance_score": 0.846103
         },
         {
           "topic": "life_sciences",
