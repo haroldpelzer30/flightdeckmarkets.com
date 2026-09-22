@@ -20,7 +20,7 @@
           "symbol": "SLB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.454253,
+          "sentiment_score": 0.460869,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -35,16 +35,16 @@
         {
           "symbol": "STT",
           "asset_class": null,
-          "relevance_score": 0.927958,
-          "sentiment_score": 0.134393,
-          "sentiment_label": "Neutral",
+          "relevance_score": 0.939113,
+          "sentiment_score": 0.305645,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "BKR",
           "asset_class": null,
           "relevance_score": 0.613827,
-          "sentiment_score": 0.321995,
+          "sentiment_score": 0.315028,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -87,12 +87,12 @@
           "relevance_score": 0.806488
         },
         {
-          "topic": "life_sciences",
-          "relevance_score": 0.742752
+          "topic": "energy_transportation",
+          "relevance_score": 0.743677
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.724279
+          "topic": "life_sciences",
+          "relevance_score": 0.742752
         }
       ],
       "articles": [
@@ -117,6 +117,122 @@
       ]
     },
     {
+      "event_id": 1367,
+      "title": "Andra AP fonden Acquires 9,800 Shares of HCA Healthcare, Inc. $HCA",
+      "summary": "Andra AP fonden increased its stake in HCA Healthcare by 21.1% in the second quarter, acquiring an additional 9,800 shares to bring its total holdings to 56,323 shares, valued at approximately $21.96 million. Institutional investors collectively own 62.73% of HCA Healthcare, with several major firms recently adding to their positions. HCA Healthcare surpassed quarterly earnings and revenue expectations, reporting $7.59 EPS and $20.23 billion in revenue, and analysts maintain a \"Moderate Buy\" rating with an average price target of $462.27.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-22T17:35:40",
+      "first_seen_at": "2026-09-22T20:00:02.512015",
+      "assets": [
+        {
+          "symbol": "AMP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.24338,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HCA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409959,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.734671,
+          "sentiment_score": 0.314738,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WBD",
+          "asset_class": null,
+          "relevance_score": 0.638885,
+          "sentiment_score": 0.102329,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ZTS",
+          "asset_class": null,
+          "relevance_score": 0.628887,
+          "sentiment_score": 0.1397,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.624868,
+          "sentiment_score": 0.10651,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.624475,
+          "sentiment_score": 0.11573,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.607726,
+          "sentiment_score": 0.128812,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94003
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845096
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.84067
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.729204
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1508,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Andra AP fonden Buys 62,718 Shares of Ameriprise Financial, Inc. $AMP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-buys-62718-shares-of-ameriprise-financial-inc-amp-2026-09-22/",
+          "published_at": "2026-09-22T17:33:35"
+        },
+        {
+          "article_id": 1507,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Andra AP fonden Acquires 9,800 Shares of HCA Healthcare, Inc. $HCA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-acquires-9800-shares-of-hca-healthcare-inc-hca-2026-09-22/",
+          "published_at": "2026-09-22T17:35:40"
+        }
+      ]
+    },
+    {
       "event_id": 1363,
       "title": "State Street Corp Acquires 11,739,541 Shares of American Express Company $AXP",
       "summary": "State Street Corp significantly increased its stake in American Express Company by 40.2% in Q2 2026, acquiring over 11.7 million shares, bringing its total holdings to 40.97 million shares valued at approximately $13.86 billion. American Express shares recently fell 2.1% to $307.13 despite reporting strong quarterly earnings of $4.53 EPS, surpassing estimates, and a 10% year-over-year revenue increase. The company maintains a positive fiscal 2026 EPS guidance and holds a consensus \"Moderate Buy\" analyst rating with an average price target of $373.32.",
@@ -132,7 +248,7 @@
           "symbol": "AXP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.326489,
+          "sentiment_score": 0.328218,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -140,7 +256,7 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.921149,
-          "sentiment_score": 0.220627,
+          "sentiment_score": 0.20694,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -148,7 +264,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.901203
+          "relevance_score": 0.921872
         },
         {
           "topic": "financial_markets",
@@ -191,7 +307,7 @@
           "symbol": "AMD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.3155,
+          "sentiment_score": 0.333251,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -199,7 +315,7 @@
           "symbol": "HD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.217265,
+          "sentiment_score": 0.211467,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -207,7 +323,7 @@
           "symbol": "LOW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.405052,
+          "sentiment_score": 0.386635,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -223,24 +339,24 @@
           "symbol": "STT",
           "asset_class": null,
           "relevance_score": 0.944354,
-          "sentiment_score": 0.137038,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.723623,
-          "sentiment_score": 0.121608,
-          "sentiment_label": "Neutral",
+          "sentiment_score": 0.343663,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NVDA",
           "asset_class": null,
-          "relevance_score": 0.717288,
-          "sentiment_score": 0.201886,
+          "relevance_score": 0.736582,
+          "sentiment_score": 0.200737,
           "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.731406,
+          "sentiment_score": 0.114757,
+          "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
@@ -255,7 +371,7 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.627525,
-          "sentiment_score": 0.115168,
+          "sentiment_score": 0.128969,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -291,7 +407,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.805669
+          "relevance_score": 0.82456
         },
         {
           "topic": "life_sciences",
@@ -303,11 +419,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.630743
+          "relevance_score": 0.640102
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.616636
+          "relevance_score": 0.634906
         }
       ],
       "articles": [
@@ -1284,53 +1400,6 @@
           "headline": "Offshore RMB Bond Pulse",
           "url": "https://www.spglobal.com/ratings/en/blog/offshore-rmb-bond-pulse",
           "published_at": "2026-09-21T20:39:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1338,
-      "title": "Enbridge (TSE:ENB) Insider Michele Eva Harradence Acquires 7,105 Shares of Stock",
-      "summary": "Enbridge (TSE:ENB) insider Michele Eva Harradence recently acquired 7,105 shares of the company's stock, investing C$478,024.40 at an average price of C$67.28 per share. This purchase increased her holdings by 8.84% to a total of 87,467 shares. The stock, currently trading below its moving averages, offers a 5.7% annualized dividend yield, and analysts maintain a \"Moderate Buy\" consensus rating with an average price target of C$77.62.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-09-21T19:26:43",
-      "first_seen_at": "2026-09-21T22:00:02.551778",
-      "assets": [
-        {
-          "symbol": "ENB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.412445,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943742
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.919597
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84609
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1470,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Enbridge (TSE:ENB) Insider Michele Eva Harradence Acquires 7,105 Shares of Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-enbridge-tse-enb-insider-michele-eva-harradence-acquires-7105-shares-of-stock-2026-09-21/",
-          "published_at": "2026-09-21T19:26:43"
         }
       ]
     }
