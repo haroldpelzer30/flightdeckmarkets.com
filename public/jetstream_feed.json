@@ -5,6 +5,402 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1362,
+      "title": "SLB Limited $SLB Shares Purchased by State Street Corp",
+      "summary": "State Street Corp increased its stake in SLB Limited by 0.8%, purchasing an additional 722,060 shares to own approximately 6.15% of the company. Institutional investors collectively own nearly 82% of SLB, which maintains a \"Moderate Buy\" consensus rating and an average price target of $61.80 from analysts. SLB recently exceeded quarterly earnings and revenue expectations and declared a quarterly dividend of $0.295 per share.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-22T17:36:28",
+      "first_seen_at": "2026-09-22T19:00:02.274552",
+      "assets": [
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.454253,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SYK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.268431,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.927958,
+          "sentiment_score": 0.134393,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.613827,
+          "sentiment_score": 0.321995,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.56857,
+          "sentiment_score": 0.02103,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.564835,
+          "sentiment_score": 0.047081,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JNJ",
+          "asset_class": null,
+          "relevance_score": 0.563536,
+          "sentiment_score": 0.011302,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.940593
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.835148
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.806488
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.742752
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.724279
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1500,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Stryker Corporation $SYK Shares Bought by State Street Corp",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-stryker-corporation-syk-shares-bought-by-state-street-corp-2026-09-22/",
+          "published_at": "2026-09-22T17:11:12"
+        },
+        {
+          "article_id": 1499,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "SLB Limited $SLB Shares Purchased by State Street Corp",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-slb-limited-slb-shares-purchased-by-state-street-corp-2026-09-22/",
+          "published_at": "2026-09-22T17:36:28"
+        }
+      ]
+    },
+    {
+      "event_id": 1363,
+      "title": "State Street Corp Acquires 11,739,541 Shares of American Express Company $AXP",
+      "summary": "State Street Corp significantly increased its stake in American Express Company by 40.2% in Q2 2026, acquiring over 11.7 million shares, bringing its total holdings to 40.97 million shares valued at approximately $13.86 billion. American Express shares recently fell 2.1% to $307.13 despite reporting strong quarterly earnings of $4.53 EPS, surpassing estimates, and a 10% year-over-year revenue increase. The company maintains a positive fiscal 2026 EPS guidance and holds a consensus \"Moderate Buy\" analyst rating with an average price target of $373.32.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-22T17:34:28",
+      "first_seen_at": "2026-09-22T19:00:02.740482",
+      "assets": [
+        {
+          "symbol": "AXP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.326489,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.921149,
+          "sentiment_score": 0.220627,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901203
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.842614
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.720224
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640298
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1501,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Acquires 11,739,541 Shares of American Express Company $AXP",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-11739541-shares-of-american-express-company-axp-2026-09-22/",
+          "published_at": "2026-09-22T17:34:28"
+        }
+      ]
+    },
+    {
+      "event_id": 1361,
+      "title": "State Street Corp Acquires 2,149,563 Shares of Advanced Micro Devices, Inc. $AMD",
+      "summary": "State Street Corp increased its stake in Advanced Micro Devices (AMD) by 2.9% in the second quarter, acquiring an additional 2.15 million shares, bringing its total holdings to 76.9 million shares valued at approximately $46.6 billion. Institutional investors and hedge funds collectively own 71.34% of AMD, and analysts generally maintain a \"Moderate Buy\" rating with an average price target of $565.12. Despite strong quarterly revenue growth and earnings beating expectations, the stock's high P/E ratio of 159 and significant insider selling indicate potential valuation and execution risks.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-22T17:34:12",
+      "first_seen_at": "2026-09-22T19:00:01.650436",
+      "assets": [
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.3155,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.217265,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LOW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.405052,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MDT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.269078,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.944354,
+          "sentiment_score": 0.137038,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.723623,
+          "sentiment_score": 0.121608,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.717288,
+          "sentiment_score": 0.201886,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DXCM",
+          "asset_class": null,
+          "relevance_score": 0.646148,
+          "sentiment_score": 0.104765,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.627525,
+          "sentiment_score": 0.115168,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WBD",
+          "asset_class": null,
+          "relevance_score": 0.582154,
+          "sentiment_score": 0.146978,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.562965,
+          "sentiment_score": 0.131043,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.931277
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920556
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.846103
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.805669
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.802229
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.728107
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.630743
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.616636
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1498,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Purchases 1,658,301 Shares of Medtronic PLC $MDT",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1658301-shares-of-medtronic-plc-mdt-2026-09-22/",
+          "published_at": "2026-09-22T17:10:47"
+        },
+        {
+          "article_id": 1497,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Acquires 880,815 Shares of Lowe's Companies, Inc. $LOW",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-880815-shares-of-lowes-companies-inc-low-2026-09-22/",
+          "published_at": "2026-09-22T17:21:47"
+        },
+        {
+          "article_id": 1496,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Acquires 2,149,563 Shares of Advanced Micro Devices, Inc. $AMD",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-2149563-shares-of-advanced-micro-devices-inc-amd-2026-09-22/",
+          "published_at": "2026-09-22T17:34:12"
+        },
+        {
+          "article_id": 1495,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Purchases 499,168 Shares of The Home Depot, Inc. $HD",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-499168-shares-of-the-home-depot-inc-hd-2026-09-22/",
+          "published_at": "2026-09-22T17:36:28"
+        }
+      ]
+    },
+    {
+      "event_id": 1364,
+      "title": "Andra AP fonden Acquires 8,600 Shares of Equinix, Inc. $EQIX",
+      "summary": "Andra AP fonden increased its stake in Equinix, Inc. by 102.7% in the second quarter, acquiring an additional 8,600 shares, bringing its total holdings to 16,975 shares valued at $17.7 million. Institutional investors now own 94.94% of Equinix. The company recently reported strong quarterly revenue of $2.62 billion, up 16.4% year over year, and adjusted earnings of $11.78 per share, significantly surpassing analyst estimates.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-22T17:21:38",
+      "first_seen_at": "2026-09-22T19:00:03.038209",
+      "assets": [
+        {
+          "symbol": "EQIX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.469386,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933173
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820791
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.747954
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.621418
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1502,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Andra AP fonden Acquires 8,600 Shares of Equinix, Inc. $EQIX",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-acquires-8600-shares-of-equinix-inc-eqix-2026-09-22/",
+          "published_at": "2026-09-22T17:21:38"
+        }
+      ]
+    },
+    {
       "event_id": 1360,
       "title": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
       "summary": "Moderna's stock (MRNA) has surged over 500% in 2026, significantly outperforming its rival BioNTech, primarily due to positive top-line results from its personalized cancer therapy, intismeran, in a melanoma trial. The market is now keenly awaiting detailed Phase 3 data on October 24 at the ESMO Presidential Symposium, which carries significant binary risk for the stock's future trajectory. Investors are advised to consider the potential for either validation of the rally or a sharp compression of the stock's valuation based on the upcoming data.",
@@ -935,222 +1331,6 @@
           "headline": "Enbridge (TSE:ENB) Insider Michele Eva Harradence Acquires 7,105 Shares of Stock",
           "url": "https://www.marketbeat.com/instant-alerts/insider-enbridge-tse-enb-insider-michele-eva-harradence-acquires-7105-shares-of-stock-2026-09-21/",
           "published_at": "2026-09-21T19:26:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1339,
-      "title": "AMD joins the $1 trillion club, leaving Intel behind",
-      "summary": "AMD has achieved a $1 trillion market capitalization for the first time, driven by investor enthusiasm for its growing AI and data-center business. This milestone places AMD ahead of longtime rival Intel, whose market value is around $644 billion, though it remains significantly smaller than Nvidia. The company's recent stock rally, with shares up over 180% this year, reflects strong demand for AI hardware and AMD's robust growth in its Data Center segment.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-21T19:18:44",
-      "first_seen_at": "2026-09-21T22:00:02.803933",
-      "assets": [
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.442733,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.844083,
-          "sentiment_score": -0.337954,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.749341,
-          "sentiment_score": 0.345947,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.908286
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901092
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1471,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Notebookcheck",
-          "source_domain": "Notebookcheck",
-          "headline": "AMD joins the $1 trillion club, leaving Intel behind",
-          "url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
-          "published_at": "2026-09-21T19:18:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1334,
-      "title": "Why Black Hills (NYSE:BKH) Is Back In Focus?",
-      "summary": "Black Hills Corporation (NYSE:BKH) is gaining renewed attention in the utilities sector following a recent rating update and its consistent operational performance. The company operates regulated electric and natural gas utilities across several U.S. states, utilizing a diversified energy mix that includes coal, natural gas, and wind. Its integrated business model, extensive infrastructure, and financial results showcasing adjusted per-unit performance above market estimates contribute to its current market focus amidst evolving energy demand and infrastructure requirements.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-21T18:01:11",
-      "first_seen_at": "2026-09-21T20:00:01.650047",
-      "assets": [
-        {
-          "symbol": "BKH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.549489,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840149
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1466,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Black Hills (NYSE:BKH) Is Back In Focus?",
-          "url": "https://kalkinemedia.com/us/stocks/utility/why-black-hills-nysebkh-is-back-in-focus",
-          "published_at": "2026-09-21T18:01:11"
-        }
-      ]
-    },
-    {
-      "event_id": 1336,
-      "title": "Diesel at $6 Just Ate J.B. Hunt’s Quarter. Truckers Can’t Raise Prices Fast Enough",
-      "summary": "J.B. Hunt Transport Services (JBHT) experienced a significant stock drop due to soaring diesel prices, which reached $6.45 a gallon and outpaced the company's ability to adjust fuel surcharges. Despite this, Wall Street analysts maintain a positive outlook with a consensus price target indicating a potential 25% climb. The company's management attributes the issue to a timing mismatch in surcharge resets and anticipates a recovery in the fourth quarter, contrasting with rivals like Old Dominion and XPO who have more quickly repriced fuel headwinds.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 79,
-      "published_at": "2026-09-21T17:47:13",
-      "first_seen_at": "2026-09-21T21:00:02.228018",
-      "assets": [
-        {
-          "symbol": "JBHT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.335392,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ODFL",
-          "asset_class": null,
-          "relevance_score": 0.714151,
-          "sentiment_score": 0.203584,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923321
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.918511
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.809965
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1468,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Diesel at $6 Just Ate J.B. Hunt’s Quarter. Truckers Can’t Raise Prices Fast Enough",
-          "url": "https://247wallst.com/investing/2026/09/21/diesel-at-6-just-ate-j-b-hunts-quarter-truckers-cant-raise-prices-fast-enough/",
-          "published_at": "2026-09-21T17:47:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1330,
-      "title": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
-      "summary": "RBC analysts predict that General Mills (GIS) will likely miss its fiscal first-quarter earnings estimates due to inflationary pressures and shipment timing issues. The article, provided by MT Newswires, suggests that a premium subscription is required to read the full analysis.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 71,
-      "published_at": "2026-09-21T15:50:09",
-      "first_seen_at": "2026-09-21T18:00:02.342254",
-      "assets": [
-        {
-          "symbol": "GIS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.43976,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.943266
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.84322
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.742019
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1462,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/general-mills-likely-miss-quarterly-155010022.html",
-          "published_at": "2026-09-21T15:50:09"
         }
       ]
     }
