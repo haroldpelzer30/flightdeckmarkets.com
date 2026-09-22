@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1375,
+      "title": "PTC Therapeutics completes ST-920 gene therapy acquisition By Investing.com",
+      "summary": "PTC Therapeutics has completed its acquisition of ST-920, a gene therapy for Fabry disease, from Sangamo Therapeutics, Inc. The company plans to submit a rolling Biologics License Application to the FDA for accelerated approval of ST-920 in the fourth quarter of 2026. ST-920 is a one-time administered AAV gene therapy that has received multiple designations from the FDA and European Medicines Agency, and is designed to address the limitations of chronic enzyme replacement therapy for Fabry disease.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-22T21:52:07",
+      "first_seen_at": "2026-09-22T23:00:02.054452",
+      "assets": [
+        {
+          "symbol": "PTCT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.48735,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.929088
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.641628
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1518,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Australia",
+          "source_domain": "Investing.com Australia",
+          "headline": "PTC Therapeutics completes ST-920 gene therapy acquisition By Investing.com",
+          "url": "https://au.investing.com/news/stock-market-news/ptc-therapeutics-completes-st920-gene-therapy-acquisition-93CH-4651420",
+          "published_at": "2026-09-22T21:52:07"
+        }
+      ]
+    },
+    {
       "event_id": 1373,
       "title": "Dominion-NextEra merger: SCC hears arguments on Clean Virginia motion to compel",
       "summary": "The State Corporation Commission (SCC) heard arguments regarding Clean Virginia's motion to compel NextEra to provide more information about its proposed $67 billion merger with Dominion Energy. Clean Virginia seeks documents related to alleged political misconduct and details on NextEra's past failed acquisition attempts, arguing this information is crucial for evaluating the merger's impact on Virginia ratepayers. NextEra claims these requests are irrelevant and would unnecessarily prolong the proceedings, while Clean Virginia insists a thorough examination is necessary before a decision is made.",
@@ -20,15 +67,15 @@
           "symbol": "D",
           "asset_class": null,
           "relevance_score": 0.957371,
-          "sentiment_score": -0.124629,
+          "sentiment_score": -0.122381,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "NEE",
           "asset_class": null,
-          "relevance_score": 0.911378,
-          "sentiment_score": 0.086361,
+          "relevance_score": 0.933662,
+          "sentiment_score": 0.076392,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,7 +91,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.813486
+          "relevance_score": 0.841203
         }
       ],
       "articles": [
@@ -74,24 +121,24 @@
         {
           "symbol": "AMP",
           "asset_class": null,
-          "relevance_score": 0.950812,
-          "sentiment_score": -0.342494,
+          "relevance_score": 0.970361,
+          "sentiment_score": -0.304528,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "NTRS",
           "asset_class": null,
-          "relevance_score": 0.862133,
-          "sentiment_score": -0.349519,
+          "relevance_score": 0.877994,
+          "sentiment_score": -0.347395,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "MS",
           "asset_class": null,
-          "relevance_score": 0.80265,
-          "sentiment_score": -0.306748,
+          "relevance_score": 0.845886,
+          "sentiment_score": -0.318273,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -107,11 +154,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.716959
+          "relevance_score": 0.745389
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.613326
+          "relevance_score": 0.618519
         }
       ],
       "articles": [
@@ -1377,45 +1424,6 @@
           "headline": "H2O America’s Texas unit receives approval for wastewater acquisition",
           "url": "https://www.investing.com/news/company-news/h2o-americas-texas-unit-receives-approval-for-wastewater-acquisition-93CH-4909609",
           "published_at": "2026-09-21T21:21:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1340,
-      "title": "Teledyne, Varex Imaging filed US premerger notifications Sept. 16",
-      "summary": "Teledyne Technologies and Varex Imaging Corp. submitted their Hart-Scott-Rodino Act premerger notifications to the US FTC and DOJ on September 16. This action initiates a 30-day waiting period, set to expire on October 16, unless modified by the agencies. The merger also requires approval from several other international regulatory bodies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-21T21:20:00",
-      "first_seen_at": "2026-09-21T23:00:01.685299",
-      "assets": [
-        {
-          "symbol": "TDY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.126097,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1472,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MLex",
-          "source_domain": "MLex",
-          "headline": "Teledyne, Varex Imaging filed US premerger notifications Sept. 16",
-          "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2528145/teledyne-varex-imaging-filed-us-premerger-notifications-sept-16",
-          "published_at": "2026-09-21T21:20:00"
         }
       ]
     }
