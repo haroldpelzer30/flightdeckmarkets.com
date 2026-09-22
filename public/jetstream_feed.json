@@ -20,7 +20,7 @@
           "symbol": "TRV",
           "asset_class": null,
           "relevance_score": 0.986383,
-          "sentiment_score": 0.261487,
+          "sentiment_score": 0.261763,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -31,12 +31,12 @@
           "relevance_score": 0.949978
         },
         {
-          "topic": "economy_monetary",
-          "relevance_score": 0.838113
+          "topic": "financial_markets",
+          "relevance_score": 0.848422
         },
         {
-          "topic": "financial_markets",
-          "relevance_score": 0.800511
+          "topic": "economy_monetary",
+          "relevance_score": 0.838113
         },
         {
           "topic": "finance",
@@ -44,7 +44,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.61969
+          "relevance_score": 0.631385
         }
       ],
       "articles": [
