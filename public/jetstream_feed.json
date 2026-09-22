@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1343,
+      "title": "Is Freeport-McMoRan (NYSE:FCX) Facing A Copper Demand Shift?",
+      "summary": "Freeport-McMoRan (NYSE:FCX) is under scrutiny as tightening copper demand in Chinese physical markets becomes a central theme. The article examines how broader market factors such as interest rates, energy costs, and trade diplomacy, alongside company-specific fundamentals, are influencing the company's outlook. It emphasizes that a measured approach focusing on disclosed operating details, rather than broad sentiment, is crucial for understanding FCX's position in a dynamic market.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-21T22:14:13",
+      "first_seen_at": "2026-09-22T00:00:02.254963",
+      "assets": [
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.121022,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.918806
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.821273
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.700656
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.644619
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.611719
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1475,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Is Freeport-McMoRan (NYSE:FCX) Facing A Copper Demand Shift?",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/is-freeport-mcmoran-nysefcx-facing-a-copper-demand-shift",
+          "published_at": "2026-09-21T22:14:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1344,
+      "title": "H2O America’s Texas unit receives approval for wastewater acquisition",
+      "summary": "H2O America's Texas subsidiary, The Texas Water Company, Inc., has received regulatory approval to acquire the Cibolo Valley wastewater treatment plant and its associated collection systems from South Central Water Company. This acquisition, expected to close on November 1, 2026, will significantly expand TWC's wastewater connections in its Texas Hill Country service area. H2O America currently provides water services to over 1.6 million people across multiple states.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-21T21:21:43",
+      "first_seen_at": "2026-09-22T00:00:02.570275",
+      "assets": [
+        {
+          "symbol": "HTO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.406237,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.823299
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1476,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "H2O America’s Texas unit receives approval for wastewater acquisition",
+          "url": "https://www.investing.com/news/company-news/h2o-americas-texas-unit-receives-approval-for-wastewater-acquisition-93CH-4909609",
+          "published_at": "2026-09-21T21:21:43"
+        }
+      ]
+    },
+    {
       "event_id": 1340,
       "title": "Teledyne, Varex Imaging filed US premerger notifications Sept. 16",
       "summary": "Teledyne Technologies and Varex Imaging Corp. submitted their Hart-Scott-Rodino Act premerger notifications to the US FTC and DOJ on September 16. This action initiates a 30-day waiting period, set to expire on October 16, unless modified by the agencies. The merger also requires approval from several other international regulatory bodies.",
@@ -20,7 +118,7 @@
           "symbol": "TDY",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.104165,
+          "sentiment_score": 0.126097,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -59,7 +157,7 @@
           "symbol": "DAL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.320156,
+          "sentiment_score": 0.320197,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -67,7 +165,7 @@
           "symbol": "UAL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.547509,
+          "sentiment_score": 0.538896,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -75,7 +173,7 @@
           "symbol": "LUV",
           "asset_class": null,
           "relevance_score": 0.835318,
-          "sentiment_score": 0.319648,
+          "sentiment_score": 0.308979,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -87,7 +185,7 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.829646
+          "relevance_score": 0.849559
         }
       ],
       "articles": [
@@ -117,8 +215,8 @@
         {
           "symbol": "SPGI",
           "asset_class": null,
-          "relevance_score": 0.8291,
-          "sentiment_score": -0.134261,
+          "relevance_score": 0.829457,
+          "sentiment_score": -0.143618,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -126,7 +224,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.945198
+          "relevance_score": 0.947964
         },
         {
           "topic": "economy_macro",
@@ -1047,104 +1145,6 @@
           "headline": "Nykredit A S Acquires New Shares in Crown Castle Inc. $CCI",
           "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-shares-in-crown-castle-inc-cci-2026-09-21/",
           "published_at": "2026-09-21T08:11:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1318,
-      "title": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited",
-      "summary": "State Street Corporation and its subsidiaries have acquired a 5.00% voting stake in Sims Limited, an ASX-listed company, as of September 17, 2026. This substantial holding consists of 9,668,706 ordinary shares. Various State Street entities, including State Street Global Advisors, hold relevant interests through investment management, trusteeship, and securities lending arrangements.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-21T07:55:09",
-      "first_seen_at": "2026-09-21T12:00:03.182576",
-      "assets": [
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.403311,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.8369
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1450,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited",
-          "url": "https://kalkinemedia.com/au/news/announcements/state-street-corporation-acquires-500-voting-stake-in-sims-limited",
-          "published_at": "2026-09-21T07:55:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1313,
-      "title": "Two global health firms plan layoffs in metro Phoenix",
-      "summary": "Two global health firms, West Pharmaceutical Services Inc. and Becton, Dickinson and Co., are planning layoffs in the Phoenix metropolitan area. West Pharmaceutical Services will lay off 98 employees in Scottsdale due to ceasing operations on a product line, while Becton, Dickinson and Co. is moving its manufacturing operations to other facilities.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-18T21:57:53",
-      "first_seen_at": "2026-09-19T00:00:02.913693",
-      "assets": [
-        {
-          "symbol": "WST",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.412875,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BDX",
-          "asset_class": null,
-          "relevance_score": 0.809426,
-          "sentiment_score": -0.336116,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.916633
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.800514
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.741472
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1445,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Two global health firms plan layoffs in metro Phoenix",
-          "url": "https://www.bizjournals.com/phoenix/news/2026/09/18/two-health-firms-warn-of-layoffs-in-metro-phoenix.html",
-          "published_at": "2026-09-18T21:57:53"
         }
       ]
     }
