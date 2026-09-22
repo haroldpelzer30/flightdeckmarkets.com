@@ -5,6 +5,141 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1348,
+      "title": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
+      "summary": "BBVA's Group CEO Onur Genç presented the bank's strategy at the Bank of America 31st Annual Financials CEO Conference, focusing on profitable growth, digital scale, and capital discipline, despite pressures in Turkey. The bank highlighted strong performance in Mexico and Spain, significant lending book growth, and the crucial role of technology and AI in its future. While acknowledging short-term difficulties in Turkey due to inflation, BBVA remains optimistic about its long-term potential and overall financial sustainability.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-22T12:02:03",
+      "first_seen_at": "2026-09-22T13:00:02.175001",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.923048,
+          "sentiment_score": 0.130998,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.550542,
+          "sentiment_score": 0.12735,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.908937
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.846979
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.741812
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.700526
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.646556
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1481,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "UBS at Bank of America financials conference: growth meets capital pressure",
+          "url": "https://www.investing.com/news/transcripts/ubs-at-bank-of-america-financials-conference-growth-meets-capital-pressure-93CH-4910194",
+          "published_at": "2026-09-22T10:04:07"
+        },
+        {
+          "article_id": 1480,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
+          "url": "https://www.investing.com/news/transcripts/bbva-at-bank-of-america-31th-annual-financials-ceo-conference-growth-and-caution-93CH-4910569",
+          "published_at": "2026-09-22T12:02:03"
+        }
+      ]
+    },
+    {
+      "event_id": 1349,
+      "title": "Wells Fargo upgrades transport outlook on tight capacity, intermodal gains",
+      "summary": "Wells Fargo has upgraded its transport outlook, citing tight truckload capacity and anticipated intermodal gains. A major shipper surveyed by Wells Fargo plans to shift more volume to intermodal transport due to cost savings and better service, expecting intermodal rates to rise significantly next year. The firm favors JB Hunt, XPO, and Old Dominion Freight Line, predicting increased profitability for these companies.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-22T09:38:45",
+      "first_seen_at": "2026-09-22T13:00:02.551151",
+      "assets": [
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.933978,
+          "sentiment_score": 0.38591,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JBHT",
+          "asset_class": null,
+          "relevance_score": 0.817101,
+          "sentiment_score": 0.406027,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ODFL",
+          "asset_class": null,
+          "relevance_score": 0.729075,
+          "sentiment_score": 0.34827,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.920714
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849899
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1482,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Wells Fargo upgrades transport outlook on tight capacity, intermodal gains",
+          "url": "https://www.investing.com/news/stock-market-news/wells-fargo-upgrades-transport-outlook-on-tight-capacity-intermodal-gains-93CH-4910155",
+          "published_at": "2026-09-22T09:38:45"
+        }
+      ]
+    },
+    {
       "event_id": 1343,
       "title": "Is Freeport-McMoRan (NYSE:FCX) Facing A Copper Demand Shift?",
       "summary": "Freeport-McMoRan (NYSE:FCX) is under scrutiny as tightening copper demand in Chinese physical markets becomes a central theme. The article examines how broader market factors such as interest rates, energy costs, and trade diplomacy, alongside company-specific fundamentals, are influencing the company's outlook. It emphasizes that a measured approach focusing on disclosed operating details, rather than broad sentiment, is crucial for understanding FCX's position in a dynamic market.",
@@ -1003,148 +1138,6 @@
           "headline": "Mohawk Industries insider sells shares after quarterly earnings beat",
           "url": "https://www.interiordaily.com/article/9874882/mohawk-industries-insider-sells-shares-after-quarterly-earnings-beat/",
           "published_at": "2026-09-21T09:04:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1316,
-      "title": "Morgan Stanley’s Wilson Says US Stocks Risk 7% Drop in Near Term",
-      "summary": "Morgan Stanley strategists, led by Michael Wilson, warn that US equities, specifically the S&P 500, could drop as much as 7% in the near term due to increased energy prices and bond market volatility. Despite strong corporate earnings helping to offset higher bond yields, the S&P 500's valuation has declined. Wilson predicts a potential drop to 7,100 points if financial conditions tighten further or energy prices rise, but still anticipates a year-end rally to 8,000 points driven by robust earnings.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-21T08:24:45",
-      "first_seen_at": "2026-09-21T12:00:02.512727",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.204436,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.647895,
-          "sentiment_score": 0.101952,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.637077,
-          "sentiment_score": 0.131498,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.61831,
-          "sentiment_score": 0.112888,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.847797
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.745642
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.632344
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.628435
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1448,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Morgan Stanley’s Wilson Says US Stocks Risk 7% Drop in Near Term",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-us-082353803.html",
-          "published_at": "2026-09-21T08:24:45"
-        }
-      ]
-    },
-    {
-      "event_id": 1317,
-      "title": "Nykredit A S Acquires New Shares in Crown Castle Inc. $CCI",
-      "summary": "Nykredit A/S has acquired a new position of 153,323 shares in Crown Castle Inc. (NYSE:CCI) during the second quarter, valued at approximately $11.6 million. Other institutional investors like BlackRock Inc. and Norges Bank also significantly increased their stakes. Crown Castle reported strong Q2 earnings per share of $0.69, exceeding estimates, despite a 4.9% year-over-year revenue decline, and declared a quarterly dividend of $1.0625 per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-21T08:11:35",
-      "first_seen_at": "2026-09-21T12:00:02.857954",
-      "assets": [
-        {
-          "symbol": "CCI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.109751,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.645458,
-          "sentiment_score": 0.303227,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909401
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820062
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.739113
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.641758
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.640914
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1449,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Nykredit A S Acquires New Shares in Crown Castle Inc. $CCI",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-shares-in-crown-castle-inc-cci-2026-09-21/",
-          "published_at": "2026-09-21T08:11:35"
         }
       ]
     }
