@@ -5,6 +5,195 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1350,
+      "title": "The Clock Is Ticking on GameStop’s eBay Acquisition Play as Warrants Near Expiration",
+      "summary": "GameStop has revealed a $4.9 billion stake in eBay and a proposed acquisition, detailed in its Q2 8-K filing. This development comes as 59 million GameStop warrants with a $32 strike price are set to expire on October 30, risking $1.9 billion in potential acquisition funding, as the current stock price is significantly lower at $22.76. The company's ability to fund this acquisition now largely depends on whether the stock can reach the strike price before the deadline or if alternative funding methods are secured.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-22T13:06:06",
+      "first_seen_at": "2026-09-22T14:00:02.683493",
+      "assets": [
+        {
+          "symbol": "EBAY",
+          "asset_class": null,
+          "relevance_score": 0.965664,
+          "sentiment_score": -0.126617,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904836
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.824578
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.710368
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1483,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "The Clock Is Ticking on GameStop’s eBay Acquisition Play as Warrants Near Expiration",
+          "url": "https://247wallst.com/investing/2026/09/22/the-clock-is-ticking-on-gamestops-ebay-acquisition-play-as-warrants-near-expiration/",
+          "published_at": "2026-09-22T13:06:06"
+        }
+      ]
+    },
+    {
+      "event_id": 1351,
+      "title": "Inflation Tops Family Offices’ Worries, Citi Survey Finds",
+      "summary": "A recent survey by Citigroup Inc. reveals that inflation has become the primary concern for family offices globally, surpassing trade wars and tariffs. The report, based on surveys of 350 firms in over 40 countries, highlights that rising costs are now vexing even the wealthiest investors. Andy Sieg, head of Citi's New York-based bank, noted the significance of this shift in concern among successful individuals and families.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "CRITICAL",
+      "intelligence_score": 90,
+      "published_at": "2026-09-22T12:23:01",
+      "first_seen_at": "2026-09-22T14:00:02.967686",
+      "assets": [
+        {
+          "symbol": "C",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.116289,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.918253
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.83622
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.706088
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.60197
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1484,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg Tax",
+          "source_domain": "Bloomberg Tax",
+          "headline": "Inflation Tops Family Offices’ Worries, Citi Survey Finds",
+          "url": "https://news.bloombergtax.com/international-trade/inflation-tops-family-offices-worries-citi-survey-finds",
+          "published_at": "2026-09-22T12:23:01"
+        }
+      ]
+    },
+    {
+      "event_id": 1352,
+      "title": "Valero Energy (NYSE:VLO) Given \"Hold\" Rating at Jefferies Financial Group",
+      "summary": "Jefferies Financial Group has reissued a \"Hold\" rating for Valero Energy (NYSE:VLO) with a $401 price target, indicating a potential upside of 1.85%. This comes despite a broader analyst consensus of \"Moderate Buy\" and an average target of $328.88. The oil and gas company recently reported strong quarterly earnings, beating analyst estimates with $12.54 EPS and revenue of $44.48 billion, a 48.8% year-over-year increase.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-22T12:22:30",
+      "first_seen_at": "2026-09-22T14:00:03.231741",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.262457,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "RJF",
+          "asset_class": null,
+          "relevance_score": 0.624504,
+          "sentiment_score": 0.107104,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BEN",
+          "asset_class": null,
+          "relevance_score": 0.607826,
+          "sentiment_score": 0.075465,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.59855,
+          "sentiment_score": 0.147653,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.555113,
+          "sentiment_score": 0.083639,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.943246
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.905581
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828288
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.720474
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648509
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1485,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Valero Energy (NYSE:VLO) Given \"Hold\" Rating at Jefferies Financial Group",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-valero-energy-nyse-vlo-given-hold-rating-at-jefferies-financial-group-2026-09-22/",
+          "published_at": "2026-09-22T12:22:30"
+        }
+      ]
+    },
+    {
       "event_id": 1348,
       "title": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
       "summary": "BBVA's Group CEO Onur Genç presented the bank's strategy at the Bank of America 31st Annual Financials CEO Conference, focusing on profitable growth, digital scale, and capital discipline, despite pressures in Turkey. The bank highlighted strong performance in Mexico and Spain, significant lending book growth, and the crucial role of technology and AI in its future. While acknowledging short-term difficulties in Turkey due to inflation, BBVA remains optimistic about its long-term potential and overall financial sustainability.",
@@ -20,8 +209,8 @@
           "symbol": "BAC",
           "asset_class": null,
           "relevance_score": 0.923048,
-          "sentiment_score": 0.130998,
-          "sentiment_label": "Neutral",
+          "sentiment_score": 0.231352,
+          "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
@@ -40,7 +229,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.908937
+          "relevance_score": 0.945144
         },
         {
           "topic": "economy_monetary",
@@ -52,7 +241,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.700526
+          "relevance_score": 0.74019
         },
         {
           "topic": "technology",
@@ -969,175 +1158,6 @@
           "headline": "3 Surging Stocks That Don’t Need the AI Boom to Keep Winning",
           "url": "https://www.marketbeat.com/articles/3-surging-stocks-that-dont-need-the-ai-boom-to-keep-winning/",
           "published_at": "2026-09-21T13:14:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1322,
-      "title": "New Era Energy stock surges 16% on Vistra power deal By Investing.com",
-      "summary": "New Era Energy & Digital (NASDAQ:NUAI) shares surged 16% following the announcement of a 20-year power purchase agreement with Luminant, an affiliate of Vistra Corp. (NYSE:VST). This deal secures up to 207 MW of power for Phase 1 of New Era's Texas Critical Data Center project, with power supply expected to commence in Q3 2027. The agreement also includes a development framework for future power expansion and grants Vistra a 5% non-voting interest and rights of first refusal on future development.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-21T11:39:48",
-      "first_seen_at": "2026-09-21T14:00:02.808351",
-      "assets": [
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.908192,
-          "sentiment_score": 0.345122,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.813483,
-          "sentiment_score": 0.430736,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.912652
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820284
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1454,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "New Era Energy stock surges 16% on Vistra power deal By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/new-era-energy-stock-surges-16-on-vistra-power-deal-93CH-2702470",
-          "published_at": "2026-09-21T11:39:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1319,
-      "title": "No CXMT Jitters? Micron, AMD, SanDisk, Intel, Other Chip Stocks Surge Up To 6% Pre-Market",
-      "summary": "Semiconductor chip companies' stock futures surged up to 6% in pre-market trading, continuing their rebound despite China's CXMT announcing mass production of a new memory chip platform. This rally follows a shift in investor focus from AI spending concerns to tight chip supply and strong data-center demand. Shares of major companies like Intel, AMD, Micron, and SanDisk all saw significant gains.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-21T11:06:25",
-      "first_seen_at": "2026-09-21T13:00:01.679198",
-      "assets": [
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.4196,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "INTC",
-          "asset_class": null,
-          "relevance_score": 0.818867,
-          "sentiment_score": 0.439101,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.745729,
-          "sentiment_score": 0.42594,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.645486,
-          "sentiment_score": 0.336314,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913455
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.834781
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.738335
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.641726
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1451,
-          "provider": "ALPHA_VANTAGE",
-          "source": "NDTV Profit",
-          "source_domain": "NDTV Profit",
-          "headline": "No CXMT Jitters? Micron, AMD, SanDisk, Intel, Other Chip Stocks Surge Up To 6% Pre-Market",
-          "url": "https://www.ndtvprofit.com/markets/no-cxmt-jitters-micron-amd-sandisk-intel-other-chip-stocks-surge-up-to-6-pre-market-12076206",
-          "published_at": "2026-09-21T11:06:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1315,
-      "title": "Mohawk Industries insider sells shares after quarterly earnings beat",
-      "summary": "An insider at Mohawk Industries, Suzanne Helen, sold 800 shares worth $100,496 on September 18, reducing her ownership by 13.05%. This transaction followed the company's stronger-than-expected second-quarter performance, where adjusted earnings and revenue surpassed analyst expectations. Mohawk Industries currently has a \"Hold\" consensus from analysts, with a market capitalization of $8.54 billion.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-21T09:04:34",
-      "first_seen_at": "2026-09-21T12:00:02.178524",
-      "assets": [
-        {
-          "symbol": "MHK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.194052,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.931253
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.735588
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1447,
-          "provider": "ALPHA_VANTAGE",
-          "source": "InteriorDaily",
-          "source_domain": "InteriorDaily",
-          "headline": "Mohawk Industries insider sells shares after quarterly earnings beat",
-          "url": "https://www.interiordaily.com/article/9874882/mohawk-industries-insider-sells-shares-after-quarterly-earnings-beat/",
-          "published_at": "2026-09-21T09:04:34"
         }
       ]
     }
