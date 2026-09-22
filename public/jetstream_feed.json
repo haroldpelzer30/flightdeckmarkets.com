@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1360,
+      "title": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
+      "summary": "Moderna's stock (MRNA) has surged over 500% in 2026, significantly outperforming its rival BioNTech, primarily due to positive top-line results from its personalized cancer therapy, intismeran, in a melanoma trial. The market is now keenly awaiting detailed Phase 3 data on October 24 at the ESMO Presidential Symposium, which carries significant binary risk for the stock's future trajectory. Investors are advised to consider the potential for either validation of the rally or a sharp compression of the stock's valuation based on the upcoming data.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-22T15:17:54",
+      "first_seen_at": "2026-09-22T18:00:02.322052",
+      "assets": [
+        {
+          "symbol": "MRNA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.424321,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MRK",
+          "asset_class": null,
+          "relevance_score": 0.831694,
+          "sentiment_score": 0.275606,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.824141
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1494,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
+          "url": "https://247wallst.com/investing/2026/09/22/moderna-adds-another-5-and-is-up-500-in-2026-can-mrna-stock-continue-the-melt-up/",
+          "published_at": "2026-09-22T15:17:54"
+        }
+      ]
+    },
+    {
       "event_id": 1354,
       "title": "Zacks Industry Outlook Highlights Berkshire Hathaway, Travelers Companies, Hanover Insurance, First American Financial and Essent",
       "summary": "The Zacks Property and Casualty Insurance industry is projected to grow despite challenges like softer pricing, driven by prudent underwriting, exposure growth, and digitalization. The article highlights five key players—Berkshire Hathaway, Travelers Companies, The Hanover Insurance Group, First American Financial, and Essent Group—that are well-positioned for growth. Key trends shaping the industry include proper pricing strategies, managing catastrophe losses, ongoing mergers and acquisitions, and increased adoption of technologies like AI.",
@@ -1096,93 +1151,6 @@
           "headline": "General Mills Likely to Miss Quarterly Earnings Estimates on Inflation, Shipment Timing, RBC Says",
           "url": "https://finance.yahoo.com/markets/stocks/articles/general-mills-likely-miss-quarterly-155010022.html",
           "published_at": "2026-09-21T15:50:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1327,
-      "title": "Bank of America hikes S&P 500 target after Al trade cracks",
-      "summary": "Bank of America has raised its year-end S&P 500 target to 7,400 and its 12-month target to 7,800, citing strengthened earnings and a shift in the AI trade. The bank upgraded Communication Services, dominated by Alphabet and Meta, to marketweight, expecting cloud revenue growth to outpace capital expenditures by 2027. While a sell-off risk remains due to inflation, BofA prefers hyperscalers over the chip trade, though it notes concerns about off-balance sheet commitments and the potential impact of private company IPOs on public markets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-21T15:33:42",
-      "first_seen_at": "2026-09-21T17:00:01.995400",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.268238,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.843312,
-          "sentiment_score": 0.287275,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.799664,
-          "sentiment_score": 0.241558,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.642544,
-          "sentiment_score": 0.151848,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.589257,
-          "sentiment_score": 0.128964,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.939412
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.841292
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.730846
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.644551
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.6353
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1459,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Bank of America hikes S&P 500 target after Al trade cracks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hikes-p-500-153300657.html",
-          "published_at": "2026-09-21T15:33:42"
         }
       ]
     }
