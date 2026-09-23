@@ -5,6 +5,273 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1413,
+      "title": "Gold Defied the Fed’s Rate Hike—These 3 Plays Stand Out",
+      "summary": "Gold, typically inversely correlated with interest rates, briefly dipped after the Fed's latest rate hike but quickly recovered, suggesting that factors like central bank buying and counterparty risk now override traditional rate sensitivity. Central banks, particularly China, are actively accumulating and repatriating gold to hedge against geopolitical risks and rising U.S. debt, rather than merely diversifying from the dollar. For investors seeking exposure to this trend, Newmont Corp. (NEM) offers a direct play on gold mining, Wheaton Precious Metals (WPM) provides a lower-risk royalty model, and iShares Silver Trust (SLV) taps into silver's independent supply deficit story.",
+      "event_type": "MONETARY_POLICY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 82,
+      "published_at": "2026-09-23T16:49:10",
+      "first_seen_at": "2026-09-23T18:00:02.166109",
+      "assets": [
+        {
+          "symbol": "WPM",
+          "asset_class": null,
+          "relevance_score": 0.907369,
+          "sentiment_score": 0.330134,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 0.884694,
+          "sentiment_score": 0.275635,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901527
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.827561
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.608058
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1558,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Gold Defied the Fed’s Rate Hike—These 3 Plays Stand Out",
+          "url": "https://www.marketbeat.com/articles/gold-defied-the-feds-rate-hikethese-3-plays-stand-out/",
+          "published_at": "2026-09-23T16:49:10"
+        }
+      ]
+    },
+    {
+      "event_id": 1414,
+      "title": "Rollins stock falls 44.3 percent as earnings miss weighs",
+      "summary": "Rollins Inc. stock has fallen 44.3 percent year-to-date, trading at USD 32.86 on September 23, 2026, due to an earnings miss in the second quarter. The company reported EPS of USD 0.32, below the USD 0.34 estimate, and revenue of USD 1.08 billion, slightly missing the USD 1.09 billion estimate. This performance has led to significant price target cuts from analysts, and the stock is trading near its 52-week low.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-23T16:37:00",
+      "first_seen_at": "2026-09-23T18:00:02.445912",
+      "assets": [
+        {
+          "symbol": "ROL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.410789,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.935319
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1559,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Rollins stock falls 44.3 percent as earnings miss weighs",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/rollins-stock-falls-44-3-percent-as-earnings-miss-weighs/70168083",
+          "published_at": "2026-09-23T16:37:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1415,
+      "title": "Fox Corporation stock holds at USD 64.25 after earnings beat",
+      "summary": "Fox Corporation's stock maintained its price at USD 64.25 after reporting earnings that surpassed expectations for the quarter ending June 30, 2026. The company's EPS of USD 1.79 and revenue of USD 4.21 billion exceeded analyst estimates, leading Guggenheim to reiterate an USD 85 target. Despite strong financial performance and trading above moving averages, the stock remains below its 52-week high, indicating a varied valuation perspective among analysts.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-23T16:32:00",
+      "first_seen_at": "2026-09-23T18:00:02.722487",
+      "assets": [
+        {
+          "symbol": "FOX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.393437,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941092
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1560,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Fox Corporation stock holds at USD 64.25 after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-holds-at-usd-64-25-after-earnings-beat/70168049",
+          "published_at": "2026-09-23T16:32:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1416,
+      "title": "Wheaton Precious Metals Corp Stock (WPM) Moved Down by 5.08% on Sep 23: Facts Behind the Movement",
+      "summary": "Wheaton Precious Metals Corp (WPM) stock declined by 5.08% on September 23rd due to a broader selloff in the precious metals sector, driven by hawkish monetary policy expectations and a strengthening U.S. dollar. This movement caused spot prices for gold and silver to retreat, impacting streaming revenues for companies like WPM. Despite solid long-term fundamentals, short-term momentum was affected by macroeconomic headwinds, with technical indicators showing neutral MACD and RSI, and an oversold Williams %R.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-23T16:23:10",
+      "first_seen_at": "2026-09-23T18:00:02.947309",
+      "assets": [
+        {
+          "symbol": "WPM",
+          "asset_class": null,
+          "relevance_score": 0.329135,
+          "sentiment_score": 0.008502,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.929478
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.817485
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.726856
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1561,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Wheaton Precious Metals Corp Stock (WPM) Moved Down by 5.08% on Sep 23: Facts Behind the Movement",
+          "url": "https://www.tradingkey.com/news/market-movers/262183246-market-movers-wpm-20260923",
+          "published_at": "2026-09-23T16:23:10"
+        }
+      ]
+    },
+    {
+      "event_id": 1417,
+      "title": "Prediction: This Magnificent Seven Stock Could Soar 50% by 2027",
+      "summary": "This article predicts that Alphabet (GOOG) stock could soar 50% by 2027, reaching $525 per share, driven by its rapidly growing Google Cloud business, the scaling of Gemini, and strong analyst sentiment. Despite increased capital expenditure and debt, the company's significant cloud backlog and AI-related revenue ramps are expected to propel its growth. The analysis outlines the financial math and key catalysts supporting this optimistic forecast.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-23T16:00:11",
+      "first_seen_at": "2026-09-23T18:00:03.194489",
+      "assets": [
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.957918,
+          "sentiment_score": 0.457143,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.905548,
+          "sentiment_score": 0.46811,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.593765,
+          "sentiment_score": 0.227989,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CRWD",
+          "asset_class": null,
+          "relevance_score": 0.592595,
+          "sentiment_score": 0.220849,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DVN",
+          "asset_class": null,
+          "relevance_score": 0.552625,
+          "sentiment_score": 0.180823,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948774
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914057
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.80895
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1562,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Prediction: This Magnificent Seven Stock Could Soar 50% by 2027",
+          "url": "https://247wallst.com/investing/2026/09/23/prediction-this-magnificent-seven-stock-could-soar-50-by-2027/",
+          "published_at": "2026-09-23T16:00:11"
+        }
+      ]
+    },
+    {
       "event_id": 1406,
       "title": "Prudential Financial stock reflects a Q2 earnings beat",
       "summary": "Prudential Financial (PRU) reported adjusted Q2 2026 EPS of $4.08, surpassing the consensus estimate of $3.52, despite revenue of $14.15 billion falling short of the $14.36 billion estimate. The stock was trading up 0.71% at $118.50 on September 23, 2026, and its market capitalization stood at $41.1195 billion. Institutional ownership saw State Street increase its position by 1.2% during the quarter.",
@@ -819,253 +1086,6 @@
           "headline": "W.W. Grainger stock gains 0.76 percent after earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-gains-0-76-percent-after-earnings-beat/70166900",
           "published_at": "2026-09-23T12:20:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1394,
-      "title": "Stanley Black & Decker stock gains as earnings beat estimates",
-      "summary": "Stanley Black & Decker stock gained 0.52% on September 22, 2026, closing at USD 89.58, following an earnings beat for the second quarter of fiscal year 2026. The company reported adjusted earnings per share of USD 1.57 against a USD 1.20 consensus estimate, and revenue of USD 3.96 billion. Despite the gains, the stock remains below its 52-week high, with analysts like Wells Fargo maintaining a price target of USD 95.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-23T12:19:58",
-      "first_seen_at": "2026-09-23T14:00:02.876475",
-      "assets": [
-        {
-          "symbol": "SWK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.461707,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.946706
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.82856
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.64785
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.626052
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1538,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Stanley Black & Decker stock gains as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/stanley-black-and-decker-stock-gains-as-earnings-beat-estimates/70166906",
-          "published_at": "2026-09-23T12:19:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1386,
-      "title": "Blackstone acquires 24.7% stake in Eurowind Energy",
-      "summary": "Blackstone Infrastructure has acquired a 24.7% stake in Danish IPP Eurowind Energy, committing to invest up to US$2.3 billion to accelerate its growth across Europe. This investment supports Eurowind Energy's goal to become a pan-European IPP, targeting 1.5GW of new solar PV, wind, and energy storage capacity annually by 2030. The transaction follows Eurowind Energy's acquisition of EnBW's Swedish renewables platform, highlighting significant expansion and consolidation in the European renewables market.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-23T11:38:57",
-      "first_seen_at": "2026-09-23T13:00:01.990990",
-      "assets": [
-        {
-          "symbol": "BX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.431732,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.920815
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.843769
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.723634
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1530,
-          "provider": "ALPHA_VANTAGE",
-          "source": "PV Tech",
-          "source_domain": "PV Tech",
-          "headline": "Blackstone acquires 24.7% stake in Eurowind Energy",
-          "url": "https://www.pv-tech.org/blackstone-acquires-24-7-stake-in-eurowind-energy/",
-          "published_at": "2026-09-23T11:38:57"
-        }
-      ]
-    },
-    {
-      "event_id": 1387,
-      "title": "TJX Companies stock holds near USD 127 as earnings beat estimates",
-      "summary": "TJX Companies' stock closed at USD 127.24, significantly below its 52-week high, despite reporting strong earnings. The company's quarterly EPS of USD 1.22 and revenue of USD 15.18 billion both exceeded analyst estimates, with revenue rising 5.4 percent year-over-year. Fiscal 2027 EPS guidance is set between USD 5.15 and USD 5.20, and analysts have raised their EPS estimates for fiscal years 2027 and 2028, indicating a positive earnings trajectory that could narrow the current valuation gap.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T11:35:01",
-      "first_seen_at": "2026-09-23T13:00:02.277742",
-      "assets": [
-        {
-          "symbol": "TJX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.440996,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.835843
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.743542
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1531,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "TJX Companies stock holds near USD 127 as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tjx-companies-stock-holds-near-usd-127-as-earnings-beat-estimates/70166413",
-          "published_at": "2026-09-23T11:35:01"
-        }
-      ]
-    },
-    {
-      "event_id": 1381,
-      "title": "Delta Air Lines stock gains 1.72 percent as earnings near",
-      "summary": "Delta Air Lines stock saw a 1.72 percent gain, closing at USD 83.92 on September 22, 2026, ahead of its next earnings release. The airline reported quarterly revenue of USD 17.67 billion, exceeding analyst expectations, with adjusted earnings per share of USD 1.56. Lower oil prices are seen as a positive factor for airline stocks, easing cost pressures for companies like Delta.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-23T11:13:00",
-      "first_seen_at": "2026-09-23T12:00:03.121346",
-      "assets": [
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.383115,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.924343
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.826932
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.64218
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1524,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Delta Air Lines stock gains 1.72 percent as earnings near",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/delta-air-lines-stock-gains-1-72-percent-as-earnings-near/70165633",
-          "published_at": "2026-09-23T11:13:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1382,
-      "title": "Investment Firm Reduces Matson (MATX) Shares on Recent Strength",
-      "summary": "An investment firm has reduced its shares in Matson (MATX) following a significant 99% surge in the stock price year-to-date, driven by exceptional second-quarter 2026 results. The company's Q2 performance was primarily boosted by its China service, which saw a 15.2% increase in container volumes and a substantial rise in operating income. While the firm's balance sheet is strong with robust free cash flow and dividend growth, investors are advised to monitor China service freight rates, domestic volume trends, and capital allocation sustainability for future performance indicators.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T10:55:34",
-      "first_seen_at": "2026-09-23T12:00:03.359471",
-      "assets": [
-        {
-          "symbol": "MATX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.113697,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936832
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.930983
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.819649
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.647217
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1525,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AlphaStreet",
-          "source_domain": "AlphaStreet",
-          "headline": "Investment Firm Reduces Matson (MATX) Shares on Recent Strength",
-          "url": "https://news.alphastreet.com/investment-firm-reduces-matson-matx-shares-on-recent-strength/",
-          "published_at": "2026-09-23T10:55:34"
         }
       ]
     }
