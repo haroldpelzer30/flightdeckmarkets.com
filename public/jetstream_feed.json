@@ -5,6 +5,265 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1420,
+      "title": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
+      "summary": "Marathon Oil (US5658491064) became part of ConocoPhillips in November 2024 through a USD 22.5 billion acquisition. As of September 23, 2026, Marathon Oil is no longer a standalone listed company, with its assets and corporate identity now integrated into ConocoPhillips. The transaction, announced in May 2024, concluded six months later, marking the end of Marathon Oil's independent corporate structure.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-09-23T19:21:00",
+      "first_seen_at": "2026-09-23T20:00:02.228092",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.324568,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.83229,
+          "sentiment_score": 0.297521,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.924428
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845718
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1565,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marathon-oil-stock-joins-conocophillips-after-usd-22-5-billion-deal/70169094",
+          "published_at": "2026-09-23T19:21:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1421,
+      "title": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come.",
+      "summary": "Brookfield Renewable Partners (TSX:BEP:UN) offers an appealing 4.51% dividend yield and a diversified clean energy portfolio, making it attractive to income-oriented investors. The partnership benefits from long-term contracts, geographic diversification, and disciplined capital allocation, supporting its dividend sustainability and long-term growth. While risks like rising interest rates and project execution exist, Brookfield Renewable's strong market position and structural industry tailwinds provide a constructive long-term outlook for investors seeking recurring income and exposure to the clean energy transition.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-23T18:58:52",
+      "first_seen_at": "2026-09-23T20:00:02.473222",
+      "assets": [
+        {
+          "symbol": "BEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487822,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.917265
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.824101
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.714552
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1566,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come.",
+          "url": "https://kalkine.ca/news/general-news/brookfield-renewable-partners-451-yield-is-appealingyet-the-real-test-is-whether-its-growing-clean-energy-portfolio-can-keep-income-investors-confident-for-years-to-come",
+          "published_at": "2026-09-23T18:58:52"
+        }
+      ]
+    },
+    {
+      "event_id": 1422,
+      "title": "EQT Corporation stock gains 0.72 percent on gas outlook",
+      "summary": "EQT Corporation's stock rose by 0.72 percent following a new production outlook that forecasts higher natural gas output in 2026 with reduced spending. This strategy aims to improve cash generation, despite a significant 29.2 percent year-over-year revenue drop in the second quarter. Analysts maintain an \"Overweight\" rating with a price target considerably above the current trading price.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T18:32:53",
+      "first_seen_at": "2026-09-23T20:00:02.707000",
+      "assets": [
+        {
+          "symbol": "EQT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.228961,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.949483
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947014
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.813247
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1567,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "EQT Corporation stock gains 0.72 percent on gas outlook",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-corporation-stock-gains-0-72-percent-on-gas-outlook/70169651",
+          "published_at": "2026-09-23T18:32:53"
+        }
+      ]
+    },
+    {
+      "event_id": 1423,
+      "title": "MarketAxess stock trades 1.9 percent below ICE offer",
+      "summary": "MarketAxess stock is trading 1.9% below Intercontinental Exchange's (ICE) proposed cash offer of $167.00 per share, with the stock at $163.76 on September 23, 2026. Shareholders are set to vote on the acquisition on October 29, 2026, which would make MarketAxess a wholly owned subsidiary of ICE. This occurs as MarketAxess reported a slight 0.5% decrease in Q2 2026 revenue, though diluted EPS remained consistent year-over-year.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-23T17:54:00",
+      "first_seen_at": "2026-09-23T20:00:02.947148",
+      "assets": [
+        {
+          "symbol": "MKTX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.202858,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ICE",
+          "asset_class": null,
+          "relevance_score": 0.931403,
+          "sentiment_score": 0.285604,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.928048
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.819913
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.713608
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1568,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "MarketAxess stock trades 1.9 percent below ICE offer",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marketaxess-stock-trades-1-9-percent-below-ice-offer/70169362",
+          "published_at": "2026-09-23T17:54:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1424,
+      "title": "Arcosa stock stays below the USD 150 acquisition offer",
+      "summary": "Arcosa stock traded at $146.75 on September 23, 2026, remaining 2.17% below the $150-per-share acquisition offer, even after shareholders approved the all-cash deal. The acquisition is expected to close in Q1 2027. Additionally, Arcosa reported Q3 revenue of $658.7 million, missing the consensus estimate of $687.5 million, and adjusted EPS of $1.13, which was below the $1.18 consensus.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-23T17:44:25",
+      "first_seen_at": "2026-09-23T20:00:03.179065",
+      "assets": [
+        {
+          "symbol": "ACA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.088288,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906354
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.903226
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.836047
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.622833
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.617524
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1569,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Arcosa stock stays below the USD 150 acquisition offer",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/arcosa-stock-stays-below-the-usd-150-acquisition-offer/70169290",
+          "published_at": "2026-09-23T17:44:25"
+        }
+      ]
+    },
+    {
       "event_id": 1413,
       "title": "Gold Defied the Fed’s Rate Hike—These 3 Plays Stand Out",
       "summary": "Gold, typically inversely correlated with interest rates, briefly dipped after the Fed's latest rate hike but quickly recovered, suggesting that factors like central bank buying and counterparty risk now override traditional rate sensitivity. Central banks, particularly China, are actively accumulating and repatriating gold to hedge against geopolitical risks and rising U.S. debt, rather than merely diversifying from the dollar. For investors seeking exposure to this trend, Newmont Corp. (NEM) offers a direct play on gold mining, Wheaton Precious Metals (WPM) provides a lower-risk royalty model, and iShares Silver Trust (SLV) taps into silver's independent supply deficit story.",
@@ -803,289 +1062,6 @@
           "headline": "McDonald's Corp Stock (MCD) Moved Down by 4.28% on Sep 23: Key Drivers Unveiled",
           "url": "https://www.tradingkey.com/news/market-movers/262183002-market-movers-mcd-20260923",
           "published_at": "2026-09-23T14:15:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1397,
-      "title": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
-      "summary": "AutoZone (AZO) reported strong fiscal Q4 2026 earnings per share of $56.05, surpassing estimates due to tariff refunds and gross margin expansion, despite sales of $6.60 billion falling short of consensus. The company saw robust commercial sales growth and expanded its global footprint with 175 new stores, alongside significant share repurchases.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T13:52:31",
-      "first_seen_at": "2026-09-23T15:00:02.413897",
-      "assets": [
-        {
-          "symbol": "AZO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.430604,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.733372,
-          "sentiment_score": 0.267639,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.643103,
-          "sentiment_score": 0.019513,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GPC",
-          "asset_class": null,
-          "relevance_score": 0.599106,
-          "sentiment_score": 0.235666,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.844131
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646609
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.602103
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1541,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-beat-estimates-135200571.html",
-          "published_at": "2026-09-23T13:52:31"
-        }
-      ]
-    },
-    {
-      "event_id": 1398,
-      "title": "Phillips 66 stock falls 1.90 percent as earnings beat estimates",
-      "summary": "Phillips 66 (PSX) stock fell 1.90% to USD 256.78 on September 23, 2026, despite reporting strong second-quarter fiscal 2026 earnings per share of USD 9.41, significantly beating the consensus estimate of USD 7.50. The company also surpassed revenue expectations, reaching USD 52.04 billion against an estimated USD 43.60 billion. Analyst price targets, such as those from UBS and Raymond James, have been raised, though the stock's valuation signal is considered balanced given its current P/E ratio and recent performance relative to moving averages.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-23T13:12:47",
-      "first_seen_at": "2026-09-23T15:00:02.720383",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.04774,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91214
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.84311
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1542,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Phillips 66 stock falls 1.90 percent as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-falls-1-90-percent-as-earnings-beat-estimates/70167421",
-          "published_at": "2026-09-23T13:12:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1391,
-      "title": "Union Pacific stock holds at USD 272.10 as merger momentum builds",
-      "summary": "Union Pacific (UNP) stock closed at $272.10 on September 22, 2026, with Citizens reiterating a Market Outperform rating and a $350 price target. The company's Q2 2026 EPS of $3.41 exceeded estimates, while the proposed merger with Norfolk Southern awaits regulatory approval, expected in late 2027. The stock remains below its 52-week high, with its valuation significantly influenced by the merger's regulatory timeline.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 78,
-      "published_at": "2026-09-23T12:29:30",
-      "first_seen_at": "2026-09-23T14:00:02.039452",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.440359,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.744073,
-          "sentiment_score": 0.310549,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.925195
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.8497
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.742065
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1535,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Union Pacific stock holds at USD 272.10 as merger momentum builds",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-holds-at-usd-272-10-as-merger-momentum-builds/70166996",
-          "published_at": "2026-09-23T12:29:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1392,
-      "title": "Ulta Beauty stock holds near USD 554 as earnings beat estimates",
-      "summary": "Ulta Beauty's stock is holding near $554 after the company reported earnings per share (EPS) of $6.55 for the quarter ended August 2026, surpassing the consensus estimate of $6.22. Revenue increased by 8.9% year-over-year to $3.04 billion, also exceeding analyst expectations. Despite the strong earnings beat, the stock remains significantly below its 52-week high, trading closer to its yearly low.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-23T12:25:54",
-      "first_seen_at": "2026-09-23T14:00:02.358873",
-      "assets": [
-        {
-          "symbol": "ULTA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.491303,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929968
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.842769
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.717843
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.64673
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1536,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Ulta Beauty stock holds near USD 554 as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ulta-beauty-stock-holds-near-usd-554-as-earnings-beat-estimates/70166965",
-          "published_at": "2026-09-23T12:25:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1393,
-      "title": "W.W. Grainger stock gains 0.76 percent after earnings beat",
-      "summary": "W.W. Grainger's stock gained 0.76 percent on September 21, 2026, closing at USD 1,277.94 after its second-quarter earnings surpassed expectations. Despite the earnings beat, the market's response was cautious, with the consensus analyst price target implying only a 1.5 percent upside from a prior close, and the stock remaining below its 52-week high.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-23T12:20:09",
-      "first_seen_at": "2026-09-23T14:00:02.629122",
-      "assets": [
-        {
-          "symbol": "GWW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.252671,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928666
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.738883
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.643002
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.637961
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1537,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "W.W. Grainger stock gains 0.76 percent after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-gains-0-76-percent-after-earnings-beat/70166900",
-          "published_at": "2026-09-23T12:20:09"
         }
       ]
     }
