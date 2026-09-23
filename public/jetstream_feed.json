@@ -5,6 +5,367 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1406,
+      "title": "Prudential Financial stock reflects a Q2 earnings beat",
+      "summary": "Prudential Financial (PRU) reported adjusted Q2 2026 EPS of $4.08, surpassing the consensus estimate of $3.52, despite revenue of $14.15 billion falling short of the $14.36 billion estimate. The stock was trading up 0.71% at $118.50 on September 23, 2026, and its market capitalization stood at $41.1195 billion. Institutional ownership saw State Street increase its position by 1.2% during the quarter.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-23T15:40:54",
+      "first_seen_at": "2026-09-23T17:00:02.125508",
+      "assets": [
+        {
+          "symbol": "PRU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.489216,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921187
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.817542
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.740874
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1551,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Prudential Financial stock reflects a Q2 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/prudential-financial-stock-reflects-a-q2-earnings-beat/70168439",
+          "published_at": "2026-09-23T15:40:54"
+        }
+      ]
+    },
+    {
+      "event_id": 1407,
+      "title": "Texas Instruments stock gains 1.68 percent as earnings beat estimates",
+      "summary": "Texas Instruments' stock rose by 1.68% after reporting stronger-than-expected Q2 earnings and revenue. The company's Q2 revenue reached $5.46 billion, a 22.8% increase year-over-year, and earnings per share of $2.14 surpassed the consensus estimate. Despite varying analyst targets following the earnings beat, the stock remains below its yearly high, with future performance tied to upcoming earnings reports.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-23T15:38:58",
+      "first_seen_at": "2026-09-23T17:00:02.367721",
+      "assets": [
+        {
+          "symbol": "TXN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.534965,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 0.62619,
+          "sentiment_score": 0.31245,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.905558
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828158
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.713431
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1552,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Texas Instruments stock gains 1.68 percent as earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-gains-1-68-percent-as-earnings-beat-estimates/70167358",
+          "published_at": "2026-09-23T15:38:58"
+        }
+      ]
+    },
+    {
+      "event_id": 1408,
+      "title": "Duke Energy outperforms Southern Company in yie...",
+      "summary": "Duke Energy is presented as a stronger investment than Southern Company for retirement investors, offering a higher dividend yield (3.62% vs. 3.49%), better dividend coverage, and more aggressive dividend growth. Duke's $103 billion capital plan targets nearly 10% earnings growth through 2030, supported by favorable regulatory conditions and cleaner financials. Although both companies serve regulated Southern markets and benefit from rising data center demand, Southern faces financial headwinds and slower dividend growth, making Duke a more attractive option for income-focused portfolios.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-23T15:34:32",
+      "first_seen_at": "2026-09-23T17:00:02.616059",
+      "assets": [
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.987668,
+          "sentiment_score": 0.748597,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 0.867295,
+          "sentiment_score": -0.440265,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92686
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.907716
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.8412
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.716739
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1553,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "Duke Energy outperforms Southern Company in yie...",
+          "url": "https://pluang.com/en/news-feed/duke-energy-vs-southern-company-pilihan-dividen-dan-pertumbuhan",
+          "published_at": "2026-09-23T15:34:32"
+        }
+      ]
+    },
+    {
+      "event_id": 1409,
+      "title": "Kenvue stock rises as Kimberly Clark advances its takeover bid",
+      "summary": "Kenvue stock saw a 1.10 percent increase following progress in Kimberly Clark's proposed $40 billion takeover bid, with concessions offered to address EU antitrust concerns. The European Commission has set a provisional October 13 deadline for its decision. Kenvue's Q2 FY26 revenue was reported at $3.96 billion and earnings at $456 million, with the stock closing at $17.86, still below analyst target estimates.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T15:13:00",
+      "first_seen_at": "2026-09-23T17:00:02.870109",
+      "assets": [
+        {
+          "symbol": "KVUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.33172,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMB",
+          "asset_class": null,
+          "relevance_score": 0.734124,
+          "sentiment_score": 0.232361,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921596
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.849009
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1554,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Kenvue stock rises as Kimberly Clark advances its takeover bid",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kenvue-stock-rises-as-kimberly-clark-advances-its-takeover-bid/70167435",
+          "published_at": "2026-09-23T15:13:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1410,
+      "title": "PPG to close Alabama plant months after Ozark acquisition",
+      "summary": "PPG is set to close its Alabama plant, an action that follows its acquisition of Ozark Materials LLC. The closure comes months after the acquisition, impacting the plant that produces the ThermoAccel thermoplastic lane marking product.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T15:11:01",
+      "first_seen_at": "2026-09-23T17:00:03.218681",
+      "assets": [
+        {
+          "symbol": "PPG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.244349,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.844112
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1555,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Plastics News",
+          "source_domain": "Plastics News",
+          "headline": "PPG to close Alabama plant months after Ozark acquisition",
+          "url": "https://www.plasticsnews.com/mergers-acquisitions/pn-ppg-closing-ozark-traffic-marking-products-plant/",
+          "published_at": "2026-09-23T15:11:01"
+        }
+      ]
+    },
+    {
+      "event_id": 1411,
+      "title": "ADM vs. CTVA: Two Agricultural Leaders With Very Different Moats",
+      "summary": "This article compares Archer-Daniels-Midland (ADM) and Corteva (CTVA), two agricultural leaders with distinct business models. ADM focuses on infrastructure, processing, and distribution, while CTVA leverages technology in seeds and crop protection. The analysis concludes that ADM is a relatively better investment due to its diversified platform, improving performance, stronger recent price momentum, and attractive valuation.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-23T15:03:58",
+      "first_seen_at": "2026-09-23T17:00:03.448720",
+      "assets": [
+        {
+          "symbol": "ADM",
+          "asset_class": null,
+          "relevance_score": 0.970413,
+          "sentiment_score": 0.456665,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CTVA",
+          "asset_class": null,
+          "relevance_score": 0.948885,
+          "sentiment_score": 0.320053,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913066
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802983
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.622613
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1556,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "ADM vs. CTVA: Two Agricultural Leaders With Very Different Moats",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/ADM/pressreleases/4758383/adm-vs-ctva-two-agricultural-leaders-with-very-different-moats/",
+          "published_at": "2026-09-23T15:03:58"
+        }
+      ]
+    },
+    {
+      "event_id": 1412,
+      "title": "Emerson Electric stock gains 1.74 percent after earnings beat",
+      "summary": "Emerson Electric (EMR) stock rose 1.74% after its fiscal Q2 earnings per share (EPS) beat consensus estimates by $0.03, reaching $1.71. Revenue also exceeded expectations at $4.87 billion, surpassing the $4.80 billion consensus. The company provided fiscal 2026 EPS guidance of $6.55, and the stock closed at $154.36, below its 52-week high but within its trading range.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-23T14:50:00",
+      "first_seen_at": "2026-09-23T17:00:03.705248",
+      "assets": [
+        {
+          "symbol": "EMR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.417812,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80475
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.615896
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1557,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Emerson Electric stock gains 1.74 percent after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/emerson-electric-stock-gains-1-74-percent-after-earnings-beat/70167203",
+          "published_at": "2026-09-23T14:50:00"
+        }
+      ]
+    },
+    {
       "event_id": 1403,
       "title": "DTE Energy Co Pref Series E stock hits 52-week low at 18.61 USD",
       "summary": "DTE Energy Co Pref Series E stock has fallen to a 52-week low of $18.61, marking a significant decline from its high of $22.83. Despite this downturn, the preferred shares offer an attractive dividend yield of 6.92% and typically exhibit low price volatility. The stock's performance reflects broader challenges within the energy sector.",
@@ -705,437 +1066,6 @@
           "headline": "Investment Firm Reduces Matson (MATX) Shares on Recent Strength",
           "url": "https://news.alphastreet.com/investment-firm-reduces-matson-matx-shares-on-recent-strength/",
           "published_at": "2026-09-23T10:55:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1383,
-      "title": "Evergy stock gains 0.4 percent after earnings beat",
-      "summary": "Evergy stock saw a 0.4 percent gain on September 21, 2026, after reporting an EPS of USD 0.88, surpassing consensus estimates by USD 0.07. Several analysts from BMO, Barclays, and Citigroup subsequently raised their price targets for the company. Despite the positive earnings and increased targets, the stock's closing price of USD 53.12 remained significantly below its 52-week low.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T10:40:00",
-      "first_seen_at": "2026-09-23T12:00:03.585232",
-      "assets": [
-        {
-          "symbol": "EVRG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.42582,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.93006
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.741675
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1526,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Evergy stock gains 0.4 percent after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/evergy-stock-gains-0-4-percent-after-earnings-beat/70164816",
-          "published_at": "2026-09-23T10:40:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1384,
-      "title": "Southwest Airlines stock gains 0.71 percent as earnings beat estimates",
-      "summary": "Southwest Airlines stock rose by 0.71% after reporting Q3 earnings per share (EPS) of $0.94, significantly beating the consensus estimate of $0.52. Revenue also exceeded expectations, reaching $8.72 billion. Despite the strong earnings beat, the stock remains below its yearly high, with future guidance and the next earnings date on October 21, 2026, being key factors for its performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-23T10:33:52",
-      "first_seen_at": "2026-09-23T12:00:03.797199",
-      "assets": [
-        {
-          "symbol": "LIN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.544395,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.482347,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949261
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.720849
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.629238
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1528,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Linde stock gains 1.62 percent as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/linde-stock-gains-1-62-percent-as-earnings-beat-estimates/70165720",
-          "published_at": "2026-09-23T10:22:12"
-        },
-        {
-          "article_id": 1527,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Southwest Airlines stock gains 0.71 percent as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-gains-0-71-percent-as-earnings-beat-estimates/70165831",
-          "published_at": "2026-09-23T10:33:52"
-        }
-      ]
-    },
-    {
-      "event_id": 1385,
-      "title": "Lexeo expands Friedreich ataxia platform with USD 21.3m Mantle acquisition and CNS collaborations",
-      "summary": "Lexeo Therapeutics has agreed to acquire Mantle Therapeutics for up to $21.3 million, significantly expanding its Friedreich ataxia (FA) platform with four new frataxin-targeting programs, including oral and biologic therapies. This acquisition extends Lexeo's reach into CNS manifestations of FA, complementing its existing AAV gene therapy pipeline. Additionally, Lexeo announced three research collaborations to advance its lead AAV frataxin gene therapy, LX2006, focusing on sequential dosing and blood-brain barrier crossing technologies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-23T10:26:45",
-      "first_seen_at": "2026-09-23T12:00:04.067439",
-      "assets": [
-        {
-          "symbol": "LXEO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.494373,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "life_sciences",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1529,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AllSci",
-          "source_domain": "AllSci",
-          "headline": "Lexeo expands Friedreich ataxia platform with USD 21.3m Mantle acquisition and CNS collaborations",
-          "url": "https://allsci.com/news/licensing-and-partnerships/friedreich-ataxia-acquisition-lexeo-expands/",
-          "published_at": "2026-09-23T10:26:45"
-        }
-      ]
-    },
-    {
-      "event_id": 1375,
-      "title": "PTC Therapeutics completes ST-920 gene therapy acquisition By Investing.com",
-      "summary": "PTC Therapeutics has completed its acquisition of ST-920, a gene therapy for Fabry disease, from Sangamo Therapeutics, Inc. The company plans to submit a rolling Biologics License Application to the FDA for accelerated approval of ST-920 in the fourth quarter of 2026. ST-920 is a one-time administered AAV gene therapy that has received multiple designations from the FDA and European Medicines Agency, and is designed to address the limitations of chronic enzyme replacement therapy for Fabry disease.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-22T21:52:07",
-      "first_seen_at": "2026-09-22T23:00:02.054452",
-      "assets": [
-        {
-          "symbol": "PTCT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.475112,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.929088
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.646855
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1518,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Australia",
-          "source_domain": "Investing.com Australia",
-          "headline": "PTC Therapeutics completes ST-920 gene therapy acquisition By Investing.com",
-          "url": "https://au.investing.com/news/stock-market-news/ptc-therapeutics-completes-st920-gene-therapy-acquisition-93CH-4651420",
-          "published_at": "2026-09-22T21:52:07"
-        }
-      ]
-    },
-    {
-      "event_id": 1373,
-      "title": "Dominion-NextEra merger: SCC hears arguments on Clean Virginia motion to compel",
-      "summary": "The State Corporation Commission (SCC) heard arguments regarding Clean Virginia's motion to compel NextEra to provide more information about its proposed $67 billion merger with Dominion Energy. Clean Virginia seeks documents related to alleged political misconduct and details on NextEra's past failed acquisition attempts, arguing this information is crucial for evaluating the merger's impact on Virginia ratepayers. NextEra claims these requests are irrelevant and would unnecessarily prolong the proceedings, while Clean Virginia insists a thorough examination is necessary before a decision is made.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 71,
-      "published_at": "2026-09-22T21:05:20",
-      "first_seen_at": "2026-09-22T22:00:02.774572",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.957371,
-          "sentiment_score": -0.140977,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.933662,
-          "sentiment_score": 0.057486,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.933338
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.841203
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1516,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WTVR.com",
-          "source_domain": "WTVR.com",
-          "headline": "Dominion-NextEra merger: SCC hears arguments on Clean Virginia motion to compel",
-          "url": "https://www.wtvr.com/news/local-news/dominion-nextera-merger-scc-hears-arguments-on-clean-virginia-motion-to-compel",
-          "published_at": "2026-09-22T21:05:20"
-        }
-      ]
-    },
-    {
-      "event_id": 1374,
-      "title": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
-      "summary": "Several financial stocks including LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus traded down following the Federal Reserve's recent 25 basis point rate hike. The Fed's action, intended to combat inflation, has led to investor concerns about slower loan demand, higher borrowing costs, and potential credit deterioration for financial institutions. Despite the market's overreaction, these price drops could present buying opportunities for high-quality stocks.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-09-22T20:38:43",
-      "first_seen_at": "2026-09-22T22:00:03.040840",
-      "assets": [
-        {
-          "symbol": "AMP",
-          "asset_class": null,
-          "relevance_score": 0.98382,
-          "sentiment_score": -0.309622,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NTRS",
-          "asset_class": null,
-          "relevance_score": 0.877994,
-          "sentiment_score": -0.337772,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.845886,
-          "sentiment_score": -0.349918,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944375
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.83964
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.745389
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.623108
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1517,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
-          "published_at": "2026-09-22T20:38:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1362,
-      "title": "SLB Limited $SLB Shares Purchased by State Street Corp",
-      "summary": "State Street Corp increased its stake in SLB Limited by 0.8%, purchasing an additional 722,060 shares to own approximately 6.15% of the company. Institutional investors collectively own nearly 82% of SLB, which maintains a \"Moderate Buy\" consensus rating and an average price target of $61.80 from analysts. SLB recently exceeded quarterly earnings and revenue expectations and declared a quarterly dividend of $0.295 per share.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-22T17:36:28",
-      "first_seen_at": "2026-09-22T19:00:02.274552",
-      "assets": [
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.467704,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SYK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.268431,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.939113,
-          "sentiment_score": 0.320236,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKR",
-          "asset_class": null,
-          "relevance_score": 0.634292,
-          "sentiment_score": 0.32266,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.56857,
-          "sentiment_score": 0.02103,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.564835,
-          "sentiment_score": 0.047081,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JNJ",
-          "asset_class": null,
-          "relevance_score": 0.563536,
-          "sentiment_score": 0.011302,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.940593
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835148
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.806488
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.743677
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.742752
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1500,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Stryker Corporation $SYK Shares Bought by State Street Corp",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-stryker-corporation-syk-shares-bought-by-state-street-corp-2026-09-22/",
-          "published_at": "2026-09-22T17:11:12"
-        },
-        {
-          "article_id": 1499,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "SLB Limited $SLB Shares Purchased by State Street Corp",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-slb-limited-slb-shares-purchased-by-state-street-corp-2026-09-22/",
-          "published_at": "2026-09-22T17:36:28"
         }
       ]
     }
