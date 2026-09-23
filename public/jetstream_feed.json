@@ -5,6 +5,180 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1403,
+      "title": "DTE Energy Co Pref Series E stock hits 52-week low at 18.61 USD",
+      "summary": "DTE Energy Co Pref Series E stock has fallen to a 52-week low of $18.61, marking a significant decline from its high of $22.83. Despite this downturn, the preferred shares offer an attractive dividend yield of 6.92% and typically exhibit low price volatility. The stock's performance reflects broader challenges within the energy sector.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-23T14:47:17",
+      "first_seen_at": "2026-09-23T16:00:03.042103",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.415329,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.8477
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.701666
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1548,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "DTE Energy Co Pref Series E stock hits 52-week low at 18.61 USD",
+          "url": "https://ca.investing.com/news/stock-market-news/dte-energy-co-pref-series-e-stock-hits-52week-low-at-1861-usd-93CH-4850194",
+          "published_at": "2026-09-23T14:43:30"
+        },
+        {
+          "article_id": 1547,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "DTE Energy Co Pref Series E stock hits 52-week low at 18.61 USD",
+          "url": "https://in.investing.com/news/stock-market-news/dte-energy-co-pref-series-e-stock-hits-52week-low-at-1861-usd-93CH-5603370",
+          "published_at": "2026-09-23T14:47:17"
+        }
+      ]
+    },
+    {
+      "event_id": 1404,
+      "title": "Linde stock gains 1.62 percent after earnings beat estimates",
+      "summary": "Linde plc's stock gained 1.62 percent after its Q2 2026 earnings per share and revenue exceeded analyst estimates. The company reported EPS of USD 4.50 and revenue of USD 9.29 billion, with revenue increasing 9.3 percent year-over-year. Despite the positive results, the stock remains 15.2 percent below its 52-week high, with the next earnings date set for October 30, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-23T14:24:02",
+      "first_seen_at": "2026-09-23T16:00:03.330987",
+      "assets": [
+        {
+          "symbol": "LIN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409465,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.827251
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648824
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.601958
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1549,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Linde stock gains 1.62 percent after earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/linde-stock-gains-1-62-percent-after-earnings-beat-estimates/70167984",
+          "published_at": "2026-09-23T14:24:02"
+        }
+      ]
+    },
+    {
+      "event_id": 1405,
+      "title": "McDonald's Corp Stock (MCD) Moved Down by 4.28% on Sep 23: Key Drivers Unveiled",
+      "summary": "McDonald's stock (MCD) dropped by 4.28% after its 2026 Investor Day, primarily due to management delaying its 50,000 global restaurants target from 2027 to 2028 and the significant capital requirements of its \"McDonald's NEXT\" strategy. Technical indicators like RSI and MACD signal a sell condition, while fundamental analysis notes the company's strong revenue and net profit within the Cyclical Consumer Services sector. Investors are concerned about near-term cash flow impacts, domestic traffic softness, and macroeconomic headwinds despite long-term operating margin targets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-23T14:15:53",
+      "first_seen_at": "2026-09-23T16:00:03.610171",
+      "assets": [
+        {
+          "symbol": "MCD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.739781,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "RCL",
+          "asset_class": null,
+          "relevance_score": 0.64961,
+          "sentiment_score": -0.303718,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKNG",
+          "asset_class": null,
+          "relevance_score": 0.617786,
+          "sentiment_score": -0.325901,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913853
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.839473
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.725812
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1550,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "McDonald's Corp Stock (MCD) Moved Down by 4.28% on Sep 23: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262183002-market-movers-mcd-20260923",
+          "published_at": "2026-09-23T14:15:53"
+        }
+      ]
+    },
+    {
       "event_id": 1397,
       "title": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
       "summary": "AutoZone (AZO) reported strong fiscal Q4 2026 earnings per share of $56.05, surpassing estimates due to tariff refunds and gross margin expansion, despite sales of $6.60 billion falling short of consensus. The company saw robust commercial sales growth and expanded its global footprint with 175 new stores, alongside significant share repurchases.",
@@ -961,355 +1135,6 @@
           "source_domain": "MarketBeat",
           "headline": "SLB Limited $SLB Shares Purchased by State Street Corp",
           "url": "https://www.marketbeat.com/instant-alerts/filing-slb-limited-slb-shares-purchased-by-state-street-corp-2026-09-22/",
-          "published_at": "2026-09-22T17:36:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1367,
-      "title": "Andra AP fonden Acquires 9,800 Shares of HCA Healthcare, Inc. $HCA",
-      "summary": "Andra AP fonden increased its stake in HCA Healthcare by 21.1% in the second quarter, acquiring an additional 9,800 shares to bring its total holdings to 56,323 shares, valued at approximately $21.96 million. Institutional investors collectively own 62.73% of HCA Healthcare, with several major firms recently adding to their positions. HCA Healthcare surpassed quarterly earnings and revenue expectations, reporting $7.59 EPS and $20.23 billion in revenue, and analysts maintain a \"Moderate Buy\" rating with an average price target of $462.27.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-22T17:35:40",
-      "first_seen_at": "2026-09-22T20:00:02.512015",
-      "assets": [
-        {
-          "symbol": "AMP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.240245,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HCA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.405165,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.734671,
-          "sentiment_score": 0.338274,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.641834,
-          "sentiment_score": 0.116176,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WBD",
-          "asset_class": null,
-          "relevance_score": 0.638885,
-          "sentiment_score": 0.120955,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ZTS",
-          "asset_class": null,
-          "relevance_score": 0.628887,
-          "sentiment_score": 0.12074,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.624868,
-          "sentiment_score": 0.13038,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.624475,
-          "sentiment_score": 0.110784,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.9424
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.84658
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845096
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.740563
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1508,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Andra AP fonden Buys 62,718 Shares of Ameriprise Financial, Inc. $AMP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-buys-62718-shares-of-ameriprise-financial-inc-amp-2026-09-22/",
-          "published_at": "2026-09-22T17:33:35"
-        },
-        {
-          "article_id": 1507,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Andra AP fonden Acquires 9,800 Shares of HCA Healthcare, Inc. $HCA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-acquires-9800-shares-of-hca-healthcare-inc-hca-2026-09-22/",
-          "published_at": "2026-09-22T17:35:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1363,
-      "title": "State Street Corp Acquires 11,739,541 Shares of American Express Company $AXP",
-      "summary": "State Street Corp significantly increased its stake in American Express Company by 40.2% in Q2 2026, acquiring over 11.7 million shares, bringing its total holdings to 40.97 million shares valued at approximately $13.86 billion. American Express shares recently fell 2.1% to $307.13 despite reporting strong quarterly earnings of $4.53 EPS, surpassing estimates, and a 10% year-over-year revenue increase. The company maintains a positive fiscal 2026 EPS guidance and holds a consensus \"Moderate Buy\" analyst rating with an average price target of $373.32.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-22T17:34:28",
-      "first_seen_at": "2026-09-22T19:00:02.740482",
-      "assets": [
-        {
-          "symbol": "AXP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.326593,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.921149,
-          "sentiment_score": 0.246534,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921872
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843451
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.735358
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.640298
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1501,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Acquires 11,739,541 Shares of American Express Company $AXP",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-11739541-shares-of-american-express-company-axp-2026-09-22/",
-          "published_at": "2026-09-22T17:34:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1361,
-      "title": "State Street Corp Acquires 2,149,563 Shares of Advanced Micro Devices, Inc. $AMD",
-      "summary": "State Street Corp increased its stake in Advanced Micro Devices (AMD) by 2.9% in the second quarter, acquiring an additional 2.15 million shares, bringing its total holdings to 76.9 million shares valued at approximately $46.6 billion. Institutional investors and hedge funds collectively own 71.34% of AMD, and analysts generally maintain a \"Moderate Buy\" rating with an average price target of $565.12. Despite strong quarterly revenue growth and earnings beating expectations, the stock's high P/E ratio of 159 and significant insider selling indicate potential valuation and execution risks.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-22T17:34:12",
-      "first_seen_at": "2026-09-22T19:00:01.650436",
-      "assets": [
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.321553,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.09418,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LOW",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.386635,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MDT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.269078,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.944354,
-          "sentiment_score": 0.345021,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.736582,
-          "sentiment_score": 0.215144,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.731406,
-          "sentiment_score": 0.133055,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DXCM",
-          "asset_class": null,
-          "relevance_score": 0.646148,
-          "sentiment_score": 0.104765,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.631128,
-          "sentiment_score": 0.11229,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WBD",
-          "asset_class": null,
-          "relevance_score": 0.582154,
-          "sentiment_score": 0.146978,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.562965,
-          "sentiment_score": 0.131043,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94889
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920556
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.847106
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.846103
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.802229
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.728107
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.640102
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.634906
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1498,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Purchases 1,658,301 Shares of Medtronic PLC $MDT",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1658301-shares-of-medtronic-plc-mdt-2026-09-22/",
-          "published_at": "2026-09-22T17:10:47"
-        },
-        {
-          "article_id": 1497,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Acquires 880,815 Shares of Lowe's Companies, Inc. $LOW",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-880815-shares-of-lowes-companies-inc-low-2026-09-22/",
-          "published_at": "2026-09-22T17:21:47"
-        },
-        {
-          "article_id": 1496,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Acquires 2,149,563 Shares of Advanced Micro Devices, Inc. $AMD",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-2149563-shares-of-advanced-micro-devices-inc-amd-2026-09-22/",
-          "published_at": "2026-09-22T17:34:12"
-        },
-        {
-          "article_id": 1495,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Purchases 499,168 Shares of The Home Depot, Inc. $HD",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-499168-shares-of-the-home-depot-inc-hd-2026-09-22/",
           "published_at": "2026-09-22T17:36:28"
         }
       ]
