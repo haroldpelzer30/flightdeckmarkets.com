@@ -5,6 +5,218 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1391,
+      "title": "Union Pacific stock holds at USD 272.10 as merger momentum builds",
+      "summary": "Union Pacific (UNP) stock closed at $272.10 on September 22, 2026, with Citizens reiterating a Market Outperform rating and a $350 price target. The company's Q2 2026 EPS of $3.41 exceeded estimates, while the proposed merger with Norfolk Southern awaits regulatory approval, expected in late 2027. The stock remains below its 52-week high, with its valuation significantly influenced by the merger's regulatory timeline.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 78,
+      "published_at": "2026-09-23T12:29:30",
+      "first_seen_at": "2026-09-23T14:00:02.039452",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.408182,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.730356,
+          "sentiment_score": 0.300586,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923385
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.827395
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.705562
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1535,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Union Pacific stock holds at USD 272.10 as merger momentum builds",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-holds-at-usd-272-10-as-merger-momentum-builds/70166996",
+          "published_at": "2026-09-23T12:29:30"
+        }
+      ]
+    },
+    {
+      "event_id": 1392,
+      "title": "Ulta Beauty stock holds near USD 554 as earnings beat estimates",
+      "summary": "Ulta Beauty's stock is holding near $554 after the company reported earnings per share (EPS) of $6.55 for the quarter ended August 2026, surpassing the consensus estimate of $6.22. Revenue increased by 8.9% year-over-year to $3.04 billion, also exceeding analyst expectations. Despite the strong earnings beat, the stock remains significantly below its 52-week high, trading closer to its yearly low.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-23T12:25:54",
+      "first_seen_at": "2026-09-23T14:00:02.358873",
+      "assets": [
+        {
+          "symbol": "ULTA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.498376,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90083
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.842769
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.717843
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.640328
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1536,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Ulta Beauty stock holds near USD 554 as earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ulta-beauty-stock-holds-near-usd-554-as-earnings-beat-estimates/70166965",
+          "published_at": "2026-09-23T12:25:54"
+        }
+      ]
+    },
+    {
+      "event_id": 1393,
+      "title": "W.W. Grainger stock gains 0.76 percent after earnings beat",
+      "summary": "W.W. Grainger's stock gained 0.76 percent on September 21, 2026, closing at USD 1,277.94 after its second-quarter earnings surpassed expectations. Despite the earnings beat, the market's response was cautious, with the consensus analyst price target implying only a 1.5 percent upside from a prior close, and the stock remaining below its 52-week high.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-23T12:20:09",
+      "first_seen_at": "2026-09-23T14:00:02.629122",
+      "assets": [
+        {
+          "symbol": "GWW",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.28203,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.917021
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.738439
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.643002
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.637961
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1537,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "W.W. Grainger stock gains 0.76 percent after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-gains-0-76-percent-after-earnings-beat/70166900",
+          "published_at": "2026-09-23T12:20:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1394,
+      "title": "Stanley Black & Decker stock gains as earnings beat estimates",
+      "summary": "Stanley Black & Decker stock gained 0.52% on September 22, 2026, closing at USD 89.58, following an earnings beat for the second quarter of fiscal year 2026. The company reported adjusted earnings per share of USD 1.57 against a USD 1.20 consensus estimate, and revenue of USD 3.96 billion. Despite the gains, the stock remains below its 52-week high, with analysts like Wells Fargo maintaining a price target of USD 95.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-09-23T12:19:58",
+      "first_seen_at": "2026-09-23T14:00:02.876475",
+      "assets": [
+        {
+          "symbol": "SWK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.487694,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.946706
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.82856
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.64785
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.616178
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1538,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Stanley Black & Decker stock gains as earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/stanley-black-and-decker-stock-gains-as-earnings-beat-estimates/70166906",
+          "published_at": "2026-09-23T12:19:58"
+        }
+      ]
+    },
+    {
       "event_id": 1386,
       "title": "Blackstone acquires 24.7% stake in Eurowind Energy",
       "summary": "Blackstone Infrastructure has acquired a 24.7% stake in Danish IPP Eurowind Energy, committing to invest up to US$2.3 billion to accelerate its growth across Europe. This investment supports Eurowind Energy's goal to become a pan-European IPP, targeting 1.5GW of new solar PV, wind, and energy storage capacity annually by 2030. The transaction follows Eurowind Energy's acquisition of EnBW's Swedish renewables platform, highlighting significant expansion and consolidation in the European renewables market.",
@@ -20,7 +232,7 @@
           "symbol": "BX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.403678,
+          "sentiment_score": 0.431732,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +240,11 @@
       "topics": [
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.909556
+          "relevance_score": 0.920815
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.83858
+          "relevance_score": 0.843769
         },
         {
           "topic": "finance",
@@ -67,7 +279,7 @@
           "symbol": "TJX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.443953,
+          "sentiment_score": 0.440996,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,7 +295,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.717477
+          "relevance_score": 0.743542
         }
       ],
       "articles": [
@@ -1083,226 +1295,6 @@
           "headline": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
           "url": "https://247wallst.com/investing/2026/09/22/moderna-adds-another-5-and-is-up-500-in-2026-can-mrna-stock-continue-the-melt-up/",
           "published_at": "2026-09-22T15:17:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1354,
-      "title": "Zacks Industry Outlook Highlights Berkshire Hathaway, Travelers Companies, Hanover Insurance, First American Financial and Essent",
-      "summary": "The Zacks Property and Casualty Insurance industry is projected to grow despite challenges like softer pricing, driven by prudent underwriting, exposure growth, and digitalization. The article highlights five key players—Berkshire Hathaway, Travelers Companies, The Hanover Insurance Group, First American Financial, and Essent Group—that are well-positioned for growth. Key trends shaping the industry include proper pricing strategies, managing catastrophe losses, ongoing mergers and acquisitions, and increased adoption of technologies like AI.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-09-22T13:18:16",
-      "first_seen_at": "2026-09-22T15:00:02.212171",
-      "assets": [
-        {
-          "symbol": "TRV",
-          "asset_class": null,
-          "relevance_score": 0.986383,
-          "sentiment_score": 0.261763,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949978
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.848422
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.838113
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.740272
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.631385
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1487,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Zacks Industry Outlook Highlights Berkshire Hathaway, Travelers Companies, Hanover Insurance, First American Financial and Essent",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-berkshire-131700844.html",
-          "published_at": "2026-09-22T13:18:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1355,
-      "title": "The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni",
-      "summary": "The Zacks Analyst Blog features Valero (VLO), Phillips 66 (PSX), and Eni (E) as top-ranked oil and gas stocks. The article also covers the Global Week Ahead, focusing on the U.S.-China summit, the UN General Assembly, AI safety concerns, 10-year U.S. Treasury yield movements, and Indonesia's central bank policy decision. These macroeconomic events and geopolitical discussions provide context for the featured stock picks in the energy sector.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-09-22T13:16:14",
-      "first_seen_at": "2026-09-22T15:00:02.460155",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.428196,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.987894,
-          "sentiment_score": 0.492795,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948439
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.824057
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.744584
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.705238
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.600929
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1488,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-valero-130100771.html",
-          "published_at": "2026-09-22T13:16:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1350,
-      "title": "The Clock Is Ticking on GameStop’s eBay Acquisition Play as Warrants Near Expiration",
-      "summary": "GameStop has revealed a $4.9 billion stake in eBay and a proposed acquisition, detailed in its Q2 8-K filing. This development comes as 59 million GameStop warrants with a $32 strike price are set to expire on October 30, risking $1.9 billion in potential acquisition funding, as the current stock price is significantly lower at $22.76. The company's ability to fund this acquisition now largely depends on whether the stock can reach the strike price before the deadline or if alternative funding methods are secured.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-22T13:06:06",
-      "first_seen_at": "2026-09-22T14:00:02.683493",
-      "assets": [
-        {
-          "symbol": "EBAY",
-          "asset_class": null,
-          "relevance_score": 0.966255,
-          "sentiment_score": -0.147136,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94526
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.830136
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.710368
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1483,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "The Clock Is Ticking on GameStop’s eBay Acquisition Play as Warrants Near Expiration",
-          "url": "https://247wallst.com/investing/2026/09/22/the-clock-is-ticking-on-gamestops-ebay-acquisition-play-as-warrants-near-expiration/",
-          "published_at": "2026-09-22T13:06:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1357,
-      "title": "What's Driving McDonald's' Move in Consumer Stocks This Week?",
-      "summary": "McDonald's is drawing market attention this week as investors focus on its restaurant traffic and value messaging amidst shifting household budgets and a selective market environment. The article highlights how company-specific execution in consumer stocks is crucial given the nuanced macroeconomic backdrop of high interest rates, eased energy prices, and evolving global trade discussions. Demand signals and business model durability will be key factors for McDonald's performance.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-22T12:42:45",
-      "first_seen_at": "2026-09-22T15:00:03.003728",
-      "assets": [
-        {
-          "symbol": "MCD",
-          "asset_class": null,
-          "relevance_score": 0.315906,
-          "sentiment_score": 0.028212,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.916984
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.845307
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.738267
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.636112
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1490,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What's Driving McDonald's' Move in Consumer Stocks This Week?",
-          "url": "https://kalkinemedia.com/us/stocks/consumer/whats-driving-mcdonalds-move-in-consumer-stocks-this-week",
-          "published_at": "2026-09-22T12:42:45"
         }
       ]
     }
