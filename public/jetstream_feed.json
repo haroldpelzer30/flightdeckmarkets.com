@@ -19,8 +19,8 @@
         {
           "symbol": "WPM",
           "asset_class": null,
-          "relevance_score": 0.907369,
-          "sentiment_score": 0.330134,
+          "relevance_score": 0.909679,
+          "sentiment_score": 0.329284,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +28,7 @@
           "symbol": "NEM",
           "asset_class": null,
           "relevance_score": 0.884694,
-          "sentiment_score": 0.275635,
+          "sentiment_score": 0.278085,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -36,15 +36,15 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.901527
+          "relevance_score": 0.944346
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.827561
+          "relevance_score": 0.846264
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.608058
+          "relevance_score": 0.612042
         }
       ],
       "articles": [
@@ -75,7 +75,7 @@
           "symbol": "ROL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.410789,
+          "sentiment_score": -0.442493,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
