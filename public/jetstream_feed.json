@@ -5,6 +5,148 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1425,
+      "title": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
+      "summary": "Redburn upgraded Southwest Airlines Co. to Neutral from Sell, stating its bearish thesis had \"played out\" due to valuation adjustments and stronger-than-expected product pivot gains. Despite this, Redburn maintains Buy ratings on Delta Air Lines Inc. and United Airlines Holdings, Inc., favoring their long-term prospects due to strong leisure/premium demand, capacity restrictions, and their international networks. The firm sees Southwest's product pivot as compelling but views its structural disadvantage in a globally focused framework as a limiting factor compared to its preferred network carriers.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-09-23T19:39:43",
+      "first_seen_at": "2026-09-23T21:00:01.740064",
+      "assets": [
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.332164,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LUV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.130546,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.33899,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909166
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.90695
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810544
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.713229
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1570,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Insider Monkey",
+          "source_domain": "Insider Monkey",
+          "headline": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
+          "url": "https://www.insidermonkey.com/news/redburn-says-its-southwest-sell-thesis-has-played-out-so-why-does-it-still-prefer-delta-and-united-1842366/",
+          "published_at": "2026-09-23T19:39:43"
+        }
+      ]
+    },
+    {
+      "event_id": 1426,
+      "title": "Watch Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
+      "summary": "Morgan Stanley's Adam Jonas believes that the convergence of AI and robotics, termed \"physical AI,\" could significantly boost global GDP by spreading across various sectors like transportation and manufacturing. He emphasizes the link between the robotics race and rebuilding US manufacturing, noting China's supply chain advantage. Jonas also suggests that Tesla and SpaceX could play crucial roles in a future with numerous connected robots performing AI inference.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 68,
+      "published_at": "2026-09-23T19:22:28",
+      "first_seen_at": "2026-09-23T21:00:02.010237",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.414274,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.80804,
+          "sentiment_score": 0.292177,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.647281,
+          "sentiment_score": 0.208721,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.610599,
+          "sentiment_score": 0.231177,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 0.912903
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.83931
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.722903
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.6446
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1571,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg.com",
+          "source_domain": "Bloomberg.com",
+          "headline": "Watch Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-23/physical-ai-could-multiply-gdp-morgan-stanley-s-jonas-video",
+          "published_at": "2026-09-23T19:22:28"
+        }
+      ]
+    },
+    {
       "event_id": 1420,
       "title": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
       "summary": "Marathon Oil (US5658491064) became part of ConocoPhillips in November 2024 through a USD 22.5 billion acquisition. As of September 23, 2026, Marathon Oil is no longer a standalone listed company, with its assets and corporate identity now integrated into ConocoPhillips. The transaction, announced in May 2024, concluded six months later, marking the end of Marathon Oil's independent corporate structure.",
@@ -20,7 +162,7 @@
           "symbol": "COP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.324568,
+          "sentiment_score": 0.339475,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +170,7 @@
           "symbol": "MPC",
           "asset_class": null,
           "relevance_score": 0.83229,
-          "sentiment_score": 0.297521,
+          "sentiment_score": 0.292294,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -44,7 +186,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.845718
+          "relevance_score": 0.847173
         }
       ],
       "articles": [
@@ -75,7 +217,7 @@
           "symbol": "BEP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.487822,
+          "sentiment_score": 0.47627,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,15 +225,15 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.917265
+          "relevance_score": 0.918807
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.824101
+          "relevance_score": 0.835543
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.714552
+          "relevance_score": 0.745223
         }
       ],
       "articles": [
@@ -122,7 +264,7 @@
           "symbol": "EQT",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.228961,
+          "sentiment_score": 0.213273,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -134,11 +276,11 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.947014
+          "relevance_score": 0.948433
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.813247
+          "relevance_score": 0.844482
         }
       ],
       "articles": [
@@ -944,124 +1086,6 @@
           "headline": "DTE Energy Co Pref Series E stock hits 52-week low at 18.61 USD",
           "url": "https://in.investing.com/news/stock-market-news/dte-energy-co-pref-series-e-stock-hits-52week-low-at-1861-usd-93CH-5603370",
           "published_at": "2026-09-23T14:47:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1404,
-      "title": "Linde stock gains 1.62 percent after earnings beat estimates",
-      "summary": "Linde plc's stock gained 1.62 percent after its Q2 2026 earnings per share and revenue exceeded analyst estimates. The company reported EPS of USD 4.50 and revenue of USD 9.29 billion, with revenue increasing 9.3 percent year-over-year. Despite the positive results, the stock remains 15.2 percent below its 52-week high, with the next earnings date set for October 30, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-23T14:24:02",
-      "first_seen_at": "2026-09-23T16:00:03.330987",
-      "assets": [
-        {
-          "symbol": "LIN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.409465,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.827251
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.648824
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.601958
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1549,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Linde stock gains 1.62 percent after earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/linde-stock-gains-1-62-percent-after-earnings-beat-estimates/70167984",
-          "published_at": "2026-09-23T14:24:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1405,
-      "title": "McDonald's Corp Stock (MCD) Moved Down by 4.28% on Sep 23: Key Drivers Unveiled",
-      "summary": "McDonald's stock (MCD) dropped by 4.28% after its 2026 Investor Day, primarily due to management delaying its 50,000 global restaurants target from 2027 to 2028 and the significant capital requirements of its \"McDonald's NEXT\" strategy. Technical indicators like RSI and MACD signal a sell condition, while fundamental analysis notes the company's strong revenue and net profit within the Cyclical Consumer Services sector. Investors are concerned about near-term cash flow impacts, domestic traffic softness, and macroeconomic headwinds despite long-term operating margin targets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-23T14:15:53",
-      "first_seen_at": "2026-09-23T16:00:03.610171",
-      "assets": [
-        {
-          "symbol": "MCD",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.739781,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "RCL",
-          "asset_class": null,
-          "relevance_score": 0.64961,
-          "sentiment_score": -0.303718,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKNG",
-          "asset_class": null,
-          "relevance_score": 0.617786,
-          "sentiment_score": -0.325901,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913853
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.839473
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.725812
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1550,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "McDonald's Corp Stock (MCD) Moved Down by 4.28% on Sep 23: Key Drivers Unveiled",
-          "url": "https://www.tradingkey.com/news/market-movers/262183002-market-movers-mcd-20260923",
-          "published_at": "2026-09-23T14:15:53"
         }
       ]
     }
