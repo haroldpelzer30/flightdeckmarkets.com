@@ -5,6 +5,128 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1397,
+      "title": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
+      "summary": "AutoZone (AZO) reported strong fiscal Q4 2026 earnings per share of $56.05, surpassing estimates due to tariff refunds and gross margin expansion, despite sales of $6.60 billion falling short of consensus. The company saw robust commercial sales growth and expanded its global footprint with 175 new stores, alongside significant share repurchases.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T13:52:31",
+      "first_seen_at": "2026-09-23T15:00:02.413897",
+      "assets": [
+        {
+          "symbol": "AZO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.430604,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.733372,
+          "sentiment_score": 0.267639,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.643103,
+          "sentiment_score": 0.019513,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GPC",
+          "asset_class": null,
+          "relevance_score": 0.599106,
+          "sentiment_score": 0.235666,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.844131
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.646609
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.602103
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1541,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-beat-estimates-135200571.html",
+          "published_at": "2026-09-23T13:52:31"
+        }
+      ]
+    },
+    {
+      "event_id": 1398,
+      "title": "Phillips 66 stock falls 1.90 percent as earnings beat estimates",
+      "summary": "Phillips 66 (PSX) stock fell 1.90% to USD 256.78 on September 23, 2026, despite reporting strong second-quarter fiscal 2026 earnings per share of USD 9.41, significantly beating the consensus estimate of USD 7.50. The company also surpassed revenue expectations, reaching USD 52.04 billion against an estimated USD 43.60 billion. Analyst price targets, such as those from UBS and Raymond James, have been raised, though the stock's valuation signal is considered balanced given its current P/E ratio and recent performance relative to moving averages.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-23T13:12:47",
+      "first_seen_at": "2026-09-23T15:00:02.720383",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.04774,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.91214
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.84311
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1542,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Phillips 66 stock falls 1.90 percent as earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-falls-1-90-percent-as-earnings-beat-estimates/70167421",
+          "published_at": "2026-09-23T13:12:47"
+        }
+      ]
+    },
+    {
       "event_id": 1391,
       "title": "Union Pacific stock holds at USD 272.10 as merger momentum builds",
       "summary": "Union Pacific (UNP) stock closed at $272.10 on September 22, 2026, with Citizens reiterating a Market Outperform rating and a $350 price target. The company's Q2 2026 EPS of $3.41 exceeded estimates, while the proposed merger with Norfolk Southern awaits regulatory approval, expected in late 2027. The stock remains below its 52-week high, with its valuation significantly influenced by the merger's regulatory timeline.",
@@ -20,15 +142,15 @@
           "symbol": "UNP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.408182,
+          "sentiment_score": 0.440359,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NSC",
           "asset_class": null,
-          "relevance_score": 0.730356,
-          "sentiment_score": 0.300586,
+          "relevance_score": 0.744073,
+          "sentiment_score": 0.310549,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -40,15 +162,15 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.923385
+          "relevance_score": 0.925195
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.827395
+          "relevance_score": 0.8497
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.705562
+          "relevance_score": 0.742065
         }
       ],
       "articles": [
@@ -79,7 +201,7 @@
           "symbol": "ULTA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.498376,
+          "sentiment_score": 0.491303,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -87,7 +209,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.90083
+          "relevance_score": 0.929968
         },
         {
           "topic": "financial_markets",
@@ -99,7 +221,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.640328
+          "relevance_score": 0.64673
         }
       ],
       "articles": [
@@ -130,7 +252,7 @@
           "symbol": "GWW",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.28203,
+          "sentiment_score": 0.252671,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -138,11 +260,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.917021
+          "relevance_score": 0.928666
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.738439
+          "relevance_score": 0.738883
         },
         {
           "topic": "retail_wholesale",
@@ -181,7 +303,7 @@
           "symbol": "SWK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.487694,
+          "sentiment_score": 0.461707,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -201,7 +323,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.616178
+          "relevance_score": 0.626052
         }
       ],
       "articles": [
@@ -1189,112 +1311,6 @@
           "headline": "State Street Corp Purchases 499,168 Shares of The Home Depot, Inc. $HD",
           "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-499168-shares-of-the-home-depot-inc-hd-2026-09-22/",
           "published_at": "2026-09-22T17:36:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1364,
-      "title": "Andra AP fonden Acquires 8,600 Shares of Equinix, Inc. $EQIX",
-      "summary": "Andra AP fonden increased its stake in Equinix, Inc. by 102.7% in the second quarter, acquiring an additional 8,600 shares, bringing its total holdings to 16,975 shares valued at $17.7 million. Institutional investors now own 94.94% of Equinix. The company recently reported strong quarterly revenue of $2.62 billion, up 16.4% year over year, and adjusted earnings of $11.78 per share, significantly surpassing analyst estimates.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-22T17:21:38",
-      "first_seen_at": "2026-09-22T19:00:03.038209",
-      "assets": [
-        {
-          "symbol": "EQIX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.469386,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.933173
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820791
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.747954
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.621418
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1502,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Andra AP fonden Acquires 8,600 Shares of Equinix, Inc. $EQIX",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-acquires-8600-shares-of-equinix-inc-eqix-2026-09-22/",
-          "published_at": "2026-09-22T17:21:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1360,
-      "title": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-      "summary": "Moderna's stock (MRNA) has surged over 500% in 2026, significantly outperforming its rival BioNTech, primarily due to positive top-line results from its personalized cancer therapy, intismeran, in a melanoma trial. The market is now keenly awaiting detailed Phase 3 data on October 24 at the ESMO Presidential Symposium, which carries significant binary risk for the stock's future trajectory. Investors are advised to consider the potential for either validation of the rally or a sharp compression of the stock's valuation based on the upcoming data.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-22T15:17:54",
-      "first_seen_at": "2026-09-22T18:00:02.322052",
-      "assets": [
-        {
-          "symbol": "MRNA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.424321,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MRK",
-          "asset_class": null,
-          "relevance_score": 0.831694,
-          "sentiment_score": 0.275606,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.824141
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1494,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-          "url": "https://247wallst.com/investing/2026/09/22/moderna-adds-another-5-and-is-up-500-in-2026-can-mrna-stock-continue-the-melt-up/",
-          "published_at": "2026-09-22T15:17:54"
         }
       ]
     }
