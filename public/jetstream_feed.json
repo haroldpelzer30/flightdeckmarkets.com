@@ -5,6 +5,211 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1437,
+      "title": "S&P Global stock ends the day lower at the close",
+      "summary": "S&P Global stock closed lower on September 23, 2026, on the NYSE, with shares down 0.50% to USD 402.44, underperforming the S&P 500 which fell 0.53%. This decline occurred amidst rising Treasury yields and a weaker broader U.S. equities market. The market also reacted to the S&P Global US Composite PMI Output Index increasing to 58.4 in September, and the 10-year Treasury yield reaching its highest level since 2007.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-23T22:32:00",
+      "first_seen_at": "2026-09-23T23:00:02.602575",
+      "assets": [
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.209573,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925862
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825932
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1583,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "S&P Global stock ends the day lower at the close",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/s-and-p-global-stock-ends-the-day-lower-at-the-close/70170268",
+          "published_at": "2026-09-23T22:32:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1438,
+      "title": "3 Aerospace Stocks With Revenue Growth Up To 43%",
+      "summary": "This article highlights three aerospace and defense stocks benefiting from the conflict-driven demand for surveillance, cybersecurity, and unmanned systems. Redwire, GE Aerospace, and Boeing are presented as key players with significant revenue growth potential. Each company's market position, financial figures, and unique growth drivers are discussed, with an emphasis on their roles in modern military and aviation capabilities.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 61,
+      "published_at": "2026-09-23T21:34:47",
+      "first_seen_at": "2026-09-23T23:00:02.839682",
+      "assets": [
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 0.921424,
+          "sentiment_score": 0.325732,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.894101,
+          "sentiment_score": 0.341392,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "HWM",
+          "asset_class": null,
+          "relevance_score": 0.595041,
+          "sentiment_score": 0.101855,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NOC",
+          "asset_class": null,
+          "relevance_score": 0.587391,
+          "sentiment_score": 0.121385,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.948044
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.917884
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.810373
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.713926
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.623042
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1584,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "3 Aerospace Stocks With Revenue Growth Up To 43%",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-rdw/redwire/news/3-aerospace-stocks-with-revenue-growth-up-to-43",
+          "published_at": "2026-09-23T21:34:47"
+        }
+      ]
+    },
+    {
+      "event_id": 1439,
+      "title": "Above the Noise: Looking beyond the headlines",
+      "summary": "This article by Brian Levitt discusses the importance of looking beyond sensational headlines in financial markets to make informed long-term investment decisions. He argues that many headlines are designed to grab attention rather than provide useful information, focusing on topics like AI development and US Treasury yields. Levitt emphasizes that while concerns exist, underlying economic fundamentals for households and corporations remain strong, and historical context often reveals that current challenges are not as dire as they appear.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-23T21:12:17",
+      "first_seen_at": "2026-09-23T23:00:03.144285",
+      "assets": [
+        {
+          "symbol": "IVZ",
+          "asset_class": null,
+          "relevance_score": 0.81465,
+          "sentiment_score": 0.230527,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.638322,
+          "sentiment_score": 0.203242,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 0.627676,
+          "sentiment_score": 0.217679,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.609652,
+          "sentiment_score": 0.209355,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.609054,
+          "sentiment_score": 0.233106,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906666
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.802978
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.722093
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.718639
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1585,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Invesco",
+          "source_domain": "Invesco",
+          "headline": "Above the Noise: Looking beyond the headlines",
+          "url": "https://www.invesco.com/us/en/insights/above-the-noise-looking-beyond-the-headlines.html",
+          "published_at": "2026-09-23T21:12:17"
+        }
+      ]
+    },
+    {
       "event_id": 1430,
       "title": "EOG Resources, Inc. (EOG) Stock Price, News, Quote & History",
       "summary": "This article provides a detailed overview of EOG Resources, Inc. (EOG), including its current stock price, dividend information, key financial metrics, and performance against benchmarks like the S&P 500. It also highlights analyst ratings, earnings trends, and company comparisons within the Oil & Gas E&P industry. The company operates in the United States, Trinidad and Tobago, and internationally, focusing on exploration, development, production, and marketing of crude oil, natural gas liquids, and natural gas.",
@@ -925,175 +1130,6 @@
           "headline": "Prudential Financial stock reflects a Q2 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/prudential-financial-stock-reflects-a-q2-earnings-beat/70168439",
           "published_at": "2026-09-23T15:40:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1407,
-      "title": "Texas Instruments stock gains 1.68 percent as earnings beat estimates",
-      "summary": "Texas Instruments' stock rose by 1.68% after reporting stronger-than-expected Q2 earnings and revenue. The company's Q2 revenue reached $5.46 billion, a 22.8% increase year-over-year, and earnings per share of $2.14 surpassed the consensus estimate. Despite varying analyst targets following the earnings beat, the stock remains below its yearly high, with future performance tied to upcoming earnings reports.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-23T15:38:58",
-      "first_seen_at": "2026-09-23T17:00:02.367721",
-      "assets": [
-        {
-          "symbol": "TXN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.534965,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AVGO",
-          "asset_class": null,
-          "relevance_score": 0.62619,
-          "sentiment_score": 0.31245,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.905558
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.828158
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.713431
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1552,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Texas Instruments stock gains 1.68 percent as earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-gains-1-68-percent-as-earnings-beat-estimates/70167358",
-          "published_at": "2026-09-23T15:38:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1408,
-      "title": "Duke Energy outperforms Southern Company in yie...",
-      "summary": "Duke Energy is presented as a stronger investment than Southern Company for retirement investors, offering a higher dividend yield (3.62% vs. 3.49%), better dividend coverage, and more aggressive dividend growth. Duke's $103 billion capital plan targets nearly 10% earnings growth through 2030, supported by favorable regulatory conditions and cleaner financials. Although both companies serve regulated Southern markets and benefit from rising data center demand, Southern faces financial headwinds and slower dividend growth, making Duke a more attractive option for income-focused portfolios.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-23T15:34:32",
-      "first_seen_at": "2026-09-23T17:00:02.616059",
-      "assets": [
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.987668,
-          "sentiment_score": 0.748597,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 0.867295,
-          "sentiment_score": -0.440265,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92686
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.907716
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.8412
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.716739
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1553,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "Duke Energy outperforms Southern Company in yie...",
-          "url": "https://pluang.com/en/news-feed/duke-energy-vs-southern-company-pilihan-dividen-dan-pertumbuhan",
-          "published_at": "2026-09-23T15:34:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1409,
-      "title": "Kenvue stock rises as Kimberly Clark advances its takeover bid",
-      "summary": "Kenvue stock saw a 1.10 percent increase following progress in Kimberly Clark's proposed $40 billion takeover bid, with concessions offered to address EU antitrust concerns. The European Commission has set a provisional October 13 deadline for its decision. Kenvue's Q2 FY26 revenue was reported at $3.96 billion and earnings at $456 million, with the stock closing at $17.86, still below analyst target estimates.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T15:13:00",
-      "first_seen_at": "2026-09-23T17:00:02.870109",
-      "assets": [
-        {
-          "symbol": "KVUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.33172,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMB",
-          "asset_class": null,
-          "relevance_score": 0.734124,
-          "sentiment_score": 0.232361,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921596
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.849009
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1554,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Kenvue stock rises as Kimberly Clark advances its takeover bid",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kenvue-stock-rises-as-kimberly-clark-advances-its-takeover-bid/70167435",
-          "published_at": "2026-09-23T15:13:00"
         }
       ]
     }
