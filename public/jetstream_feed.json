@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1386,
+      "title": "Blackstone acquires 24.7% stake in Eurowind Energy",
+      "summary": "Blackstone Infrastructure has acquired a 24.7% stake in Danish IPP Eurowind Energy, committing to invest up to US$2.3 billion to accelerate its growth across Europe. This investment supports Eurowind Energy's goal to become a pan-European IPP, targeting 1.5GW of new solar PV, wind, and energy storage capacity annually by 2030. The transaction follows Eurowind Energy's acquisition of EnBW's Swedish renewables platform, highlighting significant expansion and consolidation in the European renewables market.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-23T11:38:57",
+      "first_seen_at": "2026-09-23T13:00:01.990990",
+      "assets": [
+        {
+          "symbol": "BX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.403678,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.909556
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.83858
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.723634
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1530,
+          "provider": "ALPHA_VANTAGE",
+          "source": "PV Tech",
+          "source_domain": "PV Tech",
+          "headline": "Blackstone acquires 24.7% stake in Eurowind Energy",
+          "url": "https://www.pv-tech.org/blackstone-acquires-24-7-stake-in-eurowind-energy/",
+          "published_at": "2026-09-23T11:38:57"
+        }
+      ]
+    },
+    {
+      "event_id": 1387,
+      "title": "TJX Companies stock holds near USD 127 as earnings beat estimates",
+      "summary": "TJX Companies' stock closed at USD 127.24, significantly below its 52-week high, despite reporting strong earnings. The company's quarterly EPS of USD 1.22 and revenue of USD 15.18 billion both exceeded analyst estimates, with revenue rising 5.4 percent year-over-year. Fiscal 2027 EPS guidance is set between USD 5.15 and USD 5.20, and analysts have raised their EPS estimates for fiscal years 2027 and 2028, indicating a positive earnings trajectory that could narrow the current valuation gap.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T11:35:01",
+      "first_seen_at": "2026-09-23T13:00:02.277742",
+      "assets": [
+        {
+          "symbol": "TJX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443953,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.835843
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.717477
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1531,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "TJX Companies stock holds near USD 127 as earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tjx-companies-stock-holds-near-usd-127-as-earnings-beat-estimates/70166413",
+          "published_at": "2026-09-23T11:35:01"
+        }
+      ]
+    },
+    {
       "event_id": 1381,
       "title": "Delta Air Lines stock gains 1.72 percent as earnings near",
       "summary": "Delta Air Lines stock saw a 1.72 percent gain, closing at USD 83.92 on September 22, 2026, ahead of its next earnings release. The airline reported quarterly revenue of USD 17.67 billion, exceeding analyst expectations, with adjusted earnings per share of USD 1.56. Lower oil prices are seen as a positive factor for airline stocks, easing cost pressures for companies like Delta.",
@@ -20,7 +114,7 @@
           "symbol": "DAL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.381597,
+          "sentiment_score": 0.383115,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -71,7 +165,7 @@
           "symbol": "MATX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.134493,
+          "sentiment_score": 0.113697,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -79,11 +173,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.932891
+          "relevance_score": 0.936832
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.902018
+          "relevance_score": 0.930983
         },
         {
           "topic": "financial_markets",
@@ -122,7 +216,7 @@
           "symbol": "EVRG",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.402728,
+          "sentiment_score": 0.42582,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -134,7 +228,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.739879
+          "relevance_score": 0.741675
         }
       ],
       "articles": [
@@ -1209,153 +1303,6 @@
           "headline": "What's Driving McDonald's' Move in Consumer Stocks This Week?",
           "url": "https://kalkinemedia.com/us/stocks/consumer/whats-driving-mcdonalds-move-in-consumer-stocks-this-week",
           "published_at": "2026-09-22T12:42:45"
-        }
-      ]
-    },
-    {
-      "event_id": 1358,
-      "title": "What's Driving Apple's Move in Bluechip Stocks This Week?",
-      "summary": "Apple's stock movement this week is primarily driven by device demand and services execution amidst a selective market influenced by interest rates, energy prices, and global trade discussions. The article emphasizes that company-specific execution and business model durability are crucial for bluechip stocks like Apple in the current nuanced economic environment. Investors should focus on verified operating themes and upcoming company communications to assess long-term business changes versus daily market fluctuations.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-22T12:40:23",
-      "first_seen_at": "2026-09-22T15:00:03.330996",
-      "assets": [
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.282971,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.923657,
-          "sentiment_score": 0.329502,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.640381,
-          "sentiment_score": 0.113578,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.633706,
-          "sentiment_score": 0.137765,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 0.630614,
-          "sentiment_score": 0.101966,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.603454,
-          "sentiment_score": 0.111256,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.929843
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.907374
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.827559
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1492,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What's Driving Microsoft's Move in Bluechip Stocks This Week?",
-          "url": "https://kalkinemedia.com/us/stocks/bluechip/whats-driving-microsofts-move-in-bluechip-stocks-this-week",
-          "published_at": "2026-09-22T12:40:16"
-        },
-        {
-          "article_id": 1491,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "What's Driving Apple's Move in Bluechip Stocks This Week?",
-          "url": "https://kalkinemedia.com/us/stocks/bluechip/whats-driving-apples-move-in-bluechip-stocks-this-week",
-          "published_at": "2026-09-22T12:40:23"
-        }
-      ]
-    },
-    {
-      "event_id": 1351,
-      "title": "Inflation Tops Family Offices’ Worries, Citi Survey Finds",
-      "summary": "A recent survey by Citigroup Inc. reveals that inflation has become the primary concern for family offices globally, surpassing trade wars and tariffs. The report, based on surveys of 350 firms in over 40 countries, highlights that rising costs are now vexing even the wealthiest investors. Andy Sieg, head of Citi's New York-based bank, noted the significance of this shift in concern among successful individuals and families.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "CRITICAL",
-      "intelligence_score": 90,
-      "published_at": "2026-09-22T12:23:01",
-      "first_seen_at": "2026-09-22T14:00:02.967686",
-      "assets": [
-        {
-          "symbol": "C",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.116289,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.918253
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.83622
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.706088
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.60197
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1484,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg Tax",
-          "source_domain": "Bloomberg Tax",
-          "headline": "Inflation Tops Family Offices’ Worries, Citi Survey Finds",
-          "url": "https://news.bloombergtax.com/international-trade/inflation-tops-family-offices-worries-citi-survey-finds",
-          "published_at": "2026-09-22T12:23:01"
         }
       ]
     }
