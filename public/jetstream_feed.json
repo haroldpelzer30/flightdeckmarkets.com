@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1473,
+      "title": "Sysco stock gains 1.48 percent as growth targets hold",
+      "summary": "Sysco stock rose 1.48% on September 24, 2026, trading at USD 78.28, fueled by its fiscal 2027 targets of 6-7% sales growth and 9-11% adjusted EPS growth. The company also announced a USD 1.0 billion common stock offering to help finance its Jetro Restaurant Depot acquisition. Despite the gain, the stock remains 14.8% below its 52-week high, with fiscal 2026 adjusted EPS growing 3.4% to USD 4.61.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-24T19:05:41",
+      "first_seen_at": "2026-09-24T21:00:01.753368",
+      "assets": [
+        {
+          "symbol": "SYY",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.390541,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901537
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.841335
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.811396
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.7351
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1622,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Sysco stock gains 1.48 percent as growth targets hold",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-gains-1-48-percent-as-growth-targets-hold/70179130",
+          "published_at": "2026-09-24T19:05:41"
+        }
+      ]
+    },
+    {
       "event_id": 1468,
       "title": "Xylem stock falls 5.51 percent as financing weighs on shares",
       "summary": "Xylem Inc. stock fell 5.51% to USD 102.66 on September 24, 2026, positioning it just above its 52-week low. This decline is attributed to concerns over the company's recent USD 3.0 billion financing package for an acquisition, despite a strong Q2 earnings report with a 16% rise in adjusted EPS. Investors are focusing on the debt's impact and successful integration of the acquired pump businesses rather than the earnings improvement.",
@@ -20,7 +71,7 @@
           "symbol": "XYL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.441224,
+          "sentiment_score": -0.400298,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -32,7 +83,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.900525
+          "relevance_score": 0.900645
         },
         {
           "topic": "financial_markets",
@@ -40,11 +91,11 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.713541
+          "relevance_score": 0.723201
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.619219
+          "relevance_score": 0.628028
         }
       ],
       "articles": [
@@ -75,31 +126,31 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.404327,
+          "sentiment_score": -0.418079,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
         {
           "symbol": "GM",
           "asset_class": null,
-          "relevance_score": 0.934783,
-          "sentiment_score": -0.422139,
+          "relevance_score": 0.946986,
+          "sentiment_score": -0.439385,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.916248
+          "topic": "manufacturing",
+          "relevance_score": 0.937048
         },
         {
-          "topic": "manufacturing",
-          "relevance_score": 0.906951
+          "topic": "energy_transportation",
+          "relevance_score": 0.932749
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.828782
+          "relevance_score": 0.838529
         }
       ],
       "articles": [
@@ -1063,83 +1114,6 @@
           "headline": "State Street Corp Acquires 77,416 Shares of Wynn Resorts, Limited $WYNN",
           "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-77416-shares-of-wynn-resorts-limited-wynn-2026-09-24/",
           "published_at": "2026-09-24T08:07:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1446,
-      "title": "State Street Corp Has $820.16 Million Stake in APA Corporation $APA",
-      "summary": "State Street Corp increased its stake in APA Corporation by 1.5% in the second quarter, bringing its total holdings to 25.18 million shares valued at $820.16 million, representing 7.19% of the company. Institutional investors and hedge funds collectively own 83.01% of APA. The company recently authorized a 40 million-share repurchase program and declared a quarterly dividend of $0.25 per share, while analysts currently rate the stock as a consensus \"Hold\" with an average price target of $43.14.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-24T07:37:22",
-      "first_seen_at": "2026-09-24T12:00:02.918209",
-      "assets": [
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.26278,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.814832,
-          "sentiment_score": 0.189118,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939152
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.9086
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.730019
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.725559
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1594,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Has $820.16 Million Stake in APA Corporation $APA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-82016-million-stake-in-apa-corporation-apa-2026-09-24/",
-          "published_at": "2026-09-24T07:37:22"
-        },
-        {
-          "article_id": 1592,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Purchases 215,799 Shares of Noble Corporation PLC $NE",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-215799-shares-of-noble-corporation-plc-ne-2026-09-24/",
-          "published_at": "2026-09-24T08:37:21"
-        },
-        {
-          "article_id": 1593,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Sells 8,552,082 Shares of News Corporation $NWSA",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-8552082-shares-of-news-corporation-nwsa-2026-09-24/",
-          "published_at": "2026-09-24T08:37:21"
         }
       ]
     }
