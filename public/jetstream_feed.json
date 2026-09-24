@@ -5,6 +5,319 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1444,
+      "title": "Crown Castle stock falls 2.96 percent as earnings miss persists",
+      "summary": "Crown Castle stock fell 2.96% on September 23, 2026, to USD 70.23, following a Q2/2026 EPS miss of USD 0.22 against a USD 0.39 consensus. Despite revenue exceeding estimates at USD 1.01 billion, the year-over-year revenue declined by 4.9%, and EPS saw a significant drop from USD 0.67 in the prior year. The company's guidance for fiscal-year 2026 EPS remains above analyst estimates, but recent management changes and the stock's proximity to its 52-week low add to investor concerns.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-24T10:15:54",
+      "first_seen_at": "2026-09-24T12:00:02.434358",
+      "assets": [
+        {
+          "symbol": "CCI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.462601,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.924717
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84877
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.727751
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1590,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Crown Castle stock falls 2.96 percent as earnings miss persists",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/crown-castle-stock-falls-2-96-percent-as-earnings-miss-persists/70176910",
+          "published_at": "2026-09-24T10:15:54"
+        }
+      ]
+    },
+    {
+      "event_id": 1445,
+      "title": "PNC stock falls after quarterly earnings beat estimates",
+      "summary": "PNC Financial Services Group's stock fell by 1.72% on September 23, 2026, despite reporting strong Q2 earnings that beat analyst estimates. The company's adjusted EPS was USD 4.85 against a USD 4.46 consensus, and revenue of USD 6.88 billion exceeded the USD 6.51 billion expectation. Despite the positive earnings, the stock remained 13.49% below its 52-week high, with the next earnings call scheduled for October 15, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-24T08:37:30",
+      "first_seen_at": "2026-09-24T12:00:02.674163",
+      "assets": [
+        {
+          "symbol": "PNC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.220234,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925747
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.838275
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.737541
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1591,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "PNC stock falls after quarterly earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/pnc-stock-falls-after-quarterly-earnings-beat-estimates/70176288",
+          "published_at": "2026-09-24T08:37:30"
+        }
+      ]
+    },
+    {
+      "event_id": 1447,
+      "title": "State Street Corp Acquires 77,416 Shares of Wynn Resorts, Limited $WYNN",
+      "summary": "State Street Corp increased its stake in Wynn Resorts, Limited by 2.6% in the second quarter, acquiring an additional 77,416 shares to hold a total of 3.05 million shares valued at $295.9 million. Institutional investors now own 88.64% of WYNN, and analysts maintain a \"Moderate Buy\" rating with an average price target of $133.35, despite recent stock weakness. Wynn Resorts reported strong quarterly results, exceeding revenue and earnings estimates, and pays a quarterly dividend.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-24T08:07:38",
+      "first_seen_at": "2026-09-24T12:00:03.288418",
+      "assets": [
+        {
+          "symbol": "WYNN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.209421,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.657779,
+          "sentiment_score": 0.136041,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 0.568403,
+          "sentiment_score": 0.106168,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909284
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.840588
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.735131
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1595,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Acquires 77,416 Shares of Wynn Resorts, Limited $WYNN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-77416-shares-of-wynn-resorts-limited-wynn-2026-09-24/",
+          "published_at": "2026-09-24T08:07:38"
+        }
+      ]
+    },
+    {
+      "event_id": 1446,
+      "title": "State Street Corp Has $820.16 Million Stake in APA Corporation $APA",
+      "summary": "State Street Corp increased its stake in APA Corporation by 1.5% in the second quarter, bringing its total holdings to 25.18 million shares valued at $820.16 million, representing 7.19% of the company. Institutional investors and hedge funds collectively own 83.01% of APA. The company recently authorized a 40 million-share repurchase program and declared a quarterly dividend of $0.25 per share, while analysts currently rate the stock as a consensus \"Hold\" with an average price target of $43.14.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-24T07:37:22",
+      "first_seen_at": "2026-09-24T12:00:02.918209",
+      "assets": [
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.26278,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STT",
+          "asset_class": null,
+          "relevance_score": 0.814832,
+          "sentiment_score": 0.189118,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.939152
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.9086
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.730019
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725559
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1594,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Has $820.16 Million Stake in APA Corporation $APA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-82016-million-stake-in-apa-corporation-apa-2026-09-24/",
+          "published_at": "2026-09-24T07:37:22"
+        },
+        {
+          "article_id": 1592,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Purchases 215,799 Shares of Noble Corporation PLC $NE",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-215799-shares-of-noble-corporation-plc-ne-2026-09-24/",
+          "published_at": "2026-09-24T08:37:21"
+        },
+        {
+          "article_id": 1593,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "State Street Corp Sells 8,552,082 Shares of News Corporation $NWSA",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-8552082-shares-of-news-corporation-nwsa-2026-09-24/",
+          "published_at": "2026-09-24T08:37:21"
+        }
+      ]
+    },
+    {
+      "event_id": 1448,
+      "title": "Evergy stock falls 1.7 percent ahead of the open",
+      "summary": "Evergy stock fell 1.7 percent on September 23, 2026, closing at USD 78.91, as the utility sector was pressured by rising Treasury yields and interest rate expectations. The broader S&P 500 also declined by 0.75 percent. Higher yields tend to negatively impact dividend-paying sectors like utilities, influencing market sentiment for the upcoming trading session.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-24T07:24:00",
+      "first_seen_at": "2026-09-24T12:00:03.541535",
+      "assets": [
+        {
+          "symbol": "EVRG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.369622,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AES",
+          "asset_class": null,
+          "relevance_score": 0.646087,
+          "sentiment_score": -0.350357,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ATO",
+          "asset_class": null,
+          "relevance_score": 0.635134,
+          "sentiment_score": -0.36284,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AEE",
+          "asset_class": null,
+          "relevance_score": 0.613318,
+          "sentiment_score": -0.398282,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AEP",
+          "asset_class": null,
+          "relevance_score": 0.610607,
+          "sentiment_score": -0.395774,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.943048
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.842005
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.737274
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1596,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Evergy stock falls 1.7 percent ahead of the open",
+          "url": "https://www.ad-hoc-news.de/boerse/news/vorboerse/evergy-stock-falls-1-7-percent-ahead-of-the-open/70174165",
+          "published_at": "2026-09-24T07:24:00"
+        }
+      ]
+    },
+    {
       "event_id": 1440,
       "title": "QRG Capital Management Inc. Acquires 49,548 Shares of AutoZone, Inc. $AZO",
       "summary": "QRG Capital Management Inc. significantly increased its stake in AutoZone, Inc. (NYSE:AZO) by acquiring an additional 49,548 shares, bringing its total holdings to 49,738 shares worth approximately $158.96 million. This move makes AutoZone the 15th largest holding for QRG Capital Management, representing 1.1% of its portfolio. The article also details other institutional investor activity, recent analyst rating changes, key news impacting AutoZone, and insider trading information.",
@@ -867,257 +1180,6 @@
           "headline": "EQT Corporation stock gains 0.72 percent on gas outlook",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-corporation-stock-gains-0-72-percent-on-gas-outlook/70169651",
           "published_at": "2026-09-23T18:32:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1423,
-      "title": "MarketAxess stock trades 1.9 percent below ICE offer",
-      "summary": "MarketAxess stock is trading 1.9% below Intercontinental Exchange's (ICE) proposed cash offer of $167.00 per share, with the stock at $163.76 on September 23, 2026. Shareholders are set to vote on the acquisition on October 29, 2026, which would make MarketAxess a wholly owned subsidiary of ICE. This occurs as MarketAxess reported a slight 0.5% decrease in Q2 2026 revenue, though diluted EPS remained consistent year-over-year.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-23T17:54:00",
-      "first_seen_at": "2026-09-23T20:00:02.947148",
-      "assets": [
-        {
-          "symbol": "MKTX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.202858,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ICE",
-          "asset_class": null,
-          "relevance_score": 0.931403,
-          "sentiment_score": 0.285604,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.928048
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.819913
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.713608
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1568,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "MarketAxess stock trades 1.9 percent below ICE offer",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marketaxess-stock-trades-1-9-percent-below-ice-offer/70169362",
-          "published_at": "2026-09-23T17:54:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1424,
-      "title": "Arcosa stock stays below the USD 150 acquisition offer",
-      "summary": "Arcosa stock traded at $146.75 on September 23, 2026, remaining 2.17% below the $150-per-share acquisition offer, even after shareholders approved the all-cash deal. The acquisition is expected to close in Q1 2027. Additionally, Arcosa reported Q3 revenue of $658.7 million, missing the consensus estimate of $687.5 million, and adjusted EPS of $1.13, which was below the $1.18 consensus.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-23T17:44:25",
-      "first_seen_at": "2026-09-23T20:00:03.179065",
-      "assets": [
-        {
-          "symbol": "ACA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.088288,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906354
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.903226
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836047
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.622833
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.617524
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1569,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Arcosa stock stays below the USD 150 acquisition offer",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/arcosa-stock-stays-below-the-usd-150-acquisition-offer/70169290",
-          "published_at": "2026-09-23T17:44:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1413,
-      "title": "Gold Defied the Fed’s Rate Hike—These 3 Plays Stand Out",
-      "summary": "Gold, typically inversely correlated with interest rates, briefly dipped after the Fed's latest rate hike but quickly recovered, suggesting that factors like central bank buying and counterparty risk now override traditional rate sensitivity. Central banks, particularly China, are actively accumulating and repatriating gold to hedge against geopolitical risks and rising U.S. debt, rather than merely diversifying from the dollar. For investors seeking exposure to this trend, Newmont Corp. (NEM) offers a direct play on gold mining, Wheaton Precious Metals (WPM) provides a lower-risk royalty model, and iShares Silver Trust (SLV) taps into silver's independent supply deficit story.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 82,
-      "published_at": "2026-09-23T16:49:10",
-      "first_seen_at": "2026-09-23T18:00:02.166109",
-      "assets": [
-        {
-          "symbol": "WPM",
-          "asset_class": null,
-          "relevance_score": 0.909679,
-          "sentiment_score": 0.329284,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 0.884694,
-          "sentiment_score": 0.278085,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.944346
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.846264
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.612042
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1558,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Gold Defied the Fed’s Rate Hike—These 3 Plays Stand Out",
-          "url": "https://www.marketbeat.com/articles/gold-defied-the-feds-rate-hikethese-3-plays-stand-out/",
-          "published_at": "2026-09-23T16:49:10"
-        }
-      ]
-    },
-    {
-      "event_id": 1414,
-      "title": "Rollins stock falls 44.3 percent as earnings miss weighs",
-      "summary": "Rollins Inc. stock has fallen 44.3 percent year-to-date, trading at USD 32.86 on September 23, 2026, due to an earnings miss in the second quarter. The company reported EPS of USD 0.32, below the USD 0.34 estimate, and revenue of USD 1.08 billion, slightly missing the USD 1.09 billion estimate. This performance has led to significant price target cuts from analysts, and the stock is trading near its 52-week low.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-23T16:37:00",
-      "first_seen_at": "2026-09-23T18:00:02.445912",
-      "assets": [
-        {
-          "symbol": "ROL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.442493,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935319
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1559,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Rollins stock falls 44.3 percent as earnings miss weighs",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/rollins-stock-falls-44-3-percent-as-earnings-miss-weighs/70168083",
-          "published_at": "2026-09-23T16:37:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1415,
-      "title": "Fox Corporation stock holds at USD 64.25 after earnings beat",
-      "summary": "Fox Corporation's stock maintained its price at USD 64.25 after reporting earnings that surpassed expectations for the quarter ending June 30, 2026. The company's EPS of USD 1.79 and revenue of USD 4.21 billion exceeded analyst estimates, leading Guggenheim to reiterate an USD 85 target. Despite strong financial performance and trading above moving averages, the stock remains below its 52-week high, indicating a varied valuation perspective among analysts.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-23T16:32:00",
-      "first_seen_at": "2026-09-23T18:00:02.722487",
-      "assets": [
-        {
-          "symbol": "FOX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.393437,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941092
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1560,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Fox Corporation stock holds at USD 64.25 after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-holds-at-usd-64-25-after-earnings-beat/70168049",
-          "published_at": "2026-09-23T16:32:00"
         }
       ]
     }
