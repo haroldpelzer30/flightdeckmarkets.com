@@ -5,6 +5,65 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1440,
+      "title": "QRG Capital Management Inc. Acquires 49,548 Shares of AutoZone, Inc. $AZO",
+      "summary": "QRG Capital Management Inc. significantly increased its stake in AutoZone, Inc. (NYSE:AZO) by acquiring an additional 49,548 shares, bringing its total holdings to 49,738 shares worth approximately $158.96 million. This move makes AutoZone the 15th largest holding for QRG Capital Management, representing 1.1% of its portfolio. The article also details other institutional investor activity, recent analyst rating changes, key news impacting AutoZone, and insider trading information.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-23T23:08:49",
+      "first_seen_at": "2026-09-24T00:00:01.839489",
+      "assets": [
+        {
+          "symbol": "AZO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.242133,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BLK",
+          "asset_class": null,
+          "relevance_score": 0.604548,
+          "sentiment_score": 0.113021,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.921725
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920974
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.747518
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.632741
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1586,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "QRG Capital Management Inc. Acquires 49,548 Shares of AutoZone, Inc. $AZO",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-acquires-49548-shares-of-autozone-inc-azo-2026-09-23/",
+          "published_at": "2026-09-23T23:08:49"
+        }
+      ]
+    },
+    {
       "event_id": 1437,
       "title": "S&P Global stock ends the day lower at the close",
       "summary": "S&P Global stock closed lower on September 23, 2026, on the NYSE, with shares down 0.50% to USD 402.44, underperforming the S&P 500 which fell 0.53%. This decline occurred amidst rising Treasury yields and a weaker broader U.S. equities market. The market also reacted to the S&P Global US Composite PMI Output Index increasing to 58.4 in September, and the 10-year Treasury yield reaching its highest level since 2007.",
@@ -20,7 +79,7 @@
           "symbol": "SPGI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.209573,
+          "sentiment_score": -0.222262,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -32,7 +91,7 @@
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.825932
+          "relevance_score": 0.849047
         }
       ],
       "articles": [
@@ -44,6 +103,108 @@
           "headline": "S&P Global stock ends the day lower at the close",
           "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/s-and-p-global-stock-ends-the-day-lower-at-the-close/70170268",
           "published_at": "2026-09-23T22:32:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1442,
+      "title": "People Incorporated withdraws bid to buy MGM Re...",
+      "summary": "People Incorporated has retracted its proposal to acquire all public shares of MGM Resorts International due to an unfavorable mix of deal factors. Despite the withdrawal, People Incorporated will maintain its 27% stake in MGM Resorts, expressing confidence in the resort company's management and future. The company remains open to future strategic transactions with MGM, suggesting this is a pause rather than a complete end to potential collaborations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-23T22:27:35",
+      "first_seen_at": "2026-09-24T00:00:02.397819",
+      "assets": [
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.235268,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.934899
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1588,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "People Incorporated withdraws bid to buy MGM Re...",
+          "url": "https://pluang.com/en/news-feed/people-incorporated-tarik-usulan-pembelian-saham-mgm-resorts-international",
+          "published_at": "2026-09-23T22:27:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1443,
+      "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
+      "summary": "Investment manager Steve Weiss sold his entire position in Valero Energy (VLO) after a roughly 35% gain, citing long-term skepticism about energy stocks, despite Valero outperforming the S&P 500 significantly over the past decade. While Weiss's broader critique of the energy sector holds up based on ETF performance, Valero itself delivered an 877% return over 10 years, tripling the S&P 500's 256%. The article also highlights Valero's strong Q2 2026 results and the ongoing risk of a diesel export ban.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-23T22:27:14",
+      "first_seen_at": "2026-09-24T00:00:03.092696",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.999031,
+          "sentiment_score": -0.206627,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.573195,
+          "sentiment_score": 0.114553,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929358
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913018
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.803456
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60454
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1589,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
+          "url": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/",
+          "published_at": "2026-09-23T22:27:14"
         }
       ]
     },
@@ -957,179 +1118,6 @@
           "headline": "Fox Corporation stock holds at USD 64.25 after earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-holds-at-usd-64-25-after-earnings-beat/70168049",
           "published_at": "2026-09-23T16:32:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1416,
-      "title": "Wheaton Precious Metals Corp Stock (WPM) Moved Down by 5.08% on Sep 23: Facts Behind the Movement",
-      "summary": "Wheaton Precious Metals Corp (WPM) stock declined by 5.08% on September 23rd due to a broader selloff in the precious metals sector, driven by hawkish monetary policy expectations and a strengthening U.S. dollar. This movement caused spot prices for gold and silver to retreat, impacting streaming revenues for companies like WPM. Despite solid long-term fundamentals, short-term momentum was affected by macroeconomic headwinds, with technical indicators showing neutral MACD and RSI, and an oversold Williams %R.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-23T16:23:10",
-      "first_seen_at": "2026-09-23T18:00:02.947309",
-      "assets": [
-        {
-          "symbol": "WPM",
-          "asset_class": null,
-          "relevance_score": 0.329135,
-          "sentiment_score": 0.008502,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.929478
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.817485
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.726856
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1561,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Wheaton Precious Metals Corp Stock (WPM) Moved Down by 5.08% on Sep 23: Facts Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262183246-market-movers-wpm-20260923",
-          "published_at": "2026-09-23T16:23:10"
-        }
-      ]
-    },
-    {
-      "event_id": 1417,
-      "title": "Prediction: This Magnificent Seven Stock Could Soar 50% by 2027",
-      "summary": "This article predicts that Alphabet (GOOG) stock could soar 50% by 2027, reaching $525 per share, driven by its rapidly growing Google Cloud business, the scaling of Gemini, and strong analyst sentiment. Despite increased capital expenditure and debt, the company's significant cloud backlog and AI-related revenue ramps are expected to propel its growth. The analysis outlines the financial math and key catalysts supporting this optimistic forecast.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-23T16:00:11",
-      "first_seen_at": "2026-09-23T18:00:03.194489",
-      "assets": [
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.957918,
-          "sentiment_score": 0.457143,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.905548,
-          "sentiment_score": 0.46811,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.593765,
-          "sentiment_score": 0.227989,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CRWD",
-          "asset_class": null,
-          "relevance_score": 0.592595,
-          "sentiment_score": 0.220849,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DVN",
-          "asset_class": null,
-          "relevance_score": 0.552625,
-          "sentiment_score": 0.180823,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948774
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.914057
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.80895
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1562,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Prediction: This Magnificent Seven Stock Could Soar 50% by 2027",
-          "url": "https://247wallst.com/investing/2026/09/23/prediction-this-magnificent-seven-stock-could-soar-50-by-2027/",
-          "published_at": "2026-09-23T16:00:11"
-        }
-      ]
-    },
-    {
-      "event_id": 1406,
-      "title": "Prudential Financial stock reflects a Q2 earnings beat",
-      "summary": "Prudential Financial (PRU) reported adjusted Q2 2026 EPS of $4.08, surpassing the consensus estimate of $3.52, despite revenue of $14.15 billion falling short of the $14.36 billion estimate. The stock was trading up 0.71% at $118.50 on September 23, 2026, and its market capitalization stood at $41.1195 billion. Institutional ownership saw State Street increase its position by 1.2% during the quarter.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-23T15:40:54",
-      "first_seen_at": "2026-09-23T17:00:02.125508",
-      "assets": [
-        {
-          "symbol": "PRU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.489216,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921187
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.817542
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.740874
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1551,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Prudential Financial stock reflects a Q2 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/prudential-financial-stock-reflects-a-q2-earnings-beat/70168439",
-          "published_at": "2026-09-23T15:40:54"
         }
       ]
     }
