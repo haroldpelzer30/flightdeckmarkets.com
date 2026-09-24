@@ -5,6 +5,235 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1478,
+      "title": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
+      "summary": "Shares of Microchip Technology, Skyworks Solutions, and Universal Display fell following a rise in benchmark 10-year U.S. Treasury yields above 5.1%, which pressured technology valuations. This pullback occurred despite a recent climb in the Philadelphia Semiconductor Index. The rise in bond yields and concerns about future supply competition from Samsung, coupled with investor Michael Burry's expanded short positions in semiconductors, contributed to the sector's decline.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-24T21:28:39",
+      "first_seen_at": "2026-09-24T23:00:01.633325",
+      "assets": [
+        {
+          "symbol": "SWKS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.303727,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MCHP",
+          "asset_class": null,
+          "relevance_score": 0.93194,
+          "sentiment_score": -0.312777,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.616205,
+          "sentiment_score": -0.268813,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.578983,
+          "sentiment_score": -0.102145,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930049
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.845894
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.726437
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.600826
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1627,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-skyworks-solutions-universal-212858687.html",
+          "published_at": "2026-09-24T21:28:39"
+        }
+      ]
+    },
+    {
+      "event_id": 1479,
+      "title": "Aebi Schmidt stock falls as Shyft deal drives a new growth plan",
+      "summary": "Aebi Schmidt's stock fell 3.28% to USD 11.22 on Nasdaq after investors evaluated the company post-acquisition of The Shyft Group. The acquisition has significantly boosted order intake by 26% and profitability by 22%, with management setting ambitious revenue targets for 2026 and 2030. Despite the positive operational changes, the stock remains below its yearly high, indicating room for growth as integration gains translate into margin expansion.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-24T21:22:51",
+      "first_seen_at": "2026-09-24T23:00:01.922110",
+      "assets": [
+        {
+          "symbol": "AEBIV",
+          "asset_class": null,
+          "relevance_score": 0.302294,
+          "sentiment_score": 0.015351,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.939627
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.93757
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922057
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.603743
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1628,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Aebi Schmidt stock falls as Shyft deal drives a new growth plan",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/aebi-schmidt-stock-falls-as-shyft-deal-drives-a-new-growth-plan/70179565",
+          "published_at": "2026-09-24T21:22:51"
+        }
+      ]
+    },
+    {
+      "event_id": 1480,
+      "title": "APA on course",
+      "summary": "APA Alaska is preparing to drill two wells on the eastern North Slope during the 2026-2027 winter exploration season, one exploration well and one appraisal well for the Sockeye discovery complex. This follows APA's acquisition of Savant Alaska LLC for $70 million, which provides essential infrastructure, including the Badami production facility and Nutaaq Pipeline. CEO John J. Christmann IV stated that this acquisition enhances their drilling program and future development flexibility in Alaska.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-09-24T21:14:25",
+      "first_seen_at": "2026-09-24T23:00:02.203049",
+      "assets": [
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.964099,
+          "sentiment_score": 0.639787,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.942184
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.910478
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1629,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Petroleum News",
+          "source_domain": "Petroleum News",
+          "headline": "APA on course",
+          "url": "https://www.petroleumnews.com/story/2026/09/27/e-and-p/apa-on-course/50377.html",
+          "published_at": "2026-09-24T21:14:25"
+        }
+      ]
+    },
+    {
+      "event_id": 1481,
+      "title": "Insider Buying: AFC Gamma (NASDAQ:AFCG) Director Acquires 23,072 Shares of Company Stock",
+      "summary": "AFC Gamma (NASDAQ:AFCG) Director Leonard Tannenbaum recently purchased 23,072 shares of the company's stock for approximately $80,521, increasing his total holdings to over 6.9 million shares. Despite exceeding quarterly EPS estimates, the company's revenue fell short, and analysts currently maintain a \"Reduce\" rating on the stock. AFC Gamma has also declared a quarterly dividend of $0.05 per share, offering a 5.7% annualized yield.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-24T21:10:34",
+      "first_seen_at": "2026-09-24T23:00:02.454803",
+      "assets": [
+        {
+          "symbol": "AFCG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.024938,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928426
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.816176
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.712513
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.627208
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1630,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Insider Buying: AFC Gamma (NASDAQ:AFCG) Director Acquires 23,072 Shares of Company Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-afc-gamma-nasdaq-afcg-director-acquires-23072-shares-of-company-stock-2026-09-24/",
+          "published_at": "2026-09-24T21:10:34"
+        },
+        {
+          "article_id": 1631,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "AFC Gamma (NASDAQ:AFCG) Director Acquires $12,113.79 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-afc-gamma-nasdaq-afcg-director-acquires-1211379-in-stock-2026-09-24/",
+          "published_at": "2026-09-24T21:10:34"
+        }
+      ]
+    },
+    {
       "event_id": 1476,
       "title": "Select Water stock surges 28% on Pilot Water acquisition deal",
       "summary": "Select Water Solutions, Inc. (NYSE:WTTR) shares surged 13% after announcing a definitive agreement to acquire Pilot Water Solutions LLC for $700 million, plus a potential $15 million contingent consideration. The acquisition, valued at $600 million in cash and $100 million in stock, is expected to significantly boost Select's Water Infrastructure segment, projecting $120 million to $130 million in 2027 EBITDA and pro forma net leverage of less than 2.0x at closing. The deal is anticipated to close in Q4 2026, pending regulatory approvals.",
@@ -958,198 +1187,6 @@
           "headline": "This boring FTSE 100 share is 12 TIMES more popular than SpaceX stock! What is it?",
           "url": "https://uk.finance.yahoo.com/news/boring-ftse-100-share-12-133046889.html",
           "published_at": "2026-09-24T13:30:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1454,
-      "title": "Ball Corporation stock falls 1.92 percent after earnings beat",
-      "summary": "Ball Corporation's stock fell by 1.92 percent on September 23, 2026, despite the company reporting better-than-expected Q2 2026 earnings and revenue. The company's adjusted EPS of USD 1.03 beat the USD 0.99 consensus, and revenue reached USD 3.997 billion, up 19.7 percent year over year. However, increased revenue led to margin pressure, with gross margin declining to 17.4 percent and operating margin to 10.8 percent, indicating that volume growth and cost control are crucial for future performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-24T12:18:13",
-      "first_seen_at": "2026-09-24T14:00:01.956716",
-      "assets": [
-        {
-          "symbol": "BALL",
-          "asset_class": null,
-          "relevance_score": 0.300857,
-          "sentiment_score": 0.032591,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.937108
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.702027
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1602,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Ball Corporation stock falls 1.92 percent after earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corporation-stock-falls-1-92-percent-after-earnings-beat/70177559",
-          "published_at": "2026-09-24T12:18:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1449,
-      "title": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK",
-      "summary": "IBM UK has announced the acquisition of Logiq Consulting, a UK cybersecurity consultancy specializing in highly regulated environments such as the UK Defence Industry and Critical National Infrastructure. This acquisition enhances IBM Consulting's cybersecurity and sovereign technology capabilities, allowing it to better serve public sector and regulated clients by integrating Logiq's expertise in Secure by Design and secure systems engineering. The deal aims to help UK clients maintain control over critical data, meet regulatory requirements, and securely adopt AI.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-24T11:09:36",
-      "first_seen_at": "2026-09-24T13:00:02.078184",
-      "assets": [
-        {
-          "symbol": "IBM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.43736,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.917006
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1597,
-          "provider": "ALPHA_VANTAGE",
-          "source": "IBM Newsroom",
-          "source_domain": "IBM Newsroom",
-          "headline": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK",
-          "url": "https://newsroom.ibm.com/2026-09-24-ibm-acquires-logiq-consulting-to-expand-secure-digital-transformation-and-cybersecurity-capabilities-in-the-uk",
-          "published_at": "2026-09-24T11:09:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1450,
-      "title": "The Impact of the Union Pacific-Norfolk Southern Merger",
-      "summary": "Union Pacific CEO Jim Vena indicates increasing momentum for their proposed merger with Norfolk Southern, which was announced in 2025 and is valued at approximately US$85 billion, creating the largest freight network in North America. Despite initial concerns, the Surface Transportation Board has allowed the merger analysis to continue, and the International Association of Sheet Metal, Air, Rail and Transportation’s Railroad Mechanical Department (SMART-MD) has signed a \"jobs-for-life\" agreement, addressing union concerns. The merger, if approved, is anticipated to streamline logistics, reduce costs, and enhance competition within the supply chain by offering coast-to-coast connectivity and fewer interchanges.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 79,
-      "published_at": "2026-09-24T11:08:25",
-      "first_seen_at": "2026-09-24T13:00:02.306238",
-      "assets": [
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.43122,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.422683,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.936674
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.727446
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1598,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Supply Chain Digital Magazine",
-          "source_domain": "Supply Chain Digital Magazine",
-          "headline": "The Impact of the Union Pacific-Norfolk Southern Merger",
-          "url": "https://supplychaindigital.com/news/the-impact-of-the-union-pacific-norfolk-southern-merger",
-          "published_at": "2026-09-24T11:08:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1444,
-      "title": "Crown Castle stock falls 2.96 percent as earnings miss persists",
-      "summary": "Crown Castle stock fell 2.96% on September 23, 2026, to USD 70.23, following a Q2/2026 EPS miss of USD 0.22 against a USD 0.39 consensus. Despite revenue exceeding estimates at USD 1.01 billion, the year-over-year revenue declined by 4.9%, and EPS saw a significant drop from USD 0.67 in the prior year. The company's guidance for fiscal-year 2026 EPS remains above analyst estimates, but recent management changes and the stock's proximity to its 52-week low add to investor concerns.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-24T10:15:54",
-      "first_seen_at": "2026-09-24T12:00:02.434358",
-      "assets": [
-        {
-          "symbol": "CCI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.467448,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.924717
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84877
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.736925
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1590,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Crown Castle stock falls 2.96 percent as earnings miss persists",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/crown-castle-stock-falls-2-96-percent-as-earnings-miss-persists/70176910",
-          "published_at": "2026-09-24T10:15:54"
         }
       ]
     }
