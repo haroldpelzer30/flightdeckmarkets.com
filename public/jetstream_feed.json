@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1454,
+      "title": "Ball Corporation stock falls 1.92 percent after earnings beat",
+      "summary": "Ball Corporation's stock fell by 1.92 percent on September 23, 2026, despite the company reporting better-than-expected Q2 2026 earnings and revenue. The company's adjusted EPS of USD 1.03 beat the USD 0.99 consensus, and revenue reached USD 3.997 billion, up 19.7 percent year over year. However, increased revenue led to margin pressure, with gross margin declining to 17.4 percent and operating margin to 10.8 percent, indicating that volume growth and cost control are crucial for future performance.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-24T12:18:13",
+      "first_seen_at": "2026-09-24T14:00:01.956716",
+      "assets": [
+        {
+          "symbol": "BALL",
+          "asset_class": null,
+          "relevance_score": 0.300857,
+          "sentiment_score": 0.032591,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.937108
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.702027
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1602,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Ball Corporation stock falls 1.92 percent after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corporation-stock-falls-1-92-percent-after-earnings-beat/70177559",
+          "published_at": "2026-09-24T12:18:13"
+        }
+      ]
+    },
+    {
       "event_id": 1449,
       "title": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK",
       "summary": "IBM UK has announced the acquisition of Logiq Consulting, a UK cybersecurity consultancy specializing in highly regulated environments such as the UK Defence Industry and Critical National Infrastructure. This acquisition enhances IBM Consulting's cybersecurity and sovereign technology capabilities, allowing it to better serve public sector and regulated clients by integrating Logiq's expertise in Secure by Design and secure systems engineering. The deal aims to help UK clients maintain control over critical data, meet regulatory requirements, and securely adopt AI.",
@@ -20,7 +67,7 @@
           "symbol": "IBM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.437669,
+          "sentiment_score": 0.43736,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -63,7 +110,7 @@
           "symbol": "NSC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.444103,
+          "sentiment_score": 0.43122,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -71,7 +118,7 @@
           "symbol": "UNP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.422578,
+          "sentiment_score": 0.422683,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -83,11 +130,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.908498
+          "relevance_score": 0.936674
         },
         {
           "topic": "finance",
-          "relevance_score": 0.706579
+          "relevance_score": 0.727446
         }
       ],
       "articles": [
@@ -1129,61 +1176,6 @@
           "headline": "Watch Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
           "url": "https://www.bloomberg.com/news/videos/2026-09-23/physical-ai-could-multiply-gdp-morgan-stanley-s-jonas-video",
           "published_at": "2026-09-23T19:22:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1420,
-      "title": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
-      "summary": "Marathon Oil (US5658491064) became part of ConocoPhillips in November 2024 through a USD 22.5 billion acquisition. As of September 23, 2026, Marathon Oil is no longer a standalone listed company, with its assets and corporate identity now integrated into ConocoPhillips. The transaction, announced in May 2024, concluded six months later, marking the end of Marathon Oil's independent corporate structure.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-09-23T19:21:00",
-      "first_seen_at": "2026-09-23T20:00:02.228092",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.342859,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.83229,
-          "sentiment_score": 0.281301,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.929292
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847173
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1565,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marathon-oil-stock-joins-conocophillips-after-usd-22-5-billion-deal/70169094",
-          "published_at": "2026-09-23T19:21:00"
         }
       ]
     }
