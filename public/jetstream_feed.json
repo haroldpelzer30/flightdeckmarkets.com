@@ -5,6 +5,168 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1463,
+      "title": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
+      "summary": "First Solar (NASDAQ: FSLR) stock has hit a new 52-week low despite the company reporting strong Q2 earnings in late July. Shares dropped below the previous low of $182.99, trading down 7.73% at $177.14 at the time of publication, significantly underperforming its sector. This decline suggests a market shift towards riskier assets, moving away from defensive stocks like First Solar.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-24T17:24:55",
+      "first_seen_at": "2026-09-24T19:00:01.856679",
+      "assets": [
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.419673,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.946219
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929731
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.749598
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1611,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61979894/first-solar-stock-hits-fresh-52-week-low-whats-happening",
+          "published_at": "2026-09-24T17:24:55"
+        }
+      ]
+    },
+    {
+      "event_id": 1464,
+      "title": "Valero Energy stock gains 2.82 percent on target hike",
+      "summary": "Valero Energy stock rose by 2.82% on September 24, 2026, after Goldman Sachs increased its price target for the company from USD 365 to USD 457, maintaining a buy rating. The company also reported strong Q2 2026 results, with revenue up 48.8% to USD 44.476 billion and diluted GAAP EPS reaching USD 12.62, significantly higher than the previous year. Despite the gains, the stock remains below its 52-week high, but well above its 52-week low.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-24T16:39:03",
+      "first_seen_at": "2026-09-24T19:00:02.155238",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.003759,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.916982
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.807511
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1613,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Valero Energy stock gains 2.26 percent as earnings reset valuation",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/valero-energy-stock-gains-2-26-percent-as-earnings-reset-valuation/70178584",
+          "published_at": "2026-09-24T16:19:13"
+        },
+        {
+          "article_id": 1612,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Valero Energy stock gains 2.82 percent on target hike",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valero-energy-stock-gains-2-82-percent-on-target-hike/70178648",
+          "published_at": "2026-09-24T16:39:03"
+        }
+      ]
+    },
+    {
+      "event_id": 1465,
+      "title": "Skyworks Solutions and Universal Display Stocks Trade Down, What You Need To Know",
+      "summary": "Skyworks Solutions (SWKS) and Universal Display (OLED) stocks fell after the 10-year Treasury yield rose to 5.14%, driven by strong September business activity data, which increased expectations for tighter Federal Reserve interest rate policy. Technology and semiconductor shares were particularly affected as higher yields make safer bonds more attractive than growth-focused stocks. Additionally, elevated crude oil prices and uncertainty surrounding trade tariffs on semiconductors contributed to the selling pressure in the sector.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-24T16:38:45",
+      "first_seen_at": "2026-09-24T19:00:02.482118",
+      "assets": [
+        {
+          "symbol": "SWKS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.219455,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.618249,
+          "sentiment_score": 0.304421,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.900912
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.848073
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.727432
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.629518
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1614,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingView",
+          "source_domain": "TradingView",
+          "headline": "Skyworks Solutions and Universal Display Stocks Trade Down, What You Need To Know",
+          "url": "https://www.tradingview.com/news/stockstory:80cc761f9094b:0-skyworks-solutions-and-universal-display-stocks-trade-down-what-you-need-to-know/",
+          "published_at": "2026-09-24T16:38:45"
+        }
+      ]
+    },
+    {
       "event_id": 1460,
       "title": "Why Is First Solar (NASDAQ:FSLR) Back in Focus After Reaffirming Guidance?",
       "summary": "First Solar (NASDAQ:FSLR) has returned to focus after reaffirming its full-year guidance and continuing aggressive expansion of its US manufacturing capacity. The company, a bellwether for American solar production, is navigating a complex market with patent headlines, a broader solar-sector pullback, and high Treasury yields. Its unique thin-film cadmium-telluride technology and domestic production positioning provide a competitive edge amid trade friction and supply chain scrutiny in the clean energy sector.",
@@ -20,7 +182,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.256578,
+          "sentiment_score": 0.25942,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -28,7 +190,7 @@
           "symbol": "DOW",
           "asset_class": null,
           "relevance_score": 0.635493,
-          "sentiment_score": -0.116668,
+          "sentiment_score": -0.102656,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -36,7 +198,7 @@
           "symbol": "KHC",
           "asset_class": null,
           "relevance_score": 0.632884,
-          "sentiment_score": -0.107976,
+          "sentiment_score": -0.11627,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -44,7 +206,7 @@
           "symbol": "INTC",
           "asset_class": null,
           "relevance_score": 0.630895,
-          "sentiment_score": -0.103882,
+          "sentiment_score": -0.123648,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -52,31 +214,31 @@
           "symbol": "NEE",
           "asset_class": null,
           "relevance_score": 0.629697,
-          "sentiment_score": 0.119834,
+          "sentiment_score": 0.12645,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "financial_markets",
+          "relevance_score": 0.935406
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.930134
+        },
+        {
           "topic": "energy_transportation",
           "relevance_score": 0.926377
         },
         {
-          "topic": "manufacturing",
-          "relevance_score": 0.921177
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90551
-        },
-        {
           "topic": "earnings",
-          "relevance_score": 0.8286
+          "relevance_score": 0.836156
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.613875
+          "relevance_score": 0.636808
         }
       ],
       "articles": [
@@ -107,7 +269,7 @@
           "symbol": "GEN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.495981,
+          "sentiment_score": -0.4568,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
@@ -115,23 +277,23 @@
           "symbol": "GDDY",
           "asset_class": null,
           "relevance_score": 0.861279,
-          "sentiment_score": -0.312922,
+          "sentiment_score": -0.332629,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "META",
           "asset_class": null,
-          "relevance_score": 0.635163,
-          "sentiment_score": 0.138412,
+          "relevance_score": 0.639358,
+          "sentiment_score": 0.12312,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "ORCL",
           "asset_class": null,
-          "relevance_score": 0.561146,
-          "sentiment_score": -0.218267,
+          "relevance_score": 0.596524,
+          "sentiment_score": -0.225882,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -143,7 +305,7 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.902085
+          "relevance_score": 0.930528
         },
         {
           "topic": "technology",
@@ -990,227 +1152,6 @@
           "headline": "People Incorporated withdraws bid to buy MGM Re...",
           "url": "https://pluang.com/en/news-feed/people-incorporated-tarik-usulan-pembelian-saham-mgm-resorts-international",
           "published_at": "2026-09-23T22:27:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1443,
-      "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
-      "summary": "Investment manager Steve Weiss sold his entire position in Valero Energy (VLO) after a roughly 35% gain, citing long-term skepticism about energy stocks, despite Valero outperforming the S&P 500 significantly over the past decade. While Weiss's broader critique of the energy sector holds up based on ETF performance, Valero itself delivered an 877% return over 10 years, tripling the S&P 500's 256%. The article also highlights Valero's strong Q2 2026 results and the ongoing risk of a diesel export ban.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T22:27:14",
-      "first_seen_at": "2026-09-24T00:00:03.092696",
-      "assets": [
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.999031,
-          "sentiment_score": -0.206627,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.573195,
-          "sentiment_score": 0.114553,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929358
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913018
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.803456
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.60454
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1589,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
-          "url": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/",
-          "published_at": "2026-09-23T22:27:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1438,
-      "title": "3 Aerospace Stocks With Revenue Growth Up To 43%",
-      "summary": "This article highlights three aerospace and defense stocks benefiting from the conflict-driven demand for surveillance, cybersecurity, and unmanned systems. Redwire, GE Aerospace, and Boeing are presented as key players with significant revenue growth potential. Each company's market position, financial figures, and unique growth drivers are discussed, with an emphasis on their roles in modern military and aviation capabilities.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-09-23T21:34:47",
-      "first_seen_at": "2026-09-23T23:00:02.839682",
-      "assets": [
-        {
-          "symbol": "GE",
-          "asset_class": null,
-          "relevance_score": 0.921424,
-          "sentiment_score": 0.325732,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.894101,
-          "sentiment_score": 0.341392,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HWM",
-          "asset_class": null,
-          "relevance_score": 0.595041,
-          "sentiment_score": 0.101855,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOC",
-          "asset_class": null,
-          "relevance_score": 0.587391,
-          "sentiment_score": 0.121385,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948044
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.917884
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.810373
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.713926
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.623042
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1584,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "3 Aerospace Stocks With Revenue Growth Up To 43%",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-rdw/redwire/news/3-aerospace-stocks-with-revenue-growth-up-to-43",
-          "published_at": "2026-09-23T21:34:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1439,
-      "title": "Above the Noise: Looking beyond the headlines",
-      "summary": "This article by Brian Levitt discusses the importance of looking beyond sensational headlines in financial markets to make informed long-term investment decisions. He argues that many headlines are designed to grab attention rather than provide useful information, focusing on topics like AI development and US Treasury yields. Levitt emphasizes that while concerns exist, underlying economic fundamentals for households and corporations remain strong, and historical context often reveals that current challenges are not as dire as they appear.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-23T21:12:17",
-      "first_seen_at": "2026-09-23T23:00:03.144285",
-      "assets": [
-        {
-          "symbol": "IVZ",
-          "asset_class": null,
-          "relevance_score": 0.81465,
-          "sentiment_score": 0.230527,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.638322,
-          "sentiment_score": 0.203242,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.627676,
-          "sentiment_score": 0.217679,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.609652,
-          "sentiment_score": 0.209355,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.609054,
-          "sentiment_score": 0.233106,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906666
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.802978
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.722093
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.718639
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1585,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Invesco",
-          "source_domain": "Invesco",
-          "headline": "Above the Noise: Looking beyond the headlines",
-          "url": "https://www.invesco.com/us/en/insights/above-the-noise-looking-beyond-the-headlines.html",
-          "published_at": "2026-09-23T21:12:17"
         }
       ]
     }
