@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1449,
+      "title": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK",
+      "summary": "IBM UK has announced the acquisition of Logiq Consulting, a UK cybersecurity consultancy specializing in highly regulated environments such as the UK Defence Industry and Critical National Infrastructure. This acquisition enhances IBM Consulting's cybersecurity and sovereign technology capabilities, allowing it to better serve public sector and regulated clients by integrating Logiq's expertise in Secure by Design and secure systems engineering. The deal aims to help UK clients maintain control over critical data, meet regulatory requirements, and securely adopt AI.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-24T11:09:36",
+      "first_seen_at": "2026-09-24T13:00:02.078184",
+      "assets": [
+        {
+          "symbol": "IBM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.437669,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.917006
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1597,
+          "provider": "ALPHA_VANTAGE",
+          "source": "IBM Newsroom",
+          "source_domain": "IBM Newsroom",
+          "headline": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK",
+          "url": "https://newsroom.ibm.com/2026-09-24-ibm-acquires-logiq-consulting-to-expand-secure-digital-transformation-and-cybersecurity-capabilities-in-the-uk",
+          "published_at": "2026-09-24T11:09:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1450,
+      "title": "The Impact of the Union Pacific-Norfolk Southern Merger",
+      "summary": "Union Pacific CEO Jim Vena indicates increasing momentum for their proposed merger with Norfolk Southern, which was announced in 2025 and is valued at approximately US$85 billion, creating the largest freight network in North America. Despite initial concerns, the Surface Transportation Board has allowed the merger analysis to continue, and the International Association of Sheet Metal, Air, Rail and Transportation’s Railroad Mechanical Department (SMART-MD) has signed a \"jobs-for-life\" agreement, addressing union concerns. The merger, if approved, is anticipated to streamline logistics, reduce costs, and enhance competition within the supply chain by offering coast-to-coast connectivity and fewer interchanges.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 79,
+      "published_at": "2026-09-24T11:08:25",
+      "first_seen_at": "2026-09-24T13:00:02.306238",
+      "assets": [
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.444103,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.422578,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.908498
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.706579
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1598,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Supply Chain Digital Magazine",
+          "source_domain": "Supply Chain Digital Magazine",
+          "headline": "The Impact of the Union Pacific-Norfolk Southern Merger",
+          "url": "https://supplychaindigital.com/news/the-impact-of-the-union-pacific-norfolk-southern-merger",
+          "published_at": "2026-09-24T11:08:25"
+        }
+      ]
+    },
+    {
       "event_id": 1444,
       "title": "Crown Castle stock falls 2.96 percent as earnings miss persists",
       "summary": "Crown Castle stock fell 2.96% on September 23, 2026, to USD 70.23, following a Q2/2026 EPS miss of USD 0.22 against a USD 0.39 consensus. Despite revenue exceeding estimates at USD 1.01 billion, the year-over-year revenue declined by 4.9%, and EPS saw a significant drop from USD 0.67 in the prior year. The company's guidance for fiscal-year 2026 EPS remains above analyst estimates, but recent management changes and the stock's proximity to its 52-week low add to investor concerns.",
@@ -20,7 +118,7 @@
           "symbol": "CCI",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.462601,
+          "sentiment_score": -0.467448,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -36,7 +134,7 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.727751
+          "relevance_score": 0.736925
         }
       ],
       "articles": [
@@ -67,7 +165,7 @@
           "symbol": "PNC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.220234,
+          "sentiment_score": -0.192388,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -75,7 +173,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.925747
+          "relevance_score": 0.947612
         },
         {
           "topic": "financial_markets",
@@ -83,7 +181,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.737541
+          "relevance_score": 0.748788
         }
       ],
       "articles": [
@@ -114,23 +212,23 @@
           "symbol": "WYNN",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.209421,
+          "sentiment_score": 0.205468,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "STT",
           "asset_class": null,
-          "relevance_score": 0.657779,
-          "sentiment_score": 0.136041,
+          "relevance_score": 0.684312,
+          "sentiment_score": 0.114706,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
         {
           "symbol": "CZR",
           "asset_class": null,
-          "relevance_score": 0.568403,
-          "sentiment_score": 0.106168,
+          "relevance_score": 0.575062,
+          "sentiment_score": 0.114218,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -138,11 +236,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.909284
+          "relevance_score": 0.94142
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.840588
+          "relevance_score": 0.842997
         },
         {
           "topic": "finance",
@@ -1086,100 +1184,6 @@
           "headline": "Marathon Oil stock joins ConocoPhillips after USD 22.5 billion deal",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marathon-oil-stock-joins-conocophillips-after-usd-22-5-billion-deal/70169094",
           "published_at": "2026-09-23T19:21:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1421,
-      "title": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come.",
-      "summary": "Brookfield Renewable Partners (TSX:BEP:UN) offers an appealing 4.51% dividend yield and a diversified clean energy portfolio, making it attractive to income-oriented investors. The partnership benefits from long-term contracts, geographic diversification, and disciplined capital allocation, supporting its dividend sustainability and long-term growth. While risks like rising interest rates and project execution exist, Brookfield Renewable's strong market position and structural industry tailwinds provide a constructive long-term outlook for investors seeking recurring income and exposure to the clean energy transition.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-23T18:58:52",
-      "first_seen_at": "2026-09-23T20:00:02.473222",
-      "assets": [
-        {
-          "symbol": "BEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.47627,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918807
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.835543
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.745223
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1566,
-          "provider": "ALPHA_VANTAGE",
-          "source": "kalkine.ca",
-          "source_domain": "kalkine.ca",
-          "headline": "Brookfield Renewable Partners' 4.51% yield is appealing—yet the real test is whether its growing clean energy portfolio can keep income investors confident for years to come.",
-          "url": "https://kalkine.ca/news/general-news/brookfield-renewable-partners-451-yield-is-appealingyet-the-real-test-is-whether-its-growing-clean-energy-portfolio-can-keep-income-investors-confident-for-years-to-come",
-          "published_at": "2026-09-23T18:58:52"
-        }
-      ]
-    },
-    {
-      "event_id": 1422,
-      "title": "EQT Corporation stock gains 0.72 percent on gas outlook",
-      "summary": "EQT Corporation's stock rose by 0.72 percent following a new production outlook that forecasts higher natural gas output in 2026 with reduced spending. This strategy aims to improve cash generation, despite a significant 29.2 percent year-over-year revenue drop in the second quarter. Analysts maintain an \"Overweight\" rating with a price target considerably above the current trading price.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-23T18:32:53",
-      "first_seen_at": "2026-09-23T20:00:02.707000",
-      "assets": [
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.213273,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.949483
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.948433
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844482
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1567,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "EQT Corporation stock gains 0.72 percent on gas outlook",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-corporation-stock-gains-0-72-percent-on-gas-outlook/70169651",
-          "published_at": "2026-09-23T18:32:53"
         }
       ]
     }
