@@ -5,6 +5,152 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1476,
+      "title": "Select Water stock surges 28% on Pilot Water acquisition deal",
+      "summary": "Select Water Solutions, Inc. (NYSE:WTTR) shares surged 13% after announcing a definitive agreement to acquire Pilot Water Solutions LLC for $700 million, plus a potential $15 million contingent consideration. The acquisition, valued at $600 million in cash and $100 million in stock, is expected to significantly boost Select's Water Infrastructure segment, projecting $120 million to $130 million in 2027 EBITDA and pro forma net leverage of less than 2.0x at closing. The deal is anticipated to close in Q4 2026, pending regulatory approvals.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-24T20:43:35",
+      "first_seen_at": "2026-09-24T22:00:02.117255",
+      "assets": [
+        {
+          "symbol": "WTTR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.472617,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AKAM",
+          "asset_class": null,
+          "relevance_score": 0.551315,
+          "sentiment_score": -0.400062,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FSLR",
+          "asset_class": null,
+          "relevance_score": 0.53831,
+          "sentiment_score": -0.419072,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GEN",
+          "asset_class": null,
+          "relevance_score": 0.519844,
+          "sentiment_score": -0.386613,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 0.51931,
+          "sentiment_score": -0.419581,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.917297
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.715337
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.63429
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.611231
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1625,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Select Water stock surges 28% on Pilot Water acquisition deal",
+          "url": "https://www.investing.com/news/stock-market-news/select-water-stock-surges-28-on-pilot-water-acquisition-deal-4916217",
+          "published_at": "2026-09-24T20:43:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1477,
+      "title": "Hyundai Overtakes Ford as Hybrid Boom Reshapes US Auto Market",
+      "summary": "Cox Automotive projects that Hyundai, Kia, and Genesis will outsell Ford in the third quarter of 2026, driven largely by the surging demand for hybrid vehicles. While General Motors remains the top automaker, Toyota is closing the gap, and Asian brands like Hyundai are leading the hybrid charge, which now accounts for over 16% of US vehicle sales. The US auto market shows resilience despite economic challenges, with full-year sales forecasts increasing, though EV sales are down compared to the previous year.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-24T20:17:25",
+      "first_seen_at": "2026-09-24T22:00:02.431470",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.435484,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.801691,
+          "sentiment_score": -0.118877,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 0.644624,
+          "sentiment_score": -0.422025,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.949063
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.806988
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.602573
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1626,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Autoweek",
+          "source_domain": "Autoweek",
+          "headline": "Hyundai Overtakes Ford as Hybrid Boom Reshapes US Auto Market",
+          "url": "https://www.autoweek.com/news/a73874538/hyundai-overtakes-ford-q3-sales/",
+          "published_at": "2026-09-24T20:17:25"
+        }
+      ]
+    },
+    {
       "event_id": 1473,
       "title": "Sysco stock gains 1.48 percent as growth targets hold",
       "summary": "Sysco stock rose 1.48% on September 24, 2026, trading at USD 78.28, fueled by its fiscal 2027 targets of 6-7% sales growth and 9-11% adjusted EPS growth. The company also announced a USD 1.0 billion common stock offering to help finance its Jetro Restaurant Depot acquisition. Despite the gain, the stock remains 14.8% below its 52-week high, with fiscal 2026 adjusted EPS growing 3.4% to USD 4.61.",
@@ -1004,116 +1150,6 @@
           "headline": "Crown Castle stock falls 2.96 percent as earnings miss persists",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/crown-castle-stock-falls-2-96-percent-as-earnings-miss-persists/70176910",
           "published_at": "2026-09-24T10:15:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1445,
-      "title": "PNC stock falls after quarterly earnings beat estimates",
-      "summary": "PNC Financial Services Group's stock fell by 1.72% on September 23, 2026, despite reporting strong Q2 earnings that beat analyst estimates. The company's adjusted EPS was USD 4.85 against a USD 4.46 consensus, and revenue of USD 6.88 billion exceeded the USD 6.51 billion expectation. Despite the positive earnings, the stock remained 13.49% below its 52-week high, with the next earnings call scheduled for October 15, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-24T08:37:30",
-      "first_seen_at": "2026-09-24T12:00:02.674163",
-      "assets": [
-        {
-          "symbol": "PNC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.192388,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.947612
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.838275
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.748788
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1591,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "PNC stock falls after quarterly earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/pnc-stock-falls-after-quarterly-earnings-beat-estimates/70176288",
-          "published_at": "2026-09-24T08:37:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1447,
-      "title": "State Street Corp Acquires 77,416 Shares of Wynn Resorts, Limited $WYNN",
-      "summary": "State Street Corp increased its stake in Wynn Resorts, Limited by 2.6% in the second quarter, acquiring an additional 77,416 shares to hold a total of 3.05 million shares valued at $295.9 million. Institutional investors now own 88.64% of WYNN, and analysts maintain a \"Moderate Buy\" rating with an average price target of $133.35, despite recent stock weakness. Wynn Resorts reported strong quarterly results, exceeding revenue and earnings estimates, and pays a quarterly dividend.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-24T08:07:38",
-      "first_seen_at": "2026-09-24T12:00:03.288418",
-      "assets": [
-        {
-          "symbol": "WYNN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.205468,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STT",
-          "asset_class": null,
-          "relevance_score": 0.684312,
-          "sentiment_score": 0.114706,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 0.575062,
-          "sentiment_score": 0.114218,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94142
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.842997
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.735131
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1595,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "State Street Corp Acquires 77,416 Shares of Wynn Resorts, Limited $WYNN",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-77416-shares-of-wynn-resorts-limited-wynn-2026-09-24/",
-          "published_at": "2026-09-24T08:07:38"
         }
       ]
     }
