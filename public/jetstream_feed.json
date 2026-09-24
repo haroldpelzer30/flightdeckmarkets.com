@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1458,
+      "title": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
+      "summary": "MGM Resorts International shares dropped 10% after Barry Diller's People Inc. withdrew its $48.30-per-share buyout offer for the remaining public shares, causing the stock to be repriced without the takeover premium. Caesars Entertainment, a peer company, remained largely unaffected, indicating the plunge is specific to MGM and not sector-wide. Diller's statement leaves the door open for future strategic alternatives, but MGM's board confirmed it would continue as a standalone company.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-24T13:44:43",
+      "first_seen_at": "2026-09-24T16:00:02.140600",
+      "assets": [
+        {
+          "symbol": "MGM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.736067,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 0.938273,
+          "sentiment_score": -0.056673,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.905239
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.83388
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.633984
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1606,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
+          "url": "https://247wallst.com/investing/2026/09/24/mgm-resorts-international-sinks-10-as-barry-diller-withdraws-48-30-a-share-buyout-offer-caesars-entertainment-barely-moves/",
+          "published_at": "2026-09-24T13:44:43"
+        }
+      ]
+    },
+    {
       "event_id": 1457,
       "title": "This boring FTSE 100 share is 12 TIMES more popular than SpaceX stock! What is it?",
       "summary": "Lloyds Banking Group (LSE:LLOY), a FTSE 100 bank, is currently 12 times more popular than SpaceX stock on the AJ Bell platform, accounting for 12.6% of all Buy orders. This surge is driven by growing expectations of UK interest rate hikes, which could significantly boost Lloyds' net interest margins. However, the author views the current valuation of Lloyds as unattractive compared to historical averages and highlights several risks to these forecasts, such as deposit competition and the possibility of interest rates not rising at all.",
@@ -1084,82 +1139,6 @@
           "headline": "Business growth surges at fastest pace in five years: S&P Global",
           "url": "https://www.cfodive.com/news/business-growth-surges-fastest-pace-five-years-sp-global-Fed-inflation-employment-unemployment-gdp/831182/",
           "published_at": "2026-09-23T20:16:10"
-        }
-      ]
-    },
-    {
-      "event_id": 1425,
-      "title": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
-      "summary": "Redburn upgraded Southwest Airlines Co. to Neutral from Sell, stating its bearish thesis had \"played out\" due to valuation adjustments and stronger-than-expected product pivot gains. Despite this, Redburn maintains Buy ratings on Delta Air Lines Inc. and United Airlines Holdings, Inc., favoring their long-term prospects due to strong leisure/premium demand, capacity restrictions, and their international networks. The firm sees Southwest's product pivot as compelling but views its structural disadvantage in a globally focused framework as a limiting factor compared to its preferred network carriers.",
-      "event_type": "EARNINGS",
-      "market_scope": "SECTOR_OR_MULTI_ASSET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 61,
-      "published_at": "2026-09-23T19:39:43",
-      "first_seen_at": "2026-09-23T21:00:01.740064",
-      "assets": [
-        {
-          "symbol": "DAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.346681,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "LUV",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.127194,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UAL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.331168,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949885
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.911852
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84418
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.719688
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1570,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Insider Monkey",
-          "source_domain": "Insider Monkey",
-          "headline": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
-          "url": "https://www.insidermonkey.com/news/redburn-says-its-southwest-sell-thesis-has-played-out-so-why-does-it-still-prefer-delta-and-united-1842366/",
-          "published_at": "2026-09-23T19:39:43"
-        },
-        {
-          "article_id": 1576,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/redburn-says-southwest-sell-thesis-193847836.html",
-          "published_at": "2026-09-23T20:39:42"
         }
       ]
     }
