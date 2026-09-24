@@ -5,6 +5,65 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1457,
+      "title": "This boring FTSE 100 share is 12 TIMES more popular than SpaceX stock! What is it?",
+      "summary": "Lloyds Banking Group (LSE:LLOY), a FTSE 100 bank, is currently 12 times more popular than SpaceX stock on the AJ Bell platform, accounting for 12.6% of all Buy orders. This surge is driven by growing expectations of UK interest rate hikes, which could significantly boost Lloyds' net interest margins. However, the author views the current valuation of Lloyds as unattractive compared to historical averages and highlights several risks to these forecasts, such as deposit competition and the possibility of interest rates not rising at all.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-24T13:30:00",
+      "first_seen_at": "2026-09-24T15:00:02.015626",
+      "assets": [
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.62701,
+          "sentiment_score": 0.311926,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LYG",
+          "asset_class": null,
+          "relevance_score": 0.330798,
+          "sentiment_score": 0.005617,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.941215
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.848769
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.737096
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": 0.640218
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1605,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance UK",
+          "source_domain": "Yahoo Finance UK",
+          "headline": "This boring FTSE 100 share is 12 TIMES more popular than SpaceX stock! What is it?",
+          "url": "https://uk.finance.yahoo.com/news/boring-ftse-100-share-12-133046889.html",
+          "published_at": "2026-09-24T13:30:00"
+        }
+      ]
+    },
+    {
       "event_id": 1454,
       "title": "Ball Corporation stock falls 1.92 percent after earnings beat",
       "summary": "Ball Corporation's stock fell by 1.92 percent on September 23, 2026, despite the company reporting better-than-expected Q2 2026 earnings and revenue. The company's adjusted EPS of USD 1.03 beat the USD 0.99 consensus, and revenue reached USD 3.997 billion, up 19.7 percent year over year. However, increased revenue led to margin pressure, with gross margin declining to 17.4 percent and operating margin to 10.8 percent, indicating that volume growth and cost control are crucial for future performance.",
@@ -1101,81 +1160,6 @@
           "headline": "Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/redburn-says-southwest-sell-thesis-193847836.html",
           "published_at": "2026-09-23T20:39:42"
-        }
-      ]
-    },
-    {
-      "event_id": 1426,
-      "title": "Watch Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
-      "summary": "Morgan Stanley's Adam Jonas believes that the convergence of AI and robotics, termed \"physical AI,\" could significantly boost global GDP by spreading across various sectors like transportation and manufacturing. He emphasizes the link between the robotics race and rebuilding US manufacturing, noting China's supply chain advantage. Jonas also suggests that Tesla and SpaceX could play crucial roles in a future with numerous connected robots performing AI inference.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 68,
-      "published_at": "2026-09-23T19:22:28",
-      "first_seen_at": "2026-09-23T21:00:02.010237",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.402836,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.823009,
-          "sentiment_score": 0.259929,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.647281,
-          "sentiment_score": 0.220363,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOGL",
-          "asset_class": null,
-          "relevance_score": 0.610599,
-          "sentiment_score": 0.217346,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "technology",
-          "relevance_score": 0.925334
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.83931
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.722903
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.6446
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1571,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg.com",
-          "source_domain": "Bloomberg.com",
-          "headline": "Watch Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-23/physical-ai-could-multiply-gdp-morgan-stanley-s-jonas-video",
-          "published_at": "2026-09-23T19:22:28"
         }
       ]
     }
