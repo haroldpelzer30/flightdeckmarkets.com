@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1468,
+      "title": "Xylem stock falls 5.51 percent as financing weighs on shares",
+      "summary": "Xylem Inc. stock fell 5.51% to USD 102.66 on September 24, 2026, positioning it just above its 52-week low. This decline is attributed to concerns over the company's recent USD 3.0 billion financing package for an acquisition, despite a strong Q2 earnings report with a 16% rise in adjusted EPS. Investors are focusing on the debt's impact and successful integration of the acquired pump businesses rather than the earnings improvement.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-24T18:42:54",
+      "first_seen_at": "2026-09-24T20:00:02.402104",
+      "assets": [
+        {
+          "symbol": "XYL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.441224,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927532
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.900525
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.820791
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.713541
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.619219
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1617,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Xylem stock falls 5.51 percent as financing weighs on shares",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xylem-stock-falls-5-51-percent-as-financing-weighs-on-shares/70179092",
+          "published_at": "2026-09-24T18:42:54"
+        }
+      ]
+    },
+    {
+      "event_id": 1469,
+      "title": "GM, Ford losing US market share, auto forecaster says",
+      "summary": "General Motors and Ford Motor Co. are losing U.S. market share more rapidly than other automakers this year, primarily due to buyers prioritizing fuel efficiency amid high gas prices, according to a Cox Automotive forecast. Both companies lack a sufficient number of fuel-efficient cars and SUVs compared to rivals, with analysts noting GM's absence of hybrid models and Ford's discontinuation of the Escape SUV. Conversely, automakers with more hybrid offerings, like Hyundai, Kia, Toyota, and Honda, are projected to see sales gains and increased market share.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-24T18:35:36",
+      "first_seen_at": "2026-09-24T20:00:02.683491",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.404327,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.934783,
+          "sentiment_score": -0.422139,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.916248
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.906951
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.828782
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1618,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Detroit News",
+          "source_domain": "The Detroit News",
+          "headline": "GM, Ford losing US market share, auto forecaster says",
+          "url": "https://www.detroitnews.com/story/business/autos/2026/09/24/market-share-falling-for-gm-and-ford-forecaster-says/91923196007/",
+          "published_at": "2026-09-24T18:35:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1470,
+      "title": "Union Pacific, Norfolk Southern merger gains momentum",
+      "summary": "The proposed merger between Union Pacific and Norfolk Southern Railroads is progressing after the Surface Transportation Board rejected applications to dismiss the merger. The companies aim to create the first transcontinental railroad, promising more efficient and affordable freight transportation, and have secured a \"jobs-for-life\" agreement with the SMART-MD union. This development is seen as a significant step towards creating a more connected and efficient rail network across the U.S.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "HIGH",
+      "intelligence_score": 83,
+      "published_at": "2026-09-24T17:38:59",
+      "first_seen_at": "2026-09-24T20:00:02.970096",
+      "assets": [
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.457891,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 0.958206,
+          "sentiment_score": 0.41863,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.937399
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.636469
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1619,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Transportation Today",
+          "source_domain": "Transportation Today",
+          "headline": "Union Pacific, Norfolk Southern merger gains momentum",
+          "url": "https://transportationtodaynews.com/news/38792-union-pacific-norfolk-southern-merger-gains-momentum/",
+          "published_at": "2026-09-24T17:38:59"
+        }
+      ]
+    },
+    {
       "event_id": 1463,
       "title": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
       "summary": "First Solar (NASDAQ: FSLR) stock has hit a new 52-week low despite the company reporting strong Q2 earnings in late July. Shares dropped below the previous low of $182.99, trading down 7.73% at $177.14 at the time of publication, significantly underperforming its sector. This decline suggests a market shift towards riskier assets, moving away from defensive stocks like First Solar.",
@@ -20,7 +185,7 @@
           "symbol": "FSLR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.419673,
+          "sentiment_score": -0.445145,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -32,7 +197,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.929731
+          "relevance_score": 0.939174
         },
         {
           "topic": "energy_transportation",
@@ -48,6 +213,53 @@
           "headline": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
           "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61979894/first-solar-stock-hits-fresh-52-week-low-whats-happening",
           "published_at": "2026-09-24T17:24:55"
+        }
+      ]
+    },
+    {
+      "event_id": 1472,
+      "title": "Xylem Falls as Investors Weigh Acquisition Financing and New Debt",
+      "summary": "Xylem Inc. (XYL) experienced a 4.9% stock price drop due to investor concerns about balance-sheet risk related to new financing for its planned acquisition of Cornell Pump and Roper Pump businesses. The company recently secured a $1.5 billion revolving credit facility and priced $1.5 billion in senior notes to fund the $1.46 billion acquisition. The stock's current trading near a 52-week low may amplify selling pressure, as the market signals caution regarding higher financing costs and execution risk.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 72,
+      "published_at": "2026-09-24T17:08:53",
+      "first_seen_at": "2026-09-24T20:00:03.457852",
+      "assets": [
+        {
+          "symbol": "XYL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.438499,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906075
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.801666
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1621,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Xylem Falls as Investors Weigh Acquisition Financing and New Debt",
+          "url": "https://www.quiverquant.com/news/Xylem+Falls+as+Investors+Weigh+Acquisition+Financing+and+New+Debt",
+          "published_at": "2026-09-24T17:08:53"
         }
       ]
     },
@@ -928,230 +1140,6 @@
           "headline": "State Street Corp Sells 8,552,082 Shares of News Corporation $NWSA",
           "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-8552082-shares-of-news-corporation-nwsa-2026-09-24/",
           "published_at": "2026-09-24T08:37:21"
-        }
-      ]
-    },
-    {
-      "event_id": 1448,
-      "title": "Evergy stock falls 1.7 percent ahead of the open",
-      "summary": "Evergy stock fell 1.7 percent on September 23, 2026, closing at USD 78.91, as the utility sector was pressured by rising Treasury yields and interest rate expectations. The broader S&P 500 also declined by 0.75 percent. Higher yields tend to negatively impact dividend-paying sectors like utilities, influencing market sentiment for the upcoming trading session.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-24T07:24:00",
-      "first_seen_at": "2026-09-24T12:00:03.541535",
-      "assets": [
-        {
-          "symbol": "EVRG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.369622,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AES",
-          "asset_class": null,
-          "relevance_score": 0.646087,
-          "sentiment_score": -0.350357,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ATO",
-          "asset_class": null,
-          "relevance_score": 0.635134,
-          "sentiment_score": -0.36284,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AEE",
-          "asset_class": null,
-          "relevance_score": 0.613318,
-          "sentiment_score": -0.398282,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AEP",
-          "asset_class": null,
-          "relevance_score": 0.610607,
-          "sentiment_score": -0.395774,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943048
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.842005
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.737274
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1596,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Evergy stock falls 1.7 percent ahead of the open",
-          "url": "https://www.ad-hoc-news.de/boerse/news/vorboerse/evergy-stock-falls-1-7-percent-ahead-of-the-open/70174165",
-          "published_at": "2026-09-24T07:24:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1440,
-      "title": "QRG Capital Management Inc. Acquires 49,548 Shares of AutoZone, Inc. $AZO",
-      "summary": "QRG Capital Management Inc. significantly increased its stake in AutoZone, Inc. (NYSE:AZO) by acquiring an additional 49,548 shares, bringing its total holdings to 49,738 shares worth approximately $158.96 million. This move makes AutoZone the 15th largest holding for QRG Capital Management, representing 1.1% of its portfolio. The article also details other institutional investor activity, recent analyst rating changes, key news impacting AutoZone, and insider trading information.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-23T23:08:49",
-      "first_seen_at": "2026-09-24T00:00:01.839489",
-      "assets": [
-        {
-          "symbol": "AZO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.242133,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.604548,
-          "sentiment_score": 0.113021,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.921725
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920974
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.747518
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.632741
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1586,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "QRG Capital Management Inc. Acquires 49,548 Shares of AutoZone, Inc. $AZO",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-acquires-49548-shares-of-autozone-inc-azo-2026-09-23/",
-          "published_at": "2026-09-23T23:08:49"
-        }
-      ]
-    },
-    {
-      "event_id": 1437,
-      "title": "S&P Global stock ends the day lower at the close",
-      "summary": "S&P Global stock closed lower on September 23, 2026, on the NYSE, with shares down 0.50% to USD 402.44, underperforming the S&P 500 which fell 0.53%. This decline occurred amidst rising Treasury yields and a weaker broader U.S. equities market. The market also reacted to the S&P Global US Composite PMI Output Index increasing to 58.4 in September, and the 10-year Treasury yield reaching its highest level since 2007.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-23T22:32:00",
-      "first_seen_at": "2026-09-23T23:00:02.602575",
-      "assets": [
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.222262,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.925862
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.849047
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1583,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "S&P Global stock ends the day lower at the close",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/s-and-p-global-stock-ends-the-day-lower-at-the-close/70170268",
-          "published_at": "2026-09-23T22:32:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1442,
-      "title": "People Incorporated withdraws bid to buy MGM Re...",
-      "summary": "People Incorporated has retracted its proposal to acquire all public shares of MGM Resorts International due to an unfavorable mix of deal factors. Despite the withdrawal, People Incorporated will maintain its 27% stake in MGM Resorts, expressing confidence in the resort company's management and future. The company remains open to future strategic transactions with MGM, suggesting this is a pause rather than a complete end to potential collaborations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-23T22:27:35",
-      "first_seen_at": "2026-09-24T00:00:02.397819",
-      "assets": [
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.235268,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.934899
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1588,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "People Incorporated withdraws bid to buy MGM Re...",
-          "url": "https://pluang.com/en/news-feed/people-incorporated-tarik-usulan-pembelian-saham-mgm-resorts-international",
-          "published_at": "2026-09-23T22:27:35"
         }
       ]
     }
