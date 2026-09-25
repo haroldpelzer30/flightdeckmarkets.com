@@ -5,6 +5,69 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1486,
+      "title": "EQT Corporation (NYSE:EQT) Stock Has Average Target Price of $68.18 According to Brokerages",
+      "summary": "EQT Corporation (NYSE:EQT) has received a \"Moderate Buy\" rating from 28 brokerages, with an average 12-month price target of $68.18, significantly higher than its current share price of $51.92. Despite missing recent quarterly earnings and revenue estimates, analysts maintain a bullish outlook, supported by expectations of increased U.S. natural gas production with lower capital spending in 2026. Institutional investors hold a substantial stake, and insider selling by CEO Toby Rice was noted.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-25T10:21:01",
+      "first_seen_at": "2026-09-25T12:00:02.298187",
+      "assets": [
+        {
+          "symbol": "EQT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.286653,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.598144,
+          "sentiment_score": 0.117366,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ALL",
+          "asset_class": null,
+          "relevance_score": 0.563307,
+          "sentiment_score": 0.147057,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944639
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.936312
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.829703
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1636,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "EQT Corporation (NYSE:EQT) Stock Has Average Target Price of $68.18 According to Brokerages",
+          "url": "https://www.marketbeat.com/instant-alerts/consensus-eqt-corporation-nyse-eqt-stock-has-average-target-price-of-6818-according-to-brokerages-2026-09-25/",
+          "published_at": "2026-09-25T10:21:01"
+        }
+      ]
+    },
+    {
       "event_id": 1482,
       "title": "FG Nexus acquires $10 million stake in FG Communities By Investing.com",
       "summary": "FG Nexus Inc. has acquired a $10 million stake in privately held FG Communities, Inc. by purchasing 1,818,182 shares of common stock at $5.50 per share. This investment represents approximately 24% of FG Nexus’s current market capitalization. The transaction was approved by an independent special committee due to affiliations between officers and directors of both companies.",
@@ -1119,77 +1182,6 @@
           "source_domain": "Kalkine Media",
           "headline": "Why Is First Solar (NASDAQ:FSLR) Back in Focus After Reaffirming Guidance?",
           "url": "https://kalkinemedia.com/us/stocks/energy/why-is-first-solar-nasdaqfslr-back-in-focus-after-reaffirming-guidance",
-          "published_at": "2026-09-24T16:15:03"
-        }
-      ]
-    },
-    {
-      "event_id": 1459,
-      "title": "Gen Digital Inc Stock (GEN) Moved Down by 8.39% on Sep 24: Drivers Behind the Movement",
-      "summary": "Gen Digital Inc. (GEN) shares dropped by 8.39% following reports of a potential takeover bid for GoDaddy. Investors are concerned about the financial and integration risks associated with such a large acquisition, including potential debt issuance and equity dilution. Technical indicators also suggest a sell condition for the stock.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-24T16:15:03",
-      "first_seen_at": "2026-09-24T18:00:02.712999",
-      "assets": [
-        {
-          "symbol": "GEN",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.4568,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GDDY",
-          "asset_class": null,
-          "relevance_score": 0.861279,
-          "sentiment_score": -0.332629,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.639358,
-          "sentiment_score": 0.12312,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ORCL",
-          "asset_class": null,
-          "relevance_score": 0.596524,
-          "sentiment_score": -0.225882,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930528
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.848722
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1607,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Gen Digital Inc Stock (GEN) Moved Down by 8.39% on Sep 24: Drivers Behind the Movement",
-          "url": "https://www.tradingkey.com/news/market-movers/262185417-market-movers-gen-20260924",
           "published_at": "2026-09-24T16:15:03"
         }
       ]
