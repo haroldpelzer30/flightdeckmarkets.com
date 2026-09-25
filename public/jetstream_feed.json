@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1490,
+      "title": "Did Newsom 'forcing' closure of California refineries cause US gas prices to spike?",
+      "summary": "A claim circulated online suggesting that California Governor Gavin Newsom \"forced\" the closure of four refineries, leading to a spike in U.S. gas prices, is \"Mostly False.\" While two California refineries did close, not four, and state regulations were cited as a partial reason for one closure, the primary drivers for increased nationwide gas prices in 2026 are identified as the Iran war and related shipping route disruptions. Oil companies themselves cited high costs and low earnings as reasons for their closure decisions, with no evidence indicating Newsom directly forced these shutdowns.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-09-25T13:01:55",
+      "first_seen_at": "2026-09-25T14:00:02.118873",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.286643,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.916183,
+          "sentiment_score": 0.04157,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.570807,
+          "sentiment_score": -0.129173,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.93233
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.838168
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.612914
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1640,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Snopes",
+          "source_domain": "Snopes",
+          "headline": "Did Newsom 'forcing' closure of California refineries cause US gas prices to spike?",
+          "url": "https://www.snopes.com/fact-check/newsom-gas-prices-refineries-close/",
+          "published_at": "2026-09-25T13:01:55"
+        }
+      ]
+    },
+    {
+      "event_id": 1491,
+      "title": "DTE Energy: Low-Risk Dividend Growth For Passive Income (NYSE:DTE)",
+      "summary": "DTE Energy Company offers a compelling investment opportunity due to its discounted valuation, strong dividend growth, and accelerating earnings driven by Michigan's data center expansion. The company's $36.5 billion capital plan, backed by agreements with Oracle and Google, is projected to support 6-8% annual operating EPS growth through 2030, with potential for further upside. With an attractive 3.4% yield and a forward P/E suggesting significant upside, DTE is well-positioned for long-term passive income despite interest rate and regulatory risks.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-25T12:00:24",
+      "first_seen_at": "2026-09-25T14:00:02.384020",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.438201,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.947313
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941825
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.828161
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.814169
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1641,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "DTE Energy: Low-Risk Dividend Growth For Passive Income (NYSE:DTE)",
+          "url": "https://seekingalpha.com/article/4948776-dte-energy-low-risk-dividend-growth-for-passive-income",
+          "published_at": "2026-09-25T12:00:24"
+        }
+      ]
+    },
+    {
       "event_id": 1487,
       "title": "ServiceNow, Quanta Services And More On CNBC’s ‘Final Trades’",
       "summary": "During CNBC’s \"Halftime Report Final Trades,\" several financial experts shared their stock picks. Joshua Brown chose the F/M US Treasury 2 Year Note ETF, while Malcolm Ethridge selected ServiceNow, Inc., supported by an analyst's raised price target and strong Q2 earnings. Shannon Saccocia recommended the iShares U.S. Basic Materials ETF, and Stephanie Link picked Quanta Services, Inc., which recently received an upgrade and reported better-than-expected earnings.",
@@ -20,15 +134,15 @@
           "symbol": "PWR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.426798,
+          "sentiment_score": 0.410284,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "NOW",
           "asset_class": null,
-          "relevance_score": 0.92088,
-          "sentiment_score": 0.428887,
+          "relevance_score": 0.928262,
+          "sentiment_score": 0.386677,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,7 +150,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.926633
+          "relevance_score": 0.928758
         },
         {
           "topic": "earnings",
@@ -75,15 +189,15 @@
           "symbol": "WELL",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.409698,
+          "sentiment_score": 0.408243,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
         {
           "symbol": "JPM",
           "asset_class": null,
-          "relevance_score": 0.61688,
-          "sentiment_score": 0.346249,
+          "relevance_score": 0.621526,
+          "sentiment_score": 0.327327,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -91,11 +205,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.908014
+          "relevance_score": 0.928982
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.903913
+          "relevance_score": 0.90905
         },
         {
           "topic": "economy_monetary",
@@ -103,7 +217,7 @@
         },
         {
           "topic": "finance",
-          "relevance_score": 0.735823
+          "relevance_score": 0.749253
         }
       ],
       "articles": [
@@ -1052,100 +1166,6 @@
           "headline": "Union Pacific, Norfolk Southern merger gains momentum",
           "url": "https://transportationtodaynews.com/news/38792-union-pacific-norfolk-southern-merger-gains-momentum/",
           "published_at": "2026-09-24T17:38:59"
-        }
-      ]
-    },
-    {
-      "event_id": 1463,
-      "title": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
-      "summary": "First Solar (NASDAQ: FSLR) stock has hit a new 52-week low despite the company reporting strong Q2 earnings in late July. Shares dropped below the previous low of $182.99, trading down 7.73% at $177.14 at the time of publication, significantly underperforming its sector. This decline suggests a market shift towards riskier assets, moving away from defensive stocks like First Solar.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-24T17:24:55",
-      "first_seen_at": "2026-09-24T19:00:01.856679",
-      "assets": [
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.445145,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.946219
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.939174
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.749598
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1611,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "First Solar Stock Hits Fresh 52-Week Low: What's Happening?",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61979894/first-solar-stock-hits-fresh-52-week-low-whats-happening",
-          "published_at": "2026-09-24T17:24:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1472,
-      "title": "Xylem Falls as Investors Weigh Acquisition Financing and New Debt",
-      "summary": "Xylem Inc. (XYL) experienced a 4.9% stock price drop due to investor concerns about balance-sheet risk related to new financing for its planned acquisition of Cornell Pump and Roper Pump businesses. The company recently secured a $1.5 billion revolving credit facility and priced $1.5 billion in senior notes to fund the $1.46 billion acquisition. The stock's current trading near a 52-week low may amplify selling pressure, as the market signals caution regarding higher financing costs and execution risk.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 72,
-      "published_at": "2026-09-24T17:08:53",
-      "first_seen_at": "2026-09-24T20:00:03.457852",
-      "assets": [
-        {
-          "symbol": "XYL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.438499,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906075
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.801666
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1621,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Xylem Falls as Investors Weigh Acquisition Financing and New Debt",
-          "url": "https://www.quiverquant.com/news/Xylem+Falls+as+Investors+Weigh+Acquisition+Financing+and+New+Debt",
-          "published_at": "2026-09-24T17:08:53"
         }
       ]
     }
