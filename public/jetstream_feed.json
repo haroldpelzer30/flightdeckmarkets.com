@@ -5,6 +5,117 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1511,
+      "title": "Nasdaq notifies Future Money Acquisition of listing deficiency By Investing.com",
+      "summary": "Nasdaq has issued a deficiency notice to Future Money Acquisition Corporation (NASDAQ:FMAC) because the company failed to file its quarterly report for the period ending July 31, 2026. This puts Future Money Acquisition Corporation in non-compliance with Nasdaq Listing Rule 5250(c)(1). The company has until November 23, 2026, to submit a plan to regain compliance and could receive an extension until March 22, 2027, if their plan is accepted.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-25T21:06:12",
+      "first_seen_at": "2026-09-25T22:00:02.042725",
+      "assets": [
+        {
+          "symbol": "FMAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.703262,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NDAQ",
+          "asset_class": null,
+          "relevance_score": 0.640424,
+          "sentiment_score": -0.310161,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901857
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.812287
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.63969
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.604075
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1662,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com UK",
+          "source_domain": "Investing.com UK",
+          "headline": "Nasdaq notifies Future Money Acquisition of listing deficiency By Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/nasdaq-notifies-future-money-acquisition-of-listing-deficiency-93CH-4883837",
+          "published_at": "2026-09-25T21:06:12"
+        },
+        {
+          "article_id": 1661,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Nasdaq notifies Future Money Acquisition of listing deficiency By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/nasdaq-notifies-future-money-acquisition-of-listing-deficiency-93CH-4854203",
+          "published_at": "2026-09-25T21:07:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1512,
+      "title": "Future Money Acquisition Corporation Announces Receipt of Nasdaq Delinquency Notice Regarding Delayed Form 10-Q Filing",
+      "summary": "Future Money Acquisition Corporation (FMAC) announced it received a delinquency notice from Nasdaq for failing to timely file its Form 10-Q for the fiscal quarter ended July 31, 2026. The company has 60 days to submit a plan to regain compliance, with a potential exception period until March 22, 2027. FMAC is working diligently to file the report and intends to take all necessary steps to comply with Nasdaq's listing rules.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-25T21:00:12",
+      "first_seen_at": "2026-09-25T22:00:02.364346",
+      "assets": [
+        {
+          "symbol": "FMAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.718237,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901558
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.712141
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1663,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Future Money Acquisition Corporation Announces Receipt of Nasdaq Delinquency Notice Regarding Delayed Form 10-Q Filing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/future-money-acquisition-corporation-announces-210000388.html",
+          "published_at": "2026-09-25T21:00:12"
+        }
+      ]
+    },
+    {
       "event_id": 1508,
       "title": "Top dividend aristocrats: Chevron, Emerson, and Albemarle lead on quality-adjusted fundamentals",
       "summary": "Chevron Corp (CVX), Emerson Electric Company (EMR), and Albemarle Corp (ALB) have been identified as top dividend aristocrats based on quality-adjusted near-term fundamentals. These companies meet criteria including at least 25 years of dividend growth, positive projected EPS and revenue growth, dividend coverage above 1x, and a market capitalization over $10 billion. Chevron offers a strong balance of earnings momentum and dividend durability, Emerson boasts a clean operating-quality profile, and Albemarle shows significant near-term recovery potential.",
@@ -1087,108 +1198,6 @@
           "headline": "EQT Corporation (NYSE:EQT) Stock Has Average Target Price of $68.18 According to Brokerages",
           "url": "https://www.marketbeat.com/instant-alerts/consensus-eqt-corporation-nyse-eqt-stock-has-average-target-price-of-6818-according-to-brokerages-2026-09-25/",
           "published_at": "2026-09-25T10:21:01"
-        }
-      ]
-    },
-    {
-      "event_id": 1482,
-      "title": "FG Nexus acquires $10 million stake in FG Communities By Investing.com",
-      "summary": "FG Nexus Inc. has acquired a $10 million stake in privately held FG Communities, Inc. by purchasing 1,818,182 shares of common stock at $5.50 per share. This investment represents approximately 24% of FG Nexus’s current market capitalization. The transaction was approved by an independent special committee due to affiliations between officers and directors of both companies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-09-24T22:38:31",
-      "first_seen_at": "2026-09-25T00:00:01.959731",
-      "assets": [
-        {
-          "symbol": "FGNX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.225737,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845953
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.736495
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.641142
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1632,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "FG Nexus acquires $10 million stake in FG Communities By Investing.com",
-          "url": "https://ng.investing.com/news/stock-market-news/fg-nexus-acquires-10-million-stake-in-fg-communities-93CH-2706986",
-          "published_at": "2026-09-24T22:38:31"
-        }
-      ]
-    },
-    {
-      "event_id": 1483,
-      "title": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
-      "summary": "Constellation Energy is acquiring Shell’s Rhode Island State Energy Center for $715 million, a move expected to enhance Constellation's power generation portfolio and earnings. This deal allows Constellation to expand its merchant generation footprint and gain immediate earnings accretion, while Shell optimizes its asset base and generates liquid funds for capital returns and investments. The transaction is seen as a strategic realignment benefiting both companies, though Constellation will need to manage debt and cash flow volatility, and Shell will focus on redeploying funds into higher-yielding growth areas.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-24T22:16:19",
-      "first_seen_at": "2026-09-25T00:00:02.253385",
-      "assets": [
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.450066,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.90358
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80411
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.708906
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1633,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Insider Monkey",
-          "source_domain": "Insider Monkey",
-          "headline": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
-          "url": "https://www.insidermonkey.com/news/could-constellation-energy-cegs-715-million-shell-shel-deal-accelerate-its-power-growth-1840694/",
-          "published_at": "2026-09-24T22:16:19"
         }
       ]
     }
