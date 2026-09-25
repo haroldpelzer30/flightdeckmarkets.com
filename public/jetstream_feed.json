@@ -5,6 +5,77 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1508,
+      "title": "Top dividend aristocrats: Chevron, Emerson, and Albemarle lead on quality-adjusted fundamentals",
+      "summary": "Chevron Corp (CVX), Emerson Electric Company (EMR), and Albemarle Corp (ALB) have been identified as top dividend aristocrats based on quality-adjusted near-term fundamentals. These companies meet criteria including at least 25 years of dividend growth, positive projected EPS and revenue growth, dividend coverage above 1x, and a market capitalization over $10 billion. Chevron offers a strong balance of earnings momentum and dividend durability, Emerson boasts a clean operating-quality profile, and Albemarle shows significant near-term recovery potential.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-25T18:56:49",
+      "first_seen_at": "2026-09-25T21:00:01.956146",
+      "assets": [
+        {
+          "symbol": "ALB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.202079,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.945642,
+          "sentiment_score": 0.384578,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EMR",
+          "asset_class": null,
+          "relevance_score": 0.918356,
+          "sentiment_score": 0.332732,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.947452
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84154
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.740262
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.648431
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.624136
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1658,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Top dividend aristocrats: Chevron, Emerson, and Albemarle lead on quality-adjusted fundamentals",
+          "url": "https://www.investing.com/news/stock-market-news/top-dividend-aristocrats-chevron-emerson-and-albemarle-lead-on-qualityadjusted-fundamentals-93CH-4917970",
+          "published_at": "2026-09-25T18:56:49"
+        }
+      ]
+    },
+    {
       "event_id": 1506,
       "title": "General Electric And 2 Defense Stocks To Own",
       "summary": "This article examines three aerospace and defense stocks—General Electric, Rocket Lab, and Lockheed Martin—highlighting their relevance in the current economic climate of rising government bond yields and sustained defense spending. It delves into each company's operations, market cap, and specific factors influencing their future performance, from engine programs and space systems to advanced military hardware. The piece emphasizes the importance of understanding these companies within a long-term investment portfolio context.",
@@ -20,15 +91,15 @@
           "symbol": "GE",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.306036,
+          "sentiment_score": 0.319043,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "LMT",
           "asset_class": null,
-          "relevance_score": 0.910546,
-          "sentiment_score": 0.42367,
+          "relevance_score": 0.943524,
+          "sentiment_score": 0.431833,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -36,11 +107,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.909662
+          "relevance_score": 0.912698
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.800627
+          "relevance_score": 0.808901
         }
       ],
       "articles": [
@@ -71,15 +142,15 @@
           "symbol": "HD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.227002,
+          "sentiment_score": -0.21665,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "LOW",
           "asset_class": null,
-          "relevance_score": 0.615583,
-          "sentiment_score": -0.121017,
+          "relevance_score": 0.628132,
+          "sentiment_score": -0.148829,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -1118,77 +1189,6 @@
           "headline": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
           "url": "https://www.insidermonkey.com/news/could-constellation-energy-cegs-715-million-shell-shel-deal-accelerate-its-power-growth-1840694/",
           "published_at": "2026-09-24T22:16:19"
-        }
-      ]
-    },
-    {
-      "event_id": 1484,
-      "title": "S&P Global raises Western Digital outlook to positive on surging AI demand",
-      "summary": "S&P Global Ratings has upgraded Western Digital's outlook to positive from stable, affirming its 'BBB-' credit rating, citing strong cash flow generation and low leverage. This revision is driven by surging demand for AI infrastructure, which is expected to boost the company's revenue by approximately 44% in fiscal 2027. S&P projects robust liquidity and free cash flow generation of about $5 billion, with potential for further rating increases if the company sustains high cash flow and demonstrates technology leadership.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-24T22:08:25",
-      "first_seen_at": "2026-09-25T00:00:02.519413",
-      "assets": [
-        {
-          "symbol": "WDC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.412184,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.922419,
-          "sentiment_score": 0.326219,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.643293,
-          "sentiment_score": 0.341656,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.937421
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.828879
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.745049
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.64117
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620084
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1634,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "S&P Global raises Western Digital outlook to positive on surging AI demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-raises-western-digital-220840545.html",
-          "published_at": "2026-09-24T22:08:25"
         }
       ]
     }
