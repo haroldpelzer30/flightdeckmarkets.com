@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1498,
+      "title": "Chevron's Cost Discipline: Turning Efficiency Into Lasting Value",
+      "summary": "Chevron has successfully implemented a structural cost reduction strategy, achieving $3 billion in annual run-rate savings ahead of schedule and targeting further reductions by the end of 2026. This focus on efficiency, rather than solely relying on commodity prices, has allowed the company to offset inflationary pressures and grow production. Other energy companies like ExxonMobil and Shell are also pursuing similar cost-saving initiatives to build resilience across commodity cycles.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-25T13:44:29",
+      "first_seen_at": "2026-09-25T16:00:02.766618",
+      "assets": [
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.447063,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.703846,
+          "sentiment_score": 0.331461,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.942667
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935418
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.84717
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1648,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance Singapore",
+          "source_domain": "Yahoo Finance Singapore",
+          "headline": "Chevron's Cost Discipline: Turning Efficiency Into Lasting Value",
+          "url": "https://sg.finance.yahoo.com/news/chevrons-cost-discipline-turning-efficiency-131700196.html",
+          "published_at": "2026-09-25T13:44:29"
+        }
+      ]
+    },
+    {
       "event_id": 1494,
       "title": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
       "summary": "This article identifies three multinational exporters, Deere (DE), Ecolab (ECL), and DNOW (DNOW), that could benefit from a strengthening U.S. dollar and rising interest rates. It details each company's operations, market capitalization, and specific reasons why they are well-positioned in the current economic climate, particularly highlighting their international revenue streams and strategic investments in technology or infrastructure. The piece emphasizes that these are just a few examples from a broader screener of U.S.-Dollar Beneficiary Multinational Exporters.",
@@ -1135,69 +1190,6 @@
           "headline": "Select Water stock surges 28% on Pilot Water acquisition deal",
           "url": "https://www.investing.com/news/stock-market-news/select-water-stock-surges-28-on-pilot-water-acquisition-deal-4916217",
           "published_at": "2026-09-24T20:43:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1477,
-      "title": "Hyundai Overtakes Ford as Hybrid Boom Reshapes US Auto Market",
-      "summary": "Cox Automotive projects that Hyundai, Kia, and Genesis will outsell Ford in the third quarter of 2026, driven largely by the surging demand for hybrid vehicles. While General Motors remains the top automaker, Toyota is closing the gap, and Asian brands like Hyundai are leading the hybrid charge, which now accounts for over 16% of US vehicle sales. The US auto market shows resilience despite economic challenges, with full-year sales forecasts increasing, though EV sales are down compared to the previous year.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-24T20:17:25",
-      "first_seen_at": "2026-09-24T22:00:02.431470",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.435484,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.801691,
-          "sentiment_score": -0.118877,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 0.644624,
-          "sentiment_score": -0.422025,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.949063
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.806988
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.602573
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1626,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Autoweek",
-          "source_domain": "Autoweek",
-          "headline": "Hyundai Overtakes Ford as Hybrid Boom Reshapes US Auto Market",
-          "url": "https://www.autoweek.com/news/a73874538/hyundai-overtakes-ford-q3-sales/",
-          "published_at": "2026-09-24T20:17:25"
         }
       ]
     }
