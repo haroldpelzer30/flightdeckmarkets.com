@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1506,
+      "title": "General Electric And 2 Defense Stocks To Own",
+      "summary": "This article examines three aerospace and defense stocks—General Electric, Rocket Lab, and Lockheed Martin—highlighting their relevance in the current economic climate of rising government bond yields and sustained defense spending. It delves into each company's operations, market cap, and specific factors influencing their future performance, from engine programs and space systems to advanced military hardware. The piece emphasizes the importance of understanding these companies within a long-term investment portfolio context.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-25T18:31:40",
+      "first_seen_at": "2026-09-25T20:00:02.320389",
+      "assets": [
+        {
+          "symbol": "GE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.306036,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LMT",
+          "asset_class": null,
+          "relevance_score": 0.910546,
+          "sentiment_score": 0.42367,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.909662
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.800627
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1656,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "General Electric And 2 Defense Stocks To Own",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ge/general-electric/news/general-electric-and-2-defense-stocks-to-own",
+          "published_at": "2026-09-25T18:31:40"
+        }
+      ]
+    },
+    {
       "event_id": 1504,
       "title": "Home Depot stock last at USD 293.20 in New York trading",
       "summary": "Home Depot stock traded at USD 293.20 in New York on September 25, 2026, within an intraday range of USD 291.75 to USD 293.77. The stock's performance was influenced by weak housing activity, cautious consumers, and valuation concerns, with analysts focusing on consumer spending and housing market trends. The article also notes the broader economic context of higher Treasury yields and Federal Reserve tightening impacting the retail sector.",
@@ -20,15 +71,15 @@
           "symbol": "HD",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.224119,
+          "sentiment_score": -0.227002,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         },
         {
           "symbol": "LOW",
           "asset_class": null,
-          "relevance_score": 0.601861,
-          "sentiment_score": -0.143628,
+          "relevance_score": 0.615583,
+          "sentiment_score": -0.121017,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -40,19 +91,19 @@
         },
         {
           "topic": "retail_wholesale",
-          "relevance_score": 0.924435
+          "relevance_score": 0.926895
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.840482
+          "relevance_score": 0.845208
         },
         {
           "topic": "economy_monetary",
-          "relevance_score": 0.716905
+          "relevance_score": 0.730163
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.635201
+          "relevance_score": 0.639327
         }
       ],
       "articles": [
@@ -1138,65 +1189,6 @@
           "headline": "S&P Global raises Western Digital outlook to positive on surging AI demand",
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-raises-western-digital-220840545.html",
           "published_at": "2026-09-24T22:08:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1485,
-      "title": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
-      "summary": "Bluerock Acquisition Corp. II has priced its initial public offering (IPO) on the Nasdaq Global Market, raising $150 million by offering 15 million units at $10.00 each. The units are expected to begin trading under the ticker symbol \"BRRKU\" on September 25, 2026, with the offering closing on September 28, 2026. The company is a blank check company seeking a business combination and has granted underwriters an option to purchase additional units.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-24T21:52:15",
-      "first_seen_at": "2026-09-25T00:00:02.820683",
-      "assets": [
-        {
-          "symbol": "BLRK",
-          "asset_class": null,
-          "relevance_score": 0.902518,
-          "sentiment_score": 0.426183,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NDAQ",
-          "asset_class": null,
-          "relevance_score": 0.638926,
-          "sentiment_score": 0.349773,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "ipo",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.828217
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.72959
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.604696
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1635,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
-          "url": "https://www.investing.com/news/stock-market-news/bluerock-acquisition-corp-ii-prices-150m-ipo-on-nasdaq-432SI-4916305",
-          "published_at": "2026-09-24T21:52:15"
         }
       ]
     }
