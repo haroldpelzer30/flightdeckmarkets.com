@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1501,
+      "title": "Halliburton stock last at USD 32.66, down 0.27 percent in New York trading",
+      "summary": "Halliburton's stock closed at USD 32.66, marking a 0.27 percent decrease in New York trading on September 25, 2026. The company's shares traded within a range of USD 32.33 to USD 32.81, with a trading volume of 2,157,564 shares by 12:07 p.m. ET. Investors are looking forward to Halliburton's third-quarter results, scheduled for release on October 20, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-25T16:18:42",
+      "first_seen_at": "2026-09-25T18:00:02.133683",
+      "assets": [
+        {
+          "symbol": "HAL",
+          "asset_class": null,
+          "relevance_score": 0.968001,
+          "sentiment_score": 0.082503,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BKR",
+          "asset_class": null,
+          "relevance_score": 0.686325,
+          "sentiment_score": 0.201291,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.622981,
+          "sentiment_score": 0.201607,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.562994,
+          "sentiment_score": 0.057054,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.561909,
+          "sentiment_score": 0.082536,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.909272
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.848717
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1651,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Halliburton stock last at USD 32.66, down 0.27 percent in New York trading",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/halliburton-stock-last-at-usd-32-66-down-0-27-percent-in-new-york-trading/70184645",
+          "published_at": "2026-09-25T16:18:42"
+        }
+      ]
+    },
+    {
       "event_id": 1499,
       "title": "Tesla’s Optimus Reportedly Hits Production Snags — StoneX Stays Bullish Ahead Of Q3 Vehicle Deliveries",
       "summary": "Tesla is reportedly facing production challenges with its Optimus humanoid robot, particularly with complex hands and supplier constraints, despite increasing weekly production to several hundred units. Meanwhile, StoneX has maintained a \"Buy\" rating and a $475 price target for Tesla, forecasting 446,500 vehicle deliveries for Q3, a decline from the previous year, but anticipates growth in Tesla's energy storage business to support earnings. Other analysts have varying Q3 delivery expectations, with Goldman Sachs cutting its estimate and Barclays and UBS being more optimistic.",
@@ -20,7 +99,7 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.128919,
+          "sentiment_score": 0.121108,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -32,11 +111,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.929488
+          "relevance_score": 0.932781
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.839935
+          "relevance_score": 0.840639
         },
         {
           "topic": "technology",
@@ -71,7 +150,7 @@
           "symbol": "HES",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.112127,
+          "sentiment_score": 0.127267,
           "sentiment_label": "Neutral",
           "relationship_type": null
         },
@@ -79,7 +158,7 @@
           "symbol": "CVX",
           "asset_class": null,
           "relevance_score": 0.930025,
-          "sentiment_score": 0.212877,
+          "sentiment_score": 0.249054,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         }
@@ -91,11 +170,11 @@
         },
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.904383
+          "relevance_score": 0.946894
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.839226
+          "relevance_score": 0.844626
         }
       ],
       "articles": [
@@ -1110,49 +1189,6 @@
           "headline": "Aebi Schmidt stock falls as Shyft deal drives a new growth plan",
           "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/aebi-schmidt-stock-falls-as-shyft-deal-drives-a-new-growth-plan/70179565",
           "published_at": "2026-09-24T21:22:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1480,
-      "title": "APA on course",
-      "summary": "APA Alaska is preparing to drill two wells on the eastern North Slope during the 2026-2027 winter exploration season, one exploration well and one appraisal well for the Sockeye discovery complex. This follows APA's acquisition of Savant Alaska LLC for $70 million, which provides essential infrastructure, including the Badami production facility and Nutaaq Pipeline. CEO John J. Christmann IV stated that this acquisition enhances their drilling program and future development flexibility in Alaska.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-24T21:14:25",
-      "first_seen_at": "2026-09-24T23:00:02.203049",
-      "assets": [
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.964099,
-          "sentiment_score": 0.639787,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.942184
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.910478
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1629,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Petroleum News",
-          "source_domain": "Petroleum News",
-          "headline": "APA on course",
-          "url": "https://www.petroleumnews.com/story/2026/09/27/e-and-p/apa-on-course/50377.html",
-          "published_at": "2026-09-24T21:14:25"
         }
       ]
     }
