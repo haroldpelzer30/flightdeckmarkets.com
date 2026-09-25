@@ -5,6 +5,140 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1504,
+      "title": "Home Depot stock last at USD 293.20 in New York trading",
+      "summary": "Home Depot stock traded at USD 293.20 in New York on September 25, 2026, within an intraday range of USD 291.75 to USD 293.77. The stock's performance was influenced by weak housing activity, cautious consumers, and valuation concerns, with analysts focusing on consumer spending and housing market trends. The article also notes the broader economic context of higher Treasury yields and Federal Reserve tightening impacting the retail sector.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-25T18:18:31",
+      "first_seen_at": "2026-09-25T19:00:02.181282",
+      "assets": [
+        {
+          "symbol": "HD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.224119,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LOW",
+          "asset_class": null,
+          "relevance_score": 0.601861,
+          "sentiment_score": -0.143628,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.924435
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.840482
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.716905
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.635201
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1654,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Home Depot stock last at USD 293.20 in New York trading",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/home-depot-stock-last-at-usd-293-20-in-new-york-trading/70184696",
+          "published_at": "2026-09-25T18:18:31"
+        }
+      ]
+    },
+    {
+      "event_id": 1505,
+      "title": "Mplx (NYSE:MPLX) Stock Sees Unusually High Put Option Buying",
+      "summary": "Mplx (NYSE:MPLX) experienced unusually high put option buying, with traders acquiring 3,141 put options, a 47% increase over the daily average, as its shares fell 1.9%. Despite this bearish options activity, analysts generally maintain a \"Moderate Buy\" rating with an average price target of $63.80. The company reported strong financial results, including a quarterly EPS of $1.06, revenue of $3.13 billion, and a 7.6% annualized dividend yield.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-25T16:57:34",
+      "first_seen_at": "2026-09-25T19:00:02.463536",
+      "assets": [
+        {
+          "symbol": "MPLX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.220157,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.580728,
+          "sentiment_score": 0.321234,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 0.561002,
+          "sentiment_score": 0.422244,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.929802
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.909172
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.848404
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.630242
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.620271
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1655,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Mplx (NYSE:MPLX) Stock Sees Unusually High Put Option Buying",
+          "url": "https://www.marketbeat.com/instant-alerts/options-mplx-nyse-mplx-stock-sees-unusually-high-put-option-buying-2026-09-25/",
+          "published_at": "2026-09-25T16:57:34"
+        }
+      ]
+    },
+    {
       "event_id": 1501,
       "title": "Halliburton stock last at USD 32.66, down 0.27 percent in New York trading",
       "summary": "Halliburton's stock closed at USD 32.66, marking a 0.27 percent decrease in New York trading on September 25, 2026. The company's shares traded within a range of USD 32.33 to USD 32.81, with a trading volume of 2,157,564 shares by 12:07 p.m. ET. Investors are looking forward to Halliburton's third-quarter results, scheduled for release on October 20, 2026.",
@@ -1063,132 +1197,6 @@
           "headline": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
           "url": "https://www.investing.com/news/stock-market-news/bluerock-acquisition-corp-ii-prices-150m-ipo-on-nasdaq-432SI-4916305",
           "published_at": "2026-09-24T21:52:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1478,
-      "title": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
-      "summary": "Shares of Microchip Technology, Skyworks Solutions, and Universal Display fell following a rise in benchmark 10-year U.S. Treasury yields above 5.1%, which pressured technology valuations. This pullback occurred despite a recent climb in the Philadelphia Semiconductor Index. The rise in bond yields and concerns about future supply competition from Samsung, coupled with investor Michael Burry's expanded short positions in semiconductors, contributed to the sector's decline.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-24T21:28:39",
-      "first_seen_at": "2026-09-24T23:00:01.633325",
-      "assets": [
-        {
-          "symbol": "SWKS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.303727,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MCHP",
-          "asset_class": null,
-          "relevance_score": 0.93194,
-          "sentiment_score": -0.312777,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.616205,
-          "sentiment_score": -0.268813,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.578983,
-          "sentiment_score": -0.102145,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930049
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.845894
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.726437
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.600826
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1627,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-skyworks-solutions-universal-212858687.html",
-          "published_at": "2026-09-24T21:28:39"
-        }
-      ]
-    },
-    {
-      "event_id": 1479,
-      "title": "Aebi Schmidt stock falls as Shyft deal drives a new growth plan",
-      "summary": "Aebi Schmidt's stock fell 3.28% to USD 11.22 on Nasdaq after investors evaluated the company post-acquisition of The Shyft Group. The acquisition has significantly boosted order intake by 26% and profitability by 22%, with management setting ambitious revenue targets for 2026 and 2030. Despite the positive operational changes, the stock remains below its yearly high, indicating room for growth as integration gains translate into margin expansion.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-24T21:22:51",
-      "first_seen_at": "2026-09-24T23:00:01.922110",
-      "assets": [
-        {
-          "symbol": "AEBIV",
-          "asset_class": null,
-          "relevance_score": 0.302294,
-          "sentiment_score": 0.015351,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.939627
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93757
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922057
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.603743
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1628,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Aebi Schmidt stock falls as Shyft deal drives a new growth plan",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/aebi-schmidt-stock-falls-as-shyft-deal-drives-a-new-growth-plan/70179565",
-          "published_at": "2026-09-24T21:22:51"
         }
       ]
     }
