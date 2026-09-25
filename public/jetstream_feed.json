@@ -5,6 +5,88 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1513,
+      "title": "Eureka Acquisition (EURK) Stock Chart and Price History 2026",
+      "summary": "This article provides the stock chart and price history for Eureka Acquisition (EURK) as of September 2026. It details the stock's recent performance, including a 6.29% increase over the last 12 months and a 3.31% year-to-date return, alongside a monthly decrease of 3.80%. The article also presents a historical data table with daily trading information for September 2026, showing opening, closing, high, low prices, volume, and market capitalization.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-25T22:25:56",
+      "first_seen_at": "2026-09-25T23:00:01.901326",
+      "assets": [
+        {
+          "symbol": "EURK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.026265,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940982
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1664,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Eureka Acquisition (EURK) Stock Chart and Price History 2026",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/EURK/chart/",
+          "published_at": "2026-09-25T22:25:56"
+        }
+      ]
+    },
+    {
+      "event_id": 1514,
+      "title": "NetApp Bets On Peak:AIO Acquisition To Provide New Performance Firepower In AI Data Battle",
+      "summary": "NetApp is acquiring Peak:AIO to enhance its AI and high-performance computing infrastructure, leveraging Peak:AIO's parallel NFS technology. This acquisition aims to address the growing demand for massive data workloads and stringent performance requirements in enterprise AI factories. The integration of Peak:AIO's advanced metadata architecture and parallel file systems is expected to provide NetApp with new capabilities for ultra-fast, parallel access to large datasets, thereby strengthening its competitive position in the AI and HPC markets.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-25T22:00:33",
+      "first_seen_at": "2026-09-25T23:00:02.125517",
+      "assets": [
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.496177,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.921127
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1665,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.crn.com",
+          "source_domain": "www.crn.com",
+          "headline": "NetApp Bets On Peak:AIO Acquisition To Provide New Performance Firepower In AI Data Battle",
+          "url": "https://www.crn.com/news/storage/2026/netapp-bets-on-peakaio-acquisition-to-provide-new-performance-firepower-in-ai-data-battle",
+          "published_at": "2026-09-25T22:00:33"
+        }
+      ]
+    },
+    {
       "event_id": 1511,
       "title": "Nasdaq notifies Future Money Acquisition of listing deficiency By Investing.com",
       "summary": "Nasdaq has issued a deficiency notice to Future Money Acquisition Corporation (NASDAQ:FMAC) because the company failed to file its quarterly report for the period ending July 31, 2026. This puts Future Money Acquisition Corporation in non-compliance with Nasdaq Listing Rule 5250(c)(1). The company has until November 23, 2026, to submit a plan to regain compliance and could receive an extension until March 22, 2027, if their plan is accepted.",
@@ -20,7 +102,7 @@
           "symbol": "FMAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.703262,
+          "sentiment_score": -0.745901,
           "sentiment_label": "Bearish",
           "relationship_type": null
         },
@@ -28,7 +110,7 @@
           "symbol": "NDAQ",
           "asset_class": null,
           "relevance_score": 0.640424,
-          "sentiment_score": -0.310161,
+          "sentiment_score": -0.342288,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
@@ -36,11 +118,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.901857
+          "relevance_score": 0.939057
         },
         {
           "topic": "finance",
-          "relevance_score": 0.812287
+          "relevance_score": 0.841767
         },
         {
           "topic": "earnings",
@@ -48,7 +130,7 @@
         },
         {
           "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.604075
+          "relevance_score": 0.629425
         }
       ],
       "articles": [
@@ -88,7 +170,7 @@
           "symbol": "FMAC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.718237,
+          "sentiment_score": -0.711888,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -96,11 +178,11 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.901558
+          "relevance_score": 0.916677
         },
         {
           "topic": "finance",
-          "relevance_score": 0.712141
+          "relevance_score": 0.733025
         }
       ],
       "articles": [
@@ -1084,120 +1166,6 @@
           "headline": "JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs",
           "url": "https://www.benzinga.com/real-estate/reit/26/09/61992066/jpmorgan-turns-contrarian-on-interest-rates-upgrades-3-reits",
           "published_at": "2026-09-25T11:46:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1489,
-      "title": "|‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "summary": "|Morgan Stanley has reversed its previous forecast for the U.S. dollar, acknowledging that their initial predictions were incorrect. This change in perspective is attributed to surging Treasury yields and anticipated Federal Reserve rate hikes, which have significantly impacted the foreign exchange market. The bank now expects the dollar to perform more strongly, as evidenced by the dollar index reaching an eight-week high.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-25T10:46:12",
-      "first_seen_at": "2026-09-25T13:00:02.591478",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.035119,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.924858
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.815591
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.746378
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.622826
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1639,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketWatch",
-          "source_domain": "MarketWatch",
-          "headline": "|‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-          "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96",
-          "published_at": "2026-09-25T10:46:12"
-        }
-      ]
-    },
-    {
-      "event_id": 1486,
-      "title": "EQT Corporation (NYSE:EQT) Stock Has Average Target Price of $68.18 According to Brokerages",
-      "summary": "EQT Corporation (NYSE:EQT) has received a \"Moderate Buy\" rating from 28 brokerages, with an average 12-month price target of $68.18, significantly higher than its current share price of $51.92. Despite missing recent quarterly earnings and revenue estimates, analysts maintain a bullish outlook, supported by expectations of increased U.S. natural gas production with lower capital spending in 2026. Institutional investors hold a substantial stake, and insider selling by CEO Toby Rice was noted.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-25T10:21:01",
-      "first_seen_at": "2026-09-25T12:00:02.298187",
-      "assets": [
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.286653,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.598144,
-          "sentiment_score": 0.117366,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ALL",
-          "asset_class": null,
-          "relevance_score": 0.563307,
-          "sentiment_score": 0.147057,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.944639
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.936312
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.829703
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1636,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "EQT Corporation (NYSE:EQT) Stock Has Average Target Price of $68.18 According to Brokerages",
-          "url": "https://www.marketbeat.com/instant-alerts/consensus-eqt-corporation-nyse-eqt-stock-has-average-target-price-of-6818-according-to-brokerages-2026-09-25/",
-          "published_at": "2026-09-25T10:21:01"
         }
       ]
     }
