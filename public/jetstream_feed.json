@@ -5,6 +5,254 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1494,
+      "title": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
+      "summary": "This article identifies three multinational exporters, Deere (DE), Ecolab (ECL), and DNOW (DNOW), that could benefit from a strengthening U.S. dollar and rising interest rates. It details each company's operations, market capitalization, and specific reasons why they are well-positioned in the current economic climate, particularly highlighting their international revenue streams and strategic investments in technology or infrastructure. The piece emphasizes that these are just a few examples from a broader screener of U.S.-Dollar Beneficiary Multinational Exporters.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-25T13:37:27",
+      "first_seen_at": "2026-09-25T15:00:02.139240",
+      "assets": [
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 0.951178,
+          "sentiment_score": 0.301808,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ECL",
+          "asset_class": null,
+          "relevance_score": 0.811179,
+          "sentiment_score": 0.261833,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.933467
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.920666
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.834755
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710755
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1644,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-stock-and-2-exporters-that-could-benefit-from-a-strong",
+          "published_at": "2026-09-25T13:37:27"
+        }
+      ]
+    },
+    {
+      "event_id": 1495,
+      "title": "US Fed plans to raise bank oversight thresholds, sources say",
+      "summary": "The US Federal Reserve is reportedly planning to raise the asset thresholds that trigger stricter oversight for banks. This move aims to allow some lenders to avoid costly additional regulation and could spur consolidation among mid-sized banks. The proposed changes would reindex current thresholds to account for inflation and economic growth, potentially raising the highest threshold closer to $1 trillion and lower ones to $150 billion.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-09-25T13:35:07",
+      "first_seen_at": "2026-09-25T15:00:02.441425",
+      "assets": [
+        {
+          "symbol": "USB",
+          "asset_class": null,
+          "relevance_score": 0.9172,
+          "sentiment_score": 0.340714,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "TFC",
+          "asset_class": null,
+          "relevance_score": 0.741365,
+          "sentiment_score": 0.295771,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COF",
+          "asset_class": null,
+          "relevance_score": 0.733574,
+          "sentiment_score": 0.293025,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PNC",
+          "asset_class": null,
+          "relevance_score": 0.731206,
+          "sentiment_score": 0.265736,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FITB",
+          "asset_class": null,
+          "relevance_score": 0.616054,
+          "sentiment_score": 0.24785,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.938192
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.849816
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.702651
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.602093
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1645,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Standard (HK)",
+          "source_domain": "The Standard (HK)",
+          "headline": "US Fed plans to raise bank oversight thresholds, sources say",
+          "url": "https://www.thestandard.com.hk/finance/article/343889/US-Fed-plans-to-raise-bank-oversight-thresholds-sources-say",
+          "published_at": "2026-09-25T13:35:07"
+        }
+      ]
+    },
+    {
+      "event_id": 1496,
+      "title": "Cadence Bank stock falls 1.66 percent before merger",
+      "summary": "Cadence Bank's stock saw a 1.66 percent decline, closing at USD 42.11 on January 30, 2026, just before its merger with The Huntington National Bank on February 1, 2026. The merger converted each Cadence share into 2.475 Huntington shares, with cash for fractional shares. Cadence reported USD 53.5 billion in total assets and USD 544.5 million in net income for fiscal 2025.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-25T13:34:36",
+      "first_seen_at": "2026-09-25T15:00:02.783964",
+      "assets": [
+        {
+          "symbol": "HBAN",
+          "asset_class": null,
+          "relevance_score": 0.816655,
+          "sentiment_score": 0.141686,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CADE-P-A",
+          "asset_class": null,
+          "relevance_score": 0.313565,
+          "sentiment_score": 0.00558,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933151
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.84387
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.72954
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1646,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Cadence Bank stock falls 1.66 percent before merger",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/cadence-bank-stock-falls-1-66-percent-before-merger/70183767",
+          "published_at": "2026-09-25T13:34:36"
+        }
+      ]
+    },
+    {
+      "event_id": 1497,
+      "title": "Diamondback Energy stock gains 1.81 percent after earnings beat estimates",
+      "summary": "Diamondback Energy's stock rose 1.81% after its Q2 2026 adjusted EPS of $6.48 significantly beat the consensus estimate of $5.96. The company's revenue increased by over 51% year-over-year to $5.6 billion, and analysts like Raymond James have raised their price targets, maintaining a \"Strong Buy\" rating. Despite trading below its yearly high, the company reported substantial free cash flow and a stable quarterly dividend.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-09-25T13:32:00",
+      "first_seen_at": "2026-09-25T15:00:03.056522",
+      "assets": [
+        {
+          "symbol": "FANG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.608793,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.941682
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.829871
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1647,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Diamondback Energy stock gains 1.81 percent after earnings beat estimates",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-gains-1-81-percent-after-earnings-beat-estimates/70183471",
+          "published_at": "2026-09-25T13:32:00"
+        }
+      ]
+    },
+    {
       "event_id": 1490,
       "title": "Did Newsom 'forcing' closure of California refineries cause US gas prices to spike?",
       "summary": "A claim circulated online suggesting that California Governor Gavin Newsom \"forced\" the closure of four refineries, leading to a spike in U.S. gas prices, is \"Mostly False.\" While two California refineries did close, not four, and state regulations were cited as a partial reason for one closure, the primary drivers for increased nationwide gas prices in 2026 are identified as the Iran war and related shipping route disruptions. Oil companies themselves cited high costs and low earnings as reasons for their closure decisions, with no evidence indicating Newsom directly forced these shutdowns.",
@@ -950,222 +1198,6 @@
           "headline": "Hyundai Overtakes Ford as Hybrid Boom Reshapes US Auto Market",
           "url": "https://www.autoweek.com/news/a73874538/hyundai-overtakes-ford-q3-sales/",
           "published_at": "2026-09-24T20:17:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1473,
-      "title": "Sysco stock gains 1.48 percent as growth targets hold",
-      "summary": "Sysco stock rose 1.48% on September 24, 2026, trading at USD 78.28, fueled by its fiscal 2027 targets of 6-7% sales growth and 9-11% adjusted EPS growth. The company also announced a USD 1.0 billion common stock offering to help finance its Jetro Restaurant Depot acquisition. Despite the gain, the stock remains 14.8% below its 52-week high, with fiscal 2026 adjusted EPS growing 3.4% to USD 4.61.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-24T19:05:41",
-      "first_seen_at": "2026-09-24T21:00:01.753368",
-      "assets": [
-        {
-          "symbol": "SYY",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.390541,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.901537
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.841335
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.811396
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.7351
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1622,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Sysco stock gains 1.48 percent as growth targets hold",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sysco-stock-gains-1-48-percent-as-growth-targets-hold/70179130",
-          "published_at": "2026-09-24T19:05:41"
-        }
-      ]
-    },
-    {
-      "event_id": 1468,
-      "title": "Xylem stock falls 5.51 percent as financing weighs on shares",
-      "summary": "Xylem Inc. stock fell 5.51% to USD 102.66 on September 24, 2026, positioning it just above its 52-week low. This decline is attributed to concerns over the company's recent USD 3.0 billion financing package for an acquisition, despite a strong Q2 earnings report with a 16% rise in adjusted EPS. Investors are focusing on the debt's impact and successful integration of the acquired pump businesses rather than the earnings improvement.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-24T18:42:54",
-      "first_seen_at": "2026-09-24T20:00:02.402104",
-      "assets": [
-        {
-          "symbol": "XYL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.400298,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.927532
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.900645
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.820791
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.723201
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.628028
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1617,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Xylem stock falls 5.51 percent as financing weighs on shares",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xylem-stock-falls-5-51-percent-as-financing-weighs-on-shares/70179092",
-          "published_at": "2026-09-24T18:42:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1469,
-      "title": "GM, Ford losing US market share, auto forecaster says",
-      "summary": "General Motors and Ford Motor Co. are losing U.S. market share more rapidly than other automakers this year, primarily due to buyers prioritizing fuel efficiency amid high gas prices, according to a Cox Automotive forecast. Both companies lack a sufficient number of fuel-efficient cars and SUVs compared to rivals, with analysts noting GM's absence of hybrid models and Ford's discontinuation of the Escape SUV. Conversely, automakers with more hybrid offerings, like Hyundai, Kia, Toyota, and Honda, are projected to see sales gains and increased market share.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-24T18:35:36",
-      "first_seen_at": "2026-09-24T20:00:02.683491",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.418079,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.946986,
-          "sentiment_score": -0.439385,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.937048
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932749
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.838529
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1618,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Detroit News",
-          "source_domain": "The Detroit News",
-          "headline": "GM, Ford losing US market share, auto forecaster says",
-          "url": "https://www.detroitnews.com/story/business/autos/2026/09/24/market-share-falling-for-gm-and-ford-forecaster-says/91923196007/",
-          "published_at": "2026-09-24T18:35:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1470,
-      "title": "Union Pacific, Norfolk Southern merger gains momentum",
-      "summary": "The proposed merger between Union Pacific and Norfolk Southern Railroads is progressing after the Surface Transportation Board rejected applications to dismiss the merger. The companies aim to create the first transcontinental railroad, promising more efficient and affordable freight transportation, and have secured a \"jobs-for-life\" agreement with the SMART-MD union. This development is seen as a significant step towards creating a more connected and efficient rail network across the U.S.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "HIGH",
-      "intelligence_score": 83,
-      "published_at": "2026-09-24T17:38:59",
-      "first_seen_at": "2026-09-24T20:00:02.970096",
-      "assets": [
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.457891,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 0.958206,
-          "sentiment_score": 0.41863,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.937399
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.636469
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1619,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Transportation Today",
-          "source_domain": "Transportation Today",
-          "headline": "Union Pacific, Norfolk Southern merger gains momentum",
-          "url": "https://transportationtodaynews.com/news/38792-union-pacific-norfolk-southern-merger-gains-momentum/",
-          "published_at": "2026-09-24T17:38:59"
         }
       ]
     }
