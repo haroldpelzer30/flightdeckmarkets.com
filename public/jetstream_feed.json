@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1499,
+      "title": "Tesla’s Optimus Reportedly Hits Production Snags — StoneX Stays Bullish Ahead Of Q3 Vehicle Deliveries",
+      "summary": "Tesla is reportedly facing production challenges with its Optimus humanoid robot, particularly with complex hands and supplier constraints, despite increasing weekly production to several hundred units. Meanwhile, StoneX has maintained a \"Buy\" rating and a $475 price target for Tesla, forecasting 446,500 vehicle deliveries for Q3, a decline from the previous year, but anticipates growth in Tesla's energy storage business to support earnings. Other analysts have varying Q3 delivery expectations, with Goldman Sachs cutting its estimate and Barclays and UBS being more optimistic.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-25T16:12:15",
+      "first_seen_at": "2026-09-25T17:00:02.302195",
+      "assets": [
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.128919,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949226
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.929488
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839935
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.805748
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1649,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Tesla’s Optimus Reportedly Hits Production Snags — StoneX Stays Bullish Ahead Of Q3 Vehicle Deliveries",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-optimus-reportedly-hits-production-153553771.html",
+          "published_at": "2026-09-25T16:12:15"
+        }
+      ]
+    },
+    {
+      "event_id": 1500,
+      "title": "Hess Corporation stock joined Chevron in a USD 53 billion deal",
+      "summary": "Chevron completed its $53 billion acquisition of Hess Corporation on July 18, 2025, transforming Hess from an independent producer into a part of Chevron's global energy portfolio. The deal involved Chevron issuing 301.25 million shares and assuming $8.8 billion in Hess's debt. A key component of the acquisition was Hess's 30% interest in Guyana's Stabroek Block, a significant asset for Chevron's energy operations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-09-25T15:56:56",
+      "first_seen_at": "2026-09-25T17:00:02.541976",
+      "assets": [
+        {
+          "symbol": "HES",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.112127,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.930025,
+          "sentiment_score": 0.212877,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.904383
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839226
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1650,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Hess Corporation stock joined Chevron in a USD 53 billion deal",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hess-corporation-stock-joined-chevron-in-a-usd-53-billion-deal/70183945",
+          "published_at": "2026-09-25T15:56:56"
+        }
+      ]
+    },
+    {
       "event_id": 1498,
       "title": "Chevron's Cost Discipline: Turning Efficiency Into Lasting Value",
       "summary": "Chevron has successfully implemented a structural cost reduction strategy, achieving $3 billion in annual run-rate savings ahead of schedule and targeting further reductions by the end of 2026. This focus on efficiency, rather than solely relying on commodity prices, has allowed the company to offset inflationary pressures and grow production. Other energy companies like ExxonMobil and Shell are also pursuing similar cost-saving initiatives to build resilience across commodity cycles.",
@@ -1047,149 +1153,6 @@
           "headline": "APA on course",
           "url": "https://www.petroleumnews.com/story/2026/09/27/e-and-p/apa-on-course/50377.html",
           "published_at": "2026-09-24T21:14:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1481,
-      "title": "Insider Buying: AFC Gamma (NASDAQ:AFCG) Director Acquires 23,072 Shares of Company Stock",
-      "summary": "AFC Gamma (NASDAQ:AFCG) Director Leonard Tannenbaum recently purchased 23,072 shares of the company's stock for approximately $80,521, increasing his total holdings to over 6.9 million shares. Despite exceeding quarterly EPS estimates, the company's revenue fell short, and analysts currently maintain a \"Reduce\" rating on the stock. AFC Gamma has also declared a quarterly dividend of $0.05 per share, offering a 5.7% annualized yield.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-24T21:10:34",
-      "first_seen_at": "2026-09-24T23:00:02.454803",
-      "assets": [
-        {
-          "symbol": "AFCG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.024938,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.928426
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.816176
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.712513
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.627208
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1630,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Insider Buying: AFC Gamma (NASDAQ:AFCG) Director Acquires 23,072 Shares of Company Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-afc-gamma-nasdaq-afcg-director-acquires-23072-shares-of-company-stock-2026-09-24/",
-          "published_at": "2026-09-24T21:10:34"
-        },
-        {
-          "article_id": 1631,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "AFC Gamma (NASDAQ:AFCG) Director Acquires $12,113.79 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-afc-gamma-nasdaq-afcg-director-acquires-1211379-in-stock-2026-09-24/",
-          "published_at": "2026-09-24T21:10:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1476,
-      "title": "Select Water stock surges 28% on Pilot Water acquisition deal",
-      "summary": "Select Water Solutions, Inc. (NYSE:WTTR) shares surged 13% after announcing a definitive agreement to acquire Pilot Water Solutions LLC for $700 million, plus a potential $15 million contingent consideration. The acquisition, valued at $600 million in cash and $100 million in stock, is expected to significantly boost Select's Water Infrastructure segment, projecting $120 million to $130 million in 2027 EBITDA and pro forma net leverage of less than 2.0x at closing. The deal is anticipated to close in Q4 2026, pending regulatory approvals.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-24T20:43:35",
-      "first_seen_at": "2026-09-24T22:00:02.117255",
-      "assets": [
-        {
-          "symbol": "WTTR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.472617,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AKAM",
-          "asset_class": null,
-          "relevance_score": 0.551315,
-          "sentiment_score": -0.400062,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FSLR",
-          "asset_class": null,
-          "relevance_score": 0.53831,
-          "sentiment_score": -0.419072,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GEN",
-          "asset_class": null,
-          "relevance_score": 0.519844,
-          "sentiment_score": -0.386613,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MGM",
-          "asset_class": null,
-          "relevance_score": 0.51931,
-          "sentiment_score": -0.419581,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.917297
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.715337
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.63429
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.611231
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1625,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Select Water stock surges 28% on Pilot Water acquisition deal",
-          "url": "https://www.investing.com/news/stock-market-news/select-water-stock-surges-28-on-pilot-water-acquisition-deal-4916217",
-          "published_at": "2026-09-24T20:43:35"
         }
       ]
     }
