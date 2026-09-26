@@ -20,7 +20,7 @@
           "symbol": "EURK",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.026265,
+          "sentiment_score": 0.00651,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -44,6 +44,69 @@
       ]
     },
     {
+      "event_id": 1518,
+      "title": "Investment Outlook Comparison: AbbVie vs. Pfizer",
+      "summary": "This article compares the investment outlooks of AbbVie and Pfizer, detailing their financial performance, profitability, risks, and valuation. While AbbVie shows strong revenue growth in immunology, it faces patent expiration risks. Pfizer, despite a slight revenue decline, maintains higher profitability in vaccines and oncology and appears undervalued based on its forward P/E ratio.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-25T22:21:59",
+      "first_seen_at": "2026-09-26T00:00:02.816924",
+      "assets": [
+        {
+          "symbol": "ABBV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.129105,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PFE",
+          "asset_class": null,
+          "relevance_score": 0.823657,
+          "sentiment_score": 0.147982,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LLY",
+          "asset_class": null,
+          "relevance_score": 0.746673,
+          "sentiment_score": 0.319986,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.914446
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1670,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Intellectia AI",
+          "source_domain": "Intellectia AI",
+          "headline": "Investment Outlook Comparison: AbbVie vs. Pfizer",
+          "url": "https://intellectia.ai/news/stock/investment-outlook-comparison-abbvie-vs-pfizer",
+          "published_at": "2026-09-25T22:21:59"
+        }
+      ]
+    },
+    {
       "event_id": 1514,
       "title": "NetApp Bets On Peak:AIO Acquisition To Provide New Performance Firepower In AI Data Battle",
       "summary": "NetApp is acquiring Peak:AIO to enhance its AI and high-performance computing infrastructure, leveraging Peak:AIO's parallel NFS technology. This acquisition aims to address the growing demand for massive data workloads and stringent performance requirements in enterprise AI factories. The integration of Peak:AIO's advanced metadata architecture and parallel file systems is expected to provide NetApp with new capabilities for ultra-fast, parallel access to large datasets, thereby strengthening its competitive position in the AI and HPC markets.",
@@ -59,7 +122,7 @@
           "symbol": "NTAP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.496177,
+          "sentiment_score": 0.521854,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -71,7 +134,7 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.921127
+          "relevance_score": 0.943408
         }
       ],
       "articles": [
@@ -1107,65 +1170,6 @@
           "headline": "ServiceNow, Quanta Services And More On CNBC’s ‘Final Trades’",
           "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61992199/servicenow-quanta-services-and-more-on-cnbcs-final-trades",
           "published_at": "2026-09-25T11:57:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1488,
-      "title": "JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs",
-      "summary": "JPMorgan Chase has upgraded three real estate investment trusts (REITs) — Welltower, Macerich, and EastGroup Properties — from Neutral to Overweight, taking a contrarian stance amidst rising interest rates. The bank believes that the real estate sector's risks are over-penalized and that the sector is due for a rebound. This move is supported by historical data suggesting a weak correlation between REIT prices and borrowing rate changes during rising-rate periods.",
-      "event_type": "MONETARY_POLICY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 79,
-      "published_at": "2026-09-25T11:46:47",
-      "first_seen_at": "2026-09-25T13:00:02.282711",
-      "assets": [
-        {
-          "symbol": "WELL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.408243,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.621526,
-          "sentiment_score": 0.327327,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928982
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.90905
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.833978
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.749253
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1638,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs",
-          "url": "https://www.benzinga.com/real-estate/reit/26/09/61992066/jpmorgan-turns-contrarian-on-interest-rates-upgrades-3-reits",
-          "published_at": "2026-09-25T11:46:47"
         }
       ]
     }
