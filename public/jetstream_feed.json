@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1541,
+      "title": "Ford Stock Drops Monday: What's Happening?",
+      "summary": "Ford Motor Company (NYSE: F) shares dropped on Monday due to a broader automotive sector decline. This fall is attributed to surging crude oil prices and rising Treasury yields, which are negatively impacting consumer auto financing and corporate capital expenditures. The situation intensified after President Trump rejected Iran's proposal to reopen the Strait of Hormuz, leading to an increase in oil prices and bond yields, and concerns about a potential Federal Reserve rate hike.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-09-28T18:25:44",
+      "first_seen_at": "2026-09-28T20:00:02.112269",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.601765,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.940535
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.803378
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.705337
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.700649
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1695,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Ford Stock Drops Monday: What's Happening?",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62032829/ford-stock-drops-monday-whats-happening",
+          "published_at": "2026-09-28T18:25:44"
+        }
+      ]
+    },
+    {
+      "event_id": 1542,
+      "title": "Analysis of S&P and Moody's Market Position",
+      "summary": "S&P and Moody's maintain a dominant position in the credit rating market, deriving over 30% of their revenue from credit rating services and controlling over 80% of the debt rating market. Their long-standing data accumulation and ability to cross-sell other financial services create a strong competitive moat. Despite market fluctuations, their market data and analytics services are expected to offer reliable long-term investment potential.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-28T18:05:01",
+      "first_seen_at": "2026-09-28T20:00:02.382135",
+      "assets": [
+        {
+          "symbol": "MCO",
+          "asset_class": null,
+          "relevance_score": 0.987345,
+          "sentiment_score": 0.444644,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SPGI",
+          "asset_class": null,
+          "relevance_score": 0.918061,
+          "sentiment_score": 0.480562,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911906
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.821895
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.623969
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1696,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Intellectia AI",
+          "source_domain": "Intellectia AI",
+          "headline": "Analysis of S&P and Moody's Market Position",
+          "url": "https://intellectia.ai/news/stock/analysis-of-sp-and-moodys-market-position",
+          "published_at": "2026-09-28T18:05:01"
+        }
+      ]
+    },
+    {
       "event_id": 1535,
       "title": "AES stock at USD 14.87 on September 28, 2026",
       "summary": "The AES Corporation's stock was quoted at USD 14.87 on September 28, 2026, on the New York Stock Exchange. The stock saw a slight decrease of USD 0.01, or 0.03 percent, during the trading session. This news follows the Public Utilities Commission of Ohio's approval of AES's planned merger with Horizon Parent, L.P., though the merger is still subject to further regulatory approvals.",
@@ -1025,92 +1131,6 @@
           "headline": "Caesars Entertainment stock trails USD 31.00 merger payout after vote",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trails-usd-31-00-merger-payout-after-vote/70191784",
           "published_at": "2026-09-28T10:47:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1521,
-      "title": "NetApp expands AI infra push with Peak:AIo acquisition",
-      "summary": "NetApp announced its plan to acquire Peak:AIo, a software-defined storage platform, to enhance its AI infrastructure offerings. This acquisition, NetApp's third in as many months, aims to integrate specialized metadata services into its Ontap platform to support high-performance, scalable storage for AI clouds and growing GPU clusters. Peak:AIo, founded in 2021, provides flash-based data archiving and software-defined storage solutions, counting Los Alamos National Laboratory and the UK's NHS among its customers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-28T10:25:04",
-      "first_seen_at": "2026-09-28T12:00:03.604417",
-      "assets": [
-        {
-          "symbol": "NTAP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.426361,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.918499
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.617431
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1673,
-          "provider": "ALPHA_VANTAGE",
-          "source": "SDxCentral",
-          "source_domain": "SDxCentral",
-          "headline": "NetApp expands AI infra push with Peak:AIo acquisition",
-          "url": "https://www.sdxcentral.com/news/netapp-expands-ai-infra-push-with-peakaio-acquisition/",
-          "published_at": "2026-09-28T10:25:04"
-        }
-      ]
-    },
-    {
-      "event_id": 1513,
-      "title": "Eureka Acquisition (EURK) Stock Chart and Price History 2026",
-      "summary": "This article provides the stock chart and price history for Eureka Acquisition (EURK) as of September 2026. It details the stock's recent performance, including a 6.29% increase over the last 12 months and a 3.31% year-to-date return, alongside a monthly decrease of 3.80%. The article also presents a historical data table with daily trading information for September 2026, showing opening, closing, high, low prices, volume, and market capitalization.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-25T22:25:56",
-      "first_seen_at": "2026-09-25T23:00:01.901326",
-      "assets": [
-        {
-          "symbol": "EURK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.00651,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940982
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1664,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Eureka Acquisition (EURK) Stock Chart and Price History 2026",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/EURK/chart/",
-          "published_at": "2026-09-25T22:25:56"
         }
       ]
     }
