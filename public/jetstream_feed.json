@@ -5,6 +5,181 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1529,
+      "title": "TransDigm Completes $1.07 Billion Acquisition of Prince & Izant",
+      "summary": "TransDigm Group Inc. has finalized its $1.066 billion cash acquisition of Prince & Izant, a manufacturer of highly engineered brazing alloys and specialty metal components. This strategic purchase, funded by cash on hand, enhances TransDigm's aerospace and defense portfolio, particularly in the aftermarket segment. Prince & Izant's products, which include gold, silver, and platinum alloys, are utilized in critical applications like aircraft engine fuel nozzles and rocket engines, aligning with TransDigm's focus on proprietary aerospace components.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-28T14:48:32",
+      "first_seen_at": "2026-09-28T16:00:02.301310",
+      "assets": [
+        {
+          "symbol": "TDG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409989,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.8282
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.818883
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.818561
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.726832
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1683,
+          "provider": "ALPHA_VANTAGE",
+          "source": "grafa.com",
+          "source_domain": "grafa.com",
+          "headline": "TransDigm Completes $1.066B Prince & Izant Deal",
+          "url": "https://grafa.com/en/news/united-states/transdigm-prince-izant-acquisition-1-066",
+          "published_at": "2026-09-28T14:11:50"
+        },
+        {
+          "article_id": 1682,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "TransDigm Finalizes $1.066 Billion Cash Acquisition of Prince & Izant",
+          "url": "https://kalkinemedia.com/us/news/announcements/transdigm-finalizes-1066-billion-cash-acquisition-of-prince-izant",
+          "published_at": "2026-09-28T14:23:50"
+        },
+        {
+          "article_id": 1681,
+          "provider": "ALPHA_VANTAGE",
+          "source": "citybiz",
+          "source_domain": "citybiz",
+          "headline": "TransDigm Completes $1.07 Billion Acquisition of Prince & Izant",
+          "url": "https://www.citybiz.co/article/910077/transdigm-completes-1-07-billion-acquisition-of-prince-izant/",
+          "published_at": "2026-09-28T14:48:32"
+        }
+      ]
+    },
+    {
+      "event_id": 1530,
+      "title": "Microsoft Q2 2026 Global AI Diffusion Report: 18.8% usage",
+      "summary": "Microsoft's Q2 2026 Global AI Diffusion report indicates that 18.8% of the world's working-age population used generative AI, an increase of 1 percentage point from the previous quarter. The UAE leads in AI usage at 73.3%, while a widening gap persists between the Global North and South in both adoption rates and application types, with education being a key driver in the South. The report also notes the continuous rise of South Korea in the rankings and anticipates future methodology expansions to include more AI tools.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-28T14:32:24",
+      "first_seen_at": "2026-09-28T16:00:02.711568",
+      "assets": [
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.204755,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.646669,
+          "sentiment_score": 0.111901,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.604655,
+          "sentiment_score": 0.128928,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.941612
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1684,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "Microsoft Q2 2026 Global AI Diffusion Report: 18.8% usage",
+          "url": "https://qz.com/microsoft-global-ai-diffusion-report-usage-092826",
+          "published_at": "2026-09-28T14:32:24"
+        }
+      ]
+    },
+    {
+      "event_id": 1531,
+      "title": "One billion barrels: Guyana's remarkable journey continues",
+      "summary": "ExxonMobil and its co-venturers have achieved a significant milestone by producing the one billionth barrel of oil from Guyana’s Stabroek block in less than seven years. This accomplishment has transformed Guyana into a major energy producer, contributing to global energy security and economic growth. The success is attributed to strong partnerships with the Guyanese government, local communities, and thousands of Guyanese workers, alongside ongoing investments in the nation's future.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-09-28T14:13:38",
+      "first_seen_at": "2026-09-28T16:00:02.950937",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.494516,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825299
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1685,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ExxonMobil",
+          "source_domain": "ExxonMobil",
+          "headline": "One billion barrels: Guyana's remarkable journey continues",
+          "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
+          "published_at": "2026-09-28T14:13:38"
+        }
+      ]
+    },
+    {
       "event_id": 1526,
       "title": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
       "summary": "JPMorgan Chase & Co.'s trading desk has shifted its stance on US equities from tactically neutral to bullish, anticipating a sustained market boom. This change is driven by stronger-than-expected economic activity, resilient consumer spending, robust corporate profit growth, and potential stabilization in bond yields. The firm's traders, led by Andrew Tyler, made this strategic adjustment in advance of the upcoming US jobs report.",
@@ -917,191 +1092,6 @@
           "headline": "Mplx (NYSE:MPLX) Stock Sees Unusually High Put Option Buying",
           "url": "https://www.marketbeat.com/instant-alerts/options-mplx-nyse-mplx-stock-sees-unusually-high-put-option-buying-2026-09-25/",
           "published_at": "2026-09-25T16:57:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1501,
-      "title": "Halliburton stock last at USD 32.66, down 0.27 percent in New York trading",
-      "summary": "Halliburton's stock closed at USD 32.66, marking a 0.27 percent decrease in New York trading on September 25, 2026. The company's shares traded within a range of USD 32.33 to USD 32.81, with a trading volume of 2,157,564 shares by 12:07 p.m. ET. Investors are looking forward to Halliburton's third-quarter results, scheduled for release on October 20, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-25T16:18:42",
-      "first_seen_at": "2026-09-25T18:00:02.133683",
-      "assets": [
-        {
-          "symbol": "HAL",
-          "asset_class": null,
-          "relevance_score": 0.968001,
-          "sentiment_score": 0.082503,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BKR",
-          "asset_class": null,
-          "relevance_score": 0.686325,
-          "sentiment_score": 0.201291,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.622981,
-          "sentiment_score": 0.201607,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.562994,
-          "sentiment_score": 0.057054,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.561909,
-          "sentiment_score": 0.082536,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.909272
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.848717
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1651,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Halliburton stock last at USD 32.66, down 0.27 percent in New York trading",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/halliburton-stock-last-at-usd-32-66-down-0-27-percent-in-new-york-trading/70184645",
-          "published_at": "2026-09-25T16:18:42"
-        }
-      ]
-    },
-    {
-      "event_id": 1499,
-      "title": "Tesla’s Optimus Reportedly Hits Production Snags — StoneX Stays Bullish Ahead Of Q3 Vehicle Deliveries",
-      "summary": "Tesla is reportedly facing production challenges with its Optimus humanoid robot, particularly with complex hands and supplier constraints, despite increasing weekly production to several hundred units. Meanwhile, StoneX has maintained a \"Buy\" rating and a $475 price target for Tesla, forecasting 446,500 vehicle deliveries for Q3, a decline from the previous year, but anticipates growth in Tesla's energy storage business to support earnings. Other analysts have varying Q3 delivery expectations, with Goldman Sachs cutting its estimate and Barclays and UBS being more optimistic.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-25T16:12:15",
-      "first_seen_at": "2026-09-25T17:00:02.302195",
-      "assets": [
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.121108,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949226
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932781
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.840639
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.805748
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1649,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Tesla’s Optimus Reportedly Hits Production Snags — StoneX Stays Bullish Ahead Of Q3 Vehicle Deliveries",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-optimus-reportedly-hits-production-153553771.html",
-          "published_at": "2026-09-25T16:12:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1500,
-      "title": "Hess Corporation stock joined Chevron in a USD 53 billion deal",
-      "summary": "Chevron completed its $53 billion acquisition of Hess Corporation on July 18, 2025, transforming Hess from an independent producer into a part of Chevron's global energy portfolio. The deal involved Chevron issuing 301.25 million shares and assuming $8.8 billion in Hess's debt. A key component of the acquisition was Hess's 30% interest in Guyana's Stabroek Block, a significant asset for Chevron's energy operations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-09-25T15:56:56",
-      "first_seen_at": "2026-09-25T17:00:02.541976",
-      "assets": [
-        {
-          "symbol": "HES",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.127267,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.930025,
-          "sentiment_score": 0.249054,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946894
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844626
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1650,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Hess Corporation stock joined Chevron in a USD 53 billion deal",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hess-corporation-stock-joined-chevron-in-a-usd-53-billion-deal/70183945",
-          "published_at": "2026-09-25T15:56:56"
         }
       ]
     }
