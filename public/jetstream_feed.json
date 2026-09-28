@@ -5,6 +5,136 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1546,
+      "title": "This Blue-Chip Defense Prime Lands on Piper Sandler's Rate-Risk List",
+      "summary": "General Dynamics (NYSE: GD), a prominent defense contractor, has been included in Piper Sandler's list of companies at risk due to rising borrowing costs. The company holds $7 billion in debt, with 54% maturing within five years, necessitating potential refinancing at significantly higher interest rates. Despite this concern, General Dynamics has shown strong business performance, beating Q2 estimates and reducing its total debt from previous years.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-28T20:29:59",
+      "first_seen_at": "2026-09-28T22:00:01.852342",
+      "assets": [
+        {
+          "symbol": "GD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.299743,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "LYV",
+          "asset_class": null,
+          "relevance_score": 0.648753,
+          "sentiment_score": -0.148995,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.627123,
+          "sentiment_score": -0.137927,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.626124,
+          "sentiment_score": -0.142961,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.620286,
+          "sentiment_score": -0.126477,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926395
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.837684
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.728137
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1702,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "This Blue-Chip Defense Prime Lands on Piper Sandler's Rate-Risk List",
+          "url": "https://www.benzinga.com/markets/large-cap/26/09/62035892/this-blue-chip-defense-prime-lands-on-piper-sandlers-rate-risk-list",
+          "published_at": "2026-09-28T20:29:59"
+        }
+      ]
+    },
+    {
+      "event_id": 1547,
+      "title": "Analog Devices stock at USD 393.60 on September 28, 2026",
+      "summary": "Analog Devices (ADI) stock closed at USD 393.60 on Nasdaq on September 28, 2026, with no daily change. The company had previously announced on September 9 an agreement to acquire Alif Semiconductor for USD 1.35 billion in an all-cash transaction, with potential additional contingent consideration of up to USD 200 million. This acquisition is expected to close by the end of 2026, adding Alif’s AI-native fusion processors to Analog Devices' portfolio.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-28T20:25:00",
+      "first_seen_at": "2026-09-28T22:00:02.154261",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.26412,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.822491
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.640144
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1703,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Analog Devices stock at USD 393.60 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/analog-devices-stock-at-usd-393-60-on-september-28-2026/70195280",
+          "published_at": "2026-09-28T20:25:00"
+        }
+      ]
+    },
+    {
       "event_id": 1543,
       "title": "Fox Corporation stock last trades at USD 56.75 on September 28, 2026",
       "summary": "Fox Corporation (FOX) shares last traded at USD 56.75, up 0.37 percent, on September 28, 2026. The company disclosed that its proposed merger with Roku is undergoing an additional review by the U.S. Department of Justice (DOJ), extending the waiting period under the Hart-Scott-Rodino Act. Fox expects the merger to be completed in the first half of 2027, subject to customary closing conditions and stockholder approvals.",
@@ -1071,108 +1201,6 @@
           "headline": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-trades-at-usd-111-31-after-a-q2-earnings-beat/70192498",
           "published_at": "2026-09-28T13:17:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1528,
-      "title": "What's Going On With Exxon Mobil Stock on Monday?",
-      "summary": "Exxon Mobil (NYSE: XOM) shares rose nearly 2% Monday morning as Brent crude futures rebounded after U.S. President Donald Trump rejected an Iranian peace proposal. The article also discusses potential impacts of a U.S. diesel export ban, Goldman Sachs' analysis on the matter, and provides an earnings preview and analyst price targets for XOM. Benzinga Edge assesses XOM's momentum and value as bullish.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-28T13:14:27",
-      "first_seen_at": "2026-09-28T15:00:02.745082",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.30463,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.645833,
-          "sentiment_score": 0.133846,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932157
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.930677
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920024
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.61227
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1680,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "What's Going On With Exxon Mobil Stock on Monday?",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62020855/whats-going-on-with-exxon-mobil-stock-on-monday",
-          "published_at": "2026-09-28T13:14:27"
-        }
-      ]
-    },
-    {
-      "event_id": 1524,
-      "title": "TransDigm Group Incorporated completed the acquisition of PRINCE & IZANT, LLC from IGP Industries LLC.",
-      "summary": "TransDigm Group Incorporated has finalized its acquisition of PRINCE & IZANT, LLC from IGP Industries LLC. The deal, valued at approximately $1.07 billion in cash, was financed through TransDigm's existing cash on hand. This acquisition, which was subject to regulatory approvals, was initially announced on July 27, 2026.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-28T12:39:17",
-      "first_seen_at": "2026-09-28T14:00:02.874366",
-      "assets": [
-        {
-          "symbol": "TDG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.481664,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.807503
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1676,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "TransDigm Group Incorporated completed the acquisition of PRINCE & IZANT, LLC from IGP Industries LLC.",
-          "url": "https://www.marketscreener.com/news/transdigm-group-incorporated-completed-the-acquisition-of-prince-izant-llc-from-igp-industries-ll-ce785adcdf8bf22d",
-          "published_at": "2026-09-28T12:39:17"
         }
       ]
     }
