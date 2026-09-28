@@ -5,6 +5,197 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1543,
+      "title": "Fox Corporation stock last trades at USD 56.75 on September 28, 2026",
+      "summary": "Fox Corporation (FOX) shares last traded at USD 56.75, up 0.37 percent, on September 28, 2026. The company disclosed that its proposed merger with Roku is undergoing an additional review by the U.S. Department of Justice (DOJ), extending the waiting period under the Hart-Scott-Rodino Act. Fox expects the merger to be completed in the first half of 2027, subject to customary closing conditions and stockholder approvals.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-28T19:58:00",
+      "first_seen_at": "2026-09-28T21:00:01.849925",
+      "assets": [
+        {
+          "symbol": "FOX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.244896,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WAT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.249322,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEM",
+          "asset_class": null,
+          "relevance_score": 0.320325,
+          "sentiment_score": 0.018405,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.922812
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921284
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.920357
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.702387
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1699,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Newmont Corporation stock last traded at USD 116.19 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/newmont-corporation-stock-last-traded-at-usd-116-19-on-september-28-2026/70195035",
+          "published_at": "2026-09-28T19:52:40"
+        },
+        {
+          "article_id": 1698,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Fox Corporation stock last trades at USD 56.75 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/fox-corporation-stock-last-trades-at-usd-56-75-on-september-28-2026/70194474",
+          "published_at": "2026-09-28T19:58:00"
+        },
+        {
+          "article_id": 1697,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Waters Corporation stock last trades at USD 441.06 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/waters-corporation-stock-last-trades-at-usd-441-06-on-september-28-2026/70194549",
+          "published_at": "2026-09-28T20:09:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1544,
+      "title": "General Motors Stock Falls Monday: What's Going On?",
+      "summary": "General Motors (GM) shares fell on Monday due to a broader automotive sector decline. This was influenced by surging Treasury yields and spiking crude oil prices, which threaten consumer auto financing and increase borrowing costs. The macro environment is expected to impact both consumer demand for vehicles and GM's capital expenditures for EV development.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-09-28T19:31:30",
+      "first_seen_at": "2026-09-28T21:00:02.181682",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.641187,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945105
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.84669
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.744756
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.637802
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.6221
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1700,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "General Motors Stock Falls Monday: What's Going On?",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62034458/general-motors-stock-falls-monday-whats-going-on",
+          "published_at": "2026-09-28T19:31:30"
+        }
+      ]
+    },
+    {
+      "event_id": 1545,
+      "title": "Scorpio Tankers (NYSE:STNG) Shares Climb 4.2% - Time to Buy?",
+      "summary": "Scorpio Tankers (NYSE:STNG) saw its shares climb 4.2% to $84.91, despite trading volume being 62% below average. The company reported strong quarterly results, beating EPS consensus and increasing revenue by 77.5% year over year, and declared a $0.45 quarterly dividend. While analysts maintain a \"Hold\" rating with an average price target of $91.57, insiders have sold a significant amount of shares recently.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-28T18:59:18",
+      "first_seen_at": "2026-09-28T21:00:02.513353",
+      "assets": [
+        {
+          "symbol": "STNG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.410133,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.94694
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.843415
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.710225
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1701,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Scorpio Tankers (NYSE:STNG) Shares Climb 4.2% - Time to Buy?",
+          "url": "https://www.marketbeat.com/instant-alerts/price-scorpio-tankers-nyse-stng-shares-climb-42-time-to-buy-2026-09-28/",
+          "published_at": "2026-09-28T18:59:18"
+        }
+      ]
+    },
+    {
       "event_id": 1541,
       "title": "Ford Stock Drops Monday: What's Happening?",
       "summary": "Ford Motor Company (NYSE: F) shares dropped on Monday due to a broader automotive sector decline. This fall is attributed to surging crude oil prices and rising Treasury yields, which are negatively impacting consumer auto financing and corporate capital expenditures. The situation intensified after President Trump rejected Iran's proposal to reopen the Strait of Hormuz, leading to an increase in oil prices and bond yields, and concerns about a potential Federal Reserve rate hike.",
@@ -982,155 +1173,6 @@
           "headline": "TransDigm Group Incorporated completed the acquisition of PRINCE & IZANT, LLC from IGP Industries LLC.",
           "url": "https://www.marketscreener.com/news/transdigm-group-incorporated-completed-the-acquisition-of-prince-izant-llc-from-igp-industries-ll-ce785adcdf8bf22d",
           "published_at": "2026-09-28T12:39:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1525,
-      "title": "New research: Financial uncertainty pushes workers to delay retirement",
-      "summary": "New research from the Principal Financial Well-Being Index SM indicates that financial uncertainty is causing nearly seven in ten employees to delay retirement. The primary reasons cited by employers for this delay include the rising cost of living and inflation, along with concerns about healthcare expenses and outliving savings. While employers are taking targeted approaches to retain experienced workers, formal phased retirement programs are seeing less adoption.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-09-28T12:11:38",
-      "first_seen_at": "2026-09-28T14:00:03.110898",
-      "assets": [
-        {
-          "symbol": "PFG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.250448,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.925002
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.81175
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.712665
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1677,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AdvisorHub",
-          "source_domain": "AdvisorHub",
-          "headline": "New research: Financial uncertainty pushes workers to delay retirement",
-          "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
-          "published_at": "2026-09-28T12:11:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1522,
-      "title": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
-      "summary": "Morgan Stanley suggests that the current disparity between the S&P 500's strong performance and the market's weak breadth will likely converge, with both meeting in the middle unless bond market volatility subsides. The firm believes the market is in a mid-cycle phase where strong earnings support higher-quality stocks, and analysts favor large-cap quality stocks, especially asset-light companies with increasing earnings estimates. They also highlight that AI-heavy companies are showing stronger margins and earnings, with potential for further upside.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-28T11:35:02",
-      "first_seen_at": "2026-09-28T13:00:02.205606",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.135133,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.604667,
-          "sentiment_score": 0.31873,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.914747
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.837964
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.729233
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1674,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fix-market-weak-breadth-morgan-113510269.html",
-          "published_at": "2026-09-28T11:35:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1520,
-      "title": "Caesars Entertainment stock trails USD 31.00 merger payout after vote",
-      "summary": "Caesars Entertainment shareholders have approved a merger with Fertitta Entertainment, which will provide a USD 31.00 cash payout per eligible share. Despite the approval, the stock closed at USD 29.59 on September 25, 2026, meaning it trades below the merger consideration. Regulatory review by the FTC is ongoing, extending the antitrust review period and making the closing timeline a key factor.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 69,
-      "published_at": "2026-09-28T10:47:00",
-      "first_seen_at": "2026-09-28T12:00:03.264364",
-      "assets": [
-        {
-          "symbol": "CZR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.107594,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.913532
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.829438
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1672,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Caesars Entertainment stock trails USD 31.00 merger payout after vote",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trails-usd-31-00-merger-payout-after-vote/70191784",
-          "published_at": "2026-09-28T10:47:00"
         }
       ]
     }
