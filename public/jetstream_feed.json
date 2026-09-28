@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1526,
+      "title": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
+      "summary": "JPMorgan Chase & Co.'s trading desk has shifted its stance on US equities from tactically neutral to bullish, anticipating a sustained market boom. This change is driven by stronger-than-expected economic activity, resilient consumer spending, robust corporate profit growth, and potential stabilization in bond yields. The firm's traders, led by Andrew Tyler, made this strategic adjustment in advance of the upcoming US jobs report.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "CRITICAL",
+      "intelligence_score": 75,
+      "published_at": "2026-09-28T13:26:57",
+      "first_seen_at": "2026-09-28T15:00:02.240843",
+      "assets": [
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.429191,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM-P-C",
+          "asset_class": null,
+          "relevance_score": 0.337405,
+          "sentiment_score": 0.027354,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.939862
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825335
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.730598
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1678,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg",
+          "source_domain": "Bloomberg",
+          "headline": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-28/jpmorgan-traders-flip-to-bullish-view-on-us-stocks-spy-ahead-of-jobs-report",
+          "published_at": "2026-09-28T13:26:57"
+        }
+      ]
+    },
+    {
       "event_id": 1523,
       "title": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
       "summary": "PACCAR Inc. reported a Q2 2026 earnings beat, with EPS of USD 1.43 against a consensus of USD 1.36 and revenue of USD 7.55 billion versus an estimated USD 7.05 billion. Following these results, RBC Capital upgraded PACCAR to Outperform and increased its price target to USD 150.00. Despite the positive earnings, the stock closed at USD 111.31 on September 25, 2026, remaining 20.06 percent below its 52-week high.",
@@ -20,7 +75,7 @@
           "symbol": "PCAR",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.456802,
+          "sentiment_score": 0.474653,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +87,11 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.916839
+          "relevance_score": 0.935724
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.81207
+          "relevance_score": 0.838446
         },
         {
           "topic": "energy_transportation",
@@ -52,6 +107,65 @@
           "headline": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-trades-at-usd-111-31-after-a-q2-earnings-beat/70192498",
           "published_at": "2026-09-28T13:17:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1528,
+      "title": "What's Going On With Exxon Mobil Stock on Monday?",
+      "summary": "Exxon Mobil (NYSE: XOM) shares rose nearly 2% Monday morning as Brent crude futures rebounded after U.S. President Donald Trump rejected an Iranian peace proposal. The article also discusses potential impacts of a U.S. diesel export ban, Goldman Sachs' analysis on the matter, and provides an earnings preview and analyst price targets for XOM. Benzinga Edge assesses XOM's momentum and value as bullish.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-28T13:14:27",
+      "first_seen_at": "2026-09-28T15:00:02.745082",
+      "assets": [
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.30463,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GS",
+          "asset_class": null,
+          "relevance_score": 0.645833,
+          "sentiment_score": 0.133846,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.932157
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.930677
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920024
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.61227
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1680,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "What's Going On With Exxon Mobil Stock on Monday?",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62020855/whats-going-on-with-exxon-mobil-stock-on-monday",
+          "published_at": "2026-09-28T13:14:27"
         }
       ]
     },
@@ -988,120 +1102,6 @@
           "headline": "Hess Corporation stock joined Chevron in a USD 53 billion deal",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hess-corporation-stock-joined-chevron-in-a-usd-53-billion-deal/70183945",
           "published_at": "2026-09-25T15:56:56"
-        }
-      ]
-    },
-    {
-      "event_id": 1498,
-      "title": "Chevron's Cost Discipline: Turning Efficiency Into Lasting Value",
-      "summary": "Chevron has successfully implemented a structural cost reduction strategy, achieving $3 billion in annual run-rate savings ahead of schedule and targeting further reductions by the end of 2026. This focus on efficiency, rather than solely relying on commodity prices, has allowed the company to offset inflationary pressures and grow production. Other energy companies like ExxonMobil and Shell are also pursuing similar cost-saving initiatives to build resilience across commodity cycles.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-25T13:44:29",
-      "first_seen_at": "2026-09-25T16:00:02.766618",
-      "assets": [
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.447063,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.703846,
-          "sentiment_score": 0.331461,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.942667
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935418
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.84717
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1648,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance Singapore",
-          "source_domain": "Yahoo Finance Singapore",
-          "headline": "Chevron's Cost Discipline: Turning Efficiency Into Lasting Value",
-          "url": "https://sg.finance.yahoo.com/news/chevrons-cost-discipline-turning-efficiency-131700196.html",
-          "published_at": "2026-09-25T13:44:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1494,
-      "title": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
-      "summary": "This article identifies three multinational exporters, Deere (DE), Ecolab (ECL), and DNOW (DNOW), that could benefit from a strengthening U.S. dollar and rising interest rates. It details each company's operations, market capitalization, and specific reasons why they are well-positioned in the current economic climate, particularly highlighting their international revenue streams and strategic investments in technology or infrastructure. The piece emphasizes that these are just a few examples from a broader screener of U.S.-Dollar Beneficiary Multinational Exporters.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-25T13:37:27",
-      "first_seen_at": "2026-09-25T15:00:02.139240",
-      "assets": [
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 0.951178,
-          "sentiment_score": 0.301808,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ECL",
-          "asset_class": null,
-          "relevance_score": 0.811179,
-          "sentiment_score": 0.261833,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.933467
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.920666
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.834755
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.710755
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1644,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-stock-and-2-exporters-that-could-benefit-from-a-strong",
-          "published_at": "2026-09-25T13:37:27"
         }
       ]
     }
