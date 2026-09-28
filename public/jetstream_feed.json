@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1532,
+      "title": "Valero Energy stock carries a USD 111.4 billion market value as targets diverge",
+      "summary": "Valero Energy's stock currently holds a market value of $111.4 billion, with analysts' price targets showing significant divergence, including a raised target from Goldman Sachs. The company reported strong second-quarter 2026 results, with revenue up 48.8% and adjusted EPS at $12.54, setting a high bar for its upcoming third-quarter earnings release on October 22, 2026. The stock is trading below its 52-week high, and its future performance will depend on sustained momentum in its refining and renewable fuels segments.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-28T15:03:01",
+      "first_seen_at": "2026-09-28T17:00:02.519313",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.324635,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949578
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.848272
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1686,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Valero Energy stock carries a USD 111.4 billion market value as targets diverge",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valero-energy-stock-carries-a-usd-111-4-billion-market-value-as-targets/70193677",
+          "published_at": "2026-09-28T15:03:01"
+        }
+      ]
+    },
+    {
       "event_id": 1529,
       "title": "TransDigm Completes $1.07 Billion Acquisition of Prince & Izant",
       "summary": "TransDigm Group Inc. has finalized its $1.066 billion cash acquisition of Prince & Izant, a manufacturer of highly engineered brazing alloys and specialty metal components. This strategic purchase, funded by cash on hand, enhances TransDigm's aerospace and defense portfolio, particularly in the aftermarket segment. Prince & Izant's products, which include gold, silver, and platinum alloys, are utilized in critical applications like aircraft engine fuel nozzles and rocket engines, aligning with TransDigm's focus on proprietary aerospace components.",
@@ -1021,77 +1068,6 @@
           "headline": "Home Depot stock last at USD 293.20 in New York trading",
           "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/home-depot-stock-last-at-usd-293-20-in-new-york-trading/70184696",
           "published_at": "2026-09-25T18:18:31"
-        }
-      ]
-    },
-    {
-      "event_id": 1505,
-      "title": "Mplx (NYSE:MPLX) Stock Sees Unusually High Put Option Buying",
-      "summary": "Mplx (NYSE:MPLX) experienced unusually high put option buying, with traders acquiring 3,141 put options, a 47% increase over the daily average, as its shares fell 1.9%. Despite this bearish options activity, analysts generally maintain a \"Moderate Buy\" rating with an average price target of $63.80. The company reported strong financial results, including a quarterly EPS of $1.06, revenue of $3.13 billion, and a 7.6% annualized dividend yield.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-25T16:57:34",
-      "first_seen_at": "2026-09-25T19:00:02.463536",
-      "assets": [
-        {
-          "symbol": "MPLX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.220157,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.580728,
-          "sentiment_score": 0.321234,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 0.561002,
-          "sentiment_score": 0.422244,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.929802
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.909172
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.848404
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.630242
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.620271
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1655,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Mplx (NYSE:MPLX) Stock Sees Unusually High Put Option Buying",
-          "url": "https://www.marketbeat.com/instant-alerts/options-mplx-nyse-mplx-stock-sees-unusually-high-put-option-buying-2026-09-25/",
-          "published_at": "2026-09-25T16:57:34"
         }
       ]
     }
