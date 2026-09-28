@@ -5,6 +5,147 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1523,
+      "title": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
+      "summary": "PACCAR Inc. reported a Q2 2026 earnings beat, with EPS of USD 1.43 against a consensus of USD 1.36 and revenue of USD 7.55 billion versus an estimated USD 7.05 billion. Following these results, RBC Capital upgraded PACCAR to Outperform and increased its price target to USD 150.00. Despite the positive earnings, the stock closed at USD 111.31 on September 25, 2026, remaining 20.06 percent below its 52-week high.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 68,
+      "published_at": "2026-09-28T13:17:00",
+      "first_seen_at": "2026-09-28T14:00:02.616725",
+      "assets": [
+        {
+          "symbol": "PCAR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.456802,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.916839
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.81207
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.742749
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1675,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-trades-at-usd-111-31-after-a-q2-earnings-beat/70192498",
+          "published_at": "2026-09-28T13:17:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1524,
+      "title": "TransDigm Group Incorporated completed the acquisition of PRINCE & IZANT, LLC from IGP Industries LLC.",
+      "summary": "TransDigm Group Incorporated has finalized its acquisition of PRINCE & IZANT, LLC from IGP Industries LLC. The deal, valued at approximately $1.07 billion in cash, was financed through TransDigm's existing cash on hand. This acquisition, which was subject to regulatory approvals, was initially announced on July 27, 2026.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-28T12:39:17",
+      "first_seen_at": "2026-09-28T14:00:02.874366",
+      "assets": [
+        {
+          "symbol": "TDG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.481664,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.807503
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1676,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "TransDigm Group Incorporated completed the acquisition of PRINCE & IZANT, LLC from IGP Industries LLC.",
+          "url": "https://www.marketscreener.com/news/transdigm-group-incorporated-completed-the-acquisition-of-prince-izant-llc-from-igp-industries-ll-ce785adcdf8bf22d",
+          "published_at": "2026-09-28T12:39:17"
+        }
+      ]
+    },
+    {
+      "event_id": 1525,
+      "title": "New research: Financial uncertainty pushes workers to delay retirement",
+      "summary": "New research from the Principal Financial Well-Being Index SM indicates that financial uncertainty is causing nearly seven in ten employees to delay retirement. The primary reasons cited by employers for this delay include the rising cost of living and inflation, along with concerns about healthcare expenses and outliving savings. While employers are taking targeted approaches to retain experienced workers, formal phased retirement programs are seeing less adoption.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-09-28T12:11:38",
+      "first_seen_at": "2026-09-28T14:00:03.110898",
+      "assets": [
+        {
+          "symbol": "PFG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.250448,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.925002
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.81175
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.712665
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1677,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AdvisorHub",
+          "source_domain": "AdvisorHub",
+          "headline": "New research: Financial uncertainty pushes workers to delay retirement",
+          "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
+          "published_at": "2026-09-28T12:11:38"
+        }
+      ]
+    },
+    {
       "event_id": 1522,
       "title": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
       "summary": "Morgan Stanley suggests that the current disparity between the S&P 500's strong performance and the market's weak breadth will likely converge, with both meeting in the middle unless bond market volatility subsides. The firm believes the market is in a mid-cycle phase where strong earnings support higher-quality stocks, and analysts favor large-cap quality stocks, especially asset-light companies with increasing earnings estimates. They also highlight that AI-heavy companies are showing stronger margins and earnings, with potential for further upside.",
@@ -961,195 +1102,6 @@
           "headline": "Deere Stock And 2 Exporters That Could Benefit From A Stronger Dollar",
           "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-stock-and-2-exporters-that-could-benefit-from-a-strong",
           "published_at": "2026-09-25T13:37:27"
-        }
-      ]
-    },
-    {
-      "event_id": 1495,
-      "title": "US Fed plans to raise bank oversight thresholds, sources say",
-      "summary": "The US Federal Reserve is reportedly planning to raise the asset thresholds that trigger stricter oversight for banks. This move aims to allow some lenders to avoid costly additional regulation and could spur consolidation among mid-sized banks. The proposed changes would reindex current thresholds to account for inflation and economic growth, potentially raising the highest threshold closer to $1 trillion and lower ones to $150 billion.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-09-25T13:35:07",
-      "first_seen_at": "2026-09-25T15:00:02.441425",
-      "assets": [
-        {
-          "symbol": "USB",
-          "asset_class": null,
-          "relevance_score": 0.9172,
-          "sentiment_score": 0.340714,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "TFC",
-          "asset_class": null,
-          "relevance_score": 0.741365,
-          "sentiment_score": 0.295771,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COF",
-          "asset_class": null,
-          "relevance_score": 0.733574,
-          "sentiment_score": 0.293025,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PNC",
-          "asset_class": null,
-          "relevance_score": 0.731206,
-          "sentiment_score": 0.265736,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FITB",
-          "asset_class": null,
-          "relevance_score": 0.616054,
-          "sentiment_score": 0.24785,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.938192
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.849816
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.702651
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.602093
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1645,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Standard (HK)",
-          "source_domain": "The Standard (HK)",
-          "headline": "US Fed plans to raise bank oversight thresholds, sources say",
-          "url": "https://www.thestandard.com.hk/finance/article/343889/US-Fed-plans-to-raise-bank-oversight-thresholds-sources-say",
-          "published_at": "2026-09-25T13:35:07"
-        }
-      ]
-    },
-    {
-      "event_id": 1496,
-      "title": "Cadence Bank stock falls 1.66 percent before merger",
-      "summary": "Cadence Bank's stock saw a 1.66 percent decline, closing at USD 42.11 on January 30, 2026, just before its merger with The Huntington National Bank on February 1, 2026. The merger converted each Cadence share into 2.475 Huntington shares, with cash for fractional shares. Cadence reported USD 53.5 billion in total assets and USD 544.5 million in net income for fiscal 2025.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-25T13:34:36",
-      "first_seen_at": "2026-09-25T15:00:02.783964",
-      "assets": [
-        {
-          "symbol": "HBAN",
-          "asset_class": null,
-          "relevance_score": 0.816655,
-          "sentiment_score": 0.141686,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CADE-P-A",
-          "asset_class": null,
-          "relevance_score": 0.313565,
-          "sentiment_score": 0.00558,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.933151
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.84387
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.72954
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1646,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Cadence Bank stock falls 1.66 percent before merger",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/cadence-bank-stock-falls-1-66-percent-before-merger/70183767",
-          "published_at": "2026-09-25T13:34:36"
-        }
-      ]
-    },
-    {
-      "event_id": 1497,
-      "title": "Diamondback Energy stock gains 1.81 percent after earnings beat estimates",
-      "summary": "Diamondback Energy's stock rose 1.81% after its Q2 2026 adjusted EPS of $6.48 significantly beat the consensus estimate of $5.96. The company's revenue increased by over 51% year-over-year to $5.6 billion, and analysts like Raymond James have raised their price targets, maintaining a \"Strong Buy\" rating. Despite trading below its yearly high, the company reported substantial free cash flow and a stable quarterly dividend.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-09-25T13:32:00",
-      "first_seen_at": "2026-09-25T15:00:03.056522",
-      "assets": [
-        {
-          "symbol": "FANG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.608793,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941682
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.829871
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1647,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Diamondback Energy stock gains 1.81 percent after earnings beat estimates",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-gains-1-81-percent-after-earnings-beat-estimates/70183471",
-          "published_at": "2026-09-25T13:32:00"
         }
       ]
     }
