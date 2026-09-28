@@ -5,6 +5,100 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1520,
+      "title": "Caesars Entertainment stock trails USD 31.00 merger payout after vote",
+      "summary": "Caesars Entertainment shareholders have approved a merger with Fertitta Entertainment, which will provide a USD 31.00 cash payout per eligible share. Despite the approval, the stock closed at USD 29.59 on September 25, 2026, meaning it trades below the merger consideration. Regulatory review by the FTC is ongoing, extending the antitrust review period and making the closing timeline a key factor.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 69,
+      "published_at": "2026-09-28T10:47:00",
+      "first_seen_at": "2026-09-28T12:00:03.264364",
+      "assets": [
+        {
+          "symbol": "CZR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.107594,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.913532
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.829438
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1672,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Caesars Entertainment stock trails USD 31.00 merger payout after vote",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trails-usd-31-00-merger-payout-after-vote/70191784",
+          "published_at": "2026-09-28T10:47:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1521,
+      "title": "NetApp expands AI infra push with Peak:AIo acquisition",
+      "summary": "NetApp announced its plan to acquire Peak:AIo, a software-defined storage platform, to enhance its AI infrastructure offerings. This acquisition, NetApp's third in as many months, aims to integrate specialized metadata services into its Ontap platform to support high-performance, scalable storage for AI clouds and growing GPU clusters. Peak:AIo, founded in 2021, provides flash-based data archiving and software-defined storage solutions, counting Los Alamos National Laboratory and the UK's NHS among its customers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-28T10:25:04",
+      "first_seen_at": "2026-09-28T12:00:03.604417",
+      "assets": [
+        {
+          "symbol": "NTAP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.426361,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.918499
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.617431
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1673,
+          "provider": "ALPHA_VANTAGE",
+          "source": "SDxCentral",
+          "source_domain": "SDxCentral",
+          "headline": "NetApp expands AI infra push with Peak:AIo acquisition",
+          "url": "https://www.sdxcentral.com/news/netapp-expands-ai-infra-push-with-peakaio-acquisition/",
+          "published_at": "2026-09-28T10:25:04"
+        }
+      ]
+    },
+    {
       "event_id": 1513,
       "title": "Eureka Acquisition (EURK) Stock Chart and Price History 2026",
       "summary": "This article provides the stock chart and price history for Eureka Acquisition (EURK) as of September 2026. It details the stock's recent performance, including a 6.29% increase over the last 12 months and a 3.31% year-to-date return, alongside a monthly decrease of 3.80%. The article also presents a historical data table with daily trading information for September 2026, showing opening, closing, high, low prices, volume, and market capitalization.",
@@ -1064,112 +1158,6 @@
           "headline": "Did Newsom 'forcing' closure of California refineries cause US gas prices to spike?",
           "url": "https://www.snopes.com/fact-check/newsom-gas-prices-refineries-close/",
           "published_at": "2026-09-25T13:01:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1491,
-      "title": "DTE Energy: Low-Risk Dividend Growth For Passive Income (NYSE:DTE)",
-      "summary": "DTE Energy Company offers a compelling investment opportunity due to its discounted valuation, strong dividend growth, and accelerating earnings driven by Michigan's data center expansion. The company's $36.5 billion capital plan, backed by agreements with Oracle and Google, is projected to support 6-8% annual operating EPS growth through 2030, with potential for further upside. With an attractive 3.4% yield and a forward P/E suggesting significant upside, DTE is well-positioned for long-term passive income despite interest rate and regulatory risks.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-25T12:00:24",
-      "first_seen_at": "2026-09-25T14:00:02.384020",
-      "assets": [
-        {
-          "symbol": "DTE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.438201,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.947313
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.941825
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.828161
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.814169
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1641,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "DTE Energy: Low-Risk Dividend Growth For Passive Income (NYSE:DTE)",
-          "url": "https://seekingalpha.com/article/4948776-dte-energy-low-risk-dividend-growth-for-passive-income",
-          "published_at": "2026-09-25T12:00:24"
-        }
-      ]
-    },
-    {
-      "event_id": 1487,
-      "title": "ServiceNow, Quanta Services And More On CNBC’s ‘Final Trades’",
-      "summary": "During CNBC’s \"Halftime Report Final Trades,\" several financial experts shared their stock picks. Joshua Brown chose the F/M US Treasury 2 Year Note ETF, while Malcolm Ethridge selected ServiceNow, Inc., supported by an analyst's raised price target and strong Q2 earnings. Shannon Saccocia recommended the iShares U.S. Basic Materials ETF, and Stephanie Link picked Quanta Services, Inc., which recently received an upgrade and reported better-than-expected earnings.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-25T11:57:15",
-      "first_seen_at": "2026-09-25T13:00:02.035152",
-      "assets": [
-        {
-          "symbol": "PWR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410284,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOW",
-          "asset_class": null,
-          "relevance_score": 0.928262,
-          "sentiment_score": 0.386677,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.928758
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.829237
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.721318
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1637,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "ServiceNow, Quanta Services And More On CNBC’s ‘Final Trades’",
-          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61992199/servicenow-quanta-services-and-more-on-cnbcs-final-trades",
-          "published_at": "2026-09-25T11:57:15"
         }
       ]
     }
