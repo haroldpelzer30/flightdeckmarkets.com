@@ -5,6 +5,167 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1585,
+      "title": "Exascale Labs Debuts on Nasdaq After Completing SPAC Merger",
+      "summary": "Exascale Labs Holdings Inc. (XLAB) began trading on Nasdaq after completing its SPAC merger with D. Boral ARC Acquisition I Corp. The company, which provides a software-defined GPU compute platform and AI infrastructure services, faces financial challenges including widening losses and an accumulated deficit, exacerbated by significant redemptions from pre-merger shareholders. Despite its asset-light model and growing customer base, the company has not yet generated revenue from its modular data center and related offerings, and faces strong competition from larger cloud and AI infrastructure providers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-29T22:00:44",
+      "first_seen_at": "2026-09-29T23:00:02.535711",
+      "assets": [
+        {
+          "symbol": "XLAB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.620653,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": 0.939902
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.84174
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.749196
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.62135
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.617735
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1742,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Minichart",
+          "source_domain": "Minichart",
+          "headline": "Exascale Labs Debuts on Nasdaq After Completing SPAC Merger",
+          "url": "https://www.minichart.com.sg/2026/09/28/exascale-labs-debuts-on-nasdaq-after-completing-spac-merger/",
+          "published_at": "2026-09-29T22:00:44"
+        }
+      ]
+    },
+    {
+      "event_id": 1586,
+      "title": "VinFast Auto (VFS), What Is Behind The Fresh Attention?",
+      "summary": "VinFast Auto (VFS) is attracting new attention following a leadership change, with founder Pham Nhat Vuong's son appointed global CEO, and a strategic shift towards an asset-light model. Despite being presented as 48% undervalued by analysts at $6.05 per share, the company's stock has declined, and it faces significant challenges such as heavy cash burn and limited brand strength. The market also shows caution, trading VinFast at a P/S ratio of 2x, significantly higher than the US Auto industry average of 0.6x, indicating potential valuation risk.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-29T21:54:09",
+      "first_seen_at": "2026-09-29T23:00:02.801450",
+      "assets": [
+        {
+          "symbol": "VFS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.204165,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.942829
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.917604
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.821211
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60927
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1743,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "VinFast Auto (VFS), What Is Behind The Fresh Attention?",
+          "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-vfs/vinfast-auto/news/vinfast-auto-vfs-what-is-behind-the-fresh-attention",
+          "published_at": "2026-09-29T21:54:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1587,
+      "title": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late'",
+      "summary": "Ford CEO Jim Farley has warned the US to be cautious about Chinese automakers entering the American market, citing Europe as a cautionary example where Chinese imports have rapidly gained market share. Farley emphasized that while Ford will partner with Chinese companies for capital efficiency and expertise, they will also compete directly. He highlighted concerns from US officials about Ford's collaborations with Chinese firms and the broader impact of China's growing automotive export industry on global markets.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-29T20:49:00",
+      "first_seen_at": "2026-09-29T23:00:03.041985",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.281768,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "FPC",
+          "asset_class": null,
+          "relevance_score": 0.312047,
+          "sentiment_score": 0.008348,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.908618
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.822688
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.719704
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1744,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Reuters",
+          "source_domain": "Reuters",
+          "headline": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late'",
+          "url": "https://www.reuters.com/business/autos-transportation/fords-ceo-urges-caution-chinese-automakers-says-europe-is-too-late-2026-09-29/",
+          "published_at": "2026-09-29T20:49:00"
+        }
+      ]
+    },
+    {
       "event_id": 1583,
       "title": "House Targets Hyperliquid in Insider Trading Probe, Cites $1.1B Crypto Short Before Trump Tariffs",
       "summary": "The House Oversight Committee has expanded its insider trading investigation to include Hyperliquid Labs, Crypto.com, and Aristotle Exchange, focusing on a $1.1 billion crypto short position opened on Hyperliquid before former President Trump announced new tariffs on China. The probe questions Hyperliquid's identity verification processes and its ability to detect suspicious trading activities. This inquiry follows a previous investigation into Polymarket and Kalshi, and concerns a trader who profited over $150 million from the short position.",
@@ -996,172 +1157,6 @@
           "headline": "Vulcan Materials acquires Kentucky quarry",
           "url": "https://www.pitandquarry.com/vulcan-materials-acquires-kentucky-quarry/",
           "published_at": "2026-09-29T14:02:19"
-        }
-      ]
-    },
-    {
-      "event_id": 1569,
-      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
-      "summary": "A U.S. Bank CFO survey indicates growing optimism among corporate finance leaders regarding both the U.S. economy and their own businesses, with a notable shift in priorities towards revenue growth and M&A opportunities. While cost-cutting remains important, the focus is increasingly on strategic expansion and leveraging AI investments. Geopolitical risks, high borrowing costs, and inflation persist, but leaders are viewing uncertainty as an opportunity and addressing inflation through productivity improvements rather than layoffs.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-29T13:57:27",
-      "first_seen_at": "2026-09-29T16:00:03.081060",
-      "assets": [
-        {
-          "symbol": "USB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.471728,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 0.914563
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.841301
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.710461
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.631272
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1726,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Business Wire",
-          "source_domain": "Business Wire",
-          "headline": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
-          "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
-          "published_at": "2026-09-29T13:57:27"
-        }
-      ]
-    },
-    {
-      "event_id": 1561,
-      "title": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
-      "summary": "Expand Energy Corp's stock has dropped to a 52-week low of 84.42 USD, marking a 19.7% decline over the past year. Despite this, the stock trades at a low P/E ratio of 7.37 and is considered undervalued by InvestingPro analysis, which also notes its oversold RSI and a perfect Piotroski Score. The company recently exceeded profit expectations but missed revenue targets in Q2, with differing analyst opinions on its future due to management changes, a weak natural gas market, and fluctuating oil prices.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-29T13:47:47",
-      "first_seen_at": "2026-09-29T15:00:01.938210",
-      "assets": [
-        {
-          "symbol": "EXE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.640629,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CL",
-          "asset_class": null,
-          "relevance_score": 0.607241,
-          "sentiment_score": -0.540139,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.935862
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.905858
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.601923
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1718,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
-          "url": "https://in.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-5611161",
-          "published_at": "2026-09-29T13:37:45"
-        },
-        {
-          "article_id": 1717,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
-          "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
-          "published_at": "2026-09-29T13:47:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1562,
-      "title": "No business was conducted at Columbus Acquisition's meeting; it reconvenes Sept. 30.",
-      "summary": "Columbus Acquisition Corp (COLA) reconvened its Extraordinary General Meeting of Shareholders but adjourned without conducting any business, rescheduling it to September 30, 2026, at 9:30 a.m. Eastern Time. The meeting will address all proposals in the proxy statement, including the proposed business combination with WISeSat.Space Corp. Shareholders who have already voted do not need to act again unless they wish to change their vote, and redemption requests can be withdrawn.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-09-29T13:28:25",
-      "first_seen_at": "2026-09-29T15:00:02.366288",
-      "assets": [
-        {
-          "symbol": "COLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.110985,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.933964
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.821591
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.720601
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1719,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "No business was conducted at Columbus Acquisition's meeting; it reconvenes Sept. 30.",
-          "url": "https://www.stocktitan.net/news/COLA/columbus-acquisition-corp-announces-adjournment-of-reconvened-ngg849s79nb9.html",
-          "published_at": "2026-09-29T13:28:25"
         }
       ]
     }
