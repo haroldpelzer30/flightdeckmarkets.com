@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1548,
+      "title": "Virginia gets better Dominion-NextEra merger deal than South Carolina",
+      "summary": "Virginia is receiving a better deal than South Carolina in the proposed $67 billion merger between Dominion Energy and NextEra Energy. Virginia's expanded benefits package includes four years of monthly bill credits and additional low-income assistance, compared to only two years of credits for South Carolina customers. This disparity is attributed to Virginia's more vocal state leadership pushing for concessions, while South Carolina's governor and officials have been less engaged.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 63,
+      "published_at": "2026-09-28T22:12:50",
+      "first_seen_at": "2026-09-29T00:00:02.443050",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.110061,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.903784,
+          "sentiment_score": 0.136339,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.82932
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1704,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WRDW",
+          "source_domain": "WRDW",
+          "headline": "Virginia gets better Dominion-NextEra merger deal than South Carolina",
+          "url": "https://www.wrdw.com/2026/09/28/virginia-gets-better-dominion-nextera-merger-deal-than-south-carolina/",
+          "published_at": "2026-09-28T22:12:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1549,
+      "title": "Valero Energy stock last traded at USD 389.57 on September 28, 2026",
+      "summary": "Valero Energy's stock last traded at USD 389.57 on September 28, 2026, marking a 0.62 percent increase from the previous session. The company recently expanded its board to 11 members, appointing Matthew Audette as an independent director to its Audit Committee. Valero is scheduled to announce its third-quarter 2026 earnings on October 22, with a conference call set for 10:00 a.m. Eastern Time.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-28T22:12:17",
+      "first_seen_at": "2026-09-29T00:00:02.692090",
+      "assets": [
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.198412,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949376
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.934574
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.815558
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1705,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Valero Energy stock last traded at USD 389.57 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/valero-energy-stock-last-traded-at-usd-389-57-on-september-28-2026/70195731",
+          "published_at": "2026-09-28T22:12:17"
+        }
+      ]
+    },
+    {
+      "event_id": 1550,
+      "title": "Principal Financial Group stock at USD 114.64 on September 28, 2026",
+      "summary": "Principal Financial Group's stock traded at USD 114.64 on September 28, 2026, marking a 0.11 percent decline. The company recently completed its acquisition of Beam Benefits, adding over 25,000 small-business customers and maintaining its capital deployment and earnings-per-share growth targets for 2026. Additionally, Principal Financial Group established a new five-year unsecured revolving credit facility for up to USD 900 million, potentially increasing to USD 1.30 billion.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-28T22:11:57",
+      "first_seen_at": "2026-09-29T00:00:02.938098",
+      "assets": [
+        {
+          "symbol": "PFG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.211149,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.9435
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.906339
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.820077
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.811278
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1706,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Principal Financial Group stock at USD 114.64 on September 28, 2026",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/principal-financial-group-stock-at-usd-114-64-on-september-28-2026/70195794",
+          "published_at": "2026-09-28T22:11:57"
+        }
+      ]
+    },
+    {
       "event_id": 1546,
       "title": "This Blue-Chip Defense Prime Lands on Piper Sandler's Rate-Risk List",
       "summary": "General Dynamics (NYSE: GD), a prominent defense contractor, has been included in Piper Sandler's list of companies at risk due to rising borrowing costs. The company holds $7 billion in debt, with 54% maturing within five years, necessitating potential refinancing at significantly higher interest rates. Despite this concern, General Dynamics has shown strong business performance, beating Q2 estimates and reducing its total debt from previous years.",
@@ -1052,155 +1201,6 @@
           "headline": "Microsoft Q2 2026 Global AI Diffusion Report: 18.8% usage",
           "url": "https://qz.com/microsoft-global-ai-diffusion-report-usage-092826",
           "published_at": "2026-09-28T14:32:24"
-        }
-      ]
-    },
-    {
-      "event_id": 1531,
-      "title": "One billion barrels: Guyana's remarkable journey continues",
-      "summary": "ExxonMobil and its co-venturers have achieved a significant milestone by producing the one billionth barrel of oil from Guyana’s Stabroek block in less than seven years. This accomplishment has transformed Guyana into a major energy producer, contributing to global energy security and economic growth. The success is attributed to strong partnerships with the Guyanese government, local communities, and thousands of Guyanese workers, alongside ongoing investments in the nation's future.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-28T14:13:38",
-      "first_seen_at": "2026-09-28T16:00:02.950937",
-      "assets": [
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.494516,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825299
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1685,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ExxonMobil",
-          "source_domain": "ExxonMobil",
-          "headline": "One billion barrels: Guyana's remarkable journey continues",
-          "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
-          "published_at": "2026-09-28T14:13:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1526,
-      "title": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
-      "summary": "JPMorgan Chase & Co.'s trading desk has shifted its stance on US equities from tactically neutral to bullish, anticipating a sustained market boom. This change is driven by stronger-than-expected economic activity, resilient consumer spending, robust corporate profit growth, and potential stabilization in bond yields. The firm's traders, led by Andrew Tyler, made this strategic adjustment in advance of the upcoming US jobs report.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "CRITICAL",
-      "intelligence_score": 75,
-      "published_at": "2026-09-28T13:26:57",
-      "first_seen_at": "2026-09-28T15:00:02.240843",
-      "assets": [
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.429191,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM-P-C",
-          "asset_class": null,
-          "relevance_score": 0.337405,
-          "sentiment_score": 0.027354,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.939862
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825335
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.730598
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1678,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg",
-          "source_domain": "Bloomberg",
-          "headline": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-28/jpmorgan-traders-flip-to-bullish-view-on-us-stocks-spy-ahead-of-jobs-report",
-          "published_at": "2026-09-28T13:26:57"
-        }
-      ]
-    },
-    {
-      "event_id": 1523,
-      "title": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
-      "summary": "PACCAR Inc. reported a Q2 2026 earnings beat, with EPS of USD 1.43 against a consensus of USD 1.36 and revenue of USD 7.55 billion versus an estimated USD 7.05 billion. Following these results, RBC Capital upgraded PACCAR to Outperform and increased its price target to USD 150.00. Despite the positive earnings, the stock closed at USD 111.31 on September 25, 2026, remaining 20.06 percent below its 52-week high.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 68,
-      "published_at": "2026-09-28T13:17:00",
-      "first_seen_at": "2026-09-28T14:00:02.616725",
-      "assets": [
-        {
-          "symbol": "PCAR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.474653,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.935724
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.838446
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.742749
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1675,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "PACCAR stock trades at USD 111.31 after a Q2 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-trades-at-usd-111-31-after-a-q2-earnings-beat/70192498",
-          "published_at": "2026-09-28T13:17:00"
         }
       ]
     }
