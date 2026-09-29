@@ -5,6 +5,148 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1566,
+      "title": "Mike Wilson says S&P 500 correction could benefit the market",
+      "summary": "Morgan Stanley's Chief U.S. Equity Strategist Mike Wilson suggests that a correction in the S&P 500 could be beneficial for the market's performance later in the year. This perspective comes amidst a significant bond market rout, where 30-year and 10-year Treasury yields have surged to multi-year highs, impacting equities and consumer borrowing costs. The bond market's movements are attributed to fears of persistent inflation potentially leading the Federal Reserve to further raise interest rates.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-29T14:30:27",
+      "first_seen_at": "2026-09-29T16:00:02.225389",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.968407,
+          "sentiment_score": 0.129802,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NDAQ",
+          "asset_class": null,
+          "relevance_score": 0.638102,
+          "sentiment_score": 0.057975,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.599292,
+          "sentiment_score": 0.019738,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.566643,
+          "sentiment_score": 0.004803,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.562857,
+          "sentiment_score": 0.001726,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922399
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.814242
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.741571
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1723,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "Mike Wilson says S&P 500 correction could benefit the market",
+          "url": "https://qz.com/morgan-stanley-mike-wilson-sp500-correction-bond-yields-092926",
+          "published_at": "2026-09-29T14:30:27"
+        }
+      ]
+    },
+    {
+      "event_id": 1567,
+      "title": "Norwegian Cruise Line Rises in Sympathy After Carnival's Record Quarter",
+      "summary": "Norwegian Cruise Line Holdings Ltd. (NCLH) shares are trading higher following Carnival Corporation Ltd.'s (CCL) strong third-quarter earnings report. Carnival reported record net income, revenues, and customer deposits, boosting its FY26 earnings outlook. This positive news for Carnival is seen as a bellwether for the cruise industry, benefiting NCLH stock due to strong consumer demand for cruise vacations.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-29T14:10:40",
+      "first_seen_at": "2026-09-29T16:00:02.522115",
+      "assets": [
+        {
+          "symbol": "NCLH",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40338,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CCL",
+          "asset_class": null,
+          "relevance_score": 0.939888,
+          "sentiment_score": 0.511586,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914146
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.816393
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.610235
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.603934
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.60043
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1724,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Norwegian Cruise Line Rises in Sympathy After Carnival's Record Quarter",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62051264/norwegian-cruise-line-rises-in-sympathy-after-carnivals-record-quarter",
+          "published_at": "2026-09-29T14:10:40"
+        }
+      ]
+    },
+    {
       "event_id": 1560,
       "title": "Vulcan Materials acquires Kentucky quarry",
       "summary": "Vulcan Materials has acquired the Butler Quarry in Pendleton County, Kentucky, from Hilltop Stone. The quarry has provided limestone products to the Greater Cincinnati and northern Kentucky construction markets for over 70 years and is noted as one of the few hard rock quarries in the region. The Greystone Group advised Hilltop Stone on the transaction, the terms of which were not disclosed.",
@@ -20,7 +162,7 @@
           "symbol": "VMC",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.425226,
+          "sentiment_score": 0.410801,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,11 +174,11 @@
         },
         {
           "topic": "real_estate",
-          "relevance_score": 0.722878
+          "relevance_score": 0.735217
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.612992
+          "relevance_score": 0.627484
         }
       ],
       "articles": [
@@ -48,6 +190,57 @@
           "headline": "Vulcan Materials acquires Kentucky quarry",
           "url": "https://www.pitandquarry.com/vulcan-materials-acquires-kentucky-quarry/",
           "published_at": "2026-09-29T14:02:19"
+        }
+      ]
+    },
+    {
+      "event_id": 1569,
+      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
+      "summary": "A U.S. Bank CFO survey indicates growing optimism among corporate finance leaders regarding both the U.S. economy and their own businesses, with a notable shift in priorities towards revenue growth and M&A opportunities. While cost-cutting remains important, the focus is increasingly on strategic expansion and leveraging AI investments. Geopolitical risks, high borrowing costs, and inflation persist, but leaders are viewing uncertainty as an opportunity and addressing inflation through productivity improvements rather than layoffs.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-29T13:57:27",
+      "first_seen_at": "2026-09-29T16:00:03.081060",
+      "assets": [
+        {
+          "symbol": "USB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.471728,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 0.914563
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.841301
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.710461
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.631272
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1726,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Business Wire",
+          "source_domain": "Business Wire",
+          "headline": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
+          "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
+          "published_at": "2026-09-29T13:57:27"
         }
       ]
     },
@@ -881,197 +1074,6 @@
           "headline": "This Blue-Chip Defense Prime Lands on Piper Sandler's Rate-Risk List",
           "url": "https://www.benzinga.com/markets/large-cap/26/09/62035892/this-blue-chip-defense-prime-lands-on-piper-sandlers-rate-risk-list",
           "published_at": "2026-09-28T20:29:59"
-        }
-      ]
-    },
-    {
-      "event_id": 1547,
-      "title": "Analog Devices stock at USD 393.60 on September 28, 2026",
-      "summary": "Analog Devices (ADI) stock closed at USD 393.60 on Nasdaq on September 28, 2026, with no daily change. The company had previously announced on September 9 an agreement to acquire Alif Semiconductor for USD 1.35 billion in an all-cash transaction, with potential additional contingent consideration of up to USD 200 million. This acquisition is expected to close by the end of 2026, adding Alif’s AI-native fusion processors to Analog Devices' portfolio.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-28T20:25:00",
-      "first_seen_at": "2026-09-28T22:00:02.154261",
-      "assets": [
-        {
-          "symbol": "ADI",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.26412,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.822491
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.640144
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1703,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Analog Devices stock at USD 393.60 on September 28, 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/analog-devices-stock-at-usd-393-60-on-september-28-2026/70195280",
-          "published_at": "2026-09-28T20:25:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1543,
-      "title": "Fox Corporation stock last trades at USD 56.75 on September 28, 2026",
-      "summary": "Fox Corporation (FOX) shares last traded at USD 56.75, up 0.37 percent, on September 28, 2026. The company disclosed that its proposed merger with Roku is undergoing an additional review by the U.S. Department of Justice (DOJ), extending the waiting period under the Hart-Scott-Rodino Act. Fox expects the merger to be completed in the first half of 2027, subject to customary closing conditions and stockholder approvals.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-28T19:58:00",
-      "first_seen_at": "2026-09-28T21:00:01.849925",
-      "assets": [
-        {
-          "symbol": "FOX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.244896,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WAT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.249322,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEM",
-          "asset_class": null,
-          "relevance_score": 0.320325,
-          "sentiment_score": 0.018405,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.922812
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.921284
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.920357
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.702387
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1699,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Newmont Corporation stock last traded at USD 116.19 on September 28, 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/newmont-corporation-stock-last-traded-at-usd-116-19-on-september-28-2026/70195035",
-          "published_at": "2026-09-28T19:52:40"
-        },
-        {
-          "article_id": 1698,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Fox Corporation stock last trades at USD 56.75 on September 28, 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/fox-corporation-stock-last-trades-at-usd-56-75-on-september-28-2026/70194474",
-          "published_at": "2026-09-28T19:58:00"
-        },
-        {
-          "article_id": 1697,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Waters Corporation stock last trades at USD 441.06 on September 28, 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/waters-corporation-stock-last-trades-at-usd-441-06-on-september-28-2026/70194549",
-          "published_at": "2026-09-28T20:09:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1544,
-      "title": "General Motors Stock Falls Monday: What's Going On?",
-      "summary": "General Motors (GM) shares fell on Monday due to a broader automotive sector decline. This was influenced by surging Treasury yields and spiking crude oil prices, which threaten consumer auto financing and increase borrowing costs. The macro environment is expected to impact both consumer demand for vehicles and GM's capital expenditures for EV development.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-09-28T19:31:30",
-      "first_seen_at": "2026-09-28T21:00:02.181682",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.641187,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945105
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.84669
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.744756
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.637802
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.6221
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1700,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "General Motors Stock Falls Monday: What's Going On?",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62034458/general-motors-stock-falls-monday-whats-going-on",
-          "published_at": "2026-09-28T19:31:30"
         }
       ]
     }
