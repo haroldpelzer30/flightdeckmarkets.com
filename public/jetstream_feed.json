@@ -5,6 +5,325 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1560,
+      "title": "Vulcan Materials acquires Kentucky quarry",
+      "summary": "Vulcan Materials has acquired the Butler Quarry in Pendleton County, Kentucky, from Hilltop Stone. The quarry has provided limestone products to the Greater Cincinnati and northern Kentucky construction markets for over 70 years and is noted as one of the few hard rock quarries in the region. The Greystone Group advised Hilltop Stone on the transaction, the terms of which were not disclosed.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-29T14:02:19",
+      "first_seen_at": "2026-09-29T15:00:01.712225",
+      "assets": [
+        {
+          "symbol": "VMC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.425226,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.722878
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.612992
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1716,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pit & Quarry",
+          "source_domain": "Pit & Quarry",
+          "headline": "Vulcan Materials acquires Kentucky quarry",
+          "url": "https://www.pitandquarry.com/vulcan-materials-acquires-kentucky-quarry/",
+          "published_at": "2026-09-29T14:02:19"
+        }
+      ]
+    },
+    {
+      "event_id": 1561,
+      "title": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
+      "summary": "Expand Energy Corp's stock has dropped to a 52-week low of 84.42 USD, marking a 19.7% decline over the past year. Despite this, the stock trades at a low P/E ratio of 7.37 and is considered undervalued by InvestingPro analysis, which also notes its oversold RSI and a perfect Piotroski Score. The company recently exceeded profit expectations but missed revenue targets in Q2, with differing analyst opinions on its future due to management changes, a weak natural gas market, and fluctuating oil prices.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-29T13:47:47",
+      "first_seen_at": "2026-09-29T15:00:01.938210",
+      "assets": [
+        {
+          "symbol": "EXE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.640629,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CL",
+          "asset_class": null,
+          "relevance_score": 0.607241,
+          "sentiment_score": -0.540139,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935862
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.905858
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.601923
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1718,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
+          "url": "https://in.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-5611161",
+          "published_at": "2026-09-29T13:37:45"
+        },
+        {
+          "article_id": 1717,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
+          "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
+          "published_at": "2026-09-29T13:47:47"
+        }
+      ]
+    },
+    {
+      "event_id": 1562,
+      "title": "No business was conducted at Columbus Acquisition's meeting; it reconvenes Sept. 30.",
+      "summary": "Columbus Acquisition Corp (COLA) reconvened its Extraordinary General Meeting of Shareholders but adjourned without conducting any business, rescheduling it to September 30, 2026, at 9:30 a.m. Eastern Time. The meeting will address all proposals in the proxy statement, including the proposed business combination with WISeSat.Space Corp. Shareholders who have already voted do not need to act again unless they wish to change their vote, and redemption requests can be withdrawn.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-09-29T13:28:25",
+      "first_seen_at": "2026-09-29T15:00:02.366288",
+      "assets": [
+        {
+          "symbol": "COLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.110985,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.933964
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.821591
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.720601
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1719,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "No business was conducted at Columbus Acquisition's meeting; it reconvenes Sept. 30.",
+          "url": "https://www.stocktitan.net/news/COLA/columbus-acquisition-corp-announces-adjournment-of-reconvened-ngg849s79nb9.html",
+          "published_at": "2026-09-29T13:28:25"
+        }
+      ]
+    },
+    {
+      "event_id": 1563,
+      "title": "TransDigm acquires Prince & Izant for $1.066 billion By Investing.com",
+      "summary": "TransDigm Group Incorporated has acquired Prince & Izant, LLC for $1.066 billion from Industrial Growth Partners (IGP). Prince & Izant, founded in 1927, specializes in manufacturing specialty metal alloys and components for various industries, including aerospace and defense. This acquisition marks the second platform investment for IGP's sixth fund, highlighting the growth achieved by Prince & Izant under IGP's ownership through strategic guidance and three previous acquisitions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-09-29T13:27:13",
+      "first_seen_at": "2026-09-29T15:00:02.629434",
+      "assets": [
+        {
+          "symbol": "TDG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.47729,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802141
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.746242
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.61415
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1720,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Canada",
+          "source_domain": "Investing.com Canada",
+          "headline": "TransDigm acquires Prince & Izant for $1.066 billion By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/transdigm-acquires-prince--izant-for-1066-billion-93CH-4858147",
+          "published_at": "2026-09-29T13:27:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1564,
+      "title": "Industrial Growth Partners sells Prince & Izant to TransDigm for $1.066B, marking major growth since 2022 acquisition.",
+      "summary": "Industrial Growth Partners (IGP) has sold Prince & Izant, a specialty materials company, to TransDigm Group for $1.066 billion. Since acquiring Prince & Izant in 2022, IGP significantly grew the company's product range, market presence, and manufacturing capabilities, doubling its EBITDA. The sale underscores Prince & Izant's strengthened position in key markets like aerospace and medical, with TransDigm expected to facilitate further growth.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-29T13:24:14",
+      "first_seen_at": "2026-09-29T15:00:02.890643",
+      "assets": [
+        {
+          "symbol": "TDG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.413764,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.844622
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.738748
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1721,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "Industrial Growth Partners sells Prince & Izant to TransDigm for $1.066B, marking major growth since 2022 acquisition.",
+          "url": "https://pluang.com/en/news-feed/industrial-growth-partners-selesaikan-penjualan-prince-izant-ke-transdigm",
+          "published_at": "2026-09-29T13:24:14"
+        }
+      ]
+    },
+    {
+      "event_id": 1565,
+      "title": "Union Pacific stock reports an earnings beat as merger review advances",
+      "summary": "Union Pacific (UNP) reported an earnings beat in its second quarter, with revenue reaching $6.86 billion against a $6.72 billion consensus and EPS at $3.41 versus $3.26 expected. The Surface Transportation Board has allowed the review of its proposed merger with Norfolk Southern to proceed, with a target completion in the second half of 2027. UBS upgraded UNP to Buy with a $339 price target, citing potential transcontinental network benefits and projected intermodal volume growth.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 74,
+      "published_at": "2026-09-29T13:19:07",
+      "first_seen_at": "2026-09-29T15:00:03.121107",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.411226,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.613949,
+          "sentiment_score": 0.2094,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949001
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.942597
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.835257
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.73382
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1722,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Union Pacific stock reports an earnings beat as merger review advances",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-reports-an-earnings-beat-as-merger-review-advances/70198709",
+          "published_at": "2026-09-29T13:19:07"
+        }
+      ]
+    },
+    {
       "event_id": 1555,
       "title": "AIxC (FFR) and FFAI Provide Additional Details on Proposed Acquisition of FFAI's Robotics Business at an Approximate $200 Million Valuation and Potential Special Stock Dividend of $2.246 Provides Direct Benefit to Existing Stockholders",
       "summary": "AIxC (soon to be FFR) has entered into a non-binding term sheet to acquire Faraday Future Intelligent Electric Inc.'s (FFAI) robotics business for an estimated $200 million in an all-stock deal. This acquisition will transform FFR into a pure-play robotics ecosystem company, shifting away from its crypto strategy. The deal includes a potential special stock dividend for existing FFR shareholders if the per-share price falls below $2.246, aiming to provide direct benefit to them.",
@@ -753,364 +1072,6 @@
           "headline": "General Motors Stock Falls Monday: What's Going On?",
           "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62034458/general-motors-stock-falls-monday-whats-going-on",
           "published_at": "2026-09-28T19:31:30"
-        }
-      ]
-    },
-    {
-      "event_id": 1545,
-      "title": "Scorpio Tankers (NYSE:STNG) Shares Climb 4.2% - Time to Buy?",
-      "summary": "Scorpio Tankers (NYSE:STNG) saw its shares climb 4.2% to $84.91, despite trading volume being 62% below average. The company reported strong quarterly results, beating EPS consensus and increasing revenue by 77.5% year over year, and declared a $0.45 quarterly dividend. While analysts maintain a \"Hold\" rating with an average price target of $91.57, insiders have sold a significant amount of shares recently.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-28T18:59:18",
-      "first_seen_at": "2026-09-28T21:00:02.513353",
-      "assets": [
-        {
-          "symbol": "STNG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410133,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94694
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.843415
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.710225
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1701,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Scorpio Tankers (NYSE:STNG) Shares Climb 4.2% - Time to Buy?",
-          "url": "https://www.marketbeat.com/instant-alerts/price-scorpio-tankers-nyse-stng-shares-climb-42-time-to-buy-2026-09-28/",
-          "published_at": "2026-09-28T18:59:18"
-        }
-      ]
-    },
-    {
-      "event_id": 1541,
-      "title": "Ford Stock Drops Monday: What's Happening?",
-      "summary": "Ford Motor Company (NYSE: F) shares dropped on Monday due to a broader automotive sector decline. This fall is attributed to surging crude oil prices and rising Treasury yields, which are negatively impacting consumer auto financing and corporate capital expenditures. The situation intensified after President Trump rejected Iran's proposal to reopen the Strait of Hormuz, leading to an increase in oil prices and bond yields, and concerns about a potential Federal Reserve rate hike.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-09-28T18:25:44",
-      "first_seen_at": "2026-09-28T20:00:02.112269",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.601765,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.940535
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.803378
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.705337
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.700649
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1695,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Ford Stock Drops Monday: What's Happening?",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62032829/ford-stock-drops-monday-whats-happening",
-          "published_at": "2026-09-28T18:25:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1542,
-      "title": "Analysis of S&P and Moody's Market Position",
-      "summary": "S&P and Moody's maintain a dominant position in the credit rating market, deriving over 30% of their revenue from credit rating services and controlling over 80% of the debt rating market. Their long-standing data accumulation and ability to cross-sell other financial services create a strong competitive moat. Despite market fluctuations, their market data and analytics services are expected to offer reliable long-term investment potential.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-28T18:05:01",
-      "first_seen_at": "2026-09-28T20:00:02.382135",
-      "assets": [
-        {
-          "symbol": "MCO",
-          "asset_class": null,
-          "relevance_score": 0.987345,
-          "sentiment_score": 0.444644,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SPGI",
-          "asset_class": null,
-          "relevance_score": 0.918061,
-          "sentiment_score": 0.480562,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.911906
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.821895
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.623969
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1696,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Intellectia AI",
-          "source_domain": "Intellectia AI",
-          "headline": "Analysis of S&P and Moody's Market Position",
-          "url": "https://intellectia.ai/news/stock/analysis-of-sp-and-moodys-market-position",
-          "published_at": "2026-09-28T18:05:01"
-        }
-      ]
-    },
-    {
-      "event_id": 1535,
-      "title": "AES stock at USD 14.87 on September 28, 2026",
-      "summary": "The AES Corporation's stock was quoted at USD 14.87 on September 28, 2026, on the New York Stock Exchange. The stock saw a slight decrease of USD 0.01, or 0.03 percent, during the trading session. This news follows the Public Utilities Commission of Ohio's approval of AES's planned merger with Horizon Parent, L.P., though the merger is still subject to further regulatory approvals.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-28T17:19:06",
-      "first_seen_at": "2026-09-28T19:00:01.790385",
-      "assets": [
-        {
-          "symbol": "AES",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.134941,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.93995
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.701232
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1689,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "AES stock at USD 14.87 on September 28, 2026",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/aes-stock-at-usd-14-87-on-september-28-2026/70194274",
-          "published_at": "2026-09-28T17:19:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1536,
-      "title": "Is Bank of America (NYSE:BAC) Signaling Confidence With A Higher Dividend?",
-      "summary": "Bank of America (NYSE:BAC) recently announced a double-digit percentage increase in its quarterly common stock dividend, signaling confidence. This move, alongside a significant multi-year workforce development commitment and a senior leadership appearance at a financial conference, highlights the bank's strong position. These developments underscore Bank of America's role as a major financial services provider at the intersection of consumer banking, wealth management, global banking, and markets, influencing the broader financial sector.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-28T17:18:40",
-      "first_seen_at": "2026-09-28T19:00:02.049960",
-      "assets": [
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.325217,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.591604,
-          "sentiment_score": 0.143049,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.586053,
-          "sentiment_score": 0.130854,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GS",
-          "asset_class": null,
-          "relevance_score": 0.584423,
-          "sentiment_score": 0.121302,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "RF",
-          "asset_class": null,
-          "relevance_score": 0.566653,
-          "sentiment_score": 0.144703,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.927453
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.836427
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.732103
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1690,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Is Bank of America (NYSE:BAC) Signaling Confidence With A Higher Dividend?",
-          "url": "https://kalkinemedia.com/us/stocks/financial/is-bank-of-america-nysebac-signaling-confidence-with-a-higher-dividend",
-          "published_at": "2026-09-28T17:18:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1537,
-      "title": "2 High-Yield Dividend Stocks Near Their 52-Week Lows That Income Investors Are Sleeping On",
-      "summary": "Despite market advances, Realty Income (NYSE: O) and Home Depot (NYSE: HD) are trading near their 52-week lows, presenting a buying opportunity for income investors. Realty Income, a REIT, boasts a high occupancy rate and a 5.9% dividend yield, having raised dividends for 116 consecutive quarters. Home Depot, while affected by economic conditions, maintains a 3.2% yield and has a strong history of annual dividend increases since 2010.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-28T17:12:25",
-      "first_seen_at": "2026-09-28T19:00:02.420909",
-      "assets": [
-        {
-          "symbol": "O",
-          "asset_class": null,
-          "relevance_score": 0.916226,
-          "sentiment_score": 0.417822,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "HD",
-          "asset_class": null,
-          "relevance_score": 0.746187,
-          "sentiment_score": 0.312786,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.61493,
-          "sentiment_score": 0.379564,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.943588
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.803102
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.746121
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.710781
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.625865
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1691,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "2 High-Yield Dividend Stocks Near Their 52-Week Lows That Income Investors Are Sleeping On",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/4837270/2-high-yield-dividend-stocks-near-their-52-week-lows-that-income-investors-are-sleeping-on/",
-          "published_at": "2026-09-28T17:12:25"
         }
       ]
     }
