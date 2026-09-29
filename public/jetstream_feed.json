@@ -5,6 +5,45 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1582,
+      "title": "ACV stockholders seek to block Copart acquisition - Buffalo Business First",
+      "summary": "ACV stockholders have filed complaints seeking to block the company's acquisition by Copart. The complaints allege that the filings made to federal regulators are misleading or omit crucial details about the proposed transaction. ACV, however, states that these allegations are without merit.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-29T18:11:08",
+      "first_seen_at": "2026-09-29T20:00:02.093909",
+      "assets": [
+        {
+          "symbol": "CPRT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.001536,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1739,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "ACV stockholders seek to block Copart acquisition - Buffalo Business First",
+          "url": "https://www.bizjournals.com/buffalo/news/2026/09/29/acv-stockholders-copart-acquisition-complaints.html",
+          "published_at": "2026-09-29T18:11:08"
+        }
+      ]
+    },
+    {
       "event_id": 1577,
       "title": "NexMetals Mining Stock Slides 6.27% as Metals Selloff Tests Sentiment Despite High-Grade Botswana Drilling",
       "summary": "NexMetals Mining (TSXV:NEXM) shares dropped 6.27% despite recent positive high-grade copper-nickel drilling results from its Selebi Main deposit in Botswana. The decline is attributed to broader weakness in the mining sector, profit-taking, and a reevaluation of valuations, rather than a negative operational announcement. The company, focused on redeveloping past-producing assets, faces risks related to exploration uncertainty, financing, and commodity price volatility, with its outlook dependent on converting geological success into economically viable redevelopment.",
@@ -1111,65 +1150,6 @@
           "headline": "Industrial Growth Partners sells Prince & Izant to TransDigm for $1.066B, marking major growth since 2022 acquisition.",
           "url": "https://pluang.com/en/news-feed/industrial-growth-partners-selesaikan-penjualan-prince-izant-ke-transdigm",
           "published_at": "2026-09-29T13:24:14"
-        }
-      ]
-    },
-    {
-      "event_id": 1565,
-      "title": "Union Pacific stock reports an earnings beat as merger review advances",
-      "summary": "Union Pacific (UNP) reported an earnings beat in its second quarter, with revenue reaching $6.86 billion against a $6.72 billion consensus and EPS at $3.41 versus $3.26 expected. The Surface Transportation Board has allowed the review of its proposed merger with Norfolk Southern to proceed, with a target completion in the second half of 2027. UBS upgraded UNP to Buy with a $339 price target, citing potential transcontinental network benefits and projected intermodal volume growth.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 74,
-      "published_at": "2026-09-29T13:19:07",
-      "first_seen_at": "2026-09-29T15:00:03.121107",
-      "assets": [
-        {
-          "symbol": "UNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.411226,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.613949,
-          "sentiment_score": 0.2094,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949001
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.942597
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.835257
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.73382
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1722,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Union Pacific stock reports an earnings beat as merger review advances",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-reports-an-earnings-beat-as-merger-review-advances/70198709",
-          "published_at": "2026-09-29T13:19:07"
         }
       ]
     }
