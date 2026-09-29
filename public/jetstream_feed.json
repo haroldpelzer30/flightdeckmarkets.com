@@ -5,6 +5,262 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1573,
+      "title": "Freeport-McMoRan (NYSE:FCX) Slips as Copper Retreats From Record Highs",
+      "summary": "Freeport-McMoRan (NYSE:FCX) shares declined as copper futures retreated from recent record highs, influenced by rising Treasury yields, a stronger dollar, and concerns over surging oil prices impacting industrial demand. The company, a major copper producer, is highly sensitive to copper price fluctuations, with its Grasberg operations and domestic leaching efforts central to its production strategy. The article highlights the complex interplay of macro-economic factors affecting the metals market and Freeport-McMoRan's position within it.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-09-29T16:58:35",
+      "first_seen_at": "2026-09-29T18:00:01.808437",
+      "assets": [
+        {
+          "symbol": "FCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.337685,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.904315
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.83322
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.701197
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1730,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Freeport-McMoRan (NYSE:FCX) Slips as Copper Retreats From Record Highs",
+          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/freeport-mcmoran-nysefcx-slips-as-copper-retreats-from-record-highs",
+          "published_at": "2026-09-29T16:58:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1574,
+      "title": "Royal Caribbean Cruises Ltd Stock (RCL) Moved Up by 5.80% on Sep 29: What Signal Does It Send?",
+      "summary": "Royal Caribbean Cruises Ltd (RCL) saw its stock rise by 5.80% on September 29, outperforming its sector. This surge was primarily driven by strong earnings from competitor Carnival Corp, which indicated resilient consumer demand for cruises, and by several Wall Street banks upgrading Royal Caribbean's stock due to attractive valuations after a recent pullback. Additionally, strategic expansions into luxury land-based resorts are reinforcing investor confidence in the company's long-term growth prospects.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-29T16:21:38",
+      "first_seen_at": "2026-09-29T18:00:02.086099",
+      "assets": [
+        {
+          "symbol": "RCL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.409002,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CCL",
+          "asset_class": null,
+          "relevance_score": 0.894532,
+          "sentiment_score": 0.331129,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WBD",
+          "asset_class": null,
+          "relevance_score": 0.629953,
+          "sentiment_score": 0.127022,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.588487,
+          "sentiment_score": 0.26634,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90909
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801841
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.631281
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.627413
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1731,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Royal Caribbean Cruises Ltd Stock (RCL) Moved Up by 5.80% on Sep 29: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262192432-market-movers-rcl-20260929",
+          "published_at": "2026-09-29T16:21:38"
+        }
+      ]
+    },
+    {
+      "event_id": 1575,
+      "title": "Kimberly-Clark Pays Out Almost Everything It Earns. Can the Dividend Survive the Kenvue Deal?",
+      "summary": "Kimberly-Clark (KMB) faces a significant challenge to its dividend sustainability, despite a long history of dividend raises, due to its pending $48.7 billion acquisition of Kenvue. The company's free cash flow in 2025 already fell short of its dividend payments, and its payout ratio is very high. The integration costs and debt service from the Kenvue deal could further strain KMB's finances, putting its multi-decade dividend raise streak in jeopardy for 2027.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-29T16:17:47",
+      "first_seen_at": "2026-09-29T18:00:02.379549",
+      "assets": [
+        {
+          "symbol": "KMB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.275404,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KVUE",
+          "asset_class": null,
+          "relevance_score": 0.876093,
+          "sentiment_score": -0.136745,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PG",
+          "asset_class": null,
+          "relevance_score": 0.653425,
+          "sentiment_score": 0.122647,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STZ",
+          "asset_class": null,
+          "relevance_score": 0.561067,
+          "sentiment_score": -0.148258,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.923438
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.90587
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.832061
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.726191
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1732,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Kimberly-Clark Pays Out Almost Everything It Earns. Can the Dividend Survive the Kenvue Deal?",
+          "url": "https://247wallst.com/investing/2026/09/29/kimberly-clark-pays-out-almost-everything-it-earns-can-the-dividend-survive-the-kenvue-deal/",
+          "published_at": "2026-09-29T16:17:47"
+        }
+      ]
+    },
+    {
+      "event_id": 1576,
+      "title": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
+      "summary": "Stellantis stock fell 4% due to an unresolved Canadian labor dispute with Unifor, centered on the future of the idled Brampton Assembly Plant. While Stellantis faces significant pressure, with its stock down 60% year-to-date, Ford and General Motors experienced only minor dips, indicating the market damage is currently concentrated on Stellantis. A potential strike could extend beyond the Brampton plant to active Stellantis facilities, further impacting the company's stock, though a settlement could alleviate this risk.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 66,
+      "published_at": "2026-09-29T16:05:58",
+      "first_seen_at": "2026-09-29T18:00:02.713609",
+      "assets": [
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.990031,
+          "sentiment_score": -0.20691,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.883949,
+          "sentiment_score": -0.247418,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92231
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.803851
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.720679
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.64157
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1733,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
+          "url": "https://247wallst.com/investing/2026/09/29/stellantis-falls-4-with-canadian-labor-standoff-unresolved-ford-and-general-motors-dip/",
+          "published_at": "2026-09-29T16:05:58"
+        }
+      ]
+    },
+    {
       "event_id": 1570,
       "title": "Target cuts prices on thousands of items ahead of holidays",
       "summary": "Target is reducing prices on nearly 2,000 items in anticipation of a value-driven holiday shopping season, building on over 10,000 price cuts from the past year. This move aims to appeal to inflation-weary consumers, particularly in apparel and home categories which have seen sluggish sales. The retailer is also planning a \"Circle Deal Days\" event to compete with Amazon's upcoming sales.",
@@ -866,198 +1122,6 @@
           "headline": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
           "url": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e",
           "published_at": "2026-09-29T11:03:42"
-        }
-      ]
-    },
-    {
-      "event_id": 1552,
-      "title": "Moody's Mark Zandi says AI-powered economic growth could help the US tackle its huge $40 trillion debt",
-      "summary": "Moody's Analytics chief economist Mark Zandi suggests that AI-powered economic growth could significantly help the U.S. address its escalating $40 trillion national debt by boosting productivity and tax revenues. While AI offers a rosier outlook for fiscal improvement, Zandi and other economists, like Ben Harris from the Brookings Institution, caution that it won't eliminate the need for difficult policy decisions regarding taxation and mandatory spending programs like Social Security and Medicare. The Congressional Budget Office, however, remains less optimistic about AI's potential impact on productivity growth.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-29T11:01:40",
-      "first_seen_at": "2026-09-29T12:00:03.079204",
-      "assets": [
-        {
-          "symbol": "MCO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.429943,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.937289
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.844002
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.736532
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.637842
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1708,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Moody's Mark Zandi says AI-powered economic growth could help the US tackle its huge $40 trillion debt",
-          "url": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-says-ai-110000510.html",
-          "published_at": "2026-09-29T11:01:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1553,
-      "title": "K-shaped wealth gap pauses for first time in three years, Equifax data shows",
-      "summary": "New data from Equifax's Q2 2026 Market Pulse Index indicates a pause in the widening K-shaped wealth gap, marking the first such shift in three years. The report shows a modest improvement in consumer financial health, with the most vulnerable segment shrinking and top-tier groups expanding. This development contrasts with persistently low consumer sentiment, highlighting a disconnect between public perception and measurable financial reality, and emphasizing the importance of asset accumulation over credit scores for financial resilience.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-29T10:44:56",
-      "first_seen_at": "2026-09-29T12:00:03.316578",
-      "assets": [
-        {
-          "symbol": "EFX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.210741,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.90086
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.800696
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1709,
-          "provider": "ALPHA_VANTAGE",
-          "source": "InvestmentNews",
-          "source_domain": "InvestmentNews",
-          "headline": "K-shaped wealth gap pauses for first time in three years, Equifax data shows",
-          "url": "https://www.investmentnews.com/practice-management/k-shaped-wealth-gap-pauses-for-first-time-in-three-years-equifax-data-shows/268387",
-          "published_at": "2026-09-29T10:44:56"
-        }
-      ]
-    },
-    {
-      "event_id": 1554,
-      "title": "With $57.5 million in trust, Westin Acquisition (WSTN) agrees to a business combination.",
-      "summary": "Westin Acquisition Corp. (WSTN) has announced a definitive business combination agreement with First Choice Healthcare Solutions, Inc. and First Choice Acquisition Corp., valuing First Choice at up to $650 million. The blank-check company, which raised $57.5 million in its IPO, has placed these net proceeds in a trust account for public shareholders and is now focused solely on completing this proposed transaction. The combination involves Westin Acquisition Corp. domesticating as a Nevada corporation, becoming \"Wellgevity 360, Inc.\" or \"PubCo,\" before merging with First Choice Healthcare Solutions, Inc.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-29T10:30:32",
-      "first_seen_at": "2026-09-29T12:00:03.521245",
-      "assets": [
-        {
-          "symbol": "WSTNR",
-          "asset_class": null,
-          "relevance_score": 0.805536,
-          "sentiment_score": 0.247676,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "ipo",
-          "relevance_score": 0.913797
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.721199
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1710,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "With $57.5 million in trust, Westin Acquisition (WSTN) agrees to a business combination.",
-          "url": "https://www.stocktitan.net/sec-filings/WSTN/10-k-westin-acquisition-corp-files-annual-report-6bb315f60245.html",
-          "published_at": "2026-09-29T10:30:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1548,
-      "title": "Virginia gets better Dominion-NextEra merger deal than South Carolina",
-      "summary": "Virginia is receiving a better deal than South Carolina in the proposed $67 billion merger between Dominion Energy and NextEra Energy. Virginia's expanded benefits package includes four years of monthly bill credits and additional low-income assistance, compared to only two years of credits for South Carolina customers. This disparity is attributed to Virginia's more vocal state leadership pushing for concessions, while South Carolina's governor and officials have been less engaged.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 63,
-      "published_at": "2026-09-28T22:12:50",
-      "first_seen_at": "2026-09-29T00:00:02.443050",
-      "assets": [
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.110061,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.903784,
-          "sentiment_score": 0.136339,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.82932
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1704,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WRDW",
-          "source_domain": "WRDW",
-          "headline": "Virginia gets better Dominion-NextEra merger deal than South Carolina",
-          "url": "https://www.wrdw.com/2026/09/28/virginia-gets-better-dominion-nextera-merger-deal-than-south-carolina/",
-          "published_at": "2026-09-28T22:12:50"
         }
       ]
     }
