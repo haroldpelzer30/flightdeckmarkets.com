@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1583,
+      "title": "House Targets Hyperliquid in Insider Trading Probe, Cites $1.1B Crypto Short Before Trump Tariffs",
+      "summary": "The House Oversight Committee has expanded its insider trading investigation to include Hyperliquid Labs, Crypto.com, and Aristotle Exchange, focusing on a $1.1 billion crypto short position opened on Hyperliquid before former President Trump announced new tariffs on China. The probe questions Hyperliquid's identity verification processes and its ability to detect suspicious trading activities. This inquiry follows a previous investigation into Polymarket and Kalshi, and concerns a trader who profited over $150 million from the short position.",
+      "event_type": "GEOPOLITICAL",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-29T18:53:40",
+      "first_seen_at": "2026-09-29T21:00:02.318945",
+      "assets": [
+        {
+          "symbol": "PURR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.4185,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.634619,
+          "sentiment_score": -0.312694,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.902655
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831192
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.722829
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1740,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "House Targets Hyperliquid in Insider Trading Probe, Cites $1.1B Crypto Short Before Trump Tariffs",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62061946/hyperliquid-insider-trading-probe-crypto-short",
+          "published_at": "2026-09-29T18:53:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1584,
+      "title": "Disney lays off a few hundred more employees",
+      "summary": "The Walt Disney Co. is conducting another round of layoffs, affecting a few hundred employees primarily in human resources and information technology divisions. This follows previous job cuts earlier in the year, as the company continues to evaluate reductions in labor and administrative expenses under CEO Josh D’Amaro. Disney had approximately 231,000 employees globally at the end of fiscal 2025.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-29T18:50:50",
+      "first_seen_at": "2026-09-29T21:00:02.607745",
+      "assets": [
+        {
+          "symbol": "DIS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.205547,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.90834
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.848998
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.723546
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.615201
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1741,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Washington Times",
+          "source_domain": "Washington Times",
+          "headline": "Disney lays off a few hundred more employees",
+          "url": "https://www.washingtontimes.com/news/2026/sep/29/disney-lays-hundred-employees/",
+          "published_at": "2026-09-29T18:50:50"
+        }
+      ]
+    },
+    {
       "event_id": 1582,
       "title": "ACV stockholders seek to block Copart acquisition - Buffalo Business First",
       "summary": "ACV stockholders have filed complaints seeking to block the company's acquisition by Copart. The complaints allege that the filings made to federal regulators are misleading or omit crucial details about the proposed transaction. ACV, however, states that these allegations are without merit.",
@@ -1052,104 +1162,6 @@
           "headline": "No business was conducted at Columbus Acquisition's meeting; it reconvenes Sept. 30.",
           "url": "https://www.stocktitan.net/news/COLA/columbus-acquisition-corp-announces-adjournment-of-reconvened-ngg849s79nb9.html",
           "published_at": "2026-09-29T13:28:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1563,
-      "title": "TransDigm acquires Prince & Izant for $1.066 billion By Investing.com",
-      "summary": "TransDigm Group Incorporated has acquired Prince & Izant, LLC for $1.066 billion from Industrial Growth Partners (IGP). Prince & Izant, founded in 1927, specializes in manufacturing specialty metal alloys and components for various industries, including aerospace and defense. This acquisition marks the second platform investment for IGP's sixth fund, highlighting the growth achieved by Prince & Izant under IGP's ownership through strategic guidance and three previous acquisitions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-09-29T13:27:13",
-      "first_seen_at": "2026-09-29T15:00:02.629434",
-      "assets": [
-        {
-          "symbol": "TDG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.47729,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.802141
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.746242
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.61415
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1720,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Canada",
-          "source_domain": "Investing.com Canada",
-          "headline": "TransDigm acquires Prince & Izant for $1.066 billion By Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/transdigm-acquires-prince--izant-for-1066-billion-93CH-4858147",
-          "published_at": "2026-09-29T13:27:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1564,
-      "title": "Industrial Growth Partners sells Prince & Izant to TransDigm for $1.066B, marking major growth since 2022 acquisition.",
-      "summary": "Industrial Growth Partners (IGP) has sold Prince & Izant, a specialty materials company, to TransDigm Group for $1.066 billion. Since acquiring Prince & Izant in 2022, IGP significantly grew the company's product range, market presence, and manufacturing capabilities, doubling its EBITDA. The sale underscores Prince & Izant's strengthened position in key markets like aerospace and medical, with TransDigm expected to facilitate further growth.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-29T13:24:14",
-      "first_seen_at": "2026-09-29T15:00:02.890643",
-      "assets": [
-        {
-          "symbol": "TDG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.413764,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.844622
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.738748
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1721,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "Industrial Growth Partners sells Prince & Izant to TransDigm for $1.066B, marking major growth since 2022 acquisition.",
-          "url": "https://pluang.com/en/news-feed/industrial-growth-partners-selesaikan-penjualan-prince-izant-ke-transdigm",
-          "published_at": "2026-09-29T13:24:14"
         }
       ]
     }
