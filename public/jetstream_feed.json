@@ -5,6 +5,53 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1615,
+      "title": "Standard BioTools Announces Termination of Multiplex Bio Deal, Enters Agreement to Sell Mass Cytometry Business to Element Biosystems Ahead of Treeline Merger",
+      "summary": "Standard BioTools Inc. has terminated its agreement with Multiplex Bio and instead entered into a definitive agreement to sell its Mass Cytometry Business to Element Biosystems, LLC for $5.5 million in cash. This new deal, spurred by an unsolicited proposal from GMT Venture Partners, is considered superior and will significantly enhance Standard BioTools' cash position by approximately $15 million. The transaction is expected to close by the end of 2026, concurrently with the company's merger with Treeline Biosciences, pending stockholder approval.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-30T20:49:43",
+      "first_seen_at": "2026-09-30T22:00:02.473270",
+      "assets": [
+        {
+          "symbol": "LAB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.305264,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.935492
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.80958
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.729558
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1776,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Standard BioTools Announces Termination of Multiplex Bio Deal, Enters Agreement to Sell Mass Cytometry Business to Element Biosystems Ahead of Treeline Merger",
+          "url": "https://www.quiverquant.com/news/Standard+BioTools+Announces+Termination+of+Multiplex+Bio+Deal%2C+Enters+Agreement+to+Sell+Mass+Cytometry+Business+to+Element+Biosystems+Ahead+of+Treeline+Merger",
+          "published_at": "2026-09-30T20:49:43"
+        }
+      ]
+    },
+    {
       "event_id": 1614,
       "title": "Crude Oil Rises Over 1%; Conagra Brands Earnings Top Views",
       "summary": "US stocks showed mixed results, with the Dow Jones index falling while NASDAQ and S&P 500 rose. Conagra Brands (NYSE: CAG) reported better-than-expected Q1 earnings, while several other companies saw significant stock movements based on corporate announcements and analyst ratings. Commodities like oil and gold experienced gains, European markets were lower, and Asian markets closed mostly higher.",
@@ -1098,85 +1145,6 @@
           "headline": "ADP National Employment Report: Private-Sector Employment Increased by 90,000 Jobs in September",
           "url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September",
           "published_at": "2026-09-30T12:17:19"
-        }
-      ]
-    },
-    {
-      "event_id": 1596,
-      "title": "Premarket movers: Micron; Boeing rises, Moderna slides",
-      "summary": "U.S. stock index futures were largely flat on Wednesday as investors awaited key inflation data and Micron's earnings. Boeing surged after securing a major contract for the Navy's F/A-XX fighter, while Moderna slid following a downgrade from Citi. Concentrix plunged after disappointing revenue guidance, and Trulieve Cannabis also fell despite a new licensing agreement.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 68,
-      "published_at": "2026-09-30T12:13:10",
-      "first_seen_at": "2026-09-30T14:00:02.654793",
-      "assets": [
-        {
-          "symbol": "MRNA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.476404,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BA",
-          "asset_class": null,
-          "relevance_score": 0.91389,
-          "sentiment_score": 0.419482,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.73668,
-          "sentiment_score": 0.101946,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOC",
-          "asset_class": null,
-          "relevance_score": 0.618629,
-          "sentiment_score": 0.1579,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912731
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.912073
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.802904
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.73035
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.720082
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1753,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Premarket movers: Micron; Boeing rises, Moderna slides",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-micron-boeing-rises-120240949.html",
-          "published_at": "2026-09-30T12:13:10"
         }
       ]
     }
