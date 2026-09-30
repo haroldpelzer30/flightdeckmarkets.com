@@ -5,6 +5,151 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1600,
+      "title": "Fox Corporation stock gains 1.23 percent in trading",
+      "summary": "Fox Corporation (FOXA) stock increased by 1.23% to EUR 55.78 at Lang & Schwarz. This gain follows strong fiscal 2026 results, with revenue up 5% to USD 17.13 billion, despite regulatory delays for its planned acquisition of Roku. Analysts have set price targets for Fox Class A shares ranging from USD 82.00 to USD 95.00.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-30T14:34:17",
+      "first_seen_at": "2026-09-30T16:00:02.724196",
+      "assets": [
+        {
+          "symbol": "FOXA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.464797,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94284
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.812639
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.802774
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.712936
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1757,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Fox Corporation stock gains 1.23 percent in trading",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-gains-1-23-percent-in-trading/70205038",
+          "published_at": "2026-09-30T14:34:17"
+        }
+      ]
+    },
+    {
+      "event_id": 1601,
+      "title": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans.",
+      "summary": "Essential Utilities (WTRG) is implementing new employee policies as part of its merger integration with American Water, including a ban on cell phone use while driving on the job, even with hands-free devices, effective on Day 1 of the combined organization. The company also plans to phase out its personal-use company vehicle program by December 31, 2028. The merger is expected to close by the end of the first quarter of 2027, with further organizational role selections and system alignments continuing post-closing.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-09-30T14:28:16",
+      "first_seen_at": "2026-09-30T16:00:03.010940",
+      "assets": [
+        {
+          "symbol": "WTRG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.107299,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AWK",
+          "asset_class": null,
+          "relevance_score": 0.818992,
+          "sentiment_score": 0.114614,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1758,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans.",
+          "url": "https://www.stocktitan.net/sec-filings/WTRG/425-essential-utilities-inc-business-combination-communication-f6b8db39da43.html",
+          "published_at": "2026-09-30T14:28:16"
+        }
+      ]
+    },
+    {
+      "event_id": 1602,
+      "title": "Hormel Acquires Chicken Processor for $1B",
+      "summary": "Hormel Foods Corp. announced its acquisition of Brakebush Brothers LLC, a family-owned chicken processor, for $1.055 billion. This move strengthens Hormel's position in the value-added chicken and foodservice sectors. Brakebush, with $1.2 billion in net sales, five production facilities, and two R&D labs, will help Hormel better serve national and regional operators with high-quality chicken products.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-30T14:20:58",
+      "first_seen_at": "2026-09-30T16:00:03.242490",
+      "assets": [
+        {
+          "symbol": "HRL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.466396,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.731124
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.644971
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1759,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Meatingplace",
+          "source_domain": "Meatingplace",
+          "headline": "Hormel Acquires Chicken Processor for $1B",
+          "url": "https://meatingplace.com/hormel-acquires-chicken-processor-for-1b/",
+          "published_at": "2026-09-30T14:20:58"
+        }
+      ]
+    },
+    {
       "event_id": 1597,
       "title": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
       "summary": "Conagra Brands discussed its Q1 FY27 earnings, reaffirming its full-year outlook despite a beat in Q1 driven by SG&A timing, Ardent Mills benefit, lower inflation, and a tariff refund. The company outlined its strategy for managing higher transportation inflation, deleveraging to a 3x target, and optimizing its product portfolio through SKU simplification and increased A&P spending. Conagra emphasized a prudent approach to elasticity assumptions and a focus on core platforms and brand building.",
@@ -876,203 +1021,6 @@
           "headline": "NexMetals Mining Stock Slides 6.27% as Metals Selloff Tests Sentiment Despite High-Grade Botswana Drilling",
           "url": "https://kalkine.ca/news/mining/nexmetals-mining-stock-slides-627-as-metals-selloff-tests-sentiment-despite-high-grade-botswana-drilling",
           "published_at": "2026-09-29T17:39:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1578,
-      "title": "Exclusive-US lawmakers including Sen. Warren push energy regulators to reject acquisition of power company AES",
-      "summary": "A group of U.S. lawmakers, led by Senator Elizabeth Warren, has urged federal energy regulators to reject the proposed $33 billion acquisition of power company AES by a BlackRock subsidiary and its partners. They argue that the deal could increase electricity bills for consumers and prioritize data centers at the expense of utility customers. This push comes amidst record electricity demand driven by data centers and a surge in power sector mergers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "HIGH",
-      "intelligence_score": 80,
-      "published_at": "2026-09-29T17:25:55",
-      "first_seen_at": "2026-09-29T19:00:02.218982",
-      "assets": [
-        {
-          "symbol": "AES",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.428657,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BLK",
-          "asset_class": null,
-          "relevance_score": 0.740845,
-          "sentiment_score": -0.44734,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQT",
-          "asset_class": null,
-          "relevance_score": 0.60081,
-          "sentiment_score": -0.31042,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.90763
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.704479
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.623862
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1735,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Exclusive-US lawmakers including Sen. Warren push energy regulators to reject acquisition of power company AES",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveus-lawmakers-including-sen-warren-push-energy-regulators-to-reject-acquisition-of-power-company-aes-4923221",
-          "published_at": "2026-09-29T17:25:55"
-        }
-      ]
-    },
-    {
-      "event_id": 1579,
-      "title": "Southern Company (NYSE:SO) in Focus as Data Center Demand Meets Rising Yields",
-      "summary": "Southern Company (NYSE:SO) is experiencing rapid growth in data center demand across Georgia and Alabama, leading to a significant increase in its multi-year capital spending plan. Despite this operational strength, the company's shares have edged lower due to rising Treasury yields, which pressure dividend-oriented utility stocks. The article highlights how Southern Company's position at the intersection of surging electricity demand from AI and rising borrowing costs makes its financing conditions crucial for share performance.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 78,
-      "published_at": "2026-09-29T17:13:43",
-      "first_seen_at": "2026-09-29T19:00:02.506098",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 0.991546,
-          "sentiment_score": 0.060009,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DLR",
-          "asset_class": null,
-          "relevance_score": 0.631983,
-          "sentiment_score": 0.106277,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EQIX",
-          "asset_class": null,
-          "relevance_score": 0.558249,
-          "sentiment_score": 0.118165,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.937084
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.92077
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.818057
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.802307
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.730509
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1736,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Southern Company (NYSE:SO) in Focus as Data Center Demand Meets Rising Yields",
-          "url": "https://kalkinemedia.com/us/stocks/utility/southern-company-nyseso-in-focus-as-data-center-demand-meets-rising-yields",
-          "published_at": "2026-09-29T17:13:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1580,
-      "title": "Constellation Energy: Premium Company At A Premium Price (NASDAQ:CEG)",
-      "summary": "Constellation Energy (CEG) is the largest independent power producer, known for its conservative strategy and high visibility of earnings through 2028. Despite its strong position, the company trades at a premium valuation compared to peers like VST and TLN, which offer higher growth at lower multiples. The author maintains a Sell rating due to limited upside potential for CEG compared to its competitors.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-29T17:03:57",
-      "first_seen_at": "2026-09-29T19:00:02.888168",
-      "assets": [
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.948156,
-          "sentiment_score": 0.045211,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 0.605301,
-          "sentiment_score": 0.31751,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923424
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.918772
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.848668
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.734882
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1737,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "Constellation Energy: Premium Company At A Premium Price (NASDAQ:CEG)",
-          "url": "https://seekingalpha.com/article/4950743-constellation-energy-premium-company-at-a-premium-price",
-          "published_at": "2026-09-29T17:03:57"
         }
       ]
     }
