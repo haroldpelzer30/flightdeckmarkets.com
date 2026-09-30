@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1603,
+      "title": "Salesforce up 3.2% after announcing Listen Labs acquisition",
+      "summary": "Salesforce Inc. shares rose 3.2% after the company announced its acquisition of Listen Labs, an AI-powered customer research and human simulation platform. This acquisition will enhance Salesforce's customer understanding capabilities, integrating with its Marketing Cloud, Service Cloud, and broader AI portfolio. Listen Labs' technology uses AI agents to conduct and synthesize customer research rapidly, drawing from a global network of participants and utilizing digital twins for simulated customer responses.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-09-30T16:11:57",
+      "first_seen_at": "2026-09-30T17:00:02.184619",
+      "assets": [
+        {
+          "symbol": "CRM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.471488,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.903649
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.817215
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.742086
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.607475
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1760,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Proactive financial news",
+          "source_domain": "Proactive financial news",
+          "headline": "Salesforce up 3.2% after announcing Listen Labs acquisition",
+          "url": "https://www.proactiveinvestors.com/companies/news/1099393/salesforce-up-3-2-after-announcing-listen-labs-acquisition-1099393.html",
+          "published_at": "2026-09-30T16:11:57"
+        }
+      ]
+    },
+    {
+      "event_id": 1604,
+      "title": "$67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say",
+      "summary": "Democratic lawmakers are expressing concerns that the proposed $67 billion merger between NextEra Energy and Dominion Energy could lead to higher electricity prices and reduced competition. In a letter to FERC, they urged close scrutiny of the deal, fearing the enlarged company would gain excessive market power, potentially raising costs for consumers and hindering grid upgrades. The lawmakers also questioned the companies' promises of bill credits, citing past instances where such savings failed to materialize after mergers.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 71,
+      "published_at": "2026-09-30T16:00:57",
+      "first_seen_at": "2026-09-30T17:00:02.490219",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.279728,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.99202,
+          "sentiment_score": -0.216296,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.92747
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.844824
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.646504
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1761,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CBS News",
+          "source_domain": "CBS News",
+          "headline": "$67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say",
+          "url": "https://www.cbsnews.com/news/nextera-dominion-merger-utility-prices/",
+          "published_at": "2026-09-30T16:00:57"
+        }
+      ]
+    },
+    {
       "event_id": 1600,
       "title": "Fox Corporation stock gains 1.23 percent in trading",
       "summary": "Fox Corporation (FOXA) stock increased by 1.23% to EUR 55.78 at Lang & Schwarz. This gain follows strong fiscal 2026 results, with revenue up 5% to USD 17.13 billion, despite regulatory delays for its planned acquisition of Roku. Analysts have set price targets for Fox Class A shares ranging from USD 82.00 to USD 95.00.",
@@ -939,88 +1045,6 @@
           "headline": "Disney lays off a few hundred more employees",
           "url": "https://www.washingtontimes.com/news/2026/sep/29/disney-lays-hundred-employees/",
           "published_at": "2026-09-29T18:50:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1582,
-      "title": "ACV stockholders seek to block Copart acquisition - Buffalo Business First",
-      "summary": "ACV stockholders have filed complaints seeking to block the company's acquisition by Copart. The complaints allege that the filings made to federal regulators are misleading or omit crucial details about the proposed transaction. ACV, however, states that these allegations are without merit.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-29T18:11:08",
-      "first_seen_at": "2026-09-29T20:00:02.093909",
-      "assets": [
-        {
-          "symbol": "CPRT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.001536,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1739,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "ACV stockholders seek to block Copart acquisition - Buffalo Business First",
-          "url": "https://www.bizjournals.com/buffalo/news/2026/09/29/acv-stockholders-copart-acquisition-complaints.html",
-          "published_at": "2026-09-29T18:11:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1577,
-      "title": "NexMetals Mining Stock Slides 6.27% as Metals Selloff Tests Sentiment Despite High-Grade Botswana Drilling",
-      "summary": "NexMetals Mining (TSXV:NEXM) shares dropped 6.27% despite recent positive high-grade copper-nickel drilling results from its Selebi Main deposit in Botswana. The decline is attributed to broader weakness in the mining sector, profit-taking, and a reevaluation of valuations, rather than a negative operational announcement. The company, focused on redeveloping past-producing assets, faces risks related to exploration uncertainty, financing, and commodity price volatility, with its outlook dependent on converting geological success into economically viable redevelopment.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-09-29T17:39:17",
-      "first_seen_at": "2026-09-29T19:00:02.005010",
-      "assets": [
-        {
-          "symbol": "NEXM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.410598,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.817057
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1734,
-          "provider": "ALPHA_VANTAGE",
-          "source": "kalkine.ca",
-          "source_domain": "kalkine.ca",
-          "headline": "NexMetals Mining Stock Slides 6.27% as Metals Selloff Tests Sentiment Despite High-Grade Botswana Drilling",
-          "url": "https://kalkine.ca/news/mining/nexmetals-mining-stock-slides-627-as-metals-selloff-tests-sentiment-despite-high-grade-botswana-drilling",
-          "published_at": "2026-09-29T17:39:17"
         }
       ]
     }
