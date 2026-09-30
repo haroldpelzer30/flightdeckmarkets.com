@@ -5,6 +5,218 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1593,
+      "title": "W.R. Berkley stock reports a quarterly earnings beat",
+      "summary": "W.R. Berkley stock reported a quarterly earnings beat for Q2 2026, with operating EPS of USD 1.27 surpassing the USD 1.08 consensus and revenue reaching USD 3.72 billion against a USD 3.28 billion consensus. Despite the strong performance, Zacks Research cut its Q4 2026 EPS forecast, indicating more cautious estimates moving forward. The company has also declared a quarterly dividend and is scheduled to release its Q3 2026 earnings on October 19, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-30T12:48:29",
+      "first_seen_at": "2026-09-30T14:00:01.958130",
+      "assets": [
+        {
+          "symbol": "WRB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.302474,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907279
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.611363
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1750,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "W.R. Berkley stock reports a quarterly earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-r-berkley-stock-reports-a-quarterly-earnings-beat/70204484",
+          "published_at": "2026-09-30T12:48:29"
+        }
+      ]
+    },
+    {
+      "event_id": 1594,
+      "title": "Norfolk Southern stock faces a longer merger review timeline",
+      "summary": "Norfolk Southern (NSC) faces an extended merger review timeline after the Surface Transportation Board (STB) allowed the Union Pacific combination to proceed to a fuller review. While the decision keeps the transaction alive, it does not guarantee approval, with comments due in November 2026 and responses by February 2027, pushing expected completion into the second half of 2027. Despite Q2 2026 revenue of $3.46 billion and diluted EPS of $3.26, the company faces headwinds from higher fuel costs and its stock trades below its yearly high, with analysts holding a \"Hold\" consensus.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-09-30T12:34:32",
+      "first_seen_at": "2026-09-30T14:00:02.179604",
+      "assets": [
+        {
+          "symbol": "NSC",
+          "asset_class": null,
+          "relevance_score": 0.345227,
+          "sentiment_score": 0.007569,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.949551
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.92481
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.836644
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.710661
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1751,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Norfolk Southern stock faces a longer merger review timeline",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-faces-a-longer-merger-review-timeline/70204406",
+          "published_at": "2026-09-30T12:34:32"
+        }
+      ]
+    },
+    {
+      "event_id": 1595,
+      "title": "ADP National Employment Report: Private-Sector Employment Increased by 90,000 Jobs in September",
+      "summary": "Private-sector employment in the U.S. saw an increase of 90,000 jobs in September, rebounding after a three-month slowdown, according to the ADP National Employment Report. This growth was notably driven by the education and health care and leisure and hospitality sectors, while financial activities and professional and business services showed weakness. Base pay for private-sector workers rose by 3.2%, and gross pay increased by 4.7% year over year, with job-changers experiencing higher pay growth than job-stayers.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-09-30T12:17:19",
+      "first_seen_at": "2026-09-30T14:00:02.430499",
+      "assets": [
+        {
+          "symbol": "ADP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.300069,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 1.0
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1752,
+          "provider": "ALPHA_VANTAGE",
+          "source": "ADP Media Center",
+          "source_domain": "ADP Media Center",
+          "headline": "ADP National Employment Report: Private-Sector Employment Increased by 90,000 Jobs in September",
+          "url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September",
+          "published_at": "2026-09-30T12:17:19"
+        }
+      ]
+    },
+    {
+      "event_id": 1596,
+      "title": "Premarket movers: Micron; Boeing rises, Moderna slides",
+      "summary": "U.S. stock index futures were largely flat on Wednesday as investors awaited key inflation data and Micron's earnings. Boeing surged after securing a major contract for the Navy's F/A-XX fighter, while Moderna slid following a downgrade from Citi. Concentrix plunged after disappointing revenue guidance, and Trulieve Cannabis also fell despite a new licensing agreement.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 68,
+      "published_at": "2026-09-30T12:13:10",
+      "first_seen_at": "2026-09-30T14:00:02.654793",
+      "assets": [
+        {
+          "symbol": "MRNA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.476404,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BA",
+          "asset_class": null,
+          "relevance_score": 0.91389,
+          "sentiment_score": 0.419482,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.73668,
+          "sentiment_score": 0.101946,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NOC",
+          "asset_class": null,
+          "relevance_score": 0.618629,
+          "sentiment_score": 0.1579,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912731
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.912073
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.802904
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.73035
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.720082
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1753,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Premarket movers: Micron; Boeing rises, Moderna slides",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-micron-boeing-rises-120240949.html",
+          "published_at": "2026-09-30T12:13:10"
+        }
+      ]
+    },
+    {
       "event_id": 1591,
       "title": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
       "summary": "This article provides a list of recent 8-K filings by Inflection Point Acquisition Corp. VI Units (IPFXU), detailing material events reported to the SEC. Key filings include announcements regarding its SPAC merger with Quantum Space, valued at approximately $1.2 billion, the separate trading of its Class A ordinary shares and warrants, and the completion of its $253 million SPAC IPO. The filings also provide financial details and expected timelines for these corporate actions.",
@@ -909,226 +1121,6 @@
           "headline": "Kimberly-Clark Pays Out Almost Everything It Earns. Can the Dividend Survive the Kenvue Deal?",
           "url": "https://247wallst.com/investing/2026/09/29/kimberly-clark-pays-out-almost-everything-it-earns-can-the-dividend-survive-the-kenvue-deal/",
           "published_at": "2026-09-29T16:17:47"
-        }
-      ]
-    },
-    {
-      "event_id": 1576,
-      "title": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
-      "summary": "Stellantis stock fell 4% due to an unresolved Canadian labor dispute with Unifor, centered on the future of the idled Brampton Assembly Plant. While Stellantis faces significant pressure, with its stock down 60% year-to-date, Ford and General Motors experienced only minor dips, indicating the market damage is currently concentrated on Stellantis. A potential strike could extend beyond the Brampton plant to active Stellantis facilities, further impacting the company's stock, though a settlement could alleviate this risk.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 66,
-      "published_at": "2026-09-29T16:05:58",
-      "first_seen_at": "2026-09-29T18:00:02.713609",
-      "assets": [
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.990031,
-          "sentiment_score": -0.20691,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.883949,
-          "sentiment_score": -0.247418,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92231
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.803851
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.720679
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.64157
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1733,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
-          "url": "https://247wallst.com/investing/2026/09/29/stellantis-falls-4-with-canadian-labor-standoff-unresolved-ford-and-general-motors-dip/",
-          "published_at": "2026-09-29T16:05:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1570,
-      "title": "Target cuts prices on thousands of items ahead of holidays",
-      "summary": "Target is reducing prices on nearly 2,000 items in anticipation of a value-driven holiday shopping season, building on over 10,000 price cuts from the past year. This move aims to appeal to inflation-weary consumers, particularly in apparel and home categories which have seen sluggish sales. The retailer is also planning a \"Circle Deal Days\" event to compete with Amazon's upcoming sales.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-29T15:56:08",
-      "first_seen_at": "2026-09-29T17:00:01.978098",
-      "assets": [
-        {
-          "symbol": "TGT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.135127,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMZN",
-          "asset_class": null,
-          "relevance_score": 0.721595,
-          "sentiment_score": 0.140938,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.930858
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.827014
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1727,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Chain Store Age",
-          "source_domain": "Chain Store Age",
-          "headline": "Target cuts prices on thousands of items ahead of holidays",
-          "url": "https://chainstoreage.com/target-cuts-prices-thousands-items-ahead-holidays",
-          "published_at": "2026-09-29T15:56:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1571,
-      "title": "Can government bond markets regain their poise?",
-      "summary": "Government bond yields recently rose significantly due to strong economic activity and higher energy prices, leading investors to expect quicker central bank tightening. This week's inflation data from the US and Eurozone will be critical in determining if these pressures will continue, with analysts watching for signs of spreading price pressures beyond energy. UBS believes markets are over-pricing central bank tightening and sees tactical opportunities in high-quality fixed income, especially in medium- to long-duration exposure.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-29T15:31:06",
-      "first_seen_at": "2026-09-29T17:00:02.290165",
-      "assets": [
-        {
-          "symbol": "UBS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.04872,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.949365
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.844816
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.731465
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1728,
-          "provider": "ALPHA_VANTAGE",
-          "source": "UBS",
-          "source_domain": "UBS",
-          "headline": "Can government bond markets regain their poise?",
-          "url": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.3792859.html",
-          "published_at": "2026-09-29T15:31:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1572,
-      "title": "PPL vs. XEL: Which Utility Stock Offers Greater Long-Term Upside?",
-      "summary": "The article compares PPL Corporation (PPL) and Xcel Energy (XEL), two U.S.-regulated electric utilities, as investment opportunities in 2026. Both companies are investing significantly in grid modernization, clean energy, and infrastructure to meet rising electricity demand and decarbonization goals. While Xcel Energy shows a stronger return on equity, PPL is highlighted as the more compelling choice due to its relatively lower debt usage, more attractive valuation, and higher dividend yield.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-09-29T14:52:00",
-      "first_seen_at": "2026-09-29T17:00:02.541919",
-      "assets": [
-        {
-          "symbol": "PPL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.386128,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 0.959336,
-          "sentiment_score": 0.326813,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.946685
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914933
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.830583
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620595
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1729,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "PPL vs. XEL: Which Utility Stock Offers Greater Long-Term Upside?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-vs-xel-utility-stock-125200025.html",
-          "published_at": "2026-09-29T14:52:00"
         }
       ]
     }
