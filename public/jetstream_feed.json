@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1597,
+      "title": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
+      "summary": "Conagra Brands discussed its Q1 FY27 earnings, reaffirming its full-year outlook despite a beat in Q1 driven by SG&A timing, Ardent Mills benefit, lower inflation, and a tariff refund. The company outlined its strategy for managing higher transportation inflation, deleveraging to a 3x target, and optimizing its product portfolio through SKU simplification and increased A&P spending. Conagra emphasized a prudent approach to elasticity assumptions and a focus on core platforms and brand building.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-30T14:09:02",
+      "first_seen_at": "2026-09-30T15:00:02.359831",
+      "assets": [
+        {
+          "symbol": "CAG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.025423,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.807919
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.703171
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1754,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AlphaStreet",
+          "source_domain": "AlphaStreet",
+          "headline": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
+          "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
+          "published_at": "2026-09-30T14:09:02"
+        }
+      ]
+    },
+    {
+      "event_id": 1598,
+      "title": "Nasdaq Gains Over 100 Points; Jabil Posts Upbeat Earnings",
+      "summary": "U.S. stocks saw broad gains, with the Nasdaq Composite climbing over 100 points, driven by strong performance in the information technology sector. Jabil Inc. reported better-than-expected fourth-quarter earnings and provided an optimistic outlook for FY2027, beating analyst estimates for both EPS and sales. Several other equities experienced significant movements, with NewGenIvf Group, Connect Biopharma Holdings, and Neo-Concept International Group seeing large gains, while Darkiris Inc., Decent Holding Inc., and Rafael Holdings Inc. declined.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 69,
+      "published_at": "2026-09-30T13:43:01",
+      "first_seen_at": "2026-09-30T15:00:02.607738",
+      "assets": [
+        {
+          "symbol": "JBL",
+          "asset_class": null,
+          "relevance_score": 0.959222,
+          "sentiment_score": 0.461811,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.911053
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906564
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.800979
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.61188
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.602641
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1755,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Nasdaq Gains Over 100 Points; Jabil Posts Upbeat Earnings",
+          "url": "https://www.benzinga.com/news/26/09/62079279/nasdaq-gains-over-100-points-jabil-posts-upbeat-earnings",
+          "published_at": "2026-09-30T13:43:01"
+        }
+      ]
+    },
+    {
+      "event_id": 1599,
+      "title": "Copart stock trades at EUR 23.91 after fiscal results",
+      "summary": "Copart stock was trading at EUR 23.91 at Lang & Schwarz, down 0.08 percent, following its fiscal 2026 results. The company reported a 0.4% rise in revenue to USD 4.7 billion for fiscal 2026, but net income and diluted EPS declined. Copart also announced the acquisition of ACV Auctions for USD 1.9 billion to expand its digital vehicle remarketing reach, a move expected to be earnings neutral in the first year and accretive in fiscal 2028.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-30T13:22:45",
+      "first_seen_at": "2026-09-30T15:00:02.882160",
+      "assets": [
+        {
+          "symbol": "CPRT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.030506,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.928705
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845374
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1756,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Copart stock trades at EUR 23.91 after fiscal results",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/copart-stock-trades-at-eur-23-91-after-fiscal-results/70204636",
+          "published_at": "2026-09-30T13:22:45"
+        }
+      ]
+    },
+    {
       "event_id": 1593,
       "title": "W.R. Berkley stock reports a quarterly earnings beat",
       "summary": "W.R. Berkley stock reported a quarterly earnings beat for Q2 2026, with operating EPS of USD 1.27 surpassing the USD 1.08 consensus and revenue reaching USD 3.72 billion against a USD 3.28 billion consensus. Despite the strong performance, Zacks Research cut its Q4 2026 EPS forecast, indicating more cautious estimates moving forward. The company has also declared a quarterly dividend and is scheduled to release its Q3 2026 earnings on October 19, 2026.",
@@ -924,203 +1073,6 @@
           "headline": "Constellation Energy: Premium Company At A Premium Price (NASDAQ:CEG)",
           "url": "https://seekingalpha.com/article/4950743-constellation-energy-premium-company-at-a-premium-price",
           "published_at": "2026-09-29T17:03:57"
-        }
-      ]
-    },
-    {
-      "event_id": 1573,
-      "title": "Freeport-McMoRan (NYSE:FCX) Slips as Copper Retreats From Record Highs",
-      "summary": "Freeport-McMoRan (NYSE:FCX) shares declined as copper futures retreated from recent record highs, influenced by rising Treasury yields, a stronger dollar, and concerns over surging oil prices impacting industrial demand. The company, a major copper producer, is highly sensitive to copper price fluctuations, with its Grasberg operations and domestic leaching efforts central to its production strategy. The article highlights the complex interplay of macro-economic factors affecting the metals market and Freeport-McMoRan's position within it.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-29T16:58:35",
-      "first_seen_at": "2026-09-29T18:00:01.808437",
-      "assets": [
-        {
-          "symbol": "FCX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.307574,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.914085
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.83322
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.718785
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1730,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Freeport-McMoRan (NYSE:FCX) Slips as Copper Retreats From Record Highs",
-          "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/freeport-mcmoran-nysefcx-slips-as-copper-retreats-from-record-highs",
-          "published_at": "2026-09-29T16:58:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1574,
-      "title": "Royal Caribbean Cruises Ltd Stock (RCL) Moved Up by 5.80% on Sep 29: What Signal Does It Send?",
-      "summary": "Royal Caribbean Cruises Ltd (RCL) saw its stock rise by 5.80% on September 29, outperforming its sector. This surge was primarily driven by strong earnings from competitor Carnival Corp, which indicated resilient consumer demand for cruises, and by several Wall Street banks upgrading Royal Caribbean's stock due to attractive valuations after a recent pullback. Additionally, strategic expansions into luxury land-based resorts are reinforcing investor confidence in the company's long-term growth prospects.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-29T16:21:38",
-      "first_seen_at": "2026-09-29T18:00:02.086099",
-      "assets": [
-        {
-          "symbol": "RCL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.409002,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CCL",
-          "asset_class": null,
-          "relevance_score": 0.894532,
-          "sentiment_score": 0.331129,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WBD",
-          "asset_class": null,
-          "relevance_score": 0.629953,
-          "sentiment_score": 0.127022,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.588487,
-          "sentiment_score": 0.26634,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.90909
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.801841
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.631281
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.627413
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1731,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Royal Caribbean Cruises Ltd Stock (RCL) Moved Up by 5.80% on Sep 29: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262192432-market-movers-rcl-20260929",
-          "published_at": "2026-09-29T16:21:38"
-        }
-      ]
-    },
-    {
-      "event_id": 1575,
-      "title": "Kimberly-Clark Pays Out Almost Everything It Earns. Can the Dividend Survive the Kenvue Deal?",
-      "summary": "Kimberly-Clark (KMB) faces a significant challenge to its dividend sustainability, despite a long history of dividend raises, due to its pending $48.7 billion acquisition of Kenvue. The company's free cash flow in 2025 already fell short of its dividend payments, and its payout ratio is very high. The integration costs and debt service from the Kenvue deal could further strain KMB's finances, putting its multi-decade dividend raise streak in jeopardy for 2027.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-09-29T16:17:47",
-      "first_seen_at": "2026-09-29T18:00:02.379549",
-      "assets": [
-        {
-          "symbol": "KMB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.275404,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KVUE",
-          "asset_class": null,
-          "relevance_score": 0.876093,
-          "sentiment_score": -0.136745,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PG",
-          "asset_class": null,
-          "relevance_score": 0.653425,
-          "sentiment_score": 0.122647,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STZ",
-          "asset_class": null,
-          "relevance_score": 0.561067,
-          "sentiment_score": -0.148258,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.923438
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.90587
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.832061
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.726191
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1732,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Kimberly-Clark Pays Out Almost Everything It Earns. Can the Dividend Survive the Kenvue Deal?",
-          "url": "https://247wallst.com/investing/2026/09/29/kimberly-clark-pays-out-almost-everything-it-earns-can-the-dividend-survive-the-kenvue-deal/",
-          "published_at": "2026-09-29T16:17:47"
         }
       ]
     }
