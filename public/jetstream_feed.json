@@ -20,7 +20,7 @@
           "symbol": "XLAB",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.620653,
+          "sentiment_score": -0.602805,
           "sentiment_label": "Bearish",
           "relationship_type": null
         }
@@ -75,27 +75,27 @@
           "symbol": "VFS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.204165,
+          "sentiment_score": -0.246686,
           "sentiment_label": "Somewhat-Bearish",
           "relationship_type": null
         }
       ],
       "topics": [
         {
+          "topic": "energy_transportation",
+          "relevance_score": 0.947651
+        },
+        {
           "topic": "earnings",
           "relevance_score": 0.942829
         },
         {
-          "topic": "energy_transportation",
-          "relevance_score": 0.917604
-        },
-        {
           "topic": "financial_markets",
-          "relevance_score": 0.821211
+          "relevance_score": 0.846725
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.60927
+          "relevance_score": 0.620935
         }
       ],
       "articles": [
