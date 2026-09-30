@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1591,
+      "title": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
+      "summary": "This article provides a list of recent 8-K filings by Inflection Point Acquisition Corp. VI Units (IPFXU), detailing material events reported to the SEC. Key filings include announcements regarding its SPAC merger with Quantum Space, valued at approximately $1.2 billion, the separate trading of its Class A ordinary shares and warrants, and the completion of its $253 million SPAC IPO. The filings also provide financial details and expected timelines for these corporate actions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-09-30T11:53:32",
+      "first_seen_at": "2026-09-30T13:00:01.822809",
+      "assets": [
+        {
+          "symbol": "IPFX",
+          "asset_class": null,
+          "relevance_score": 0.864851,
+          "sentiment_score": 0.418401,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.80192
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1748,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
+          "url": "https://www.stocktitan.net/sec-filings/IPFXU/8-k.html",
+          "published_at": "2026-09-30T11:53:32"
+        }
+      ]
+    },
+    {
+      "event_id": 1592,
+      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
+      "summary": "US stock-index futures were stable ahead of Wednesday's market open as investors anticipated the release of the Federal Reserve's preferred inflation gauge, the PCE data. Additionally, earnings reports from Micron Technology Inc. are expected to influence market sentiment. Futures for the S&P 500 Index showed little change, while Nasdaq 100 Index contracts experienced a slight decline.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-30T11:52:59",
+      "first_seen_at": "2026-09-30T13:00:02.057572",
+      "assets": [
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.344913,
+          "sentiment_score": 0.024522,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.920058
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.91195
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.802039
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.621904
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.613351
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1749,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Bloomberg.com",
+          "source_domain": "Bloomberg.com",
+          "headline": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
+          "published_at": "2026-09-30T11:52:59"
+        }
+      ]
+    },
+    {
       "event_id": 1590,
       "title": "Marathon Oil stock joined ConocoPhillips in a USD 22.5 billion deal",
       "summary": "Marathon Oil Corporation was acquired by ConocoPhillips in a USD 22.5 billion deal completed in November 2024, ending its run as an independent public company. The acquisition integrated Marathon Oil's exploration and production assets into ConocoPhillips' larger portfolio. Investors are advised to differentiate Marathon Oil (MRO) from Marathon Petroleum (MPC) due to a 2011 corporate split that created two distinct energy companies.",
@@ -1027,148 +1129,6 @@
           "headline": "PPL vs. XEL: Which Utility Stock Offers Greater Long-Term Upside?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-vs-xel-utility-stock-125200025.html",
           "published_at": "2026-09-29T14:52:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1566,
-      "title": "Mike Wilson says S&P 500 correction could benefit the market",
-      "summary": "Morgan Stanley's Chief U.S. Equity Strategist Mike Wilson suggests that a correction in the S&P 500 could be beneficial for the market's performance later in the year. This perspective comes amidst a significant bond market rout, where 30-year and 10-year Treasury yields have surged to multi-year highs, impacting equities and consumer borrowing costs. The bond market's movements are attributed to fears of persistent inflation potentially leading the Federal Reserve to further raise interest rates.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-09-29T14:30:27",
-      "first_seen_at": "2026-09-29T16:00:02.225389",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.968407,
-          "sentiment_score": 0.129802,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NDAQ",
-          "asset_class": null,
-          "relevance_score": 0.638102,
-          "sentiment_score": 0.057975,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.599292,
-          "sentiment_score": 0.019738,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.566643,
-          "sentiment_score": 0.004803,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.562857,
-          "sentiment_score": 0.001726,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922399
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.814242
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.741571
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1723,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quartz",
-          "source_domain": "Quartz",
-          "headline": "Mike Wilson says S&P 500 correction could benefit the market",
-          "url": "https://qz.com/morgan-stanley-mike-wilson-sp500-correction-bond-yields-092926",
-          "published_at": "2026-09-29T14:30:27"
-        }
-      ]
-    },
-    {
-      "event_id": 1567,
-      "title": "Norwegian Cruise Line Rises in Sympathy After Carnival's Record Quarter",
-      "summary": "Norwegian Cruise Line Holdings Ltd. (NCLH) shares are trading higher following Carnival Corporation Ltd.'s (CCL) strong third-quarter earnings report. Carnival reported record net income, revenues, and customer deposits, boosting its FY26 earnings outlook. This positive news for Carnival is seen as a bellwether for the cruise industry, benefiting NCLH stock due to strong consumer demand for cruise vacations.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-29T14:10:40",
-      "first_seen_at": "2026-09-29T16:00:02.522115",
-      "assets": [
-        {
-          "symbol": "NCLH",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.40338,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CCL",
-          "asset_class": null,
-          "relevance_score": 0.939888,
-          "sentiment_score": 0.511586,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.914146
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.816393
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.610235
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.603934
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.60043
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1724,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Norwegian Cruise Line Rises in Sympathy After Carnival's Record Quarter",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62051264/norwegian-cruise-line-rises-in-sympathy-after-carnivals-record-quarter",
-          "published_at": "2026-09-29T14:10:40"
         }
       ]
     }
