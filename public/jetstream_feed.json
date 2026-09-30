@@ -5,6 +5,66 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1613,
+      "title": "Las Vegas Sands stock hits 52-week low at 38.06 USD",
+      "summary": "Las Vegas Sands (LVS) stock recently hit a 52-week low of $38.06, reflecting a 40% year-to-date decline and a challenging year for the company. InvestingPro analysis suggests the stock is undervalued and oversold, potentially appealing to contrarian investors. The downturn follows missed Q2 earnings expectations and subsequent downgrades or reduced price targets from several analyst firms due to economic concerns and weak growth in key markets.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-09-30T17:55:32",
+      "first_seen_at": "2026-09-30T20:00:01.740579",
+      "assets": [
+        {
+          "symbol": "LVS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.412182,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.92332
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.918816
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.747296
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.605977
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1774,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Las Vegas Sands stock hits 52-week low at 38.06 USD",
+          "url": "https://www.investing.com/news/company-news/las-vegas-sands-stock-hits-52week-low-at-3806-usd-93CH-4925695",
+          "published_at": "2026-09-30T17:55:32"
+        },
+        {
+          "article_id": 1773,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Las Vegas Sands (NYSE:LVS) Sets New 52-Week Low - Should You Sell?",
+          "url": "https://www.marketbeat.com/instant-alerts/price-las-vegas-sands-nyse-lvs-sets-new-52-week-low-should-you-sell-2026-09-30/",
+          "published_at": "2026-09-30T18:26:32"
+        }
+      ]
+    },
+    {
       "event_id": 1609,
       "title": "What's Going On With Conagra Stock Wednesday? - Conagra Brands (NYSE:CAG)",
       "summary": "Conagra Brands (NYSE:CAG) saw its stock trade lower on Wednesday despite beating Wall Street expectations for both earnings and revenue in its fiscal first-quarter 2027 results. The company's net sales and adjusted earnings rose, but organic net sales fell, and adjusted operating margin declined due to inflation pressures. Conagra reaffirmed its fiscal 2027 outlook, but noted that transportation inflation is running at twice the expected rate, pushing full-year inflation towards the high end of its forecast.",
@@ -1109,61 +1169,6 @@
           "headline": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
           "url": "https://www.stocktitan.net/sec-filings/IPFXU/8-k.html",
           "published_at": "2026-09-30T11:53:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1592,
-      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
-      "summary": "US stock-index futures were stable ahead of Wednesday's market open as investors anticipated the release of the Federal Reserve's preferred inflation gauge, the PCE data. Additionally, earnings reports from Micron Technology Inc. are expected to influence market sentiment. Futures for the S&P 500 Index showed little change, while Nasdaq 100 Index contracts experienced a slight decline.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-30T11:52:59",
-      "first_seen_at": "2026-09-30T13:00:02.057572",
-      "assets": [
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.344913,
-          "sentiment_score": 0.024522,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920058
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91195
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.802039
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.621904
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.613351
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1749,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Bloomberg.com",
-          "source_domain": "Bloomberg.com",
-          "headline": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
-          "published_at": "2026-09-30T11:52:59"
         }
       ]
     }
