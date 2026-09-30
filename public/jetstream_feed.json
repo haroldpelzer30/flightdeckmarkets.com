@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1614,
+      "title": "Crude Oil Rises Over 1%; Conagra Brands Earnings Top Views",
+      "summary": "US stocks showed mixed results, with the Dow Jones index falling while NASDAQ and S&P 500 rose. Conagra Brands (NYSE: CAG) reported better-than-expected Q1 earnings, while several other companies saw significant stock movements based on corporate announcements and analyst ratings. Commodities like oil and gold experienced gains, European markets were lower, and Asian markets closed mostly higher.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-30T19:19:22",
+      "first_seen_at": "2026-09-30T21:00:02.157855",
+      "assets": [
+        {
+          "symbol": "CAG",
+          "asset_class": null,
+          "relevance_score": 0.345707,
+          "sentiment_score": 0.022999,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.92833
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.819675
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.727951
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.636864
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1775,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Crude Oil Rises Over 1%; Conagra Brands Earnings Top Views",
+          "url": "https://www.benzinga.com/markets/market-summary/26/09/62091205/crude-oil-rises-over-1-conagra-brands-earnings-top-views",
+          "published_at": "2026-09-30T19:19:22"
+        }
+      ]
+    },
+    {
       "event_id": 1613,
       "title": "Las Vegas Sands stock hits 52-week low at 38.06 USD",
       "summary": "Las Vegas Sands (LVS) stock recently hit a 52-week low of $38.06, reflecting a 40% year-to-date decline and a challenging year for the company. InvestingPro analysis suggests the stock is undervalued and oversold, potentially appealing to contrarian investors. The downturn follows missed Q2 earnings expectations and subsequent downgrades or reduced price targets from several analyst firms due to economic concerns and weak growth in key markets.",
@@ -1122,53 +1177,6 @@
           "headline": "Premarket movers: Micron; Boeing rises, Moderna slides",
           "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-micron-boeing-rises-120240949.html",
           "published_at": "2026-09-30T12:13:10"
-        }
-      ]
-    },
-    {
-      "event_id": 1591,
-      "title": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
-      "summary": "This article provides a list of recent 8-K filings by Inflection Point Acquisition Corp. VI Units (IPFXU), detailing material events reported to the SEC. Key filings include announcements regarding its SPAC merger with Quantum Space, valued at approximately $1.2 billion, the separate trading of its Class A ordinary shares and warrants, and the completion of its $253 million SPAC IPO. The filings also provide financial details and expected timelines for these corporate actions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-30T11:53:32",
-      "first_seen_at": "2026-09-30T13:00:01.822809",
-      "assets": [
-        {
-          "symbol": "IPFX",
-          "asset_class": null,
-          "relevance_score": 0.864851,
-          "sentiment_score": 0.418401,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "ipo",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.80192
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1748,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "IPFXU 8-K Filings - Inflection Point Acquisition Corp. VI Units SEC 8-K",
-          "url": "https://www.stocktitan.net/sec-filings/IPFXU/8-k.html",
-          "published_at": "2026-09-30T11:53:32"
         }
       ]
     }
