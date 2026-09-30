@@ -5,6 +5,65 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1590,
+      "title": "Marathon Oil stock joined ConocoPhillips in a USD 22.5 billion deal",
+      "summary": "Marathon Oil Corporation was acquired by ConocoPhillips in a USD 22.5 billion deal completed in November 2024, ending its run as an independent public company. The acquisition integrated Marathon Oil's exploration and production assets into ConocoPhillips' larger portfolio. Investors are advised to differentiate Marathon Oil (MRO) from Marathon Petroleum (MPC) due to a 2011 corporate split that created two distinct energy companies.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-09-30T10:03:34",
+      "first_seen_at": "2026-09-30T12:00:02.831535",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.301685,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.84919,
+          "sentiment_score": -0.120354,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.944428
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.81526
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.74773
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.643333
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1747,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Marathon Oil stock joined ConocoPhillips in a USD 22.5 billion deal",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marathon-oil-stock-joined-conocophillips-in-a-usd-22-5-billion-deal/70203566",
+          "published_at": "2026-09-30T10:03:34"
+        }
+      ]
+    },
+    {
       "event_id": 1585,
       "title": "Exascale Labs Debuts on Nasdaq After Completing SPAC Merger",
       "summary": "Exascale Labs Holdings Inc. (XLAB) began trading on Nasdaq after completing its SPAC merger with D. Boral ARC Acquisition I Corp. The company, which provides a software-defined GPU compute platform and AI infrastructure services, faces financial challenges including widening losses and an accumulated deficit, exacerbated by significant redemptions from pre-merger shareholders. Despite its asset-light model and growing customer base, the company has not yet generated revenue from its modular data center and related offerings, and faces strong competition from larger cloud and AI infrastructure providers.",
@@ -1110,53 +1169,6 @@
           "headline": "Norwegian Cruise Line Rises in Sympathy After Carnival's Record Quarter",
           "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62051264/norwegian-cruise-line-rises-in-sympathy-after-carnivals-record-quarter",
           "published_at": "2026-09-29T14:10:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1560,
-      "title": "Vulcan Materials acquires Kentucky quarry",
-      "summary": "Vulcan Materials has acquired the Butler Quarry in Pendleton County, Kentucky, from Hilltop Stone. The quarry has provided limestone products to the Greater Cincinnati and northern Kentucky construction markets for over 70 years and is noted as one of the few hard rock quarries in the region. The Greystone Group advised Hilltop Stone on the transaction, the terms of which were not disclosed.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-29T14:02:19",
-      "first_seen_at": "2026-09-29T15:00:01.712225",
-      "assets": [
-        {
-          "symbol": "VMC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410801,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.735217
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.627484
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1716,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pit & Quarry",
-          "source_domain": "Pit & Quarry",
-          "headline": "Vulcan Materials acquires Kentucky quarry",
-          "url": "https://www.pitandquarry.com/vulcan-materials-acquires-kentucky-quarry/",
-          "published_at": "2026-09-29T14:02:19"
         }
       ]
     }
