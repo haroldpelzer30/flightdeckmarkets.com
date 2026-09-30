@@ -5,6 +5,290 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1609,
+      "title": "What's Going On With Conagra Stock Wednesday? - Conagra Brands (NYSE:CAG)",
+      "summary": "Conagra Brands (NYSE:CAG) saw its stock trade lower on Wednesday despite beating Wall Street expectations for both earnings and revenue in its fiscal first-quarter 2027 results. The company's net sales and adjusted earnings rose, but organic net sales fell, and adjusted operating margin declined due to inflation pressures. Conagra reaffirmed its fiscal 2027 outlook, but noted that transportation inflation is running at twice the expected rate, pushing full-year inflation towards the high end of its forecast.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-09-30T17:32:48",
+      "first_seen_at": "2026-09-30T19:00:02.489328",
+      "assets": [
+        {
+          "symbol": "CAG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.263114,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.806766
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.749133
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.626851
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1769,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "What's Going On With Conagra Stock Wednesday? - Conagra Brands (NYSE:CAG)",
+          "url": "https://www.benzinga.com/markets/earnings/26/09/62087723/conagra-sounds-inflation-alarm-transportation-costs-are-rising-at-twice-the-rate-it-expected",
+          "published_at": "2026-09-30T17:32:48"
+        }
+      ]
+    },
+    {
+      "event_id": 1610,
+      "title": "ConocoPhillips (NYSE:COP) Adjusts to New CEO Era as Crude Eases on Reserve Releases",
+      "summary": "ConocoPhillips (NYSE:COP) experienced a softer trading session as crude oil prices eased due to government reserve releases and ongoing diplomatic stalemate between the US and Iran. The company recently underwent a leadership transition with Andy O'Brien taking over as CEO and Ryan Lance moving to Executive Chair, and is preparing for its Q3 earnings call in early November. Despite the crude softness, ConocoPhillips' strong operational focus, diversified asset base, and consistent capital allocation strategy are expected to provide resilience.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-09-30T17:28:17",
+      "first_seen_at": "2026-09-30T19:00:02.757969",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.145303,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WBA",
+          "asset_class": null,
+          "relevance_score": 0.644945,
+          "sentiment_score": 0.044819,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.641585,
+          "sentiment_score": 0.038882,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DOW",
+          "asset_class": null,
+          "relevance_score": 0.634057,
+          "sentiment_score": 0.041856,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KHC",
+          "asset_class": null,
+          "relevance_score": 0.60263,
+          "sentiment_score": 0.024309,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94535
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.927172
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802091
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.617571
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1770,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "ConocoPhillips (NYSE:COP) Adjusts to New CEO Era as Crude Eases on Reserve Releases",
+          "url": "https://kalkinemedia.com/us/stocks/oil-gas/conocophillips-nysecop-adjusts-to-new-ceo-era-as-crude-eases-on-reserve-releases",
+          "published_at": "2026-09-30T17:28:17"
+        }
+      ]
+    },
+    {
+      "event_id": 1611,
+      "title": "Williams Companies (NYSE:WMB) Completes Momentum Midstream Deal as Power Innovation Projects Advance for Data Centers",
+      "summary": "Williams Companies (NYSE:WMB) has finalized its acquisition of Momentum Midstream, expanding its natural gas gathering footprint in the Haynesville shale. Concurrently, the first phase of its Socrates power innovation project, which provides behind-the-meter power for data centers, has successfully entered service. This expansion and the advancement of power projects, supported by a financing partnership with Blackstone, Apollo, and KKR, underscore Williams' strategy to integrate gas transportation with dedicated power supply, especially for the growing data center sector.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 57,
+      "published_at": "2026-09-30T17:09:49",
+      "first_seen_at": "2026-09-30T19:00:03.096143",
+      "assets": [
+        {
+          "symbol": "WMB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.47122,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BX",
+          "asset_class": null,
+          "relevance_score": 0.775358,
+          "sentiment_score": 0.335361,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APO",
+          "asset_class": null,
+          "relevance_score": 0.695362,
+          "sentiment_score": 0.327049,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KKR",
+          "asset_class": null,
+          "relevance_score": 0.63237,
+          "sentiment_score": 0.349992,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMI",
+          "asset_class": null,
+          "relevance_score": 0.562628,
+          "sentiment_score": 0.256211,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.935701
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.901123
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.829757
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.639299
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1771,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Williams Companies (NYSE:WMB) Completes Momentum Midstream Deal as Power Innovation Projects Advance for Data Centers",
+          "url": "https://kalkinemedia.com/us/stocks/energy/williams-companies-nysewmb-completes-momentum-midstream-deal-as-power-innovation-projects-advance-for-data-centers",
+          "published_at": "2026-09-30T17:09:49"
+        }
+      ]
+    },
+    {
+      "event_id": 1612,
+      "title": "Southern Company offers stronger dividend security amid data center growth, while Duke Energy yields more today.",
+      "summary": "Southern Company and Duke Energy are both significant players in the power generation sector, actively securing data center contracts and investing in new infrastructure. Southern Company provides stronger dividend security due to stable retail rates, a tighter credit target, and collateralized contracts, making it ideal for investors seeking stable retirement income. Duke Energy, while offering a higher current dividend yield and trading at a lower valuation, faces more regulatory uncertainty, appealing to those prioritizing immediate yield.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-09-30T17:05:26",
+      "first_seen_at": "2026-09-30T19:00:03.403503",
+      "assets": [
+        {
+          "symbol": "SO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.290342,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "DUK",
+          "asset_class": null,
+          "relevance_score": 0.941913,
+          "sentiment_score": 0.079747,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.709605,
+          "sentiment_score": 0.109714,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.934497
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.809292
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.701565
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.645918
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1772,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Pluang",
+          "source_domain": "Pluang",
+          "headline": "Southern Company offers stronger dividend security amid data center growth, while Duke Energy yields more today.",
+          "url": "https://pluang.com/en/news-feed/southern-atau-duke-dividen-utilitas-dengan-pembangunan-data-center",
+          "published_at": "2026-09-30T17:05:26"
+        }
+      ]
+    },
+    {
       "event_id": 1605,
       "title": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
       "summary": "This article compares Southern Company (SO) and Duke Energy (DUK) as utility dividend investments, especially in the context of massive data center buildouts. It concludes that Southern Company is a stronger dividend anchor due to its tighter credit targets, lower remaining equity needs, and collateralized contracts, despite Duke offering a higher current yield and trading at a lower P/E. Investors focused on long-term dividend safety amidst rising capital expenditures are advised to favor Southern.",
@@ -880,226 +1164,6 @@
           "headline": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
           "url": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
           "published_at": "2026-09-30T11:52:59"
-        }
-      ]
-    },
-    {
-      "event_id": 1590,
-      "title": "Marathon Oil stock joined ConocoPhillips in a USD 22.5 billion deal",
-      "summary": "Marathon Oil Corporation was acquired by ConocoPhillips in a USD 22.5 billion deal completed in November 2024, ending its run as an independent public company. The acquisition integrated Marathon Oil's exploration and production assets into ConocoPhillips' larger portfolio. Investors are advised to differentiate Marathon Oil (MRO) from Marathon Petroleum (MPC) due to a 2011 corporate split that created two distinct energy companies.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-30T10:03:34",
-      "first_seen_at": "2026-09-30T12:00:02.831535",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.301685,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.84919,
-          "sentiment_score": -0.120354,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.944428
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.81526
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.74773
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.643333
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1747,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Marathon Oil stock joined ConocoPhillips in a USD 22.5 billion deal",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marathon-oil-stock-joined-conocophillips-in-a-usd-22-5-billion-deal/70203566",
-          "published_at": "2026-09-30T10:03:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1585,
-      "title": "Exascale Labs Debuts on Nasdaq After Completing SPAC Merger",
-      "summary": "Exascale Labs Holdings Inc. (XLAB) began trading on Nasdaq after completing its SPAC merger with D. Boral ARC Acquisition I Corp. The company, which provides a software-defined GPU compute platform and AI infrastructure services, faces financial challenges including widening losses and an accumulated deficit, exacerbated by significant redemptions from pre-merger shareholders. Despite its asset-light model and growing customer base, the company has not yet generated revenue from its modular data center and related offerings, and faces strong competition from larger cloud and AI infrastructure providers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-29T22:00:44",
-      "first_seen_at": "2026-09-29T23:00:02.535711",
-      "assets": [
-        {
-          "symbol": "XLAB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.602805,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "ipo",
-          "relevance_score": 0.939902
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.84174
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.749196
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.62135
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.617735
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1742,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Minichart",
-          "source_domain": "Minichart",
-          "headline": "Exascale Labs Debuts on Nasdaq After Completing SPAC Merger",
-          "url": "https://www.minichart.com.sg/2026/09/28/exascale-labs-debuts-on-nasdaq-after-completing-spac-merger/",
-          "published_at": "2026-09-29T22:00:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1586,
-      "title": "VinFast Auto (VFS), What Is Behind The Fresh Attention?",
-      "summary": "VinFast Auto (VFS) is attracting new attention following a leadership change, with founder Pham Nhat Vuong's son appointed global CEO, and a strategic shift towards an asset-light model. Despite being presented as 48% undervalued by analysts at $6.05 per share, the company's stock has declined, and it faces significant challenges such as heavy cash burn and limited brand strength. The market also shows caution, trading VinFast at a P/S ratio of 2x, significantly higher than the US Auto industry average of 0.6x, indicating potential valuation risk.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-29T21:54:09",
-      "first_seen_at": "2026-09-29T23:00:02.801450",
-      "assets": [
-        {
-          "symbol": "VFS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.246686,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.947651
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.942829
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.846725
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620935
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1743,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "VinFast Auto (VFS), What Is Behind The Fresh Attention?",
-          "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-vfs/vinfast-auto/news/vinfast-auto-vfs-what-is-behind-the-fresh-attention",
-          "published_at": "2026-09-29T21:54:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1587,
-      "title": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late'",
-      "summary": "Ford CEO Jim Farley has warned the US to be cautious about Chinese automakers entering the American market, citing Europe as a cautionary example where Chinese imports have rapidly gained market share. Farley emphasized that while Ford will partner with Chinese companies for capital efficiency and expertise, they will also compete directly. He highlighted concerns from US officials about Ford's collaborations with Chinese firms and the broader impact of China's growing automotive export industry on global markets.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-29T20:49:00",
-      "first_seen_at": "2026-09-29T23:00:03.041985",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.281768,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "FPC",
-          "asset_class": null,
-          "relevance_score": 0.312047,
-          "sentiment_score": 0.008348,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.908618
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.822688
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.719704
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1744,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Reuters",
-          "source_domain": "Reuters",
-          "headline": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late'",
-          "url": "https://www.reuters.com/business/autos-transportation/fords-ceo-urges-caution-chinese-automakers-says-europe-is-too-late-2026-09-29/",
-          "published_at": "2026-09-29T20:49:00"
         }
       ]
     }
