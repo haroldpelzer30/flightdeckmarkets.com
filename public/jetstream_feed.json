@@ -5,6 +5,65 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1617,
+      "title": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
+      "summary": "ONEOK (OKE) has raised its full-year guidance for the second time in 2026, fueled by strong Q2 results and a $4.425 billion acquisition of Brazos Midstream. Despite improved fundamentals, OKE's forward valuation has compressed to 14.75x EPS, with adjusted EBITDA guidance now at $8.35 billion and EPS at $5.68 for 2026. The company's growth is supported by nearing project completions, a positive macro environment, and an efficient acquisition structure, making its 4.93% forward dividend yield and robust free cash flow coverage compelling.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-01T12:45:17",
+      "first_seen_at": "2026-10-01T14:00:02.366545",
+      "assets": [
+        {
+          "symbol": "OKE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.497911,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MMM",
+          "asset_class": null,
+          "relevance_score": 0.624071,
+          "sentiment_score": 0.06023,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.926856
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904296
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.845846
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.744597
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1778,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
+          "url": "https://seekingalpha.com/article/4951230-oneok-second-guidance-raise-and-brazos-deal-make-the-pullback-compelling",
+          "published_at": "2026-10-01T12:45:17"
+        }
+      ]
+    },
+    {
       "event_id": 1616,
       "title": "Why Did Bank of Montreal (TSX:BMO) Fall 1.13% on September 30, 2026?",
       "summary": "Bank of Montreal (TSX:BMO) experienced a 1.13% decline on September 30, 2026, driven by investor reassessments of interest rates, economic growth, and credit conditions. This single-day movement is not necessarily indicative of a change in long-term fundamentals, which are supported by BMO's diversified operations and loan growth, but also face risks from credit quality deterioration and interest rate changes. The article suggests evaluating the decline within the broader context of the bank's operational performance and the financial sector environment.",
@@ -1106,57 +1165,6 @@
           "headline": "W.R. Berkley stock reports a quarterly earnings beat",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-r-berkley-stock-reports-a-quarterly-earnings-beat/70204484",
           "published_at": "2026-09-30T12:48:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1594,
-      "title": "Norfolk Southern stock faces a longer merger review timeline",
-      "summary": "Norfolk Southern (NSC) faces an extended merger review timeline after the Surface Transportation Board (STB) allowed the Union Pacific combination to proceed to a fuller review. While the decision keeps the transaction alive, it does not guarantee approval, with comments due in November 2026 and responses by February 2027, pushing expected completion into the second half of 2027. Despite Q2 2026 revenue of $3.46 billion and diluted EPS of $3.26, the company faces headwinds from higher fuel costs and its stock trades below its yearly high, with analysts holding a \"Hold\" consensus.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-09-30T12:34:32",
-      "first_seen_at": "2026-09-30T14:00:02.179604",
-      "assets": [
-        {
-          "symbol": "NSC",
-          "asset_class": null,
-          "relevance_score": 0.345227,
-          "sentiment_score": 0.007569,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949551
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.92481
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.836644
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.710661
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1751,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Norfolk Southern stock faces a longer merger review timeline",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-faces-a-longer-merger-review-timeline/70204406",
-          "published_at": "2026-09-30T12:34:32"
         }
       ]
     }
