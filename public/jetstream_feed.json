@@ -5,14 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1638,
+      "title": "Fifth Third returns to floorplan financing after Comerica acquisition",
+      "summary": "Fifth Third Bank has re-entered the floorplan financing market after a three-year hiatus, following its acquisition of Comerica Bank. This strategic move allows Fifth Third to leverage Comerica's extensive and long-standing dealer network for both floorplan and commercial lending. The bank's portfolio in this sector now totals $9.5 billion.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-01T21:41:25",
+      "first_seen_at": "2026-10-01T23:00:01.833147",
+      "assets": [
+        {
+          "symbol": "FITB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.437174,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.94459
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.843665
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1802,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Auto Finance News",
+          "source_domain": "Auto Finance News",
+          "headline": "Fifth Third returns to floorplan financing after Comerica acquisition",
+          "url": "https://www.autofinancenews.net/allposts/risk-management/fifth-third-returns-to-floorplan-financing-after-comerica-acquisition/",
+          "published_at": "2026-10-01T21:41:25"
+        }
+      ]
+    },
+    {
       "event_id": 1632,
       "title": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
       "summary": "This article provides a detailed financial overview of Surf Air Mobility Inc. (SRFM), including its stock price, historical performance, key financial metrics, and analyst insights. As of October 1, 2026, SRFM was trading at $1.1850, down 1.26%, with a market capitalization of $157.426 million. The company, founded in 2011, operates an air mobility platform offering scheduled commercial and on-demand flights.",
       "event_type": "EARNINGS",
       "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
+      "market_impact": "BEARISH",
       "importance": "LOW",
-      "intelligence_score": 46,
+      "intelligence_score": 50,
       "published_at": "2026-10-01T21:25:11",
       "first_seen_at": "2026-10-01T22:00:02.239653",
       "assets": [
@@ -20,7 +63,7 @@
           "symbol": "SRFM",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": -0.141494,
+          "sentiment_score": -0.125849,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -32,7 +75,7 @@
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.900913
+          "relevance_score": 0.936806
         },
         {
           "topic": "energy_transportation",
@@ -52,6 +95,102 @@
           "headline": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
           "url": "https://ca.finance.yahoo.com/quote/SRFM/",
           "published_at": "2026-10-01T21:25:11"
+        }
+      ]
+    },
+    {
+      "event_id": 1640,
+      "title": "Insider Buying: Simon Property Group (NYSE:SPG) Director Acquires 88 Shares of Company Stock",
+      "summary": "Simon Property Group (NYSE:SPG) Director Peggy Roe recently purchased 88 shares of the company's stock for a total of $17,844.64, increasing her direct ownership to 8,135 shares. The real estate investment trust reported quarterly revenue of $1.79 billion, surpassing analyst estimates, but its earnings per share of $1.49 missed the consensus. The company pays a quarterly dividend of $2.25, resulting in a 4.5% annual yield, and maintains a consensus \"Hold\" rating from analysts with a target price of $227.64.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-10-01T21:19:16",
+      "first_seen_at": "2026-10-01T23:00:02.336382",
+      "assets": [
+        {
+          "symbol": "SPG",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.173964,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NFLX",
+          "asset_class": null,
+          "relevance_score": 0.64801,
+          "sentiment_score": 0.104886,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMD",
+          "asset_class": null,
+          "relevance_score": 0.641564,
+          "sentiment_score": 0.116136,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PLTR",
+          "asset_class": null,
+          "relevance_score": 0.624155,
+          "sentiment_score": -0.120593,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KMX",
+          "asset_class": null,
+          "relevance_score": 0.6197,
+          "sentiment_score": 0.122713,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938169
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.924625
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831717
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.746705
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.607139
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1804,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Insider Buying: Simon Property Group (NYSE:SPG) Director Acquires 88 Shares of Company Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-simon-property-group-nyse-spg-director-acquires-88-shares-of-company-stock-2026-10-01/",
+          "published_at": "2026-10-01T21:19:16"
+        },
+        {
+          "article_id": 1805,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Insider Buying: Simon Property Group (NYSE:SPG) Director Buys $13,180.70 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-simon-property-group-nyse-spg-director-buys-1318070-in-stock-2026-10-01/",
+          "published_at": "2026-10-01T21:19:16"
         }
       ]
     },
@@ -1053,145 +1192,6 @@
           "headline": "U.S. Bank and DAT: Contract and spot truck freight rates diverge",
           "url": "https://www.businesswire.com/news/home/20261001882013/en/U.S.-Bank-and-DAT-Contract-and-spot-truck-freight-rates-diverge",
           "published_at": "2026-10-01T13:45:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1619,
-      "title": "ConocoPhillips Weighs Selling Its Norway Business",
-      "summary": "ConocoPhillips is considering an unsolicited offer to sell its Norway business and the Teesside oil terminal in the UK, as Brent crude approaches $100 a barrel. This move is part of the typical portfolio reshuffling by major oil companies to fund higher-return projects or shareholder payouts. A potential sale would provide a real-time valuation for these assets, allowing analysts to re-evaluate the company's sum-of-the-parts valuation and influence stock performance.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-10-01T13:39:28",
-      "first_seen_at": "2026-10-01T15:00:03.265767",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.120729,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.623229,
-          "sentiment_score": 0.127984,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.614416,
-          "sentiment_score": 0.113245,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.914239
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.815686
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.723274
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.639624
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1781,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "ConocoPhillips says weighing sale of Norway business, U.K. Teesside asset (COP:NYSE)",
-          "url": "https://seekingalpha.com/news/4649068-conocophillips-says-weighing-sale-of-norway-business-uk-teesside-asset",
-          "published_at": "2026-10-01T13:37:23"
-        },
-        {
-          "article_id": 1780,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Finimize",
-          "source_domain": "Finimize",
-          "headline": "ConocoPhillips Weighs Selling Its Norway Business",
-          "url": "https://finimize.com/content/conocophillips-weighs-selling-its-norway-business",
-          "published_at": "2026-10-01T13:39:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1617,
-      "title": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
-      "summary": "ONEOK (OKE) has raised its full-year guidance for the second time in 2026, fueled by strong Q2 results and a $4.425 billion acquisition of Brazos Midstream. Despite improved fundamentals, OKE's forward valuation has compressed to 14.75x EPS, with adjusted EBITDA guidance now at $8.35 billion and EPS at $5.68 for 2026. The company's growth is supported by nearing project completions, a positive macro environment, and an efficient acquisition structure, making its 4.93% forward dividend yield and robust free cash flow coverage compelling.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-01T12:45:17",
-      "first_seen_at": "2026-10-01T14:00:02.366545",
-      "assets": [
-        {
-          "symbol": "OKE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.497911,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MMM",
-          "asset_class": null,
-          "relevance_score": 0.624071,
-          "sentiment_score": 0.06023,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.926856
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.904296
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.845846
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.744597
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1778,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Seeking Alpha",
-          "source_domain": "Seeking Alpha",
-          "headline": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
-          "url": "https://seekingalpha.com/article/4951230-oneok-second-guidance-raise-and-brazos-deal-make-the-pullback-compelling",
-          "published_at": "2026-10-01T12:45:17"
         }
       ]
     }
