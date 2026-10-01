@@ -5,6 +5,350 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1632,
+      "title": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
+      "summary": "This article provides a detailed financial overview of Surf Air Mobility Inc. (SRFM), including its stock price, historical performance, key financial metrics, and analyst insights. As of October 1, 2026, SRFM was trading at $1.1850, down 1.26%, with a market capitalization of $157.426 million. The company, founded in 2011, operates an air mobility platform offering scheduled commercial and on-demand flights.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-01T21:25:11",
+      "first_seen_at": "2026-10-01T22:00:02.239653",
+      "assets": [
+        {
+          "symbol": "SRFM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.141494,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.945184
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.900913
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.829343
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.725962
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1794,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo! Finance Canada",
+          "source_domain": "Yahoo! Finance Canada",
+          "headline": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
+          "url": "https://ca.finance.yahoo.com/quote/SRFM/",
+          "published_at": "2026-10-01T21:25:11"
+        }
+      ]
+    },
+    {
+      "event_id": 1633,
+      "title": "Venture Global jumps on ConocoPhillips LNG supply deal",
+      "summary": "Venture Global's shares climbed 3% after announcing a 20-year liquefied natural gas supply agreement with ConocoPhillips. Under the agreement, ConocoPhillips will purchase 1.0 million tonnes per annum of LNG from Venture Global starting in 2030, significantly expanding Venture Global's customer base and future supply commitments. Venture Global is a major U.S. LNG exporter with over 100 million tonnes per annum of capacity in various stages of development.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-01T21:11:09",
+      "first_seen_at": "2026-10-01T22:00:02.500696",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 0.96592,
+          "sentiment_score": 0.343156,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EOG",
+          "asset_class": null,
+          "relevance_score": 0.59637,
+          "sentiment_score": 0.095606,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "APA",
+          "asset_class": null,
+          "relevance_score": 0.562821,
+          "sentiment_score": 0.086893,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.55576,
+          "sentiment_score": 0.060102,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906123
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.738043
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1795,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com",
+          "source_domain": "Investing.com",
+          "headline": "Venture Global jumps on ConocoPhillips LNG supply deal",
+          "url": "https://www.investing.com/news/stock-market-news/venture-global-jumps-on-conocophillips-lng-supply-deal-4928481",
+          "published_at": "2026-10-01T21:11:09"
+        }
+      ]
+    },
+    {
+      "event_id": 1634,
+      "title": "Rising yields are reflecting better growth, says Morgan Stanley's Daniel Skelly",
+      "summary": "Daniel Skelly, managing director at Morgan Stanley Wealth Management, appeared on 'Closing Bell Overtime' to discuss current market dynamics. He stated that rising yields in the market are indicative of better growth prospects. The discussion also covered the bond market and broader market actions.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-10-01T20:56:40",
+      "first_seen_at": "2026-10-01T22:00:02.846104",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.312578,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NKE",
+          "asset_class": null,
+          "relevance_score": 0.641991,
+          "sentiment_score": -0.436897,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907054
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.847357
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.712034
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1796,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Rising yields are reflecting better growth, says Morgan Stanley's Daniel Skelly",
+          "url": "https://www.cnbc.com/video/2026/10/01/rising-yields-are-reflecting-better-growth-says-morgan-stanleys-daniel-skelly.html",
+          "published_at": "2026-10-01T20:56:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1635,
+      "title": "Federal Realty acquires Alabama shopping center for $508 million",
+      "summary": "Federal Realty Investment Trust has acquired The Summit shopping center in Birmingham, Alabama, for $508 million. This marks the first sale of the 100-acre, 870,000-square-foot open-air retail property, which boasts over 110 tenants and draws nearly 9 million annual visits. Federal Realty plans to fund the acquisition through a combination of asset sales, free cash flow, and convertible notes, expanding its Central Region portfolio.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-01T20:52:40",
+      "first_seen_at": "2026-10-01T22:00:03.133445",
+      "assets": [
+        {
+          "symbol": "FRT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.482114,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.942163
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.829273
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.636003
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1799,
+          "provider": "ALPHA_VANTAGE",
+          "source": "PR Newswire",
+          "source_domain": "PR Newswire",
+          "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
+          "url": "https://www.prnewswire.com/news-releases/federal-realty-acquires-the-summit-alabamas-premier-retail-destination-302896582.html",
+          "published_at": "2026-10-01T20:35:40"
+        },
+        {
+          "article_id": 1798,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
+          "url": "https://finance.yahoo.com/real-estate/articles/federal-realty-acquires-summit-alabamas-203500538.html",
+          "published_at": "2026-10-01T20:36:03"
+        },
+        {
+          "article_id": 1797,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Federal Realty acquires Alabama shopping center for $508 million",
+          "url": "https://in.investing.com/news/stock-market-news/federal-realty-acquires-alabama-shopping-center-for-508-million-93CH-5615692",
+          "published_at": "2026-10-01T20:52:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1636,
+      "title": "September 2026 Recap | On The Margin",
+      "summary": "The \"September 2026 Recap | On The Margin\" report from CBIZ details that global markets experienced mostly negative returns in September 2026, primarily due to inflation concerns and rising interest rates impacting equities and fixed income. While U.S. large-cap growth stocks were an exception, small-cap stocks, international equities, and bonds all saw declines. The full publication is available for download, offering detailed insights into these market trends.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-01T20:38:06",
+      "first_seen_at": "2026-10-01T22:00:03.551433",
+      "assets": [
+        {
+          "symbol": "CBZ",
+          "asset_class": null,
+          "relevance_score": 0.327335,
+          "sentiment_score": 0.034169,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920315
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.818841
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.72543
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.644625
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1800,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CBIZ",
+          "source_domain": "CBIZ",
+          "headline": "September 2026 Recap | On The Margin",
+          "url": "https://www.cbiz.com/insights/report/september-2026-recap-on-the-margin",
+          "published_at": "2026-10-01T20:38:06"
+        }
+      ]
+    },
+    {
+      "event_id": 1637,
+      "title": "How Is Record Production Propelling Canadian Natural Resources Limited (TSX:CNQ) To New Heights?",
+      "summary": "Canadian Natural Resources Limited (TSX:CNQ) has achieved record quarterly production, driven by operational excellence and strategic acquisitions, particularly in the Peace River region. This led to unprecedented adjusted net earnings and sustained its multi-decade dividend growth streak. The company's strategic priorities include maximizing production, disciplined spending, and shareholder distributions, while also addressing climate transition initiatives.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-01T20:27:07",
+      "first_seen_at": "2026-10-01T22:00:03.802180",
+      "assets": [
+        {
+          "symbol": "CNQ",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.498076,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.932744
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.845971
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1801,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "How Is Record Production Propelling Canadian Natural Resources Limited (TSX:CNQ) To New Heights?",
+          "url": "https://kalkinemedia.com/ca/stocks/oil-gas/how-is-record-production-propelling-canadian-natural-resources-limited-tsxcnq-to-new-heights",
+          "published_at": "2026-10-01T20:27:07"
+        }
+      ]
+    },
+    {
       "event_id": 1628,
       "title": "Lam Research Corp Stock (LRCX) Moved Up by 3.01% on Oct 1: Key Drivers Unveiled",
       "summary": "Lam Research Corp (LRCX) stock rose by 3.01% due to optimism surrounding memory capital expenditures and favorable industry tailwinds, including aggressive spending plans from major memory chip manufacturers and positive analyst upgrades. The company, a dominant supplier of semiconductor equipment, is benefiting from strong demand driven by artificial intelligence infrastructure. Despite some intraday volatility and macroeconomic uncertainties, the medium-term outlook is positive, supported by structural AI hardware demand and high-margin tool utilization.",
@@ -848,353 +1192,6 @@
           "headline": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
           "url": "https://seekingalpha.com/article/4951230-oneok-second-guidance-raise-and-brazos-deal-make-the-pullback-compelling",
           "published_at": "2026-10-01T12:45:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1616,
-      "title": "Why Did Bank of Montreal (TSX:BMO) Fall 1.13% on September 30, 2026?",
-      "summary": "Bank of Montreal (TSX:BMO) experienced a 1.13% decline on September 30, 2026, driven by investor reassessments of interest rates, economic growth, and credit conditions. This single-day movement is not necessarily indicative of a change in long-term fundamentals, which are supported by BMO's diversified operations and loan growth, but also face risks from credit quality deterioration and interest rate changes. The article suggests evaluating the decline within the broader context of the bank's operational performance and the financial sector environment.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 76,
-      "published_at": "2026-10-01T11:52:34",
-      "first_seen_at": "2026-10-01T13:00:01.704915",
-      "assets": [
-        {
-          "symbol": "NRGU",
-          "asset_class": null,
-          "relevance_score": 0.305163,
-          "sentiment_score": 0.049705,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.94622
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.912446
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.83547
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1777,
-          "provider": "ALPHA_VANTAGE",
-          "source": "kalkine.ca",
-          "source_domain": "kalkine.ca",
-          "headline": "Why Did Bank of Montreal (TSX:BMO) Fall 1.13% on September 30, 2026?",
-          "url": "https://kalkine.ca/news/financial/why-did-bank-of-montreal-tsxbmo-fall-113-on-september-30-2026",
-          "published_at": "2026-10-01T11:52:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1615,
-      "title": "Standard BioTools Announces Termination of Multiplex Bio Deal, Enters Agreement to Sell Mass Cytometry Business to Element Biosystems Ahead of Treeline Merger",
-      "summary": "Standard BioTools Inc. has terminated its agreement with Multiplex Bio and instead entered into a definitive agreement to sell its Mass Cytometry Business to Element Biosystems, LLC for $5.5 million in cash. This new deal, spurred by an unsolicited proposal from GMT Venture Partners, is considered superior and will significantly enhance Standard BioTools' cash position by approximately $15 million. The transaction is expected to close by the end of 2026, concurrently with the company's merger with Treeline Biosciences, pending stockholder approval.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-30T20:49:43",
-      "first_seen_at": "2026-09-30T22:00:02.473270",
-      "assets": [
-        {
-          "symbol": "LAB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.305264,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.935492
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.80958
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.729558
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1776,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Standard BioTools Announces Termination of Multiplex Bio Deal, Enters Agreement to Sell Mass Cytometry Business to Element Biosystems Ahead of Treeline Merger",
-          "url": "https://www.quiverquant.com/news/Standard+BioTools+Announces+Termination+of+Multiplex+Bio+Deal%2C+Enters+Agreement+to+Sell+Mass+Cytometry+Business+to+Element+Biosystems+Ahead+of+Treeline+Merger",
-          "published_at": "2026-09-30T20:49:43"
-        }
-      ]
-    },
-    {
-      "event_id": 1614,
-      "title": "Crude Oil Rises Over 1%; Conagra Brands Earnings Top Views",
-      "summary": "US stocks showed mixed results, with the Dow Jones index falling while NASDAQ and S&P 500 rose. Conagra Brands (NYSE: CAG) reported better-than-expected Q1 earnings, while several other companies saw significant stock movements based on corporate announcements and analyst ratings. Commodities like oil and gold experienced gains, European markets were lower, and Asian markets closed mostly higher.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-30T19:19:22",
-      "first_seen_at": "2026-09-30T21:00:02.157855",
-      "assets": [
-        {
-          "symbol": "CAG",
-          "asset_class": null,
-          "relevance_score": 0.345707,
-          "sentiment_score": 0.022999,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.92833
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.819675
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.727951
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.636864
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1775,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Crude Oil Rises Over 1%; Conagra Brands Earnings Top Views",
-          "url": "https://www.benzinga.com/markets/market-summary/26/09/62091205/crude-oil-rises-over-1-conagra-brands-earnings-top-views",
-          "published_at": "2026-09-30T19:19:22"
-        }
-      ]
-    },
-    {
-      "event_id": 1613,
-      "title": "Las Vegas Sands stock hits 52-week low at 38.06 USD",
-      "summary": "Las Vegas Sands (LVS) stock recently hit a 52-week low of $38.06, reflecting a 40% year-to-date decline and a challenging year for the company. InvestingPro analysis suggests the stock is undervalued and oversold, potentially appealing to contrarian investors. The downturn follows missed Q2 earnings expectations and subsequent downgrades or reduced price targets from several analyst firms due to economic concerns and weak growth in key markets.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-09-30T17:55:32",
-      "first_seen_at": "2026-09-30T20:00:01.740579",
-      "assets": [
-        {
-          "symbol": "LVS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.412182,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92332
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.918816
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.747296
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.605977
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1774,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Las Vegas Sands stock hits 52-week low at 38.06 USD",
-          "url": "https://www.investing.com/news/company-news/las-vegas-sands-stock-hits-52week-low-at-3806-usd-93CH-4925695",
-          "published_at": "2026-09-30T17:55:32"
-        },
-        {
-          "article_id": 1773,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Las Vegas Sands (NYSE:LVS) Sets New 52-Week Low - Should You Sell?",
-          "url": "https://www.marketbeat.com/instant-alerts/price-las-vegas-sands-nyse-lvs-sets-new-52-week-low-should-you-sell-2026-09-30/",
-          "published_at": "2026-09-30T18:26:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1609,
-      "title": "What's Going On With Conagra Stock Wednesday? - Conagra Brands (NYSE:CAG)",
-      "summary": "Conagra Brands (NYSE:CAG) saw its stock trade lower on Wednesday despite beating Wall Street expectations for both earnings and revenue in its fiscal first-quarter 2027 results. The company's net sales and adjusted earnings rose, but organic net sales fell, and adjusted operating margin declined due to inflation pressures. Conagra reaffirmed its fiscal 2027 outlook, but noted that transportation inflation is running at twice the expected rate, pushing full-year inflation towards the high end of its forecast.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-09-30T17:32:48",
-      "first_seen_at": "2026-09-30T19:00:02.489328",
-      "assets": [
-        {
-          "symbol": "CAG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.263114,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.806766
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.749133
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.626851
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1769,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "What's Going On With Conagra Stock Wednesday? - Conagra Brands (NYSE:CAG)",
-          "url": "https://www.benzinga.com/markets/earnings/26/09/62087723/conagra-sounds-inflation-alarm-transportation-costs-are-rising-at-twice-the-rate-it-expected",
-          "published_at": "2026-09-30T17:32:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1610,
-      "title": "ConocoPhillips (NYSE:COP) Adjusts to New CEO Era as Crude Eases on Reserve Releases",
-      "summary": "ConocoPhillips (NYSE:COP) experienced a softer trading session as crude oil prices eased due to government reserve releases and ongoing diplomatic stalemate between the US and Iran. The company recently underwent a leadership transition with Andy O'Brien taking over as CEO and Ryan Lance moving to Executive Chair, and is preparing for its Q3 earnings call in early November. Despite the crude softness, ConocoPhillips' strong operational focus, diversified asset base, and consistent capital allocation strategy are expected to provide resilience.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-09-30T17:28:17",
-      "first_seen_at": "2026-09-30T19:00:02.757969",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.145303,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WBA",
-          "asset_class": null,
-          "relevance_score": 0.644945,
-          "sentiment_score": 0.044819,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.641585,
-          "sentiment_score": 0.038882,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DOW",
-          "asset_class": null,
-          "relevance_score": 0.634057,
-          "sentiment_score": 0.041856,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KHC",
-          "asset_class": null,
-          "relevance_score": 0.60263,
-          "sentiment_score": 0.024309,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94535
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.927172
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.802091
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.617571
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1770,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "ConocoPhillips (NYSE:COP) Adjusts to New CEO Era as Crude Eases on Reserve Releases",
-          "url": "https://kalkinemedia.com/us/stocks/oil-gas/conocophillips-nysecop-adjusts-to-new-ceo-era-as-crude-eases-on-reserve-releases",
-          "published_at": "2026-09-30T17:28:17"
         }
       ]
     }
