@@ -5,6 +5,57 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1616,
+      "title": "Why Did Bank of Montreal (TSX:BMO) Fall 1.13% on September 30, 2026?",
+      "summary": "Bank of Montreal (TSX:BMO) experienced a 1.13% decline on September 30, 2026, driven by investor reassessments of interest rates, economic growth, and credit conditions. This single-day movement is not necessarily indicative of a change in long-term fundamentals, which are supported by BMO's diversified operations and loan growth, but also face risks from credit quality deterioration and interest rate changes. The article suggests evaluating the decline within the broader context of the bank's operational performance and the financial sector environment.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 76,
+      "published_at": "2026-10-01T11:52:34",
+      "first_seen_at": "2026-10-01T13:00:01.704915",
+      "assets": [
+        {
+          "symbol": "NRGU",
+          "asset_class": null,
+          "relevance_score": 0.305163,
+          "sentiment_score": 0.049705,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.94622
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.912446
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.83547
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1777,
+          "provider": "ALPHA_VANTAGE",
+          "source": "kalkine.ca",
+          "source_domain": "kalkine.ca",
+          "headline": "Why Did Bank of Montreal (TSX:BMO) Fall 1.13% on September 30, 2026?",
+          "url": "https://kalkine.ca/news/financial/why-did-bank-of-montreal-tsxbmo-fall-113-on-september-30-2026",
+          "published_at": "2026-10-01T11:52:34"
+        }
+      ]
+    },
+    {
       "event_id": 1615,
       "title": "Standard BioTools Announces Termination of Multiplex Bio Deal, Enters Agreement to Sell Mass Cytometry Business to Element Biosystems Ahead of Treeline Merger",
       "summary": "Standard BioTools Inc. has terminated its agreement with Multiplex Bio and instead entered into a definitive agreement to sell its Mass Cytometry Business to Element Biosystems, LLC for $5.5 million in cash. This new deal, spurred by an unsolicited proposal from GMT Venture Partners, is considered superior and will significantly enhance Standard BioTools' cash position by approximately $15 million. The transaction is expected to close by the end of 2026, concurrently with the company's merger with Treeline Biosciences, pending stockholder approval.",
@@ -1106,45 +1157,6 @@
           "headline": "Norfolk Southern stock faces a longer merger review timeline",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-faces-a-longer-merger-review-timeline/70204406",
           "published_at": "2026-09-30T12:34:32"
-        }
-      ]
-    },
-    {
-      "event_id": 1595,
-      "title": "ADP National Employment Report: Private-Sector Employment Increased by 90,000 Jobs in September",
-      "summary": "Private-sector employment in the U.S. saw an increase of 90,000 jobs in September, rebounding after a three-month slowdown, according to the ADP National Employment Report. This growth was notably driven by the education and health care and leisure and hospitality sectors, while financial activities and professional and business services showed weakness. Base pay for private-sector workers rose by 3.2%, and gross pay increased by 4.7% year over year, with job-changers experiencing higher pay growth than job-stayers.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-09-30T12:17:19",
-      "first_seen_at": "2026-09-30T14:00:02.430499",
-      "assets": [
-        {
-          "symbol": "ADP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.300069,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_macro",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1752,
-          "provider": "ALPHA_VANTAGE",
-          "source": "ADP Media Center",
-          "source_domain": "ADP Media Center",
-          "headline": "ADP National Employment Report: Private-Sector Employment Increased by 90,000 Jobs in September",
-          "url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September",
-          "published_at": "2026-09-30T12:17:19"
         }
       ]
     }
