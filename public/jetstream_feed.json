@@ -5,6 +5,120 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1628,
+      "title": "Lam Research Corp Stock (LRCX) Moved Up by 3.01% on Oct 1: Key Drivers Unveiled",
+      "summary": "Lam Research Corp (LRCX) stock rose by 3.01% due to optimism surrounding memory capital expenditures and favorable industry tailwinds, including aggressive spending plans from major memory chip manufacturers and positive analyst upgrades. The company, a dominant supplier of semiconductor equipment, is benefiting from strong demand driven by artificial intelligence infrastructure. Despite some intraday volatility and macroeconomic uncertainties, the medium-term outlook is positive, supported by structural AI hardware demand and high-margin tool utilization.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-01T19:15:18",
+      "first_seen_at": "2026-10-01T21:00:02.235004",
+      "assets": [
+        {
+          "symbol": "LRCX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.620002,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.645123,
+          "sentiment_score": 0.232773,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.633622,
+          "sentiment_score": 0.225074,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.927813
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925327
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.847052
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.615474
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1790,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Lam Research Corp Stock (LRCX) Moved Up by 3.01% on Oct 1: Key Drivers Unveiled",
+          "url": "https://www.tradingkey.com/news/market-movers/262196787-market-movers-lrcx-20261001",
+          "published_at": "2026-10-01T19:15:18"
+        }
+      ]
+    },
+    {
+      "event_id": 1629,
+      "title": "Phillips 66 Adds ~$4 Billion in Market Value in a Single Session",
+      "summary": "Phillips 66 (PSX) saw a significant increase in market value, adding approximately $4 billion in a single session. The stock closed up 4.1% at $263.64, a rare and substantial move for a large-cap refiner. This strong performance, which held throughout the day, suggests potential continued interest from traders and long-term investors.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-10-01T19:14:32",
+      "first_seen_at": "2026-10-01T21:00:02.510620",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.40787,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.924373
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.84752
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.827712
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1791,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Phillips 66 Adds ~$4 Billion in Market Value in a Single Session",
+          "url": "https://247wallst.com/cards/phillips-66-psx-price-swing-01m3wdgm6hvjg5hdkayk73ghvq",
+          "published_at": "2026-10-01T19:14:32"
+        }
+      ]
+    },
+    {
       "event_id": 1625,
       "title": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Analog Devices (NASDAQ:ADI)",
       "summary": "This article provides a Q2 recap for analog semiconductor stocks, focusing on Analog Devices (NASDAQ:ADI) and its strong performance, exceeding revenue and operating income expectations. It also highlights Monolithic Power Systems (NASDAQ:MPWR) as a top performer with significant revenue growth and Himax (NASDAQ:HIMX) as the slowest, despite still exceeding analyst expectations. The report briefly touches on market uncertainties like AI and geopolitics, emphasizing the importance of solid fundamentals for investment.",
@@ -19,8 +133,8 @@
         {
           "symbol": "ADI",
           "asset_class": null,
-          "relevance_score": 0.986057,
-          "sentiment_score": 0.448534,
+          "relevance_score": 0.994447,
+          "sentiment_score": 0.439004,
           "sentiment_label": "Bullish",
           "relationship_type": null
         },
@@ -28,7 +142,7 @@
           "symbol": "MPWR",
           "asset_class": null,
           "relevance_score": 0.876668,
-          "sentiment_score": 0.455221,
+          "sentiment_score": 0.471326,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -44,11 +158,11 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.706117
+          "relevance_score": 0.731915
         },
         {
           "topic": "economy_macro",
-          "relevance_score": 0.638952
+          "relevance_score": 0.639911
         }
       ],
       "articles": [
@@ -60,6 +174,85 @@
           "headline": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Analog Devices (NASDAQ:ADI)",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-recap-183707035.html",
           "published_at": "2026-10-01T19:07:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1631,
+      "title": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
+      "summary": "NextEra Energy is making significant strides in its growth strategy, identifying 18 GW of gas opportunities, including 16 GW linked to federal hubs and a 4.6 GW project at Paducah. The company is also expanding its data-center and large-load strategy in Florida and progressing with the proposed combination of Dominion operations in Virginia and the Carolinas. This deal is projected to expand the combined company's capacity from 110 GW to approximately 240 GW by 2032, with an adjusted EPS growth exceeding 9%.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-10-01T19:03:29",
+      "first_seen_at": "2026-10-01T21:00:03.002284",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.410247,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.966588,
+          "sentiment_score": 0.348446,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.617221,
+          "sentiment_score": 0.111038,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.573377,
+          "sentiment_score": 0.094125,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.558013,
+          "sentiment_score": 0.08271,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.931669
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.918477
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.816385
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1793,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-eyes-18-gw-190222919.html",
+          "published_at": "2026-10-01T19:03:29"
         }
       ]
     },
@@ -1002,223 +1195,6 @@
           "headline": "ConocoPhillips (NYSE:COP) Adjusts to New CEO Era as Crude Eases on Reserve Releases",
           "url": "https://kalkinemedia.com/us/stocks/oil-gas/conocophillips-nysecop-adjusts-to-new-ceo-era-as-crude-eases-on-reserve-releases",
           "published_at": "2026-09-30T17:28:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1611,
-      "title": "Williams Companies (NYSE:WMB) Completes Momentum Midstream Deal as Power Innovation Projects Advance for Data Centers",
-      "summary": "Williams Companies (NYSE:WMB) has finalized its acquisition of Momentum Midstream, expanding its natural gas gathering footprint in the Haynesville shale. Concurrently, the first phase of its Socrates power innovation project, which provides behind-the-meter power for data centers, has successfully entered service. This expansion and the advancement of power projects, supported by a financing partnership with Blackstone, Apollo, and KKR, underscore Williams' strategy to integrate gas transportation with dedicated power supply, especially for the growing data center sector.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 57,
-      "published_at": "2026-09-30T17:09:49",
-      "first_seen_at": "2026-09-30T19:00:03.096143",
-      "assets": [
-        {
-          "symbol": "WMB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.47122,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BX",
-          "asset_class": null,
-          "relevance_score": 0.775358,
-          "sentiment_score": 0.335361,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APO",
-          "asset_class": null,
-          "relevance_score": 0.695362,
-          "sentiment_score": 0.327049,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KKR",
-          "asset_class": null,
-          "relevance_score": 0.63237,
-          "sentiment_score": 0.349992,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMI",
-          "asset_class": null,
-          "relevance_score": 0.562628,
-          "sentiment_score": 0.256211,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.935701
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.901123
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.829757
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.639299
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1771,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Williams Companies (NYSE:WMB) Completes Momentum Midstream Deal as Power Innovation Projects Advance for Data Centers",
-          "url": "https://kalkinemedia.com/us/stocks/energy/williams-companies-nysewmb-completes-momentum-midstream-deal-as-power-innovation-projects-advance-for-data-centers",
-          "published_at": "2026-09-30T17:09:49"
-        }
-      ]
-    },
-    {
-      "event_id": 1612,
-      "title": "Southern Company offers stronger dividend security amid data center growth, while Duke Energy yields more today.",
-      "summary": "Southern Company and Duke Energy are both significant players in the power generation sector, actively securing data center contracts and investing in new infrastructure. Southern Company provides stronger dividend security due to stable retail rates, a tighter credit target, and collateralized contracts, making it ideal for investors seeking stable retirement income. Duke Energy, while offering a higher current dividend yield and trading at a lower valuation, faces more regulatory uncertainty, appealing to those prioritizing immediate yield.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-30T17:05:26",
-      "first_seen_at": "2026-09-30T19:00:03.403503",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.290342,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.941913,
-          "sentiment_score": 0.079747,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.709605,
-          "sentiment_score": 0.109714,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.934497
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.809292
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.701565
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.645918
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1772,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Pluang",
-          "source_domain": "Pluang",
-          "headline": "Southern Company offers stronger dividend security amid data center growth, while Duke Energy yields more today.",
-          "url": "https://pluang.com/en/news-feed/southern-atau-duke-dividen-utilitas-dengan-pembangunan-data-center",
-          "published_at": "2026-09-30T17:05:26"
-        }
-      ]
-    },
-    {
-      "event_id": 1605,
-      "title": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
-      "summary": "This article compares Southern Company (SO) and Duke Energy (DUK) as utility dividend investments, especially in the context of massive data center buildouts. It concludes that Southern Company is a stronger dividend anchor due to its tighter credit targets, lower remaining equity needs, and collateralized contracts, despite Duke offering a higher current yield and trading at a lower P/E. Investors focused on long-term dividend safety amidst rising capital expenditures are advised to favor Southern.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-30T16:45:34",
-      "first_seen_at": "2026-09-30T18:00:03.291752",
-      "assets": [
-        {
-          "symbol": "SO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.331803,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 0.957599,
-          "sentiment_score": 0.134052,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 0.641406,
-          "sentiment_score": 0.110825,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.933953
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.825172
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.712092
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.625984
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1762,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
-          "url": "https://247wallst.com/investing/2026/09/30/southern-or-duke-which-utility-dividend-holds-up-against-the-data-center-buildout/",
-          "published_at": "2026-09-30T16:45:34"
         }
       ]
     }
