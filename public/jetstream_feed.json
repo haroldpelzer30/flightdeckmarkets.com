@@ -5,6 +5,215 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1625,
+      "title": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Analog Devices (NASDAQ:ADI)",
+      "summary": "This article provides a Q2 recap for analog semiconductor stocks, focusing on Analog Devices (NASDAQ:ADI) and its strong performance, exceeding revenue and operating income expectations. It also highlights Monolithic Power Systems (NASDAQ:MPWR) as a top performer with significant revenue growth and Himax (NASDAQ:HIMX) as the slowest, despite still exceeding analyst expectations. The report briefly touches on market uncertainties like AI and geopolitics, emphasizing the importance of solid fundamentals for investment.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-01T19:07:00",
+      "first_seen_at": "2026-10-01T20:00:02.551785",
+      "assets": [
+        {
+          "symbol": "ADI",
+          "asset_class": null,
+          "relevance_score": 0.986057,
+          "sentiment_score": 0.448534,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPWR",
+          "asset_class": null,
+          "relevance_score": 0.876668,
+          "sentiment_score": 0.455221,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.933061
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.837518
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.706117
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.638952
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1787,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Analog Devices (NASDAQ:ADI)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-recap-183707035.html",
+          "published_at": "2026-10-01T19:07:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1626,
+      "title": "Phillips 66 Stock (PSX) Moved Up by 3.11% on Oct 1: What Signal Does It Send?",
+      "summary": "Phillips 66 (PSX) stock increased by 3.11% on October 1st, outperforming the Energy - Fossil Fuels sector. This surge is attributed to favorable Wall Street rating adjustments, institutional accumulation, and strong quarterly earnings driven by elevated crack spreads and refinery utilization. The company's expanded share repurchase program and competitive dividend strategy are also contributing factors to investor confidence.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 58,
+      "published_at": "2026-10-01T18:16:02",
+      "first_seen_at": "2026-10-01T20:00:02.836056",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.528366,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SLB",
+          "asset_class": null,
+          "relevance_score": 0.642461,
+          "sentiment_score": -0.193506,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.633165,
+          "sentiment_score": 0.22395,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.615083,
+          "sentiment_score": 0.390309,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.60886,
+          "sentiment_score": 0.425464,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.916661
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.910202
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.907443
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1788,
+          "provider": "ALPHA_VANTAGE",
+          "source": "TradingKey",
+          "source_domain": "TradingKey",
+          "headline": "Phillips 66 Stock (PSX) Moved Up by 3.11% on Oct 1: What Signal Does It Send?",
+          "url": "https://www.tradingkey.com/news/market-movers/262196719-market-movers-psx-20261001",
+          "published_at": "2026-10-01T18:16:02"
+        }
+      ]
+    },
+    {
+      "event_id": 1627,
+      "title": "Constellation vs Vistra stock: PJM delay puts contracts first",
+      "summary": "The Federal Energy Regulatory Commission (FERC) has accepted PJM's reliability-backstop framework but suspended its effectiveness for five months, impacting new capacity procurement rather than existing bilateral contracts. This article compares Constellation Energy (CEG) and Vistra (VST) focusing on their AI-linked power contracts, highlighting that Vistra has more operating megawatts under contract while Constellation's Microsoft deal depends on a plant restart. For investors, Vistra offers a clearer setup with existing generating assets, whereas Constellation's investment case is more reliant on the successful restart of its Crane plant in 2027.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-01T18:13:00",
+      "first_seen_at": "2026-10-01T20:00:03.167315",
+      "assets": [
+        {
+          "symbol": "VST",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.270689,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CEG",
+          "asset_class": null,
+          "relevance_score": 0.9297,
+          "sentiment_score": 0.242178,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.633144,
+          "sentiment_score": 0.109918,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.579619,
+          "sentiment_score": 0.137274,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.90654
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.815003
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.727181
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1789,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Techi",
+          "source_domain": "Techi",
+          "headline": "Constellation vs Vistra stock: PJM delay puts contracts first",
+          "url": "https://www.techi.com/constellation-vs-vistra-stock-pjm-delay-contracts/",
+          "published_at": "2026-10-01T18:13:00"
+        }
+      ]
+    },
+    {
       "event_id": 1624,
       "title": "MSTR Stock Outlook as Strategy CEO Questions MSCI’s Anti-Bitcoin Stance Ahead of November Rebalancing",
       "summary": "MSTR stock is rising following softer US inflation data, but faces potential removal from the MSCI index in November due to MSCI's proposed classification changes. Strategy's CEO, Phong Le, and Strive's CEO, Matt Cole, have criticized MSCI's stance, calling it anti-Bitcoin, especially given MSCI CEO Henry Fernandez's push for a \"green\" benchmark. Meanwhile, Strategy's STRC stock is nearing its par value due to proposed daily dividends, and MSTR stock needs to close above its 200-week EMA to confirm an upward trend.",
@@ -1010,210 +1219,6 @@
           "headline": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
           "url": "https://247wallst.com/investing/2026/09/30/southern-or-duke-which-utility-dividend-holds-up-against-the-data-center-buildout/",
           "published_at": "2026-09-30T16:45:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1606,
-      "title": "Cms Energy Corp stock hits 52-week low at 19.77 USD",
-      "summary": "Cms Energy Corp's stock has fallen to a 52-week low of $19.77. Despite being oversold according to the RSI and offering an attractive 7.37% dividend yield, the stock has seen an 18.53% decline over the past year. The company's low beta of 0.33 suggests minimal volatility, but its performance is currently impacted by broader energy sector and market challenges.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-09-30T16:34:00",
-      "first_seen_at": "2026-09-30T18:00:03.591695",
-      "assets": [
-        {
-          "symbol": "CMS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.411573,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "DUK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.649423,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CMS-P-C",
-          "asset_class": null,
-          "relevance_score": 0.310477,
-          "sentiment_score": 0.024546,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.92012
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.728106
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.633725
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.604372
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1765,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Duke Energy stock hits 52-week low at 19.84 USD",
-          "url": "https://in.investing.com/news/stock-market-news/duke-energy-stock-hits-52week-low-at-1984-usd-93CH-5613408",
-          "published_at": "2026-09-30T16:00:37"
-        },
-        {
-          "article_id": 1764,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Nigeria",
-          "source_domain": "Investing.com Nigeria",
-          "headline": "Cms Energy Corp stock hits 52-week low at 19.77 USD",
-          "url": "https://ng.investing.com/news/stock-market-news/cms-energy-corp-stock-hits-52week-low-at-1977-usd-93CH-2716506",
-          "published_at": "2026-09-30T16:02:09"
-        },
-        {
-          "article_id": 1763,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com UK",
-          "source_domain": "Investing.com UK",
-          "headline": "Cms Energy Corp stock hits 52-week low at 19.77 USD",
-          "url": "https://uk.investing.com/news/stock-market-news/cms-energy-corp-stock-hits-52week-low-at-1977-usd-93CH-4890069",
-          "published_at": "2026-09-30T16:34:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1603,
-      "title": "Salesforce up 3.2% after announcing Listen Labs acquisition",
-      "summary": "Salesforce Inc. shares rose 3.2% after the company announced its acquisition of Listen Labs, an AI-powered customer research and human simulation platform. This acquisition will enhance Salesforce's customer understanding capabilities, integrating with its Marketing Cloud, Service Cloud, and broader AI portfolio. Listen Labs' technology uses AI agents to conduct and synthesize customer research rapidly, drawing from a global network of participants and utilizing digital twins for simulated customer responses.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-09-30T16:11:57",
-      "first_seen_at": "2026-09-30T17:00:02.184619",
-      "assets": [
-        {
-          "symbol": "CRM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.453316,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.90452
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.840472
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.749558
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.625933
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1760,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Proactive financial news",
-          "source_domain": "Proactive financial news",
-          "headline": "Salesforce up 3.2% after announcing Listen Labs acquisition",
-          "url": "https://www.proactiveinvestors.com/companies/news/1099393/salesforce-up-3-2-after-announcing-listen-labs-acquisition-1099393.html",
-          "published_at": "2026-09-30T16:11:57"
-        },
-        {
-          "article_id": 1766,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Salesforce up 3.2% after announcing Listen Labs acquisition",
-          "url": "https://ca.finance.yahoo.com/news/salesforce-3-2-announcing-listen-161200328.html",
-          "published_at": "2026-09-30T16:13:07"
-        }
-      ]
-    },
-    {
-      "event_id": 1604,
-      "title": "$67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say",
-      "summary": "Democratic lawmakers are expressing concerns that the proposed $67 billion merger between NextEra Energy and Dominion Energy could lead to higher electricity prices and reduced competition. In a letter to FERC, they urged close scrutiny of the deal, fearing the enlarged company would gain excessive market power, potentially raising costs for consumers and hindering grid upgrades. The lawmakers also questioned the companies' promises of bill credits, citing past instances where such savings failed to materialize after mergers.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 71,
-      "published_at": "2026-09-30T16:00:57",
-      "first_seen_at": "2026-09-30T17:00:02.490219",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.261035,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.99202,
-          "sentiment_score": -0.22878,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.92747
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.844824
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.646504
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1761,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CBS News",
-          "source_domain": "CBS News",
-          "headline": "$67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say",
-          "url": "https://www.cbsnews.com/news/nextera-dominion-merger-utility-prices/",
-          "published_at": "2026-09-30T16:00:57"
         }
       ]
     }
