@@ -5,6 +5,104 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1622,
+      "title": "Why Deere (DE) Stock Is Down Today",
+      "summary": "Deere & Company (DE) stock is down 3.2% today, primarily attributed to broad market pressure on industrial stocks and profit-taking after its strong late-August rally. Despite a strong third-quarter earnings report, investors appear to be rotating out of economically sensitive names as Treasury yields climb. Insider trading shows significant sales by an executive, while institutional investors have both increased and decreased their positions, and members of Congress have made one sale.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 65,
+      "published_at": "2026-10-01T15:33:35",
+      "first_seen_at": "2026-10-01T17:00:02.187582",
+      "assets": [
+        {
+          "symbol": "DE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.217159,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.937291
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.925534
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.825088
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.706323
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1784,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quiver Quantitative",
+          "source_domain": "Quiver Quantitative",
+          "headline": "Why Deere (DE) Stock Is Down Today",
+          "url": "https://www.quiverquant.com/news/Why+Deere+%28DE%29+Stock+Is+Down+Today",
+          "published_at": "2026-10-01T15:33:35"
+        }
+      ]
+    },
+    {
+      "event_id": 1623,
+      "title": "National Fuel Gas Company completed the acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp.",
+      "summary": "National Fuel Gas Company announced the completion of its acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp. for $2.6 billion. The newly acquired utility will be renamed National Fuel Gas Distribution of Ohio, LLC, and approximately 200 employees will join National Fuel as part of the transaction. The acquisition, which was previously approved by the Public Utilities Commission of Ohio, is expected to be immediately accretive to National Fuel's regulated earnings per share.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 64,
+      "published_at": "2026-10-01T15:33:31",
+      "first_seen_at": "2026-10-01T17:00:02.463915",
+      "assets": [
+        {
+          "symbol": "CNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.493675,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.839304
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.644574
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1785,
+          "provider": "ALPHA_VANTAGE",
+          "source": "marketscreener.com",
+          "source_domain": "marketscreener.com",
+          "headline": "National Fuel Gas Company completed the acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp.",
+          "url": "https://www.marketscreener.com/news/national-fuel-gas-company-completed-the-acquisition-of-vectren-energy-delivery-of-ohio-llc-from-cen-ce785ddad980f721",
+          "published_at": "2026-10-01T15:33:31"
+        }
+      ]
+    },
+    {
       "event_id": 1620,
       "title": "Microchip completes Hailo deal as Microchip Technology stock trades at EUR 68.89",
       "summary": "Microchip Technology has completed its acquisition of Hailo, integrating edge AI processors, vision processors, robotics processors, and AI software into its portfolio. The deal, which adds over 100 customers and a developer community of 10,000, is strategically significant despite a limited near-term earnings impact. The announcement comes as Microchip reported strong first-quarter fiscal 2027 revenue of USD 1.48 billion, up 38% year-over-year, and while its stock trades below its 52-week high.",
@@ -1116,100 +1214,6 @@
           "headline": "Fox Corporation stock gains 1.23 percent in trading",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-gains-1-23-percent-in-trading/70205038",
           "published_at": "2026-09-30T14:34:17"
-        }
-      ]
-    },
-    {
-      "event_id": 1601,
-      "title": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans.",
-      "summary": "Essential Utilities (WTRG) is implementing new employee policies as part of its merger integration with American Water, including a ban on cell phone use while driving on the job, even with hands-free devices, effective on Day 1 of the combined organization. The company also plans to phase out its personal-use company vehicle program by December 31, 2028. The merger is expected to close by the end of the first quarter of 2027, with further organizational role selections and system alignments continuing post-closing.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-09-30T14:28:16",
-      "first_seen_at": "2026-09-30T16:00:03.010940",
-      "assets": [
-        {
-          "symbol": "WTRG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.107299,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AWK",
-          "asset_class": null,
-          "relevance_score": 0.818992,
-          "sentiment_score": 0.114614,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1758,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans.",
-          "url": "https://www.stocktitan.net/sec-filings/WTRG/425-essential-utilities-inc-business-combination-communication-f6b8db39da43.html",
-          "published_at": "2026-09-30T14:28:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1602,
-      "title": "Hormel Acquires Chicken Processor for $1B",
-      "summary": "Hormel Foods Corp. announced its acquisition of Brakebush Brothers LLC, a family-owned chicken processor, for $1.055 billion. This move strengthens Hormel's position in the value-added chicken and foodservice sectors. Brakebush, with $1.2 billion in net sales, five production facilities, and two R&D labs, will help Hormel better serve national and regional operators with high-quality chicken products.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-09-30T14:20:58",
-      "first_seen_at": "2026-09-30T16:00:03.242490",
-      "assets": [
-        {
-          "symbol": "HRL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.466396,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.731124
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.644971
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1759,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Meatingplace",
-          "source_domain": "Meatingplace",
-          "headline": "Hormel Acquires Chicken Processor for $1B",
-          "url": "https://meatingplace.com/hormel-acquires-chicken-processor-for-1b/",
-          "published_at": "2026-09-30T14:20:58"
         }
       ]
     }
