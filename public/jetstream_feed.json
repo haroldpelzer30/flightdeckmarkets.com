@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1620,
+      "title": "Microchip completes Hailo deal as Microchip Technology stock trades at EUR 68.89",
+      "summary": "Microchip Technology has completed its acquisition of Hailo, integrating edge AI processors, vision processors, robotics processors, and AI software into its portfolio. The deal, which adds over 100 customers and a developer community of 10,000, is strategically significant despite a limited near-term earnings impact. The announcement comes as Microchip reported strong first-quarter fiscal 2027 revenue of USD 1.48 billion, up 38% year-over-year, and while its stock trades below its 52-week high.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-01T14:51:40",
+      "first_seen_at": "2026-10-01T16:00:03.576936",
+      "assets": [
+        {
+          "symbol": "MCHP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.318637,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.930151
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839388
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.742007
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1782,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Microchip completes Hailo deal as Microchip Technology stock trades at EUR 68.89",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/microchip-completes-hailo-deal-as-microchip-technology-stock-trades-at-eur/70211310",
+          "published_at": "2026-10-01T14:51:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1621,
+      "title": "CMA CGM Group completes acquisition of FedEx Supply Chain, strengthening its logistics presence in North America, and enters into multi-year commercial agreements related to air and ocean freight",
+      "summary": "The CMA CGM Group has completed its $1.4 billion acquisition of FedEx Supply Chain, significantly expanding CEVA Logistics' North American contract logistics operations. This acquisition nearly triples CEVA's footprint, adding 34 million square feet of warehouse space and approximately 10,000 team members. Concurrently, CMA CGM and FedEx have entered into multi-year commercial agreements for air and ocean freight, enhancing their global networks and logistical capabilities.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-10-01T14:20:39",
+      "first_seen_at": "2026-10-01T16:00:03.802429",
+      "assets": [
+        {
+          "symbol": "FDX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.112705,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.845134
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.640941
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.608135
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1783,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CMA CGM Group",
+          "source_domain": "CMA CGM Group",
+          "headline": "CMA CGM Group completes acquisition of FedEx Supply Chain, strengthening its logistics presence in North America, and enters into multi-year commercial agreements related to air and ocean freight",
+          "url": "https://www.cmacgm-group.com/en/news-media/cma-cgm-group-completes-acquisition-fedex-supply-chain-strengthening-its-logistics",
+          "published_at": "2026-10-01T14:20:39"
+        }
+      ]
+    },
+    {
       "event_id": 1618,
       "title": "U.S. Bank and DAT: Contract and spot truck freight rates diverge",
       "summary": "The latest quarterly U.S. Bank Freight Payment Index – Rates Edition, produced in collaboration with DAT Freight & Analytics, indicates a divergence in contract and spot truck freight rates between June and August. Contract rates increased, while spot rates decreased, leading to contract rates carrying a premium over spot freight by August. Fuel costs also significantly impacted total transportation spending, increasing even as spot linehaul pricing softened.",
@@ -1108,108 +1210,6 @@
           "headline": "Hormel Acquires Chicken Processor for $1B",
           "url": "https://meatingplace.com/hormel-acquires-chicken-processor-for-1b/",
           "published_at": "2026-09-30T14:20:58"
-        }
-      ]
-    },
-    {
-      "event_id": 1597,
-      "title": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
-      "summary": "Conagra Brands discussed its Q1 FY27 earnings, reaffirming its full-year outlook despite a beat in Q1 driven by SG&A timing, Ardent Mills benefit, lower inflation, and a tariff refund. The company outlined its strategy for managing higher transportation inflation, deleveraging to a 3x target, and optimizing its product portfolio through SKU simplification and increased A&P spending. Conagra emphasized a prudent approach to elasticity assumptions and a focus on core platforms and brand building.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-09-30T14:09:02",
-      "first_seen_at": "2026-09-30T15:00:02.359831",
-      "assets": [
-        {
-          "symbol": "CAG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.025423,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.807919
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.703171
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1754,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AlphaStreet",
-          "source_domain": "AlphaStreet",
-          "headline": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
-          "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
-          "published_at": "2026-09-30T14:09:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1598,
-      "title": "Nasdaq Gains Over 100 Points; Jabil Posts Upbeat Earnings",
-      "summary": "U.S. stocks saw broad gains, with the Nasdaq Composite climbing over 100 points, driven by strong performance in the information technology sector. Jabil Inc. reported better-than-expected fourth-quarter earnings and provided an optimistic outlook for FY2027, beating analyst estimates for both EPS and sales. Several other equities experienced significant movements, with NewGenIvf Group, Connect Biopharma Holdings, and Neo-Concept International Group seeing large gains, while Darkiris Inc., Decent Holding Inc., and Rafael Holdings Inc. declined.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 69,
-      "published_at": "2026-09-30T13:43:01",
-      "first_seen_at": "2026-09-30T15:00:02.607738",
-      "assets": [
-        {
-          "symbol": "JBL",
-          "asset_class": null,
-          "relevance_score": 0.959222,
-          "sentiment_score": 0.461811,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.911053
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906564
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.800979
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.61188
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.602641
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1755,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Nasdaq Gains Over 100 Points; Jabil Posts Upbeat Earnings",
-          "url": "https://www.benzinga.com/news/26/09/62079279/nasdaq-gains-over-100-points-jabil-posts-upbeat-earnings",
-          "published_at": "2026-09-30T13:43:01"
         }
       ]
     }
