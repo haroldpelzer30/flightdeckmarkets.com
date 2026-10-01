@@ -5,6 +5,141 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1618,
+      "title": "U.S. Bank and DAT: Contract and spot truck freight rates diverge",
+      "summary": "The latest quarterly U.S. Bank Freight Payment Index – Rates Edition, produced in collaboration with DAT Freight & Analytics, indicates a divergence in contract and spot truck freight rates between June and August. Contract rates increased, while spot rates decreased, leading to contract rates carrying a premium over spot freight by August. Fuel costs also significantly impacted total transportation spending, increasing even as spot linehaul pricing softened.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-10-01T13:45:53",
+      "first_seen_at": "2026-10-01T15:00:02.979735",
+      "assets": [
+        {
+          "symbol": "USB",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.287187,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ROP",
+          "asset_class": null,
+          "relevance_score": 0.707567,
+          "sentiment_score": 0.131037,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.924439
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.835612
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.716794
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1779,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Business Wire",
+          "source_domain": "Business Wire",
+          "headline": "U.S. Bank and DAT: Contract and spot truck freight rates diverge",
+          "url": "https://www.businesswire.com/news/home/20261001882013/en/U.S.-Bank-and-DAT-Contract-and-spot-truck-freight-rates-diverge",
+          "published_at": "2026-10-01T13:45:53"
+        }
+      ]
+    },
+    {
+      "event_id": 1619,
+      "title": "ConocoPhillips Weighs Selling Its Norway Business",
+      "summary": "ConocoPhillips is considering an unsolicited offer to sell its Norway business and the Teesside oil terminal in the UK, as Brent crude approaches $100 a barrel. This move is part of the typical portfolio reshuffling by major oil companies to fund higher-return projects or shareholder payouts. A potential sale would provide a real-time valuation for these assets, allowing analysts to re-evaluate the company's sum-of-the-parts valuation and influence stock performance.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-10-01T13:39:28",
+      "first_seen_at": "2026-10-01T15:00:03.265767",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.120729,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.623229,
+          "sentiment_score": 0.127984,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.614416,
+          "sentiment_score": 0.113245,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.914239
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.815686
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.723274
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.639624
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1781,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Seeking Alpha",
+          "source_domain": "Seeking Alpha",
+          "headline": "ConocoPhillips says weighing sale of Norway business, U.K. Teesside asset (COP:NYSE)",
+          "url": "https://seekingalpha.com/news/4649068-conocophillips-says-weighing-sale-of-norway-business-uk-teesside-asset",
+          "published_at": "2026-10-01T13:37:23"
+        },
+        {
+          "article_id": 1780,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Finimize",
+          "source_domain": "Finimize",
+          "headline": "ConocoPhillips Weighs Selling Its Norway Business",
+          "url": "https://finimize.com/content/conocophillips-weighs-selling-its-norway-business",
+          "published_at": "2026-10-01T13:39:28"
+        }
+      ]
+    },
+    {
       "event_id": 1617,
       "title": "ONEOK Stock: Second Guidance Raise And Brazos Deal Make The Pullback Compelling (NYSE:OKE)",
       "summary": "ONEOK (OKE) has raised its full-year guidance for the second time in 2026, fueled by strong Q2 results and a $4.425 billion acquisition of Brazos Midstream. Despite improved fundamentals, OKE's forward valuation has compressed to 14.75x EPS, with adjusted EBITDA guidance now at $8.35 billion and EPS at $5.68 for 2026. The company's growth is supported by nearing project completions, a positive macro environment, and an efficient acquisition structure, making its 4.93% forward dividend yield and robust free cash flow coverage compelling.",
@@ -1075,96 +1210,6 @@
           "headline": "Nasdaq Gains Over 100 Points; Jabil Posts Upbeat Earnings",
           "url": "https://www.benzinga.com/news/26/09/62079279/nasdaq-gains-over-100-points-jabil-posts-upbeat-earnings",
           "published_at": "2026-09-30T13:43:01"
-        }
-      ]
-    },
-    {
-      "event_id": 1599,
-      "title": "Copart stock trades at EUR 23.91 after fiscal results",
-      "summary": "Copart stock was trading at EUR 23.91 at Lang & Schwarz, down 0.08 percent, following its fiscal 2026 results. The company reported a 0.4% rise in revenue to USD 4.7 billion for fiscal 2026, but net income and diluted EPS declined. Copart also announced the acquisition of ACV Auctions for USD 1.9 billion to expand its digital vehicle remarketing reach, a move expected to be earnings neutral in the first year and accretive in fiscal 2028.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-30T13:22:45",
-      "first_seen_at": "2026-09-30T15:00:02.882160",
-      "assets": [
-        {
-          "symbol": "CPRT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.030506,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.928705
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845374
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1756,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Copart stock trades at EUR 23.91 after fiscal results",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/copart-stock-trades-at-eur-23-91-after-fiscal-results/70204636",
-          "published_at": "2026-09-30T13:22:45"
-        }
-      ]
-    },
-    {
-      "event_id": 1593,
-      "title": "W.R. Berkley stock reports a quarterly earnings beat",
-      "summary": "W.R. Berkley stock reported a quarterly earnings beat for Q2 2026, with operating EPS of USD 1.27 surpassing the USD 1.08 consensus and revenue reaching USD 3.72 billion against a USD 3.28 billion consensus. Despite the strong performance, Zacks Research cut its Q4 2026 EPS forecast, indicating more cautious estimates moving forward. The company has also declared a quarterly dividend and is scheduled to release its Q3 2026 earnings on October 19, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-09-30T12:48:29",
-      "first_seen_at": "2026-09-30T14:00:01.958130",
-      "assets": [
-        {
-          "symbol": "WRB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.302474,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.907279
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.611363
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1750,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "W.R. Berkley stock reports a quarterly earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-r-berkley-stock-reports-a-quarterly-earnings-beat/70204484",
-          "published_at": "2026-09-30T12:48:29"
         }
       ]
     }
