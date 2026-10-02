@@ -5,6 +5,136 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1655,
+      "title": "Morgan Stanley Strategist Sees “5 or 10%” Market Drawdown Potential as Five Megacaps Carry the S&P 500",
+      "summary": "A Morgan Stanley strategist warns of a potential 5% to 10% market drawdown, driven by bond volatility and the narrow leadership of five megacap stocks in the S&P 500. While these five stocks (Microsoft, NVIDIA, Meta, Apple, Alphabet) have propelled most of the S&P 500's gains, the strategist suggests a pullback could be a buying opportunity, especially given strong earnings growth and reasonable valuations for these companies. The market's breadth has narrowed, with many stocks already in a bear market, indicating a potential correction if bond market volatility persists.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 62,
+      "published_at": "2026-10-02T15:04:25",
+      "first_seen_at": "2026-10-02T17:00:02.728170",
+      "assets": [
+        {
+          "symbol": "MS",
+          "asset_class": null,
+          "relevance_score": 0.947658,
+          "sentiment_score": 0.142251,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.8448,
+          "sentiment_score": 0.261561,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.700797,
+          "sentiment_score": 0.285872,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.624183,
+          "sentiment_score": 0.219265,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AAPL",
+          "asset_class": null,
+          "relevance_score": 0.616518,
+          "sentiment_score": 0.247544,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.907286
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.815156
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.725259
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.647012
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1820,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Morgan Stanley Strategist Sees “5 or 10%” Market Drawdown Potential as Five Megacaps Carry the S&P 500",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strategist-sees-5-150329341.html",
+          "published_at": "2026-10-02T15:04:25"
+        }
+      ]
+    },
+    {
+      "event_id": 1656,
+      "title": "Witness A Substantial Acquisition As Anthony R Chase Acquires Nabors Industries Stock Options Worth $939",
+      "summary": "Anthony R. Chase, a Director at Nabors Industries (NYSE: NBR), recently acquired stock options for 1,056 shares, as disclosed in a Form 4 filing on October 2. The options allow Chase to purchase the stock at $78.12 per share, and the current value of these shares is $939. Nabors Industries, which operates land-based and offshore drilling rig fleets, has faced revenue challenges with a -2.16% decline in the last three months but boasts a high gross margin of 18.0%.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T15:02:46",
+      "first_seen_at": "2026-10-02T17:00:03.078378",
+      "assets": [
+        {
+          "symbol": "NBR",
+          "asset_class": null,
+          "relevance_score": 0.345027,
+          "sentiment_score": 0.047293,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936079
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.823927
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.800291
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1821,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Witness A Substantial Acquisition As Anthony R Chase Acquires Nabors Industries Stock Options Worth $939",
+          "url": "https://www.benzinga.com/news/26/10/62137576/witness-substantial-acquisition-anthony-r-chase-acquires-nabors-industries-stock-options-worth-939",
+          "published_at": "2026-10-02T15:02:46"
+        }
+      ]
+    },
+    {
       "event_id": 1652,
       "title": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
       "summary": "Shares of Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems jumped after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure on growth equities. Nonfarm payrolls increased by 29,000 in September, falling short of expectations, and the unemployment rate rose to 4.2%. This shift lowers borrowing costs, which is generally favorable for semiconductor valuations, although further labor market deceleration could impact demand in cyclical end-markets.",
@@ -1042,104 +1172,6 @@
           "headline": "Federal Realty acquires Alabama shopping center for $508 million",
           "url": "https://in.investing.com/news/stock-market-news/federal-realty-acquires-alabama-shopping-center-for-508-million-93CH-5615692",
           "published_at": "2026-10-01T20:52:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1636,
-      "title": "September 2026 Recap | On The Margin",
-      "summary": "The \"September 2026 Recap | On The Margin\" report from CBIZ details that global markets experienced mostly negative returns in September 2026, primarily due to inflation concerns and rising interest rates impacting equities and fixed income. While U.S. large-cap growth stocks were an exception, small-cap stocks, international equities, and bonds all saw declines. The full publication is available for download, offering detailed insights into these market trends.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-10-01T20:38:06",
-      "first_seen_at": "2026-10-01T22:00:03.551433",
-      "assets": [
-        {
-          "symbol": "CBZ",
-          "asset_class": null,
-          "relevance_score": 0.327335,
-          "sentiment_score": 0.034169,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920315
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.818841
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.72543
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.644625
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1800,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CBIZ",
-          "source_domain": "CBIZ",
-          "headline": "September 2026 Recap | On The Margin",
-          "url": "https://www.cbiz.com/insights/report/september-2026-recap-on-the-margin",
-          "published_at": "2026-10-01T20:38:06"
-        }
-      ]
-    },
-    {
-      "event_id": 1637,
-      "title": "How Is Record Production Propelling Canadian Natural Resources Limited (TSX:CNQ) To New Heights?",
-      "summary": "Canadian Natural Resources Limited (TSX:CNQ) has achieved record quarterly production, driven by operational excellence and strategic acquisitions, particularly in the Peace River region. This led to unprecedented adjusted net earnings and sustained its multi-decade dividend growth streak. The company's strategic priorities include maximizing production, disciplined spending, and shareholder distributions, while also addressing climate transition initiatives.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-01T20:27:07",
-      "first_seen_at": "2026-10-01T22:00:03.802180",
-      "assets": [
-        {
-          "symbol": "CNQ",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.498076,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.932744
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.845971
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1801,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "How Is Record Production Propelling Canadian Natural Resources Limited (TSX:CNQ) To New Heights?",
-          "url": "https://kalkinemedia.com/ca/stocks/oil-gas/how-is-record-production-propelling-canadian-natural-resources-limited-tsxcnq-to-new-heights",
-          "published_at": "2026-10-01T20:27:07"
         }
       ]
     }
