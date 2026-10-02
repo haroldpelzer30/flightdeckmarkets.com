@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1646,
+      "title": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
+      "summary": "5E Advanced Materials Inc. has finalized its acquisition of real property, production facilities, and brine resources from Searles Valley Minerals Inc. and its affiliates. The deal involved $3.4 million in cash, 8.3 million shares of common stock, and approximately $17.2 million in new debt obligations, including a $6.2 million unsecured promissory note and a $10.0 million secured bridge facility. This acquisition expands 5E Advanced Materials' asset base in the Trona, California area but introduces significant debt with high interest rates and near-term refinancing considerations.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T12:31:56",
+      "first_seen_at": "2026-10-02T14:00:01.767853",
+      "assets": [
+        {
+          "symbol": "FEAM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.267813,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.901722
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1811,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Minichart",
+          "source_domain": "Minichart",
+          "headline": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
+          "url": "https://www.minichart.com.sg/2026/10/01/5e-advanced-materials-closes-trona-asset-acquisition-with-17-2-million-in-new-debt/",
+          "published_at": "2026-10-02T12:31:56"
+        }
+      ]
+    },
+    {
+      "event_id": 1647,
+      "title": "Strike Vote Could Be A Key Test For Phillips 66 Stock (PSX)",
+      "summary": "A strike authorization by Teamsters Local 877 members at Phillips 66's Bayway Refinery poses a significant risk to the company's operational reliability and cost control efforts. The dispute, stemming from stalled contract talks over wages, benefits, and safety, could impact Phillips 66's ability to execute refinery projects and meet EBITDA targets, particularly given its high debt load and projected revenue declines. Investors are watching closely to see if the company can resolve the standoff without material downtime or increased operating costs, which would challenge analyst assumptions of high utilization as a key upside catalyst.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-10-02T12:27:08",
+      "first_seen_at": "2026-10-02T14:00:02.000298",
+      "assets": [
+        {
+          "symbol": "PSX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.245479,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MPC",
+          "asset_class": null,
+          "relevance_score": 0.569629,
+          "sentiment_score": -0.062103,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VLO",
+          "asset_class": null,
+          "relevance_score": 0.552814,
+          "sentiment_score": -0.099394,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.929968
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.826658
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1812,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Simply Wall Street",
+          "source_domain": "Simply Wall Street",
+          "headline": "Strike Vote Could Be A Key Test For Phillips 66 Stock (PSX)",
+          "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/strike-vote-could-be-a-key-test-for-phillips-66-stock-psx",
+          "published_at": "2026-10-02T12:27:08"
+        }
+      ]
+    },
+    {
       "event_id": 1644,
       "title": "Zacks Research Analysts Increase Earnings Estimates for IDEX",
       "summary": "Zacks Research analysts have increased their Q1 2027 earnings estimates for IDEX (NYSE:IEX) to $2.13 per share, up from $2.12, and provided higher full-year estimates for 2027 and 2028. This update follows IDEX's recent Q2 earnings beat, where the company reported $2.32 EPS against a $2.11 consensus and revenue of $920.6 million. IDEX maintains a \"Moderate Buy\" consensus rating with an average price target of $260.27, and institutional investors hold a significant 97.96% stake in the company.",
@@ -20,7 +126,7 @@
           "symbol": "IEX",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.646429,
+          "sentiment_score": 0.624132,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -32,15 +138,15 @@
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.933365
+          "relevance_score": 0.94467
         },
         {
           "topic": "finance",
-          "relevance_score": 0.826111
+          "relevance_score": 0.841302
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.712534
+          "relevance_score": 0.73562
         },
         {
           "topic": "economy_macro",
@@ -1122,108 +1228,6 @@
           "headline": "Constellation vs Vistra stock: PJM delay puts contracts first",
           "url": "https://www.techi.com/constellation-vs-vistra-stock-pjm-delay-contracts/",
           "published_at": "2026-10-01T18:13:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1624,
-      "title": "MSTR Stock Outlook as Strategy CEO Questions MSCI’s Anti-Bitcoin Stance Ahead of November Rebalancing",
-      "summary": "MSTR stock is rising following softer US inflation data, but faces potential removal from the MSCI index in November due to MSCI's proposed classification changes. Strategy's CEO, Phong Le, and Strive's CEO, Matt Cole, have criticized MSCI's stance, calling it anti-Bitcoin, especially given MSCI CEO Henry Fernandez's push for a \"green\" benchmark. Meanwhile, Strategy's STRC stock is nearing its par value due to proposed daily dividends, and MSTR stock needs to close above its 200-week EMA to confirm an upward trend.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-10-01T16:11:37",
-      "first_seen_at": "2026-10-01T18:00:02.997198",
-      "assets": [
-        {
-          "symbol": "MSCI",
-          "asset_class": null,
-          "relevance_score": 0.996748,
-          "sentiment_score": -0.318377,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "blockchain",
-          "relevance_score": 0.942569
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.904635
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.816353
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.610359
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1786,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CoinGape",
-          "source_domain": "CoinGape",
-          "headline": "MSTR Stock Outlook as Strategy CEO Questions MSCI’s Anti-Bitcoin Stance Ahead of November Rebalancing",
-          "url": "https://coingape.com/markets/mstr-stock-outlook-as-strategy-ceo-questions-msci-bitcoin-stance-ahead-of-rebalancing/",
-          "published_at": "2026-10-01T16:11:37"
-        }
-      ]
-    },
-    {
-      "event_id": 1622,
-      "title": "Why Deere (DE) Stock Is Down Today",
-      "summary": "Deere & Company (DE) stock is down 3.2% today, primarily attributed to broad market pressure on industrial stocks and profit-taking after its strong late-August rally. Despite a strong third-quarter earnings report, investors appear to be rotating out of economically sensitive names as Treasury yields climb. Insider trading shows significant sales by an executive, while institutional investors have both increased and decreased their positions, and members of Congress have made one sale.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 65,
-      "published_at": "2026-10-01T15:33:35",
-      "first_seen_at": "2026-10-01T17:00:02.187582",
-      "assets": [
-        {
-          "symbol": "DE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.217159,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.937291
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.925534
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.825088
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.706323
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1784,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Quiver Quantitative",
-          "source_domain": "Quiver Quantitative",
-          "headline": "Why Deere (DE) Stock Is Down Today",
-          "url": "https://www.quiverquant.com/news/Why+Deere+%28DE%29+Stock+Is+Down+Today",
-          "published_at": "2026-10-01T15:33:35"
         }
       ]
     }
