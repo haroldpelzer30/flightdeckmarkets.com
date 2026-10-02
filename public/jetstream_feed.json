@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1662,
+      "title": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
+      "summary": "Former Tesla President Jon McNeill states that Tesla's traditional car sales are crucial for funding its long-term ambitions in robotaxis and humanoid robots, which require extensive capital and development time. Despite this, he highlights that the Full Self-Driving software is a key driver of current Tesla vehicle sales, comparing its impact to the transition from flip phones to smartphones. McNeill also noted that prediction market traders were more accurate than Wall Street analysts in forecasting Tesla's recent delivery numbers.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T19:13:34",
+      "first_seen_at": "2026-10-02T20:00:01.770117",
+      "assets": [
+        {
+          "symbol": "TSLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.262088,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MU",
+          "asset_class": null,
+          "relevance_score": 0.631525,
+          "sentiment_score": 0.148282,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.944193
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.939959
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.849498
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.847001
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1827,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-car-185750586.html",
+          "published_at": "2026-10-02T19:13:34"
+        }
+      ]
+    },
+    {
+      "event_id": 1663,
+      "title": "Wells Fargo’s Tom Porcelli: The market is right to begin scaling back odds for an October hike",
+      "summary": "Tom Porcelli, Wells Fargo chief economist, and Jeff Blazek, Neuberger Multi-Asset Management co-CIO, discussed the September jobs report and the possibility of a Federal Reserve rate hike. Porcelli believes the market is justified in reducing its expectations for an October rate increase. The discussion took place on 'Power Lunch'.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 55,
+      "published_at": "2026-10-02T18:14:44",
+      "first_seen_at": "2026-10-02T20:00:02.038777",
+      "assets": [
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.033146,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.943985
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.830595
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.730293
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.617465
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1828,
+          "provider": "ALPHA_VANTAGE",
+          "source": "CNBC",
+          "source_domain": "CNBC",
+          "headline": "Wells Fargo’s Tom Porcelli: The market is right to begin scaling back odds for an October hike",
+          "url": "https://www.cnbc.com/video/2026/10/02/wells-fargoas-tom-porcelli-the-market-is-right-to-begin-scaling-back-odds-for-an-october-hike.html",
+          "published_at": "2026-10-02T18:14:44"
+        }
+      ]
+    },
+    {
       "event_id": 1659,
       "title": "Ford Sales Slide 6.6% After Model Phase-Outs",
       "summary": "Ford Motor Company reported a 6.6% year-over-year decline in third-quarter U.S. vehicle sales, primarily due to planned phase-outs of the Escape and Lincoln Corsair models. Despite the overall sales dip, Ford estimated an increase in its retail market share to 12.1% when excluding the phased-out models. The company saw strong performance in its F-Series trucks, Maverick Hybrid, and Bronco sales, and maintained its adjusted EBIT guidance for 2026 despite a short-term supplier issue affecting F-150 production.",
@@ -20,7 +130,7 @@
           "symbol": "F",
           "asset_class": null,
           "relevance_score": 0.999974,
-          "sentiment_score": -0.107724,
+          "sentiment_score": -0.116797,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -28,19 +138,19 @@
       "topics": [
         {
           "topic": "energy_transportation",
-          "relevance_score": 0.93125
+          "relevance_score": 0.943719
         },
         {
           "topic": "earnings",
-          "relevance_score": 0.907455
+          "relevance_score": 0.936864
         },
         {
           "topic": "manufacturing",
-          "relevance_score": 0.803934
+          "relevance_score": 0.842925
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.802642
+          "relevance_score": 0.83799
         },
         {
           "topic": "economy_macro",
@@ -1023,96 +1133,6 @@
           "headline": "Fox Corp faces Roku review. Fox Corp stock gains 1.02 percent",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corp-faces-roku-review-fox-corp-stock-gains-1-02-percent/70215011",
           "published_at": "2026-10-02T11:07:42"
-        }
-      ]
-    },
-    {
-      "event_id": 1643,
-      "title": "NextEra Energy outlines 20.5 GW plan and NextEra Energy stock costs EUR 67.90",
-      "summary": "NextEra Energy has outlined 20.5 GW of federal hub opportunities, including 16 GW already secured with Japan and Korea, focusing on gas generation and storage projects. The company reported strong Q2 2026 earnings, beating analyst estimates, and maintained its fiscal 2026 adjusted EPS guidance, reaffirming its target of 8% annual EPS growth through 2032. NextEra's stock was trading at EUR 67.90, with analyst targets averaging USD 99.67.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-02T10:41:18",
-      "first_seen_at": "2026-10-02T12:00:02.966840",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.465732,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938299
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.910994
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.823261
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1808,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "NextEra Energy outlines 20.5 GW plan and NextEra Energy stock costs EUR 67.90",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nextera-energy-outlines-20-5-gw-plan-and-nextera-energy-stock-costs-eur/70214877",
-          "published_at": "2026-10-02T10:41:18"
-        }
-      ]
-    },
-    {
-      "event_id": 1638,
-      "title": "Fifth Third returns to floorplan financing after Comerica acquisition",
-      "summary": "Fifth Third Bank has re-entered the floorplan financing market after a three-year hiatus, following its acquisition of Comerica Bank. This strategic move allows Fifth Third to leverage Comerica's extensive and long-standing dealer network for both floorplan and commercial lending. The bank's portfolio in this sector now totals $9.5 billion.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-01T21:41:25",
-      "first_seen_at": "2026-10-01T23:00:01.833147",
-      "assets": [
-        {
-          "symbol": "FITB",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.401559,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.94459
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.843665
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1802,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Auto Finance News",
-          "source_domain": "Auto Finance News",
-          "headline": "Fifth Third returns to floorplan financing after Comerica acquisition",
-          "url": "https://www.autofinancenews.net/allposts/risk-management/fifth-third-returns-to-floorplan-financing-after-comerica-acquisition/",
-          "published_at": "2026-10-01T21:41:25"
         }
       ]
     }
