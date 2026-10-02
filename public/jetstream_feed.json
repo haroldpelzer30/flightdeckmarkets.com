@@ -5,6 +5,155 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1649,
+      "title": "Lululemon stock hits 52-week low at 95.26 USD By Investing.com",
+      "summary": "Lululemon's stock has plummeted to a new 52-week low of $94.49, marking a significant downturn with a 46% decline over the past year and a 54% drop year-to-date. Despite its low P/E ratio and being considered significantly undervalued by InvestingPro, the company faces challenges including declining revenue, reduced global comparable sales, and increased competition, particularly in China. These issues are exacerbated by increased promotional activity and have led to analysts lowering price targets and initiating underperform ratings.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-02T13:37:26",
+      "first_seen_at": "2026-10-02T15:00:02.485199",
+      "assets": [
+        {
+          "symbol": "LULU",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.605405,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.913716
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.906722
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.820192
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.645637
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1814,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com Australia",
+          "source_domain": "Investing.com Australia",
+          "headline": "Lululemon stock hits 52-week low at 95.26 USD By Investing.com",
+          "url": "https://au.investing.com/news/stock-market-news/lululemon-stock-hits-52week-low-at-9526-usd-93CH-4670722",
+          "published_at": "2026-10-02T13:37:26"
+        }
+      ]
+    },
+    {
+      "event_id": 1650,
+      "title": "Scotiabank upgrades Xcel Energy stock to Strong Buy",
+      "summary": "Scotiabank has upgraded Xcel Energy (XEL) stock to a \"Strong Buy,\" contributing to a positive analyst consensus. The upgrade follows Xcel Energy's strong second-quarter earnings, where EPS of USD 0.93 exceeded the USD 0.79 consensus, despite a revenue decline. The next earnings report is anticipated on October 29, 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-02T13:12:00",
+      "first_seen_at": "2026-10-02T15:00:02.756349",
+      "assets": [
+        {
+          "symbol": "XEL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.431368,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.920022
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.726092
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1815,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Scotiabank upgrades Xcel Energy stock to Strong Buy",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/scotiabank-upgrades-xcel-energy-stock-to-strong-buy/70215448",
+          "published_at": "2026-10-02T13:12:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1651,
+      "title": "Adviser-linked entities agree to buy $10 shares in Hall Chadwick (HCAC) if its REEcycle merger closes.",
+      "summary": "Hall Chadwick Acquisition Corp. (HCAC) has secured binding subscription agreements for 210,000 shares at $10.00 each, totaling $2.1 million, conditional on its merger with REEcycle Holdings, Inc. These shares are being purchased by entities managed by a REEcycle director and members of HCAC's advisory team. The proposed all-stock transaction is valued at $400 million, with $350 million at closing and an additional $50 million tied to a milestone of 50 tpa MREO over 22 days, subject to a $40 million minimum cash condition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 60,
+      "published_at": "2026-10-02T13:01:24",
+      "first_seen_at": "2026-10-02T15:00:03.001797",
+      "assets": [
+        {
+          "symbol": "HCAC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.306196,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.829256
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.749556
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": 0.726717
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1816,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "Adviser-linked entities agree to buy $10 shares in Hall Chadwick (HCAC) if its REEcycle merger closes.",
+          "url": "https://www.stocktitan.net/sec-filings/HCAC/8-k-hall-chadwick-acquisition-corp-reports-material-event-e55ac3fe5210.html",
+          "published_at": "2026-10-02T13:01:24"
+        }
+      ]
+    },
+    {
       "event_id": 1646,
       "title": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
       "summary": "5E Advanced Materials Inc. has finalized its acquisition of real property, production facilities, and brine resources from Searles Valley Minerals Inc. and its affiliates. The deal involved $3.4 million in cash, 8.3 million shares of common stock, and approximately $17.2 million in new debt obligations, including a $6.2 million unsecured promissory note and a $10.0 million secured bridge facility. This acquisition expands 5E Advanced Materials' asset base in the Trona, California area but introduces significant debt with high interest rates and near-term refinancing considerations.",
@@ -999,235 +1148,6 @@
           "headline": "Analog Semiconductors Stocks Q2 Recap: Benchmarking Analog Devices (NASDAQ:ADI)",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-recap-183707035.html",
           "published_at": "2026-10-01T19:07:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1631,
-      "title": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
-      "summary": "NextEra Energy is making significant strides in its growth strategy, identifying 18 GW of gas opportunities, including 16 GW linked to federal hubs and a 4.6 GW project at Paducah. The company is also expanding its data-center and large-load strategy in Florida and progressing with the proposed combination of Dominion operations in Virginia and the Carolinas. This deal is projected to expand the combined company's capacity from 110 GW to approximately 240 GW by 2032, with an adjusted EPS growth exceeding 9%.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-10-01T19:03:29",
-      "first_seen_at": "2026-10-01T21:00:03.002284",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.410247,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.966588,
-          "sentiment_score": 0.348446,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GOOG",
-          "asset_class": null,
-          "relevance_score": 0.617221,
-          "sentiment_score": 0.111038,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.573377,
-          "sentiment_score": 0.094125,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.558013,
-          "sentiment_score": 0.08271,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.931669
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.918477
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.816385
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1793,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-eyes-18-gw-190222919.html",
-          "published_at": "2026-10-01T19:03:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1626,
-      "title": "Phillips 66 Stock (PSX) Moved Up by 3.11% on Oct 1: What Signal Does It Send?",
-      "summary": "Phillips 66 (PSX) stock increased by 3.11% on October 1st, outperforming the Energy - Fossil Fuels sector. This surge is attributed to favorable Wall Street rating adjustments, institutional accumulation, and strong quarterly earnings driven by elevated crack spreads and refinery utilization. The company's expanded share repurchase program and competitive dividend strategy are also contributing factors to investor confidence.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 58,
-      "published_at": "2026-10-01T18:16:02",
-      "first_seen_at": "2026-10-01T20:00:02.836056",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.528366,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SLB",
-          "asset_class": null,
-          "relevance_score": 0.642461,
-          "sentiment_score": -0.193506,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "XOM",
-          "asset_class": null,
-          "relevance_score": 0.633165,
-          "sentiment_score": 0.22395,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.615083,
-          "sentiment_score": 0.390309,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.60886,
-          "sentiment_score": 0.425464,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.916661
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.910202
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.907443
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1788,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "Phillips 66 Stock (PSX) Moved Up by 3.11% on Oct 1: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262196719-market-movers-psx-20261001",
-          "published_at": "2026-10-01T18:16:02"
-        }
-      ]
-    },
-    {
-      "event_id": 1627,
-      "title": "Constellation vs Vistra stock: PJM delay puts contracts first",
-      "summary": "The Federal Energy Regulatory Commission (FERC) has accepted PJM's reliability-backstop framework but suspended its effectiveness for five months, impacting new capacity procurement rather than existing bilateral contracts. This article compares Constellation Energy (CEG) and Vistra (VST) focusing on their AI-linked power contracts, highlighting that Vistra has more operating megawatts under contract while Constellation's Microsoft deal depends on a plant restart. For investors, Vistra offers a clearer setup with existing generating assets, whereas Constellation's investment case is more reliant on the successful restart of its Crane plant in 2027.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-10-01T18:13:00",
-      "first_seen_at": "2026-10-01T20:00:03.167315",
-      "assets": [
-        {
-          "symbol": "VST",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.270689,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CEG",
-          "asset_class": null,
-          "relevance_score": 0.9297,
-          "sentiment_score": 0.242178,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.633144,
-          "sentiment_score": 0.109918,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.579619,
-          "sentiment_score": 0.137274,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90654
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.815003
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.727181
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1789,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Techi",
-          "source_domain": "Techi",
-          "headline": "Constellation vs Vistra stock: PJM delay puts contracts first",
-          "url": "https://www.techi.com/constellation-vs-vistra-stock-pjm-delay-contracts/",
-          "published_at": "2026-10-01T18:13:00"
         }
       ]
     }
