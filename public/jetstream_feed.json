@@ -20,15 +20,15 @@
           "symbol": "TSLA",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.262088,
+          "sentiment_score": 0.268419,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MU",
           "asset_class": null,
-          "relevance_score": 0.631525,
-          "sentiment_score": 0.148282,
+          "relevance_score": 0.641362,
+          "sentiment_score": 0.12228,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -36,7 +36,7 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.944193
+          "relevance_score": 0.949122
         },
         {
           "topic": "energy_transportation",
@@ -60,6 +60,49 @@
           "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
           "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-car-185750586.html",
           "published_at": "2026-10-02T19:13:34"
+        }
+      ]
+    },
+    {
+      "event_id": 1666,
+      "title": "Goldgroup commits US$75mn to Mexico mine deal as shareholders back silver merger",
+      "summary": "Goldgroup Mining has pledged US$75 million to Luca Mining for the acquisition of the Cozamin mine in Mexico, replacing Trafigura's previous equity backing. This investment, funded by Goldgroup's cash reserves, will give them a significant stake in Luca. Concurrently, shareholders of Silver Hammer Mining and Stroud Resources approved a merger to form Silver Frontier Resources, focusing on the Santo Domingo project in Jalisco, though both transactions depend on various closing conditions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-02T18:56:09",
+      "first_seen_at": "2026-10-02T21:00:02.668547",
+      "assets": [
+        {
+          "symbol": "GORO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.432391,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.816609
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1831,
+          "provider": "ALPHA_VANTAGE",
+          "source": "BNamericas",
+          "source_domain": "BNamericas",
+          "headline": "Goldgroup commits US$75mn to Mexico mine deal as shareholders back silver merger",
+          "url": "https://www.bnamericas.com/en/features/goldgroup-commits-us75mn-to-mexico-mine-deal-as-shareholders-back-silver-merger",
+          "published_at": "2026-10-02T18:56:09"
         }
       ]
     },
@@ -1082,57 +1125,6 @@
           "headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
           "url": "https://247wallst.com/investing/2026/10/02/here-are-fridays-top-wall-street-analyst-research-calls-abbott-laboratories-airbnb-cerebras-systems-coinbase-global-edison-international-northrop-grumman-pershing-square-robinhood-mar/",
           "published_at": "2026-10-02T11:59:54"
-        }
-      ]
-    },
-    {
-      "event_id": 1642,
-      "title": "Fox Corp faces Roku review. Fox Corp stock gains 1.02 percent",
-      "summary": "Fox Corp's proposed acquisition of Roku is undergoing extended regulatory scrutiny from the U.S. Department of Justice, adding a 30-day review period. Despite this, Fox still expects the merger to close in the first half of calendar 2027. The company reported strong financial results for fiscal 2026, with revenue up 5% to over $17 billion and adjusted EBITDA rising 8% to $3.9 billion.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T11:07:42",
-      "first_seen_at": "2026-10-02T12:00:02.726781",
-      "assets": [
-        {
-          "symbol": "FOX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.281506,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.923189
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.920729
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.841926
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.747555
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1807,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Fox Corp faces Roku review. Fox Corp stock gains 1.02 percent",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corp-faces-roku-review-fox-corp-stock-gains-1-02-percent/70215011",
-          "published_at": "2026-10-02T11:07:42"
         }
       ]
     }
