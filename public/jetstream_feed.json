@@ -5,6 +5,191 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1667,
+      "title": "COO acquires 16 shares through Tyler Technologies (TYL) employee stock purchase plan.",
+      "summary": "Tyler Technologies (TYL) Chief Operating Officer Jeffrey David Puckett acquired 16 shares of common stock at $270.81 per share on September 30, 2026, through the company's 2004 Employee Stock Purchase Plan. Following this transaction, Puckett directly holds 7,800 shares. The filing indicates a neutral sentiment and reports no Rule 10b5-1 plan for this acquisition.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-10-02T21:15:00",
+      "first_seen_at": "2026-10-02T23:00:02.518655",
+      "assets": [
+        {
+          "symbol": "TYL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.127793,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.926309
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.801748
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.701751
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.631937
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1832,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "COO acquires 16 shares through Tyler Technologies (TYL) employee stock purchase plan.",
+          "url": "https://www.stocktitan.net/sec-filings/TYL/form-4-tyler-technologies-inc-insider-trading-activity-d717cf4ada48.html",
+          "published_at": "2026-10-02T21:15:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1668,
+      "title": "ON Semiconductor (ON) Shares Rise 5.8% Amid Weak September Jobs Report",
+      "summary": "ON Semiconductor (ON) saw its stock price increase by 5.8% after a weaker-than-expected September U.S. jobs report sparked optimism for technology stocks. Despite this rise and a strong GF Score™ of 85/100, the stock is considered significantly overvalued by GuruFocus's GF Value™ metric. Insider activity shows net selling, contrasting with guru accumulation, suggesting investors should carefully assess the risk-reward balance given the premium valuation.",
+      "event_type": "MACRO_DATA",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "HIGH",
+      "intelligence_score": 54,
+      "published_at": "2026-10-02T21:11:13",
+      "first_seen_at": "2026-10-02T23:00:02.805920",
+      "assets": [
+        {
+          "symbol": "ON",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.118598,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "STX",
+          "asset_class": null,
+          "relevance_score": 0.614104,
+          "sentiment_score": -0.122714,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.90539
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.811686
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.744415
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.644564
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.627022
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1833,
+          "provider": "ALPHA_VANTAGE",
+          "source": "GuruFocus",
+          "source_domain": "GuruFocus",
+          "headline": "ON Semiconductor (ON) Shares Rise 5.8% Amid Weak September Jobs Report",
+          "url": "https://www.gurufocus.com/news/9108041/on-semiconductor-on-shares-rise-58-amid-weak-september-jobs-report",
+          "published_at": "2026-10-02T21:11:13"
+        }
+      ]
+    },
+    {
+      "event_id": 1669,
+      "title": "Stellantis STLA Slides As Downgrades, Battery Shortages Hit Outlook",
+      "summary": "Stellantis (STLA) stock has fallen by 6.4% due to concerns over weak EV demand, pricing pressure, and production halts caused by battery shortages at its French plants. The company has also faced downgrades from Morgan Stanley and Berenberg, who cited a weak product pipeline, soft cash generation, and refinancing risks. An insider's plan to sell shares further adds to the negative outlook.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-02T20:54:15",
+      "first_seen_at": "2026-10-02T23:00:03.081005",
+      "assets": [
+        {
+          "symbol": "STLA",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.735742,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.623086,
+          "sentiment_score": -0.511494,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GM",
+          "asset_class": null,
+          "relevance_score": 0.62287,
+          "sentiment_score": -0.539907,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.923512
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.831153
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.736238
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.646068
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.611048
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1834,
+          "provider": "ALPHA_VANTAGE",
+          "source": "StocksToTrade",
+          "source_domain": "StocksToTrade",
+          "headline": "Stellantis STLA Slides As Downgrades, Battery Shortages Hit Outlook",
+          "url": "https://stockstotrade.com/news/stellantis-nv-stla-news-2026_10_02-2/",
+          "published_at": "2026-10-02T20:54:15"
+        }
+      ]
+    },
+    {
       "event_id": 1662,
       "title": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
       "summary": "Former Tesla President Jon McNeill states that Tesla's traditional car sales are crucial for funding its long-term ambitions in robotaxis and humanoid robots, which require extensive capital and development time. Despite this, he highlights that the Full Self-Driving software is a key driver of current Tesla vehicle sales, comparing its impact to the transition from flip phones to smartphones. McNeill also noted that prediction market traders were more accurate than Wall Street analysts in forecasting Tesla's recent delivery numbers.",
@@ -924,207 +1109,6 @@
           "headline": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
           "url": "https://www.minichart.com.sg/2026/10/01/5e-advanced-materials-closes-trona-asset-acquisition-with-17-2-million-in-new-debt/",
           "published_at": "2026-10-02T12:31:56"
-        }
-      ]
-    },
-    {
-      "event_id": 1647,
-      "title": "Strike Vote Could Be A Key Test For Phillips 66 Stock (PSX)",
-      "summary": "A strike authorization by Teamsters Local 877 members at Phillips 66's Bayway Refinery poses a significant risk to the company's operational reliability and cost control efforts. The dispute, stemming from stalled contract talks over wages, benefits, and safety, could impact Phillips 66's ability to execute refinery projects and meet EBITDA targets, particularly given its high debt load and projected revenue declines. Investors are watching closely to see if the company can resolve the standoff without material downtime or increased operating costs, which would challenge analyst assumptions of high utilization as a key upside catalyst.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 49,
-      "published_at": "2026-10-02T12:27:08",
-      "first_seen_at": "2026-10-02T14:00:02.000298",
-      "assets": [
-        {
-          "symbol": "PSX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.245479,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPC",
-          "asset_class": null,
-          "relevance_score": 0.569629,
-          "sentiment_score": -0.062103,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "VLO",
-          "asset_class": null,
-          "relevance_score": 0.552814,
-          "sentiment_score": -0.099394,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.929968
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.826658
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1812,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Simply Wall Street",
-          "source_domain": "Simply Wall Street",
-          "headline": "Strike Vote Could Be A Key Test For Phillips 66 Stock (PSX)",
-          "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/strike-vote-could-be-a-key-test-for-phillips-66-stock-psx",
-          "published_at": "2026-10-02T12:27:08"
-        }
-      ]
-    },
-    {
-      "event_id": 1644,
-      "title": "Zacks Research Analysts Increase Earnings Estimates for IDEX",
-      "summary": "Zacks Research analysts have increased their Q1 2027 earnings estimates for IDEX (NYSE:IEX) to $2.13 per share, up from $2.12, and provided higher full-year estimates for 2027 and 2028. This update follows IDEX's recent Q2 earnings beat, where the company reported $2.32 EPS against a $2.11 consensus and revenue of $920.6 million. IDEX maintains a \"Moderate Buy\" consensus rating with an average price target of $260.27, and institutional investors hold a significant 97.96% stake in the company.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-02T12:15:50",
-      "first_seen_at": "2026-10-02T13:00:02.286179",
-      "assets": [
-        {
-          "symbol": "IEX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.624132,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.94467
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.841302
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.73562
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.647321
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1809,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Zacks Research Analysts Increase Earnings Estimates for IDEX",
-          "url": "https://www.marketbeat.com/instant-alerts/estimates-zacks-research-analysts-increase-earnings-estimates-for-idex-2026-10-02/",
-          "published_at": "2026-10-02T12:15:50"
-        }
-      ]
-    },
-    {
-      "event_id": 1645,
-      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
-      "summary": "This article compiles the top Wall Street analyst upgrades, downgrades, and new initiations for Friday, October 2, 2026, featuring companies like Abbott Laboratories, Airbnb, and Northrop Grumman. It also provides a market recap, noting that stocks recovered from a volatile Thursday, oil prices surged past $100, and Treasury yields saw significant movement. The report emphasizes that individual analyst reports should not be the sole basis for investment decisions.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-10-02T11:59:54",
-      "first_seen_at": "2026-10-02T13:00:02.573058",
-      "assets": [
-        {
-          "symbol": "ABT",
-          "asset_class": null,
-          "relevance_score": 0.819761,
-          "sentiment_score": 0.296346,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EIX",
-          "asset_class": null,
-          "relevance_score": 0.727764,
-          "sentiment_score": -0.421592,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "COIN",
-          "asset_class": null,
-          "relevance_score": 0.721505,
-          "sentiment_score": 0.226426,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "ABNB",
-          "asset_class": null,
-          "relevance_score": 0.709901,
-          "sentiment_score": 0.253733,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NOC",
-          "asset_class": null,
-          "relevance_score": 0.705458,
-          "sentiment_score": -0.416097,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948439
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.835395
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.723872
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.635862
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1810,
-          "provider": "ALPHA_VANTAGE",
-          "source": "24/7 Wall St.",
-          "source_domain": "24/7 Wall St.",
-          "headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
-          "url": "https://247wallst.com/investing/2026/10/02/here-are-fridays-top-wall-street-analyst-research-calls-abbott-laboratories-airbnb-cerebras-systems-coinbase-global-edison-international-northrop-grumman-pershing-square-robinhood-mar/",
-          "published_at": "2026-10-02T11:59:54"
         }
       ]
     }
