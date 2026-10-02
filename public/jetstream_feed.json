@@ -5,6 +5,108 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1657,
+      "title": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
+      "summary": "BWX Technologies (BWXT) is predicted to outperform nuclear energy companies like Oklo and NuScale through 2030 because it already has significant revenue streams, unlike its peers who are still in early commercialization stages. BWXT generated $3.2 billion in revenue in 2025 and is projected to reach $3.8 billion in 2026, driven by its established business of manufacturing nuclear components for the U.S. Navy, developing advanced nuclear reactors and microreactors, and producing TRISO fuel and medical isotopes. This existing revenue and diversified involvement in the nuclear market positions BWXT for continued growth without relying solely on the successful commercialization of new reactor designs.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T16:39:40",
+      "first_seen_at": "2026-10-02T18:00:01.974103",
+      "assets": [
+        {
+          "symbol": "OKLO",
+          "asset_class": null,
+          "relevance_score": 0.915353,
+          "sentiment_score": 0.283562,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945873
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.921071
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.80916
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.649783
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1822,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Motley Fool",
+          "source_domain": "The Motley Fool",
+          "headline": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
+          "url": "https://www.fool.com/investing/2026/10/02/prediction-this-nuclear-stock-outperforms-oklo-and/",
+          "published_at": "2026-10-02T16:39:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1658,
+      "title": "ON Semiconductor Analyst's 5 Key Takeaways from Synaptics Acquistion",
+      "summary": "ON Semiconductor is acquiring Synaptics Inc. in an all-cash deal worth approximately $5.7 billion, with Needham analyst Quinn Bolton reiterating a Buy rating and a $116 price target for ON. The acquisition is expected to be immediately earnings accretive, add 50 cents per share to ON Semiconductor’s non-GAAP earnings by 2028, and expand its total addressable market by $30 billion to $243 billion by 2030. The deal structure avoids share dilution and leverages cross-selling opportunities and shared distribution channels.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-02T16:18:48",
+      "first_seen_at": "2026-10-02T18:00:02.242568",
+      "assets": [
+        {
+          "symbol": "ON",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.407746,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.927986
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.848955
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.710725
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1823,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "ON Semiconductor Analyst's 5 Key Takeaways from Synaptics Acquistion",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62140548/on-semiconductor-analysts-5-key-takeaways-from-synaptics-acquistion",
+          "published_at": "2026-10-02T16:18:48"
+        }
+      ]
+    },
+    {
       "event_id": 1655,
       "title": "Morgan Stanley Strategist Sees “5 or 10%” Market Drawdown Potential as Five Megacaps Carry the S&P 500",
       "summary": "A Morgan Stanley strategist warns of a potential 5% to 10% market drawdown, driven by bond volatility and the narrow leadership of five megacap stocks in the S&P 500. While these five stocks (Microsoft, NVIDIA, Meta, Apple, Alphabet) have propelled most of the S&P 500's gains, the strategist suggests a pullback could be a buying opportunity, especially given strong earnings growth and reasonable valuations for these companies. The market's breadth has narrowed, with many stocks already in a bear market, indicating a potential correction if bond market volatility persists.",
@@ -1048,130 +1150,6 @@
           "headline": "Venture Global jumps on ConocoPhillips LNG supply deal",
           "url": "https://www.investing.com/news/stock-market-news/venture-global-jumps-on-conocophillips-lng-supply-deal-4928481",
           "published_at": "2026-10-01T21:11:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1634,
-      "title": "Rising yields are reflecting better growth, says Morgan Stanley's Daniel Skelly",
-      "summary": "Daniel Skelly, managing director at Morgan Stanley Wealth Management, appeared on 'Closing Bell Overtime' to discuss current market dynamics. He stated that rising yields in the market are indicative of better growth prospects. The discussion also covered the bond market and broader market actions.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-10-01T20:56:40",
-      "first_seen_at": "2026-10-01T22:00:02.846104",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.312578,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NKE",
-          "asset_class": null,
-          "relevance_score": 0.641991,
-          "sentiment_score": -0.436897,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.907054
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.847357
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.712034
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1796,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Rising yields are reflecting better growth, says Morgan Stanley's Daniel Skelly",
-          "url": "https://www.cnbc.com/video/2026/10/01/rising-yields-are-reflecting-better-growth-says-morgan-stanleys-daniel-skelly.html",
-          "published_at": "2026-10-01T20:56:40"
-        }
-      ]
-    },
-    {
-      "event_id": 1635,
-      "title": "Federal Realty acquires Alabama shopping center for $508 million",
-      "summary": "Federal Realty Investment Trust has acquired The Summit shopping center in Birmingham, Alabama, for $508 million. This marks the first sale of the 100-acre, 870,000-square-foot open-air retail property, which boasts over 110 tenants and draws nearly 9 million annual visits. Federal Realty plans to fund the acquisition through a combination of asset sales, free cash flow, and convertible notes, expanding its Central Region portfolio.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-01T20:52:40",
-      "first_seen_at": "2026-10-01T22:00:03.133445",
-      "assets": [
-        {
-          "symbol": "FRT",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.482114,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.942163
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.829273
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.636003
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1799,
-          "provider": "ALPHA_VANTAGE",
-          "source": "PR Newswire",
-          "source_domain": "PR Newswire",
-          "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
-          "url": "https://www.prnewswire.com/news-releases/federal-realty-acquires-the-summit-alabamas-premier-retail-destination-302896582.html",
-          "published_at": "2026-10-01T20:35:40"
-        },
-        {
-          "article_id": 1798,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
-          "url": "https://finance.yahoo.com/real-estate/articles/federal-realty-acquires-summit-alabamas-203500538.html",
-          "published_at": "2026-10-01T20:36:03"
-        },
-        {
-          "article_id": 1797,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com India",
-          "source_domain": "Investing.com India",
-          "headline": "Federal Realty acquires Alabama shopping center for $508 million",
-          "url": "https://in.investing.com/news/stock-market-news/federal-realty-acquires-alabama-shopping-center-for-508-million-93CH-5615692",
-          "published_at": "2026-10-01T20:52:40"
         }
       ]
     }
