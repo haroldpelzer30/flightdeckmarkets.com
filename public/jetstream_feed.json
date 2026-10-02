@@ -5,6 +5,144 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1644,
+      "title": "Zacks Research Analysts Increase Earnings Estimates for IDEX",
+      "summary": "Zacks Research analysts have increased their Q1 2027 earnings estimates for IDEX (NYSE:IEX) to $2.13 per share, up from $2.12, and provided higher full-year estimates for 2027 and 2028. This update follows IDEX's recent Q2 earnings beat, where the company reported $2.32 EPS against a $2.11 consensus and revenue of $920.6 million. IDEX maintains a \"Moderate Buy\" consensus rating with an average price target of $260.27, and institutional investors hold a significant 97.96% stake in the company.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-02T12:15:50",
+      "first_seen_at": "2026-10-02T13:00:02.286179",
+      "assets": [
+        {
+          "symbol": "IEX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.646429,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933365
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.826111
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.712534
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.647321
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1809,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Zacks Research Analysts Increase Earnings Estimates for IDEX",
+          "url": "https://www.marketbeat.com/instant-alerts/estimates-zacks-research-analysts-increase-earnings-estimates-for-idex-2026-10-02/",
+          "published_at": "2026-10-02T12:15:50"
+        }
+      ]
+    },
+    {
+      "event_id": 1645,
+      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
+      "summary": "This article compiles the top Wall Street analyst upgrades, downgrades, and new initiations for Friday, October 2, 2026, featuring companies like Abbott Laboratories, Airbnb, and Northrop Grumman. It also provides a market recap, noting that stocks recovered from a volatile Thursday, oil prices surged past $100, and Treasury yields saw significant movement. The report emphasizes that individual analyst reports should not be the sole basis for investment decisions.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-10-02T11:59:54",
+      "first_seen_at": "2026-10-02T13:00:02.573058",
+      "assets": [
+        {
+          "symbol": "ABT",
+          "asset_class": null,
+          "relevance_score": 0.819761,
+          "sentiment_score": 0.296346,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "EIX",
+          "asset_class": null,
+          "relevance_score": 0.727764,
+          "sentiment_score": -0.421592,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "COIN",
+          "asset_class": null,
+          "relevance_score": 0.721505,
+          "sentiment_score": 0.226426,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "ABNB",
+          "asset_class": null,
+          "relevance_score": 0.709901,
+          "sentiment_score": 0.253733,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NOC",
+          "asset_class": null,
+          "relevance_score": 0.705458,
+          "sentiment_score": -0.416097,
+          "sentiment_label": "Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.948439
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.835395
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.723872
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.635862
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1810,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
+          "url": "https://247wallst.com/investing/2026/10/02/here-are-fridays-top-wall-street-analyst-research-calls-abbott-laboratories-airbnb-cerebras-systems-coinbase-global-edison-international-northrop-grumman-pershing-square-robinhood-mar/",
+          "published_at": "2026-10-02T11:59:54"
+        }
+      ]
+    },
+    {
       "event_id": 1642,
       "title": "Fox Corp faces Roku review. Fox Corp stock gains 1.02 percent",
       "summary": "Fox Corp's proposed acquisition of Roku is undergoing extended regulatory scrutiny from the U.S. Department of Justice, adding a 30-day review period. Despite this, Fox still expects the merger to close in the first half of calendar 2027. The company reported strong financial results for fiscal 2026, with revenue up 5% to over $17 billion and adjusted EBITDA rising 8% to $3.9 billion.",
@@ -1086,104 +1224,6 @@
           "headline": "Why Deere (DE) Stock Is Down Today",
           "url": "https://www.quiverquant.com/news/Why+Deere+%28DE%29+Stock+Is+Down+Today",
           "published_at": "2026-10-01T15:33:35"
-        }
-      ]
-    },
-    {
-      "event_id": 1623,
-      "title": "National Fuel Gas Company completed the acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp.",
-      "summary": "National Fuel Gas Company announced the completion of its acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp. for $2.6 billion. The newly acquired utility will be renamed National Fuel Gas Distribution of Ohio, LLC, and approximately 200 employees will join National Fuel as part of the transaction. The acquisition, which was previously approved by the Public Utilities Commission of Ohio, is expected to be immediately accretive to National Fuel's regulated earnings per share.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 64,
-      "published_at": "2026-10-01T15:33:31",
-      "first_seen_at": "2026-10-01T17:00:02.463915",
-      "assets": [
-        {
-          "symbol": "CNP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.493675,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.839304
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.644574
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1785,
-          "provider": "ALPHA_VANTAGE",
-          "source": "marketscreener.com",
-          "source_domain": "marketscreener.com",
-          "headline": "National Fuel Gas Company completed the acquisition of Vectren Energy Delivery of Ohio, LLC from CenterPoint Energy Resources Corp.",
-          "url": "https://www.marketscreener.com/news/national-fuel-gas-company-completed-the-acquisition-of-vectren-energy-delivery-of-ohio-llc-from-cen-ce785ddad980f721",
-          "published_at": "2026-10-01T15:33:31"
-        }
-      ]
-    },
-    {
-      "event_id": 1620,
-      "title": "Microchip completes Hailo deal as Microchip Technology stock trades at EUR 68.89",
-      "summary": "Microchip Technology has completed its acquisition of Hailo, integrating edge AI processors, vision processors, robotics processors, and AI software into its portfolio. The deal, which adds over 100 customers and a developer community of 10,000, is strategically significant despite a limited near-term earnings impact. The announcement comes as Microchip reported strong first-quarter fiscal 2027 revenue of USD 1.48 billion, up 38% year-over-year, and while its stock trades below its 52-week high.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-01T14:51:40",
-      "first_seen_at": "2026-10-01T16:00:03.576936",
-      "assets": [
-        {
-          "symbol": "MCHP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.318637,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.930151
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.839388
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.742007
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1782,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Microchip completes Hailo deal as Microchip Technology stock trades at EUR 68.89",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/microchip-completes-hailo-deal-as-microchip-technology-stock-trades-at-eur/70211310",
-          "published_at": "2026-10-01T14:51:40"
         }
       ]
     }
