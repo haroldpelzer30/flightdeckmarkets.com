@@ -5,6 +5,187 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1659,
+      "title": "Ford Sales Slide 6.6% After Model Phase-Outs",
+      "summary": "Ford Motor Company reported a 6.6% year-over-year decline in third-quarter U.S. vehicle sales, primarily due to planned phase-outs of the Escape and Lincoln Corsair models. Despite the overall sales dip, Ford estimated an increase in its retail market share to 12.1% when excluding the phased-out models. The company saw strong performance in its F-Series trucks, Maverick Hybrid, and Bronco sales, and maintained its adjusted EBIT guidance for 2026 despite a short-term supplier issue affecting F-150 production.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T17:46:29",
+      "first_seen_at": "2026-10-02T19:00:02.395478",
+      "assets": [
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.999974,
+          "sentiment_score": -0.107724,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.93125
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.907455
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.803934
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.802642
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.641774
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1824,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Benzinga",
+          "source_domain": "Benzinga",
+          "headline": "Ford Sales Slide 6.6% After Model Phase-Outs",
+          "url": "https://www.benzinga.com/markets/large-cap/26/10/62143212/ford-sales-slide-6-6-after-model-phase-outs",
+          "published_at": "2026-10-02T17:46:29"
+        }
+      ]
+    },
+    {
+      "event_id": 1660,
+      "title": "PepsiCo raising chip and soda prices after February cuts",
+      "summary": "PepsiCo plans to increase prices on its chips and sodas by the end of 2026 or early 2027, with modest increases in the low-to-mid single digits, after implementing price cuts in February due to consumer pushback. The company cites higher commodity costs and elevated fuel prices impacting consumer demand. Despite earlier price reductions and a supply chain review, North American sales volumes have been trending downward.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 51,
+      "published_at": "2026-10-02T17:42:00",
+      "first_seen_at": "2026-10-02T19:00:02.682823",
+      "assets": [
+        {
+          "symbol": "PEP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.275958,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KO",
+          "asset_class": null,
+          "relevance_score": 0.62676,
+          "sentiment_score": 0.030758,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        },
+        {
+          "symbol": "KDP",
+          "asset_class": null,
+          "relevance_score": 0.590908,
+          "sentiment_score": 0.041004,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.9281
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.822127
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.71045
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.648485
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1825,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "PepsiCo raising chip and soda prices after February cuts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-soda-prices-174218999.html",
+          "published_at": "2026-10-02T17:42:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1661,
+      "title": "Qorvo stock after-hours at EUR 101.81: plus 2.01 percent versus prior close",
+      "summary": "Qorvo stock closed after-hours at EUR 101.81, showing a 2.01% increase from its previous close. This rise occurred as Skyworks Solutions announced that all necessary regulatory clearances have been secured for its proposed combination with Qorvo. The transaction is expected to finalize around October 5, 2026, structured as a cash-and-stock combination.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-02T17:33:28",
+      "first_seen_at": "2026-10-02T19:00:02.984672",
+      "assets": [
+        {
+          "symbol": "QRVO",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.325766,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "SWKS",
+          "asset_class": null,
+          "relevance_score": 0.848147,
+          "sentiment_score": 0.263555,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.912863
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.815611
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.639826
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1826,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Qorvo stock after-hours at EUR 101.81: plus 2.01 percent versus prior close",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/qorvo-stock-after-hours-at-eur-101-81-plus-2-01-percent-versus-prior/70216740",
+          "published_at": "2026-10-02T17:33:28"
+        }
+      ]
+    },
+    {
       "event_id": 1657,
       "title": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
       "summary": "BWX Technologies (BWXT) is predicted to outperform nuclear energy companies like Oklo and NuScale through 2030 because it already has significant revenue streams, unlike its peers who are still in early commercialization stages. BWXT generated $3.2 billion in revenue in 2025 and is projected to reach $3.8 billion in 2026, driven by its established business of manufacturing nuclear components for the U.S. Navy, developing advanced nuclear reactors and microreactors, and producing TRISO fuel and medical isotopes. This existing revenue and diversified involvement in the nuclear market positions BWXT for continued growth without relying solely on the successful commercialization of new reactor designs.",
@@ -932,224 +1113,6 @@
           "headline": "Fifth Third returns to floorplan financing after Comerica acquisition",
           "url": "https://www.autofinancenews.net/allposts/risk-management/fifth-third-returns-to-floorplan-financing-after-comerica-acquisition/",
           "published_at": "2026-10-01T21:41:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1632,
-      "title": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
-      "summary": "This article provides a detailed financial overview of Surf Air Mobility Inc. (SRFM), including its stock price, historical performance, key financial metrics, and analyst insights. As of October 1, 2026, SRFM was trading at $1.1850, down 1.26%, with a market capitalization of $157.426 million. The company, founded in 2011, operates an air mobility platform offering scheduled commercial and on-demand flights.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-01T21:25:11",
-      "first_seen_at": "2026-10-01T22:00:02.239653",
-      "assets": [
-        {
-          "symbol": "SRFM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.125849,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.945184
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936806
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.829343
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.725962
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1794,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo! Finance Canada",
-          "source_domain": "Yahoo! Finance Canada",
-          "headline": "Surf Air Mobility Inc. (SRFM) Stock Price, News, Quote & History",
-          "url": "https://ca.finance.yahoo.com/quote/SRFM/",
-          "published_at": "2026-10-01T21:25:11"
-        }
-      ]
-    },
-    {
-      "event_id": 1640,
-      "title": "Insider Buying: Simon Property Group (NYSE:SPG) Director Acquires 88 Shares of Company Stock",
-      "summary": "Simon Property Group (NYSE:SPG) Director Peggy Roe recently purchased 88 shares of the company's stock for a total of $17,844.64, increasing her direct ownership to 8,135 shares. The real estate investment trust reported quarterly revenue of $1.79 billion, surpassing analyst estimates, but its earnings per share of $1.49 missed the consensus. The company pays a quarterly dividend of $2.25, resulting in a 4.5% annual yield, and maintains a consensus \"Hold\" rating from analysts with a target price of $227.64.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 52,
-      "published_at": "2026-10-01T21:19:16",
-      "first_seen_at": "2026-10-01T23:00:02.336382",
-      "assets": [
-        {
-          "symbol": "SPG",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.173964,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NFLX",
-          "asset_class": null,
-          "relevance_score": 0.64801,
-          "sentiment_score": 0.104886,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AMD",
-          "asset_class": null,
-          "relevance_score": 0.641564,
-          "sentiment_score": 0.116136,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "PLTR",
-          "asset_class": null,
-          "relevance_score": 0.624155,
-          "sentiment_score": -0.120593,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KMX",
-          "asset_class": null,
-          "relevance_score": 0.6197,
-          "sentiment_score": 0.122713,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.938169
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.924625
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.831717
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.746705
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.607139
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1804,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Insider Buying: Simon Property Group (NYSE:SPG) Director Acquires 88 Shares of Company Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-simon-property-group-nyse-spg-director-acquires-88-shares-of-company-stock-2026-10-01/",
-          "published_at": "2026-10-01T21:19:16"
-        },
-        {
-          "article_id": 1805,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Insider Buying: Simon Property Group (NYSE:SPG) Director Buys $13,180.70 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-simon-property-group-nyse-spg-director-buys-1318070-in-stock-2026-10-01/",
-          "published_at": "2026-10-01T21:19:16"
-        }
-      ]
-    },
-    {
-      "event_id": 1633,
-      "title": "Venture Global jumps on ConocoPhillips LNG supply deal",
-      "summary": "Venture Global's shares climbed 3% after announcing a 20-year liquefied natural gas supply agreement with ConocoPhillips. Under the agreement, ConocoPhillips will purchase 1.0 million tonnes per annum of LNG from Venture Global starting in 2030, significantly expanding Venture Global's customer base and future supply commitments. Venture Global is a major U.S. LNG exporter with over 100 million tonnes per annum of capacity in various stages of development.",
-      "event_type": "COMMODITY_ENERGY",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-01T21:11:09",
-      "first_seen_at": "2026-10-01T22:00:02.500696",
-      "assets": [
-        {
-          "symbol": "COP",
-          "asset_class": null,
-          "relevance_score": 0.96592,
-          "sentiment_score": 0.343156,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "EOG",
-          "asset_class": null,
-          "relevance_score": 0.59637,
-          "sentiment_score": 0.095606,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "APA",
-          "asset_class": null,
-          "relevance_score": 0.562821,
-          "sentiment_score": 0.086893,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "CVX",
-          "asset_class": null,
-          "relevance_score": 0.55576,
-          "sentiment_score": 0.060102,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906123
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.738043
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1795,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com",
-          "source_domain": "Investing.com",
-          "headline": "Venture Global jumps on ConocoPhillips LNG supply deal",
-          "url": "https://www.investing.com/news/stock-market-news/venture-global-jumps-on-conocophillips-lng-supply-deal-4928481",
-          "published_at": "2026-10-01T21:11:09"
         }
       ]
     }
