@@ -5,6 +5,181 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1670,
+      "title": "DTE Energy stock after-hours at EUR 110.60: plus 0.93 percent versus prior close",
+      "summary": "DTE Energy stock saw an after-hours increase of 0.93 percent, reaching EUR 110.60, compared to its prior close. This comes as the company announced the completion of a 100-megawatt Cold Creek Solar Park, funded by Ford Motor Company's participation in DTE's MIGreenPower program. DTE Energy also organized community events to assist customers with energy-related issues.",
+      "event_type": "COMMODITY_ENERGY",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-02T22:54:00",
+      "first_seen_at": "2026-10-03T00:00:02.495383",
+      "assets": [
+        {
+          "symbol": "DTE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.244878,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "VRSN",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.233663,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "F",
+          "asset_class": null,
+          "relevance_score": 0.639583,
+          "sentiment_score": 0.101245,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.941576
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.914714
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.903223
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.605133
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1836,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Verisign stock after-hours at EUR 256.50: plus 0.53 percent versus prior close",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/verisign-stock-after-hours-at-eur-256-50-plus-0-53-percent-versus-prior/70218242",
+          "published_at": "2026-10-02T22:00:00"
+        },
+        {
+          "article_id": 1835,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "DTE Energy stock after-hours at EUR 110.60: plus 0.93 percent versus prior close",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/dte-energy-stock-after-hours-at-eur-110-60-plus-0-93-percent-versus-prior/70218509",
+          "published_at": "2026-10-02T22:54:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1671,
+      "title": "Completion of the acquisition of GoHenry, a money management platform for 6-18 year olds",
+      "summary": "Barclays PLC has completed its acquisition of GoHenry, a money management platform aimed at 6-18 year olds, from Acorns Grow Incorporated. Barclays intends to maintain the GoHenry brand and integrate its services to strengthen support for families and expand its customer relationships. Acorns will retain the GoHenry US business (now Acorns Early) and Pixpay in Europe.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-02T22:31:03",
+      "first_seen_at": "2026-10-03T00:00:02.842127",
+      "assets": [
+        {
+          "symbol": "BCS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.343764,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.82904
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1837,
+          "provider": "ALPHA_VANTAGE",
+          "source": "WebWire",
+          "source_domain": "WebWire",
+          "headline": "Completion of the acquisition of GoHenry, a money management platform for 6-18 year olds",
+          "url": "https://www.webwire.com/ViewPressRel.asp?aId=361277",
+          "published_at": "2026-10-02T22:31:03"
+        }
+      ]
+    },
+    {
+      "event_id": 1673,
+      "title": "A director acquires 226.391 and 1,466 stock units in J M Smucker (SJM), payable in shares after service ends.",
+      "summary": "J M Smucker Co (SJM) director Bruce Chung acquired 226.391 and 1,466 Deferred Stock Units on October 1, 2026. The 226.391 units include shares from the company's dividend reinvestment plan. These units will be payable in Common Shares at a 1-for-1 rate upon the termination of Chung's services as a director.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-02T22:16:52",
+      "first_seen_at": "2026-10-03T00:00:03.462971",
+      "assets": [
+        {
+          "symbol": "SJM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.038765,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.906721
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.901401
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.733401
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1840,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "A director acquires 1,466 stock units at J M Smucker (SJM), payable in shares after her service ends.",
+          "url": "https://www.stocktitan.net/sec-filings/SJM/form-4-j-m-smucker-co-insider-trading-activity-2cb6a94a9bd6.html",
+          "published_at": "2026-10-02T22:11:52"
+        },
+        {
+          "article_id": 1839,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "A director acquires 226.391 and 1,466 stock units in J M Smucker (SJM), payable in shares after service ends.",
+          "url": "https://www.stocktitan.net/sec-filings/SJM/form-4-j-m-smucker-co-insider-trading-activity-12eb0858c508.html",
+          "published_at": "2026-10-02T22:16:52"
+        }
+      ]
+    },
+    {
       "event_id": 1667,
       "title": "COO acquires 16 shares through Tyler Technologies (TYL) employee stock purchase plan.",
       "summary": "Tyler Technologies (TYL) Chief Operating Officer Jeffrey David Puckett acquired 16 shares of common stock at $270.81 per share on September 30, 2026, through the company's 2004 Employee Stock Purchase Plan. Following this transaction, Puckett directly holds 7,800 shares. The filing indicates a neutral sentiment and reports no Rule 10b5-1 plan for this acquisition.",
@@ -758,12 +933,12 @@
     {
       "event_id": 1652,
       "title": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-      "summary": "Shares of Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems jumped after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure on growth equities. Nonfarm payrolls increased by 29,000 in September, falling short of expectations, and the unemployment rate rose to 4.2%. This shift lowers borrowing costs, which is generally favorable for semiconductor valuations, although further labor market deceleration could impact demand in cyclical end-markets.",
+      "summary": "Shares of Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems jumped after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure. Nonfarm payrolls increased by 29,000 in September, below projections, and the unemployment rate rose to 4.2%. This softer hiring environment is seen as beneficial for high-multiple growth equities by lowering borrowing costs, although it risks dampening demand in cyclical chip channels.",
       "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
+      "market_scope": "COMPANY_SPECIFIC",
       "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
+      "importance": "LOW",
+      "intelligence_score": 45,
       "published_at": "2026-10-02T14:45:25",
       "first_seen_at": "2026-10-02T16:00:02.532688",
       "assets": [
@@ -771,15 +946,15 @@
           "symbol": "MCHP",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.333996,
+          "sentiment_score": 0.323493,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
         {
           "symbol": "MPWR",
           "asset_class": null,
-          "relevance_score": 0.826195,
-          "sentiment_score": 0.30187,
+          "relevance_score": 0.844128,
+          "sentiment_score": 0.315696,
           "sentiment_label": "Somewhat-Bullish",
           "relationship_type": null
         },
@@ -795,7 +970,7 @@
       "topics": [
         {
           "topic": "financial_markets",
-          "relevance_score": 0.915419
+          "relevance_score": 0.920898
         },
         {
           "topic": "economy_monetary",
@@ -803,7 +978,11 @@
         },
         {
           "topic": "technology",
-          "relevance_score": 0.730496
+          "relevance_score": 0.830015
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.620879
         }
       ],
       "articles": [
@@ -815,6 +994,15 @@
           "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
           "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-2-impinj-power-integrations-kulicke-and-soffa-microchip-technology-and-monolithic-power-systems-shares-are-soaring-what-you-need-to-know",
           "published_at": "2026-10-02T14:45:25"
+        },
+        {
+          "article_id": 1838,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html",
+          "published_at": "2026-10-02T22:22:53"
         }
       ]
     },
@@ -968,147 +1156,6 @@
           "headline": "Lululemon stock hits 52-week low at 95.26 USD By Investing.com",
           "url": "https://au.investing.com/news/stock-market-news/lululemon-stock-hits-52week-low-at-9526-usd-93CH-4670722",
           "published_at": "2026-10-02T13:37:26"
-        }
-      ]
-    },
-    {
-      "event_id": 1650,
-      "title": "Scotiabank upgrades Xcel Energy stock to Strong Buy",
-      "summary": "Scotiabank has upgraded Xcel Energy (XEL) stock to a \"Strong Buy,\" contributing to a positive analyst consensus. The upgrade follows Xcel Energy's strong second-quarter earnings, where EPS of USD 0.93 exceeded the USD 0.79 consensus, despite a revenue decline. The next earnings report is anticipated on October 29, 2026.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-02T13:12:00",
-      "first_seen_at": "2026-10-02T15:00:02.756349",
-      "assets": [
-        {
-          "symbol": "XEL",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.431368,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920022
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.726092
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1815,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Scotiabank upgrades Xcel Energy stock to Strong Buy",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/scotiabank-upgrades-xcel-energy-stock-to-strong-buy/70215448",
-          "published_at": "2026-10-02T13:12:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1651,
-      "title": "Adviser-linked entities agree to buy $10 shares in Hall Chadwick (HCAC) if its REEcycle merger closes.",
-      "summary": "Hall Chadwick Acquisition Corp. (HCAC) has secured binding subscription agreements for 210,000 shares at $10.00 each, totaling $2.1 million, conditional on its merger with REEcycle Holdings, Inc. These shares are being purchased by entities managed by a REEcycle director and members of HCAC's advisory team. The proposed all-stock transaction is valued at $400 million, with $350 million at closing and an additional $50 million tied to a milestone of 50 tpa MREO over 22 days, subject to a $40 million minimum cash condition.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 60,
-      "published_at": "2026-10-02T13:01:24",
-      "first_seen_at": "2026-10-02T15:00:03.001797",
-      "assets": [
-        {
-          "symbol": "HCAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.306196,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.829256
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.749556
-        },
-        {
-          "topic": "ipo",
-          "relevance_score": 0.726717
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1816,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "Adviser-linked entities agree to buy $10 shares in Hall Chadwick (HCAC) if its REEcycle merger closes.",
-          "url": "https://www.stocktitan.net/sec-filings/HCAC/8-k-hall-chadwick-acquisition-corp-reports-material-event-e55ac3fe5210.html",
-          "published_at": "2026-10-02T13:01:24"
-        }
-      ]
-    },
-    {
-      "event_id": 1646,
-      "title": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
-      "summary": "5E Advanced Materials Inc. has finalized its acquisition of real property, production facilities, and brine resources from Searles Valley Minerals Inc. and its affiliates. The deal involved $3.4 million in cash, 8.3 million shares of common stock, and approximately $17.2 million in new debt obligations, including a $6.2 million unsecured promissory note and a $10.0 million secured bridge facility. This acquisition expands 5E Advanced Materials' asset base in the Trona, California area but introduces significant debt with high interest rates and near-term refinancing considerations.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T12:31:56",
-      "first_seen_at": "2026-10-02T14:00:01.767853",
-      "assets": [
-        {
-          "symbol": "FEAM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.267813,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.901722
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1811,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Minichart",
-          "source_domain": "Minichart",
-          "headline": "5E Advanced Materials Closes Trona Asset Acquisition With $17.2 Million in New Debt",
-          "url": "https://www.minichart.com.sg/2026/10/01/5e-advanced-materials-closes-trona-asset-acquisition-with-17-2-million-in-new-debt/",
-          "published_at": "2026-10-02T12:31:56"
         }
       ]
     }
