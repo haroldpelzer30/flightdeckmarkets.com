@@ -5,6 +5,49 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1687,
+      "title": "Park National Corp OH Acquires 163,920 Shares of Cintas Corporation $CTAS",
+      "summary": "Park National Corp OH significantly increased its stake in Cintas Corporation (NASDAQ:CTAS) during the third quarter, purchasing an additional 163,920 shares to reach a total of 190,332 shares valued at $37.1 million. This makes Cintas its 25th largest investment. Analysts have a \"Moderate Buy\" consensus rating for Cintas with an average target price of $216.08, following the company's strong earnings and revenue performance, and its recent dividend increase.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-10-05T18:00:22",
+      "first_seen_at": "2026-10-05T19:00:01.976585",
+      "assets": [
+        {
+          "symbol": "CTAS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.478668,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.938702
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.826414
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1854,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Park National Corp OH Acquires 163,920 Shares of Cintas Corporation $CTAS",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-park-national-corp-oh-acquires-163920-shares-of-cintas-corporation-ctas-2026-10-05/",
+          "published_at": "2026-10-05T18:00:22"
+        }
+      ]
+    },
+    {
       "event_id": 1682,
       "title": "Cintas Corporation $CTAS Shares Sold by Argent Capital Management LLC",
       "summary": "Argent Capital Management LLC reduced its stake in Cintas Corporation (NASDAQ:CTAS) by 4.9% in the third quarter, selling 9,505 shares. Despite this, Cintas remains the 24th largest position for Argent Capital Management LLC. Other institutional investors like BlackRock Inc. and Bank of New York Mellon Corp significantly increased their holdings in the company.",
@@ -1096,65 +1139,6 @@
           "headline": "Stellantis STLA Slides As Downgrades, Battery Shortages Hit Outlook",
           "url": "https://stockstotrade.com/news/stellantis-nv-stla-news-2026_10_02-2/",
           "published_at": "2026-10-02T20:54:15"
-        }
-      ]
-    },
-    {
-      "event_id": 1662,
-      "title": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
-      "summary": "Former Tesla President Jon McNeill states that Tesla's traditional car sales are crucial for funding its long-term ambitions in robotaxis and humanoid robots, which require extensive capital and development time. Despite this, he highlights that the Full Self-Driving software is a key driver of current Tesla vehicle sales, comparing its impact to the transition from flip phones to smartphones. McNeill also noted that prediction market traders were more accurate than Wall Street analysts in forecasting Tesla's recent delivery numbers.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T19:13:34",
-      "first_seen_at": "2026-10-02T20:00:01.770117",
-      "assets": [
-        {
-          "symbol": "TSLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.268419,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MU",
-          "asset_class": null,
-          "relevance_score": 0.641362,
-          "sentiment_score": 0.12228,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.949122
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.939959
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.849498
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.847001
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1827,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-car-185750586.html",
-          "published_at": "2026-10-02T19:13:34"
         }
       ]
     }
