@@ -5,6 +5,96 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1689,
+      "title": "Tactile Systems Technology stock gains after Q2 earnings beat",
+      "summary": "Tactile Systems Technology's stock rose after the company beat Q2 earnings estimates, reporting $0.34 EPS against a $0.14 consensus. Analysts maintain a \"Moderate Buy\" consensus with an average 12-month target of $38.40, significantly above the current trading price. The medical device company posted revenues of $85.70 million and a net income of $7.785 million for Q2 2026.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-10-05T20:43:00",
+      "first_seen_at": "2026-10-05T22:00:02.356586",
+      "assets": [
+        {
+          "symbol": "TCMD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.518122,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935015
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.807772
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.730431
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1856,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Tactile Systems Technology stock gains after Q2 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tactile-systems-technology-stock-gains-after-q2-earnings-beat/70236320",
+          "published_at": "2026-10-05T20:43:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1690,
+      "title": "A director acquires 474 cash-payable stock-linked units at NextEra Energy (NEE).",
+      "summary": "NextEra Energy director Nicole S. Arnaboldi acquired 474 Phantom Stock Units on October 2, 2026, valued at $76.83 per share. These units are part of a Deferred Compensation Plan, where accounts are payable in cash at the end of the deferral period. Following this transaction, her reported balance stands at 9,016 Phantom Stock Units.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-05T20:25:15",
+      "first_seen_at": "2026-10-05T22:00:02.588717",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.010172,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.919432
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.74884
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1857,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "A director acquires 474 cash-payable stock-linked units at NextEra Energy (NEE).",
+          "url": "https://www.stocktitan.net/sec-filings/NEE/form-4-nextera-energy-inc-insider-trading-activity-64a790e3f783.html",
+          "published_at": "2026-10-05T20:25:15"
+        }
+      ]
+    },
+    {
       "event_id": 1687,
       "title": "Park National Corp OH Acquires 163,920 Shares of Cintas Corporation $CTAS",
       "summary": "Park National Corp OH significantly increased its stake in Cintas Corporation (NASDAQ:CTAS) during the third quarter, purchasing an additional 163,920 shares to reach a total of 190,332 shares valued at $37.1 million. This makes Cintas its 25th largest investment. Analysts have a \"Moderate Buy\" consensus rating for Cintas with an average target price of $216.08, following the company's strong earnings and revenue performance, and its recent dividend increase.",
@@ -1005,140 +1095,6 @@
           "headline": "COO acquires 16 shares through Tyler Technologies (TYL) employee stock purchase plan.",
           "url": "https://www.stocktitan.net/sec-filings/TYL/form-4-tyler-technologies-inc-insider-trading-activity-d717cf4ada48.html",
           "published_at": "2026-10-02T21:15:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1668,
-      "title": "ON Semiconductor (ON) Shares Rise 5.8% Amid Weak September Jobs Report",
-      "summary": "ON Semiconductor (ON) saw its stock price increase by 5.8% after a weaker-than-expected September U.S. jobs report sparked optimism for technology stocks. Despite this rise and a strong GF Score™ of 85/100, the stock is considered significantly overvalued by GuruFocus's GF Value™ metric. Insider activity shows net selling, contrasting with guru accumulation, suggesting investors should carefully assess the risk-reward balance given the premium valuation.",
-      "event_type": "MACRO_DATA",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "HIGH",
-      "intelligence_score": 54,
-      "published_at": "2026-10-02T21:11:13",
-      "first_seen_at": "2026-10-02T23:00:02.805920",
-      "assets": [
-        {
-          "symbol": "ON",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.118598,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "STX",
-          "asset_class": null,
-          "relevance_score": 0.614104,
-          "sentiment_score": -0.122714,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.90539
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.811686
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.744415
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.644564
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.627022
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1833,
-          "provider": "ALPHA_VANTAGE",
-          "source": "GuruFocus",
-          "source_domain": "GuruFocus",
-          "headline": "ON Semiconductor (ON) Shares Rise 5.8% Amid Weak September Jobs Report",
-          "url": "https://www.gurufocus.com/news/9108041/on-semiconductor-on-shares-rise-58-amid-weak-september-jobs-report",
-          "published_at": "2026-10-02T21:11:13"
-        }
-      ]
-    },
-    {
-      "event_id": 1669,
-      "title": "Stellantis STLA Slides As Downgrades, Battery Shortages Hit Outlook",
-      "summary": "Stellantis (STLA) stock has fallen by 6.4% due to concerns over weak EV demand, pricing pressure, and production halts caused by battery shortages at its French plants. The company has also faced downgrades from Morgan Stanley and Berenberg, who cited a weak product pipeline, soft cash generation, and refinancing risks. An insider's plan to sell shares further adds to the negative outlook.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-10-02T20:54:15",
-      "first_seen_at": "2026-10-02T23:00:03.081005",
-      "assets": [
-        {
-          "symbol": "STLA",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.735742,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.623086,
-          "sentiment_score": -0.511494,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "GM",
-          "asset_class": null,
-          "relevance_score": 0.62287,
-          "sentiment_score": -0.539907,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.923512
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.831153
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.736238
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.646068
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.611048
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1834,
-          "provider": "ALPHA_VANTAGE",
-          "source": "StocksToTrade",
-          "source_domain": "StocksToTrade",
-          "headline": "Stellantis STLA Slides As Downgrades, Battery Shortages Hit Outlook",
-          "url": "https://stockstotrade.com/news/stellantis-nv-stla-news-2026_10_02-2/",
-          "published_at": "2026-10-02T20:54:15"
         }
       ]
     }
