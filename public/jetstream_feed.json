@@ -20,7 +20,7 @@
           "symbol": "CTAS",
           "asset_class": null,
           "relevance_score": 1.0,
-          "sentiment_score": 0.478668,
+          "sentiment_score": 0.455534,
           "sentiment_label": "Bullish",
           "relationship_type": null
         }
@@ -28,11 +28,11 @@
       "topics": [
         {
           "topic": "earnings",
-          "relevance_score": 0.938702
+          "relevance_score": 0.949838
         },
         {
           "topic": "financial_markets",
-          "relevance_score": 0.826414
+          "relevance_score": 0.848253
         }
       ],
       "articles": [
