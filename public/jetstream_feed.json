@@ -5,6 +5,128 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1678,
+      "title": "Pentair completes Taco deal. Pentair stock falls 1.12 percent",
+      "summary": "Pentair plc has completed its $1.40 billion acquisition of Taco Group Holdings, expanding its water solutions portfolio. Despite the strategic acquisition, Pentair's stock fell 1.12 percent, reflecting broader revenue pressures and the continued impact of a weaker pool business on its near-term financial performance. The company's stock is currently trading near its 52-week low.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-05T13:52:20",
+      "first_seen_at": "2026-10-05T15:00:02.506304",
+      "assets": [
+        {
+          "symbol": "PNR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.225786,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.915021
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.831264
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.619648
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1845,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Pentair completes Taco deal. Pentair stock falls 1.12 percent",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pentair-completes-taco-deal-pentair-stock-falls-1-12-percent/70233741",
+          "published_at": "2026-10-05T13:52:20"
+        }
+      ]
+    },
+    {
+      "event_id": 1679,
+      "title": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
+      "summary": "ConocoPhillips Executive Chairman Ryan Lance anticipates the oil price floor to rise to $70 per barrel, with U.S. West Texas Intermediate stabilizing between $65 and $70. He also projected that U.S. oil output could exceed 14.5 million barrels per day if prices remain consistent. Lance cautioned that global oil demand might stay depressed until late 2020s, with significant rebound expected around 2028-2029, and highlighted ConocoPhillips' focus on upstream investments.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 73,
+      "published_at": "2026-10-05T13:41:45",
+      "first_seen_at": "2026-10-05T15:00:02.772782",
+      "assets": [
+        {
+          "symbol": "COP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.313244,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "XOM",
+          "asset_class": null,
+          "relevance_score": 0.625019,
+          "sentiment_score": 0.222353,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "CVX",
+          "asset_class": null,
+          "relevance_score": 0.619365,
+          "sentiment_score": 0.209377,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.936222
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.928485
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.805279
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.711016
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.636476
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1846,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Quartz",
+          "source_domain": "Quartz",
+          "headline": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
+          "url": "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
+          "published_at": "2026-10-05T13:41:45"
+        }
+      ]
+    },
+    {
       "event_id": 1677,
       "title": "JPMorgan Chase Earned More in 2025 Than Bank of America and Wells Fargo Combined. Can the Stock Keep Outrunning Them?",
       "summary": "JPMorgan Chase has significantly outperformed Bank of America and Wells Fargo over the past three years, with its stock up nearly 130% since October 2023. This outperformance is attributed to JPMorgan's greater focus on corporate and investment banking, which contributed over half of its 2025 bottom line, contrasting with its competitors' larger reliance on consumer banking. While economic headwinds pose a threat to all banks, JPMorgan's business mix is currently more favorable, especially as demand for corporate fundraising is expected to increase.",
@@ -1041,136 +1163,6 @@
           "headline": "ON Semiconductor Analyst's 5 Key Takeaways from Synaptics Acquistion",
           "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62140548/on-semiconductor-analysts-5-key-takeaways-from-synaptics-acquistion",
           "published_at": "2026-10-02T16:18:48"
-        }
-      ]
-    },
-    {
-      "event_id": 1655,
-      "title": "Morgan Stanley Strategist Sees “5 or 10%” Market Drawdown Potential as Five Megacaps Carry the S&P 500",
-      "summary": "A Morgan Stanley strategist warns of a potential 5% to 10% market drawdown, driven by bond volatility and the narrow leadership of five megacap stocks in the S&P 500. While these five stocks (Microsoft, NVIDIA, Meta, Apple, Alphabet) have propelled most of the S&P 500's gains, the strategist suggests a pullback could be a buying opportunity, especially given strong earnings growth and reasonable valuations for these companies. The market's breadth has narrowed, with many stocks already in a bear market, indicating a potential correction if bond market volatility persists.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 62,
-      "published_at": "2026-10-02T15:04:25",
-      "first_seen_at": "2026-10-02T17:00:02.728170",
-      "assets": [
-        {
-          "symbol": "MS",
-          "asset_class": null,
-          "relevance_score": 0.947658,
-          "sentiment_score": 0.142251,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MSFT",
-          "asset_class": null,
-          "relevance_score": 0.8448,
-          "sentiment_score": 0.261561,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.700797,
-          "sentiment_score": 0.285872,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "META",
-          "asset_class": null,
-          "relevance_score": 0.624183,
-          "sentiment_score": 0.219265,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "AAPL",
-          "asset_class": null,
-          "relevance_score": 0.616518,
-          "sentiment_score": 0.247544,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.907286
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.815156
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.725259
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.647012
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1820,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Morgan Stanley Strategist Sees “5 or 10%” Market Drawdown Potential as Five Megacaps Carry the S&P 500",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strategist-sees-5-150329341.html",
-          "published_at": "2026-10-02T15:04:25"
-        }
-      ]
-    },
-    {
-      "event_id": 1656,
-      "title": "Witness A Substantial Acquisition As Anthony R Chase Acquires Nabors Industries Stock Options Worth $939",
-      "summary": "Anthony R. Chase, a Director at Nabors Industries (NYSE: NBR), recently acquired stock options for 1,056 shares, as disclosed in a Form 4 filing on October 2. The options allow Chase to purchase the stock at $78.12 per share, and the current value of these shares is $939. Nabors Industries, which operates land-based and offshore drilling rig fleets, has faced revenue challenges with a -2.16% decline in the last three months but boasts a high gross margin of 18.0%.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T15:02:46",
-      "first_seen_at": "2026-10-02T17:00:03.078378",
-      "assets": [
-        {
-          "symbol": "NBR",
-          "asset_class": null,
-          "relevance_score": 0.345027,
-          "sentiment_score": 0.047293,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936079
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.823927
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.800291
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1821,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Witness A Substantial Acquisition As Anthony R Chase Acquires Nabors Industries Stock Options Worth $939",
-          "url": "https://www.benzinga.com/news/26/10/62137576/witness-substantial-acquisition-anthony-r-chase-acquires-nabors-industries-stock-options-worth-939",
-          "published_at": "2026-10-02T15:02:46"
         }
       ]
     }
