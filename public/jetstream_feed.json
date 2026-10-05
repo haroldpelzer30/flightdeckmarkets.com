@@ -5,6 +5,171 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1674,
+      "title": "Kenvue stock faces deal execution risks after leadership reshuffle",
+      "summary": "Kenvue (KVUE) stock is facing deal execution risks following a leadership reshuffle related to Kimberly-Clark's planned acquisition. While the second quarter saw a 3.0% sales increase, adjusted gross and operating margins declined. The market is weighing the transaction's potential value against integration challenges and margin pressures, with the stock remaining below its yearly high despite an analyst consensus target price above its current trading value.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-05T12:08:51",
+      "first_seen_at": "2026-10-05T13:00:02.528217",
+      "assets": [
+        {
+          "symbol": "KVUE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.234372,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.94529
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.843437
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.640839
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.637111
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1841,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Kenvue stock faces deal execution risks after leadership reshuffle",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kenvue-stock-faces-deal-execution-risks-after-leadership-reshuffle/70233023",
+          "published_at": "2026-10-05T12:08:51"
+        }
+      ]
+    },
+    {
+      "event_id": 1675,
+      "title": "FedEx Corporation : Gets a Buy rating from JP Morgan",
+      "summary": "JP Morgan has reiterated its \"Buy\" rating for FedEx Corporation, with analyst Brian P. Ossenbeck maintaining a target price of $400, a minor adjustment from $399. The research from JP Morgan continues to view FedEx as a favorable investment opportunity.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-05T11:48:12",
+      "first_seen_at": "2026-10-05T13:00:02.823901",
+      "assets": [
+        {
+          "symbol": "FDX",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.423399,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "UPS",
+          "asset_class": null,
+          "relevance_score": 0.604334,
+          "sentiment_score": 0.131852,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91594
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.822955
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1842,
+          "provider": "ALPHA_VANTAGE",
+          "source": "www.marketscreener.com",
+          "source_domain": "www.marketscreener.com",
+          "headline": "FedEx Corporation : Gets a Buy rating from JP Morgan",
+          "url": "https://www.marketscreener.com/news/fedex-corporation-gets-a-buy-rating-from-jp-morgan-ce785ddbd080fe26",
+          "published_at": "2026-10-05T11:48:12"
+        }
+      ]
+    },
+    {
+      "event_id": 1676,
+      "title": "Why is Autodesk stock rallying today? By Investing.com",
+      "summary": "Autodesk (ADSK) stock surged over 3.8% in pre-market trading after Schneider Electric announced a $22.6 billion acquisition of PTC, a key Autodesk rival, at a significant premium. This M&A activity signals strong valuation for industrial AI and engineering software companies. The rally was further supported by Autodesk's new AI capabilities in its Fusion product suite and a deepened AI collaboration with Arcadis.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 45,
+      "published_at": "2026-10-05T11:34:19",
+      "first_seen_at": "2026-10-05T13:00:03.136558",
+      "assets": [
+        {
+          "symbol": "ADSK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.469077,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "PTC",
+          "asset_class": null,
+          "relevance_score": 0.922551,
+          "sentiment_score": 0.336711,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.922519
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.813128
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.700184
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1843,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Investing.com India",
+          "source_domain": "Investing.com India",
+          "headline": "Why is Autodesk stock rallying today? By Investing.com",
+          "url": "https://in.investing.com/news/stock-market-news/why-is-autodesk-stock-rallying-today-93CH-5618368",
+          "published_at": "2026-10-05T11:34:19"
+        }
+      ]
+    },
+    {
       "event_id": 1670,
       "title": "DTE Energy stock after-hours at EUR 110.60: plus 0.93 percent versus prior close",
       "summary": "DTE Energy stock saw an after-hours increase of 0.93 percent, reaching EUR 110.60, compared to its prior close. This comes as the company announced the completion of a 100-megawatt Cold Creek Solar Park, funded by Ford Motor Company's participation in DTE's MIGreenPower program. DTE Energy also organized community events to assist customers with energy-related issues.",
@@ -1003,159 +1168,6 @@
           "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html",
           "published_at": "2026-10-02T22:22:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1653,
-      "title": "A director acquires 238 stock units at Humana (HUM) by converting a cash fee.",
-      "summary": "Humana Inc. director Kurt J. Hilzinger acquired 238 restricted stock units on September 30, 2026, by converting a director cash fee. These units are deferred until his resignation from director service, at which point they will be payable in Humana common stock. The acquisition is part of Hilzinger's existing holdings, which also include deferred annual-fee stock units, dividend-reinvestment units, and directly held Humana common shares.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-10-02T14:16:51",
-      "first_seen_at": "2026-10-02T16:00:02.800710",
-      "assets": [
-        {
-          "symbol": "HUM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.006582,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.91356
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.817317
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1818,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "A director acquires 238 stock units at Humana (HUM) by converting a cash fee.",
-          "url": "https://www.stocktitan.net/sec-filings/HUM/form-4-humana-inc-insider-trading-activity-25ecfb084e80.html",
-          "published_at": "2026-10-02T14:16:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1654,
-      "title": "KLA Corp Stock (KLAC) Moved Up by 3.63% on Oct 2: What Signal Does It Send?",
-      "summary": "KLA Corp (KLAC) stock rose 3.63% on October 2nd, outperforming its sector, driven by strong semiconductor equipment sector dynamics and macroeconomic catalysts. The company benefits from increased wafer fabrication equipment capital expenditures due to AI infrastructure, high-bandwidth memory, and advanced packaging demands. Positive investor sentiment is also supported by upcoming quarterly earnings disclosures and KLA's robust position in process control and optical inspection for advanced semiconductor manufacturing.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-02T14:15:09",
-      "first_seen_at": "2026-10-02T16:00:03.030896",
-      "assets": [
-        {
-          "symbol": "KLAC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.415381,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.617738,
-          "sentiment_score": 0.342897,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.948891
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.932368
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.830754
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.707824
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1819,
-          "provider": "ALPHA_VANTAGE",
-          "source": "TradingKey",
-          "source_domain": "TradingKey",
-          "headline": "KLA Corp Stock (KLAC) Moved Up by 3.63% on Oct 2: What Signal Does It Send?",
-          "url": "https://www.tradingkey.com/news/market-movers/262198135-market-movers-klac-20261002",
-          "published_at": "2026-10-02T14:15:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1649,
-      "title": "Lululemon stock hits 52-week low at 95.26 USD By Investing.com",
-      "summary": "Lululemon's stock has plummeted to a new 52-week low of $94.49, marking a significant downturn with a 46% decline over the past year and a 54% drop year-to-date. Despite its low P/E ratio and being considered significantly undervalued by InvestingPro, the company faces challenges including declining revenue, reduced global comparable sales, and increased competition, particularly in China. These issues are exacerbated by increased promotional activity and have led to analysts lowering price targets and initiating underperform ratings.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-02T13:37:26",
-      "first_seen_at": "2026-10-02T15:00:02.485199",
-      "assets": [
-        {
-          "symbol": "LULU",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.605405,
-          "sentiment_label": "Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.913716
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.906722
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.820192
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.645637
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1814,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Investing.com Australia",
-          "source_domain": "Investing.com Australia",
-          "headline": "Lululemon stock hits 52-week low at 95.26 USD By Investing.com",
-          "url": "https://au.investing.com/news/stock-market-news/lululemon-stock-hits-52week-low-at-9526-usd-93CH-4670722",
-          "published_at": "2026-10-02T13:37:26"
         }
       ]
     }
