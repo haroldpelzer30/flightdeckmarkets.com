@@ -5,6 +5,61 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1681,
+      "title": "Why Did MFA Financial (NYSE:MFA) Hit A Yearly Low Today?",
+      "summary": "MFA Financial (NYSE:MFA) shares fell to a new yearly low due to a combination of its ex-dividend date, ongoing concerns about interest rates, and worries about the sustainability of its dividend given that it exceeds reported earnings. Despite this, research firms have split views on the mortgage REIT, with some analysts seeing value and setting price targets above current levels, while others maintain a bearish outlook. The company's valuation appears inexpensive, and institutional ownership remains solid, suggesting some professional investors see potential at lower prices.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 53,
+      "published_at": "2026-10-05T15:30:24",
+      "first_seen_at": "2026-10-05T17:00:01.940302",
+      "assets": [
+        {
+          "symbol": "MFA-P-B",
+          "asset_class": null,
+          "relevance_score": 0.331714,
+          "sentiment_score": 0.002133,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.916665
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904906
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.834285
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.738057
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1848,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Kalkine Media",
+          "source_domain": "Kalkine Media",
+          "headline": "Why Did MFA Financial (NYSE:MFA) Hit A Yearly Low Today?",
+          "url": "https://kalkinemedia.com/us/news/top-stories/why-did-mfa-financial-nysemfa-hit-a-yearly-low-today",
+          "published_at": "2026-10-05T15:30:24"
+        }
+      ]
+    },
+    {
       "event_id": 1680,
       "title": "Wells Fargo raises target for Consolidated Edison stock to USD 118",
       "summary": "Wells Fargo has increased its price target for Consolidated Edison (Con Edison) stock to USD 118 from USD 108, upgrading its rating from \"Equal Weight\" to \"Overweight.\" This adjustment reflects Con Edison's defensive qualities amidst the AI trade, as well as its investments in electrification and reliability. The utility reported strong Q2 2026 revenues of USD 4.07 billion, a 13% increase year-over-year, and exceeded EPS estimates, maintaining its full-year adjusted EPS guidance.",
@@ -1116,57 +1171,6 @@
           "headline": "Qorvo stock after-hours at EUR 101.81: plus 2.01 percent versus prior close",
           "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/qorvo-stock-after-hours-at-eur-101-81-plus-2-01-percent-versus-prior/70216740",
           "published_at": "2026-10-02T17:33:28"
-        }
-      ]
-    },
-    {
-      "event_id": 1657,
-      "title": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
-      "summary": "BWX Technologies (BWXT) is predicted to outperform nuclear energy companies like Oklo and NuScale through 2030 because it already has significant revenue streams, unlike its peers who are still in early commercialization stages. BWXT generated $3.2 billion in revenue in 2025 and is projected to reach $3.8 billion in 2026, driven by its established business of manufacturing nuclear components for the U.S. Navy, developing advanced nuclear reactors and microreactors, and producing TRISO fuel and medical isotopes. This existing revenue and diversified involvement in the nuclear market positions BWXT for continued growth without relying solely on the successful commercialization of new reactor designs.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T16:39:40",
-      "first_seen_at": "2026-10-02T18:00:01.974103",
-      "assets": [
-        {
-          "symbol": "OKLO",
-          "asset_class": null,
-          "relevance_score": 0.915353,
-          "sentiment_score": 0.283562,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.945873
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.921071
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.80916
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.649783
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1822,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Motley Fool",
-          "source_domain": "The Motley Fool",
-          "headline": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
-          "url": "https://www.fool.com/investing/2026/10/02/prediction-this-nuclear-stock-outperforms-oklo-and/",
-          "published_at": "2026-10-02T16:39:40"
         }
       ]
     }
