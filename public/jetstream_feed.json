@@ -5,6 +5,265 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1682,
+      "title": "Cintas Corporation $CTAS Shares Sold by Argent Capital Management LLC",
+      "summary": "Argent Capital Management LLC reduced its stake in Cintas Corporation (NASDAQ:CTAS) by 4.9% in the third quarter, selling 9,505 shares. Despite this, Cintas remains the 24th largest position for Argent Capital Management LLC. Other institutional investors like BlackRock Inc. and Bank of New York Mellon Corp significantly increased their holdings in the company.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-05T17:16:33",
+      "first_seen_at": "2026-10-05T18:00:02.066054",
+      "assets": [
+        {
+          "symbol": "CTAS",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.391887,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.947802
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.918517
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.805201
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.627421
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.62029
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1849,
+          "provider": "ALPHA_VANTAGE",
+          "source": "MarketBeat",
+          "source_domain": "MarketBeat",
+          "headline": "Cintas Corporation $CTAS Shares Sold by Argent Capital Management LLC",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-cintas-corporation-ctas-shares-sold-by-argent-capital-management-llc-2026-10-05/",
+          "published_at": "2026-10-05T17:16:33"
+        }
+      ]
+    },
+    {
+      "event_id": 1683,
+      "title": "Plumas Bancorp stock reports a Q2 earnings beat",
+      "summary": "Plumas Bancorp (PLBC) reported a strong Q2 earnings beat, with net income rising 58% to USD 10.0 million and diluted EPS of USD 1.41 against an estimate of USD 1.37. The company's revenue also exceeded expectations, reaching USD 28.76 million. Analysts maintain a \"Buy\" consensus with an average price target of USD 66.33, indicating potential upside from its current trading price of USD 62.00.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-10-05T16:57:37",
+      "first_seen_at": "2026-10-05T18:00:02.368876",
+      "assets": [
+        {
+          "symbol": "PLBC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.475783,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.904552
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.828134
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.723996
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1850,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Plumas Bancorp stock reports a Q2 earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/plumas-bancorp-stock-reports-a-q2-earnings-beat/70234465",
+          "published_at": "2026-10-05T16:57:37"
+        }
+      ]
+    },
+    {
+      "event_id": 1684,
+      "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
+      "summary": "A Virginia State Corporation Commission hearing examiner has ordered Dominion Energy and NextEra to release a \"Robo memo\" detailing an investigation into Florida Power & Light's alleged illegal political activity. The ruling came during the review of their proposed $67 billion merger, emphasizing that the governance and political structure of the companies are relevant to the merger assessment. This decision follows a motion from consumer advocacy groups like Clean Virginia, which argued the memo was crucial for evaluating the \"managerial fitness\" of the entities involved.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-05T16:38:51",
+      "first_seen_at": "2026-10-05T18:00:02.621012",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.27672,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.986721,
+          "sentiment_score": -0.271595,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.916169
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.843247
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": 0.638618
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.617631
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1851,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Utility Dive",
+          "source_domain": "Utility Dive",
+          "headline": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
+          "url": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
+          "published_at": "2026-10-05T16:38:51"
+        }
+      ]
+    },
+    {
+      "event_id": 1685,
+      "title": "Pentair closes $1.4B acquisition of century-old Cranston manufacturer",
+      "summary": "Pentair has completed its $1.4 billion acquisition of Cranston, RI-based Taco Comfort Solutions. The century-old hydronic systems maker, known for its significant presence in Rhode Island and employment of approximately 1,000 people, will retain its branding under the new ownership. This acquisition positions Pentair to capitalize on growth trends in industry, infrastructure, energy efficiency, and data-center expansion.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-05T16:36:29",
+      "first_seen_at": "2026-10-05T18:00:02.880557",
+      "assets": [
+        {
+          "symbol": "PNR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.425394,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.944524
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.749251
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1852,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Business Journals",
+          "source_domain": "The Business Journals",
+          "headline": "Pentair closes $1.4B acquisition of century-old Cranston manufacturer",
+          "url": "https://www.bizjournals.com/rhodeisland/news/2026/10/05/pentair-taco-deal-closes.html",
+          "published_at": "2026-10-05T16:36:29"
+        }
+      ]
+    },
+    {
+      "event_id": 1686,
+      "title": "Patrick Industries stock faces merger hurdle near yearly low",
+      "summary": "Patrick Industries (PATK) stock is trading near its yearly low as the company navigates a proposed merger with LCI Industries. The merger's antitrust filing process reset with a new waiting period, posing a regulatory hurdle. Despite Q2 revenue exceeding estimates, adjusted EPS missed, and analysts show a wide valuation gap with an average target significantly above the current stock price.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 59,
+      "published_at": "2026-10-05T16:32:53",
+      "first_seen_at": "2026-10-05T18:00:03.102675",
+      "assets": [
+        {
+          "symbol": "PATK",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.211156,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.917528
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.816495
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.744361
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.648948
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": 0.618766
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1853,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Patrick Industries stock faces merger hurdle near yearly low",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/patrick-industries-stock-faces-merger-hurdle-near-yearly-low/70234973",
+          "published_at": "2026-10-05T16:32:53"
+        }
+      ]
+    },
+    {
       "event_id": 1681,
       "title": "Why Did MFA Financial (NYSE:MFA) Hit A Yearly Low Today?",
       "summary": "MFA Financial (NYSE:MFA) shares fell to a new yearly low due to a combination of its ex-dividend date, ongoing concerns about interest rates, and worries about the sustainability of its dividend given that it exceeds reported earnings. Despite this, research firms have split views on the mortgage REIT, with some analysts seeing value and setting price targets above current levels, while others maintain a bearish outlook. The company's valuation appears inexpensive, and institutional ownership remains solid, suggesting some professional investors see potential at lower prices.",
@@ -896,281 +1155,6 @@
           "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
           "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-car-185750586.html",
           "published_at": "2026-10-02T19:13:34"
-        }
-      ]
-    },
-    {
-      "event_id": 1666,
-      "title": "Goldgroup commits US$75mn to Mexico mine deal as shareholders back silver merger",
-      "summary": "Goldgroup Mining has pledged US$75 million to Luca Mining for the acquisition of the Cozamin mine in Mexico, replacing Trafigura's previous equity backing. This investment, funded by Goldgroup's cash reserves, will give them a significant stake in Luca. Concurrently, shareholders of Silver Hammer Mining and Stroud Resources approved a merger to form Silver Frontier Resources, focusing on the Santo Domingo project in Jalisco, though both transactions depend on various closing conditions.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-02T18:56:09",
-      "first_seen_at": "2026-10-02T21:00:02.668547",
-      "assets": [
-        {
-          "symbol": "GORO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.432391,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.816609
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1831,
-          "provider": "ALPHA_VANTAGE",
-          "source": "BNamericas",
-          "source_domain": "BNamericas",
-          "headline": "Goldgroup commits US$75mn to Mexico mine deal as shareholders back silver merger",
-          "url": "https://www.bnamericas.com/en/features/goldgroup-commits-us75mn-to-mexico-mine-deal-as-shareholders-back-silver-merger",
-          "published_at": "2026-10-02T18:56:09"
-        }
-      ]
-    },
-    {
-      "event_id": 1663,
-      "title": "Wells Fargo’s Tom Porcelli: The market is right to begin scaling back odds for an October hike",
-      "summary": "Tom Porcelli, Wells Fargo chief economist, and Jeff Blazek, Neuberger Multi-Asset Management co-CIO, discussed the September jobs report and the possibility of a Federal Reserve rate hike. Porcelli believes the market is justified in reducing its expectations for an October rate increase. The discussion took place on 'Power Lunch'.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 55,
-      "published_at": "2026-10-02T18:14:44",
-      "first_seen_at": "2026-10-02T20:00:02.038777",
-      "assets": [
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.033146,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.943985
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.830595
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.730293
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.617465
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1828,
-          "provider": "ALPHA_VANTAGE",
-          "source": "CNBC",
-          "source_domain": "CNBC",
-          "headline": "Wells Fargo’s Tom Porcelli: The market is right to begin scaling back odds for an October hike",
-          "url": "https://www.cnbc.com/video/2026/10/02/wells-fargoas-tom-porcelli-the-market-is-right-to-begin-scaling-back-odds-for-an-october-hike.html",
-          "published_at": "2026-10-02T18:14:44"
-        }
-      ]
-    },
-    {
-      "event_id": 1659,
-      "title": "Ford Sales Slide 6.6% After Model Phase-Outs",
-      "summary": "Ford Motor Company reported a 6.6% year-over-year decline in third-quarter U.S. vehicle sales, primarily due to planned phase-outs of the Escape and Lincoln Corsair models. Despite the overall sales dip, Ford estimated an increase in its retail market share to 12.1% when excluding the phased-out models. The company saw strong performance in its F-Series trucks, Maverick Hybrid, and Bronco sales, and maintained its adjusted EBIT guidance for 2026 despite a short-term supplier issue affecting F-150 production.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T17:46:29",
-      "first_seen_at": "2026-10-02T19:00:02.395478",
-      "assets": [
-        {
-          "symbol": "F",
-          "asset_class": null,
-          "relevance_score": 0.999974,
-          "sentiment_score": -0.116797,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.943719
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.936864
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.842925
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.83799
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.641774
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1824,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Benzinga",
-          "source_domain": "Benzinga",
-          "headline": "Ford Sales Slide 6.6% After Model Phase-Outs",
-          "url": "https://www.benzinga.com/markets/large-cap/26/10/62143212/ford-sales-slide-6-6-after-model-phase-outs",
-          "published_at": "2026-10-02T17:46:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1660,
-      "title": "PepsiCo raising chip and soda prices after February cuts",
-      "summary": "PepsiCo plans to increase prices on its chips and sodas by the end of 2026 or early 2027, with modest increases in the low-to-mid single digits, after implementing price cuts in February due to consumer pushback. The company cites higher commodity costs and elevated fuel prices impacting consumer demand. Despite earlier price reductions and a supply chain review, North American sales volumes have been trending downward.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 51,
-      "published_at": "2026-10-02T17:42:00",
-      "first_seen_at": "2026-10-02T19:00:02.682823",
-      "assets": [
-        {
-          "symbol": "PEP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.275958,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KO",
-          "asset_class": null,
-          "relevance_score": 0.62676,
-          "sentiment_score": 0.030758,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        },
-        {
-          "symbol": "KDP",
-          "asset_class": null,
-          "relevance_score": 0.590908,
-          "sentiment_score": 0.041004,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.9281
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.822127
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.71045
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.648485
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1825,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "PepsiCo raising chip and soda prices after February cuts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-soda-prices-174218999.html",
-          "published_at": "2026-10-02T17:42:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1661,
-      "title": "Qorvo stock after-hours at EUR 101.81: plus 2.01 percent versus prior close",
-      "summary": "Qorvo stock closed after-hours at EUR 101.81, showing a 2.01% increase from its previous close. This rise occurred as Skyworks Solutions announced that all necessary regulatory clearances have been secured for its proposed combination with Qorvo. The transaction is expected to finalize around October 5, 2026, structured as a cash-and-stock combination.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-10-02T17:33:28",
-      "first_seen_at": "2026-10-02T19:00:02.984672",
-      "assets": [
-        {
-          "symbol": "QRVO",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.325766,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "SWKS",
-          "asset_class": null,
-          "relevance_score": 0.848147,
-          "sentiment_score": 0.263555,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.912863
-        },
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.815611
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.639826
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1826,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Qorvo stock after-hours at EUR 101.81: plus 2.01 percent versus prior close",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/qorvo-stock-after-hours-at-eur-101-81-plus-2-01-percent-versus-prior/70216740",
-          "published_at": "2026-10-02T17:33:28"
         }
       ]
     }
