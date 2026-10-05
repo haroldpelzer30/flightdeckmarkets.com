@@ -5,6 +5,85 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1677,
+      "title": "JPMorgan Chase Earned More in 2025 Than Bank of America and Wells Fargo Combined. Can the Stock Keep Outrunning Them?",
+      "summary": "JPMorgan Chase has significantly outperformed Bank of America and Wells Fargo over the past three years, with its stock up nearly 130% since October 2023. This outperformance is attributed to JPMorgan's greater focus on corporate and investment banking, which contributed over half of its 2025 bottom line, contrasting with its competitors' larger reliance on consumer banking. While economic headwinds pose a threat to all banks, JPMorgan's business mix is currently more favorable, especially as demand for corporate fundraising is expected to increase.",
+      "event_type": "EARNINGS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 67,
+      "published_at": "2026-10-05T12:26:29",
+      "first_seen_at": "2026-10-05T14:00:02.254289",
+      "assets": [
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.275246,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.940308,
+          "sentiment_score": 0.440481,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "BAC",
+          "asset_class": null,
+          "relevance_score": 0.833656,
+          "sentiment_score": -0.218697,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NVDA",
+          "asset_class": null,
+          "relevance_score": 0.61106,
+          "sentiment_score": 0.340907,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.922
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": 0.813461
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.812632
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.7167
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1844,
+          "provider": "ALPHA_VANTAGE",
+          "source": "The Globe and Mail",
+          "source_domain": "The Globe and Mail",
+          "headline": "JPMorgan Chase Earned More in 2025 Than Bank of America and Wells Fargo Combined. Can the Stock Keep Outrunning Them?",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/",
+          "published_at": "2026-10-05T12:26:29"
+        }
+      ]
+    },
+    {
       "event_id": 1674,
       "title": "Kenvue stock faces deal execution risks after leadership reshuffle",
       "summary": "Kenvue (KVUE) stock is facing deal execution risks following a leadership reshuffle related to Kimberly-Clark's planned acquisition. While the second quarter saw a 3.0% sales increase, adjusted gross and operating margins declined. The market is weighing the transaction's potential value against integration challenges and margin pressures, with the stock remaining below its yearly high despite an analyst consensus target price above its current trading value.",
@@ -1092,82 +1171,6 @@
           "headline": "Witness A Substantial Acquisition As Anthony R Chase Acquires Nabors Industries Stock Options Worth $939",
           "url": "https://www.benzinga.com/news/26/10/62137576/witness-substantial-acquisition-anthony-r-chase-acquires-nabors-industries-stock-options-worth-939",
           "published_at": "2026-10-02T15:02:46"
-        }
-      ]
-    },
-    {
-      "event_id": 1652,
-      "title": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-      "summary": "Shares of Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems jumped after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure. Nonfarm payrolls increased by 29,000 in September, below projections, and the unemployment rate rose to 4.2%. This softer hiring environment is seen as beneficial for high-multiple growth equities by lowering borrowing costs, although it risks dampening demand in cyclical chip channels.",
-      "event_type": "MARKET_NEWS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 45,
-      "published_at": "2026-10-02T14:45:25",
-      "first_seen_at": "2026-10-02T16:00:02.532688",
-      "assets": [
-        {
-          "symbol": "MCHP",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.323493,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MPWR",
-          "asset_class": null,
-          "relevance_score": 0.844128,
-          "sentiment_score": 0.315696,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "MCHPP",
-          "asset_class": null,
-          "relevance_score": 0.312657,
-          "sentiment_score": 0.039265,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.920898
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.833166
-        },
-        {
-          "topic": "technology",
-          "relevance_score": 0.830015
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.620879
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1817,
-          "provider": "ALPHA_VANTAGE",
-          "source": "FinancialContent",
-          "source_domain": "FinancialContent",
-          "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-2-impinj-power-integrations-kulicke-and-soffa-microchip-technology-and-monolithic-power-systems-shares-are-soaring-what-you-need-to-know",
-          "published_at": "2026-10-02T14:45:25"
-        },
-        {
-          "article_id": 1838,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Yahoo Finance",
-          "source_domain": "Yahoo Finance",
-          "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html",
-          "published_at": "2026-10-02T22:22:53"
         }
       ]
     }
