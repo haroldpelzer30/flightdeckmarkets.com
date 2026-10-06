@@ -5,6 +5,116 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1692,
+      "title": "PACCAR stock follows Q2 earnings beat into October",
+      "summary": "PACCAR stock was trading at USD 109.36 on October 5, 2026, after reporting a Q2 earnings beat with revenue of USD 7.55 billion, exceeding analyst estimates. Despite the strong quarterly performance, the stock remains below its 52-week high, and analysts maintain a \"Hold\" consensus with an average price target significantly above the current trading price. The company's market capitalization stood at USD 57.6 billion.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "MEDIUM",
+      "intelligence_score": 56,
+      "published_at": "2026-10-05T23:07:00",
+      "first_seen_at": "2026-10-06T00:00:02.474241",
+      "assets": [
+        {
+          "symbol": "PCAR",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.308802,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.918091
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.816295
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.714244
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.627066
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1859,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "PACCAR stock follows Q2 earnings beat into October",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-follows-q2-earnings-beat-into-october/70237434",
+          "published_at": "2026-10-05T23:07:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1693,
+      "title": "Schneider's PTC acquisition brings together 'one hell of an industrial stack'",
+      "summary": "Schneider Electric is acquiring industrial software company PTC for $22.6 billion, building upon previous acquisitions of Aveva and Cognite. This move aims to create a comprehensive industrial stack spanning product design to factory floor operations. The integration of these companies positions Schneider to strongly challenge rivals like Siemens and ABB in the evolving industrial automation and software market.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-05T21:48:48",
+      "first_seen_at": "2026-10-06T00:00:02.768225",
+      "assets": [
+        {
+          "symbol": "PTC",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.406391,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AVGO",
+          "asset_class": null,
+          "relevance_score": 0.644243,
+          "sentiment_score": 0.315775,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.902619
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.817115
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.64372
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1860,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Fierce Network",
+          "source_domain": "Fierce Network",
+          "headline": "Schneider's PTC acquisition brings together 'one hell of an industrial stack'",
+          "url": "https://www.fiercewireless.com/cloud/schneiders-ptc-acquisition-brings-together-one-hell-industrial-stack",
+          "published_at": "2026-10-05T21:48:48"
+        }
+      ]
+    },
+    {
       "event_id": 1691,
       "title": "UniFirst stock gains 1.26 percent as Cintas plans acquisition",
       "summary": "UniFirst stock rose 1.26% after Cintas announced plans for a $5.5 billion acquisition, valuing UniFirst above its current $4.6 billion market capitalization. Despite the stock gain and revenue growth in fiscal Q3 2026, the company missed EPS consensus, leading analysts to see limited upside given the current price. Investors are now balancing the acquisition premium against recent earnings performance ahead of upcoming results in October.",
@@ -20,7 +130,7 @@
           "symbol": "CTAS",
           "asset_class": null,
           "relevance_score": 0.318095,
-          "sentiment_score": 0.047527,
+          "sentiment_score": 0.011273,
           "sentiment_label": "Neutral",
           "relationship_type": null
         }
@@ -992,105 +1102,6 @@
           "headline": "DTE Energy stock after-hours at EUR 110.60: plus 0.93 percent versus prior close",
           "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/dte-energy-stock-after-hours-at-eur-110-60-plus-0-93-percent-versus-prior/70218509",
           "published_at": "2026-10-02T22:54:00"
-        }
-      ]
-    },
-    {
-      "event_id": 1671,
-      "title": "Completion of the acquisition of GoHenry, a money management platform for 6-18 year olds",
-      "summary": "Barclays PLC has completed its acquisition of GoHenry, a money management platform aimed at 6-18 year olds, from Acorns Grow Incorporated. Barclays intends to maintain the GoHenry brand and integrate its services to strengthen support for families and expand its customer relationships. Acorns will retain the GoHenry US business (now Acorns Early) and Pixpay in Europe.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-02T22:31:03",
-      "first_seen_at": "2026-10-03T00:00:02.842127",
-      "assets": [
-        {
-          "symbol": "BCS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.343764,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.82904
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1837,
-          "provider": "ALPHA_VANTAGE",
-          "source": "WebWire",
-          "source_domain": "WebWire",
-          "headline": "Completion of the acquisition of GoHenry, a money management platform for 6-18 year olds",
-          "url": "https://www.webwire.com/ViewPressRel.asp?aId=361277",
-          "published_at": "2026-10-02T22:31:03"
-        }
-      ]
-    },
-    {
-      "event_id": 1673,
-      "title": "A director acquires 226.391 and 1,466 stock units in J M Smucker (SJM), payable in shares after service ends.",
-      "summary": "J M Smucker Co (SJM) director Bruce Chung acquired 226.391 and 1,466 Deferred Stock Units on October 1, 2026. The 226.391 units include shares from the company's dividend reinvestment plan. These units will be payable in Common Shares at a 1-for-1 rate upon the termination of Chung's services as a director.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 46,
-      "published_at": "2026-10-02T22:16:52",
-      "first_seen_at": "2026-10-03T00:00:03.462971",
-      "assets": [
-        {
-          "symbol": "SJM",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.038765,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.906721
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.901401
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.733401
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1840,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "A director acquires 1,466 stock units at J M Smucker (SJM), payable in shares after her service ends.",
-          "url": "https://www.stocktitan.net/sec-filings/SJM/form-4-j-m-smucker-co-insider-trading-activity-2cb6a94a9bd6.html",
-          "published_at": "2026-10-02T22:11:52"
-        },
-        {
-          "article_id": 1839,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Stock Titan",
-          "source_domain": "Stock Titan",
-          "headline": "A director acquires 226.391 and 1,466 stock units in J M Smucker (SJM), payable in shares after service ends.",
-          "url": "https://www.stocktitan.net/sec-filings/SJM/form-4-j-m-smucker-co-insider-trading-activity-12eb0858c508.html",
-          "published_at": "2026-10-02T22:16:52"
         }
       ]
     }
