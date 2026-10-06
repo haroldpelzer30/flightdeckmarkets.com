@@ -5,6 +5,167 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1697,
+      "title": "More than 51,000 Kentucky jobs were supported by Humana in 2025.",
+      "summary": "A new report by the University of Louisville details Humana's significant economic impact in Kentucky for 2025, showing nearly $20 billion in economic activity. Humana's operations directly and indirectly supported over 51,000 jobs and generated $3.8 billion in labor income across the state. The report emphasizes Humana's role as a major employer, healthcare partner, and community investor, contributing substantially to Kentucky's economy and social well-being.",
+      "event_type": "MARKET_NEWS",
+      "market_scope": "BROAD_MARKET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 49,
+      "published_at": "2026-10-06T12:06:58",
+      "first_seen_at": "2026-10-06T13:00:02.022541",
+      "assets": [
+        {
+          "symbol": "HUM",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.443227,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.935775
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": 0.845024
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.62978
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1864,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Stock Titan",
+          "source_domain": "Stock Titan",
+          "headline": "More than 51,000 Kentucky jobs were supported by Humana in 2025.",
+          "url": "https://www.stocktitan.net/news/HUM/humana-generates-nearly-20-billion-in-economic-impact-across-zdqea4d952vs.html",
+          "published_at": "2026-10-06T12:06:58"
+        }
+      ]
+    },
+    {
+      "event_id": 1698,
+      "title": "JP Morgan cuts target for Union Pacific stock to USD 322.00",
+      "summary": "JP Morgan has lowered its price target for Union Pacific (UNP) stock from $334.00 to $322.00 while maintaining a Neutral rating. This adjustment follows Union Pacific's Q2 2026 revenue of $6.86 billion, an increase of 12.00% year-over-year, though freight revenue excluding fuel grew less, indicating the importance of fuel surcharges. The next financial report is scheduled for October 22, 2026, which will provide further clarity on cost pressures and volume growth.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-06T12:01:40",
+      "first_seen_at": "2026-10-06T13:00:02.263116",
+      "assets": [
+        {
+          "symbol": "UNP",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.225372,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "JPM",
+          "asset_class": null,
+          "relevance_score": 0.647383,
+          "sentiment_score": 0.132109,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.921003
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.824661
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.748633
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1865,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "JP Morgan cuts target for Union Pacific stock to USD 322.00",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jp-morgan-cuts-target-for-union-pacific-stock-to-usd-322-00/70242126",
+          "published_at": "2026-10-06T12:01:40"
+        }
+      ]
+    },
+    {
+      "event_id": 1699,
+      "title": "NextEra’s $67 Billion Dominion Acquisition Faces Political Opposition in Virginia, FT Reports",
+      "summary": "NextEra Energy's proposed $67 billion acquisition of Dominion Energy is encountering significant political opposition in Virginia, as reported by the Financial Times. Virginia Governor Abigail Spanberger and other state officials have expressed deep skepticism, intervening in the regulatory process to seek measures for reducing electricity bills, protecting employment, and accelerating clean energy. In response, NextEra and Dominion have extended customer bill credits and increased commitments to retain employees to address these concerns amidst a surge in U.S. utility-sector transactions.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "HIGH",
+      "intelligence_score": 79,
+      "published_at": "2026-10-06T11:44:34",
+      "first_seen_at": "2026-10-06T13:00:02.573567",
+      "assets": [
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.228137,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 0.966693,
+          "sentiment_score": -0.217054,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.942007
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.617428
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1866,
+          "provider": "ALPHA_VANTAGE",
+          "source": "Yahoo Finance",
+          "source_domain": "Yahoo Finance",
+          "headline": "NextEra’s $67 Billion Dominion Acquisition Faces Political Opposition in Virginia, FT Reports",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-67-billion-dominion-acquisition-103547728.html",
+          "published_at": "2026-10-06T11:44:34"
+        }
+      ]
+    },
+    {
       "event_id": 1695,
       "title": "QeM Acquires Jet Lab Technologies Assets",
       "summary": "Quantum eMotion Corp. (QeM) has acquired all shares of SKV Technology Inc. to gain control of its SecureKey platform, a cybersecurity system. This acquisition integrates SecureKey with QeM’s Sentry-Q platform, creating a comprehensive \"full-stack, quantum-resilient cybersecurity architecture.\" The combined system aims to eliminate persistent key exposure, a major cause of cybersecurity breaches, by providing hardware-grade security protections through software across various environments.",
@@ -868,195 +1029,6 @@
           "headline": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
           "url": "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
           "published_at": "2026-10-05T13:41:45"
-        }
-      ]
-    },
-    {
-      "event_id": 1677,
-      "title": "JPMorgan Chase Earned More in 2025 Than Bank of America and Wells Fargo Combined. Can the Stock Keep Outrunning Them?",
-      "summary": "JPMorgan Chase has significantly outperformed Bank of America and Wells Fargo over the past three years, with its stock up nearly 130% since October 2023. This outperformance is attributed to JPMorgan's greater focus on corporate and investment banking, which contributed over half of its 2025 bottom line, contrasting with its competitors' larger reliance on consumer banking. While economic headwinds pose a threat to all banks, JPMorgan's business mix is currently more favorable, especially as demand for corporate fundraising is expected to increase.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "MEDIUM",
-      "intelligence_score": 67,
-      "published_at": "2026-10-05T12:26:29",
-      "first_seen_at": "2026-10-05T14:00:02.254289",
-      "assets": [
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.275246,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "JPM",
-          "asset_class": null,
-          "relevance_score": 0.940308,
-          "sentiment_score": 0.440481,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "BAC",
-          "asset_class": null,
-          "relevance_score": 0.833656,
-          "sentiment_score": -0.218697,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "NVDA",
-          "asset_class": null,
-          "relevance_score": 0.61106,
-          "sentiment_score": 0.340907,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "finance",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.922
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.813461
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.812632
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.7167
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1844,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Globe and Mail",
-          "source_domain": "The Globe and Mail",
-          "headline": "JPMorgan Chase Earned More in 2025 Than Bank of America and Wells Fargo Combined. Can the Stock Keep Outrunning Them?",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/",
-          "published_at": "2026-10-05T12:26:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1674,
-      "title": "Kenvue stock faces deal execution risks after leadership reshuffle",
-      "summary": "Kenvue (KVUE) stock is facing deal execution risks following a leadership reshuffle related to Kimberly-Clark's planned acquisition. While the second quarter saw a 3.0% sales increase, adjusted gross and operating margins declined. The market is weighing the transaction's potential value against integration challenges and margin pressures, with the stock remaining below its yearly high despite an analyst consensus target price above its current trading value.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-05T12:08:51",
-      "first_seen_at": "2026-10-05T13:00:02.528217",
-      "assets": [
-        {
-          "symbol": "KVUE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.234372,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.94529
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.843437
-        },
-        {
-          "topic": "life_sciences",
-          "relevance_score": 0.640839
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.637111
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1841,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Kenvue stock faces deal execution risks after leadership reshuffle",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kenvue-stock-faces-deal-execution-risks-after-leadership-reshuffle/70233023",
-          "published_at": "2026-10-05T12:08:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1675,
-      "title": "FedEx Corporation : Gets a Buy rating from JP Morgan",
-      "summary": "JP Morgan has reiterated its \"Buy\" rating for FedEx Corporation, with analyst Brian P. Ossenbeck maintaining a target price of $400, a minor adjustment from $399. The research from JP Morgan continues to view FedEx as a favorable investment opportunity.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 50,
-      "published_at": "2026-10-05T11:48:12",
-      "first_seen_at": "2026-10-05T13:00:02.823901",
-      "assets": [
-        {
-          "symbol": "FDX",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.423399,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "UPS",
-          "asset_class": null,
-          "relevance_score": 0.604334,
-          "sentiment_score": 0.131852,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.91594
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.822955
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1842,
-          "provider": "ALPHA_VANTAGE",
-          "source": "www.marketscreener.com",
-          "source_domain": "www.marketscreener.com",
-          "headline": "FedEx Corporation : Gets a Buy rating from JP Morgan",
-          "url": "https://www.marketscreener.com/news/fedex-corporation-gets-a-buy-rating-from-jp-morgan-ce785ddbd080fe26",
-          "published_at": "2026-10-05T11:48:12"
         }
       ]
     }
