@@ -5,6 +5,112 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1702,
+      "title": "VNET closes strategic investment. VNET stock gains 1.86 percent",
+      "summary": "VNET Group announced the closing of a strategic investment where PJ Millennium buyers acquired a significant 38.10% stake in the company. This transaction makes the new investor group a central participant in corporate decisions. The news comes as VNET reported strong second-quarter 2026 results, with wholesale revenue up 29.30%, and its stock gained 1.86 percent.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 54,
+      "published_at": "2026-10-06T13:53:00",
+      "first_seen_at": "2026-10-06T15:00:02.582456",
+      "assets": [
+        {
+          "symbol": "VNET",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.415709,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.942308
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.928086
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 0.826064
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": 0.71603
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.632394
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1869,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "VNET closes strategic investment. VNET stock gains 1.86 percent",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/vnet-closes-strategic-investment-vnet-stock-gains-1-86-percent/70242060",
+          "published_at": "2026-10-06T13:53:00"
+        }
+      ]
+    },
+    {
+      "event_id": 1703,
+      "title": "Avient stock gained 1.04 percent ahead of November results",
+      "summary": "Avient stock rose 1.04 percent to USD 41.60 on October 5, 2026, with the company scheduled to release its Q3 2026 results on November 4, 2026. This pre-announcement movement follows a strong Q2 2026, where adjusted EPS beat consensus estimates and revenue grew 5.8 percent year-over-year. Analysts have a \"Moderate Buy\" consensus with an average 12-month price target of USD 46.71, indicating potential upside.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 48,
+      "published_at": "2026-10-06T13:47:00",
+      "first_seen_at": "2026-10-06T15:00:02.848402",
+      "assets": [
+        {
+          "symbol": "AVNT",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.486781,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.94237
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": 0.60899
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": 0.605622
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1870,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Avient stock gained 1.04 percent ahead of November results",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/avient-stock-gained-1-04-percent-ahead-of-november-results/70242013",
+          "published_at": "2026-10-06T13:47:00"
+        }
+      ]
+    },
+    {
       "event_id": 1700,
       "title": "Constellation Energy stock outlook analysis after 20 year nuclear deal with Google",
       "summary": "Constellation Energy (CEG) has secured a 20-year nuclear power deal with Google (GOOGL), providing long-term revenue visibility. While this agreement validates the demand for reliable nuclear power and strengthens Constellation's strategic position, the stock's current price might already reflect much of this positive news. Investors should be aware that significant earnings benefits from the upgraded capacity aren't expected until 2028, making the near-term outlook valuation-sensitive despite the strategically bullish long-term prospects.",
@@ -915,116 +1021,6 @@
           "headline": "Patrick Industries stock faces merger hurdle near yearly low",
           "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/patrick-industries-stock-faces-merger-hurdle-near-yearly-low/70234973",
           "published_at": "2026-10-05T16:32:53"
-        }
-      ]
-    },
-    {
-      "event_id": 1681,
-      "title": "Why Did MFA Financial (NYSE:MFA) Hit A Yearly Low Today?",
-      "summary": "MFA Financial (NYSE:MFA) shares fell to a new yearly low due to a combination of its ex-dividend date, ongoing concerns about interest rates, and worries about the sustainability of its dividend given that it exceeds reported earnings. Despite this, research firms have split views on the mortgage REIT, with some analysts seeing value and setting price targets above current levels, while others maintain a bearish outlook. The company's valuation appears inexpensive, and institutional ownership remains solid, suggesting some professional investors see potential at lower prices.",
-      "event_type": "EARNINGS",
-      "market_scope": "BROAD_MARKET",
-      "market_impact": "NEUTRAL",
-      "importance": "LOW",
-      "intelligence_score": 53,
-      "published_at": "2026-10-05T15:30:24",
-      "first_seen_at": "2026-10-05T17:00:01.940302",
-      "assets": [
-        {
-          "symbol": "MFA-P-B",
-          "asset_class": null,
-          "relevance_score": 0.331714,
-          "sentiment_score": 0.002133,
-          "sentiment_label": "Neutral",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.916665
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.904906
-        },
-        {
-          "topic": "economy_monetary",
-          "relevance_score": 0.834285
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.738057
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1848,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Kalkine Media",
-          "source_domain": "Kalkine Media",
-          "headline": "Why Did MFA Financial (NYSE:MFA) Hit A Yearly Low Today?",
-          "url": "https://kalkinemedia.com/us/news/top-stories/why-did-mfa-financial-nysemfa-hit-a-yearly-low-today",
-          "published_at": "2026-10-05T15:30:24"
-        }
-      ]
-    },
-    {
-      "event_id": 1680,
-      "title": "Wells Fargo raises target for Consolidated Edison stock to USD 118",
-      "summary": "Wells Fargo has increased its price target for Consolidated Edison (Con Edison) stock to USD 118 from USD 108, upgrading its rating from \"Equal Weight\" to \"Overweight.\" This adjustment reflects Con Edison's defensive qualities amidst the AI trade, as well as its investments in electrification and reliability. The utility reported strong Q2 2026 revenues of USD 4.07 billion, a 13% increase year-over-year, and exceeded EPS estimates, maintaining its full-year adjusted EPS guidance.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-05T14:46:09",
-      "first_seen_at": "2026-10-05T16:00:02.297216",
-      "assets": [
-        {
-          "symbol": "ED",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.442686,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "WFC",
-          "asset_class": null,
-          "relevance_score": 0.713668,
-          "sentiment_score": 0.306276,
-          "sentiment_label": "Somewhat-Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 1.0
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.917712
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.738556
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1847,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Wells Fargo raises target for Consolidated Edison stock to USD 118",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wells-fargo-raises-target-for-consolidated-edison-stock-to-usd-118/70233822",
-          "published_at": "2026-10-05T14:46:09"
         }
       ]
     }
