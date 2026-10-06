@@ -5,6 +5,289 @@
   "event_count": 20,
   "events": [
     {
+      "event_id": 1704,
+      "title": "Dominion Energy stock rises 0.98 percent as merger review widens",
+      "summary": "Dominion Energy's stock increased by 0.98% to USD 61.62 as a Virginia ruling widened the review of its proposed USD 67.0 billion merger with NextEra Energy. The company reported strong Q2 2026 earnings, with revenue up 17.6% to USD 4.48 billion, exceeding analyst estimates. Despite the regulatory hurdles, Dominion and NextEra anticipate closing the merger in the second half of 2027, with analysts maintaining a \"Hold\" consensus on the stock.",
+      "event_type": "M&A",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "MEDIUM",
+      "intelligence_score": 70,
+      "published_at": "2026-10-06T15:04:38",
+      "first_seen_at": "2026-10-06T16:00:02.477621",
+      "assets": [
+        {
+          "symbol": "D",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.222716,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "NEE",
+          "asset_class": null,
+          "relevance_score": 0.74595,
+          "sentiment_score": 0.144426,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": 1.0
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.935448
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.839649
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.722281
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1871,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Dominion Energy stock rises 0.98 percent as merger review widens",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dominion-energy-stock-rises-0-98-percent-as-merger-review-widens/70243538",
+          "published_at": "2026-10-06T15:04:38"
+        }
+      ]
+    },
+    {
+      "event_id": 1705,
+      "title": "Alphabet Has the Biggest Upside in the Mag 7 Right Now: 64%",
+      "summary": "Alphabet (GOOG) has received a BUY rating with a price target of $434.48, indicating a potential 27.66% upside, largely driven by Google Cloud's impressive 82% revenue growth and a significant backlog. Despite a recent capital expenditure plan that temporarily made free cash flow negative, the company's strong operating cash flow and high interest coverage limit downside risks. Alphabet's valuation, with a P/E ratio of 14, is significantly lower than its peers like Microsoft and Meta, even though its cloud growth rate is higher, suggesting a substantial upside for investors.",
+      "event_type": "EARNINGS",
+      "market_scope": "SECTOR_OR_MULTI_ASSET",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 47,
+      "published_at": "2026-10-06T14:59:37",
+      "first_seen_at": "2026-10-06T16:00:02.866390",
+      "assets": [
+        {
+          "symbol": "GOOGL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.423424,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "GOOG",
+          "asset_class": null,
+          "relevance_score": 0.920839,
+          "sentiment_score": 0.447593,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "MSFT",
+          "asset_class": null,
+          "relevance_score": 0.835942,
+          "sentiment_score": 0.268382,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "META",
+          "asset_class": null,
+          "relevance_score": 0.717062,
+          "sentiment_score": 0.21249,
+          "sentiment_label": "Somewhat-Bullish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "AMZN",
+          "asset_class": null,
+          "relevance_score": 0.641662,
+          "sentiment_score": 0.10546,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.949007
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.901875
+        },
+        {
+          "topic": "technology",
+          "relevance_score": 0.832207
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1872,
+          "provider": "ALPHA_VANTAGE",
+          "source": "24/7 Wall St.",
+          "source_domain": "24/7 Wall St.",
+          "headline": "Alphabet Has the Biggest Upside in the Mag 7 Right Now: 64%",
+          "url": "https://247wallst.com/investing/2026/10/06/alphabet-has-the-biggest-upside-in-the-mag-7-right-now-64/",
+          "published_at": "2026-10-06T14:59:37"
+        }
+      ]
+    },
+    {
+      "event_id": 1706,
+      "title": "UBS reiterates Buy for Delta Air Lines stock",
+      "summary": "UBS has reiterated a Buy rating for Delta Air Lines (DAL) stock with a target price of USD 105.00, despite forecasting third-quarter earnings per share below consensus. The airline's next earnings report, scheduled for October 9, 2026, will be crucial in assessing fuel costs and operating margins, especially as another analyst firm, BofA, recently lowered its price target while maintaining a Buy rating.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "NEUTRAL",
+      "importance": "LOW",
+      "intelligence_score": 46,
+      "published_at": "2026-10-06T14:54:08",
+      "first_seen_at": "2026-10-06T16:00:03.184681",
+      "assets": [
+        {
+          "symbol": "DAL",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.146625,
+          "sentiment_label": "Neutral",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.933022
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": 0.91583
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": 0.843777
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1873,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "UBS reiterates Buy for Delta Air Lines stock",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubs-reiterates-buy-for-delta-air-lines-stock/70243398",
+          "published_at": "2026-10-06T14:54:08"
+        }
+      ]
+    },
+    {
+      "event_id": 1707,
+      "title": "AeroVironment stock gains 1.15 percent after earnings beat",
+      "summary": "AeroVironment's stock rose 1.15% after reporting fiscal Q1 2027 adjusted EPS of USD 0.59, significantly beating the USD 0.22 consensus, with revenue reaching USD 480.49 million. Despite the positive earnings, the stock remains 66.3% below its 52-week high, trading near its yearly low. The company's funded backlog increased by 37% to USD 1.5 billion, and analysts maintain a \"Moderate Buy\" consensus with a target price 64.6% above the current trading price.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BULLISH",
+      "importance": "LOW",
+      "intelligence_score": 50,
+      "published_at": "2026-10-06T14:38:31",
+      "first_seen_at": "2026-10-06T16:00:03.442288",
+      "assets": [
+        {
+          "symbol": "AVAV",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": 0.411006,
+          "sentiment_label": "Bullish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.945478
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.705754
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1874,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "AeroVironment stock gains 1.15 percent after earnings beat",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aerovironment-stock-gains-1-15-percent-after-earnings-beat/70242855",
+          "published_at": "2026-10-06T14:38:31"
+        }
+      ]
+    },
+    {
+      "event_id": 1708,
+      "title": "Carlyle Secured Lending stock absorbs Wells Fargo target cut after Q2 earnings miss",
+      "summary": "Carlyle Secured Lending (CGBD) stock traded at USD 10.62 on Nasdaq after its Q2 adjusted EPS of USD 0.3178 missed the consensus of USD 0.3232. Wells Fargo cut its price target for CGBD to USD 11.00 from USD 12.00 and moved its rating to Equal Weight due to concerns about leverage and funding costs. Despite this, the stock remains above its yearly low, and the company is set to pay a USD 0.35 dividend on October 16, fully covered by its net investment income.",
+      "event_type": "EARNINGS",
+      "market_scope": "COMPANY_SPECIFIC",
+      "market_impact": "BEARISH",
+      "importance": "LOW",
+      "intelligence_score": 52,
+      "published_at": "2026-10-06T14:28:57",
+      "first_seen_at": "2026-10-06T16:00:03.652463",
+      "assets": [
+        {
+          "symbol": "CGBD",
+          "asset_class": null,
+          "relevance_score": 1.0,
+          "sentiment_score": -0.26874,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        },
+        {
+          "symbol": "WFC",
+          "asset_class": null,
+          "relevance_score": 0.63203,
+          "sentiment_score": -0.345255,
+          "sentiment_label": "Somewhat-Bearish",
+          "relationship_type": null
+        }
+      ],
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": 0.925507
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": 0.801745
+        },
+        {
+          "topic": "finance",
+          "relevance_score": 0.741798
+        }
+      ],
+      "articles": [
+        {
+          "article_id": 1875,
+          "provider": "ALPHA_VANTAGE",
+          "source": "AD HOC NEWS",
+          "source_domain": "AD HOC NEWS",
+          "headline": "Carlyle Secured Lending stock absorbs Wells Fargo target cut after Q2 earnings miss",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/carlyle-secured-lending-stock-absorbs-wells-fargo-target-cut-after-q2/70243120",
+          "published_at": "2026-10-06T14:28:57"
+        }
+      ]
+    },
+    {
       "event_id": 1702,
       "title": "VNET closes strategic investment. VNET stock gains 1.86 percent",
       "summary": "VNET Group announced the closing of a strategic investment where PJ Millennium buyers acquired a significant 38.10% stake in the company. This transaction makes the new investor group a central participant in corporate decisions. The news comes as VNET reported strong second-quarter 2026 results, with wholesale revenue up 29.30%, and its stock gained 1.86 percent.",
@@ -762,265 +1045,6 @@
           "headline": "Park National Corp OH Acquires 163,920 Shares of Cintas Corporation $CTAS",
           "url": "https://www.marketbeat.com/instant-alerts/filing-park-national-corp-oh-acquires-163920-shares-of-cintas-corporation-ctas-2026-10-05/",
           "published_at": "2026-10-05T18:00:22"
-        }
-      ]
-    },
-    {
-      "event_id": 1682,
-      "title": "Cintas Corporation $CTAS Shares Sold by Argent Capital Management LLC",
-      "summary": "Argent Capital Management LLC reduced its stake in Cintas Corporation (NASDAQ:CTAS) by 4.9% in the third quarter, selling 9,505 shares. Despite this, Cintas remains the 24th largest position for Argent Capital Management LLC. Other institutional investors like BlackRock Inc. and Bank of New York Mellon Corp significantly increased their holdings in the company.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 48,
-      "published_at": "2026-10-05T17:16:33",
-      "first_seen_at": "2026-10-05T18:00:02.066054",
-      "assets": [
-        {
-          "symbol": "CTAS",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.391887,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.947802
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.918517
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.805201
-        },
-        {
-          "topic": "economy_macro",
-          "relevance_score": 0.627421
-        },
-        {
-          "topic": "retail_wholesale",
-          "relevance_score": 0.62029
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1849,
-          "provider": "ALPHA_VANTAGE",
-          "source": "MarketBeat",
-          "source_domain": "MarketBeat",
-          "headline": "Cintas Corporation $CTAS Shares Sold by Argent Capital Management LLC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-cintas-corporation-ctas-shares-sold-by-argent-capital-management-llc-2026-10-05/",
-          "published_at": "2026-10-05T17:16:33"
-        }
-      ]
-    },
-    {
-      "event_id": 1683,
-      "title": "Plumas Bancorp stock reports a Q2 earnings beat",
-      "summary": "Plumas Bancorp (PLBC) reported a strong Q2 earnings beat, with net income rising 58% to USD 10.0 million and diluted EPS of USD 1.41 against an estimate of USD 1.37. The company's revenue also exceeded expectations, reaching USD 28.76 million. Analysts maintain a \"Buy\" consensus with an average price target of USD 66.33, indicating potential upside from its current trading price of USD 62.00.",
-      "event_type": "EARNINGS",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 56,
-      "published_at": "2026-10-05T16:57:37",
-      "first_seen_at": "2026-10-05T18:00:02.368876",
-      "assets": [
-        {
-          "symbol": "PLBC",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.475783,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "earnings",
-          "relevance_score": 0.904552
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.828134
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.723996
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1850,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Plumas Bancorp stock reports a Q2 earnings beat",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/plumas-bancorp-stock-reports-a-q2-earnings-beat/70234465",
-          "published_at": "2026-10-05T16:57:37"
-        }
-      ]
-    },
-    {
-      "event_id": 1684,
-      "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
-      "summary": "A Virginia State Corporation Commission hearing examiner has ordered Dominion Energy and NextEra to release a \"Robo memo\" detailing an investigation into Florida Power & Light's alleged illegal political activity. The ruling came during the review of their proposed $67 billion merger, emphasizing that the governance and political structure of the companies are relevant to the merger assessment. This decision follows a motion from consumer advocacy groups like Clean Virginia, which argued the memo was crucial for evaluating the \"managerial fitness\" of the entities involved.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "LOW",
-      "intelligence_score": 47,
-      "published_at": "2026-10-05T16:38:51",
-      "first_seen_at": "2026-10-05T18:00:02.621012",
-      "assets": [
-        {
-          "symbol": "NEE",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.27672,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        },
-        {
-          "symbol": "D",
-          "asset_class": null,
-          "relevance_score": 0.986721,
-          "sentiment_score": -0.271595,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.916169
-        },
-        {
-          "topic": "energy_transportation",
-          "relevance_score": 0.843247
-        },
-        {
-          "topic": "economy_fiscal",
-          "relevance_score": 0.638618
-        },
-        {
-          "topic": "finance",
-          "relevance_score": 0.617631
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1851,
-          "provider": "ALPHA_VANTAGE",
-          "source": "Utility Dive",
-          "source_domain": "Utility Dive",
-          "headline": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
-          "url": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
-          "published_at": "2026-10-05T16:38:51"
-        }
-      ]
-    },
-    {
-      "event_id": 1685,
-      "title": "Pentair closes $1.4B acquisition of century-old Cranston manufacturer",
-      "summary": "Pentair has completed its $1.4 billion acquisition of Cranston, RI-based Taco Comfort Solutions. The century-old hydronic systems maker, known for its significant presence in Rhode Island and employment of approximately 1,000 people, will retain its branding under the new ownership. This acquisition positions Pentair to capitalize on growth trends in industry, infrastructure, energy efficiency, and data-center expansion.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BULLISH",
-      "importance": "LOW",
-      "intelligence_score": 54,
-      "published_at": "2026-10-05T16:36:29",
-      "first_seen_at": "2026-10-05T18:00:02.880557",
-      "assets": [
-        {
-          "symbol": "PNR",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": 0.425394,
-          "sentiment_label": "Bullish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.944524
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.749251
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1852,
-          "provider": "ALPHA_VANTAGE",
-          "source": "The Business Journals",
-          "source_domain": "The Business Journals",
-          "headline": "Pentair closes $1.4B acquisition of century-old Cranston manufacturer",
-          "url": "https://www.bizjournals.com/rhodeisland/news/2026/10/05/pentair-taco-deal-closes.html",
-          "published_at": "2026-10-05T16:36:29"
-        }
-      ]
-    },
-    {
-      "event_id": 1686,
-      "title": "Patrick Industries stock faces merger hurdle near yearly low",
-      "summary": "Patrick Industries (PATK) stock is trading near its yearly low as the company navigates a proposed merger with LCI Industries. The merger's antitrust filing process reset with a new waiting period, posing a regulatory hurdle. Despite Q2 revenue exceeding estimates, adjusted EPS missed, and analysts show a wide valuation gap with an average target significantly above the current stock price.",
-      "event_type": "M&A",
-      "market_scope": "COMPANY_SPECIFIC",
-      "market_impact": "BEARISH",
-      "importance": "MEDIUM",
-      "intelligence_score": 59,
-      "published_at": "2026-10-05T16:32:53",
-      "first_seen_at": "2026-10-05T18:00:03.102675",
-      "assets": [
-        {
-          "symbol": "PATK",
-          "asset_class": null,
-          "relevance_score": 1.0,
-          "sentiment_score": -0.211156,
-          "sentiment_label": "Somewhat-Bearish",
-          "relationship_type": null
-        }
-      ],
-      "topics": [
-        {
-          "topic": "mergers_and_acquisitions",
-          "relevance_score": 0.917528
-        },
-        {
-          "topic": "earnings",
-          "relevance_score": 0.816495
-        },
-        {
-          "topic": "financial_markets",
-          "relevance_score": 0.744361
-        },
-        {
-          "topic": "manufacturing",
-          "relevance_score": 0.648948
-        },
-        {
-          "topic": "real_estate",
-          "relevance_score": 0.618766
-        }
-      ],
-      "articles": [
-        {
-          "article_id": 1853,
-          "provider": "ALPHA_VANTAGE",
-          "source": "AD HOC NEWS",
-          "source_domain": "AD HOC NEWS",
-          "headline": "Patrick Industries stock faces merger hurdle near yearly low",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/patrick-industries-stock-faces-merger-hurdle-near-yearly-low/70234973",
-          "published_at": "2026-10-05T16:32:53"
         }
       ]
     }
